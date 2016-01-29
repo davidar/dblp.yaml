@@ -1,0 +1,617 @@
+---
+references:
+- id: conf/bsdcon/SatoS02
+  type: paper-conference
+  author:
+  - family: Sato
+    given: Hiroki
+  - family: Sekine
+    given: Keitaro
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Experiences on an open source translation effort in japan
+  container-title: BSDCon
+  publisher: USENIX
+  page: '19-26'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/sato.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Hsu03
+  type: paper-conference
+  author:
+  - family: Hsu
+    given: Jeffrey
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Reasoning about sMP in freeBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '1-6'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/hsu.html
+
+- id: conf/bsdcon/Linden02
+  type: paper-conference
+  author:
+  - family: Linden
+    given: Frank
+    dropping-particle: van der
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: 'Porting netBSD to the aMD x86-64: A case study in oS portability'
+  title-short: Porting netBSD to the aMD x86-64
+  container-title: BSDCon
+  publisher: USENIX
+  page: '1-9'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/linden.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Gerbarg02
+  type: paper-conference
+  author:
+  - family: Gerbarg
+    given: Louis G.
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: 'Advanced synchronization in mac oS x: Extending uNIX to sMP and real-time'
+  title-short: Advanced synchronization in mac oS x
+  container-title: BSDCon
+  publisher: USENIX
+  page: '37-45'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/gerbarg.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Hawley03
+  type: paper-conference
+  author:
+  - family: Hawley
+    given: Michael
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'Invited talk: Post-digital possibilities'
+  title-short: Invited talk
+  container-title: BSDCon
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A181
+
+- id: conf/bsdcon/SanchezV02
+  type: paper-conference
+  author:
+  - family: Sánchez
+    given: Wilfredo
+  - family: Vechten
+    given: Kevin Van
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: SystemStarter and the mac oS x startup process
+  container-title: BSDCon
+  publisher: USENIX
+  page: '123-129'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/sanchez.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/PozarP03
+  type: paper-conference
+  author:
+  - family: Pozar
+    given: Tim
+  - family: Peterson
+    given: Matt
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Long range 802.11 wANs
+  container-title: BSDCon
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/pozar.pdf
+
+- id: conf/bsdcon/Keromytis03
+  type: paper-conference
+  author:
+  - family: Keromytis
+    given: Angelos D.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'Tagging data in the network stack: Mbuf\_tags'
+  title-short: Tagging data in the network stack
+  container-title: BSDCon
+  publisher: USENIX
+  page: '125-132'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/keromytis.html
+
+- id: conf/bsdcon/Glass02
+  type: paper-conference
+  author:
+  - family: Glass
+    given: Brett
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Log monitors in bSD uNIX
+  container-title: BSDCon
+  publisher: USENIX
+  page: '131-142'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/glass.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/MewburnG03
+  type: paper-conference
+  author:
+  - family: Mewburn
+    given: Luke
+  - family: '0001'
+    given: Matthew Green
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'Build.sh: Cross-building netBSD'
+  title-short: Build.sh
+  container-title: BSDCon
+  publisher: USENIX
+  page: '47-56'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/mewburn.html
+
+- id: conf/bsdcon/EirakuS03
+  type: paper-conference
+  author:
+  - family: Eiraku
+    given: Hideki
+  - family: Shinjo
+    given: Yasushi
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Running bSD kernels as user processes by partial emulation and rewriting
+    of machine instructions
+  container-title: BSDCon
+  publisher: USENIX
+  page: '91-102'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/eiraku.html
+
+- id: conf/bsdcon/Rightnour02
+  type: paper-conference
+  author:
+  - family: Rightnour
+    given: Tim
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: 'Sushi: An extensible human interface for netBSD'
+  title-short: Sushi
+  container-title: BSDCon
+  publisher: USENIX
+  page: '143-151'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/rightnour.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/2003
+  type: book
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Proceedings of bSDCon 2003, san mateo, california, uSA, september 8-12, 2003
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A181
+
+- id: conf/bsdcon/Losh02
+  type: paper-conference
+  author:
+  - family: Losh
+    given: M. Warner
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Problems updating freeBSD’s card system from iSA to pCI
+  container-title: BSDCon
+  publisher: USENIX
+  page: '11-18'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/losh.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Lemon02
+  type: paper-conference
+  author:
+  - family: Lemon
+    given: Jonathan
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Resisting sYN flood doS attacks with a sYN cache
+  container-title: BSDCon
+  publisher: USENIX
+  page: '89-97'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/lemon.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/ThorpeB03
+  type: paper-conference
+  author:
+  - family: Thorpe
+    given: Jason R.
+  - family: Briggs
+    given: Allen K.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'The wHBA project: Experiences “deeply embedding” netBSD'
+  title-short: The wHBA project
+  container-title: BSDCon
+  publisher: USENIX
+  page: '141-152'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/thorpe.html
+
+- id: conf/bsdcon/Magoutis02
+  type: paper-conference
+  author:
+  - family: Magoutis
+    given: Kostas
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Design and implementation of a direct access file system (dAFS) kernel server
+    for freeBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '65-76'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/magoutis.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/DavisAGL03
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Brooks
+  - family: AuYeung
+    given: Michael
+  - family: Green
+    given: Gary
+  - family: Lee
+    given: Craig A.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Building a high-performance computing cluster using freeBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '35-46'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/davis.html
+
+- id: conf/bsdcon/McKusick03
+  type: paper-conference
+  author:
+  - family: McKusick
+    given: Marshall K.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Enhancements to the fast filesystem to support multi-terabyte storage systems
+  container-title: BSDCon
+  publisher: USENIX
+  page: '79-90'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/mckusick.html
+
+- id: conf/bsdcon/2002
+  type: book
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Proceedings of bSDCon 2002, san francisco, california, uSA, february 11-14,
+    2002
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A199
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Leffler03a
+  type: paper-conference
+  author:
+  - family: Leffler
+    given: Samuel J.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'Fast iPSec: A high-performance iPsec implementation'
+  title-short: Fast iPSec
+  container-title: BSDCon
+  publisher: USENIX
+  page: '133-140'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/leffler_ipsec.html
+
+- id: conf/bsdcon/Murray02
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Mark R. V.
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: An implementation of the yarrow pRNG for freeBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '47-53'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/murray.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/LidlLB02
+  type: paper-conference
+  author:
+  - family: Lidl
+    given: Kurt J.
+  - family: Lidl
+    given: Deborah G.
+  - family: Borman
+    given: Paul R.
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: 'Flexible packet filtering: Providing a rich toolbox'
+  title-short: Flexible packet filtering
+  container-title: BSDCon
+  publisher: USENIX
+  page: '99-110'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/lidl.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Roberson03
+  type: paper-conference
+  author:
+  - family: Roberson
+    given: Jeff
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'ULE: A modern scheduler for freeBSD'
+  title-short: ULE
+  container-title: BSDCon
+  publisher: USENIX
+  page: '17-28'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/roberson.html
+
+- id: conf/bsdcon/Baldwin03
+  type: paper-conference
+  author:
+  - family: Baldwin
+    given: John H.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Using freeBSD to render realtime localized audio and video
+  container-title: BSDCon
+  publisher: USENIX
+  page: '115-124'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/baldwin.html
+
+- id: conf/bsdcon/McKusick02
+  type: paper-conference
+  author:
+  - family: McKusick
+    given: Marshall K.
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Running “fsck” in the background
+  container-title: BSDCon
+  publisher: USENIX
+  page: '55-64'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/mckusick.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Baldwin02
+  type: paper-conference
+  author:
+  - family: Baldwin
+    given: John H.
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Locking in the multithreaded freeBSD kernel
+  container-title: BSDCon
+  publisher: USENIX
+  page: '27-35'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/baldwin.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Kamp03
+  type: paper-conference
+  author:
+  - family: Kamp
+    given: Poul-Henning
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: GBDE-gEOM based disk encryption
+  container-title: BSDCon
+  publisher: USENIX
+  page: '57-68'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/kamp.html
+
+- id: conf/bsdcon/Neumann03
+  type: paper-conference
+  author:
+  - family: Neumann
+    given: Peter G.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Social and technical implications of nonproprietary software
+  container-title: BSDCon
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A181
+
+- id: conf/bsdcon/Losh03
+  type: paper-conference
+  author:
+  - family: Losh
+    given: M. Warner
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Devd - a device configuration daemon
+  container-title: BSDCon
+  publisher: USENIX
+  page: '7-16'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/losh.html
+
+- id: conf/bsdcon/Percival03
+  type: paper-conference
+  author:
+  - family: Percival
+    given: Colin
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: An automated binary security update system for freeBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '29-34'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/percival.html
+
+- id: conf/bsdcon/Rosenthal03
+  type: paper-conference
+  author:
+  - family: Rosenthal
+    given: David S. H.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: A digital preservation network appliance based on openBSD
+  container-title: BSDCon
+  publisher: USENIX
+  page: '103-114'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/rosenthal.html
+
+- id: conf/bsdcon/Henning03
+  type: paper-conference
+  author:
+  - family: Henning
+    given: Michi
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: 'Keynote: Computing fallacies (or, what is the world coming to?)'
+  title-short: Keynote
+  container-title: BSDCon
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A181
+
+- id: conf/bsdcon/Leffler03
+  type: paper-conference
+  author:
+  - family: Leffler
+    given: Samuel J.
+  editor:
+  - family: Shapiro
+    given: Gregory Neil
+  issued:
+  - year: '2003'
+  title: Cryptographic device support for freeBSD (awarded best paper!)
+  container-title: BSDCon
+  publisher: USENIX
+  page: '69-78'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon03/tech/leffler_crypto.html
+
+- id: conf/bsdcon/Kamp02
+  type: paper-conference
+  author:
+  - family: Kamp
+    given: Poul-Henning
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: Rethinking /dev and devices in the uNIX kernel
+  container-title: BSDCon
+  publisher: USENIX
+  page: '77-88'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/kamp.html
+  ISBN: '1-880446-02-2'
+
+- id: conf/bsdcon/Schadow02
+  type: paper-conference
+  author:
+  - family: Schadow
+    given: Gunther
+  editor:
+  - family: Leffler
+    given: Samuel J.
+  issued:
+  - year: '2002'
+  title: A freeBSD-based low-cost broadband vPN router for a telemedicine application
+  container-title: BSDCon
+  publisher: USENIX
+  page: '111-122'
+  URL: http://www.usenix.org/publications/library/proceedings/bsdcon02/schadow.html
+  ISBN: '1-880446-02-2'
+...

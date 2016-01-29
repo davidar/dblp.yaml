@@ -1,0 +1,2894 @@
+---
+references:
+- id: conf/paste/PamnanyJ08
+  type: paper-conference
+  author:
+  - family: Pamnany
+    given: Kiran
+  - family: Jannotti
+    given: John
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: 'Elyze: Enabling safe parallelism in event-driven servers'
+  title-short: Elyze
+  container-title: PASTE
+  publisher: ACM
+  page: '15-21'
+  URL: http://doi.acm.org/10.1145/1512475.1512479
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/Morrisett02
+  type: paper-conference
+  author:
+  - family: Morrisett
+    given: J. Gregory
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Analysis issues for cyclone
+  container-title: PASTE
+  publisher: ACM
+  page: '26'
+  URL: http://doi.acm.org/10.1145/586094.586096
+
+- id: conf/paste/HampapuramYD05
+  type: paper-conference
+  author:
+  - family: Hampapuram
+    given: Hari
+  - family: Yang
+    given: Yue
+  - family: Das
+    given: Manuvir
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Symbolic path simulation in path-sensitive dataflow analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '52-58'
+  URL: http://doi.acm.org/10.1145/1108792.1108808
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/FlanaganF10
+  type: paper-conference
+  author:
+  - family: Flanagan
+    given: Cormac
+  - family: Freund
+    given: Stephen N.
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: The roadRunner dynamic analysis framework for concurrent programs
+  container-title: PASTE
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1806672.1806674
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/PearceKH04
+  type: paper-conference
+  author:
+  - family: Pearce
+    given: David J.
+  - family: Kelly
+    given: Paul H. J.
+  - family: Hankin
+    given: Chris
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Efficient field-sensitive pointer analysis for c
+  container-title: PASTE
+  publisher: ACM
+  page: '37-42'
+  URL: http://doi.acm.org/10.1145/996821.996835
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/ZhangRL98
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Sean
+  - family: Ryder
+    given: Barbara G.
+  - family: Landi
+    given: William
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Experiments with combined analysis for pointer aliasing
+  container-title: PASTE
+  publisher: ACM
+  page: '11-18'
+  URL: http://doi.acm.org/10.1145/277631.277635
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/HovemeyerP07
+  type: paper-conference
+  author:
+  - family: Hovemeyer
+    given: David
+  - family: Pugh
+    given: William
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Finding more null pointer bugs, but not too many
+  container-title: PASTE
+  publisher: ACM
+  page: '9-14'
+  URL: http://doi.acm.org/10.1145/1251535.1251537
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/ApiwattanapongH02
+  type: paper-conference
+  author:
+  - family: Apiwattanapong
+    given: Taweesup
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Selective path profiling
+  container-title: PASTE
+  publisher: ACM
+  page: '35-42'
+  URL: http://doi.acm.org/10.1145/586094.586104
+
+- id: conf/paste/ZhangR07
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Weilei
+  - family: Ryder
+    given: Barbara G.
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Discovering accurate interclass test dependences
+  container-title: PASTE
+  publisher: ACM
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/1251535.1251545
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/Steindl99
+  type: paper-conference
+  author:
+  - family: Steindl
+    given: Christoph
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Benefits of a data flow-aware programming environment
+  container-title: PASTE
+  publisher: ACM
+  page: '105-109'
+  URL: http://doi.acm.org/10.1145/316158.316187
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/Leavens04
+  type: paper-conference
+  author:
+  - family: Leavens
+    given: Gary T.
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: 'Invited talk: JML framed!'
+  title-short: Invited talk
+  container-title: PASTE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/996821.996822
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/PutSMBCSB05
+  type: paper-conference
+  author:
+  - family: Put
+    given: Ludo Van
+  - family: Sutter
+    given: Bjorn De
+  - family: Madou
+    given: Matias
+  - family: Bus
+    given: Bruno De
+  - family: Chanet
+    given: Dominique
+  - family: Smits
+    given: Kristof
+  - family: Bosschere
+    given: Koen De
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: 'LANCET: A nifty code editing tool'
+  title-short: LANCET
+  container-title: PASTE
+  publisher: ACM
+  page: '75-81'
+  URL: http://doi.acm.org/10.1145/1108792.1108812
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/FlanaganF01
+  type: paper-conference
+  author:
+  - family: Flanagan
+    given: Cormac
+  - family: Freund
+    given: Stephen N.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Detecting race conditions in large programs
+  container-title: PASTE
+  publisher: ACM
+  page: '90-96'
+  URL: http://doi.acm.org/10.1145/379605.379687
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/LiangPH01
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Donglin
+  - family: Pennings
+    given: Maikel
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Extending and evaluating flow-insenstitive and context-insensitive points-to
+    analyses for java
+  container-title: PASTE
+  publisher: ACM
+  page: '73-79'
+  URL: http://doi.acm.org/10.1145/379605.379676
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/ChinMMM07
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Brian
+  - family: Marino
+    given: Daniel
+  - family: Markstrum
+    given: Shane
+  - family: Millstein
+    given: Todd D.
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Enforcing and validating user-defined programming disciplines
+  container-title: PASTE
+  publisher: ACM
+  page: '85-86'
+  URL: http://doi.acm.org/10.1145/1251535.1251550
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/MizushimaMY10
+  type: paper-conference
+  author:
+  - family: Mizushima
+    given: Kota
+  - family: Maeda
+    given: Atusi
+  - family: Yamaguchi
+    given: Yoshinori
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Packrat parsers can handle practical grammars in mostly constant space
+  container-title: PASTE
+  publisher: ACM
+  page: '29-36'
+  URL: http://doi.acm.org/10.1145/1806672.1806679
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/MarronMHSK08
+  type: paper-conference
+  author:
+  - family: Marron
+    given: Mark
+  - family: Méndez-Lojo
+    given: Mario
+  - family: Hermenegildo
+    given: Manuel V.
+  - family: Stefanovic
+    given: Darko
+  - family: Kapur
+    given: Deepak
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Sharing analysis of arrays, collections, and recursive structures
+  container-title: PASTE
+  publisher: ACM
+  page: '43-49'
+  URL: http://doi.acm.org/10.1145/1512475.1512485
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/AyewahP10
+  type: paper-conference
+  author:
+  - family: Ayewah
+    given: Nathaniel
+  - family: Pugh
+    given: William
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Null dereference analysis in practice
+  container-title: PASTE
+  publisher: ACM
+  page: '65-72'
+  URL: http://doi.acm.org/10.1145/1806672.1806686
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/IslamKBH10
+  type: paper-conference
+  author:
+  - family: Islam
+    given: Syed S.
+  - family: Krinke
+    given: Jens
+  - family: Binkley
+    given: David
+  - family: Harman
+    given: Mark
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Coherent dependence clusters
+  container-title: PASTE
+  publisher: ACM
+  page: '53-60'
+  URL: http://doi.acm.org/10.1145/1806672.1806683
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/RenierisCR04
+  type: paper-conference
+  author:
+  - family: Renieris
+    given: Manos
+  - family: Chan-Tin
+    given: Sébastien
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Elided conditionals
+  container-title: PASTE
+  publisher: ACM
+  page: '52-57'
+  URL: http://doi.acm.org/10.1145/996821.996839
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/HaC10
+  type: paper-conference
+  author:
+  - family: Ha
+    given: Jungwoo
+  - family: Crago
+    given: Stephen P.
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Opportunities for concurrent dynamic analysis with explicit inter-core communication
+  container-title: PASTE
+  publisher: ACM
+  page: '17-20'
+  URL: http://doi.acm.org/10.1145/1806672.1806676
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/1999
+  type: book
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Proceedings of the sIGPLAN/SIGSOFT workshop on program analysis for software
+    tools and engineering, pASTE ’99, toulouse, france, september 6, 1999
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=316158
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/LiuM08
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yin
+  - family: Milanova
+    given: Ana
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Static analysis for inference of explicit information flow
+  container-title: PASTE
+  publisher: ACM
+  page: '50-56'
+  URL: http://doi.acm.org/10.1145/1512475.1512486
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/AncourtN01
+  type: paper-conference
+  author:
+  - family: Ancourt
+    given: Corinne
+  - family: Nguyen
+    given: Thi Viet Nga
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Array resizing for scientific code debugging, maintenance and reuse
+  container-title: PASTE
+  publisher: ACM
+  page: '32-37'
+  URL: http://doi.acm.org/10.1145/379605.379656
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/XuPV07
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Haiying
+  - family: Pickett
+    given: Christopher J. F.
+  - family: Verbrugge
+    given: Clark
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Dynamic purity analysis for java programs
+  container-title: PASTE
+  publisher: ACM
+  page: '75-82'
+  URL: http://doi.acm.org/10.1145/1251535.1251548
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/Rubio-GonzalezL10
+  type: paper-conference
+  author:
+  - family: Rubio-González
+    given: Cindy
+  - family: Liblit
+    given: Ben
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: 'Expect the unexpected: Error code mismatches between documentation and
+    the real world'
+  title-short: Expect the unexpected
+  container-title: PASTE
+  publisher: ACM
+  page: '73-80'
+  URL: http://doi.acm.org/10.1145/1806672.1806687
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/ShonleGL08
+  type: paper-conference
+  author:
+  - family: Shonle
+    given: Macneil
+  - family: Griswold
+    given: William G.
+  - family: Lerner
+    given: Sorin
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Addressing common crosscutting problems with arcum
+  container-title: PASTE
+  publisher: ACM
+  page: '64-69'
+  URL: http://doi.acm.org/10.1145/1512475.1512489
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/1998
+  type: book
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Proceedings of the sIGPLAN/SIGSOFT workshop on program analysis for software
+    tools and engineering, pASTE ’98, montreal, canada, june 16, 1998
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=277631
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/StroutMH05
+  type: paper-conference
+  author:
+  - family: Strout
+    given: Michelle Mills
+  - family: Mellor-Crummey
+    given: John M.
+  - family: Hovland
+    given: Paul D.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Representation-independent program analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '67-74'
+  URL: http://doi.acm.org/10.1145/1108792.1108810
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/VitasekBH13
+  type: paper-conference
+  author:
+  - family: Vitásek
+    given: Matej
+  - family: Binder
+    given: Walter
+  - family: Hauswirth
+    given: Matthias
+  issued:
+  - year: '2013'
+  title: 'ShadowData: Shadowing heap objects in java'
+  title-short: ShadowData
+  container-title: PASTE
+  page: '17-24'
+  URL: http://doi.acm.org/10.1145/2462029.2462032
+
+- id: conf/paste/PollockVSHFM07
+  type: paper-conference
+  author:
+  - family: Pollock
+    given: Lori L.
+  - family: Vijay-Shanker
+    given: K.
+  - family: Shepherd
+    given: David C.
+  - family: Hill
+    given: Emily
+  - family: Fry
+    given: Zachary P.
+  - family: Maloor
+    given: Kishen
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Introducing natural language program analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '15-16'
+  URL: http://doi.acm.org/10.1145/1251535.1251538
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/MockDCE01
+  type: paper-conference
+  author:
+  - family: Mock
+    given: Markus
+  - family: Das
+    given: Manuvir
+  - family: Chambers
+    given: Craig
+  - family: Eggers
+    given: Susan J.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: 'Dynamic points-to sets: A comparison with static analyses and potential
+    applications in program understanding and optimization'
+  title-short: Dynamic points-to sets
+  container-title: PASTE
+  publisher: ACM
+  page: '66-72'
+  URL: http://doi.acm.org/10.1145/379605.379671
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/HarroldRWY98
+  type: paper-conference
+  author:
+  - family: Harrold
+    given: Mary Jean
+  - family: Rothermel
+    given: Gregg
+  - family: Wu
+    given: Rui
+  - family: Yi
+    given: Liu
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: An empirical investigation of program spectra
+  container-title: PASTE
+  publisher: ACM
+  page: '83-90'
+  URL: http://doi.acm.org/10.1145/277631.277647
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/CalmanZ10
+  type: paper-conference
+  author:
+  - family: Calman
+    given: Silvian
+  - family: Zhu
+    given: Jianwen
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Interprocedural induction variable analysis based on interprocedural sSA
+    form iR
+  container-title: PASTE
+  publisher: ACM
+  page: '37-44'
+  URL: http://doi.acm.org/10.1145/1806672.1806680
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/2001
+  type: book
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Proceedings of the 2001 aCM sIGPLAN-sIGSOFT workshop on program analysis
+    for software tools and engineering, pASTE’01, snowbird, utah, uSA, june 18-19,
+    2001
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=379605
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/JefferyZTB98
+  type: paper-conference
+  author:
+  - family: Jeffery
+    given: Clinton L.
+  - family: Zhou
+    given: Wenyi
+  - family: Templer
+    given: Kevin
+  - family: Brazell
+    given: Michael
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: A lightweight architecture for program execution monitoring
+  container-title: PASTE
+  publisher: ACM
+  page: '67-74'
+  URL: http://doi.acm.org/10.1145/277631.277644
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/BrabandMS01
+  type: paper-conference
+  author:
+  - family: Brabrand
+    given: Claus
+  - family: Møller
+    given: Anders
+  - family: Schwartzbach
+    given: Michael I.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Static validation of dynamically generated hTML
+  container-title: PASTE
+  publisher: ACM
+  page: '38-45'
+  URL: http://doi.acm.org/10.1145/379605.379657
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/ModiRA13
+  type: paper-conference
+  author:
+  - family: Modi
+    given: Varun
+  - family: Roy
+    given: Subhajit
+  - family: Aggarwal
+    given: Sanjeev K.
+  issued:
+  - year: '2013'
+  title: Exploring program phases for statistical bug localization
+  container-title: PASTE
+  page: '33-40'
+  URL: http://doi.acm.org/10.1145/2462029.2462034
+
+- id: conf/paste/NaumovichCO98
+  type: paper-conference
+  author:
+  - family: Naumovich
+    given: Gleb
+  - family: Clarke
+    given: Lori A.
+  - family: Osterweil
+    given: Leon J.
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Efficient composite data flow analysis applied to concurrent programs
+  container-title: PASTE
+  publisher: ACM
+  page: '51-58'
+  URL: http://doi.acm.org/10.1145/277631.277642
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/LiangH99
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Donglin
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: 'Equivalence analysis: A general technique to improve the efficiency of
+    data-flow analyses in the presence of pointers'
+  title-short: Equivalence analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '39-46'
+  URL: http://doi.acm.org/10.1145/316158.316175
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/Webber01
+  type: paper-conference
+  author:
+  - family: Webber
+    given: Adam Brooks
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: What is a class invariant?
+  container-title: PASTE
+  publisher: ACM
+  page: '86-89'
+  URL: http://doi.acm.org/10.1145/379605.379685
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/Preston99
+  type: paper-conference
+  author:
+  - family: Preston
+    given: Nicky Williams
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: New type signatures for legacy fortran subroutines
+  container-title: PASTE
+  publisher: ACM
+  page: '76-85'
+  URL: http://doi.acm.org/10.1145/316158.316184
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/NystromKH04
+  type: paper-conference
+  author:
+  - family: Nystrom
+    given: Erik M.
+  - family: Kim
+    given: Hong-Seok
+  - family: Hwu
+    given: Wen-mei W.
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Importance of heap specialization in pointer analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '43-48'
+  URL: http://doi.acm.org/10.1145/996821.996836
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/KhurshidS05
+  type: paper-conference
+  author:
+  - family: Khurshid
+    given: Sarfraz
+  - family: Suen
+    given: Yuk Lai
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Generalizing symbolic execution to library classes
+  container-title: PASTE
+  publisher: ACM
+  page: '103-110'
+  URL: http://doi.acm.org/10.1145/1108792.1108817
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/ChaseCHY98
+  type: paper-conference
+  author:
+  - family: Chase
+    given: Melissa P.
+  - family: Christey
+    given: Steven M.
+  - family: Harris
+    given: David R.
+  - family: Yeh
+    given: Alexander S.
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Recovering software architecture from multiple source code analyses
+  container-title: PASTE
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/277631.277640
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/PrivatD05
+  type: paper-conference
+  author:
+  - family: Privat
+    given: Jean
+  - family: Ducournau
+    given: Roland
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Link-time static analysis for efficient separate compilation of object-oriented
+    languages
+  container-title: PASTE
+  publisher: ACM
+  page: '20-27'
+  URL: http://doi.acm.org/10.1145/1108792.1108799
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/JashkiZB08
+  type: paper-conference
+  author:
+  - family: Jashki
+    given: Mohammad-Amin
+  - family: Zafarani
+    given: Reza
+  - family: Bagheri
+    given: Ebrahim
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Towards a more efficient static software change impact analysis method
+  container-title: PASTE
+  publisher: ACM
+  page: '84-90'
+  URL: http://doi.acm.org/10.1145/1512475.1512493
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/BallHSL13
+  type: paper-conference
+  author:
+  - family: Ball
+    given: Thomas
+  - family: Halleux
+    given: Peli
+    dropping-particle: de
+  - family: Swamy
+    given: Nikhil
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2013'
+  title: Increasing human-tool interaction via the web
+  container-title: PASTE
+  page: '49-52'
+  URL: http://doi.acm.org/10.1145/2462029.2462031
+
+- id: conf/paste/2011
+  type: book
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Proceedings of the 10th aCM sIGPLAN-sIGSOFT workshop on program analysis
+    for software tools, pASTE’11, szeged, hungary, september 5-9, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2024569
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/BrownDEHJVW02
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Rhodes
+  - family: Driesen
+    given: Karel
+  - family: Eng
+    given: David
+  - family: Hendren
+    given: Laurie J.
+  - family: Jorgensen
+    given: John
+  - family: Verbrugge
+    given: Clark
+  - family: Wang
+    given: Qin
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: 'STEP: A framework for the efficient encoding of general trace data'
+  title-short: STEP
+  container-title: PASTE
+  publisher: ACM
+  page: '27-34'
+  URL: http://doi.acm.org/10.1145/586094.586103
+
+- id: conf/paste/YasugiMU13
+  type: paper-conference
+  author:
+  - family: Yasugi
+    given: Masahiro
+  - family: Matsuda
+    given: Yuki
+  - family: Ugawa
+    given: Tomoharu
+  issued:
+  - year: '2013'
+  title: A proper performance evaluation system that summarizes code placement effects
+  container-title: PASTE
+  page: '41-48'
+  URL: http://doi.acm.org/10.1145/2462029.2462035
+
+- id: conf/paste/Fiskio-LasseterY02
+  type: paper-conference
+  author:
+  - family: Fiskio-Lasseter
+    given: John Howard Eli
+  - family: Young
+    given: Michal
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Flow equations as a generic programming tool for manipulation of attributed
+    graphs
+  container-title: PASTE
+  publisher: ACM
+  page: '69-76'
+  URL: http://doi.acm.org/10.1145/586094.586108
+
+- id: conf/paste/Hind01
+  type: paper-conference
+  author:
+  - family: Hind
+    given: Michael
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: 'Pointer analysis: Haven’t we solved this problem yet?'
+  title-short: Pointer analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '54-61'
+  URL: http://doi.acm.org/10.1145/379605.379665
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/KhooFHS08
+  type: paper-conference
+  author:
+  - family: Khoo
+    given: Yit Phang
+  - family: Foster
+    given: Jeffrey S.
+  - family: Hicks
+    given: Michael
+  - family: Sazawal
+    given: Vibha
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Path projection for user-centered static analysis tools
+  container-title: PASTE
+  publisher: ACM
+  page: '57-63'
+  URL: http://doi.acm.org/10.1145/1512475.1512488
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/2008
+  type: book
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Proceedings of the 8th aCM sIGPLAN-sIGSOFT workshop on program analysis for
+    software tools and engineering, pASTE’08, atlanta, georgia, november 9-10, 2008
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1512475
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/Myers05
+  type: paper-conference
+  author:
+  - family: Myers
+    given: Andrew C.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Making distributed systems secure with program analysis and transformation
+  container-title: PASTE
+  publisher: ACM
+  page: '47'
+  URL: http://doi.acm.org/10.1145/1108792.1108805
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/LiangPH05
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Donglin
+  - family: Pennings
+    given: Maikel
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Evaluating the impact of context-sensitivity on andersen’s algorithm for
+    java programs
+  container-title: PASTE
+  publisher: ACM
+  page: '6-12'
+  URL: http://doi.acm.org/10.1145/1108792.1108797
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/ChandraR99
+  type: paper-conference
+  author:
+  - family: Chandra
+    given: Satish
+  - family: Reps
+    given: Thomas W.
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Physical type checking for c
+  container-title: PASTE
+  publisher: ACM
+  page: '66-75'
+  URL: http://doi.acm.org/10.1145/316158.316183
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/Holzmann01
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Economics of software verification
+  container-title: PASTE
+  publisher: ACM
+  page: '80-85'
+  URL: http://doi.acm.org/10.1145/379605.379681
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/Brown07
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Ruben E.
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: 'AWE: Improving software analysis through modular integration of static
+    and dynamic analyses'
+  title-short: AWE
+  container-title: PASTE
+  publisher: ACM
+  page: '69-74'
+  URL: http://doi.acm.org/10.1145/1251535.1251547
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/AyewahPMPZ07
+  type: paper-conference
+  author:
+  - family: Ayewah
+    given: Nathaniel
+  - family: Pugh
+    given: William
+  - family: Morgenthaler
+    given: J. David
+  - family: Penix
+    given: John
+  - family: Zhou
+    given: YuQian
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Evaluating static analysis defect warnings on production software
+  container-title: PASTE
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1251535.1251536
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/MarronSHK07
+  type: paper-conference
+  author:
+  - family: Marron
+    given: Mark
+  - family: Stefanovic
+    given: Darko
+  - family: Hermenegildo
+    given: Manuel V.
+  - family: Kapur
+    given: Deepak
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Heap analysis in the presence of collection libraries
+  container-title: PASTE
+  publisher: ACM
+  page: '31-36'
+  URL: http://doi.acm.org/10.1145/1251535.1251541
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/BusCSPB04
+  type: paper-conference
+  author:
+  - family: Bus
+    given: Bruno De
+  - family: Chanet
+    given: Dominique
+  - family: Sutter
+    given: Bjorn De
+  - family: Put
+    given: Ludo Van
+  - family: Bosschere
+    given: Koen De
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: 'The design and implementation of fIT: A flexible instrumentation toolkit'
+  title-short: The design and implementation of fIT
+  container-title: PASTE
+  publisher: ACM
+  page: '29-34'
+  URL: http://doi.acm.org/10.1145/996821.996833
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/TikirHL02
+  type: paper-conference
+  author:
+  - family: Tikir
+    given: Mustafa M.
+  - family: Hollingsworth
+    given: Jeffrey K.
+  - family: Lueh
+    given: Guei-Yuan
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Recompilation for debugging support in a jIT-compiler
+  container-title: PASTE
+  publisher: ACM
+  page: '10-17'
+  URL: http://doi.acm.org/10.1145/586094.586100
+
+- id: conf/paste/Eng02
+  type: paper-conference
+  author:
+  - family: Eng
+    given: David
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Combining static and dynamic data in code visualization
+  container-title: PASTE
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/586094.586105
+
+- id: conf/paste/Martel04
+  type: paper-conference
+  author:
+  - family: Martel
+    given: Matthieu
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: 'Validation of assembler programs for dSPs: A static analyzer'
+  title-short: Validation of assembler programs for dSPs
+  container-title: PASTE
+  publisher: ACM
+  page: '8-13'
+  URL: http://doi.acm.org/10.1145/996821.996827
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/LoM08
+  type: paper-conference
+  author:
+  - family: Lo
+    given: David
+  - family: Maoz
+    given: Shahar
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Specification mining of symbolic scenario-based models
+  container-title: PASTE
+  publisher: ACM
+  page: '29-35'
+  URL: http://doi.acm.org/10.1145/1512475.1512482
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/Ezick04
+  type: paper-conference
+  author:
+  - family: Ezick
+    given: James
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Resolving and applying constraint queries on context-sensitive analyses
+  container-title: PASTE
+  publisher: ACM
+  page: '2-7'
+  URL: http://doi.acm.org/10.1145/996821.996826
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/2005
+  type: book
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Proceedings of the 2005 aCM sIGPLAN-sIGSOFT workshop on program analysis
+    for software tools and engineering, pASTE’05, lisbon, portugal, september 5-6,
+    2005
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1108792
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/QianXM07
+  type: paper-conference
+  author:
+  - family: Qian
+    given: Ju
+  - family: Xu
+    given: Baowen
+  - family: Min
+    given: Hongbo
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Interstatement must aliases for data dependence analysis of heap locations
+  container-title: PASTE
+  publisher: ACM
+  page: '17-24'
+  URL: http://doi.acm.org/10.1145/1251535.1251539
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/PickettV05
+  type: paper-conference
+  author:
+  - family: Pickett
+    given: Christopher J. F.
+  - family: Verbrugge
+    given: Clark
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: 'SableSpMT: A software framework for analysing speculative multithreading
+    in java'
+  title-short: SableSpMT
+  container-title: PASTE
+  publisher: ACM
+  page: '59-66'
+  URL: http://doi.acm.org/10.1145/1108792.1108809
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/LeS07
+  type: paper-conference
+  author:
+  - family: Le
+    given: Wei
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Refining buffer overflow detection via demand-driven path-sensitive analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '63-68'
+  URL: http://doi.acm.org/10.1145/1251535.1251546
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/2002
+  type: book
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Proceedings of the 2002 aCM sIGPLAN-sIGSOFT workshop on program analysis
+    for software tools and engineering, pASTE’02, charleston, south carolina, uSA,
+    november 18-19, 2002
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=586094
+
+- id: conf/paste/AgrawalG01
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Gagan
+  - family: Guo
+    given: Liang
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Evaluating explicitly context-sensitive program slicing
+  container-title: PASTE
+  publisher: ACM
+  page: '6-12'
+  URL: http://doi.acm.org/10.1145/379605.379630
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/AkgulM02
+  type: paper-conference
+  author:
+  - family: Akgul
+    given: Tankut
+  - family: Mooney
+    given: Vincent John
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Instruction-level reverse execution for debugging
+  container-title: PASTE
+  publisher: ACM
+  page: '18-25'
+  URL: http://doi.acm.org/10.1145/586094.586101
+
+- id: conf/paste/Hamlet05
+  type: paper-conference
+  author:
+  - family: Hamlet
+    given: Dick
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Invariants and state in testing and formal methods
+  container-title: PASTE
+  publisher: ACM
+  page: '48-51'
+  URL: http://doi.acm.org/10.1145/1108792.1108806
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/RyderT01
+  type: paper-conference
+  author:
+  - family: Ryder
+    given: Barbara G.
+  - family: Tip
+    given: Frank
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Change impact analysis for object-oriented programs
+  container-title: PASTE
+  publisher: ACM
+  page: '46-53'
+  URL: http://doi.acm.org/10.1145/379605.379661
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/BallR01
+  type: paper-conference
+  author:
+  - family: Ball
+    given: Thomas
+  - family: Rajamani
+    given: Sriram K.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: 'Bebop: A path-sensitive interprocedural dataflow engine'
+  title-short: Bebop
+  container-title: PASTE
+  publisher: ACM
+  page: '97-103'
+  URL: http://doi.acm.org/10.1145/379605.379690
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/WadellA98
+  type: paper-conference
+  author:
+  - family: Waddell
+    given: Oscar
+  - family: Ashley
+    given: J. Michael
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Visualizing the performance of higher-order programs
+  container-title: PASTE
+  publisher: ACM
+  page: '75-82'
+  URL: http://doi.acm.org/10.1145/277631.277646
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/Das05
+  type: paper-conference
+  author:
+  - family: Das
+    given: Manuvir
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: PASTE at microsoft
+  container-title: PASTE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1108792.1108794
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Snelting98
+  type: paper-conference
+  author:
+  - family: Snelting
+    given: Gregor
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Concept analysis - a new framework for program understanding
+  container-title: PASTE
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/277631.277634
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/SouterPH99
+  type: paper-conference
+  author:
+  - family: Souter
+    given: Amie L.
+  - family: Pollock
+    given: Lori L.
+  - family: Hisley
+    given: Dixie
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Inter-class def-use analysis with partial class representations
+  container-title: PASTE
+  publisher: ACM
+  page: '47-56'
+  URL: http://doi.acm.org/10.1145/316158.316178
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/ShepherdPV07
+  type: paper-conference
+  author:
+  - family: Shepherd
+    given: David C.
+  - family: Pollock
+    given: Lori L.
+  - family: Vijay-Shanker
+    given: K.
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: 'Case study: Supplementing program analysis with natural language analysis
+    to improve a reverse engineering task'
+  title-short: Case study
+  container-title: PASTE
+  publisher: ACM
+  page: '49-54'
+  URL: http://doi.acm.org/10.1145/1251535.1251544
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/NarayanappaBR10
+  type: paper-conference
+  author:
+  - family: Narayanappa
+    given: Harish
+  - family: Bansal
+    given: Mukul S.
+  - family: Rajan
+    given: Hridesh
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Property-aware program sampling
+  container-title: PASTE
+  publisher: ACM
+  page: '45-52'
+  URL: http://doi.acm.org/10.1145/1806672.1806682
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/DeRD08
+  type: paper-conference
+  author:
+  - family: De
+    given: Arnab
+  - family: Roychoudhury
+    given: Abhik
+  - family: D’Souza
+    given: Deepak
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Java memory model aware software validation
+  container-title: PASTE
+  publisher: ACM
+  page: '8-14'
+  URL: http://doi.acm.org/10.1145/1512475.1512478
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/YangE04
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Jinlin
+  - family: Evans
+    given: David
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Dynamically inferring temporal properties
+  container-title: PASTE
+  publisher: ACM
+  page: '23-28'
+  URL: http://doi.acm.org/10.1145/996821.996832
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/SutherlandGS02
+  type: paper-conference
+  author:
+  - family: Sutherland
+    given: Dean F.
+  - family: Greenhouse
+    given: Aaron
+  - family: Scherlis
+    given: William L.
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: 'The code of many colors: Relating threads to code and shared state'
+  title-short: The code of many colors
+  container-title: PASTE
+  publisher: ACM
+  page: '77-83'
+  URL: http://doi.acm.org/10.1145/586094.586109
+
+- id: conf/paste/JacobsonRM11
+  type: paper-conference
+  author:
+  - family: Jacobson
+    given: Emily R.
+  - family: Rosenblum
+    given: Nathan E.
+  - family: Miller
+    given: Barton P.
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Labeling library functions in stripped binaries
+  container-title: PASTE
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/2024569.2024571
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/Hubert08
+  type: paper-conference
+  author:
+  - family: Hubert
+    given: Laurent
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: A non-null annotation inferencer for java bytecode
+  container-title: PASTE
+  publisher: ACM
+  page: '36-42'
+  URL: http://doi.acm.org/10.1145/1512475.1512484
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/ZaksP08
+  type: paper-conference
+  author:
+  - family: Zaks
+    given: Anna
+  - family: Pnueli
+    given: Amir
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: Program analysis for compiler validation
+  container-title: PASTE
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/1512475.1512477
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/BradburyCD05
+  type: paper-conference
+  author:
+  - family: Bradbury
+    given: Jeremy S.
+  - family: Cordy
+    given: James R.
+  - family: Dingel
+    given: Jürgen
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: An empirical framework for comparing effectiveness of testing and property-based
+    formal analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '2-5'
+  URL: http://doi.acm.org/10.1145/1108792.1108795
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/BowringOH02
+  type: paper-conference
+  author:
+  - family: Bowring
+    given: James F.
+  - family: Orso
+    given: Alessandro
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Monitoring deployed software using software tomography
+  container-title: PASTE
+  publisher: ACM
+  page: '2-9'
+  URL: http://doi.acm.org/10.1145/586094.586099
+
+- id: conf/paste/HovemeyerSP05
+  type: paper-conference
+  author:
+  - family: Hovemeyer
+    given: David
+  - family: Spacco
+    given: Jaime
+  - family: Pugh
+    given: William
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Evaluating and tuning a static analysis to find null pointer bugs
+  container-title: PASTE
+  publisher: ACM
+  page: '13-19'
+  URL: http://doi.acm.org/10.1145/1108792.1108798
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Reiss01
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: An overview of bLOOM
+  container-title: PASTE
+  publisher: ACM
+  page: '2-5'
+  URL: http://doi.acm.org/10.1145/379605.379629
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/ReissK10
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  - family: Karumuri
+    given: Suman
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Visualizing threads, transactions and tasks
+  container-title: PASTE
+  publisher: ACM
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/1806672.1806675
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/Notkin02
+  type: paper-conference
+  author:
+  - family: Notkin
+    given: David
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Longitudinal program analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/586094.586095
+
+- id: conf/paste/FosterHP07
+  type: paper-conference
+  author:
+  - family: Foster
+    given: Jeffrey S.
+  - family: Hicks
+    given: Michael W.
+  - family: Pugh
+    given: William
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Improving software quality with static analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '83-84'
+  URL: http://doi.acm.org/10.1145/1251535.1251549
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/ShenZZFY08
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Haihao
+  - family: Zhang
+    given: Sai
+  - family: Zhao
+    given: Jianjun
+  - family: Fang
+    given: Jianhong
+  - family: Yao
+    given: Shiyuan
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: 'XFindBugs: EXtended findBugs for aspectJ'
+  title-short: XFindBugs
+  container-title: PASTE
+  publisher: ACM
+  page: '70-76'
+  URL: http://doi.acm.org/10.1145/1512475.1512490
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/Balmas99
+  type: paper-conference
+  author:
+  - family: Balmas
+    given: Francoise
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: 'Query by outlines: A new paradigm to help manage programs'
+  title-short: Query by outlines
+  container-title: PASTE
+  publisher: ACM
+  page: '86-94'
+  URL: http://doi.acm.org/10.1145/316158.316185
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/BernatM11
+  type: paper-conference
+  author:
+  - family: Bernat
+    given: Andrew R.
+  - family: Miller
+    given: Barton P.
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Anywhere, any-time binary instrumentation
+  container-title: PASTE
+  publisher: ACM
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/2024569.2024572
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/SaffE04
+  type: paper-conference
+  author:
+  - family: Saff
+    given: David
+  - family: Ernst
+    given: Michael D.
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Mock object creation for test factoring
+  container-title: PASTE
+  publisher: ACM
+  page: '49-51'
+  URL: http://doi.acm.org/10.1145/996821.996838
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/Detten11
+  type: paper-conference
+  author:
+  - family: Detten
+    given: Markus
+    dropping-particle: von
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Towards systematic, comprehensive trace generation for behavioral pattern
+    detection through symbolic execution
+  container-title: PASTE
+  publisher: ACM
+  page: '17-20'
+  URL: http://doi.acm.org/10.1145/2024569.2024573
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/Milanova07
+  type: paper-conference
+  author:
+  - family: Milanova
+    given: Ana
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Light context-sensitive points-to analysis for java
+  container-title: PASTE
+  publisher: ACM
+  page: '25-30'
+  URL: http://doi.acm.org/10.1145/1251535.1251540
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/TallamG05
+  type: paper-conference
+  author:
+  - family: Tallam
+    given: Sriraman
+  - family: Gupta
+    given: Neelam
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: A concept analysis inspired greedy algorithm for test suite minimization
+  container-title: PASTE
+  publisher: ACM
+  page: '35-42'
+  URL: http://doi.acm.org/10.1145/1108792.1108802
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Agrawal99
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Hira
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Efficient coverage testing using global dominator graphs
+  container-title: PASTE
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/316158.316166
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/ChoiGHS99
+  type: paper-conference
+  author:
+  - family: Choi
+    given: Jong-Deok
+  - family: Grove
+    given: David
+  - family: Hind
+    given: Michael
+  - family: Sarkar
+    given: Vivek
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Efficient and precise modeling of exceptions for the analysis of java programs
+  container-title: PASTE
+  publisher: ACM
+  page: '21-31'
+  URL: http://doi.acm.org/10.1145/316158.316171
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/MaessenSG01
+  type: paper-conference
+  author:
+  - family: Maessen
+    given: Jan-Willem
+  - family: Sarkar
+    given: Vivek
+  - family: Grove
+    given: David
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Program analysis for safety guarantees in a java virtual machine written
+    in java
+  container-title: PASTE
+  publisher: ACM
+  page: '62-65'
+  URL: http://doi.acm.org/10.1145/379605.379668
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/BarnettL05
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Michael Barnett
+  - family: Leino
+    given: K. Rustan M.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Weakest-precondition of unstructured programs
+  container-title: PASTE
+  publisher: ACM
+  page: '82-87'
+  URL: http://doi.acm.org/10.1145/1108792.1108813
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/QiNSR11
+  type: paper-conference
+  author:
+  - family: Qi
+    given: Dawei
+  - family: Ngo
+    given: Minh Ngoc
+  - family: Sun
+    given: Tao
+  - family: Roychoudhury
+    given: Abhik
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Locating failure-inducing environment changes
+  container-title: PASTE
+  publisher: ACM
+  page: '29-36'
+  URL: http://doi.acm.org/10.1145/2024569.2024576
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/FengG10
+  type: paper-conference
+  author:
+  - family: Feng
+    given: Min
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Learning universal probabilistic models for fault localization
+  container-title: PASTE
+  publisher: ACM
+  page: '81-88'
+  URL: http://doi.acm.org/10.1145/1806672.1806688
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/ChelfEH02
+  type: paper-conference
+  author:
+  - family: Chelf
+    given: Benjamin
+  - family: Engler
+    given: Dawson R.
+  - family: Hallem
+    given: Seth
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: How to write system-specific, static checkers in metal
+  container-title: PASTE
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/586094.586097
+
+- id: conf/paste/RountevVR05
+  type: paper-conference
+  author:
+  - family: Rountev
+    given: Atanas
+  - family: Volgin
+    given: Olga
+  - family: Reddoch
+    given: Miriam
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Static control-flow analysis for reverse engineering of uML sequence diagrams
+  container-title: PASTE
+  publisher: ACM
+  page: '96-102'
+  URL: http://doi.acm.org/10.1145/1108792.1108816
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/MilevaZ11
+  type: paper-conference
+  author:
+  - family: Mileva
+    given: Yana Momchilova
+  - family: Zeller
+    given: Andreas
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: Assessing modularity via usage changes
+  container-title: PASTE
+  publisher: ACM
+  page: '37-40'
+  URL: http://doi.acm.org/10.1145/2024569.2024577
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/Naumovich02
+  type: paper-conference
+  author:
+  - family: Naumovich
+    given: Gleb
+  editor:
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2002'
+  title: Using the observer design pattern for implementation of data flow analyses
+  container-title: PASTE
+  publisher: ACM
+  page: '61-68'
+  URL: http://doi.acm.org/10.1145/586094.586107
+
+- id: conf/paste/Reiss98
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Software visualization in the desert environment
+  container-title: PASTE
+  publisher: ACM
+  page: '59-66'
+  URL: http://doi.acm.org/10.1145/277631.277643
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/HammerS04
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Christian Hammer
+  - family: Snelting
+    given: Gregor
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: An improved slicer for java
+  container-title: PASTE
+  publisher: ACM
+  page: '17-22'
+  URL: http://doi.acm.org/10.1145/996821.996830
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/2007
+  type: book
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Proceedings of the 7th aCM sIGPLAN-sIGSOFT workshop on program analysis for
+    software tools and engineering, pASTE’07, san diego, california, uSA, june 13-14,
+    2007
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1251535
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/Lhotak07
+  type: paper-conference
+  author:
+  - family: Lhoták
+    given: Ondrej
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: Comparing call graphs
+  container-title: PASTE
+  publisher: ACM
+  page: '37-42'
+  URL: http://doi.acm.org/10.1145/1251535.1251542
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/ChristodorescuKG05
+  type: paper-conference
+  author:
+  - family: Christodorescu
+    given: Mihai
+  - family: Kidd
+    given: Nicholas
+  - family: Goh
+    given: Wen-Han
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: String analysis for x86 binaries
+  container-title: PASTE
+  publisher: ACM
+  page: '88-95'
+  URL: http://doi.acm.org/10.1145/1108792.1108814
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/SouterP01
+  type: paper-conference
+  author:
+  - family: Souter
+    given: Amie L.
+  - family: Pollock
+    given: Lori L.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Contextual def-use associations for object aggregation
+  container-title: PASTE
+  publisher: ACM
+  page: '13-19'
+  URL: http://doi.acm.org/10.1145/379605.379633
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/Schmeelk10
+  type: paper-conference
+  author:
+  - family: Schmeelk
+    given: Suzanna
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Towards a unified fault-detection benchmark
+  container-title: PASTE
+  publisher: ACM
+  page: '61-64'
+  URL: http://doi.acm.org/10.1145/1806672.1806684
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/CookO05
+  type: paper-conference
+  author:
+  - family: Cook
+    given: Jonathan E.
+  - family: Orso
+    given: Alessandro
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: 'MonDe: Safe updating through monitored deployment of new component versions'
+  title-short: MonDe
+  container-title: PASTE
+  publisher: ACM
+  page: '43-46'
+  URL: http://doi.acm.org/10.1145/1108792.1108803
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Abi-AntounA08
+  type: paper-conference
+  author:
+  - family: Abi-Antoun
+    given: Marwan
+  - family: Aldrich
+    given: Jonathan
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: A field study in static extraction of runtime architectures
+  container-title: PASTE
+  publisher: ACM
+  page: '22-28'
+  URL: http://doi.acm.org/10.1145/1512475.1512481
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/SarimbekovSKZBBA13
+  type: paper-conference
+  author:
+  - family: Sarimbekov
+    given: Aibek
+  - family: Sewe
+    given: Andreas
+  - family: Kell
+    given: Stephen
+  - family: Zheng
+    given: Yudi
+  - family: Binder
+    given: Walter
+  - family: Bulej
+    given: Lubomír
+  - family: Ansaloni
+    given: Danilo
+  issued:
+  - year: '2013'
+  title: A comprehensive toolchain for workload characterization across jVM languages
+  container-title: PASTE
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/2462029.2462033
+
+- id: conf/paste/Ernst04
+  type: paper-conference
+  author:
+  - family: Ernst
+    given: Michael D.
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: 'Invited talk static and dynamic analysis: Synergy and duality'
+  title-short: Invited talk static and dynamic analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '35'
+  URL: http://doi.acm.org/10.1145/996821.996823
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/DorRS98
+  type: paper-conference
+  author:
+  - family: Dor
+    given: Nurit
+  - family: Rodeh
+    given: Michael
+  - family: Sagiv
+    given: Shmuel
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Detecting memory errors via static pointer analysis (preliminary experience)
+  container-title: PASTE
+  publisher: ACM
+  page: '27-34'
+  URL: http://doi.acm.org/10.1145/277631.277637
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/2013
+  type: book
+  editor:
+  - family: Freund
+    given: Stephen N.
+  issued:
+  - year: '2013'
+  title: ACM sIGPLAN-sIGSOFT workshop on program analysis for software tools and engineering,
+    pASTE ’13, seattle, wA, uSA, june 20, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2462029
+  ISBN: '978-1-4503-2128-0'
+
+- id: conf/paste/FieldR99
+  type: paper-conference
+  author:
+  - family: Field
+    given: John
+  - family: Ramalingam
+    given: G.
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Identifying procedural structure in cobol programs
+  container-title: PASTE
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/316158.316163
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/RountevKG04
+  type: paper-conference
+  author:
+  - family: Rountev
+    given: Atanas
+  - family: Kagan
+    given: Scott
+  - family: Gibas
+    given: Michael
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Evaluating the imprecision of static analysis
+  container-title: PASTE
+  publisher: ACM
+  page: '14-16'
+  URL: http://doi.acm.org/10.1145/996821.996829
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/KokaiNN99
+  type: paper-conference
+  author:
+  - family: Kókai
+    given: Gabriella
+  - family: Nilson
+    given: Jörg
+  - family: Niss
+    given: Christian
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: 'GIDTS: A graphical programming environment for prolog'
+  title-short: GIDTS
+  container-title: PASTE
+  publisher: ACM
+  page: '95-104'
+  URL: http://doi.acm.org/10.1145/316158.316186
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/Griswold01
+  type: paper-conference
+  author:
+  - family: Griswold
+    given: William G.
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: 'Making slicing practical: The final mile (abstract)'
+  title-short: Making slicing practical
+  container-title: PASTE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/379605.379625
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/NaumovichCC99
+  type: paper-conference
+  author:
+  - family: Naumovich
+    given: Gleb
+  - family: Clarke
+    given: Lori A.
+  - family: Cobleigh
+    given: Jamieson M.
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Using partial order techniques to improve performance of data flow analysis
+    based verification
+  container-title: PASTE
+  publisher: ACM
+  page: '57-65'
+  URL: http://doi.acm.org/10.1145/316158.316180
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/KumarCS05
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Naveen Kumar
+  - family: Childers
+    given: Bruce R.
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Low overhead program monitoring and profiling
+  container-title: PASTE
+  publisher: ACM
+  page: '28-34'
+  URL: http://doi.acm.org/10.1145/1108792.1108801
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Krinke98
+  type: paper-conference
+  author:
+  - family: Krinke
+    given: Jens
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: Static slicing of threaded programs
+  container-title: PASTE
+  publisher: ACM
+  page: '35-42'
+  URL: http://doi.acm.org/10.1145/277631.277638
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/TiceG98
+  type: paper-conference
+  author:
+  - family: Tice
+    given: Caroline
+  - family: Graham
+    given: Susan L.
+  editor:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1998'
+  title: 'OPTVIEW: A new approach for examining optimized code'
+  title-short: OPTVIEW
+  container-title: PASTE
+  publisher: ACM
+  page: '19-26'
+  URL: http://doi.acm.org/10.1145/277631.277636
+  ISBN: '1-58113-055-4'
+
+- id: conf/paste/Godefroid04
+  type: paper-conference
+  author:
+  - family: Godefroid
+    given: Patrice
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: 'Invited talk: “Model checking” software with veriSoft'
+  title-short: Invited talk
+  container-title: PASTE
+  publisher: ACM
+  page: '36'
+  URL: http://doi.acm.org/10.1145/996821.996824
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/ZhangLGZ08
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Sai
+  - family: Lin
+    given: Yu
+  - family: Gu
+    given: Zhongxian
+  - family: Zhao
+    given: Jianjun
+  editor:
+  - family: Krishnamurthi
+    given: Shriram
+  issued:
+  - year: '2008'
+  title: 'Effective identification of failure-inducing changes: A hybrid approach'
+  title-short: Effective identification of failure-inducing changes
+  container-title: PASTE
+  publisher: ACM
+  page: '77-83'
+  URL: http://doi.acm.org/10.1145/1512475.1512492
+  ISBN: '978-1-60558-382-2'
+
+- id: conf/paste/WhitingH99
+  type: paper-conference
+  author:
+  - family: Whiting
+    given: Liz
+  - family: Hill
+    given: Mike
+  editor:
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1999'
+  title: Safety analysis of hawk in flight monitor
+  container-title: PASTE
+  publisher: ACM
+  page: '32-38'
+  URL: http://doi.acm.org/10.1145/316158.316173
+  ISBN: '1-58113-137-2'
+
+- id: conf/paste/DingesCA13
+  type: paper-conference
+  author:
+  - family: Dinges
+    given: Peter
+  - family: Charalambides
+    given: Minas
+  - family: Agha
+    given: Gul
+  issued:
+  - year: '2013'
+  title: Automated inference of atomic sets for safe concurrent execution
+  container-title: PASTE
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/2462029.2462030
+
+- id: conf/paste/Lu13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Charng-Da
+  issued:
+  - year: '2013'
+  title: Automatically mining program build information via signature matching
+  container-title: PASTE
+  page: '25-32'
+  URL: http://doi.acm.org/10.1145/2462029.2462036
+
+- id: conf/paste/AikenBDDHH07
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alex
+  - family: Bugrara
+    given: Suhabe
+  - family: Dillig
+    given: Isil
+  - family: Dillig
+    given: Thomas
+  - family: Hackett
+    given: Brian
+  - family: Hawkins
+    given: Peter
+  editor:
+  - family: Das
+    given: Manuvir
+  issued:
+  - year: '2007'
+  title: An overview of the saturn project
+  container-title: PASTE
+  publisher: ACM
+  page: '43-48'
+  URL: http://doi.acm.org/10.1145/1251535.1251543
+  ISBN: '978-1-59593-595-3'
+
+- id: conf/paste/RosenblumMZ10
+  type: paper-conference
+  author:
+  - family: Rosenblum
+    given: Nathan E.
+  - family: Miller
+    given: Barton P.
+  - family: Zhu
+    given: Xiaojin
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Extracting compiler provenance from program binaries
+  container-title: PASTE
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/1806672.1806678
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/2010
+  type: book
+  editor:
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2010'
+  title: Proceedings of the 9th aCM sIGPLAN-sIGSOFT workshop on program analysis for
+    software tools and engineering, pASTE’10, toronto, ontario, canada, june 5-6,
+    2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1806672
+  ISBN: '978-1-4503-0082-7'
+
+- id: conf/paste/FisherWTRL11
+  type: paper-conference
+  author:
+  - family: II
+    given: Marc Fisher
+  - family: Wloka
+    given: Jan
+  - family: Tip
+    given: Frank
+  - family: Ryder
+    given: Barbara G.
+  - family: Luchansky
+    given: Alexander
+  editor:
+  - family: Foster
+    given: Jeff
+  issued:
+  - year: '2011'
+  title: An evaluation of change-based coverage criteria
+  container-title: PASTE
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/2024569.2024575
+  ISBN: '978-1-4503-0849-6'
+
+- id: conf/paste/KadayifCKVIS01
+  type: paper-conference
+  author:
+  - family: Kadayif
+    given: Ismail
+  - family: Chinoda
+    given: T.
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Vijaykrishnan
+    given: Narayanan
+  - family: Irwin
+    given: Mary Jane
+  - family: Sivasubramaniam
+    given: Anand
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: 'VEC: Virtual energy counters'
+  title-short: VEC
+  container-title: PASTE
+  publisher: ACM
+  page: '28-31'
+  URL: http://doi.acm.org/10.1145/379605.379639
+  ISBN: '1-58113-413-4'
+
+- id: conf/paste/2004
+  type: book
+  editor:
+  - family: Flanagan
+    given: Cormac
+  issued:
+  - year: '2004'
+  title: Proceedings of the 2004 aCM sIGPLAN-sIGSOFT workshop on program analysis
+    for software tools and engineering, pASTE’04, washington, dC, uSA, june 7-8, 2004
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=996821
+  ISBN: '1-58113-910-1'
+
+- id: conf/paste/Perkins05
+  type: paper-conference
+  author:
+  - family: Perkins
+    given: Jeff H.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2005'
+  title: Automatically generating refactorings to support aPI evolution
+  container-title: PASTE
+  publisher: ACM
+  page: '111-114'
+  URL: http://doi.acm.org/10.1145/1108792.1108818
+  ISBN: '1-59593-239-9'
+
+- id: conf/paste/Palsberg01
+  type: paper-conference
+  author:
+  - family: Palsberg
+    given: Jens
+  editor:
+  - family: Field
+    given: John
+  issued:
+  - year: '2001'
+  title: Type-based analysis and applications
+  container-title: PASTE
+  publisher: ACM
+  page: '20-27'
+  URL: http://doi.acm.org/10.1145/379605.379635
+  ISBN: '1-58113-413-4'
+...

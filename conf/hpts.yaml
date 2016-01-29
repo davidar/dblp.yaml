@@ -1,0 +1,1306 @@
+---
+references:
+- id: conf/hpts/1987
+  type: book
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1989'
+  title: High performance transaction systems, 2nd international workshop, asilomar
+    conference center, pacific grove, california, uSA, september 28-30, 1987, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '359'
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Serlin85
+  type: paper-conference
+  author:
+  - family: Serlin
+    given: Omri
+  issued:
+  - year: '1985'
+  title: Why haven’t fT systems been more successful?
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/PuC93
+  type: paper-conference
+  author:
+  - family: Pu
+    given: Calton
+  - family: Chen
+    given: Shu-Wie F.
+  issued:
+  - year: '1993'
+  title: 'ACID properties need fast relief: Relaxing consistency using epsilon serializability'
+  title-short: ACID properties need fast relief
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Vaskevitch93
+  type: paper-conference
+  author:
+  - family: Vaskevitch
+    given: David
+  issued:
+  - year: '1993'
+  title: The bigger the application, the smaller the database, smaller is even more
+    beautiful than we think
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Khan93
+  type: paper-conference
+  author:
+  - family: Khan
+    given: Shabbir
+  issued:
+  - year: '1993'
+  title: Why the tP industry is in a mess?
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Tsichritzis93
+  type: paper-conference
+  author:
+  - family: Tsichritzis
+    given: Dennis
+  issued:
+  - year: '1993'
+  title: The computer needs of the two-site berlin-bonn government
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Spiro93
+  type: paper-conference
+  author:
+  - family: Spiro
+    given: Peter M.
+  issued:
+  - year: '1993'
+  title: Highly available distributed systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Duquaine87
+  type: paper-conference
+  author:
+  - family: Duquaine
+    given: Wayne V.
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: LU 6.2 as a network standard for transaction processing
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-37'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_41
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/FinkelsteinC85
+  type: paper-conference
+  author:
+  - family: Finkelstein
+    given: W.
+  - family: Cappi
+    given: M.
+  issued:
+  - year: '1985'
+  title: Experiences with large networks of computers
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/SpectorEDDBDPT87
+  type: paper-conference
+  author:
+  - family: Spector
+    given: Alfred Z.
+  - family: Eppinger
+    given: Jeffrey L.
+  - family: Daniels
+    given: Dean S.
+  - family: Draves
+    given: Richard
+  - family: Bloch
+    given: Joshua J.
+  - family: Duchamp
+    given: Dan
+  - family: Pausch
+    given: Randy F.
+  - family: Thompson
+    given: Dean S.
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: High performance distributed transaction processing in a general purpose
+    computing environment
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-242'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_49
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/HsuC85
+  type: paper-conference
+  author:
+  - family: Hsu
+    given: Meichun
+  - family: Chan
+    given: Arvola
+  issued:
+  - year: '1985'
+  title: Partitioned two-phase locking
+  container-title: HPTS
+  page: '0-'
+  note: 'journal version: TODS 11(4): 431-446 (1986)'
+
+- id: conf/hpts/Lomet93
+  type: paper-conference
+  author:
+  - family: Lomet
+    given: David B.
+  issued:
+  - year: '1993'
+  title: Private locking and distributed cache management
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Group87
+  type: paper-conference
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: 'Tandem database group - nonStop sQL: A distributed, high-performance,
+    high-availability implementation of sQL'
+  title-short: Tandem database group - nonStop sQL
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-104'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_43
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Limprecht93
+  type: paper-conference
+  author:
+  - family: Limprecht
+    given: Rodney
+  issued:
+  - year: '1993'
+  title: Open software foundation distributed computing environment
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Reuter85
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1985'
+  title: The transaction pipeline processor
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Carnese93
+  type: paper-conference
+  author:
+  - family: Carnese
+    given: Dan
+  issued:
+  - year: '1993'
+  title: Architecture of the transaction processing system of independence technologies’
+    iTRAN system (abstract)
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Malaika93
+  type: paper-conference
+  author:
+  - family: Malaika
+    given: Susan
+  issued:
+  - year: '1993'
+  title: Data liberation
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Schwenkreis93
+  type: paper-conference
+  author:
+  - family: Schwenkreis
+    given: Friedemann
+  issued:
+  - year: '1993'
+  title: ExPeCt executions with promised characteristics
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Salzberg93
+  type: paper-conference
+  author:
+  - family: Salzberg
+    given: Betty
+  issued:
+  - year: '1993'
+  title: The case for commit-time timestamping in historical databases
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Levine93
+  type: paper-conference
+  author:
+  - family: Levine
+    given: Charles
+  issued:
+  - year: '1993'
+  title: The advantages of client-databases servers over transaction servers
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Mackie93
+  type: paper-conference
+  author:
+  - family: Mackie
+    given: Dean
+  issued:
+  - year: '1993'
+  title: It looks great on paper - cIM using oODBs
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Bernstein85
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Philip A.
+  issued:
+  - year: '1985'
+  title: Synchronizing shared memory in the sEQUOIA fault-tolerant multiprocessor
+  container-title: HPTS
+  page: '0-'
+  note: 'reprinted in Database Engineering Bulletin 9(1): 17-23 (1986)'
+
+- id: conf/hpts/ChanDH85
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Arvola
+  - family: Dayal
+    given: Umeshwar
+  - family: Hsu
+    given: Meichun
+  issued:
+  - year: '1985'
+  title: Providing database management capabilities for mission critical applications
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Wilmot85
+  type: paper-conference
+  author:
+  - family: Wilmot
+    given: R.
+  issued:
+  - year: '1985'
+  title: Transaction performance improvement from fractional direct addressing
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Hospers93
+  type: paper-conference
+  author:
+  - family: Hospers
+    given: Keith
+  issued:
+  - year: '1993'
+  title: Open systems enterprise computing
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Dixon93
+  type: paper-conference
+  author:
+  - family: Dixon
+    given: Graeme N.
+  issued:
+  - year: '1993'
+  title: A transactional framework
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/ChaudhriHM93
+  type: paper-conference
+  author:
+  - family: Chaudhri
+    given: Vinay K.
+  - family: Hadzilacos
+    given: Vassos
+  - family: Mylopoulos
+    given: John
+  issued:
+  - year: '1993'
+  title: Concurrency control for knowledge bases
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/ONeil87
+  type: paper-conference
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: Model 204 architecture and performance
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-59'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_42
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/CareyDN93
+  type: paper-conference
+  author:
+  - family: Carey
+    given: Michael J.
+  - family: DeWitt
+    given: David J.
+  - family: Naughton
+    given: Jeffrey F.
+  issued:
+  - year: '1993'
+  title: 'The oo7 benchmark: Current status & future directions'
+  title-short: The oo7 benchmark
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Suwanda93
+  type: paper-conference
+  author:
+  - family: Suwanda
+    given: Hendra
+  issued:
+  - year: '1993'
+  title: Experiences in building a cASE repository using an oODB
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Rahm93
+  type: paper-conference
+  author:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '1993'
+  title: Parallel query processing in shared disk database systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Eppinger93
+  type: paper-conference
+  author:
+  - family: Eppinger
+    given: Jeffrey L.
+  issued:
+  - year: '1993'
+  title: 'Transactional communication: The paradigm debate'
+  title-short: Transactional communication
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Iimura85
+  type: paper-conference
+  author:
+  - family: Iimura
+    given: W.
+  issued:
+  - year: '1985'
+  title: Implementation techniques for high volume transaction systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Westin85
+  type: paper-conference
+  author:
+  - family: Westin
+    given: S.
+  issued:
+  - year: '1985'
+  title: Experiences with a bank retail system using nonStop tXP
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Krause85
+  type: paper-conference
+  author:
+  - family: Krause
+    given: Jürgen
+  issued:
+  - year: '1985'
+  title: Experiences with an airline reservation system using tPF
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Ong85
+  type: paper-conference
+  author:
+  - family: Ong
+    given: K.
+  issued:
+  - year: '1985'
+  title: Performance of the debit/Credit transaction using a relational dBMS
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/LehmanC85
+  type: paper-conference
+  author:
+  - family: Lehman
+    given: Tobin J.
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '1985'
+  title: A study of index structures for a main memory database management system
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Lehman93
+  type: paper-conference
+  author:
+  - family: Lehman
+    given: Tobin J.
+  issued:
+  - year: '1993'
+  title: Dealing with large objects in a transaction system
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Zeigler93
+  type: paper-conference
+  author:
+  - family: Zeigler
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Making databases easier to use
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/ONeilW93
+  type: paper-conference
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  - family: Weikum
+    given: Gerhard
+  issued:
+  - year: '1993'
+  title: A log-structured history data access method (lHAM)
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/BhideS87
+  type: paper-conference
+  author:
+  - family: Bhide
+    given: Anupam
+  - family: Stonebraker
+    given: Michael
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: Performance issues in high performance transaction processing architectures
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-300'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_51
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/BhideS93
+  type: paper-conference
+  author:
+  - family: Bhide
+    given: Anupam
+  - family: Smith
+    given: T. Basil
+  issued:
+  - year: '1993'
+  title: A durable memory machine
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/NettM93
+  type: paper-conference
+  author:
+  - family: Nett
+    given: Edgar
+  - family: Mock
+    given: Michael
+  issued:
+  - year: '1993'
+  title: Generic action support for distributed, cooperative applications
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/SpectorD85
+  type: paper-conference
+  author:
+  - family: Spector
+    given: Alfred Z.
+  - family: Daniels
+    given: Dean S.
+  issued:
+  - year: '1985'
+  title: Performance evaluation on distributed tansaction facilities
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Bayer85
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: Rudolf
+  issued:
+  - year: '1985'
+  title: Consistency of transactions and random batch
+  container-title: HPTS
+  page: '0-'
+  note: 'journal version: TODS 11(4): 396-404 (1986)'
+
+- id: conf/hpts/Brett93
+  type: paper-conference
+  author:
+  - family: Brett
+    given: Charles
+  issued:
+  - year: '1993'
+  title: Open distributed transaction management- heresy or massive opportunity
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Helland93
+  type: paper-conference
+  author:
+  - family: Helland
+    given: Pat
+  issued:
+  - year: '1993'
+  title: Transaction processing and the barbarian hordes
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Stanfill93
+  type: paper-conference
+  author:
+  - family: Stanfill
+    given: Craig
+  issued:
+  - year: '1993'
+  title: Shared disk reconsidered
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Bamberger87
+  type: paper-conference
+  author:
+  - family: Bamberger
+    given: Frank K.
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: Citicorp’s new high-performance transaction processing system
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-133'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_44
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/FinkelsteinP93
+  type: paper-conference
+  author:
+  - family: Finkelstein
+    given: Sheldon J.
+  - family: Pearson
+    given: C.
+  issued:
+  - year: '1993'
+  title: System managed storage for nonStop oLTP
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/SamarasCK93
+  type: paper-conference
+  author:
+  - family: Samaras
+    given: George
+  - family: Citron
+    given: Andrew
+  - family: Kshemkalyani
+    given: Ajay D.
+  issued:
+  - year: '1993'
+  title: Unchained transactionsd and sNA lU6.2
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Gray93
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Why tP-lite will dominate the tP market
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/SalemGA87
+  type: paper-conference
+  author:
+  - family: Salem
+    given: Kenneth
+  - family: Garcia-Molina
+    given: Hector
+  - family: Alonso
+    given: Rafael
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: 'Altruistic locking: A strategy for coping with long lived transactions'
+  title-short: Altruistic locking
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-199'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_47
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Gray85
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1985'
+  title: Fault tolerance in tandem systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Taheri93
+  type: paper-conference
+  author:
+  - family: Taheri
+    given: H. Reza
+  issued:
+  - year: '1993'
+  title: 'TCP benchmark c: Its characteristics, its differences with tPC-a and how
+    to tune it'
+  title-short: TCP benchmark c
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Homan85
+  type: paper-conference
+  author:
+  - family: Homan
+    given: Pete
+  issued:
+  - year: '1985'
+  title: Systems and network management in high transaction rate systems
+  container-title: HPTS
+
+- id: conf/hpts/Mohan93
+  type: paper-conference
+  author:
+  - family: Mohan
+    given: C.
+  issued:
+  - year: '1993'
+  title: 'Generalized presumed abort: Marrying presumed abort and sNA lU6.2 commit
+    protocols'
+  title-short: Generalized presumed abort
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Olson93
+  type: paper-conference
+  author:
+  - family: Olson
+    given: Michael A.
+  issued:
+  - year: '1993'
+  title: Transaction system support for scientific data management
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Anonymous93
+  type: paper-conference
+  issued:
+  - year: '1993'
+  title: MVS unix migration a few observations from recent experiences in the financial
+    services industry
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Franklin93
+  type: paper-conference
+  author:
+  - family: Franklin
+    given: Michael J.
+  issued:
+  - year: '1993'
+  title: Exploiting client resources through caching
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/ONeil85
+  type: paper-conference
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  issued:
+  - year: '1985'
+  title: Escrow transactions permitting concurrent record updates
+  container-title: HPTS
+  page: '0-'
+  note: 'journal version: TODS 11(4): 405-430 (1986)'
+
+- id: conf/hpts/Sundarrajan93
+  type: paper-conference
+  author:
+  - family: Sundarrajan
+    given: Prabakar
+  issued:
+  - year: '1993'
+  title: Nested transactions crucial for object based transaction processing applications
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Shoens85
+  type: paper-conference
+  author:
+  - family: Shoens
+    given: Kurt A.
+  issued:
+  - year: '1985'
+  title: Data sharing vs. partitioning for capacity and availability
+  container-title: HPTS
+  page: '0-'
+  note: 'reprinted in Database Engineering Bulletin 9(1): 10-16 (1986)'
+
+- id: conf/hpts/Shekita93
+  type: paper-conference
+  author:
+  - family: Shekita
+    given: Eugene J.
+  issued:
+  - year: '1993'
+  title: 'TP-lite: Harmless intruder or trojan horse?'
+  title-short: TP-lite
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Johnson93
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: James
+  issued:
+  - year: '1993'
+  title: Transaction message enablers
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Reuter93
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1993'
+  title: Are transactions useful outside oLTP? Is there life outside transactions?
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Helland85
+  type: paper-conference
+  author:
+  - family: Helland
+    given: Pat
+  issued:
+  - year: '1985'
+  title: High transaction rates in a distributed systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Bernstein93
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Philip A.
+  issued:
+  - year: '1993'
+  title: Repository support for tP case
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Spector93
+  type: paper-conference
+  author:
+  - family: Spector
+    given: Alfred Z.
+  issued:
+  - year: '1993'
+  title: TP is tP heavy
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Jablonski93
+  type: paper-conference
+  author:
+  - family: Jablonski
+    given: Stefan
+  issued:
+  - year: '1993'
+  title: Transaction support for acivity management
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Laing93
+  type: paper-conference
+  author:
+  - family: Laing
+    given: William A.
+  issued:
+  - year: '1993'
+  title: Shared nothing will ultimately prevail
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Kelley93
+  type: paper-conference
+  author:
+  - family: Kelley
+    given: Gary
+  issued:
+  - year: '1993'
+  title: Administrative tools required to support very large databases
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Wentworth93
+  type: paper-conference
+  author:
+  - family: Wentworth
+    given: Laurel
+  issued:
+  - year: '1993'
+  title: Are tP monitors getting in the way of distributed transaction processing
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/BrownCL93
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Kurt P.
+  - family: Carey
+    given: Michael J.
+  - family: Livny
+    given: Miron
+  issued:
+  - year: '1993'
+  title: Towards an autopilot in the dBMS performance cockpit
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Upton93
+  type: paper-conference
+  author:
+  - family: IV
+    given: Francis Upton
+  issued:
+  - year: '1993'
+  title: Transaction iD interoperability
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/SrinivasanC91
+  type: paper-conference
+  author:
+  - family: Srinivasan
+    given: V.
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '1991'
+  title: On-line index construction algorithms
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Weikum87
+  type: paper-conference
+  author:
+  - family: Weikum
+    given: Gerhard
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: Enhancing concurrency in layered systems
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-219'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_48
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Copeland93
+  type: paper-conference
+  author:
+  - family: Copeland
+    given: George P.
+  issued:
+  - year: '1993'
+  title: Framework approach to oO management
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/DellaFera93
+  type: paper-conference
+  author:
+  - family: DellaFera
+    given: Ciaran A.
+  issued:
+  - year: '1993'
+  title: RTI-a standards based approach to transactional rPC
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Wilmot93
+  type: paper-conference
+  author:
+  - family: Wilmot
+    given: Richard B.
+  issued:
+  - year: '1993'
+  title: Exploiting chip disks for database operations and get object storage out
+    of the database system
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/CabreraR93
+  type: paper-conference
+  author:
+  - family: Cabrera
+    given: Luis-Felipe
+  - family: Rees
+    given: Robert M.
+  issued:
+  - year: '1993'
+  title: A client-server transactional storage device
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Bamberger93
+  type: paper-conference
+  author:
+  - family: Bamberger
+    given: Frank K.
+  issued:
+  - year: '1993'
+  title: Decomposing and distributing a centralized server
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Dwyer93
+  type: paper-conference
+  author:
+  - family: Dwyer
+    given: Terry
+  issued:
+  - year: '1993'
+  title: TP monitors defeat oS-based transactional systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/BeverFP87
+  type: paper-conference
+  author:
+  - family: Bever
+    given: Martin
+  - family: Feldhoffer
+    given: Magdalena
+  - family: Pappe
+    given: Stefan
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: OSI services for transaction processing
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2-19'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_40
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Garcia-Molina93
+  type: paper-conference
+  author:
+  - family: Garcia-Molina
+    given: Hector
+  issued:
+  - year: '1993'
+  title: What is workflow and who needs it?
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Duquaine93
+  type: paper-conference
+  author:
+  - family: Duquaine
+    given: Wayne V.
+  issued:
+  - year: '1993'
+  title: Why today’s dBMSes are lousy for handling 80
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/LivnyKB85
+  type: paper-conference
+  author:
+  - family: Livny
+    given: Miron
+  - family: Khoshafian
+    given: Setrag
+  - family: Boral
+    given: Haran
+  issued:
+  - year: '1985'
+  title: Multi-disk management algorithms
+  container-title: HPTS
+  page: '0-'
+  note: 'reprinted in Database Engineering Bulletin 9(1): 24-36 (1986)'
+
+- id: conf/hpts/Wachter93
+  type: paper-conference
+  author:
+  - family: Wächter
+    given: Helmut
+  issued:
+  - year: '1993'
+  title: Reliable execution of large distributed applications in aPRICOTS (a prototype
+    implementation of a conTract system)
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Gawlick85
+  type: paper-conference
+  author:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1985'
+  title: High availability with large transaction systems
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/HellandSLCGR87
+  type: paper-conference
+  author:
+  - family: Helland
+    given: Pat
+  - family: Sammer
+    given: Harald
+  - family: Lyon
+    given: Jim
+  - family: Carr
+    given: Richard
+  - family: Garrett
+    given: Phil
+  - family: '0001'
+    given: Andreas Reuter
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: Group commit timers and high volume transaction systems
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-329'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_52
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Skeadas85
+  type: paper-conference
+  author:
+  - family: Skeadas
+    given: C.
+  issued:
+  - year: '1985'
+  title: Experiences with a bank retail system using iMS/VS fast path
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/HermanG87
+  type: paper-conference
+  author:
+  - family: Herman
+    given: Gary E.
+  - family: Gopal
+    given: Gita
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: The case for orderly sharing
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-174'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_46
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Hoffman93
+  type: paper-conference
+  author:
+  - family: Hoffman
+    given: Richard
+  issued:
+  - year: '1993'
+  title: OO frameworks
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/DeWittSB87
+  type: paper-conference
+  author:
+  - family: DeWitt
+    given: David J.
+  - family: Smith
+    given: Marc G.
+  - family: Boral
+    given: Haran
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: A single-user performance evaluation of the teradata database machine
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '244-276'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_50
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/MohanL85
+  type: paper-conference
+  author:
+  - family: Mohan
+    given: C.
+  - family: '0001'
+    given: Bruce G. Lindsay
+  issued:
+  - year: '1985'
+  title: Commit coordination, deadlock detection & concurrency control in dBMS
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/HaperlinS85
+  type: paper-conference
+  author:
+  - family: Haperlin
+    given: M.
+  - family: Storey
+    given: T.
+  issued:
+  - year: '1985'
+  title: The evolution of online transaction processing under cICS/VS
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Srutchin85
+  type: paper-conference
+  author:
+  - family: Scrutchin
+    given: Thomas W.
+  issued:
+  - year: '1985'
+  title: 'TPF: Performance, capacity, and availability'
+  title-short: TPF
+  container-title: HPTS
+  page: '0-'
+
+- id: conf/hpts/Hobson87
+  type: paper-conference
+  author:
+  - family: Hobson
+    given: S. J.
+  editor:
+  - family: Gawlick
+    given: Dieter
+  issued:
+  - year: '1987'
+  title: ALCS - a high-performance high-availability dB/DC monitor
+  container-title: HPTS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-146'
+  volume: '359'
+  DOI: 10.1007/3-540-51085-0_45
+  ISBN: '3-540-51085-0'
+
+- id: conf/hpts/Stonebraker85
+  type: paper-conference
+  author:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1985'
+  title: The case for shared nothing
+  container-title: HPTS
+  page: '0-'
+  note: 'reprinted in Database Engineering Bulletin 9(1): 4-9 (1986)'
+...

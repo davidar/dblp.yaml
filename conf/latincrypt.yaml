@@ -1,0 +1,1838 @@
+---
+references:
+- id: conf/latincrypt/FujisakiX15
+  type: paper-conference
+  author:
+  - family: Fujisaki
+    given: Eiichiro
+  - family: Xagawa
+    given: Keita
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Efficient rKA-secure kEM and iBE schemes against invertible functions
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-20'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_1
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/GeihsC14
+  type: paper-conference
+  author:
+  - family: Geihs
+    given: Matthias
+  - family: Cabarcas
+    given: Daniel
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Efficient integer encoding for homomorphic encryption via ring isomorphisms
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-63'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_3
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/BernsteinLS12
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Daniel J.
+  - family: Lange
+    given: Tanja
+  - family: Schwabe
+    given: Peter
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: The security impact of a new cryptographic library
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-176'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_9
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/FujiokaOS10
+  type: paper-conference
+  author:
+  - family: Fujioka
+    given: Atsushi
+  - family: Okamoto
+    given: Yoshiaki
+  - family: Saito
+    given: Taiichi
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Security of sequential multiple encryption
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-39'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_2
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/Faz-HernandezL15
+  type: paper-conference
+  author:
+  - family: Faz-Hernández
+    given: Armando
+  - family: López
+    given: Julio
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Fast implementation of curve25519 using aVX2
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '329-345'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_18
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/CapunayT15
+  type: paper-conference
+  author:
+  - family: Capuñay
+    given: Alex
+  - family: Thériault
+    given: Nicolas
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Computing optimal 2-3 chains for pairings
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '225-244'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_13
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/NakamuraT14
+  type: paper-conference
+  author:
+  - family: Nakamura
+    given: Dionathan
+  - family: Terada
+    given: Routo
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: RSA and elliptic curve least significant bit security
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-161'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_8
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/BogdanovDELMST14
+  type: paper-conference
+  author:
+  - family: Bogdanov
+    given: Andrey
+  - family: Dobraunig
+    given: Christoph
+  - family: Eichlseder
+    given: Maria
+  - family: Lauridsen
+    given: Martin M.
+  - family: Mendel
+    given: Florian
+  - family: Schläffer
+    given: Martin
+  - family: Tischhauser
+    given: Elmar
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Key recovery attacks on recent authenticated ciphers
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '274-287'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_15
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/FaugereJPT10
+  type: paper-conference
+  author:
+  - family: Faugère
+    given: Jean-Charles
+  - family: Joux
+    given: Antoine
+  - family: Perret
+    given: Ludovic
+  - family: Treger
+    given: Joana
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Cryptanalysis of the hidden matrix cryptosystem
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-254'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_15
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/PoppelmannG12
+  type: paper-conference
+  author:
+  - family: Pöppelmann
+    given: Thomas
+  - family: Güneysu
+    given: Tim
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Towards efficient arithmetic for lattice-based cryptography on reconfigurable
+    hardware
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-158'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_8
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/Nakahara15
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Jorge Nakahara
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Cryptanalysis of the full 8.5-round rEESSE3+ block cipher
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-186'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_10
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/PoppelmannOG15
+  type: paper-conference
+  author:
+  - family: Pöppelmann
+    given: Thomas
+  - family: Oder
+    given: Tobias
+  - family: Güneysu
+    given: Tim
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: High-performance ideal lattice-based cryptography on 8-bit aTxmega microcontrollers
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '346-365'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_19
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/Raddum15
+  type: paper-conference
+  author:
+  - family: Raddum
+    given: Håvard
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Algebraic analysis of the simon block cipher family
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-169'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_9
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/AbarzuaT12
+  type: paper-conference
+  author:
+  - family: Abarzúa
+    given: Rodrigo
+  - family: Thériault
+    given: Nicolas
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Complete atomic blocks for elliptic curves in jacobian coordinates over prime
+    fields
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-55'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_3
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/DetreyHPS10
+  type: paper-conference
+  author:
+  - family: Detrey
+    given: Jérémie
+  - family: Hanrot
+    given: Guillaume
+  - family: Pujol
+    given: Xavier
+  - family: Stehlé
+    given: Damien
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Accelerating lattice reduction with fPGAs
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-143'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_8
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/LauterLN14
+  type: paper-conference
+  author:
+  - family: Lauter
+    given: Kristin E.
+  - family: López-Alt
+    given: Adriana
+  - family: Naehrig
+    given: Michael
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Private computation on encrypted genomic data
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-27'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_1
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/FouquetMV14
+  type: paper-conference
+  author:
+  - family: Fouquet
+    given: Mireille
+  - family: Miret
+    given: Josep M.
+  - family: Valera
+    given: Javier
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Isogeny volcanoes of elliptic curves and sylow subgroups
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-175'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_9
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/GierlichsST12
+  type: paper-conference
+  author:
+  - family: Gierlichs
+    given: Benedikt
+  - family: Schmidt
+    given: Jörn-Marc
+  - family: Tunstall
+    given: Michael
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: 'Infective computation and dummy rounds: Fault protection for block ciphers
+    without check-before-output'
+  title-short: Infective computation and dummy rounds
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-321'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_17
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/IzabachenePV10
+  type: paper-conference
+  author:
+  - family: Izabachène
+    given: Malika
+  - family: Pointcheval
+    given: David
+  - family: Vergnaud
+    given: Damien
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Mediated traceable anonymous encryption
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-60'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_3
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/GordonWXY10
+  type: paper-conference
+  author:
+  - family: Gordon
+    given: S. Dov
+  - family: Wee
+    given: Hoeteck
+  - family: Xiao
+    given: David
+  - family: Yerukhimovich
+    given: Arkady
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: On the round complexity of zero-knowledge proofs based on one-way permutations
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-204'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_12
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/2012
+  type: book
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Progress in cryptology - lATINCRYPT 2012 - 2nd international conference on
+    cryptology and information security in latin america, santiago, chile, october
+    7-10, 2012. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/LaarhovenW15
+  type: paper-conference
+  author:
+  - family: Laarhoven
+    given: Thijs
+  - family: Weger
+    given: Benne
+    dropping-particle: de
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Faster sieving for shortest lattice vectors using spherical locality-sensitive
+    hashing
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-118'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_6
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/PietrzakS15
+  type: paper-conference
+  author:
+  - family: Pietrzak
+    given: Krzysztof
+  - family: Skorski
+    given: Maciej
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: The chain rule for hILL pseudoentropy, revisited
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-98'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_5
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/KircanskiY12
+  type: paper-conference
+  author:
+  - family: Kircanski
+    given: Aleksandar
+  - family: Youssef
+    given: Amr M.
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: On the sosemanuk related key-iV sets
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-287'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_15
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/NachefPV12
+  type: paper-conference
+  author:
+  - family: Nachef
+    given: Valérie
+  - family: Patarin
+    given: Jacques
+  - family: Volte
+    given: Emmanuel
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Zero-knowledge for multivariate polynomials
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-213'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_11
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/FitzpatrickBBDG14
+  type: paper-conference
+  author:
+  - family: Fitzpatrick
+    given: Robert
+  - family: Bischof
+    given: Christian H.
+  - family: Buchmann
+    given: Johannes A.
+  - family: Dagdelen
+    given: Özgür
+  - family: Göpfert
+    given: Florian
+  - family: Mariano
+    given: Artur
+  - family: Yang
+    given: Bo-Yin
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Tuning gaussSieve for speed
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288-305'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_16
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/AbdelkhalekATY15
+  type: paper-conference
+  author:
+  - family: Abdelkhalek
+    given: Ahmed
+  - family: AlTawy
+    given: Riham
+  - family: Tolba
+    given: Mohamed
+  - family: Youssef
+    given: Amr M.
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Meet-in-the-middle attacks on reduced-round hierocrypt-3
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-203'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_11
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/AranhaFLR12
+  type: paper-conference
+  author:
+  - family: Aranha
+    given: Diego F.
+  - family: Faz-Hernández
+    given: Armando
+  - family: López
+    given: Julio
+  - family: Rodríguez-Henríquez
+    given: Francisco
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Faster implementation of scalar multiplication on koblitz curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-193'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_10
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/BernsteinCKL15
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Daniel J.
+  - family: Chuengsatiansup
+    given: Chitchanok
+  - family: Kohel
+    given: David
+  - family: Lange
+    given: Tanja
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Twisted hessian curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '269-294'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_15
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/BernsteinGJLSS14
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Daniel J.
+  - family: Gastel
+    given: Bernard
+    dropping-particle: van
+  - family: Janssen
+    given: Wesley
+  - family: Lange
+    given: Tanja
+  - family: Schwabe
+    given: Peter
+  - family: Smetsers
+    given: Sjaak
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: 'TweetNaCl: A crypto library in 100 tweets'
+  title-short: TweetNaCl
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '64-83'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_4
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/PhanPS12
+  type: paper-conference
+  author:
+  - family: Phan
+    given: Duong Hieu
+  - family: Pointcheval
+    given: David
+  - family: Strefler
+    given: Mario
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Message-based traitor tracing with optimal ciphertext rate
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-77'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_4
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/Mesnager12
+  type: paper-conference
+  author:
+  - family: Mesnager
+    given: Sihem
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Semi-bent functions with multiple trace terms and hyperelliptic curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-36'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_2
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/AbdallaCM12
+  type: paper-conference
+  author:
+  - family: Abdalla
+    given: Michel
+  - family: Caro
+    given: Angelo De
+  - family: Mochetti
+    given: Karina
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Lattice-based hierarchical inner product encryption
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-138'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_7
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/OliveiraL15
+  type: paper-conference
+  author:
+  - family: Oliveira
+    given: Ana Karina D. S.
+    dropping-particle: de
+  - family: López
+    given: Julio
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: An efficient software implementation of the hash-based signature scheme mSS
+    and its variants
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '366-383'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_20
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/BiasseR15
+  type: paper-conference
+  author:
+  - family: Biasse
+    given: Jean-François
+  - family: Ruiz
+    given: Luis
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: FHEW with efficient multibit bootstrapping
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-135'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_7
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/Standaert10
+  type: paper-conference
+  author:
+  - family: Standaert
+    given: François-Xavier
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: How leaky is an extractor?
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-304'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_18
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/HinterwalderMHS14
+  type: paper-conference
+  author:
+  - family: Hinterwälder
+    given: Gesine
+  - family: Moradi
+    given: Amir
+  - family: Hutter
+    given: Michael
+  - family: Schwabe
+    given: Peter
+  - family: Paar
+    given: Christof
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Full-size high-security eCC implementation on mSP430 microcontrollers
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-47'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_2
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/NachefPT10
+  type: paper-conference
+  author:
+  - family: Nachef
+    given: Valérie
+  - family: Patarin
+    given: Jacques
+  - family: Treger
+    given: Joana
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Generic attacks on misty schemes
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-240'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_14
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/AumassonJN14
+  type: paper-conference
+  author:
+  - family: Aumasson
+    given: Jean-Philippe
+  - family: Jovanovic
+    given: Philipp
+  - family: Neves
+    given: Samuel
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: 'Analysis of nORX: Investigating differential and rotational properties'
+  title-short: Analysis of nORX
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '306-324'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_17
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/BarretoCMNPZ15
+  type: paper-conference
+  author:
+  - family: Barreto
+    given: Paulo S. L. M.
+  - family: Costello
+    given: Craig
+  - family: Misoczki
+    given: Rafael
+  - family: Naehrig
+    given: Michael
+  - family: Pereira
+    given: Geovandro C. C. F.
+  - family: Zanon
+    given: Gustavo
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Subgroup security in pairing-based cryptography
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '245-265'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_14
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/FouqueT10
+  type: paper-conference
+  author:
+  - family: Fouque
+    given: Pierre-Alain
+  - family: Tibouchi
+    given: Mehdi
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Estimating the size of the image of deterministic hash functions to elliptic
+    curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-91'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_5
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/AranhaLH10
+  type: paper-conference
+  author:
+  - family: Aranha
+    given: Diego F.
+  - family: López
+    given: Julio
+  - family: Hankerson
+    given: Darrel
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Efficient software implementation of binary field arithmetic using vector
+    instruction sets
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-161'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_9
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/AnkeleKR15
+  type: paper-conference
+  author:
+  - family: Ankele
+    given: Ralph
+  - family: Kölbl
+    given: Stefan
+  - family: Rechberger
+    given: Christian
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: State-recovery analysis of spritz
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-221'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_12
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/CamachoH10
+  type: paper-conference
+  author:
+  - family: Camacho
+    given: Philippe
+  - family: Hevia
+    given: Alejandro
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: On the impossibility of batch update for cryptographic accumulators
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-188'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_11
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/GarciaGHV14
+  type: paper-conference
+  author:
+  - family: García
+    given: Pablo
+  - family: Graaf
+    given: Jeroen
+    dropping-particle: van de
+  - family: Hevia
+    given: Alejandro
+  - family: Viola
+    given: Alfredo
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Beating the birthday paradox in dining cryptographer networks
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-198'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_10
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/FontaineGLO14
+  type: paper-conference
+  author:
+  - family: Fontaine
+    given: Caroline
+  - family: Gambs
+    given: Sébastien
+  - family: Lolive
+    given: Julien
+  - family: Onete
+    given: Cristina
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: 'Private asymmetric fingerprinting: A protocol with optimal traitor tracing
+    using tardos codes'
+  title-short: Private asymmetric fingerprinting
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-218'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_11
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/CostelloS10
+  type: paper-conference
+  author:
+  - family: Costello
+    given: Craig
+  - family: Stebila
+    given: Douglas
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Fixed argument pairings
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-108'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_6
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/VitseW15
+  type: paper-conference
+  author:
+  - family: Vitse
+    given: Vanessa
+  - family: Wallet
+    given: Alexandre
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Improved sieving on algebraic curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '295-307'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_16
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/BuhrowRSGD14
+  type: paper-conference
+  author:
+  - family: Buhrow
+    given: Benjamin
+  - family: Riemer
+    given: Paul
+  - family: Shea
+    given: Mike
+  - family: Gilbert
+    given: Barry K.
+  - family: Daniel
+    given: Erik S.
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: 'Block cipher speed and energy efficiency records on the mSP430: System
+    design trade-offs for 16-bit embedded applications'
+  title-short: Block cipher speed and energy efficiency records on the mSP430
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-123'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_6
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/GouveaL12
+  type: paper-conference
+  author:
+  - family: Gouvêa
+    given: Conrado Porto Lopes
+  - family: López
+    given: Julio
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: High speed implementation of authenticated encryption for the mSP430X microcontroller
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288-304'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_16
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/BoureanuMV12
+  type: paper-conference
+  author:
+  - family: Boureanu
+    given: Ioana
+  - family: Mitrokotsa
+    given: Aikaterini
+  - family: Vaudenay
+    given: Serge
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: On the pseudorandom function assumption in (secure) distance-bounding protocols
+    - pRF-ness alone does not stop the frauds!
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-120'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_6
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/KolblR14
+  type: paper-conference
+  author:
+  - family: Kölbl
+    given: Stefan
+  - family: Rechberger
+    given: Christian
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Practical attacks on aES-like cryptographic hash functions
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-273'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_14
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/MacFieP12
+  type: paper-conference
+  author:
+  - family: MacFie
+    given: Andrew
+  - family: Panario
+    given: Daniel
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Random mappings with restricted preimages
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-270'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_14
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/GuilleySMRV10
+  type: paper-conference
+  author:
+  - family: Guilley
+    given: Sylvain
+  - family: Sauvage
+    given: Laurent
+  - family: Micolod
+    given: Julien
+  - family: Réal
+    given: Denis
+  - family: Valette
+    given: Frédéric
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Defeating any secret cryptography with sCARE attacks
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-293'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_17
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/BoklanDS10
+  type: paper-conference
+  author:
+  - family: Boklan
+    given: Kent D.
+  - family: Dent
+    given: Alexander W.
+  - family: Seaman
+    given: Christopher A.
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Broadcast encryption with multiple trust authorities
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_1
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/AlwenHMPR14
+  type: paper-conference
+  author:
+  - family: Alwen
+    given: Joël
+  - family: Hirt
+    given: Martin
+  - family: Maurer
+    given: Ueli
+  - family: Patra
+    given: Arpita
+  - family: Raykov
+    given: Pavel
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Anonymous authentication with shared secrets
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-236'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_12
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/ChouO15
+  type: paper-conference
+  author:
+  - family: Chou
+    given: Tung
+  - family: Orlandi
+    given: Claudio
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: The simplest protocol for oblivious transfer
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-58'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_3
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/CalikT10
+  type: paper-conference
+  author:
+  - family: Çalik
+    given: Çagdas
+  - family: Turan
+    given: Meltem Sönmez
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Message recovery and pseudo-preimage attacks on the compression function
+    of hamsi-256
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-221'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_13
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/SaraswatP14
+  type: paper-conference
+  author:
+  - family: Saraswat
+    given: Vishal
+  - family: Pandey
+    given: Sumit Kumar
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: How to leak a secret and reap the rewards too
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '348-367'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_19
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/FouqueT12
+  type: paper-conference
+  author:
+  - family: Fouque
+    given: Pierre-Alain
+  - family: Tibouchi
+    given: Mehdi
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Indifferentiable hashing to barreto-naehrig curves
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_1
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/ChenalT14
+  type: paper-conference
+  author:
+  - family: Chenal
+    given: Massimo
+  - family: Tang
+    given: Qiang
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: On key recovery attacks against existing somewhat homomorphic encryption
+    schemes
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '239-258'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_13
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/BernsteinBL10
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Daniel J.
+  - family: Birkner
+    given: Peter
+  - family: Lange
+    given: Tanja
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Starfish on strike
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-80'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_4
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/SantisR14
+  type: paper-conference
+  author:
+  - family: Santis
+    given: Fabrizio De
+  - family: Rass
+    given: Stefan
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: On efficient leakage-resilient pseudorandom functions with hard-to-invert
+    leakages
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-145'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_7
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/PatraR10
+  type: paper-conference
+  author:
+  - family: Patra
+    given: Arpita
+  - family: Rangan
+    given: C. Pandu
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Communication optimal multi-valued asynchronous broadcast protocol
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-177'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_10
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/IovinoZ15
+  type: paper-conference
+  author:
+  - family: Iovino
+    given: Vincenzo
+  - family: Zebrowski
+    given: Karol
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Simulation-based secure functional encryption in the random oracle model
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-39'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_2
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/DinurDGS15
+  type: paper-conference
+  author:
+  - family: Dinur
+    given: Itai
+  - family: Dunkelman
+    given: Orr
+  - family: Gutman
+    given: Masha
+  - family: Shamir
+    given: Adi
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Improved top-down techniques in differential cryptanalysis
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-156'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_8
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/DixonJS12
+  type: paper-conference
+  author:
+  - family: Dixon
+    given: Vanessa
+  - family: Jr.
+    given: Michael J. Jacobson
+  - family: Scheidler
+    given: Renate
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Improved exponentiation and key agreement in the infrastructure of a real
+    quadratic field
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '214-233'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_12
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/AbdallaV12
+  type: paper-conference
+  author:
+  - family: Abdalla
+    given: Michel
+  - family: Vie
+    given: Jill-Jênn
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: Leakage-resilient spatial encryption
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-99'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_5
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/2014
+  type: book
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2015'
+  title: Progress in cryptology - lATINCRYPT 2014 - third international conference
+    on cryptology and information security in latin america, florianópolis, brazil,
+    september 17-19, 2014, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/2015
+  type: book
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Progress in cryptology - lATINCRYPT 2015 - 4th international conference on
+    cryptology and information security in latin america, guadalajara, mexico, august
+    23-26, 2015, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/DagdelenBGGOPSS14
+  type: paper-conference
+  author:
+  - family: Dagdelen
+    given: Özgür
+  - family: Bansarkhani
+    given: Rachid El
+  - family: Göpfert
+    given: Florian
+  - family: Güneysu
+    given: Tim
+  - family: Oder
+    given: Tobias
+  - family: Pöppelmann
+    given: Thomas
+  - family: Sánchez
+    given: Ana Helena
+  - family: Schwabe
+    given: Peter
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: High-speed signatures from standard lattices
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-103'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_5
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/Ghadafi14
+  type: paper-conference
+  author:
+  - family: Ghadafi
+    given: Essam
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Efficient distributed tag-based encryption and its application to group signatures
+    with efficient distributed traceability
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '327-347'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_18
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/2010
+  type: book
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Progress in cryptology - lATINCRYPT 2010, first international conference
+    on cryptology and information security in latin america, puebla, mexico, august
+    8-11, 2010, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/CetinDSS15
+  type: paper-conference
+  author:
+  - family: Çetin
+    given: Gizem S.
+  - family: Doröz
+    given: Yarkin
+  - family: Sunar
+    given: Berk
+  - family: Savas
+    given: Erkay
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Depth optimized efficient homomorphic sorting
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-80'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_4
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/NaehrigNS10
+  type: paper-conference
+  author:
+  - family: Naehrig
+    given: Michael
+  - family: Niederhagen
+    given: Ruben
+  - family: Schwabe
+    given: Peter
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: New software speed records for cryptographic pairings
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-123'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_7
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/BarhumM12
+  type: paper-conference
+  author:
+  - family: Barhum
+    given: Kfir
+  - family: Maurer
+    given: Ueli
+  editor:
+  - family: Hevia
+    given: Alejandro
+  issued:
+  - year: '2012'
+  title: 'UOWHFs from oWFs: Trading regularity for efficiency'
+  title-short: UOWHFs from oWFs
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '234-253'
+  volume: '7533'
+  DOI: 10.1007/978-3-642-33481-8_13
+  ISBN: '978-3-642-33480-1'
+
+- id: conf/latincrypt/ChiO15
+  type: paper-conference
+  author:
+  - family: Chi
+    given: Jesús-Javier
+  - family: Oliveira
+    given: Thomaz
+  editor:
+  - family: Lauter
+    given: Kristin E.
+  issued:
+  - year: '2015'
+  title: Attacking a binary gLS elliptic curve with magma
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '308-326'
+  volume: '9230'
+  DOI: 10.1007/978-3-319-22174-8_17
+  ISBN: '978-3-319-22173-1'
+
+- id: conf/latincrypt/Larraia14
+  type: paper-conference
+  author:
+  - family: Larraia
+    given: Enrique
+  editor:
+  - family: Aranha
+    given: Diego F.
+  issued:
+  - year: '2014'
+  title: Extending oblivious transfer efficiently - or - how to get active security
+    with constant cryptographic overhead
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '368-386'
+  volume: '8895'
+  DOI: 10.1007/978-3-319-16295-9_20
+  ISBN: '978-3-319-16294-2'
+
+- id: conf/latincrypt/CayrelLRS10
+  type: paper-conference
+  author:
+  - family: Cayrel
+    given: Pierre-Louis
+  - family: Lindner
+    given: Richard
+  - family: Rückert
+    given: Markus
+  - family: Silva
+    given: Rosemberg
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: A lattice-based threshold ring signature scheme
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-272'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_16
+  ISBN: '978-3-642-14711-1'
+
+- id: conf/latincrypt/SchmidtTAKKO10
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Jörn-Marc
+  - family: Tunstall
+    given: Michael
+  - family: Avanzi
+    given: Roberto Maria
+  - family: Kizhvatov
+    given: Ilya
+  - family: Kasper
+    given: Timo
+  - family: Oswald
+    given: David
+  editor:
+  - family: Abdalla
+    given: Michel
+  issued:
+  - year: '2010'
+  title: Combined implementation attack resistant exponentiation
+  container-title: LATINCRYPT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-322'
+  volume: '6212'
+  DOI: 10.1007/978-3-642-14712-8_19
+  ISBN: '978-3-642-14711-1'
+...

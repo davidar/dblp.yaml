@@ -1,0 +1,8604 @@
+---
+references:
+- id: conf/pepm/Hannan93
+  type: paper-conference
+  author:
+  - family: Hannan
+    given: John
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Searching for semantics
+  container-title: PEPM
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/154630.154631
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/LiuS00
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Stoller
+    given: Scott D.
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: 'From recursion to iteration: What are the optimizations?'
+  title-short: From recursion to iteration
+  container-title: PEPM
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/328690.328700
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/BurchettCK07
+  type: paper-conference
+  author:
+  - family: Burchett
+    given: Kimberley
+  - family: Cooper
+    given: Gregory H.
+  - family: Krishnamurthi
+    given: Shriram
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Lowering: A static optimization technique for transparent functional reactivity'
+  title-short: Lowering
+  container-title: PEPM
+  publisher: ACM
+  page: '71-80'
+  URL: http://doi.acm.org/10.1145/1244381.1244393
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/ChirokoffC99
+  type: paper-conference
+  author:
+  - family: Chirokoff
+    given: Sandrine
+  - family: Consel
+    given: Charles
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Combining program and data specialization
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '45-59'
+
+- id: conf/pepm/DegenTW12
+  type: paper-conference
+  author:
+  - family: Degen
+    given: Markus
+  - family: Thiemann
+    given: Peter
+  - family: Wehr
+    given: Stefan
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: The interaction of contracts and laziness
+  container-title: PEPM
+  publisher: ACM
+  page: '97-106'
+  URL: http://doi.acm.org/10.1145/2103746.2103766
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/MeurLC02
+  type: paper-conference
+  author:
+  - family: Meur
+    given: Anne-Françoise Le
+  - family: Lawall
+    given: Julia L.
+  - family: Consel
+    given: Charles
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Towards bridging the gap between programming languages and partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '9-18'
+  URL: http://doi.acm.org/10.1145/503032.503033
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/KobayashiMS12
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Naoki Kobayashi
+  - family: Matsuda
+    given: Kazutaka
+  - family: Shinohara
+    given: Ayumi
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Functional programs as compressed data
+  container-title: PEPM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/2103746.2103770
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Morrisett04
+  type: paper-conference
+  author:
+  - family: Morrisett
+    given: J. Gregory
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited talk: What’s the future for proof-carrying code?'
+  title-short: Invited talk
+  container-title: PEPM
+  publisher: ACM
+  page: '203'
+  URL: http://doi.acm.org/10.1145/1014007.1014029
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Baker-Finch94
+  type: paper-conference
+  author:
+  - family: Baker-Finch
+    given: Clement A.
+  issued:
+  - year: '1994'
+  title: Type theory and projections for higher-order static analysis
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '43-52'
+
+- id: conf/pepm/Mogensen98
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: 'Partial evaluation: Concepts and applications'
+  title-short: Partial evaluation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_1
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/Taha00
+  type: paper-conference
+  author:
+  - family: Taha
+    given: Walid
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: A sound reduction semantics for untyped cBN multi-stage computation. or,
+    the theory of metaML is non-trivial (extended abstract)
+  container-title: PEPM
+  publisher: ACM
+  page: '34-43'
+  URL: http://doi.acm.org/10.1145/328690.328697
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/LiWXH15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Jun
+  - family: Wang
+    given: Chenglong
+  - family: Xiong
+    given: Yingfei
+  - family: Hu
+    given: Zhenjiang
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: 'SWIN: Towards type-safe java program adaptation between aPIs'
+  title-short: SWIN
+  container-title: PEPM
+  publisher: ACM
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/2678015.2682534
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Walpole00
+  type: paper-conference
+  author:
+  - family: Walpole
+    given: Jonathan
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: 'Operating systems specialization: Experiences, opportunities and challenges
+    (abstract of invited talk)'
+  title-short: Operating systems specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '83'
+  URL: http://doi.acm.org/10.1145/328690.328701
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/CharlierH93
+  type: paper-conference
+  author:
+  - family: Charlier
+    given: Baudouin Le
+  - family: Hentenryck
+    given: Pascal Van
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: 'Groundness analysis for pROLOG: Implementation and evaluation of the domain
+    prop'
+  title-short: Groundness analysis for pROLOG
+  container-title: PEPM
+  publisher: ACM
+  page: '99-110'
+  URL: http://doi.acm.org/10.1145/154630.154641
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/HoldermansH10
+  type: paper-conference
+  author:
+  - family: Holdermans
+    given: Stefan
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Making “stricterness” more relevant
+  container-title: PEPM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1706356.1706379
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/McIlraith04
+  type: paper-conference
+  author:
+  - family: McIlraith
+    given: Sheila A.
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited talk: Towards declarative programming for web services'
+  title-short: Invited talk
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1014007.1014008
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/CunhaSV09
+  type: paper-conference
+  author:
+  - family: Cunha
+    given: Jácome
+  - family: Saraiva
+    given: João
+  - family: Visser
+    given: Joost
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: From spreadsheets to relational databases and back
+  container-title: PEPM
+  publisher: ACM
+  page: '179-188'
+  URL: http://doi.acm.org/10.1145/1480945.1480972
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Mogensen11
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Partial evaluation of the reversible language janus
+  container-title: PEPM
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/1929501.1929506
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/MossP10
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Andrew
+  - family: Page
+    given: Dan
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Bridging the gap between symbolic and efficient aES implementations
+  container-title: PEPM
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/1706356.1706376
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Sundaresh91
+  type: paper-conference
+  author:
+  - family: Sundaresh
+    given: R. S.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Building incremental programs using partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '83-93'
+  URL: http://doi.acm.org/10.1145/115865.115875
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/FeiginM08
+  type: paper-conference
+  author:
+  - family: Feigin
+    given: Boris
+  - family: Mycroft
+    given: Alan
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Jones optimality and hardware virtualization: A report on work in progress'
+  title-short: Jones optimality and hardware virtualization
+  container-title: PEPM
+  publisher: ACM
+  page: '169-175'
+  URL: http://doi.acm.org/10.1145/1328408.1328433
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/LawallMD04
+  type: paper-conference
+  author:
+  - family: Lawall
+    given: Julia L.
+  - family: Muller
+    given: Gilles
+  - family: Duchesne
+    given: Hervé
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited application paper: Language design for implementing process scheduling
+    hierarchies'
+  title-short: Invited application paper
+  container-title: PEPM
+  publisher: ACM
+  page: '80-91'
+  URL: http://doi.acm.org/10.1145/1014007.1014016
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Chin92
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '1992'
+  title: Fully lazy higher-order removal
+  container-title: PEPM
+  publisher: Yale University
+  page: '38-47'
+
+- id: conf/pepm/Rhiger99
+  type: paper-conference
+  author:
+  - family: Rhiger
+    given: Morten
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Deriving a statically typed type-directed partial evaluator
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '25-29'
+
+- id: conf/pepm/Acar09
+  type: paper-conference
+  author:
+  - family: Acar
+    given: Umut A.
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'Self-adjusting computation: (An overview)'
+  title-short: Self-adjusting computation
+  container-title: PEPM
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/1480945.1480946
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/CunhaV07
+  type: paper-conference
+  author:
+  - family: Cunha
+    given: Alcino
+  - family: Visser
+    given: Joost
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Transformation of structure-shy programs: Applied to xPath queries and
+    strategic functions'
+  title-short: Transformation of structure-shy programs
+  container-title: PEPM
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1244381.1244385
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/VinayakaraoPN15
+  type: paper-conference
+  author:
+  - family: Vinayakarao
+    given: Venkatesh
+  - family: Purandare
+    given: Rahul
+  - family: Nori
+    given: Aditya V.
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Structurally heterogeneous source code examples from unstructured knowledge
+    sources
+  container-title: PEPM
+  publisher: ACM
+  page: '21-26'
+  URL: http://doi.acm.org/10.1145/2678015.2682537
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Debray97
+  type: paper-conference
+  author:
+  - family: Debray
+    given: Saumya K.
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Resource-bounded partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '179-192'
+  URL: http://doi.acm.org/10.1145/258993.259017
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/Lopez-FraguasM13
+  type: paper-conference
+  author:
+  - family: López-Fraguas
+    given: Francisco Javier
+  - family: Martin-Martin
+    given: Enrique
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Typing as functional-logic evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/2426890.2426896
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/Augustsson10
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: O, partial evaluator, where art thou?
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1706356.1706357
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/BirkedalW94
+  type: paper-conference
+  author:
+  - family: Birkedal
+    given: Lars
+  - family: Welinder
+    given: Morten
+  issued:
+  - year: '1994'
+  title: Binding-time analysis for standard mL
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '61-71'
+
+- id: conf/pepm/AktemurKKS13
+  type: paper-conference
+  author:
+  - family: Aktemur
+    given: Baris
+  - family: Kameyama
+    given: Yukiyoshi
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: 'Shonan challenge for generative programming: Short position paper'
+  title-short: Shonan challenge for generative programming
+  container-title: PEPM
+  publisher: ACM
+  page: '147-154'
+  URL: http://doi.acm.org/10.1145/2426890.2426917
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/LiT15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Safe concurrency introduction through slicing
+  container-title: PEPM
+  publisher: ACM
+  page: '103-113'
+  URL: http://doi.acm.org/10.1145/2678015.2682533
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Thiemann93
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: A safety analysis for functional programs
+  container-title: PEPM
+  publisher: ACM
+  page: '133-144'
+  URL: http://doi.acm.org/10.1145/154630.154644
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Lopez-FraguasRS09
+  type: paper-conference
+  author:
+  - family: López-Fraguas
+    given: Francisco Javier
+  - family: Rodríguez-Hortalá
+    given: Juan
+  - family: Sánchez-Hernández
+    given: Jaime
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: A flexible framework for programming with non-deterministicfunctions
+  container-title: PEPM
+  publisher: ACM
+  page: '91-100'
+  URL: http://doi.acm.org/10.1145/1480945.1480959
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/FarmerSG14
+  type: paper-conference
+  author:
+  - family: Farmer
+    given: Andrew
+  - family: Siederdissen
+    given: Christian Höner
+    dropping-particle: zu
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: 'The hERMIT in the stream: Fusing stream fusion’s concatMap'
+  title-short: The hERMIT in the stream
+  container-title: PEPM
+  publisher: ACM
+  page: '97-108'
+  URL: http://doi.acm.org/10.1145/2543728.2543736
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/FischerMM07
+  type: paper-conference
+  author:
+  - family: Fischer
+    given: Jeffrey
+  - family: Majumdar
+    given: Rupak
+  - family: Millstein
+    given: Todd D.
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Tasks: Language support for event-driven programming'
+  title-short: Tasks
+  container-title: PEPM
+  publisher: ACM
+  page: '134-143'
+  URL: http://doi.acm.org/10.1145/1244381.1244403
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/JonesGS98
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Neil D.
+  - family: Gomard
+    given: Carsten K.
+  - family: Sestoft
+    given: Peter
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Partial evaluation for the lambda calculus
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-220'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_7
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/KameyamaKS08
+  type: paper-conference
+  author:
+  - family: Kameyama
+    given: Yukiyoshi
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Closing the stage: From staged code to typed closures'
+  title-short: Closing the stage
+  container-title: PEPM
+  publisher: ACM
+  page: '147-157'
+  URL: http://doi.acm.org/10.1145/1328408.1328430
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/AffeldtMSY02
+  type: paper-conference
+  author:
+  - family: Affeldt
+    given: Reynald
+  - family: Masuhara
+    given: Hidehiko
+  - family: Sumii
+    given: Eijiro
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Supporting objects in run-time bytecode specialization
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '50-60'
+  URL: http://doi.acm.org/10.1145/568173.568179
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/SulzmannNZ13
+  type: paper-conference
+  author:
+  - family: Sulzmann
+    given: Martin
+  - family: Nicklisch-Franken
+    given: Jürgen
+  - family: Zechner
+    given: Axel
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Traceability and evidence of correctness of eDSL abstractions
+  container-title: PEPM
+  publisher: ACM
+  page: '71-74'
+  URL: http://doi.acm.org/10.1145/2426890.2426904
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/HulaasB04
+  type: paper-conference
+  author:
+  - family: Hulaas
+    given: Jarle
+  - family: Binder
+    given: Walter
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Program transformations for portable cPU accounting and control in java
+  container-title: PEPM
+  publisher: ACM
+  page: '169-177'
+  URL: http://doi.acm.org/10.1145/1014007.1014024
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Gluck02
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Jones optimality, binding-time improvements, and the strength of program
+    specializers
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '9-19'
+  URL: http://doi.acm.org/10.1145/568173.568175
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/Mogensen92
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  issued:
+  - year: '1992'
+  title: Self-applicable partial evaluation for pure lambda calculus
+  container-title: PEPM
+  publisher: Yale University
+  page: '116-121'
+
+- id: conf/pepm/MollerS07
+  type: paper-conference
+  author:
+  - family: Møller
+    given: Anders
+  - family: Schwartzbach
+    given: Michael I.
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: XML graphs in program analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1244381.1244383
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Jones95
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Neil D.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: 'Special address: MIX ten years after'
+  title-short: Special address
+  container-title: PEPM
+  publisher: ACM Press
+  page: '24-38'
+  URL: http://doi.acm.org/10.1145/215465.215468
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Danvy98
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Type-directed partial evaluation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '367-411'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_16
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/WangCK06
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Meng
+  - family: Chen
+    given: Kung
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Type-directed weaving of aspects for higher-order functional languages
+  container-title: PEPM
+  publisher: ACM
+  page: '78-87'
+  URL: http://doi.acm.org/10.1145/1111542.1111555
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/CodishMBBH93
+  type: paper-conference
+  author:
+  - family: Codish
+    given: Michael
+  - family: Mulkers
+    given: Anne
+  - family: Bruynooghe
+    given: Maurice
+  - family: Banda
+    given: Maria J. García
+    dropping-particle: de la
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Improving abstract interpretations by combining domains
+  container-title: PEPM
+  publisher: ACM
+  page: '194-205'
+  URL: http://doi.acm.org/10.1145/154630.154650
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/CifuentesKLS09
+  type: paper-conference
+  author:
+  - family: Cifuentes
+    given: Cristina
+  - family: Keynes
+    given: Nathan
+  - family: Li
+    given: Lian
+  - family: Scholz
+    given: Bernhard
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'Program analysis for bug detection using parfait: Invited talk'
+  title-short: Program analysis for bug detection using parfait
+  container-title: PEPM
+  publisher: ACM
+  page: '7-8'
+  URL: http://doi.acm.org/10.1145/1480945.1480947
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/BrauxN00
+  type: paper-conference
+  author:
+  - family: Braux
+    given: Mathias
+  - family: Noyé
+    given: Jacques
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Towards partially evaluating reflection in java
+  container-title: PEPM
+  publisher: ACM
+  page: '2-11'
+  URL: http://doi.acm.org/10.1145/328690.328693
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/YokoyamaG07
+  type: paper-conference
+  author:
+  - family: Yokoyama
+    given: Tetsuo
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: A reversible programming language and its invertible self-interpreter
+  container-title: PEPM
+  publisher: ACM
+  page: '144-153'
+  URL: http://doi.acm.org/10.1145/1244381.1244404
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/AndersenG92
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: Lars Ole
+  - family: Gomard
+    given: Carsten K.
+  issued:
+  - year: '1992'
+  title: 'Speedup analysis in partial evaluation: Preliminary results'
+  title-short: Speedup analysis in partial evaluation
+  container-title: PEPM
+  publisher: Yale University
+  page: '1-7'
+
+- id: conf/pepm/Field92
+  type: paper-conference
+  author:
+  - family: Field
+    given: John
+  issued:
+  - year: '1992'
+  title: A simple rewriting semantics for realistic imperative programs and its application
+    to program analysis
+  container-title: PEPM
+  publisher: Yale University
+  page: '98-107'
+
+- id: conf/pepm/PettorossiP04
+  type: paper-conference
+  author:
+  - family: Pettorossi
+    given: Alberto
+  - family: Proietti
+    given: Maurizio
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: A theory of totally correct logic program transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '159-168'
+  URL: http://doi.acm.org/10.1145/1014007.1014023
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/1999
+  type: book
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Proceedings of the 1999 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, san antonio, texas, uSA, january 22-23, 1999. technical
+    report bRICS-nS-99-1
+  publisher: University of Aarhus
+
+- id: conf/pepm/BondorfD94
+  type: paper-conference
+  author:
+  - family: Bondorf
+    given: Anders
+  - family: Dussart
+    given: Dirk
+  issued:
+  - year: '1994'
+  title: 'Improving cPS-based partial evaluation: Writing cogen by hand'
+  title-short: Improving cPS-based partial evaluation
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '1-9'
+
+- id: conf/pepm/CaretteS12
+  type: paper-conference
+  author:
+  - family: Carette
+    given: Jacques
+  - family: Stump
+    given: Aaron
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Towards typing for small-step direct reflection
+  container-title: PEPM
+  publisher: ACM
+  page: '93-96'
+  URL: http://doi.acm.org/10.1145/2103746.2103765
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Puschel12
+  type: paper-conference
+  author:
+  - family: Püschel
+    given: Markus
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Compiling math to fast code
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2103746.2103748
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/DuranLMMU04
+  type: paper-conference
+  author:
+  - family: Durán
+    given: Francisco
+  - family: Lucas
+    given: Salvador
+  - family: Meseguer
+    given: José
+  - family: Marché
+    given: Claude
+  - family: Urbain
+    given: Xavier
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Proving termination of membership equational programs
+  container-title: PEPM
+  publisher: ACM
+  page: '147-158'
+  URL: http://doi.acm.org/10.1145/1014007.1014022
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/BoustaniH10
+  type: paper-conference
+  author:
+  - family: Boustani
+    given: Nabil El
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Corrective hints for type incorrect generic java programs
+  container-title: PEPM
+  publisher: ACM
+  page: '5-14'
+  URL: http://doi.acm.org/10.1145/1706356.1706360
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Monsuez95
+  type: paper-conference
+  author:
+  - family: Monsuez
+    given: Bruno
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Using abstract interpretation to define a strictness type inference system
+  container-title: PEPM
+  publisher: ACM Press
+  page: '122-133'
+  URL: http://doi.acm.org/10.1145/215465.215574
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Leuschel98a
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Advanced logic program specialisation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-292'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_11
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/ShermanSD91
+  type: paper-conference
+  author:
+  - family: Sherman
+    given: David
+  - family: Strandh
+    given: Robert
+  - family: Durand
+    given: Irène
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Optimization of equational programs using partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '72-82'
+  URL: http://doi.acm.org/10.1145/115865.115874
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/HornofN97
+  type: paper-conference
+  author:
+  - family: Hornof
+    given: Luke
+  - family: Noyé
+    given: Jacques
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: 'Accurate binding-time analysis for imperative languages: Flow, context,
+    and return sensitivity'
+  title-short: Accurate binding-time analysis for imperative languages
+  container-title: PEPM
+  publisher: ACM
+  page: '63-73'
+  URL: http://doi.acm.org/10.1145/258993.259005
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/KhooS02
+  type: paper-conference
+  author:
+  - family: Khoo
+    given: Siau-Cheng
+  - family: Shi
+    given: Kun
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Output-constraint specialization
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '106-116'
+  URL: http://doi.acm.org/10.1145/568173.568185
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/Mogensen98a
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Inherited limits
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-202'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_6
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/Hamilton07
+  type: paper-conference
+  author:
+  - family: Hamilton
+    given: Geoff W.
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Distillation: Extracting the essence of programs'
+  title-short: Distillation
+  container-title: PEPM
+  publisher: ACM
+  page: '61-70'
+  URL: http://doi.acm.org/10.1145/1244381.1244391
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/SwadiTKP06
+  type: paper-conference
+  author:
+  - family: Swadi
+    given: Kedar N.
+  - family: Taha
+    given: Walid
+  - family: Kiselyov
+    given: Oleg
+  - family: Pasalic
+    given: Emir
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: A monadic approach for avoiding code duplication when staging memoized functions
+  container-title: PEPM
+  publisher: ACM
+  page: '160-169'
+  URL: http://doi.acm.org/10.1145/1111542.1111570
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/McNerney91
+  type: paper-conference
+  author:
+  - family: McNerney
+    given: Timothy S.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Verifying the correctness of compiler transformations on basic blocks using
+    abstract interpretation
+  container-title: PEPM
+  publisher: ACM
+  page: '106-115'
+  URL: http://doi.acm.org/10.1145/115865.115877
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/OchoaP07
+  type: paper-conference
+  author:
+  - family: Ochoa
+    given: Claudio
+  - family: Puebla
+    given: Germán
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Poly-controlled partial evaluation in practice
+  container-title: PEPM
+  publisher: ACM
+  page: '164-173'
+  URL: http://doi.acm.org/10.1145/1244381.1244407
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Asai16
+  type: paper-conference
+  author:
+  - family: Asai
+    given: Kenichi
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Toward introducing binding-time analysis to metaOCaml
+  container-title: PEPM
+  publisher: ACM
+  page: '97-102'
+  URL: http://doi.acm.org/10.1145/2847538.2847547
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/2009
+  type: book
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Proceedings of the 2009 aCM sIGPLAN symposium on partial evaluation and semantics-based
+    program manipulation, pEPM 2009, savannah, gA, uSA, january 19-20, 2009
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1480945
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/1998
+  type: book
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1999'
+  title: Partial evaluation - practice and theory, dIKU 1998 international summer
+    school, copenhagen, denmark, june 29 - july 10, 1998
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1706'
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/BolzCFLPR11
+  type: paper-conference
+  author:
+  - family: Bolz
+    given: Carl Friedrich
+  - family: Cuni
+    given: Antonio
+  - family: Fijalkowski
+    given: Maciej
+  - family: Leuschel
+    given: Michael
+  - family: Pedroni
+    given: Samuele
+  - family: Rigo
+    given: Armin
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Allocation removal by partial evaluation in a tracing jIT
+  container-title: PEPM
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/1929501.1929508
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/LiT09
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Clone detection and removal for erlang/OTP within a refactoring environment
+  container-title: PEPM
+  publisher: ACM
+  page: '169-178'
+  URL: http://doi.acm.org/10.1145/1480945.1480971
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/BeyerCHJM04
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Dirk Beyer
+  - family: Chlipala
+    given: Adam
+  - family: Henzinger
+    given: Thomas A.
+  - family: Jhala
+    given: Ranjit
+  - family: Majumdar
+    given: Rupak
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited talk: The blast query language for software verification'
+  title-short: Invited talk
+  container-title: PEPM
+  publisher: ACM
+  page: '201-202'
+  URL: http://doi.acm.org/10.1145/1014007.1014028
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Das00
+  type: paper-conference
+  author:
+  - family: Das
+    given: Manuvir
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: 'Static analysis of large programs: Some experiences (abstract of invited
+    talk)'
+  title-short: Static analysis of large programs
+  container-title: PEPM
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/328690.328692
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/ScholzBF00
+  type: paper-conference
+  author:
+  - family: Scholz
+    given: Bernhard
+  - family: Blieberger
+    given: Johann
+  - family: Fahringer
+    given: Thomas
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Symbolic pointer analysis for detecting memory leaks
+  container-title: PEPM
+  publisher: ACM
+  page: '104-113'
+  URL: http://doi.acm.org/10.1145/328690.328704
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/Davis94
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Kei
+  issued:
+  - year: '1994'
+  title: PERs from projections for binding-time analysis
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '53-60'
+
+- id: conf/pepm/LiT08
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Tool support for refactoring functional programs
+  container-title: PEPM
+  publisher: ACM
+  page: '199-203'
+  URL: http://doi.acm.org/10.1145/1328408.1328437
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/PueblaH95
+  type: paper-conference
+  author:
+  - family: Puebla
+    given: Germán
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Implementation of multiple specialization in logic programs
+  container-title: PEPM
+  publisher: ACM Press
+  page: '77-87'
+  URL: http://doi.acm.org/10.1145/215465.215561
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Scholz14
+  type: paper-conference
+  author:
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: 'Partial evaluation as universal compiler tool: Experiences from the sAC
+    eco system'
+  title-short: Partial evaluation as universal compiler tool
+  container-title: PEPM
+  publisher: ACM
+  page: '95-96'
+  URL: http://doi.acm.org/10.1145/2543728.2543747
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/Lammel99
+  type: paper-conference
+  author:
+  - family: Lämmel
+    given: Ralf
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Declarative aspect-oriented programming
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '131-146'
+
+- id: conf/pepm/Garcia-PerezN13
+  type: paper-conference
+  author:
+  - family: García-Pérez
+    given: Álvaro
+  - family: Nogueira
+    given: Pablo
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: A syntactic and functional correspondence between reduction semantics and
+    reduction-free full normalisers
+  container-title: PEPM
+  publisher: ACM
+  page: '107-116'
+  URL: http://doi.acm.org/10.1145/2426890.2426911
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/BinsbergenBD15
+  type: paper-conference
+  author:
+  - family: Binsbergen
+    given: L. Thomas
+    dropping-particle: van
+  - family: Bransen
+    given: Jeroen
+  - family: Dijkstra
+    given: Atze
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: 'Linearly ordered attribute grammars: With automatic augmenting dependency
+    selection'
+  title-short: Linearly ordered attribute grammars
+  container-title: PEPM
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/2678015.2682543
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Palsberg98
+  type: paper-conference
+  author:
+  - family: Palsberg
+    given: Jens
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Eta-redexes in partial evaluation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '356-366'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_15
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/HanusS14
+  type: paper-conference
+  author:
+  - family: Hanus
+    given: Michael
+  - family: Skrlac
+    given: Fabian
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: A modular and generic analysis server system for functional logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '181-188'
+  URL: http://doi.acm.org/10.1145/2543728.2543744
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/AndersenS04
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: Helle Markmann
+  - family: Schultz
+    given: Ulrik Pagh
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Declarative specialization for object-oriented-program specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1014007.1014011
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Chin93
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Towards an automated tupling strategy
+  container-title: PEPM
+  publisher: ACM
+  page: '119-132'
+  URL: http://doi.acm.org/10.1145/154630.154643
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/2003
+  type: book
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Proceedings of the 2003 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, 2003, san diego, california, uSA, june 7, 2003
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=777388
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/DasRH95
+  type: paper-conference
+  author:
+  - family: Das
+    given: Manuvir
+  - family: Reps
+    given: Thomas W.
+  - family: Hentenryck
+    given: Pascal Van
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Semantic foundations of binding time analysis for imperative programs
+  container-title: PEPM
+  publisher: ACM Press
+  page: '100-110'
+  URL: http://doi.acm.org/10.1145/215465.215569
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/EdwardsZ08
+  type: paper-conference
+  author:
+  - family: Edwards
+    given: Stephen A.
+  - family: Zeng
+    given: Jia
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Static elaboration of recursion for concurrent software
+  container-title: PEPM
+  publisher: ACM
+  page: '71-80'
+  URL: http://doi.acm.org/10.1145/1328408.1328420
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Deutsch95
+  type: paper-conference
+  author:
+  - family: Deutsch
+    given: Alain
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Semantic models and abstract interpretation techniques for inductive data
+    structures and pointers
+  container-title: PEPM
+  publisher: ACM Press
+  page: '226-229'
+  URL: http://doi.acm.org/10.1145/215465.215594
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Shapiro04
+  type: paper-conference
+  author:
+  - family: Shapiro
+    given: Ehud Y.
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited talk: Injecting life with computers'
+  title-short: Invited talk
+  container-title: PEPM
+  publisher: ACM
+  page: '200'
+  URL: http://doi.acm.org/10.1145/1014007.1014027
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/CooperMG06
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Jonathan
+  - family: McKeever
+    given: Steve
+  - family: Garny
+    given: Alan
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: On the application of partial evaluation to the optimisation of cardiac electrophysiological
+    simulations
+  container-title: PEPM
+  publisher: ACM
+  page: '12-20'
+  URL: http://doi.acm.org/10.1145/1111542.1111546
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/BauerEFP11
+  type: paper-conference
+  author:
+  - family: Bauer
+    given: Tim
+  - family: Erwig
+    given: Martin
+  - family: Fern
+    given: Alan
+  - family: Pinto
+    given: Jervis
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Adaptation-based programming in java
+  container-title: PEPM
+  publisher: ACM
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/1929501.1929518
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/2002a
+  type: book
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Proceedings of the aCM sIGPLAN aSIA-pEPM 2002, asian symposium on partial
+    evaluation and semantics-based program manipulation, aizu, japan, september 12-14,
+    2002
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=568173
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/GluckJ98
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  - family: Jørgensen
+    given: Jesper
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Multi-level specialization (extended abstract)
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '326-337'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_13
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/Gallagher93
+  type: paper-conference
+  author:
+  - family: Gallagher
+    given: John P.
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Tutorial on specialisation of logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '88-98'
+  URL: http://doi.acm.org/10.1145/154630.154640
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Rinard11
+  type: paper-conference
+  author:
+  - family: Rinard
+    given: Martin C.
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: 'Probabilistic accuracy bounds for perforated programs: A new foundation
+    for program analysis and transformation'
+  title-short: Probabilistic accuracy bounds for perforated programs
+  container-title: PEPM
+  publisher: ACM
+  page: '79-80'
+  URL: http://doi.acm.org/10.1145/1929501.1929517
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/MalmkjaerO95
+  type: paper-conference
+  author:
+  - family: Malmkjær
+    given: Karoline
+  - family: Ørbæk
+    given: Peter
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Polyvariant specialisation for higher-order, block-structured languages
+  container-title: PEPM
+  publisher: ACM Press
+  page: '66-76'
+  URL: http://doi.acm.org/10.1145/215465.215558
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/AsaiMY97
+  type: paper-conference
+  author:
+  - family: Asai
+    given: Kenichi
+  - family: Masuhara
+    given: Hidehiko
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Partial evaluation of call-by-value lambda-calculus with side-effects
+  container-title: PEPM
+  publisher: ACM
+  page: '12-21'
+  URL: http://doi.acm.org/10.1145/258993.258997
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/Sheard97
+  type: paper-conference
+  author:
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: A type-directed, on-line, partial evaluator for a polymorphic language
+  container-title: PEPM
+  publisher: ACM
+  page: '22-35'
+  URL: http://doi.acm.org/10.1145/258993.258999
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/ConselP92
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  - family: Pai
+    given: Satish
+  issued:
+  - year: '1992'
+  title: A programming environment for binding-time based partial evaluators
+  container-title: PEPM
+  publisher: Yale University
+  page: '62-66'
+
+- id: conf/pepm/1993
+  type: book
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Proceedings of the aCM sIGPLAN symposium on partial evaluation and semantics-based
+    program manipulation, pEPM’93, copenhagen, denmark, june 14-16, 1993
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=154630
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/AlpuenteFJV97
+  type: paper-conference
+  author:
+  - family: Alpuente
+    given: María
+  - family: Falaschi
+    given: Moreno
+  - family: Iranzo
+    given: Pascual Julián
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Specialization of lazy functional logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '151-162'
+  URL: http://doi.acm.org/10.1145/258993.259015
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/Rigo04
+  type: paper-conference
+  author:
+  - family: Rigo
+    given: Armin
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Representation-based just-in-time specialization and the psyco prototype
+    for python
+  container-title: PEPM
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/1014007.1014010
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/InoueKK16
+  type: paper-conference
+  author:
+  - family: Inoue
+    given: Jun
+  - family: Kiselyov
+    given: Oleg
+  - family: Kameyama
+    given: Yukiyoshi
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: 'Staging beyond terms: Prospects and challenges'
+  title-short: Staging beyond terms
+  container-title: PEPM
+  publisher: ACM
+  page: '103-108'
+  URL: http://doi.acm.org/10.1145/2847538.2847548
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/Andersen93
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: Lars Ole
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Binding-time analysis and the taming of c pointers
+  container-title: PEPM
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/154630.154636
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Veldhuizen99
+  type: paper-conference
+  author:
+  - family: Veldhuizen
+    given: Todd L.
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: C++ templates as partial evaluation
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '13-18'
+
+- id: conf/pepm/HatcliffDDJRR03
+  type: paper-conference
+  author:
+  - family: Hatcliff
+    given: John
+  - family: Deng
+    given: William
+  - family: Dwyer
+    given: Matthew B.
+  - family: Jung
+    given: Georg
+  - family: Ranganath
+    given: Venkatesh Prasad
+  - family: Robby
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Slicing and partial evaluation of cORBA component model designs for avionics
+    system
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/777388.777389
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/Katayama12
+  type: paper-conference
+  author:
+  - family: Katayama
+    given: Susumu
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: An analytical inductive functional programming system that avoids unintended
+    programs
+  container-title: PEPM
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/2103746.2103758
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Gluck91
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Towards multiple self-application
+  container-title: PEPM
+  publisher: ACM
+  page: '309-320'
+  URL: http://doi.acm.org/10.1145/115865.115900
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/SuzukiKK16
+  type: paper-conference
+  author:
+  - family: Suzuki
+    given: Kenichi
+  - family: Kiselyov
+    given: Oleg
+  - family: Kameyama
+    given: Yukiyoshi
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Finally, safely-extensible and efficient language-integrated query
+  container-title: PEPM
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/2847538.2847542
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/FernandesSSV11
+  type: paper-conference
+  author:
+  - family: Fernandes
+    given: João Paulo
+  - family: Saraiva
+    given: João
+  - family: Seidel
+    given: Daniel
+  - family: Voigtländer
+    given: Janis
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Strictification of circular programs
+  container-title: PEPM
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/1929501.1929526
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/KootH15
+  type: paper-conference
+  author:
+  - family: Koot
+    given: Ruud
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Type-based exception analysis for non-strict higher-order functional languages
+    with imprecise exception semantics
+  container-title: PEPM
+  publisher: ACM
+  page: '127-138'
+  URL: http://doi.acm.org/10.1145/2678015.2682542
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/LamMLW08
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Monica S.
+  - family: Martin
+    given: Michael C.
+  - family: Livshits
+    given: V. Benjamin
+  - family: Whaley
+    given: John
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Securing web applications with static and dynamic information flow tracking
+  container-title: PEPM
+  publisher: ACM
+  page: '3-12'
+  URL: http://doi.acm.org/10.1145/1328408.1328410
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Augustsson97
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Partial evaluation in aircraft crew planning
+  container-title: PEPM
+  publisher: ACM
+  page: '127-136'
+  URL: http://doi.acm.org/10.1145/258993.259012
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/1991
+  type: book
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Proceedings of the symposium on partial evaluation and semantics-based program
+    manipulation, pEPM’91, yale university, new haven, connecticut, uSA, june 17-19,
+    1991
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=115865
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/AntwerpenNTVW16
+  type: paper-conference
+  author:
+  - family: Antwerpen
+    given: Hendrik
+    dropping-particle: van
+  - family: Neron
+    given: Pierre
+  - family: Tolmach
+    given: Andrew P.
+  - family: Visser
+    given: Eelco
+  - family: Wachsmuth
+    given: Guido
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: A constraint language for static semantic analysis based on scope graphs
+  container-title: PEPM
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/2847538.2847543
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/GillenwaterMSZTGO08
+  type: paper-conference
+  author:
+  - family: Gillenwater
+    given: Jennifer
+  - family: Malecha
+    given: Gregory
+  - family: Salama
+    given: Cherif
+  - family: Zhu
+    given: Angela Yun
+  - family: Taha
+    given: Walid
+  - family: Grundy
+    given: Jim
+  - family: O’Leary
+    given: John
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Synthesizable high level hardware descriptions: Using statically typed
+    two-level languages to guarantee verilog synthesizability'
+  title-short: Synthesizable high level hardware descriptions
+  container-title: PEPM
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1328408.1328416
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Metayer95
+  type: paper-conference
+  author:
+  - family: Métayer
+    given: Daniel Le
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Proving properties of programs defined over recursive data structures
+  container-title: PEPM
+  publisher: ACM Press
+  page: '88-99'
+  URL: http://doi.acm.org/10.1145/215465.215567
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/DeanCG94
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Jeffrey
+  - family: Chambers
+    given: Craig
+  - family: Grove
+    given: David
+  issued:
+  - year: '1994'
+  title: Identifying profitable specialization in object-oriented languages
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '85-96'
+
+- id: conf/pepm/WangN14
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Meng
+  - family: Najd
+    given: Shayan
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Semantic bidirectionalization revisited
+  container-title: PEPM
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/2543728.2543729
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/BaierGZ94
+  type: paper-conference
+  author:
+  - family: Baier
+    given: Romana
+  - family: Glück
+    given: Robert
+  - family: Zöchling
+    given: Robert
+  issued:
+  - year: '1994'
+  title: Partial evaluation of numerical programs in fortran
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '119-132'
+
+- id: conf/pepm/HammerGK06
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Christian Hammer
+  - family: Grimme
+    given: Martin
+  - family: Krinke
+    given: Jens
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Dynamic path conditions in dependence graphs
+  container-title: PEPM
+  publisher: ACM
+  page: '58-67'
+  URL: http://doi.acm.org/10.1145/1111542.1111552
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Amarasinghe02
+  type: paper-conference
+  author:
+  - family: Amarasinghe
+    given: Saman P.
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: 'Defying the speed of light: : A spatially-aware compiler for wire-exposed
+    architectures'
+  title-short: Defying the speed of light
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '70'
+  URL: http://doi.acm.org/10.1145/568173.568181
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/KoZH16
+  type: paper-conference
+  author:
+  - family: Ko
+    given: Hsiang-Shang
+  - family: Zan
+    given: Tao
+  - family: Hu
+    given: Zhenjiang
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: 'BiGUL: A formally verified core language for putback-based bidirectional
+    programming'
+  title-short: BiGUL
+  container-title: PEPM
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/2847538.2847544
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/IwamaK02
+  type: paper-conference
+  author:
+  - family: Iwama
+    given: Futoshi
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: A new type system for jVM lock primitives
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/568173.568182
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/LiuHT07
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Dongxi
+  - family: Hu
+    given: Zhenjiang
+  - family: Takeichi
+    given: Masato
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Bidirectional interpretation of xQuery
+  container-title: PEPM
+  publisher: ACM
+  page: '21-30'
+  URL: http://doi.acm.org/10.1145/1244381.1244386
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/LiuT95
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Teitelbaum
+    given: Tim
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Caching intermediate results for program improvement
+  container-title: PEPM
+  publisher: ACM Press
+  page: '190-201'
+  URL: http://doi.acm.org/10.1145/215465.215590
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Hofmann10
+  type: paper-conference
+  author:
+  - family: '0008'
+    given: Martin Hofmann
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: 'IGOR2 - an analytical inductive functional programming system: Tool demo'
+  title-short: IGOR2 - an analytical inductive functional programming system
+  container-title: PEPM
+  publisher: ACM
+  page: '29-32'
+  URL: http://doi.acm.org/10.1145/1706356.1706364
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Mossin93
+  type: paper-conference
+  author:
+  - family: Mossin
+    given: Christian
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Partial evaluation of general parsers
+  container-title: PEPM
+  publisher: ACM
+  page: '13-21'
+  URL: http://doi.acm.org/10.1145/154630.154632
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/MoorHV07
+  type: paper-conference
+  author:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  - family: Hajiyev
+    given: Elnar
+  - family: Verbaere
+    given: Mathieu
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Object-oriented queries over software systems: (Abstract of invited talk)'
+  title-short: Object-oriented queries over software systems
+  container-title: PEPM
+  publisher: ACM
+  page: '91'
+  URL: http://doi.acm.org/10.1145/1244381.1244396
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/BransenDS15
+  type: paper-conference
+  author:
+  - family: Bransen
+    given: Jeroen
+  - family: Dijkstra
+    given: Atze
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Incremental evaluation of higher order attributes
+  container-title: PEPM
+  publisher: ACM
+  page: '39-48'
+  URL: http://doi.acm.org/10.1145/2678015.2682541
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/AllenH03
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Matthew
+  - family: Horwitz
+    given: Susan
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Slicing java programs that throw and catch exceptions
+  container-title: PEPM
+  publisher: ACM
+  page: '44-54'
+  URL: http://doi.acm.org/10.1145/777388.777394
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/CominiT13
+  type: paper-conference
+  author:
+  - family: Comini
+    given: Marco
+  - family: Torella
+    given: Luca
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: 'TRSynth: A tool for automatic inference of term equivalence in left-linear
+    term rewriting systems'
+  title-short: TRSynth
+  container-title: PEPM
+  publisher: ACM
+  page: '67-70'
+  URL: http://doi.acm.org/10.1145/2426890.2426903
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/2012
+  type: book
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Proceedings of the aCM sIGPLAN 2012 workshop on partial evaluation and program
+    manipulation, pEPM 2012, philadelphia, pennsylvania, uSA, january 23-24, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2103746
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/HuTI99
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Zhenjiang
+  - family: Takeichi
+    given: Masato
+  - family: Iwasaki
+    given: Hideya
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: 'Diffusion: Calculating efficient parallel programs'
+  title-short: Diffusion
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '85-94'
+
+- id: conf/pepm/MelskiR97
+  type: paper-conference
+  author:
+  - family: Melski
+    given: David
+  - family: Reps
+    given: Thomas W.
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Interconveritibility of set constraints and context-free language reachability
+  container-title: PEPM
+  publisher: ACM
+  page: '74-89'
+  URL: http://doi.acm.org/10.1145/258993.259006
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/GotoS12
+  type: paper-conference
+  author:
+  - family: Goto
+    given: Takumi
+  - family: Sasano
+    given: Isao
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: An approach to completing variable names for implicitly typed functional
+    languages
+  container-title: PEPM
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/2103746.2103771
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Thiemann13
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Partially static operations
+  container-title: PEPM
+  publisher: ACM
+  page: '75-76'
+  URL: http://doi.acm.org/10.1145/2426890.2426906
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/Siek10
+  type: paper-conference
+  author:
+  - family: Siek
+    given: Jeremy G.
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: General purpose languages should be metalanguages
+  container-title: PEPM
+  publisher: ACM
+  page: '3-4'
+  URL: http://doi.acm.org/10.1145/1706356.1706358
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Malmkjaer93
+  type: paper-conference
+  author:
+  - family: Malmkjær
+    given: Karoline
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Towards efficient partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '33-43'
+  URL: http://doi.acm.org/10.1145/154630.154634
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Davis93
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Kei
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Higher-order binding-time analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '78-87'
+  URL: http://doi.acm.org/10.1145/154630.154639
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/MagalhaesHJL10
+  type: paper-conference
+  author:
+  - family: Magalhães
+    given: José Pedro
+  - family: Holdermans
+    given: Stefan
+  - family: Jeuring
+    given: Johan
+  - family: Löh
+    given: Andres
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Optimizing generics is easy!
+  container-title: PEPM
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/1706356.1706366
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Prestwich93
+  type: paper-conference
+  author:
+  - family: Prestwich
+    given: Steven David
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Online partial deduction of large programs
+  container-title: PEPM
+  publisher: ACM
+  page: '111-118'
+  URL: http://doi.acm.org/10.1145/154630.154642
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/LiuWGRCZZ06
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Wang
+    given: Chen
+  - family: Gorbovitski
+    given: Michael
+  - family: Rothamel
+    given: Tom
+  - family: Cheng
+    given: Yongxi
+  - family: Zhao
+    given: Yingchao
+  - family: Zhang
+    given: Jing
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: 'Core role-based access control: Efficient implementations by transformations'
+  title-short: Core role-based access control
+  container-title: PEPM
+  publisher: ACM
+  page: '112-120'
+  URL: http://doi.acm.org/10.1145/1111542.1111562
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Lawall93
+  type: paper-conference
+  author:
+  - family: Lawall
+    given: Julia L.
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Proofs by structural induction using partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '155-166'
+  URL: http://doi.acm.org/10.1145/154630.154646
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Thiemann94
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '1994'
+  title: Higher-order redundancy elimination
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '73-83'
+
+- id: conf/pepm/Wadler91
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Is there a use for linear logic?
+  container-title: PEPM
+  publisher: ACM
+  page: '255-273'
+  URL: http://doi.acm.org/10.1145/115865.115894
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Reps95
+  type: paper-conference
+  author:
+  - family: Reps
+    given: Thomas W.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Shape analysis as a generalized path problem
+  container-title: PEPM
+  publisher: ACM Press
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/215465.215466
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/ChinKX03
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  - family: Khoo
+    given: Siau-Cheng
+  - family: Xu
+    given: Dana N.
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Extending sized type with collection analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '75-84'
+  URL: http://doi.acm.org/10.1145/777388.777397
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/SalamaMTGO09
+  type: paper-conference
+  author:
+  - family: Salama
+    given: Cherif
+  - family: Malecha
+    given: Gregory
+  - family: Taha
+    given: Walid
+  - family: Grundy
+    given: Jim
+  - family: O’Leary
+    given: John
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'Static consistency checking for verilog wire interconnects: Using dependent
+    types to check the sanity of verilog descriptions'
+  title-short: Static consistency checking for verilog wire interconnects
+  container-title: PEPM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1480945.1480963
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/LiO10
+  type: paper-conference
+  author:
+  - family: '0010'
+    given: Xin Li
+  - family: Ogawa
+    given: Mizuhito
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Conditional weighted pushdown systems and applications
+  container-title: PEPM
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/1706356.1706382
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/2011
+  type: book
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Proceedings of the 2011 aCM sIGPLAN workshop on partial evaluation and program
+    manipulation, pEPM 2011, austin, tX, uSA, january 24-25, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1929501
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/MoorsRHO12
+  type: paper-conference
+  author:
+  - family: Moors
+    given: Adriaan
+  - family: Rompf
+    given: Tiark
+  - family: Haller
+    given: Philipp
+  - family: Odersky
+    given: Martin
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Scala-virtualized
+  container-title: PEPM
+  publisher: ACM
+  page: '117-120'
+  URL: http://doi.acm.org/10.1145/2103746.2103769
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/AlbertBGHPR11
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Bubel
+    given: Richard
+  - family: Genaim
+    given: Samir
+  - family: Hähnle
+    given: Reiner
+  - family: Puebla
+    given: Germán
+  - family: Román-Díez
+    given: Guillermo
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Verified resource guarantees using cOSTA and keY
+  container-title: PEPM
+  publisher: ACM
+  page: '73-76'
+  URL: http://doi.acm.org/10.1145/1929501.1929513
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/CourtenageC94
+  type: paper-conference
+  author:
+  - family: Courtenage
+    given: Simon
+  - family: Clack
+    given: Chris D.
+  issued:
+  - year: '1994'
+  title: Analysing resource use in the lambda calculus by type inference
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '33-41'
+
+- id: conf/pepm/Colby95
+  type: paper-conference
+  author:
+  - family: Colby
+    given: Christopher
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Analyzing the communication topology of concurrent programs
+  container-title: PEPM
+  publisher: ACM Press
+  page: '202-213'
+  URL: http://doi.acm.org/10.1145/215465.215592
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/HornofJ99
+  type: paper-conference
+  author:
+  - family: Hornof
+    given: Luke
+  - family: Jim
+    given: Trevor
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Certifying compilation and run-time code generation
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '60-74'
+
+- id: conf/pepm/Nishimura04
+  type: paper-conference
+  author:
+  - family: Nishimura
+    given: Susumu
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Fusion with stacks and accumulating parameters
+  container-title: PEPM
+  publisher: ACM
+  page: '101-112'
+  URL: http://doi.acm.org/10.1145/1014007.1014018
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/JonssonN11
+  type: paper-conference
+  author:
+  - family: Jonsson
+    given: Peter A.
+  - family: Nordlander
+    given: Johan
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Taming code explosion in supercompilation
+  container-title: PEPM
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/1929501.1929507
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/CheathamS92
+  type: paper-conference
+  author:
+  - family: Cheatham
+    given: Thomas
+  - family: Stefanescu
+    given: Dan C.
+  issued:
+  - year: '1992'
+  title: A suite of optimizers based on abstract interpretation
+  container-title: PEPM
+  publisher: Yale University
+  page: '75-81'
+
+- id: conf/pepm/RufW92
+  type: paper-conference
+  author:
+  - family: Ruf
+    given: Erik
+  - family: Weise
+    given: Daniel
+  issued:
+  - year: '1992'
+  title: Improving the accuracy of higher-order specialization using control flow
+    analysis
+  container-title: PEPM
+  publisher: Yale University
+  page: '67-74'
+
+- id: conf/pepm/LeuschelEVCF06
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  - family: Elphick
+    given: Daniel
+  - family: Varea
+    given: Mauricio
+  - family: Craig
+    given: Stephen-John
+  - family: Fontaine
+    given: Marc
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: The ecce and logen partial evaluators and their web interfaces
+  container-title: PEPM
+  publisher: ACM
+  page: '88-94'
+  URL: http://doi.acm.org/10.1145/1111542.1111557
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/LeuschelLOST09
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  - family: Llorens
+    given: Marisa
+  - family: Oliver
+    given: Javier
+  - family: Silva
+    given: Josep
+  - family: Tamarit
+    given: Salvador
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'SOC: A slicer for cSP specifications'
+  title-short: SOC
+  container-title: PEPM
+  publisher: ACM
+  page: '165-168'
+  URL: http://doi.acm.org/10.1145/1480945.1480969
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/WarthDM08
+  type: paper-conference
+  author:
+  - family: Warth
+    given: Alessandro
+  - family: Douglass
+    given: James R.
+  - family: Millstein
+    given: Todd D.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Packrat parsers can support left recursion
+  container-title: PEPM
+  publisher: ACM
+  page: '103-110'
+  URL: http://doi.acm.org/10.1145/1328408.1328424
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/2008
+  type: book
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Proceedings of the 2008 aCM sIGPLAN symposium on partial evaluation and semantics-based
+    program manipulation, pEPM 2008, san francisco, california, uSA, january 7-8,
+    2008
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1328408
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/LeatherJLS14
+  type: paper-conference
+  author:
+  - family: Leather
+    given: Sean
+  - family: Jeuring
+    given: Johan
+  - family: Löh
+    given: Andres
+  - family: Schuur
+    given: Bram
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Type-changing rewriting and semantics-preserving transformation
+  container-title: PEPM
+  publisher: ACM
+  page: '109-120'
+  URL: http://doi.acm.org/10.1145/2543728.2543734
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/Edwards06
+  type: paper-conference
+  author:
+  - family: Edwards
+    given: Stephen A.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Using program specialization to speed systemC fixed-point simulation
+  container-title: PEPM
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/1111542.1111547
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/PopeeaC04
+  type: paper-conference
+  author:
+  - family: Popeea
+    given: Corneliu
+  - family: Chin
+    given: Wei-Ngan
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: A type system for resource protocol verification and its correctness proof
+  container-title: PEPM
+  publisher: ACM
+  page: '135-146'
+  URL: http://doi.acm.org/10.1145/1014007.1014021
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/NielBV91
+  type: paper-conference
+  author:
+  - family: Niel
+    given: Anne De
+  - family: Bevers
+    given: Eddy
+  - family: Vlaminck
+    given: Karel De
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Program bifurcation for a polymorphic typed functional language
+  container-title: PEPM
+  publisher: ACM
+  page: '142-153'
+  URL: http://doi.acm.org/10.1145/115865.115880
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/DehboneiJ92
+  type: paper-conference
+  author:
+  - family: Dehbonei
+    given: Babak
+  - family: Jouvelot
+    given: Pierre
+  issued:
+  - year: '1992'
+  title: Semantical interprocedural analysis by partial symbolic evaluation
+  container-title: PEPM
+  publisher: Yale University
+  page: '14-20'
+
+- id: conf/pepm/SumiiK00
+  type: paper-conference
+  author:
+  - family: Sumii
+    given: Eijiro
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: 'Online-and-offline partial evaluation: A mixed approach (extended abstract)'
+  title-short: Online-and-offline partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '12-21'
+  URL: http://doi.acm.org/10.1145/328690.328694
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/Sands95
+  type: paper-conference
+  author:
+  - family: Sands
+    given: David
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Higher order expression procedures
+  container-title: PEPM
+  publisher: ACM Press
+  page: '178-189'
+  URL: http://doi.acm.org/10.1145/215465.215587
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/BerlinS94
+  type: paper-conference
+  author:
+  - family: Berlin
+    given: Andrew A.
+  - family: Surati
+    given: Rajeev J.
+  issued:
+  - year: '1994'
+  title: 'Partial evaluation for scientific computing: The supercomputer toolkit
+    experience'
+  title-short: Partial evaluation for scientific computing
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '133-141'
+
+- id: conf/pepm/Hughes98
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: John
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: A type specialisation tutorial
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-325'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_12
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/HarnettM92
+  type: paper-conference
+  author:
+  - family: Harnett
+    given: Sheila
+  - family: Montenyohl
+    given: Margaret
+  issued:
+  - year: '1992'
+  title: Towards efficient compilation of a dynamic object-oriented language
+  container-title: PEPM
+  publisher: Yale University
+  page: '82-89'
+
+- id: conf/pepm/RothamelL07
+  type: paper-conference
+  author:
+  - family: Rothamel
+    given: Tom
+  - family: Liu
+    given: Yanhong A.
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Efficient implementation of tuple pattern based retrieval
+  container-title: PEPM
+  publisher: ACM
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/1244381.1244394
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/ChenLWK09
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Kung
+  - family: Lin
+    given: Jia-Yin
+  - family: Weng
+    given: Shu-Chun
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Designing aspects for side-effect localization
+  container-title: PEPM
+  publisher: ACM
+  page: '189-198'
+  URL: http://doi.acm.org/10.1145/1480945.1480973
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/CarbinKMR13
+  type: paper-conference
+  author:
+  - family: Carbin
+    given: Michael
+  - family: Kim
+    given: Deokhwan
+  - family: Misailovic
+    given: Sasa
+  - family: Rinard
+    given: Martin C.
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Verified integrity properties for safe approximate program transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '63-66'
+  URL: http://doi.acm.org/10.1145/2426890.2426901
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/MatsudaHT09
+  type: paper-conference
+  author:
+  - family: Matsuda
+    given: Kazutaka
+  - family: Hu
+    given: Zhenjiang
+  - family: Takeichi
+    given: Masato
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Type-based specialization of xml transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/1480945.1480955
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Muller91
+  type: paper-conference
+  author:
+  - family: Muller
+    given: Robert
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: 'M-lISP: Its natural semantics and equational logic (extended abstract)'
+  title-short: M-lISP
+  container-title: PEPM
+  publisher: ACM
+  page: '234-242'
+  URL: http://doi.acm.org/10.1145/115865.115891
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Shivers91
+  type: paper-conference
+  author:
+  - family: Shivers
+    given: Olin
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: The semantics of scheme control-flow analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '190-198'
+  URL: http://doi.acm.org/10.1145/115865.115884
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/BischofHN02
+  type: paper-conference
+  author:
+  - family: Bischof
+    given: Christian H.
+  - family: Hovland
+    given: Paul D.
+  - family: Norris
+    given: Boyana
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Implementation of automatic differentiation tools
+  container-title: PEPM
+  publisher: ACM
+  page: '98-107'
+  URL: http://doi.acm.org/10.1145/503032.503047
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/Voigtlander08
+  type: paper-conference
+  author:
+  - family: Voigtländer
+    given: Janis
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Proving correctness via free theorems: The case of the destroy/build-rule'
+  title-short: Proving correctness via free theorems
+  container-title: PEPM
+  publisher: ACM
+  page: '13-20'
+  URL: http://doi.acm.org/10.1145/1328408.1328412
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/DussartBV95
+  type: paper-conference
+  author:
+  - family: Dussart
+    given: Dirk
+  - family: Bevers
+    given: Eddy
+  - family: Vlaminck
+    given: Karel De
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Polyvariant constructor specialisation
+  container-title: PEPM
+  publisher: ACM Press
+  page: '54-65'
+  URL: http://doi.acm.org/10.1145/215465.215554
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/PopeeaXC08
+  type: paper-conference
+  author:
+  - family: Popeea
+    given: Corneliu
+  - family: Xu
+    given: Dana N.
+  - family: Chin
+    given: Wei-Ngan
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: A practical and precise inference and specializer for array bound checks
+    elimination
+  container-title: PEPM
+  publisher: ACM
+  page: '177-187'
+  URL: http://doi.acm.org/10.1145/1328408.1328434
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/FegarasSZ94
+  type: paper-conference
+  author:
+  - family: Fegaras
+    given: Leonidas
+  - family: Sheard
+    given: Tim
+  - family: Zhou
+    given: Tong
+  issued:
+  - year: '1994'
+  title: Improving programs which recurse over multiple inductive structures
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '21-32'
+
+- id: conf/pepm/DanvyJZ11
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Johannsen
+    given: Jacob
+  - family: Zerny
+    given: Ian
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: A walk in the semantic park
+  container-title: PEPM
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1929501.1929503
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/HuntS91
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: Sebastian
+  - family: Sands
+    given: David
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: 'Binding time analysis: A new pERspective'
+  title-short: Binding time analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '154-165'
+  URL: http://doi.acm.org/10.1145/115865.115881
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/LopezH02
+  type: paper-conference
+  author:
+  - family: López
+    given: Pablo E. Martínez
+  - family: Hughes
+    given: John
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Principal type specialisation
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '94-105'
+  URL: http://doi.acm.org/10.1145/568173.568184
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/RufW91
+  type: paper-conference
+  author:
+  - family: Ruf
+    given: Erik
+  - family: Weise
+    given: Daniel
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Using types to avoid redundant specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '321-333'
+  URL: http://doi.acm.org/10.1145/115865.115902
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/HickeyS91
+  type: paper-conference
+  author:
+  - family: Hickey
+    given: Timothy J.
+  - family: Smith
+    given: Donald A.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Toward the partial evaluation of cLP languages
+  container-title: PEPM
+  publisher: ACM
+  page: '43-51'
+  URL: http://doi.acm.org/10.1145/115865.115871
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Jay99
+  type: paper-conference
+  author:
+  - family: Jay
+    given: C. Barry
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: 'Partial evaluation of shaped programs: Experience with fISh'
+  title-short: Partial evaluation of shaped programs
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '147-158'
+
+- id: conf/pepm/Consel93a
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: 'A tour of schism: A partial evaluation system for higher-order applicative
+    languages'
+  title-short: A tour of schism
+  container-title: PEPM
+  publisher: ACM
+  page: '145-154'
+  URL: http://doi.acm.org/10.1145/154630.154645
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/EversK09
+  type: paper-conference
+  author:
+  - family: Evers
+    given: Leon
+  - family: Kuper
+    given: Jan
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'Partially evaluated sensor networks: Automatic specialization for heterogeneous
+    wireless sensor & actuator networks'
+  title-short: Partially evaluated sensor networks
+  container-title: PEPM
+  publisher: ACM
+  page: '73-80'
+  URL: http://doi.acm.org/10.1145/1480945.1480956
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/CaretteES11
+  type: paper-conference
+  author:
+  - family: Carette
+    given: Jacques
+  - family: Elsheikh
+    given: Mustafa
+  - family: Smith
+    given: Spencer
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: A generative geometric kernel
+  container-title: PEPM
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/1929501.1929510
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/Daugherty04
+  type: paper-conference
+  author:
+  - family: Daugherty
+    given: Gary
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited application paper: A proposal for the specialization of hA/DRE
+    systems'
+  title-short: Invited application paper
+  container-title: PEPM
+  publisher: ACM
+  page: '56-67'
+  URL: http://doi.acm.org/10.1145/1014007.1014014
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/PuchingerS08
+  type: paper-conference
+  author:
+  - family: Puchinger
+    given: Jakob
+  - family: Stuckey
+    given: Peter J.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Automating branch-and-bound for dynamic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '81-89'
+  URL: http://doi.acm.org/10.1145/1328408.1328421
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Lammel07
+  type: paper-conference
+  author:
+  - family: Lämmel
+    given: Ralf
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Style normalization for canonical x-to-o mappings
+  container-title: PEPM
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/1244381.1244387
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/ErwigFP06
+  type: paper-conference
+  author:
+  - family: Erwig
+    given: Martin
+  - family: Fu
+    given: Zhe
+  - family: Pflaum
+    given: Ben
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Generic programming in fortran
+  container-title: PEPM
+  publisher: ACM
+  page: '130-139'
+  URL: http://doi.acm.org/10.1145/1111542.1111564
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/LucaAAK06
+  type: paper-conference
+  author:
+  - family: Luca
+    given: Beatrice
+  - family: Andrei
+    given: Stefan
+  - family: Anderson
+    given: Hugh
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Program transformation by solving recurrences
+  container-title: PEPM
+  publisher: ACM
+  page: '121-129'
+  URL: http://doi.acm.org/10.1145/1111542.1111563
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Kamin04
+  type: paper-conference
+  author:
+  - family: Kamin
+    given: Sam
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited application paper: Program generation considered easy'
+  title-short: Invited application paper
+  container-title: PEPM
+  publisher: ACM
+  page: '68-79'
+  URL: http://doi.acm.org/10.1145/1014007.1014015
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/SinghM98
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Satnam
+  - family: McKay
+    given: Nicholas
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Partial evaluation of hardware
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-230'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_8
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/Lopez-HerrejonBL06
+  type: paper-conference
+  author:
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Batory
+    given: Don S.
+  - family: Lengauer
+    given: Christian
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: A disciplined approach to aspect composition
+  container-title: PEPM
+  publisher: ACM
+  page: '68-77'
+  URL: http://doi.acm.org/10.1145/1111542.1111554
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Simon13
+  type: paper-conference
+  author:
+  - family: Simon
+    given: Axel
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Deriving a complete type inference for hindley-milner and vector sizes using
+    expansion
+  container-title: PEPM
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/2426890.2426895
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/2002
+  type: book
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Proceedings of the 2002 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation (pEPM ’02), portland, oregon, uSA, january 14-15, 2002
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=503032
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/HirzelG12
+  type: paper-conference
+  author:
+  - family: Hirzel
+    given: Martin
+  - family: Gedik
+    given: Bugra
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Streams that compose using macros that oblige
+  container-title: PEPM
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/2103746.2103772
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Bawden99
+  type: paper-conference
+  author:
+  - family: Bawden
+    given: Alan
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Quasiquotation in lisp
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '4-12'
+
+- id: conf/pepm/FutamuraKG02
+  type: paper-conference
+  author:
+  - family: Futamura
+    given: Yoshihiko
+  - family: Konishi
+    given: Zenjiro
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Automatic generation of efficient string matching algorithms by generalized
+    partial computation
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/568173.568174
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/EllnerT07
+  type: paper-conference
+  author:
+  - family: Ellner
+    given: Stephan
+  - family: Taha
+    given: Walid
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: The semantics of graphical languages
+  container-title: PEPM
+  publisher: ACM
+  page: '122-133'
+  URL: http://doi.acm.org/10.1145/1244381.1244402
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Augustsson98
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Partial evaluation in aircraft crew planning
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-245'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_9
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/1994
+  type: book
+  issued:
+  - year: '1994'
+  title: PEPM’94 - aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, walt disney world vilage, orlando, florida, uSA, 25 june
+    1994, proceedings. technical report 94/9
+  publisher: University of Melbourne, Australia, Department of Computer Science
+
+- id: conf/pepm/Lisper91
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Detecting static algorithms by partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '31-42'
+  URL: http://doi.acm.org/10.1145/115865.115870
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Lange93
+  type: paper-conference
+  author:
+  - family: Lange
+    given: Torben Poort
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: The correctness of an optimized code generation
+  container-title: PEPM
+  publisher: ACM
+  page: '167-178'
+  URL: http://doi.acm.org/10.1145/154630.154647
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/OchoaSV04
+  type: paper-conference
+  author:
+  - family: Ochoa
+    given: Claudio
+  - family: Silva
+    given: Josep
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Dynamic slicing based on redex trails
+  container-title: PEPM
+  publisher: ACM
+  page: '123-134'
+  URL: http://doi.acm.org/10.1145/1014007.1014020
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/NajdLSW16
+  type: paper-conference
+  author:
+  - family: Najd
+    given: Shayan
+  - family: Lindley
+    given: Sam
+  - family: Svenningsson
+    given: Josef
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: 'Everything old is new again: Quoted domain-specific languages'
+  title-short: Everything old is new again
+  container-title: PEPM
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/2847538.2847541
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/ProiettiP91
+  type: paper-conference
+  author:
+  - family: Proietti
+    given: Maurizio
+  - family: Pettorossi
+    given: Alberto
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Semantics preserving transformation rules for prolog
+  container-title: PEPM
+  publisher: ACM
+  page: '274-284'
+  URL: http://doi.acm.org/10.1145/115865.115895
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/GiacobazziM02
+  type: paper-conference
+  author:
+  - family: Giacobazzi
+    given: Roberto
+  - family: Mastroeni
+    given: Isabella
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Compositionality in the puzzle of semantics
+  container-title: PEPM
+  publisher: ACM
+  page: '87-97'
+  URL: http://doi.acm.org/10.1145/503032.503040
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/RytzG92
+  type: paper-conference
+  author:
+  - family: Rytz
+    given: Bernhard
+  - family: Gengler
+    given: Marc
+  issued:
+  - year: '1992'
+  title: A polyvariant binding time analysis
+  container-title: PEPM
+  publisher: Yale University
+  page: '21-28'
+
+- id: conf/pepm/ChinGK99
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  - family: Goh
+    given: Aik-Hui
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Effective optimization of multiple traversals in lazy languages
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '119-130'
+
+- id: conf/pepm/LiuS03
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Stoller
+    given: Scott D.
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Optimizing ackermann’s function by incrementalization
+  container-title: PEPM
+  publisher: ACM
+  page: '85-91'
+  URL: http://doi.acm.org/10.1145/777388.777398
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/VerstoepH15
+  type: paper-conference
+  author:
+  - family: Verstoep
+    given: Hidde
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: 'Polyvariant cardinality analysis for non-strict higher-order functional
+    languages: Brief announcement'
+  title-short: Polyvariant cardinality analysis for non-strict higher-order functional
+    languages
+  container-title: PEPM
+  publisher: ACM
+  page: '139-142'
+  URL: http://doi.acm.org/10.1145/2678015.2682536
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/SheardL02
+  type: paper-conference
+  author:
+  - family: Sheard
+    given: Tim
+  - family: Linger
+    given: Nathan
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Search-based binding time analysis using type-directed pruning
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '20-31'
+  URL: http://doi.acm.org/10.1145/568173.568176
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/Debois04
+  type: paper-conference
+  author:
+  - family: Debois
+    given: Søren
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Imperative program optimization by partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '113-122'
+  URL: http://doi.acm.org/10.1145/1014007.1014019
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/FernandesS07
+  type: paper-conference
+  author:
+  - family: Fernandes
+    given: João Paulo
+  - family: Saraiva
+    given: João
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Tools and libraries to model and manipulate circular programs
+  container-title: PEPM
+  publisher: ACM
+  page: '102-111'
+  URL: http://doi.acm.org/10.1145/1244381.1244399
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/AlbertCPR12
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Correas
+    given: Jesús
+  - family: Puebla
+    given: Germán
+  - family: Román-Díez
+    given: Guillermo
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Incremental resource usage analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '25-34'
+  URL: http://doi.acm.org/10.1145/2103746.2103754
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Asai02
+  type: paper-conference
+  author:
+  - family: Asai
+    given: Kenichi
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Online partial evaluation for shift and reset
+  container-title: PEPM
+  publisher: ACM
+  page: '19-30'
+  URL: http://doi.acm.org/10.1145/503032.503034
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/Hansen91
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Torben Amtoft
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Properties of unfolding-based meta-level systems
+  container-title: PEPM
+  publisher: ACM
+  page: '243-254'
+  URL: http://doi.acm.org/10.1145/115865.115892
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Bulyonkov93
+  type: paper-conference
+  author:
+  - family: Bulyonkov
+    given: Mikhail A.
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Extracting polyvariant binding time analysis from polyvariant specializer
+  container-title: PEPM
+  publisher: ACM
+  page: '59-65'
+  URL: http://doi.acm.org/10.1145/154630.154637
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Yallop16
+  type: paper-conference
+  author:
+  - family: Yallop
+    given: Jeremy
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Staging generic programming
+  container-title: PEPM
+  publisher: ACM
+  page: '85-96'
+  URL: http://doi.acm.org/10.1145/2847538.2847546
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/AfroozehI16
+  type: paper-conference
+  author:
+  - family: Afroozeh
+    given: Ali
+  - family: Izmaylova
+    given: Anastasia
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Operator precedence for data-dependent grammars
+  container-title: PEPM
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/2847538.2847540
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/LiuS02
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Stoller
+    given: Scott D.
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Program optimization using indexed and recursive data structures
+  container-title: PEPM
+  publisher: ACM
+  page: '108-118'
+  URL: http://doi.acm.org/10.1145/503032.503041
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/CaretteK07
+  type: paper-conference
+  author:
+  - family: Carette
+    given: Jacques
+  - family: Kucera
+    given: Michael
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Partial evaluation of maple
+  container-title: PEPM
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1244381.1244389
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Heintze02
+  type: paper-conference
+  author:
+  - family: Heintze
+    given: Nevin
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Aliasing analysis for a million lines of c
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '47-49'
+  URL: http://doi.acm.org/10.1145/568173.568178
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/AlbertAGGP12
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Arenas
+    given: Puri
+  - family: Genaim
+    given: Samir
+  - family: Gómez-Zamalloa
+    given: Miguel
+  - family: Puebla
+    given: Germán
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: 'COSTABS: A cost and termination analyzer for aBS'
+  title-short: COSTABS
+  container-title: PEPM
+  publisher: ACM
+  page: '151-154'
+  URL: http://doi.acm.org/10.1145/2103746.2103774
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Martin-Martin11
+  type: paper-conference
+  author:
+  - family: Martin-Martin
+    given: Enrique
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Type classes in functional logic programming
+  container-title: PEPM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1929501.1929524
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/Chambers02
+  type: paper-conference
+  author:
+  - family: Chambers
+    given: Craig
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Staged compilation
+  container-title: PEPM
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/503032.503045
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/KameyamaKS09
+  type: paper-conference
+  author:
+  - family: Kameyama
+    given: Yukiyoshi
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'Shifting the stage: Staging with delimited control'
+  title-short: Shifting the stage
+  container-title: PEPM
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/1480945.1480962
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/SmaragdakisHZ04
+  type: paper-conference
+  author:
+  - family: Smaragdakis
+    given: Yannis
+  - family: Huang
+    given: Shan Shan
+  - family: Zook
+    given: David
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Program generators and the tools to make them
+  container-title: PEPM
+  publisher: ACM
+  page: '92-100'
+  URL: http://doi.acm.org/10.1145/1014007.1014017
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/PueblaH03
+  type: paper-conference
+  author:
+  - family: Puebla
+    given: Germán
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Abstract specialization and its applications
+  container-title: PEPM
+  publisher: ACM
+  page: '29-43'
+  URL: http://doi.acm.org/10.1145/777388.777393
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/Lawall98
+  type: paper-conference
+  author:
+  - family: Lawall
+    given: Julia L.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Faster fourier transforms via automatic program specialization
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '338-355'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_14
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/HamiltonJ12
+  type: paper-conference
+  author:
+  - family: Hamilton
+    given: Geoffrey William
+  - family: Jones
+    given: Neil D.
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Distillation with labelled transition systems
+  container-title: PEPM
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/2103746.2103753
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/AttardiCK03
+  type: paper-conference
+  author:
+  - family: Attardi
+    given: Giuseppe
+  - family: Cisternino
+    given: Antonio
+  - family: Kennedy
+    given: Andrew
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: 'CodeBricks: Code fragments as building blocks'
+  title-short: CodeBricks
+  container-title: PEPM
+  publisher: ACM
+  page: '66-74'
+  URL: http://doi.acm.org/10.1145/777388.777396
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/BrownT10
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Christopher Brown
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Clone detection and elimination for haskell
+  container-title: PEPM
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/1706356.1706378
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/BartheU02
+  type: paper-conference
+  author:
+  - family: Barthe
+    given: Gilles
+  - family: Uustalu
+    given: Tarmo
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: CPS translating inductive and coinductive types
+  container-title: PEPM
+  publisher: ACM
+  page: '131-142'
+  URL: http://doi.acm.org/10.1145/503032.503043
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/Mogensen08
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Semi-inversion of functional parameters
+  container-title: PEPM
+  publisher: ACM
+  page: '21-29'
+  URL: http://doi.acm.org/10.1145/1328408.1328413
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/GenglerM97
+  type: paper-conference
+  author:
+  - family: Gengler
+    given: Marc
+  - family: Martel
+    given: Matthieu
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Self-applicable partial evaluation for the pi-calculus
+  container-title: PEPM
+  publisher: ACM
+  page: '36-46'
+  URL: http://doi.acm.org/10.1145/258993.259000
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/FradeSU09
+  type: paper-conference
+  author:
+  - family: Frade
+    given: Maria João
+  - family: Saabas
+    given: Ando
+  - family: Uustalu
+    given: Tarmo
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Bidirectional data-flow analyses, type-systematically
+  container-title: PEPM
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/1480945.1480965
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/MiaoS14
+  type: paper-conference
+  author:
+  - family: Miao
+    given: Weiyu
+  - family: Siek
+    given: Jeremy G.
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Compile-time reflection and metaprogramming for java
+  container-title: PEPM
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/2543728.2543739
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/LeviS00
+  type: paper-conference
+  author:
+  - family: Levi
+    given: Giorgio
+  - family: Spoto
+    given: Fausto
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Non pair-sharing and freeness analysis through linear refinement
+  container-title: PEPM
+  publisher: ACM
+  page: '52-61'
+  URL: http://doi.acm.org/10.1145/328690.328699
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/ConselPW93
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  - family: Pu
+    given: Calton
+  - family: Walpole
+    given: Jonathan
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: 'Incremental partial evaluation: The key to high performance, modularity
+    and portability in operating systems'
+  title-short: Incremental partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '44-46'
+  URL: http://doi.acm.org/10.1145/154630.154635
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Hatcliff98
+  type: paper-conference
+  author:
+  - family: Hatcliff
+    given: John
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: An introduction to online and offline partial evaluation using a simple flowchart
+    language
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-82'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_2
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/HolstG91
+  type: paper-conference
+  author:
+  - family: Holst
+    given: Carsten Kehler
+  - family: Gomard
+    given: Carsten K.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Partial evaluation is fuller laziness
+  container-title: PEPM
+  publisher: ACM
+  page: '223-233'
+  URL: http://doi.acm.org/10.1145/115865.115890
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Mogensen95
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Self-applicable online partial evaluation of pure lambda calculus
+  container-title: PEPM
+  publisher: ACM Press
+  page: '39-44'
+  URL: http://doi.acm.org/10.1145/215465.215469
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/LeCT15
+  type: paper-conference
+  author:
+  - family: Le
+    given: Duy-Khanh
+  - family: Chin
+    given: Wei-Ngan
+  - family: Teo
+    given: Yong Meng
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Threads as resource for concurrency verification
+  container-title: PEPM
+  publisher: ACM
+  page: '73-84'
+  URL: http://doi.acm.org/10.1145/2678015.2682540
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/AlpuenteBBF10
+  type: paper-conference
+  author:
+  - family: Alpuente
+    given: María
+  - family: Ballis
+    given: Demis
+  - family: Baggi
+    given: Michele
+  - family: Falaschi
+    given: Moreno
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: A fold/unfold transformation framework for rewrite theories extended to cCT
+  container-title: PEPM
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/1706356.1706367
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Kobayashi00
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Type-based useless variable elimination
+  container-title: PEPM
+  publisher: ACM
+  page: '84-93'
+  URL: http://doi.acm.org/10.1145/328690.328702
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/RudolphT10
+  type: paper-conference
+  author:
+  - family: Rudolph
+    given: Johannes
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: 'Mnemonics: Type-safe bytecode generation at run time'
+  title-short: Mnemonics
+  container-title: PEPM
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/1706356.1706361
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Debray95
+  type: paper-conference
+  author:
+  - family: Debray
+    given: Saumya K.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Abstract interpretation and low-level code optimization
+  container-title: PEPM
+  publisher: ACM Press
+  page: '111-121'
+  URL: http://doi.acm.org/10.1145/215465.215571
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/EtalleG95
+  type: paper-conference
+  author:
+  - family: Etalle
+    given: Sandro
+  - family: Gabbrielli
+    given: Maurizio
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: The replacement operation for cLP modules
+  container-title: PEPM
+  publisher: ACM Press
+  page: '168-177'
+  URL: http://doi.acm.org/10.1145/215465.215583
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/JancuraP08
+  type: paper-conference
+  author:
+  - family: Jancura
+    given: Jan
+  - family: Prusa
+    given: Daniel
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Generic framework for integration of programming languages into netbeans
+    ide
+  container-title: PEPM
+  publisher: ACM
+  page: '123-124'
+  URL: http://doi.acm.org/10.1145/1328408.1328426
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Sahlin91
+  type: paper-conference
+  author:
+  - family: Sahlin
+    given: Dan
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Determinacy analysis for full prolog
+  container-title: PEPM
+  publisher: ACM
+  page: '23-30'
+  URL: http://doi.acm.org/10.1145/115865.115869
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/SagonasST13
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Silva
+    given: Josep
+  - family: Tamarit
+    given: Salvador
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Precise explanation of success typing errors
+  container-title: PEPM
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/2426890.2426897
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/ShermanS92
+  type: paper-conference
+  author:
+  - family: Sherman
+    given: David
+  - family: Strandh
+    given: Robert
+  issued:
+  - year: '1992'
+  title: Call unfolding strategies for equational logic programs
+  container-title: PEPM
+  publisher: Yale University
+  page: '48-53'
+
+- id: conf/pepm/RungtaM09
+  type: paper-conference
+  author:
+  - family: Rungta
+    given: Neha
+  - family: Mercer
+    given: Eric G.
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Guided model checking for programs with polymorphism
+  container-title: PEPM
+  publisher: ACM
+  page: '21-30'
+  URL: http://doi.acm.org/10.1145/1480945.1480950
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Lu95
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Lunjin
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Type analysis of logic programs in the presence of type definitions
+  container-title: PEPM
+  publisher: ACM Press
+  page: '241-252'
+  URL: http://doi.acm.org/10.1145/215465.215597
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Lu02
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Lunjin
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Path dependent analysis of logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '63-74'
+  URL: http://doi.acm.org/10.1145/503032.503038
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/BobeffN04
+  type: paper-conference
+  author:
+  - family: Bobeff
+    given: Gustavo J.
+  - family: Noyé
+    given: Jacques
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Component specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/1014007.1014012
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Seward93
+  type: paper-conference
+  author:
+  - family: Seward
+    given: Julian
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Polymorphic strictness analysis using frontiers
+  container-title: PEPM
+  publisher: ACM
+  page: '186-193'
+  URL: http://doi.acm.org/10.1145/154630.154649
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Burton92
+  type: paper-conference
+  author:
+  - family: Burton
+    given: C. T. P.
+  issued:
+  - year: '1992'
+  title: Program transformation by derivor manipulations
+  container-title: PEPM
+  publisher: Yale University
+  page: '90-97'
+
+- id: conf/pepm/ThompsonM06
+  type: paper-conference
+  author:
+  - family: Thompson
+    given: Sarah
+  - family: Mycroft
+    given: Alan
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Bit-level partial evaluation of synchronous circuits
+  container-title: PEPM
+  publisher: ACM
+  page: '29-37'
+  URL: http://doi.acm.org/10.1145/1111542.1111548
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/BrabrandS02
+  type: paper-conference
+  author:
+  - family: Brabrand
+    given: Claus
+  - family: Schwartzbach
+    given: Michael I.
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Growing languages with metamorphic syntax macros
+  container-title: PEPM
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/503032.503035
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/LewisJ06
+  type: paper-conference
+  author:
+  - family: Lewis
+    given: Micah
+  - family: Jones
+    given: Michael
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: A dead variable analysis for explicit model checking
+  container-title: PEPM
+  publisher: ACM
+  page: '48-57'
+  URL: http://doi.acm.org/10.1145/1111542.1111551
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/TahaS97
+  type: paper-conference
+  author:
+  - family: Taha
+    given: Walid
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Multi-stage programming with explicit annotations
+  container-title: PEPM
+  publisher: ACM
+  page: '203-217'
+  URL: http://doi.acm.org/10.1145/258993.259019
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/PayetS14
+  type: paper-conference
+  author:
+  - family: Payet
+    given: Étienne
+  - family: Spoto
+    given: Fausto
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: An operational semantics for android activities
+  container-title: PEPM
+  publisher: ACM
+  page: '121-132'
+  URL: http://doi.acm.org/10.1145/2543728.2543748
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/AlbertGP10
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Gómez-Zamalloa
+    given: Miguel
+  - family: Puebla
+    given: Germán
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: 'PET: A partial evaluation-based test case generation tool for java bytecode'
+  title-short: PET
+  container-title: PEPM
+  publisher: ACM
+  page: '25-28'
+  URL: http://doi.acm.org/10.1145/1706356.1706363
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/2016
+  type: book
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Proceedings of the 2016 aCM sIGPLAN workshop on partial evaluation and program
+    manipulation, pEPM 2016, st. petersburg, fL, uSA, january 20 - 22, 2016
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2847538
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/Consel93
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Polyvariant binding-time analysis for applicative languages
+  container-title: PEPM
+  publisher: ACM
+  page: '66-77'
+  URL: http://doi.acm.org/10.1145/154630.154638
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/AdamsFM14
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Michael D.
+  - family: Farmer
+    given: Andrew
+  - family: Magalhães
+    given: José Pedro
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Optimizing sYB is easy!
+  container-title: PEPM
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/2543728.2543730
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/HoekH15
+  type: paper-conference
+  author:
+  - family: Hoek
+    given: Henk Erik Van
+    dropping-particle: der
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Object-sensitive type analysis of pHP
+  container-title: PEPM
+  publisher: ACM
+  page: '9-20'
+  URL: http://doi.acm.org/10.1145/2678015.2682535
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/IkedaN11
+  type: paper-conference
+  author:
+  - family: Ikeda
+    given: Yuta
+  - family: Nishimura
+    given: Susumu
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Calculating tree navigation with symmetric relational zipper
+  container-title: PEPM
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/1929501.1929521
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/HeldalH97
+  type: paper-conference
+  author:
+  - family: Heldal
+    given: Rogardt
+  - family: Hughes
+    given: John
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Partial evaluation and separate compilation
+  container-title: PEPM
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/258993.258996
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/MoretBV09
+  type: paper-conference
+  author:
+  - family: Moret
+    given: Philippe
+  - family: Binder
+    given: Walter
+  - family: Villazón
+    given: Alex
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'CCCP: Complete calling context profiling in virtual execution environments'
+  title-short: CCCP
+  container-title: PEPM
+  publisher: ACM
+  page: '151-160'
+  URL: http://doi.acm.org/10.1145/1480945.1480967
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/DanvyS97
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Schultz
+    given: Ulrik Pagh
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: 'Lambda-dropping: Transforming recursive equations into programs with block
+    structure'
+  title-short: Lambda-dropping
+  container-title: PEPM
+  publisher: ACM
+  page: '90-106'
+  URL: http://doi.acm.org/10.1145/258993.259007
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/NielsonN97
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Flemming
+  - family: Nielson
+    given: Hanne Riis
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Prescriptive frameworks for multi-level lambda-calculi
+  container-title: PEPM
+  publisher: ACM
+  page: '193-202'
+  URL: http://doi.acm.org/10.1145/258993.259018
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/Jones94
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Mark P.
+  issued:
+  - year: '1994'
+  title: Dictionary-free overloading by partial evaluation
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '107-117'
+
+- id: conf/pepm/ChinK00
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Calculating sized types
+  container-title: PEPM
+  publisher: ACM
+  page: '62-72'
+  URL: http://doi.acm.org/10.1145/328690.328893
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/Doh95
+  type: paper-conference
+  author:
+  - family: Doh
+    given: Kyung-Goo
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Action transformation by partial evaluation
+  container-title: PEPM
+  publisher: ACM Press
+  page: '230-240'
+  URL: http://doi.acm.org/10.1145/215465.215595
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/FogartyPST07
+  type: paper-conference
+  author:
+  - family: Fogarty
+    given: Seth
+  - family: Pasalic
+    given: Emir
+  - family: Siek
+    given: Jeremy G.
+  - family: Taha
+    given: Walid
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: 'Concoqtion: Indexed types now!'
+  title-short: Concoqtion
+  container-title: PEPM
+  publisher: ACM
+  page: '112-121'
+  URL: http://doi.acm.org/10.1145/1244381.1244400
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Voigtlander12
+  type: paper-conference
+  author:
+  - family: Voigtländer
+    given: Janis
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Ideas for connecting inductive program synthesis and bidirectionalization
+  container-title: PEPM
+  publisher: ACM
+  page: '39-42'
+  URL: http://doi.acm.org/10.1145/2103746.2103757
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Haftmann10
+  type: paper-conference
+  author:
+  - family: Haftmann
+    given: Florian
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: 'From higher-order logic to haskell: There and back again'
+  title-short: From higher-order logic to haskell
+  container-title: PEPM
+  publisher: ACM
+  page: '155-158'
+  URL: http://doi.acm.org/10.1145/1706356.1706385
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/2006
+  type: book
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Proceedings of the 2006 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, 2006, charleston, south carolina, uSA, january 9-10, 2006
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1111542
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/SorensenG98
+  type: paper-conference
+  author:
+  - family: Sørensen
+    given: Morten Heine
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Introduction to supercompilation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '246-270'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_10
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/Krishnamurthi15
+  type: paper-conference
+  author:
+  - family: Krishnamurthi
+    given: Shriram
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: 'Desugaring in practice: Opportunities and challenges'
+  title-short: Desugaring in practice
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2678015.2678016
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/ContejeanPUCPF10
+  type: paper-conference
+  author:
+  - family: Contejean
+    given: Evelyne
+  - family: Paskevich
+    given: Andrey
+  - family: Urbain
+    given: Xavier
+  - family: Courtieu
+    given: Pierre
+  - family: Pons
+    given: Olivier
+  - family: Forest
+    given: Julien
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: A3PAT, an approach for certified automated termination proofs
+  container-title: PEPM
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/1706356.1706370
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/DwyerH99
+  type: paper-conference
+  author:
+  - family: Dwyer
+    given: Matthew B.
+  - family: Hatcliff
+    given: John
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Slicing software for model construction
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '105-118'
+
+- id: conf/pepm/Takano91
+  type: paper-conference
+  author:
+  - family: Takano
+    given: Akihiko
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Generalized partial computation for a lazy functional language
+  container-title: PEPM
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/115865.115867
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/GiacobazziJM12
+  type: paper-conference
+  author:
+  - family: Giacobazzi
+    given: Roberto
+  - family: Jones
+    given: Neil D.
+  - family: Mastroeni
+    given: Isabella
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Obfuscation by partial evaluation of distorted interpreters
+  container-title: PEPM
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/2103746.2103761
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/Thiemann99
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Interpreting specialization in type theory
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '30-43'
+
+- id: conf/pepm/Xi02
+  type: paper-conference
+  author:
+  - family: Xi
+    given: Hongwei
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Unifying object-oriented programming with typed functional programming
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '117-125'
+  URL: http://doi.acm.org/10.1145/568173.568186
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/BravenboerKVV06
+  type: paper-conference
+  author:
+  - family: Bravenboer
+    given: Martin
+  - family: Kalleberg
+    given: Karl Trygve
+  - family: Vermaas
+    given: Rob
+  - family: Visser
+    given: Eelco
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: 'Stratego/XT 0.16: Components for transformation systems'
+  title-short: Stratego/XT 0.16
+  container-title: PEPM
+  publisher: ACM
+  page: '95-99'
+  URL: http://doi.acm.org/10.1145/1111542.1111558
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Berger12
+  type: paper-conference
+  author:
+  - family: Berger
+    given: Martin
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Specification and verification of meta-programs
+  container-title: PEPM
+  publisher: ACM
+  page: '3-4'
+  URL: http://doi.acm.org/10.1145/2103746.2103750
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/ChenX03
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Chiyan
+  - family: Xi
+    given: Hongwei
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Implementing typeful program transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '20-28'
+  URL: http://doi.acm.org/10.1145/777388.777392
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/Vasell93
+  type: paper-conference
+  author:
+  - family: Vasell
+    given: Jesper
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: A partial evaluator for data flow graphs
+  container-title: PEPM
+  publisher: ACM
+  page: '206-215'
+  URL: http://doi.acm.org/10.1145/154630.154651
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/VardoulakisS11
+  type: paper-conference
+  author:
+  - family: Vardoulakis
+    given: Dimitrios
+  - family: Shivers
+    given: Olin
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: Ordering multiple continuations on the stack
+  container-title: PEPM
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/1929501.1929504
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/ZhuK07
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Ping
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Towards constructing reusable specialization components
+  container-title: PEPM
+  publisher: ACM
+  page: '154-163'
+  URL: http://doi.acm.org/10.1145/1244381.1244406
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/AriolaA91
+  type: paper-conference
+  author:
+  - family: Ariola
+    given: Zena M.
+  - family: Arvind
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: A syntactic approach to program transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '116-129'
+  URL: http://doi.acm.org/10.1145/115865.115878
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/PietrzakCPH08
+  type: paper-conference
+  author:
+  - family: Pietrzak
+    given: Pawel
+  - family: Correas
+    given: Jesús
+  - family: Puebla
+    given: Germán
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: A practical type analysis for verification of modular prolog programs
+  container-title: PEPM
+  publisher: ACM
+  page: '61-70'
+  URL: http://doi.acm.org/10.1145/1328408.1328418
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/UrecheRSCO12
+  type: paper-conference
+  author:
+  - family: Ureche
+    given: Vlad
+  - family: Rompf
+    given: Tiark
+  - family: Sujeeth
+    given: Arvind K.
+  - family: Chafi
+    given: Hassan
+  - family: Odersky
+    given: Martin
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: 'StagedSAC: A case study in performance-oriented dSL development'
+  title-short: StagedSAC
+  container-title: PEPM
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/2103746.2103762
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/AgerDR03
+  type: paper-conference
+  author:
+  - family: Ager
+    given: Mads Sig
+  - family: Danvy
+    given: Olivier
+  - family: Rohde
+    given: Henning Korsholm
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Fast partial evaluation of pattern matching in strings
+  container-title: PEPM
+  publisher: ACM
+  page: '3-9'
+  URL: http://doi.acm.org/10.1145/777388.777390
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/Fahndrich14
+  type: paper-conference
+  author:
+  - family: Fähndrich
+    given: Manuel
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Lessons from a web-based iDE and runtime
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2543728.2543746
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/0008E14
+  type: paper-conference
+  author:
+  - family: '0008'
+    given: Sheng Chen
+  - family: Erwig
+    given: Martin
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Early detection of type errors in c++ templates
+  container-title: PEPM
+  publisher: ACM
+  page: '133-144'
+  URL: http://doi.acm.org/10.1145/2543728.2543731
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/EtalleGM97
+  type: paper-conference
+  author:
+  - family: Etalle
+    given: Sandro
+  - family: Gabbrielli
+    given: Maurizio
+  - family: Marchiori
+    given: Elena
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: A transformation system for cLP with dynamic scheduling and cCP
+  container-title: PEPM
+  publisher: ACM
+  page: '137-150'
+  URL: http://doi.acm.org/10.1145/258993.259014
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/LiTSF14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  - family: Seijas
+    given: Pablo Lamela
+  - family: Francisco
+    given: Miguel Angel
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Automating property-based testing of evolving web services
+  container-title: PEPM
+  publisher: ACM
+  page: '169-180'
+  URL: http://doi.acm.org/10.1145/2543728.2543741
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/PachecoC11
+  type: paper-conference
+  author:
+  - family: Pacheco
+    given: Hugo
+  - family: Cunha
+    given: Alcino
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: 'Calculating with lenses: Optimising bidirectional transformations'
+  title-short: Calculating with lenses
+  container-title: PEPM
+  publisher: ACM
+  page: '91-100'
+  URL: http://doi.acm.org/10.1145/1929501.1929520
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/PoulsenMT15
+  type: paper-conference
+  author:
+  - family: Poulsen
+    given: Casper Bach
+  - family: Mosses
+    given: Peter D.
+  - family: Torrini
+    given: Paolo
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Imperative polymorphism by store-based types as abstract interpretations
+  container-title: PEPM
+  publisher: ACM
+  page: '3-8'
+  URL: http://doi.acm.org/10.1145/2678015.2682545
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Meyer91
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Uwe
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Techniques for partial evaluation of imperative languages
+  container-title: PEPM
+  publisher: ACM
+  page: '94-105'
+  URL: http://doi.acm.org/10.1145/115865.115876
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/DevrieseSCP13
+  type: paper-conference
+  author:
+  - family: Devriese
+    given: Dominique
+  - family: Sergey
+    given: Ilya
+  - family: Clarke
+    given: Dave
+  - family: Piessens
+    given: Frank
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: 'Fixing idioms: A recursion primitive for applicative dSLs'
+  title-short: Fixing idioms
+  container-title: PEPM
+  publisher: ACM
+  page: '97-106'
+  URL: http://doi.acm.org/10.1145/2426890.2426910
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/XuK02
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Dana N.
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Compiling real time functional reactive programming
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '83-93'
+  URL: http://doi.acm.org/10.1145/568173.568183
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/RamakrishnanRS95
+  type: paper-conference
+  author:
+  - family: Ramakrishnan
+    given: C. R.
+  - family: Ramakrishnan
+    given: I. V.
+  - family: Sekar
+    given: R. C.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: A symbolic constraint solving framework for analysis of logic programs
+  container-title: PEPM
+  publisher: ACM Press
+  page: '12-23'
+  URL: http://doi.acm.org/10.1145/215465.215467
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Mu08
+  type: paper-conference
+  author:
+  - family: Mu
+    given: Shin-Cheng
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Maximum segment sum is back: Deriving algorithms for two segment problems
+    with bounded lengths'
+  title-short: Maximum segment sum is back
+  container-title: PEPM
+  publisher: ACM
+  page: '31-39'
+  URL: http://doi.acm.org/10.1145/1328408.1328414
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/KarlsenHO12
+  type: paper-conference
+  author:
+  - family: Karlsen
+    given: Edvard K.
+  - family: Høst
+    given: Einar W.
+  - family: Østvold
+    given: Bjarte M.
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Finding and fixing java naming bugs with the lancelot eclipse plugin
+  container-title: PEPM
+  publisher: ACM
+  page: '35-38'
+  URL: http://doi.acm.org/10.1145/2103746.2103756
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/MurphyL00
+  type: paper-conference
+  author:
+  - family: Murphy
+    given: Brian R.
+  - family: Lam
+    given: Monica S.
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Program analysis with partial transfer functions
+  container-title: PEPM
+  publisher: ACM
+  page: '94-103'
+  URL: http://doi.acm.org/10.1145/328690.328703
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/Mycroft93
+  type: paper-conference
+  author:
+  - family: Mycroft
+    given: Alan
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Completeness and predicate-based abstract interpretation
+  container-title: PEPM
+  publisher: ACM
+  page: '179-185'
+  URL: http://doi.acm.org/10.1145/154630.154648
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/KerneisSH14
+  type: paper-conference
+  author:
+  - family: Kerneis
+    given: Gabriel
+  - family: Shepherd
+    given: Charlie
+  - family: Hajnoczi
+    given: Stefan
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: 'QEMU/CPC: Static analysis and cPS conversion for safe, portable, and efficient
+    coroutines'
+  title-short: QEMU/CPC
+  container-title: PEPM
+  publisher: ACM
+  page: '83-94'
+  URL: http://doi.acm.org/10.1145/2543728.2543733
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/LeoneL94
+  type: paper-conference
+  author:
+  - family: Leone
+    given: Mark
+  - family: '0001'
+    given: Peter Lee
+  issued:
+  - year: '1994'
+  title: Lightweight run-time code generation
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '97-106'
+
+- id: conf/pepm/2007
+  type: book
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Proceedings of the 2007 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, 2007, nice, france, january 15-16, 2007
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1244381
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/MatsudaIN12
+  type: paper-conference
+  author:
+  - family: Matsuda
+    given: Kazutaka
+  - family: Inaba
+    given: Kazuhiro
+  - family: Nakano
+    given: Keisuke
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Polynomial-time inverse computation for accumulative functions with multiple
+    data traversals
+  container-title: PEPM
+  publisher: ACM
+  page: '5-14'
+  URL: http://doi.acm.org/10.1145/2103746.2103752
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/MarinescuG97
+  type: paper-conference
+  author:
+  - family: Marinescu
+    given: Mihnea
+  - family: Goldberg
+    given: Benjamin
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Partial-evaluation techniques for concurrent programs
+  container-title: PEPM
+  publisher: ACM
+  page: '47-62'
+  URL: http://doi.acm.org/10.1145/258993.259002
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/SaabasU08
+  type: paper-conference
+  author:
+  - family: Saabas
+    given: Ando
+  - family: Uustalu
+    given: Tarmo
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Proof optimization for partial redundancy elimination
+  container-title: PEPM
+  publisher: ACM
+  page: '91-101'
+  URL: http://doi.acm.org/10.1145/1328408.1328422
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/RepsBL06
+  type: paper-conference
+  author:
+  - family: Reps
+    given: Thomas W.
+  - family: Balakrishnan
+    given: Gogul
+  - family: Lim
+    given: Junghee
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Intermediate-representation recovery from low-level code
+  container-title: PEPM
+  publisher: ACM
+  page: '100-111'
+  URL: http://doi.acm.org/10.1145/1111542.1111560
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/MichaylovP91
+  type: paper-conference
+  author:
+  - family: Michaylov
+    given: Spiro
+  - family: Pfenning
+    given: Frank
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Compiling the polymorphic lambda-calculus
+  container-title: PEPM
+  publisher: ACM
+  page: '285-296'
+  URL: http://doi.acm.org/10.1145/115865.115896
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Malmkjaer92
+  type: paper-conference
+  author:
+  - family: Malmkjær
+    given: Karoline
+  issued:
+  - year: '1992'
+  title: Predicting properties of residual programs
+  container-title: PEPM
+  publisher: Yale University
+  page: '8-13'
+
+- id: conf/pepm/2000
+  type: book
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Proceedings of the 2000 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation (pEPM ’00), boston, massachusetts, uSA, january 22-23, 2000
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=328690
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/DavidGC09
+  type: paper-conference
+  author:
+  - family: David
+    given: Cristina
+  - family: Gherghina
+    given: Cristian
+  - family: Chin
+    given: Wei-Ngan
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Translation and optimization for a core calculus with exceptions
+  container-title: PEPM
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1480945.1480952
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Asai04
+  type: paper-conference
+  author:
+  - family: Asai
+    given: Kenichi
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Offline partial evaluation for shift and reset
+  container-title: PEPM
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1014007.1014009
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Caballero11
+  type: paper-conference
+  author:
+  - family: Caballero
+    given: Rafael
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: A program transformation for returning states in functional-logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/1929501.1929523
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/KhooS91
+  type: paper-conference
+  author:
+  - family: Khoo
+    given: Siau-Cheng
+  - family: Sundaresh
+    given: R. S.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Compiling inheritance using partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '211-222'
+  URL: http://doi.acm.org/10.1145/115865.115886
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/CortesiF91
+  type: paper-conference
+  author:
+  - family: Cortesi
+    given: Agostino
+  - family: Filé
+    given: Gilberto
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: 'Abstract interpretation of logic programs: An abstract domain for groundness,
+    sharing, freeness and compoundness analysis'
+  title-short: Abstract interpretation of logic programs
+  container-title: PEPM
+  publisher: ACM
+  page: '52-61'
+  URL: http://doi.acm.org/10.1145/115865.115872
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Chitil11
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: A semantics for lazy assertions
+  container-title: PEPM
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/1929501.1929527
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/RiescoR10
+  type: paper-conference
+  author:
+  - family: Riesco
+    given: Adrián
+  - family: Rodríguez-Hortalá
+    given: Juan
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Programming with singular and plural non-deterministic functions
+  container-title: PEPM
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/1706356.1706373
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/SultanaT08
+  type: paper-conference
+  author:
+  - family: Sultana
+    given: Nik
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Mechanical verification of refactorings
+  container-title: PEPM
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/1328408.1328417
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Gluck09
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Is there a fourth futamura projection?
+  container-title: PEPM
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/1480945.1480954
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/JainZS12
+  type: paper-conference
+  author:
+  - family: Jain
+    given: Surinder Kumar
+  - family: Zhang
+    given: Chenyi
+  - family: Scholz
+    given: Bernhard
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Translating flowcharts to non-deterministic languages
+  container-title: PEPM
+  publisher: ACM
+  page: '155-162'
+  URL: http://doi.acm.org/10.1145/2103746.2103775
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/SecherS02
+  type: paper-conference
+  author:
+  - family: Secher
+    given: Jens P.
+  - family: Sørensen
+    given: Morten Heine
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: From checking to inference via driving and dag grammars
+  container-title: PEPM
+  publisher: ACM
+  page: '41-51'
+  URL: http://doi.acm.org/10.1145/503032.503036
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/Bodik08
+  type: paper-conference
+  author:
+  - family: Bodík
+    given: Rastislav
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Software synthesis with sketching
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1328408.1328409
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Vidal07
+  type: paper-conference
+  author:
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Quasi-terminating logic programs for ensuring the termination of partial
+    evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/1244381.1244390
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Mogensen99
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Gödelization in the untyped lambda-calculus
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '19-24'
+
+- id: conf/pepm/BarkerLV04
+  type: paper-conference
+  author:
+  - family: Barker
+    given: Steve
+  - family: Leuschel
+    given: Michael
+  - family: Varea
+    given: Mauricio
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Efficient and flexible access control via logic program specialisation
+  container-title: PEPM
+  publisher: ACM
+  page: '190-199'
+  URL: http://doi.acm.org/10.1145/1014007.1014026
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/MoretBV09a
+  type: paper-conference
+  author:
+  - family: Moret
+    given: Philippe
+  - family: Binder
+    given: Walter
+  - family: Villazón
+    given: Alex
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: 'CProf: Customizable calling context cross-profiling for embedded java
+    processors'
+  title-short: CProf
+  container-title: PEPM
+  publisher: ACM
+  page: '161-164'
+  URL: http://doi.acm.org/10.1145/1480945.1480968
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/SunCZ13
+  type: paper-conference
+  author:
+  - family: Sun
+    given: Qiang
+  - family: Chen
+    given: Yuting
+  - family: Zhao
+    given: Jianjun
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Constraint-based locality analysis for x10 programs
+  container-title: PEPM
+  publisher: ACM
+  page: '137-146'
+  URL: http://doi.acm.org/10.1145/2426890.2426915
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/Consel11
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: 'DiaSuite: A paradigm-oriented software development approach'
+  title-short: DiaSuite
+  container-title: PEPM
+  publisher: ACM
+  page: '77-78'
+  URL: http://doi.acm.org/10.1145/1929501.1929515
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/MastroeniZ08
+  type: paper-conference
+  author:
+  - family: Mastroeni
+    given: Isabella
+  - family: Zanardini
+    given: Damiano
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Data dependencies and program slicing: From syntax to abstract semantics'
+  title-short: Data dependencies and program slicing
+  container-title: PEPM
+  publisher: ACM
+  page: '125-134'
+  URL: http://doi.acm.org/10.1145/1328408.1328428
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/Jensen95
+  type: paper-conference
+  author:
+  - family: Jensen
+    given: Thomas P.
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Clock analysis of synchronous dataflow programs
+  container-title: PEPM
+  publisher: ACM Press
+  page: '156-167'
+  URL: http://doi.acm.org/10.1145/215465.215582
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/TullsenH99
+  type: paper-conference
+  author:
+  - family: Tullsen
+    given: Mark
+  - family: Hudak
+    given: Paul
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: Shifting expression procedures into reverse
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '95-104'
+
+- id: conf/pepm/Hu13
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Zhenjiang
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Practical aspects of bidirectional graph transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2426890.2426892
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/BeshersF97
+  type: paper-conference
+  author:
+  - family: Beshers
+    given: Clifford
+  - family: Feiner
+    given: Steven
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Generating efficient virtual worlds for visualization using partial evaluation
+    and dynamic compilation
+  container-title: PEPM
+  publisher: ACM
+  page: '107-115'
+  URL: http://doi.acm.org/10.1145/258993.259008
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/HuMT04
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Zhenjiang
+  - family: Mu
+    given: Shin-Cheng
+  - family: Takeichi
+    given: Masato
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: A programmable editor for developing structured documents based on bidirectional
+    transformations
+  container-title: PEPM
+  publisher: ACM
+  page: '178-189'
+  URL: http://doi.acm.org/10.1145/1014007.1014025
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/LisperMK15
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  - family: Masud
+    given: Abu Naser
+  - family: Khanfar
+    given: Husni
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Static backward demand-driven slicing
+  container-title: PEPM
+  publisher: ACM
+  page: '115-126'
+  URL: http://doi.acm.org/10.1145/2678015.2682538
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/BahrA15
+  type: paper-conference
+  author:
+  - family: Bahr
+    given: Patrick
+  - family: Axelsson
+    given: Emil
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: 'Generalising tree traversals to dAGs: Exploiting sharing without the pain'
+  title-short: Generalising tree traversals to dAGs
+  container-title: PEPM
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/2678015.2682539
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/1995
+  type: book
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Proceedings of the aCM sIGPLAN symposium on partial evaluation and semantics-based
+    program manipulation, la jolla, california, uSA, june 21-23, 1995
+  publisher: ACM Press
+  URL: http://dl.acm.org/citation.cfm?id=215465
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/AlpuenteFV13
+  type: paper-conference
+  author:
+  - family: Alpuente
+    given: María
+  - family: Feliú
+    given: Marco A.
+  - family: Villanueva
+    given: Alicia
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Automatic inference of specifications using matching logic
+  container-title: PEPM
+  publisher: ACM
+  page: '127-136'
+  URL: http://doi.acm.org/10.1145/2426890.2426914
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/AngelisFPP13
+  type: paper-conference
+  author:
+  - family: Angelis
+    given: Emanuele De
+  - family: Fioravanti
+    given: Fabio
+  - family: Pettorossi
+    given: Alberto
+  - family: Proietti
+    given: Maurizio
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Verifying programs via iterated specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/2426890.2426899
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/OliveiraL13
+  type: paper-conference
+  author:
+  - family: S. Oliveira
+    given: Bruno C.
+    dropping-particle: d.
+  - family: Löh
+    given: Andres
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Abstract syntax graphs for domain specific languages
+  container-title: PEPM
+  publisher: ACM
+  page: '87-96'
+  URL: http://doi.acm.org/10.1145/2426890.2426909
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/Leuschel98
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: Logic program specialisation
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-188'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_5
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/MadouPB06
+  type: paper-conference
+  author:
+  - family: Madou
+    given: Matias
+  - family: Put
+    given: Ludo Van
+  - family: Bosschere
+    given: Koen De
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: 'LOCO: An interactive code (de)obfuscation tool'
+  title-short: LOCO
+  container-title: PEPM
+  publisher: ACM
+  page: '140-144'
+  URL: http://doi.acm.org/10.1145/1111542.1111566
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Cordy06
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: James R.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Source transformation, analysis and generation in tXL
+  container-title: PEPM
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/1111542.1111544
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/DanvyMP94
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Malmkjær
+    given: Karoline
+  - family: Palsberg
+    given: Jens
+  issued:
+  - year: '1994'
+  title: The essence of eta-expansion in partial evaluation
+  container-title: PEPM
+  publisher: University of Melbourne, Australia, Department of Computer Science
+  page: '11-20'
+
+- id: conf/pepm/Romanenko91
+  type: paper-conference
+  author:
+  - family: Romanenko
+    given: Alexander
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Inversion and metacomputation
+  container-title: PEPM
+  publisher: ACM
+  page: '12-22'
+  URL: http://doi.acm.org/10.1145/115865.115868
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/AndersonK10
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Hugh
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Regular approximation and bounded domains for size-change termination
+  container-title: PEPM
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/1706356.1706369
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Vidal02
+  type: paper-conference
+  author:
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Cost-augmented narrowing-driven specialization
+  container-title: PEPM
+  publisher: ACM
+  page: '52-62'
+  URL: http://doi.acm.org/10.1145/503032.503037
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/GlenstrupMS98
+  type: paper-conference
+  author:
+  - family: Glenstrup
+    given: Arne J.
+  - family: Makholm
+    given: Henning
+  - family: Secher
+    given: Jens P.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: 'C-mIX: Specialization of c programs'
+  title-short: C-mIX
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-154'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_4
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/GallagherP00
+  type: paper-conference
+  author:
+  - family: Gallagher
+    given: John P.
+  - family: Peralta
+    given: Julio C.
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: Using regular approximations for generalisation during partial evalution
+  container-title: PEPM
+  publisher: ACM
+  page: '44-51'
+  URL: http://doi.acm.org/10.1145/328690.328698
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/WangG11
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yan
+  - family: Gaspes
+    given: Verónica
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: An embedded language for programming protocol stacks in embedded systems
+  container-title: PEPM
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/1929501.1929511
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/Goubault95
+  type: paper-conference
+  author:
+  - family: Goubault
+    given: Eric
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Schedulers as abstract interpreter of higher dimensional automata
+  container-title: PEPM
+  publisher: ACM Press
+  page: '134-145'
+  URL: http://doi.acm.org/10.1145/215465.215577
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Xu12
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Dana N.
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Hybrid contract checking via symbolic simplification
+  container-title: PEPM
+  publisher: ACM
+  page: '107-116'
+  URL: http://doi.acm.org/10.1145/2103746.2103767
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/LeuschelS95
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  - family: Schreye
+    given: Danny De
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Towards creating specialised integrity checks through partial evaluation
+    of meta-interpreters
+  container-title: PEPM
+  publisher: ACM Press
+  page: '253-263'
+  URL: http://doi.acm.org/10.1145/215465.215598
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Hannan91
+  type: paper-conference
+  author:
+  - family: Hannan
+    given: John
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Staging transformations for abstract machines
+  container-title: PEPM
+  publisher: ACM
+  page: '130-141'
+  URL: http://doi.acm.org/10.1145/115865.115879
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/PlasmeijerAKLNG11
+  type: paper-conference
+  author:
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Lijnse
+    given: Bas
+  - family: Noort
+    given: Thomas
+    dropping-particle: van
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  editor:
+  - family: Khoo
+    given: Siau-Cheng
+  issued:
+  - year: '2011'
+  title: 'ITasks for a change: Type-safe run-time change in dynamically evolving
+    workflows'
+  title-short: ITasks for a change
+  container-title: PEPM
+  publisher: ACM
+  page: '151-160'
+  URL: http://doi.acm.org/10.1145/1929501.1929528
+  ISBN: '978-1-4503-0485-6'
+
+- id: conf/pepm/GorbovitskiLSR12
+  type: paper-conference
+  author:
+  - family: Gorbovitski
+    given: Michael
+  - family: Liu
+    given: Yanhong A.
+  - family: Stoller
+    given: Scott D.
+  - family: Rothamel
+    given: Tom
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Composing transformations for instrumentation and optimization
+  container-title: PEPM
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/2103746.2103759
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/MasonT91
+  type: paper-conference
+  author:
+  - family: Mason
+    given: Ian A.
+  - family: Talcott
+    given: Carolyn L.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Program transformations for configuring components
+  container-title: PEPM
+  publisher: ACM
+  page: '297-308'
+  URL: http://doi.acm.org/10.1145/115865.115898
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/2013
+  type: book
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Proceedings of the aCM sIGPLAN 2013 workshop on partial evaluation and program
+    manipulation, pEPM 2013, rome, italy, january 21-22, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2426890
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/Lopez-FraguasMR12
+  type: paper-conference
+  author:
+  - family: López-Fraguas
+    given: Francisco Javier
+  - family: Martin-Martin
+    given: Enrique
+  - family: Rodríguez-Hortalá
+    given: Juan
+  editor:
+  - family: Kiselyov
+    given: Oleg
+  issued:
+  - year: '2012'
+  title: Well-typed narrowing with extra variables in functional-logic programming
+  container-title: PEPM
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/2103746.2103763
+  ISBN: '978-1-4503-1118-2'
+
+- id: conf/pepm/RooverDBND07
+  type: paper-conference
+  author:
+  - family: Roover
+    given: Coen De
+  - family: D’Hondt
+    given: Theo
+  - family: Brichau
+    given: Johan
+  - family: Noguera
+    given: Carlos
+  - family: Duchien
+    given: Laurence
+  editor:
+  - family: Ramalingam
+    given: G.
+  issued:
+  - year: '2007'
+  title: Behavioral similarity matching using concrete source code templates in logic
+    queries
+  container-title: PEPM
+  publisher: ACM
+  page: '92-101'
+  URL: http://doi.acm.org/10.1145/1244381.1244398
+  ISBN: '978-1-59593-620-2'
+
+- id: conf/pepm/Voigtlander02
+  type: paper-conference
+  author:
+  - family: Voigtländer
+    given: Janis
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Using circular programs to deforest in accumulating parameters
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '126-137'
+  URL: http://doi.acm.org/10.1145/568173.568187
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/AgerDR02
+  type: paper-conference
+  author:
+  - family: Ager
+    given: Mads Sig
+  - family: Danvy
+    given: Olivier
+  - family: Rohde
+    given: Henning Korsholm
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: On obtaining knuth, morris, and pratt’s string matcher by partial evaluation
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '32-46'
+  URL: http://doi.acm.org/10.1145/568173.568177
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/Miljenovic10
+  type: paper-conference
+  author:
+  - family: Miljenovic
+    given: Ivan Lazar
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: The sourceGraph program
+  container-title: PEPM
+  publisher: ACM
+  page: '151-154'
+  URL: http://doi.acm.org/10.1145/1706356.1706384
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/Veldhuizen06
+  type: paper-conference
+  author:
+  - family: Veldhuizen
+    given: Todd L.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Tradeoffs in metaprogramming
+  container-title: PEPM
+  publisher: ACM
+  page: '150-159'
+  URL: http://doi.acm.org/10.1145/1111542.1111569
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/Thiemann98
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: 'Aspects of the pGG system: Specialization for standard scheme'
+  title-short: Aspects of the pGG system
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '412-432'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_17
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/SatoUK13
+  type: paper-conference
+  author:
+  - family: Sato
+    given: Ryosuke
+  - family: Unno
+    given: Hiroshi
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Towards a scalable software model checker for higher-order programs
+  container-title: PEPM
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/2426890.2426900
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/SimmonsP09
+  type: paper-conference
+  author:
+  - family: Simmons
+    given: Robert J.
+  - family: Pfenning
+    given: Frank
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Linear logical approximations
+  container-title: PEPM
+  publisher: ACM
+  page: '9-20'
+  URL: http://doi.acm.org/10.1145/1480945.1480949
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Mogensen93
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Schmidt
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Constructor spezialization
+  container-title: PEPM
+  publisher: ACM
+  page: '22-32'
+  URL: http://doi.acm.org/10.1145/154630.154633
+  ISBN: '0-89791-594-1'
+
+- id: conf/pepm/Smith91
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Donald A.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Partial evaluation of pattern matching in constraint logic programming languages
+  container-title: PEPM
+  publisher: ACM
+  page: '62-71'
+  URL: http://doi.acm.org/10.1145/115865.115873
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/ParkP02
+  type: paper-conference
+  author:
+  - family: Park
+    given: Jung Gyu
+  - family: Park
+    given: Myong-Soon
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: Using indexed data structures for program specialization
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '61-69'
+  URL: http://doi.acm.org/10.1145/568173.568180
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/AsadaS015
+  type: paper-conference
+  author:
+  - family: Asada
+    given: Kazuyuki
+  - family: Sato
+    given: Ryosuke
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Verifying relational properties of functional programs by first-order refinement
+  container-title: PEPM
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/2678015.2682546
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/BrandveinL16
+  type: paper-conference
+  author:
+  - family: Brandvein
+    given: Jon
+  - family: Liu
+    given: Yanhong A.
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Removing runtime overhead for optimized object queries
+  container-title: PEPM
+  publisher: ACM
+  page: '73-84'
+  URL: http://doi.acm.org/10.1145/2847538.2847545
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/PueblaHG99
+  type: paper-conference
+  author:
+  - family: Puebla
+    given: Germán
+  - family: Hermenegildo
+    given: Manuel V.
+  - family: Gallagher
+    given: John P.
+  editor:
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1999'
+  title: An integration of partial evaluation in a generic abstract interpretation
+    framework
+  container-title: PEPM
+  publisher: University of Aarhus
+  page: '75-84'
+
+- id: conf/pepm/Martel09
+  type: paper-conference
+  author:
+  - family: Martel
+    given: Matthieu
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Program transformation for numerical precision
+  container-title: PEPM
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/1480945.1480960
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/2014
+  type: book
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Proceedings of the aCM sIGPLAN 2014 workshop on partial evaluation and program
+    manipulation, pEPM 2014, january 20-21, 2014, san diego, california, uSA
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2543728
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/BozgaIL03
+  type: paper-conference
+  author:
+  - family: Bozga
+    given: Marius
+  - family: Iosif
+    given: Radu
+  - family: Lakhnech
+    given: Yassine
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Storeless semantics and alias logic
+  container-title: PEPM
+  publisher: ACM
+  page: '55-65'
+  URL: http://doi.acm.org/10.1145/777388.777395
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/KafleG15
+  type: paper-conference
+  author:
+  - family: Kafle
+    given: Bishoksan
+  - family: Gallagher
+    given: John P.
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Constraint specialisation in horn clause verification
+  container-title: PEPM
+  publisher: ACM
+  page: '85-90'
+  URL: http://doi.acm.org/10.1145/2678015.2682544
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/Henglein10
+  type: paper-conference
+  author:
+  - family: Henglein
+    given: Fritz
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Optimizing relational algebra operations using generic equivalence discriminators
+    and lazy products
+  container-title: PEPM
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/1706356.1706372
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/2015
+  type: book
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2015'
+  title: Proceedings of the 2015 workshop on partial evaluation and program manipulation,
+    pEPM, mumbai, india, january 15-17, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2678015
+  ISBN: '978-1-4503-3297-2'
+
+- id: conf/pepm/IzmaylovaAS16
+  type: paper-conference
+  author:
+  - family: Izmaylova
+    given: Anastasia
+  - family: Afroozeh
+    given: Ali
+  - family: Storm
+    given: Tijs
+    dropping-particle: van der
+  editor:
+  - family: Erwig
+    given: Martin
+  issued:
+  - year: '2016'
+  title: Practical, general parser combinators
+  container-title: PEPM
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2847538.2847539
+  ISBN: '978-1-4503-4097-7'
+
+- id: conf/pepm/MartinezVP13
+  type: paper-conference
+  author:
+  - family: Martinez
+    given: Bruno
+  - family: Viera
+    given: Marcos
+  - family: Pardo
+    given: Alberto
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: 'Just do it while compiling!: Fast extensible records in haskell'
+  title-short: Just do it while compiling!
+  container-title: PEPM
+  publisher: ACM
+  page: '77-86'
+  URL: http://doi.acm.org/10.1145/2426890.2426908
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/MartinsSFW14
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Pedro Martins
+  - family: Saraiva
+    given: João
+  - family: Fernandes
+    given: João Paulo
+  - family: Wyk
+    given: Eric Van
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Generating attribute grammar-based bidirectional transformations from rewrite
+    rules
+  container-title: PEPM
+  publisher: ACM
+  page: '63-70'
+  URL: http://doi.acm.org/10.1145/2543728.2543745
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/ZhuK08
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Ping
+  - family: Khoo
+    given: Siau-Cheng
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Specialization for applications using shared libraries
+  container-title: PEPM
+  publisher: ACM
+  page: '159-168'
+  URL: http://doi.acm.org/10.1145/1328408.1328432
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/ParkG91
+  type: paper-conference
+  author:
+  - family: Park
+    given: Young Gil
+  - family: Goldberg
+    given: Benjamin
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: 'Reference escape analysis: Optimizing reference counting based on the
+    lifetime of references'
+  title-short: Reference escape analysis
+  container-title: PEPM
+  publisher: ACM
+  page: '178-189'
+  URL: http://doi.acm.org/10.1145/115865.115883
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/GeayYF06
+  type: paper-conference
+  author:
+  - family: Geay
+    given: Emmanuel
+  - family: Yahav
+    given: Eran
+  - family: Fink
+    given: Stephen J.
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Continuous code-quality assurance with sAFE
+  container-title: PEPM
+  publisher: ACM
+  page: '145-149'
+  URL: http://doi.acm.org/10.1145/1111542.1111567
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/GrobauerY00
+  type: paper-conference
+  author:
+  - family: Grobauer
+    given: Bernd
+  - family: Yang
+    given: Zhe
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: The second futamura projection for type-directed partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '22-32'
+  URL: http://doi.acm.org/10.1145/328690.328695
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/Cridlig95
+  type: paper-conference
+  author:
+  - family: Cridlig
+    given: Régis
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Semantic analysis of shared-memory concurrent languages using abstract model-checking
+  container-title: PEPM
+  publisher: ACM Press
+  page: '214-225'
+  URL: http://doi.acm.org/10.1145/215465.215593
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/DjokoDF08
+  type: paper-conference
+  author:
+  - family: Djoko
+    given: Simplice Djoko
+  - family: Douence
+    given: Rémi
+  - family: Fradet
+    given: Pascal
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Aspects preserving properties
+  container-title: PEPM
+  publisher: ACM
+  page: '135-145'
+  URL: http://doi.acm.org/10.1145/1328408.1328429
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/AkersBM04
+  type: paper-conference
+  author:
+  - family: Akers
+    given: Robert L.
+  - family: Baxter
+    given: Ira D.
+  - family: Mehlich
+    given: Michael
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: 'Invited application paper: Re-engineering c++ components via automatic
+    program transformation'
+  title-short: Invited application paper
+  container-title: PEPM
+  publisher: ACM
+  page: '51-55'
+  URL: http://doi.acm.org/10.1145/1014007.1014013
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/Nemytykh02
+  type: paper-conference
+  author:
+  - family: Nemytykh
+    given: Andrei P.
+  editor:
+  - family: Asai
+    given: Kenichi
+  issued:
+  - year: '2002'
+  title: A note on elimination of simplest recursions
+  container-title: ASIA-pEPM
+  publisher: ACM
+  page: '138-146'
+  URL: http://doi.acm.org/10.1145/568173.568188
+  ISBN: '1-58113-458-4'
+
+- id: conf/pepm/BoustaniH09
+  type: paper-conference
+  author:
+  - family: Boustani
+    given: Nabil El
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Improving type error messages for generic java
+  container-title: PEPM
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/1480945.1480964
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/2010
+  type: book
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Proceedings of the 2010 aCM sIGPLAN workshop on partial evaluation and program
+    manipulation, pEPM 2010, madrid, spain, january 18-19, 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1706356
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/WeijersHH13
+  type: paper-conference
+  author:
+  - family: Weijers
+    given: Jeroen
+  - family: Hage
+    given: Jurriaan
+  - family: Holdermans
+    given: Stefan
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: Security type error diagnosis for higher-order, polymorphic languages
+  container-title: PEPM
+  publisher: ACM
+  page: '3-12'
+  URL: http://doi.acm.org/10.1145/2426890.2426894
+  ISBN: '978-1-4503-1842-6'
+
+- id: conf/pepm/CheneyLRW14
+  type: paper-conference
+  author:
+  - family: Cheney
+    given: James
+  - family: Lindley
+    given: Sam
+  - family: Radanne
+    given: Gabriel
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: 'Effective quotation: Relating approaches to language-integrated query'
+  title-short: Effective quotation
+  container-title: PEPM
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/2543728.2543738
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/PachecoHF14
+  type: paper-conference
+  author:
+  - family: Pacheco
+    given: Hugo
+  - family: Hu
+    given: Zhenjiang
+  - family: Fischer
+    given: Sebastian
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Monadic combinators for “putback” style bidirectional programming
+  container-title: PEPM
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/2543728.2543737
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/Garcia-PerezNS14
+  type: paper-conference
+  author:
+  - family: García-Pérez
+    given: Álvaro
+  - family: Nogueira
+    given: Pablo
+  - family: Sergey
+    given: Ilya
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Deriving interpretations of the gradually-typed lambda calculus
+  container-title: PEPM
+  publisher: ACM
+  page: '157-168'
+  URL: http://doi.acm.org/10.1145/2543728.2543742
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/Bsaies92
+  type: paper-conference
+  author:
+  - family: Bsaïes
+    given: Khaled
+  issued:
+  - year: '1992'
+  title: 'A framework for mechanizing logic program transformation: The synthesis
+    of eureka-properties'
+  title-short: A framework for mechanizing logic program transformation
+  container-title: PEPM
+  publisher: Yale University
+  page: '108-115'
+
+- id: conf/pepm/SperberT95
+  type: paper-conference
+  author:
+  - family: Sperber
+    given: Michael
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: The essence of lR parsing
+  container-title: PEPM
+  publisher: ACM Press
+  page: '146-155'
+  URL: http://doi.acm.org/10.1145/215465.215579
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/VolanschiR08
+  type: paper-conference
+  author:
+  - family: Volanschi
+    given: Nic
+  - family: Rinderknecht
+    given: Christian
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: 'Unparsed patterns: Easy user-extensibility of program manipulation tools'
+  title-short: Unparsed patterns
+  container-title: PEPM
+  publisher: ACM
+  page: '111-121'
+  URL: http://doi.acm.org/10.1145/1328408.1328425
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/PardoFS09
+  type: paper-conference
+  author:
+  - family: Pardo
+    given: Alberto
+  - family: Fernandes
+    given: João Paulo
+  - family: Saraiva
+    given: João
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Shortcut fusion rules for the derivation of circular and higher-order monadic
+    programs
+  container-title: PEPM
+  publisher: ACM
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/1480945.1480958
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/RamakrishnanCP02
+  type: paper-conference
+  author:
+  - family: Ramakrishnan
+    given: Naren
+  - family: Capra
+    given: Robert
+  - family: Pérez-Quiñones
+    given: Manuel A.
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Mixed-initiative interaction = mixed computation
+  container-title: PEPM
+  publisher: ACM
+  page: '119-130'
+  URL: http://doi.acm.org/10.1145/503032.503042
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/Andersen92
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: Lars Ole
+  issued:
+  - year: '1992'
+  title: Self-applicable c program specialization
+  container-title: PEPM
+  publisher: Yale University
+  page: '54-61'
+
+- id: conf/pepm/LakhotiaBSM10
+  type: paper-conference
+  author:
+  - family: Lakhotia
+    given: Arun
+  - family: Boccardo
+    given: Davidson R.
+  - family: Singh
+    given: Anshuman
+  - family: Manacero
+    given: Aleardo
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: Context-sensitive analysis of obfuscated x86 executables
+  container-title: PEPM
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/1706356.1706381
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/GomardS91
+  type: paper-conference
+  author:
+  - family: Gomard
+    given: Carsten K.
+  - family: Sestoft
+    given: Peter
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Globalization and live variables
+  container-title: PEPM
+  publisher: ACM
+  page: '166-177'
+  URL: http://doi.acm.org/10.1145/115865.115882
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/Klimov91
+  type: paper-conference
+  author:
+  - family: Klimov
+    given: Andrei V.
+  editor:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1991'
+  title: Dynamic specialization in extended functional language with monotone objects
+  container-title: PEPM
+  publisher: ACM
+  page: '199-210'
+  URL: http://doi.acm.org/10.1145/115865.376287
+  ISBN: '0-89791-433-3'
+
+- id: conf/pepm/HageH08
+  type: paper-conference
+  author:
+  - family: Hage
+    given: Jurriaan
+  - family: Holdermans
+    given: Stefan
+  editor:
+  - family: Glück
+    given: Robert
+  issued:
+  - year: '2008'
+  title: Heap recycling for lazy languages
+  container-title: PEPM
+  publisher: ACM
+  page: '189-197'
+  URL: http://doi.acm.org/10.1145/1328408.1328436
+  ISBN: '978-1-59593-977-7'
+
+- id: conf/pepm/BransenDS14
+  type: paper-conference
+  author:
+  - family: Bransen
+    given: Jeroen
+  - family: Dijkstra
+    given: Atze
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Lazy stateless incremental evaluation machinery for attribute grammars
+  container-title: PEPM
+  publisher: ACM
+  page: '145-156'
+  URL: http://doi.acm.org/10.1145/2543728.2543735
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/1992
+  type: book
+  issued:
+  - year: '1992'
+  title: PEPM’92, aCM sIGPLAN workshop on partial evaluation and semantics-based program
+    manipulation, fairmont hotel, san francisco, cA, uSA, june 19-20, 1992, proceedings
+    (tR yALEU/DCS/RR-909)
+  publisher: Yale University
+
+- id: conf/pepm/HofmannK10
+  type: paper-conference
+  author:
+  - family: '0008'
+    given: Martin Hofmann
+  - family: Kitzelmann
+    given: Emanuel
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '2010'
+  title: 'I/O guided detection of list catamorphisms: Towards problem specific use
+    of program templates in iP'
+  title-short: I/O guided detection of list catamorphisms
+  container-title: PEPM
+  publisher: ACM
+  page: '93-100'
+  URL: http://doi.acm.org/10.1145/1706356.1706375
+  ISBN: '978-1-60558-727-1'
+
+- id: conf/pepm/1997
+  type: book
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Proceedings of the aCM sIGPLAN symposium on partial evaluation and semantics-based
+    program manipulation (pEPM ’97), amsterdam, the netherlands, june 12-13, 1997
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=258993
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/GomezL02
+  type: paper-conference
+  author:
+  - family: Gomez
+    given: Gustavo
+  - family: Liu
+    given: Yanhong A.
+  editor:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2002'
+  title: Automatic time-bound analysis for a higher-order language
+  container-title: PEPM
+  publisher: ACM
+  page: '75-86'
+  URL: http://doi.acm.org/10.1145/503032.503039
+  ISBN: 1-58113-455-X
+
+- id: conf/pepm/2004
+  type: book
+  editor:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '2004'
+  title: Proceedings of the 2004 aCM sIGPLAN workshop on partial evaluation and semantics-based
+    program manipulation, 2004, verona, italy, august 24-25, 2004
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1014007
+  ISBN: '1-58113-835-0'
+
+- id: conf/pepm/GrantMPCE97
+  type: paper-conference
+  author:
+  - family: Grant
+    given: Brian
+  - family: Mock
+    given: Markus
+  - family: Philipose
+    given: Matthai
+  - family: Chambers
+    given: Craig
+  - family: Eggers
+    given: Susan J.
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Annotation-directed run-time specialization in c
+  container-title: PEPM
+  publisher: ACM
+  page: '163-178'
+  URL: http://doi.acm.org/10.1145/258993.259016
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/MullerVM97
+  type: paper-conference
+  author:
+  - family: Muller
+    given: Gilles
+  - family: Volanschi
+    given: Eugen-Nicolae
+  - family: Marlet
+    given: Renaud
+  editor:
+  - family: Gallagher
+    given: John P.
+  issued:
+  - year: '1997'
+  title: Scaling up partial evaluation for optimizing the sun commercial rPC protocol
+  container-title: PEPM
+  publisher: ACM
+  page: '116-126'
+  URL: http://doi.acm.org/10.1145/258993.259010
+  ISBN: '0-89791-917-3'
+
+- id: conf/pepm/KatzW92
+  type: paper-conference
+  author:
+  - family: Katz
+    given: Morry
+  - family: Weise
+    given: Daniel
+  issued:
+  - year: '1992'
+  title: Towards a new perspective on partial evaluation
+  container-title: PEPM
+  publisher: Yale University
+  page: '29-37'
+
+- id: conf/pepm/IwamaIK06
+  type: paper-conference
+  author:
+  - family: Iwama
+    given: Futoshi
+  - family: Igarashi
+    given: Atsushi
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '2006'
+  title: Resource usage analysis for a functional language with exceptions
+  container-title: PEPM
+  publisher: ACM
+  page: '38-47'
+  URL: http://doi.acm.org/10.1145/1111542.1111550
+  ISBN: '1-59593-196-1'
+
+- id: conf/pepm/GluckKH03
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  - family: Kawada
+    given: Youhei
+  - family: Hashimoto
+    given: Takuya
+  editor:
+  - family: Leuschel
+    given: Michael
+  issued:
+  - year: '2003'
+  title: Transforming interpreters into inverse interpreters by partial evaluation
+  container-title: PEPM
+  publisher: ACM
+  page: '10-19'
+  URL: http://doi.acm.org/10.1145/777388.777391
+  ISBN: '1-58113-667-6'
+
+- id: conf/pepm/TangJ95
+  type: paper-conference
+  author:
+  - family: Tang
+    given: Yan Mei
+  - family: Jouvelot
+    given: Pierre
+  editor:
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1995'
+  title: Effect systems with subtyping
+  container-title: PEPM
+  publisher: ACM Press
+  page: '45-53'
+  URL: http://doi.acm.org/10.1145/215465.215552
+  ISBN: '0-89791-720-0'
+
+- id: conf/pepm/Jorgensen98
+  type: paper-conference
+  author:
+  - family: Jørgensen
+    given: Jesper
+  editor:
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1998'
+  title: 'SIMILIX: A self-applicable partial evaluator for scheme'
+  title-short: SIMILIX
+  container-title: Partial evaluation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-107'
+  volume: '1706'
+  DOI: 10.1007/3-540-47018-2_3
+  ISBN: '3-540-66710-5'
+
+- id: conf/pepm/KameyamaKS14
+  type: paper-conference
+  author:
+  - family: Kameyama
+    given: Yukiyoshi
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: Combinators for impure yet hygienic code generation
+  container-title: PEPM
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2543728.2543740
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/MossP09
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Andrew
+  - family: Page
+    given: Dan
+  editor:
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '2009'
+  title: Program interpolation
+  container-title: PEPM
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/1480945.1480951
+  ISBN: '978-1-60558-327-3'
+
+- id: conf/pepm/Pfenning00
+  type: paper-conference
+  author:
+  - family: Pfenning
+    given: Frank
+  editor:
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '2000'
+  title: On the logical foundations of staged computation (abstract of invited talk)
+  container-title: PEPM
+  publisher: ACM
+  page: '33'
+  URL: http://doi.acm.org/10.1145/328690.328696
+  ISBN: '1-58113-201-8'
+
+- id: conf/pepm/CosteaSD14
+  type: paper-conference
+  author:
+  - family: Costea
+    given: Andreea
+  - family: Sharma
+    given: Asankhaya
+  - family: David
+    given: Cristina
+  editor:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '2014'
+  title: 'HIPimm: Verifying granular immutability guarantees'
+  title-short: HIPimm
+  container-title: PEPM
+  publisher: ACM
+  page: '189-194'
+  URL: http://doi.acm.org/10.1145/2543728.2543743
+  ISBN: '978-1-4503-2619-3'
+
+- id: conf/pepm/ServettoZ13
+  type: paper-conference
+  author:
+  - family: Servetto
+    given: Marco
+  - family: Zucca
+    given: Elena
+  editor:
+  - family: Albert
+    given: Elvira
+  issued:
+  - year: '2013'
+  title: A meta-circular language for active libraries
+  container-title: PEPM
+  publisher: ACM
+  page: '117-126'
+  URL: http://doi.acm.org/10.1145/2426890.2426913
+  ISBN: '978-1-4503-1842-6'
+...

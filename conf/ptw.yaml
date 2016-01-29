@@ -1,0 +1,1463 @@
+---
+references:
+- id: conf/ptw/AnztABGHHHKLNRRSSSWWW11
+  type: paper-conference
+  author:
+  - family: Anzt
+    given: Hartwig
+  - family: Augustin
+    given: Werner
+  - family: '0002'
+    given: Martin Baumann
+  - family: Gengenbach
+    given: Thomas
+  - family: Hahn
+    given: Tobias
+  - family: Helfrich-Schkarbanenko
+    given: Andreas
+  - family: Heuveline
+    given: Vincent
+  - family: Ketelaer
+    given: Eva
+  - family: Lukarski
+    given: Dimitar
+  - family: Nestler
+    given: Andreas
+  - family: Ritterbusch
+    given: Sebastian
+  - family: Ronnas
+    given: Staffan
+  - family: Schick
+    given: Michael
+  - family: Schmidtobreick
+    given: Mareike
+  - family: Subramanian
+    given: Chandramowli
+  - family: Weiss
+    given: Jan-Philipp
+  - family: Wilhelm
+    given: Florian
+  - family: Wlotzka
+    given: Martin
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: 'HiFlow3: A hardware-aware parallel finite element package'
+  title-short: HiFlow3
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '139-151'
+  DOI: 10.1007/978-3-642-31476-6_12
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/Gottbrath08
+  type: paper-conference
+  author:
+  - family: Gottbrath
+    given: Chris
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Memory debugging in parallel and distributed applications
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '79-90'
+  DOI: 10.1007/978-3-540-68564-7_6
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/ServatLGHL11
+  type: paper-conference
+  author:
+  - family: Servat
+    given: Harald
+  - family: Llort
+    given: Germán
+  - family: Gimenez
+    given: Judit
+  - family: Huck
+    given: Kevin A.
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: 'Folding: Detailed analysis with coarse sampling'
+  title-short: Folding
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '105-118'
+  DOI: 10.1007/978-3-642-31476-6_9
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/BrunstHJR09
+  type: paper-conference
+  author:
+  - family: Brunst
+    given: Holger
+  - family: Hackenberg
+    given: Daniel
+  - family: Juckeland
+    given: Guido
+  - family: Rohling
+    given: Heide
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Comprehensive performance tracking with vampir 7
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '17-29'
+  DOI: 10.1007/978-3-642-11261-4_2
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/KrammerHHCDM08
+  type: paper-conference
+  author:
+  - family: Krammer
+    given: Bettina
+  - family: Hilbrich
+    given: Tobias
+  - family: Himmler
+    given: Valentin
+  - family: Czink
+    given: Blasius
+  - family: Dichev
+    given: Kiril
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: MPI correctness checking with marmot
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '61-78'
+  DOI: 10.1007/978-3-540-68564-7_5
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/WatsonR08
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Gregory R.
+  - family: Rasmussen
+    given: Craig E.
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: An integrated environment for the development of parallel applications
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '19-34'
+  DOI: 10.1007/978-3-540-68564-7_2
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/ProtzeHSSMN12
+  type: paper-conference
+  author:
+  - family: Protze
+    given: Joachim
+  - family: Hilbrich
+    given: Tobias
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Schulz
+    given: Martin
+  - family: Müller
+    given: Matthias S.
+  - family: Nagel
+    given: Wolfgang E.
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: 'MPI runtime error detection with mUST: Advanced error reports'
+  title-short: MPI runtime error detection with mUST
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '25-38'
+  DOI: 10.1007/978-3-642-37349-7_3
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/KockerbauerKK09
+  type: paper-conference
+  author:
+  - family: Köckerbauer
+    given: Thomas
+  - family: Klausecker
+    given: Christof
+  - family: Kranzlmüller
+    given: Dieter
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Scalable parallel debugging with g-eclipse
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '115-123'
+  DOI: 10.1007/978-3-642-11261-4_8
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/KnupferBDJLMMN08
+  type: paper-conference
+  author:
+  - family: Knüpfer
+    given: Andreas
+  - family: Brunst
+    given: Holger
+  - family: Doleschal
+    given: Jens
+  - family: Jurenz
+    given: Matthias
+  - family: Lieber
+    given: Matthias
+  - family: Mickler
+    given: Holger
+  - family: Müller
+    given: Matthias S.
+  - family: Nagel
+    given: Wolfgang E.
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: The vampir performance analysis tool-set
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '139-155'
+  DOI: 10.1007/978-3-540-68564-7_9
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/LagadapatiME13
+  type: paper-conference
+  author:
+  - family: Lagadapati
+    given: Mahesh
+  - family: Mueller
+    given: Frank
+  - family: Engelmann
+    given: Christian
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: Tools for simulation and benchmark generation at exascale
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '19-24'
+  DOI: 10.1007/978-3-319-08144-1_2
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/2009
+  type: book
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2010'
+  title: Tools for high performance computing 2009 - proceedings of the 3rd international
+    workshop on parallel tools for high performance computing, september 2009, zIH,
+    dresden
+  publisher: Springer
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/BrunstW12
+  type: paper-conference
+  author:
+  - family: Brunst
+    given: Holger
+  - family: Weber
+    given: Matthias
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Custom hot spot analysis of hPC software with the vampir performance tool
+    suite
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '95-114'
+  DOI: 10.1007/978-3-642-37349-7_7
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/Labarta09
+  type: paper-conference
+  author:
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: New analysis techniques in the cEPBA-tools environment
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '125-143'
+  DOI: 10.1007/978-3-642-11261-4_9
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/SchnorrL12
+  type: paper-conference
+  author:
+  - family: Schnorr
+    given: Lucas Mello
+  - family: Legrand
+    given: Arnaud
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Visualizing more performance data than what fits on your screen
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '149-162'
+  DOI: 10.1007/978-3-642-37349-7_10
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/BendifallahJNOP13
+  type: paper-conference
+  author:
+  - family: Bendifallah
+    given: Zakaria
+  - family: Jalby
+    given: William
+  - family: Noudohouenou
+    given: José
+  - family: Oseret
+    given: Emmanuel
+  - family: Palomares
+    given: Vincent
+  - family: Rubial
+    given: Andres Charif
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: 'PAMDA: Performance assessment using mAQAO toolset and differential analysis'
+  title-short: PAMDA
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '107-127'
+  DOI: 10.1007/978-3-319-08144-1_9
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/GeimerWWBBFHMS09
+  type: paper-conference
+  author:
+  - family: Geimer
+    given: Markus
+  - family: Wolf
+    given: Felix
+  - family: Wylie
+    given: Brian J. N.
+  - family: Becker
+    given: Daniel
+  - family: Böhme
+    given: David
+  - family: Frings
+    given: Wolfgang
+  - family: Hermanns
+    given: Marc-André
+  - family: Mohr
+    given: Bernd
+  - family: Szebenyi
+    given: Zoltán
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Recent developments in the scalasca toolset
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '39-51'
+  DOI: 10.1007/978-3-642-11261-4_4
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/GottbrathL11
+  type: paper-conference
+  author:
+  - family: Gottbrath
+    given: Chris
+  - family: Lüdtke
+    given: Royd
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Debugging cUDA accelerated parallel applications with totalView
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '49-61'
+  DOI: 10.1007/978-3-642-31476-6_5
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/BrinkmannGN12
+  type: paper-conference
+  author:
+  - family: Brinkmann
+    given: Steffen
+  - family: Gracia
+    given: José
+  - family: Niethammer
+    given: Christoph
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Task debugging with tEMANEJO
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '13-21'
+  DOI: 10.1007/978-3-642-37349-7_2
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/2012
+  type: book
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2013'
+  title: Tools for high performance computing 2012 - contributed papers presented
+    at the 6th international parallel tools workshop, stuttgart, germany, september
+    25-26, 2012
+  publisher: Springer
+  DOI: 10.1007/978-3-642-37349-7
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/FanKR12
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Shiqing
+  - family: Keller
+    given: Rainer
+  - family: Resch
+    given: Michael M.
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Advanced memory checking for mPI parallel applications using memPin
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '39-53'
+  DOI: 10.1007/978-3-642-37349-7_4
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/SchulzBBGILP11
+  type: paper-conference
+  author:
+  - family: Schulz
+    given: Martin
+  - family: Bhatele
+    given: Abhinav
+  - family: Bremer
+    given: Peer-Timo
+  - family: Gamblin
+    given: Todd
+  - family: Isaacs
+    given: Katherine E.
+  - family: Levine
+    given: Joshua A.
+  - family: Pascucci
+    given: Valerio
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Creating a tool set for optimizing topology-aware node mappings
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '1-12'
+  DOI: 10.1007/978-3-642-31476-6_1
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/KlauseckerKPK08
+  type: paper-conference
+  author:
+  - family: Klausecker
+    given: Christof
+  - family: Köckerbauer
+    given: Thomas
+  - family: Preissl
+    given: Robert
+  - family: Kranzlmüller
+    given: Dieter
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Debugging mPI programs on the grid using g-eclipse
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '35-45'
+  DOI: 10.1007/978-3-540-68564-7_3
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/2011
+  type: book
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2012'
+  title: Tools for high performance computing 2011 - proceedings of the 5th international
+    workshop on parallel tools for high performance computing, zIH, dresden, september
+    2011
+  publisher: Springer
+  DOI: 10.1007/978-3-642-31476-6
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/FurlingerWS09
+  type: paper-conference
+  author:
+  - family: Fürlinger
+    given: Karl
+  - family: Wright
+    given: Nicholas J.
+  - family: Skinner
+    given: David
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Performance analysis and workload characterization with iPM
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '31-38'
+  DOI: 10.1007/978-3-642-11261-4_3
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/LueckeCHKXPKWWY09
+  type: paper-conference
+  author:
+  - family: Luecke
+    given: Glenn R.
+  - family: Coyle
+    given: James
+  - family: Hoekstra
+    given: James
+  - family: Kraeva
+    given: Marina
+  - family: Xu
+    given: Ying
+  - family: Park
+    given: Mi-Young
+  - family: Kleiman
+    given: Elizabeth
+  - family: Weiss
+    given: Olga
+  - family: Wehe
+    given: André
+  - family: Yahya
+    given: Melissa
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: The importance of run-time error detection
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '145-155'
+  DOI: 10.1007/978-3-642-11261-4_10
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/TreibigHW11
+  type: paper-conference
+  author:
+  - family: Treibig
+    given: Jan
+  - family: Hager
+    given: Georg
+  - family: Wellein
+    given: Gerhard
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: 'Likwid-bench: An extensible microbenchmarking platform for x86 multicore
+    compute nodes'
+  title-short: Likwid-bench
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '27-36'
+  DOI: 10.1007/978-3-642-31476-6_3
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/TerpstraJYD09
+  type: paper-conference
+  author:
+  - family: Terpstra
+    given: Daniel
+  - family: Jagode
+    given: Heike
+  - family: You
+    given: Haihang
+  - family: Dongarra
+    given: Jack
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Collecting performance data with pAPI-c
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '157-173'
+  DOI: 10.1007/978-3-642-11261-4_11
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/2008
+  type: book
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Tools for high performance computing - proceedings of the 2nd international
+    workshop on parallel tools for high performance computing, july 2008, hLRS, stuttgart
+  publisher: Springer
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/MohrVGHKNNSSWWZ12
+  type: paper-conference
+  author:
+  - family: Mohr
+    given: Bernd
+  - family: Voevodin
+    given: Vladimir V.
+  - family: Gimenez
+    given: Judit
+  - family: Hagersten
+    given: Erik
+  - family: Knüpfer
+    given: Andreas
+  - family: Nikitenko
+    given: Dmitry A.
+  - family: Nilsson
+    given: Mats
+  - family: Servat
+    given: Harald
+  - family: Shah
+    given: Aamer
+  - family: Winkler
+    given: Frank
+  - family: Wolf
+    given: Felix
+  - family: Zhukov
+    given: Ilya
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: The hOPSA workflow and tools
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '127-146'
+  DOI: 10.1007/978-3-642-37349-7_9
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/DontjeKLLMNVW08
+  type: paper-conference
+  author:
+  - family: Dontje
+    given: Terry
+  - family: Kerr
+    given: Don V.
+  - family: Lacher
+    given: Daniel
+  - family: Lui
+    given: Pak
+  - family: Mallove
+    given: Ethan
+  - family: Norteman
+    given: Karen
+  - family: Vandevaart
+    given: Rolf
+  - family: Wisniewski
+    given: Leonard F.
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: 'Sun hPC clusterTools™ 7+: A binary distribution of open mPI'
+  title-short: Sun hPC clusterTools™ 7+
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '3-18'
+  DOI: 10.1007/978-3-540-68564-7_1
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/TallentM11
+  type: paper-conference
+  author:
+  - family: Tallent
+    given: Nathan R.
+  - family: Mellor-Crummey
+    given: John M.
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Using sampling to understand parallel program performance
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '13-25'
+  DOI: 10.1007/978-3-642-31476-6_2
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/CarlsonHCE13
+  type: paper-conference
+  author:
+  - family: Carlson
+    given: Trevor E.
+  - family: Heirman
+    given: Wim
+  - family: Craeynest
+    given: Kenzo Van
+  - family: Eeckhout
+    given: Lieven
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: Node performance and energy analysis with the sniper multi-core simulator
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '79-89'
+  DOI: 10.1007/978-3-319-08144-1_7
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/MalonySMBSHN08
+  type: paper-conference
+  author:
+  - family: Malony
+    given: Allen D.
+  - family: Shende
+    given: Sameer
+  - family: Morris
+    given: Alan
+  - family: Biersdorff
+    given: Scott
+  - family: Spear
+    given: Wyatt
+  - family: Huck
+    given: Kevin A.
+  - family: Nataraj
+    given: Aroon
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Evolution of a parallel performance system
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '169-190'
+  DOI: 10.1007/978-3-540-68564-7_11
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/BarthouRJKV09
+  type: paper-conference
+  author:
+  - family: Barthou
+    given: Denis
+  - family: Rubial
+    given: Andres Charif
+  - family: Jalby
+    given: William
+  - family: Koliai
+    given: Souad
+  - family: Valensi
+    given: Cédric
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Performance tuning of x86 openMP codes with mAQAO
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '95-113'
+  DOI: 10.1007/978-3-642-11261-4_7
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/KnupferRMBDEGGLMNOPSSSTWWW11
+  type: paper-conference
+  author:
+  - family: Knüpfer
+    given: Andreas
+  - family: Rössel
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Biersdorff
+    given: Scott
+  - family: Diethelm
+    given: Kai
+  - family: Eschweiler
+    given: Dominic
+  - family: Geimer
+    given: Markus
+  - family: Gerndt
+    given: Michael
+  - family: Lorenz
+    given: Daniel
+  - family: Malony
+    given: Allen D.
+  - family: Nagel
+    given: Wolfgang E.
+  - family: Oleynik
+    given: Yury
+  - family: Philippen
+    given: Peter
+  - family: Saviankou
+    given: Pavel
+  - family: Schmidl
+    given: Dirk
+  - family: Shende
+    given: Sameer
+  - family: Tschüter
+    given: Ronny
+  - family: '0003'
+    given: Michael Wagner
+  - family: Wesarg
+    given: Bert
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: 'Score-p: A joint performance measurement run-time infrastructure for periscope,
+    scalasca, tAU, and vampir'
+  title-short: Score-p
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '79-91'
+  DOI: 10.1007/978-3-642-31476-6_7
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/AguileraMKZWM13
+  type: paper-conference
+  author:
+  - family: Aguilera
+    given: Alvaro
+  - family: Mickler
+    given: Holger
+  - family: Kunkel
+    given: Julian M.
+  - family: Zimmer
+    given: Michaela
+  - family: Wiedemann
+    given: Marc C.
+  - family: Müller-Pfefferkorn
+    given: Ralph
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: A comparison of trace compression methods for massively parallel applications
+    in context of the sIOX project
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '91-105'
+  DOI: 10.1007/978-3-319-08144-1_8
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/FanKR08
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Shiqing
+  - family: Keller
+    given: Rainer
+  - family: Resch
+    given: Michael M.
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Enhanced memory debugging of mPI-parallel applications in open mPI
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '49-60'
+  DOI: 10.1007/978-3-540-68564-7_4
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/LorenzBMSS12
+  type: paper-conference
+  author:
+  - family: Lorenz
+    given: Daniel
+  - family: Böhme
+    given: David
+  - family: Mohr
+    given: Bernd
+  - family: Strube
+    given: Alexandre
+  - family: Szebenyi
+    given: Zoltán
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Extending scalasca’s analysis features
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '115-126'
+  DOI: 10.1007/978-3-642-37349-7_8
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/LecomberW12
+  type: paper-conference
+  author:
+  - family: Lecomber
+    given: David
+  - family: Wohlschlegel
+    given: Patrick
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Debugging at scale with allinea dDT
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '3-12'
+  DOI: 10.1007/978-3-642-37349-7_1
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/HilbrichSSM09
+  type: paper-conference
+  author:
+  - family: Hilbrich
+    given: Tobias
+  - family: Schulz
+    given: Martin
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'MUST: A scalable approach to runtime error detection in mPI programs'
+  title-short: MUST
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '53-66'
+  DOI: 10.1007/978-3-642-11261-4_5
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/FanKR11
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Shiqing
+  - family: Keller
+    given: Rainer
+  - family: Resch
+    given: Michael M.
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Advanced memory checking frameworks for mPI parallel applications in open
+    mPI
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '63-78'
+  DOI: 10.1007/978-3-642-31476-6_6
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/Weidendorfer08
+  type: paper-conference
+  author:
+  - family: Weidendorfer
+    given: Josef
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Sequential performance analysis with callgrind and kCachegrind
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '93-113'
+  DOI: 10.1007/978-3-540-68564-7_7
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/VoVG09
+  type: paper-conference
+  author:
+  - family: Vo
+    given: Anh
+  - family: Vakkalanka
+    given: Sarvani S.
+  - family: Gopalakrishnan
+    given: Ganesh
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'ISP tool update: Scalable mPI verification'
+  title-short: ISP tool update
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '175-184'
+  DOI: 10.1007/978-3-642-11261-4_12
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/OleynikMUFG13
+  type: paper-conference
+  author:
+  - family: Oleynik
+    given: Yury
+  - family: Mijakovic
+    given: Robert
+  - family: Ureña
+    given: Isaías A. Comprés
+  - family: Firbach
+    given: Michael
+  - family: Gerndt
+    given: Michael
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: Recent advances in periscope for performance analysis and tuning
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '39-51'
+  DOI: 10.1007/978-3-319-08144-1_4
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/DeRoseHJKP08
+  type: paper-conference
+  author:
+  - family: Rose
+    given: Luiz De
+  - family: Homer
+    given: Bill
+  - family: Johnson
+    given: Dean
+  - family: Kaufmann
+    given: Steve
+  - family: Poxon
+    given: Heidi
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Cray performance analysis tools
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '191-199'
+  DOI: 10.1007/978-3-540-68564-7_12
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/WolfWABFFGHMMPS08
+  type: paper-conference
+  author:
+  - family: Wolf
+    given: Felix
+  - family: Wylie
+    given: Brian J. N.
+  - family: Ábrahám
+    given: Erika
+  - family: Becker
+    given: Daniel
+  - family: Frings
+    given: Wolfgang
+  - family: Fürlinger
+    given: Karl
+  - family: Geimer
+    given: Markus
+  - family: Hermanns
+    given: Marc-André
+  - family: Mohr
+    given: Bernd
+  - family: Moore
+    given: Shirley
+  - family: Pfeifer
+    given: Matthias
+  - family: Szebenyi
+    given: Zoltán
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Usage of the sCALASCA toolset for scalable performance analysis of large-scale
+    parallel applications
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '157-167'
+  DOI: 10.1007/978-3-540-68564-7_10
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/Juckeland11
+  type: paper-conference
+  author:
+  - family: Juckeland
+    given: Guido
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Trace-based performance analysis for hardware accelerators
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '93-104'
+  DOI: 10.1007/978-3-642-31476-6_8
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/CoulombDFT11
+  type: paper-conference
+  author:
+  - family: Coulomb
+    given: Kevin
+  - family: Degomme
+    given: Augustin
+  - family: Faverge
+    given: Mathieu
+  - family: Trahay
+    given: François
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: An open-source tool-chain for performance analysis
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '37-48'
+  DOI: 10.1007/978-3-642-31476-6_4
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/GonzalezGL13
+  type: paper-conference
+  author:
+  - family: Gonzalez
+    given: Juan
+  - family: Gimenez
+    given: Judit
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: 'Performance analytics: Understanding parallel applications using cluster
+    and sequence analysis'
+  title-short: Performance analytics
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '1-17'
+  DOI: 10.1007/978-3-319-08144-1_1
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/MalonySSLB11
+  type: paper-conference
+  author:
+  - family: Malony
+    given: Allen D.
+  - family: Shende
+    given: Sameer
+  - family: Spear
+    given: Wyatt
+  - family: Lee
+    given: Chee Wai
+  - family: Biersdorff
+    given: Scott
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: Advances in the tAU performance system
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '119-130'
+  DOI: 10.1007/978-3-642-31476-6_10
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/HagerstenNV08
+  type: paper-conference
+  author:
+  - family: Hagersten
+    given: Erik
+  - family: Nilsson
+    given: Mats
+  - family: Vesterlund
+    given: Magnus
+  editor:
+  - family: Resch
+    given: Michael M.
+  issued:
+  - year: '2008'
+  title: Improving cache utilization using acumem vPE
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '115-135'
+  DOI: 10.1007/978-3-540-68564-7_8
+  ISBN: '978-3-540-68561-6'
+
+- id: conf/ptw/BaumannG13
+  type: paper-conference
+  author:
+  - family: Baumann
+    given: Thomas M.
+  - family: Gracia
+    given: José
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: 'Cudagrind: Memory-usage checking for cUDA'
+  title-short: Cudagrind
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '67-78'
+  DOI: 10.1007/978-3-319-08144-1_6
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/2013
+  type: book
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2014'
+  title: Tools for high performance computing 2013, proceedings of the 7th international
+    workshop on parallel tools for high performance computing, september 2013, zIH,
+    dresden, germany
+  publisher: Springer
+  DOI: 10.1007/978-3-319-08144-1
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/BenedictPG09
+  type: paper-conference
+  author:
+  - family: Benedict
+    given: Shajulin
+  - family: Petkov
+    given: Ventsislav
+  - family: Gerndt
+    given: Michael
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'PERISCOPE: An online-based distributed performance analysis tool'
+  title-short: PERISCOPE
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '1-16'
+  DOI: 10.1007/978-3-642-11261-4_1
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/LudtkeG12
+  type: paper-conference
+  author:
+  - family: Lüdtke
+    given: Royd
+  - family: Gottbrath
+    given: Chris
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Cache-related performance analysis using rogue wave software’s threadSpotter
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '75-93'
+  DOI: 10.1007/978-3-642-37349-7_6
+  ISBN: '978-3-642-37348-0'
+
+- id: conf/ptw/SchmidlTMM13
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: Suitability of performance tools for openMP task-parallel programs
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '25-37'
+  DOI: 10.1007/978-3-319-08144-1_3
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/KellerBGN11
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Rainer
+  - family: Brinkmann
+    given: Steffen
+  - family: Gracia
+    given: José
+  - family: Niethammer
+    given: Christoph
+  editor:
+  - family: Brunst
+    given: Holger
+  issued:
+  - year: '2011'
+  title: 'Temanejo: Debugging of thread-based task-parallel programs in starSS'
+  title-short: Temanejo
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '131-137'
+  DOI: 10.1007/978-3-642-31476-6_11
+  ISBN: '978-3-642-31475-9'
+
+- id: conf/ptw/ItzkowitzM09
+  type: paper-conference
+  author:
+  - family: Itzkowitz
+    given: Marty
+  - family: Maruyama
+    given: Yukon
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: HPC profiling with the sun studio™ performance tools
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '67-93'
+  DOI: 10.1007/978-3-642-11261-4_6
+  ISBN: '978-3-642-11260-7'
+
+- id: conf/ptw/WuTLCLCTM13
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Xingfu
+  - family: Taylor
+    given: Valerie E.
+  - family: Lively
+    given: Charles W.
+  - family: Chang
+    given: Hung-Ching
+  - family: Li
+    given: Bo
+  - family: Cameron
+    given: Kirk W.
+  - family: Terpstra
+    given: Daniel
+  - family: Moore
+    given: Shirley
+  editor:
+  - family: Knüpfer
+    given: Andreas
+  issued:
+  - year: '2013'
+  title: 'MuMMI: Multiple metrics modeling infrastructure'
+  title-short: MuMMI
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '53-65'
+  DOI: 10.1007/978-3-319-08144-1_5
+  ISBN: '978-3-319-08143-4'
+
+- id: conf/ptw/KnupferDDGHRTWW12
+  type: paper-conference
+  author:
+  - family: Knüpfer
+    given: Andreas
+  - family: Dietrich
+    given: Robert
+  - family: Doleschal
+    given: Jens
+  - family: Geimer
+    given: Markus
+  - family: Hermanns
+    given: Marc-André
+  - family: Rössel
+    given: Christian
+  - family: Tschüter
+    given: Ronny
+  - family: Wesarg
+    given: Bert
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: Cheptsov
+    given: Alexey
+  issued:
+  - year: '2012'
+  title: Generic support for remote memory access operations in score-p and oTF2
+  container-title: Parallel tools workshop
+  publisher: Springer
+  page: '57-74'
+  DOI: 10.1007/978-3-642-37349-7_5
+  ISBN: '978-3-642-37348-0'
+...

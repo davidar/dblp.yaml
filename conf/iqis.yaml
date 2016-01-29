@@ -1,0 +1,921 @@
+---
+references:
+- id: conf/iqis/BugajskiGST05
+  type: paper-conference
+  author:
+  - family: Bugajski
+    given: Joseph
+  - family: Grossman
+    given: Robert L.
+  - family: Sumner
+    given: Eric
+  - family: Tang
+    given: Zhao
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: An event based framework for improving information quality that integrates
+    baseline models, causal models and formal reference models
+  container-title: IQIS
+  publisher: ACM
+  page: '40-45'
+  URL: http://doi.acm.org/10.1145/1077501.1077510
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/HassanzadehSM07
+  type: paper-conference
+  author:
+  - family: Hassanzadeh
+    given: Oktie
+  - family: Sadoghi
+    given: Mohammad
+  - family: Miller
+    given: Renée J.
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Accuracy of approximate string joins using grams
+  container-title: QDB
+  page: '11-18'
+
+- id: conf/iqis/PonC05
+  type: paper-conference
+  author:
+  - family: Pon
+    given: Raymond K.
+  - family: Cardenas
+    given: Alfonso F.
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Data quality inference
+  container-title: IQIS
+  publisher: ACM
+  page: '105-111'
+  URL: http://doi.acm.org/10.1145/1077501.1077519
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/BatiniBCCMPS08
+  type: paper-conference
+  author:
+  - family: Batini
+    given: Carlo
+  - family: Barone
+    given: Daniele
+  - family: Cabitza
+    given: Federico
+  - family: Ciocca
+    given: Gianluigi
+  - family: Marini
+    given: Fabrizio
+  - family: Pasi
+    given: Gabriella
+  - family: Schettini
+    given: Raimondo
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Toward a unified model for information quality
+  container-title: QDB/MUD
+  page: '113-122'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/quality2.pdf
+
+- id: conf/iqis/CappielloFP04
+  type: paper-conference
+  author:
+  - family: Cappiello
+    given: Cinzia
+  - family: Francalanci
+    given: Chiara
+  - family: Pernici
+    given: Barbara
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Data quality assessment from the users perspective
+  container-title: IQIS
+  publisher: ACM
+  page: '68-73'
+  URL: http://doi.acm.org/10.1145/1012453.1012465
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/BouzeghoubP04
+  type: paper-conference
+  author:
+  - family: Bouzeghoub
+    given: Mokrane
+  - family: Peralta
+    given: Verónika
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: A framework for analysis of data freshness
+  container-title: IQIS
+  publisher: ACM
+  page: '59-67'
+  URL: http://doi.acm.org/10.1145/1012453.1012464
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/MissierE05
+  type: paper-conference
+  author:
+  - family: Missier
+    given: Paolo
+  - family: Embury
+    given: Suzanne M.
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Provider issues in quality-constrained data provisioning
+  container-title: IQIS
+  publisher: ACM
+  page: '5-15'
+  URL: http://doi.acm.org/10.1145/1077501.1077507
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/WangRS08
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Ting-You
+  - family: Ré
+    given: Christopher
+  - family: Suciu
+    given: Dan
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Implementing nOT eXISTS predicates over a probabilistic database
+  container-title: QDB/MUD
+  page: '73-86'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/mud3.pdf
+
+- id: conf/iqis/LeeOKP05
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Dongwon
+  - family: 'On'
+    given: Byung-Won
+  - family: Kang
+    given: Jaewoo
+  - family: Park
+    given: Sanghyun
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Effective and scalable solutions for mixed and split citation problems in
+    digital libraries
+  container-title: IQIS
+  publisher: ACM
+  page: '69-76'
+  URL: http://doi.acm.org/10.1145/1077501.1077514
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/Miller07
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Renée J.
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Management of inconsistent and uncertain data
+  container-title: QDB
+  page: '7'
+
+- id: conf/iqis/WeisN04
+  type: paper-conference
+  author:
+  - family: Weis
+    given: Melanie
+  - family: Naumann
+    given: Felix
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Detecting duplicate objects in xML documents
+  container-title: IQIS
+  publisher: ACM
+  page: '10-19'
+  URL: http://doi.acm.org/10.1145/1012453.1012456
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/BatistaS07
+  type: paper-conference
+  author:
+  - family: Conceição Moraes Batista
+    given: Maria
+    dropping-particle: da
+  - family: Salgado
+    given: Ana Carolina
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Information quality measurement in data integration schemas
+  container-title: QDB
+  page: '61-72'
+
+- id: conf/iqis/ChuWPZ05
+  type: paper-conference
+  author:
+  - family: Chu
+    given: Fang
+  - family: Wang
+    given: Yizhou
+  - family: Jr.
+    given: Douglas Stott Parker
+  - family: Zaniolo
+    given: Carlo
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Data cleaning using belief propagation
+  container-title: IQIS
+  publisher: ACM
+  page: '99-104'
+  URL: http://doi.acm.org/10.1145/1077501.1077518
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/MotroAA04
+  type: paper-conference
+  author:
+  - family: Motro
+    given: Amihai
+  - family: Anokhin
+    given: Philipp
+  - family: Acar
+    given: Aybar C.
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Utility-based resolution of data inconsistencies
+  container-title: IQIS
+  publisher: ACM
+  page: '35-43'
+  URL: http://doi.acm.org/10.1145/1012453.1012460
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/CusmaiASC08
+  type: paper-conference
+  author:
+  - family: Cusmai
+    given: Francesco
+  - family: Aiello
+    given: Carola
+  - family: Scannapieco
+    given: Monica
+  - family: Catarci
+    given: Tiziana
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: 'EARL: An evolutionary algorithm for record linkage'
+  title-short: EARL
+  container-title: QDB/MUD
+  page: '23-32'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/linkage3.pdf
+
+- id: conf/iqis/HongYKL08
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Yoojin
+  - family: Yang
+    given: Tao
+  - family: Kang
+    given: Jaewoo
+  - family: Lee
+    given: Dongwon
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Record linkage as dNA sequence alignment problem
+  container-title: QDB/MUD
+  page: '13-22'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/linkage2.pdf
+
+- id: conf/iqis/2008
+  type: book
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Proceedings of the international workshop on quality in databases and management
+    of uncertain data, auckland, new zealand, august 2008
+
+- id: conf/iqis/X08
+  type: paper-conference
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Foreword
+  container-title: QDB/MUD
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/preface.pdf
+
+- id: conf/iqis/DanielCPC08
+  type: paper-conference
+  author:
+  - family: Daniel
+    given: Florian
+  - family: Casati
+    given: Fabio
+  - family: Palpanas
+    given: Themis
+  - family: Chayka
+    given: Oleksiy
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Managing data quality in business intelligence applications
+  container-title: QDB/MUD
+  page: '133-143'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/quality4.pdf
+
+- id: conf/iqis/VerykiosM04
+  type: paper-conference
+  author:
+  - family: Verykios
+    given: Vassilios S.
+  - family: Moustakides
+    given: George V.
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: A generalized cost optimal decision model for record matching
+  container-title: IQIS
+  publisher: ACM
+  page: '20-26'
+  URL: http://doi.acm.org/10.1145/1012453.1012457
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/Majkic04
+  type: paper-conference
+  author:
+  - family: Majkic
+    given: Zoran
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: A general framework for query answering in data quality-based cooperative
+    information systems
+  container-title: IQIS
+  publisher: ACM
+  page: '44-50'
+  URL: http://doi.acm.org/10.1145/1012453.1012461
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/2005
+  type: book
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: IQIS 2005, international workshop on information quality in information systems,
+    17 june 2005, baltimore, maryland, uSA (sIGMOD 2005 workshop)
+  publisher: ACM
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/X08a
+  type: paper-conference
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Program committees qDB and mUD
+  container-title: QDB/MUD
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/PCs.pdf
+
+- id: conf/iqis/SarmaANW08
+  type: paper-conference
+  author:
+  - family: Sarma
+    given: Anish Das
+  - family: Agrawal
+    given: Parag
+  - family: Nabar
+    given: Shubha U.
+  - family: Widom
+    given: Jennifer
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Towards special-purpose indexes and statistics for uncertain data
+  container-title: QDB/MUD
+  page: '57-72'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/mud2.pdf
+
+- id: conf/iqis/CarreiraGPMS07
+  type: paper-conference
+  author:
+  - family: Carreira
+    given: Paulo J. F.
+  - family: Galhardas
+    given: Helena
+  - family: Pereira
+    given: João L. M.
+  - family: Martins
+    given: Fernando
+  - family: Silva
+    given: Mário J.
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: On the performance of one-to-many data transformations
+  container-title: QDB
+  page: '39-48'
+
+- id: conf/iqis/Al-LawatiLM05
+  type: paper-conference
+  author:
+  - family: Al-Lawati
+    given: Ali
+  - family: Lee
+    given: Dongwon
+  - family: McDaniel
+    given: Patrick
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Blocking-aware private record linkage
+  container-title: IQIS
+  publisher: ACM
+  page: '59-68'
+  URL: http://doi.acm.org/10.1145/1077501.1077513
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/QiSSP08
+  type: paper-conference
+  author:
+  - family: Qi
+    given: Yinian
+  - family: Singh
+    given: Sarvjeet
+  - family: Shah
+    given: Rahul
+  - family: Prabhakar
+    given: Sunil
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Indexing probabilistic nearest-neighbor threshold queries
+  container-title: QDB/MUD
+  page: '87-102'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/mud4.pdf
+
+- id: conf/iqis/EmranEM08
+  type: paper-conference
+  author:
+  - family: Emran
+    given: Nurul A.
+  - family: Embury
+    given: Suzanne M.
+  - family: Missier
+    given: Paolo
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Model-driven component generation for families of completeness
+  container-title: QDB/MUD
+  page: '123-132'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/wuality3.pdf
+
+- id: conf/iqis/KopckeR08
+  type: paper-conference
+  author:
+  - family: Köpcke
+    given: Hanna
+  - family: Rahm
+    given: Erhard
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Training selection for tuning entity matching
+  container-title: QDB/MUD
+  page: '3-12'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/linkage1.pdf
+
+- id: conf/iqis/VassiliadisKTS07
+  type: paper-conference
+  author:
+  - family: Vassiliadis
+    given: Panos
+  - family: Karagiannis
+    given: Anastasios
+  - family: Tziovara
+    given: Vasiliki
+  - family: Simitsis
+    given: Alkis
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Towards a benchmark for eTL workflows
+  container-title: QDB
+  page: '49-60'
+
+- id: conf/iqis/CleveLHMH08
+  type: paper-conference
+  author:
+  - family: Cleve
+    given: Anthony
+  - family: Lemaitre
+    given: Jonathan
+  - family: Hainaut
+    given: Jean-Luc
+  - family: Mouchet
+    given: Christophe
+  - family: Henrard
+    given: Jean
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: The role of implicit schema constructs in data quality
+  container-title: QDB/MUD
+  page: '33-40'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/linkage4.pdf
+
+- id: conf/iqis/Winkler05
+  type: paper-conference
+  author:
+  - family: Winkler
+    given: William E.
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Methods and analyses for determining quality
+  container-title: IQIS
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1077501.1077505
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/ChenKM05
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Zhaoqi
+  - family: Kalashnikov
+    given: Dmitri V.
+  - family: Mehrotra
+    given: Sharad
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Exploiting relationships for object consolidation
+  container-title: IQIS
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/1077501.1077512
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/WadRW07
+  type: paper-conference
+  author:
+  - family: Wad
+    given: Charudatta V.
+  - family: Rundensteiner
+    given: Elke A.
+  - family: Ward
+    given: Matthew O.
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: 'QoS: Quality driven data abstraction generation for large databases'
+  title-short: QoS
+  container-title: QDB
+  page: '19-25'
+
+- id: conf/iqis/MullerLF04
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Heiko
+  - family: Leser
+    given: Ulf
+  - family: Freytag
+    given: Johann Christoph
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Mining for patterns in contradictory data
+  container-title: IQIS
+  publisher: ACM
+  page: '51-58'
+  URL: http://doi.acm.org/10.1145/1012453.1012463
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/GiacomoLLR04
+  type: paper-conference
+  author:
+  - family: Giacomo
+    given: Giuseppe De
+  - family: Lembo
+    given: Domenico
+  - family: Lenzerini
+    given: Maurizio
+  - family: Rosati
+    given: Riccardo
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Tackling inconsistencies in data integration through source preferences
+  container-title: IQIS
+  publisher: ACM
+  page: '27-34'
+  URL: http://doi.acm.org/10.1145/1012453.1012459
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/2007
+  type: book
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Proceedings of the fifth international workshop on quality in databases,
+    qDB 2007, at the vLDB 2007 conference, vienna, austria, september 23, 2007
+
+- id: conf/iqis/CarreiraG04
+  type: paper-conference
+  author:
+  - family: Carreira
+    given: Paulo J. F.
+  - family: Galhardas
+    given: Helena
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Execution of data mappers
+  container-title: IQIS
+  publisher: ACM
+  page: '2-9'
+  URL: http://doi.acm.org/10.1145/1012453.1012455
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/AndreopoulosAW05
+  type: paper-conference
+  author:
+  - family: Andreopoulos
+    given: Bill
+  - family: An
+    given: Aijun
+  - family: Wang
+    given: Xiaogang
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: 'Clustering mixed numerical and low quality categorical data: Significance
+    metrics on a yeast example'
+  title-short: Clustering mixed numerical and low quality categorical data
+  container-title: IQIS
+  publisher: ACM
+  page: '87-98'
+  URL: http://doi.acm.org/10.1145/1077501.1077517
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/Lenzerini04
+  type: paper-conference
+  author:
+  - family: Lenzerini
+    given: Maurizio
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: Quality-aware data integration in peer-to-peer systems
+  container-title: IQIS
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1012453
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/KarakasidisVP05
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Alexandros Karakasidis
+  - family: Vassiliadis
+    given: Panos
+  - family: Pitoura
+    given: Evaggelia
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: ETL queues for active data warehousing
+  container-title: IQIS
+  publisher: ACM
+  page: '28-39'
+  URL: http://doi.acm.org/10.1145/1077501.1077509
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/AntovaK08
+  type: paper-conference
+  author:
+  - family: Antova
+    given: Lyublena
+  - family: Koch
+    given: Christoph
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: On aPIs for probabilistic databases
+  container-title: QDB/MUD
+  page: '41-56'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/mud1.pdf
+
+- id: conf/iqis/Doan07
+  type: paper-conference
+  author:
+  - family: Doan
+    given: AnHai
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Data quality challenges in community systems
+  container-title: QDB
+  page: '9'
+
+- id: conf/iqis/Garcia-Molina05
+  type: paper-conference
+  author:
+  - family: Garcia-Molina
+    given: Hector
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Handling data quality in entity resolution
+  container-title: IQIS
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1077501.1077503
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/MartinezH05
+  type: paper-conference
+  author:
+  - family: Martinez
+    given: Alexandra
+  - family: Hammer
+    given: Joachim
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Making quality count in biological data sources
+  container-title: IQIS
+  publisher: ACM
+  page: '16-27'
+  URL: http://doi.acm.org/10.1145/1077501.1077508
+  ISBN: '1-59593-160-0'
+
+- id: conf/iqis/Berti-Equille08
+  type: paper-conference
+  author:
+  - family: Berti-Equille
+    given: Laure
+  editor:
+  - family: Missier
+    given: Paolo
+  issued:
+  - year: '2008'
+  title: Measuring and constraining data quality with analytic workflows
+  container-title: QDB/MUD
+  page: '103-112'
+  URL: http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/quality1.pdf
+
+- id: conf/iqis/2004
+  type: book
+  editor:
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2004'
+  title: IQIS 2004, international workshop on information quality in information systems,
+    18 june 2004, paris, france (sIGMOD 2004 workshop)
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1012453
+  ISBN: '1-58113-902-0'
+
+- id: conf/iqis/LassouedEBQ07
+  type: paper-conference
+  author:
+  - family: Lassoued
+    given: Yassine
+  - family: Essid
+    given: Mehdi
+  - family: Boucelma
+    given: Omar
+  - family: Quafafou
+    given: Mohamed
+  editor:
+  - family: Ganti
+    given: Venkatesh
+  issued:
+  - year: '2007'
+  title: Quality-driven mediation for geographic data
+  container-title: QDB
+  page: '27-38'
+
+- id: conf/iqis/KoellerK05
+  type: paper-conference
+  author:
+  - family: Koeller
+    given: Andreas
+  - family: Keelara
+    given: Vinay
+  editor:
+  - family: Berti-Equille
+    given: Laure
+  issued:
+  - year: '2005'
+  title: Approximate matching of textual domain attributes for information source
+    integration
+  container-title: IQIS
+  publisher: ACM
+  page: '77-86'
+  URL: http://doi.acm.org/10.1145/1077501.1077516
+  ISBN: '1-59593-160-0'
+...

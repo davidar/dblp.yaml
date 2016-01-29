@@ -1,0 +1,579 @@
+---
+references:
+- id: conf/ons/RasleySDRFACF14
+  type: paper-conference
+  author:
+  - family: Rasley
+    given: Jeff
+  - family: Stephens
+    given: Brent
+  - family: Dixon
+    given: Colin
+  - family: Rozner
+    given: Eric
+  - family: Felter
+    given: Wes
+  - family: Agarwal
+    given: Kanak
+  - family: Carter
+    given: John B.
+  - family: Fonseca
+    given: Rodrigo
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Low-latency network monitoring via oversubscribed port mirroring
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/rasley
+
+- id: conf/ons/KattiL14
+  type: paper-conference
+  author:
+  - family: Katti
+    given: Sachin
+  - family: Li
+    given: Li Erran
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'RadioVisor: A slicing plane for radio access networks'
+  title-short: RadioVisor
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/katti
+
+- id: conf/ons/YamazakiOYOM14
+  type: paper-conference
+  author:
+  - family: Yamazaki
+    given: Koji
+  - family: Osaka
+    given: Takeshi
+  - family: Yasuda
+    given: Sadayuki
+  - family: Ohteru
+    given: Shoko
+  - family: Miyazaki
+    given: Akihiko
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Accelerating sDN/NFV with transparent offloading architecture
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/yamazaki
+
+- id: conf/ons/HongCG14
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Chi-Yao
+  - family: Caesar
+    given: Matthew
+  - family: Godfrey
+    given: Philip Brighten
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'Software defined transport: Flexible and deployable flow rate control'
+  title-short: Software defined transport
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/hong
+
+- id: conf/ons/ZhuBS14
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Shuyong
+  - family: Bi
+    given: Jun
+  - family: Sun
+    given: Chen
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'SFA: Stateful forwarding abstraction in sDN data plane'
+  title-short: SFA
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/zhu
+
+- id: conf/ons/HuAHZ14
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Hongxin
+  - family: Ahn
+    given: Gail-Joon
+  - family: Han
+    given: Wonkyu
+  - family: Zhao
+    given: Ziming
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Towards a reliable sDN firewall
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/hu
+
+- id: conf/ons/ChenJZL14
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Chen
+  - family: Jia
+    given: Limin
+  - family: Zhou
+    given: Wenchao
+  - family: Loo
+    given: Boon Thau
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Proof-based verification of software defined networks
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/chen
+
+- id: conf/ons/KotronisDKAGS14
+  type: paper-conference
+  author:
+  - family: Kotronis
+    given: Vasileios
+  - family: Dimitropoulos
+    given: Xenofontas
+  - family: Klöti
+    given: Rowan
+  - family: Ager
+    given: Bernhard
+  - family: Georgopoulos
+    given: Panagiotis
+  - family: Schmid
+    given: Stefan
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'Control exchange points: Providing qoS-enabled end-to-end services via
+    sDN-based inter-domain routing orchestration'
+  title-short: Control exchange points
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/kotronis
+
+- id: conf/ons/YuZMA14
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Minlan
+  - family: Zhang
+    given: Ying
+  - family: Mirkovic
+    given: Jelena
+  - family: Alwabel
+    given: Abdulla
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'SENSS: Software defined security service'
+  title-short: SENSS
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/yu
+
+- id: conf/ons/LiYL14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Dan
+  - family: Yu
+    given: Yirong
+  - family: Li
+    given: Kang
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'SODA: Enhancing the data plane functionality of software defined networking'
+  title-short: SODA
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/li
+
+- id: conf/ons/WangZGC14
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Anduo
+  - family: Zhou
+    given: Wenchao
+  - family: Godfrey
+    given: Brighten
+  - family: Caesar
+    given: Matthew
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Software-defined networks as databases
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/wang
+
+- id: conf/ons/AfekBS14
+  type: paper-conference
+  author:
+  - family: Afek
+    given: Yehuda
+  - family: Bremler-Barr
+    given: Anat
+  - family: Schiff
+    given: Liron
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Cross-entrance consistent range classifier with openFlow
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/afek
+
+- id: conf/ons/Al-ShabibiLGKSP14
+  type: paper-conference
+  author:
+  - family: Al-Shabibi
+    given: Ali
+  - family: Leenheer
+    given: Marc De
+  - family: Gerola
+    given: Matteo
+  - family: Koshibe
+    given: Ayaka
+  - family: Snow
+    given: William
+  - family: Parulkar
+    given: Guru M.
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'OpenVirteX: A network hypervisor'
+  title-short: OpenVirteX
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/al-shabibi
+
+- id: conf/ons/Schulz-ZanderSS14
+  type: paper-conference
+  author:
+  - family: Schulz-Zander
+    given: Julius
+  - family: Sarrar
+    given: Nadi
+  - family: Schmid
+    given: Stefan
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'AeroFlux: A near-sighted controller architecture for software-defined
+    wireless networks'
+  title-short: AeroFlux
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/shulz-zander
+
+- id: conf/ons/XiaSZGT14
+  type: paper-conference
+  author:
+  - family: Xia
+    given: Ming
+  - family: Shirazipour
+    given: Meral
+  - family: Zhang
+    given: Ying
+  - family: Green
+    given: Howard
+  - family: Takács
+    given: Attila
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: SDN and optical flow steering for network function virtualization
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/xia
+
+- id: conf/ons/PeresiniKCK14
+  type: paper-conference
+  author:
+  - family: Peresíni
+    given: Peter
+  - family: Kuzniar
+    given: Maciej
+  - family: Canini
+    given: Marco
+  - family: Kostic
+    given: Dejan
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'ESPRES: Easy scheduling and prioritization for sDN'
+  title-short: ESPRES
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/peresini
+
+- id: conf/ons/LazarisTHLVYY14
+  type: paper-conference
+  author:
+  - family: Lazaris
+    given: Aggelos
+  - family: Tahara
+    given: Daniel
+  - family: Huang
+    given: Xin
+  - family: Li
+    given: Li Erran
+  - family: Voellmy
+    given: Andreas
+  - family: Yang
+    given: Yang Richard
+  - family: Yu
+    given: Minlan
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'Jive: Performance driven abstraction and optimication for sDN'
+  title-short: Jive
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/lazaris
+
+- id: conf/ons/SongGC14
+  type: paper-conference
+  author:
+  - family: Song
+    given: Haoyu
+  - family: Gong
+    given: Jun
+  - family: Chen
+    given: Hongfei
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Coherent sDN forwarding plane programming
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/song
+
+- id: conf/ons/KoganDE14
+  type: paper-conference
+  author:
+  - family: Kogan
+    given: Kirill
+  - family: Dixit
+    given: Advait
+  - family: Eugster
+    given: Patrick
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Serial composition of heterogeneous control planes
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/kogan
+
+- id: conf/ons/HuYZL14
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Chengchen
+  - family: Yang
+    given: Ji
+  - family: Zhao
+    given: Hongbo
+  - family: Lu
+    given: Jiahua
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Design of all programable innovation platform for software defined networking
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/hu-chengchen
+
+- id: conf/ons/VanbeverV14
+  type: paper-conference
+  author:
+  - family: Vanbever
+    given: Laurent
+  - family: Vissicchio
+    given: Stefano
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Enabling sDN in old school networks with software-controlled routing protocols
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/vanbever
+
+- id: conf/ons/SchlinkerZCFKY14
+  type: paper-conference
+  author:
+  - family: Schlinker
+    given: Brandon
+  - family: Zarifis
+    given: Kyriakos
+  - family: Cunha
+    given: Ítalo
+  - family: Feamster
+    given: Nick
+  - family: Katz-Bassett
+    given: Ethan
+  - family: Yu
+    given: Minlan
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'Try before you buy: SDN emulation with (real) interdomain routing'
+  title-short: Try before you buy
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/schlinker
+
+- id: conf/ons/YiakoumisBKM14
+  type: paper-conference
+  author:
+  - family: Yiakoumis
+    given: Yiannis
+  - family: Bansal
+    given: Manu
+  - family: Katti
+    given: Sachin
+  - family: McKeown
+    given: Nick
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: SDN for dense wiFi networks
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/yiakoumis
+
+- id: conf/ons/FayazbakhshCSYM14
+  type: paper-conference
+  author:
+  - family: Fayazbakhsh
+    given: Seyed Kaveh
+  - family: Chiang
+    given: Luis
+  - family: Sekar
+    given: Vyas
+  - family: Yu
+    given: Minlan
+  - family: Mogul
+    given: Jeffrey C.
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Extending sDN to handle dynamic middlebox actions via flowTags
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/fayazbakhsh
+
+- id: conf/ons/2014
+  type: book
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: Open networking summit 2014 - research track, oNS 2014, santa clara, cA,
+    uSA, march 2-4, 2014
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A440
+
+- id: conf/ons/MizrahiM14
+  type: paper-conference
+  author:
+  - family: Mizrahi
+    given: Tal
+  - family: Moses
+    given: Yoram
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: On the necessity of time-based updates in sDN
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/mizrahi
+
+- id: conf/ons/MoradiLM14
+  type: paper-conference
+  author:
+  - family: Moradi
+    given: Mehrdad
+  - family: Li
+    given: Li Erran
+  - family: Mao
+    given: Zhuoqing Morley
+  editor:
+  - family: Sherwood
+    given: Rob
+  issued:
+  - year: '2014'
+  title: 'SoftMoW: A dynamic and scalable software defined architecture for cellular
+    wANs'
+  title-short: SoftMoW
+  container-title: ONS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ons2014/technical-sessions/presentation/moradi
+...

@@ -1,0 +1,1919 @@
+---
+references:
+- id: books/ph/Wilkinson98
+  type: book
+  author:
+  - family: Wilkinson
+    given: Barry
+  - family: Allen
+    given: Michael
+  issued:
+  - year: '1998'
+  title: Parallel programming - techniques and applications using networked workstations
+    and parallel computers
+  publisher: Pearson Education
+  ISBN: '0-13-671710-1'
+
+- id: books/ph/PittmanP1992
+  type: book
+  author:
+  - family: Pittman
+    given: Thomas
+  - family: Peters
+    given: James
+  issued:
+  - year: '1992'
+  title: 'The art of compiler design: Theory and practice'
+  title-short: The art of compiler design
+  publisher: Prentice-Hall
+  ISBN: '0-13-046160-1'
+
+- id: books/ph/TeoreyF82
+  type: book
+  author:
+  - family: Teorey
+    given: Toby J.
+  - family: Fry
+    given: James P.
+  issued:
+  - year: '1982'
+  title: Design of database structures
+  publisher: Prentice-Hall
+
+- id: books/ph/Meyer94
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1994'
+  title: 'An object-oriented environment: Principles and applications'
+  title-short: An object-oriented environment
+  publisher: Prentice-Hall
+  ISBN: '0-13-245507-2'
+
+- id: books/ph/PapadimitriouS82
+  type: book
+  author:
+  - family: Papadimitriou
+    given: Christos H.
+  - family: Steiglitz
+    given: Kenneth
+  issued:
+  - year: '1982'
+  title: 'Combinatorial optimization: Algorithms and complexity'
+  title-short: Combinatorial optimization
+  publisher: Prentice-Hall
+  ISBN: '0-13-152462-3'
+
+- id: books/ph/cardenasM90/KatzC90
+  type: chapter
+  author:
+  - family: Katz
+    given: Randy H.
+  - family: Chang
+    given: Ellis E.
+  issued:
+  - year: '1990'
+  title: Managing change in a computer-aided design database
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '267-282'
+  note: 'reprint from: VLDB 1987: 455-462'
+
+- id: books/ph/cardenasM90/JosephC90
+  type: chapter
+  author:
+  - family: Joseph
+    given: Thomas
+  - family: Cardenas
+    given: Alfonso F.
+  issued:
+  - year: '1990'
+  title: 'PICQUERY: A high level query language for pictorial database management'
+  title-short: PICQUERY
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '283-302'
+  note: 'reprint from: TSE 14(5): 630-638 (1988)'
+
+- id: books/ph/cardenasM90/Andrews90
+  type: chapter
+  author:
+  - family: Andrews
+    given: Timothy
+  issued:
+  - year: '1990'
+  title: The vbase object database environment
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '221-240'
+
+- id: books/ph/cardenasM90/KimBBCGW90
+  type: chapter
+  author:
+  - family: Kim
+    given: Won
+  - family: Ballou
+    given: Nat
+  - family: Banerjee
+    given: Jay
+  - family: Chou
+    given: Hong-Tai
+  - family: Garza
+    given: Jorge F.
+  - family: Woelk
+    given: Darrell
+  issued:
+  - year: '1990'
+  title: Integrating an object-oriented programming system with a database system
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '156-173'
+  note: 'reprint from: OOPSLA 1988: 142-152'
+
+- id: books/ph/cardenasM90/HullK90
+  type: chapter
+  author:
+  - family: Hull
+    given: Richard
+  - family: King
+    given: Roger
+  issued:
+  - year: '1990'
+  title: A tutorial on semantic database modeling
+  container-title: Research foundations in object-oriented and semantic database systems
+  publisher: Prentice-Hall
+  page: '1-33'
+
+- id: books/ph/cardenasM90/BobrowKKMSZ90
+  type: chapter
+  author:
+  - family: Bobrow
+    given: Daniel G.
+  - family: Kahn
+    given: Kenneth M.
+  - family: Kiczales
+    given: Gregor
+  - family: Masinter
+    given: Larry
+  - family: Stefik
+    given: Mark
+  - family: Zdybel
+    given: Frank
+  issued:
+  - year: '1990'
+  title: 'CommonLoops: Merging lisp and object-oriented programming'
+  title-short: CommonLoops
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '70-90'
+  note: 'reprint from: OOPSLA 1986: 17-29'
+
+- id: books/ph/cardenasM90/SkarraZ90
+  type: chapter
+  author:
+  - family: Skarra
+    given: Andrea H.
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1990'
+  title: Type evolution in an object-oriented database
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '137-155'
+  note: 'reprint from: Research Directions in OO Programming: 1-15'
+
+- id: books/ph/cardenasM90/FishmanBACCDHHKLLMNRSW90
+  type: chapter
+  author:
+  - family: Fishman
+    given: Daniel H.
+  - family: Beech
+    given: David
+  - family: Annevelink
+    given: Jurgen
+  - family: Chow
+    given: E. C.
+  - family: Connors
+    given: Tim
+  - family: Davis
+    given: J. W.
+  - family: Hasan
+    given: Waqar
+  - family: Hoch
+    given: C. G.
+  - family: Kent
+    given: William
+  - family: Leichner
+    given: S.
+  - family: Lyngbæk
+    given: Peter
+  - family: Mahbod
+    given: Brom
+  - family: Neimat
+    given: Marie-Anne
+  - family: Risch
+    given: Tore
+  - family: Shan
+    given: Ming-Chien
+  - family: Wilkinson
+    given: W. Kevin
+  issued:
+  - year: '1990'
+  title: Overview of the iris dBMS
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '174-199'
+  note: 'reprint from: OO Concepts, Databases, and Applications 1989: 219-250'
+
+- id: books/ph/cardenasM90/DittrichGL90
+  type: chapter
+  author:
+  - family: Dittrich
+    given: Klaus R.
+  - family: Gotthard
+    given: Willi
+  - family: Lockemann
+    given: Peter C.
+  issued:
+  - year: '1990'
+  title: Complex entities for engineering applications
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '303-321'
+  note: 'reprint from: ER 1986: 421-440'
+
+- id: books/ph/cardenasM90/RoweS90
+  type: chapter
+  author:
+  - family: Rowe
+    given: Lawrence A.
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1990'
+  title: The pOSTGRES data model
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '91-110'
+  note: 'reprint from: VLDB 1987: 83-96'
+
+- id: books/ph/cardenasM90/LyngbaekM90
+  type: chapter
+  author:
+  - family: Lyngbæk
+    given: Peter
+  - family: McLeod
+    given: Dennis
+  issued:
+  - year: '1990'
+  title: Object management in distributed information systems
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '111-136'
+  note: 'reprint from: TOIS 2(2): 96-122 (1984)'
+
+- id: books/ph/cardenasM90/HammerM90
+  type: chapter
+  author:
+  - family: Hammer
+    given: Michael
+  - family: McLeod
+    given: Dennis
+  issued:
+  - year: '1990'
+  title: 'Database description with sDM: A semantic database model'
+  title-short: Database description with sDM
+  container-title: Research foundations in object-oriented and semantic database systems
+  publisher: Prentice-Hall
+  page: '34-69'
+  note: 'reprint from: TODS 6(3): 351-386 (1981)'
+
+- id: books/ph/cardenasM90/MaierSOP90
+  type: chapter
+  author:
+  - family: Maier
+    given: David
+  - family: Stein
+    given: Jacob
+  - family: Otis
+    given: Allen
+  - family: Purdy
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Development of an object-oriented dBMS
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '200-220'
+  note: 'reprint from: OOPSLA 1986: 472-482'
+
+- id: books/ph/cardenasM90/JagannathanGFTT90
+  type: chapter
+  author:
+  - family: Jagannathan
+    given: D.
+  - family: Guck
+    given: R. L.
+  - family: Fritchman
+    given: B. L.
+  - family: Thompson
+    given: J. P.
+  - family: Tolbert
+    given: D. M.
+  issued:
+  - year: '1990'
+  title: 'SIM: A database system based on the semantic data model'
+  title-short: SIM
+  container-title: Research foundations in object-oriented and semantic database systems
+  page: '241-266'
+  note: 'reprint from: SIGMOD Conference 1988: 46-55'
+
+- id: books/ph/Yao85
+  type: book
+  editor:
+  - family: Yao
+    given: S. Bing
+  issued:
+  - year: '1985'
+  title: 'Principles of database design, volume i: Logical organizations'
+  title-short: Principles of database design, volume i
+  publisher: Prentice-Hall
+  ISBN: '0-13-708876-0'
+
+- id: books/ph/Shasha92
+  type: book
+  author:
+  - family: Shasha
+    given: Dennis
+  issued:
+  - year: '1992'
+  title: Database tuning - a principled approach
+  publisher: Prentice-Hall
+  page: I-XVII, 1-239
+  URL: http://dblp.uni-trier.de/db/books/dbtext/shasha92.html
+  ISBN: '0-13-205246-6'
+
+- id: books/ph/Meyer95
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1995'
+  title: Object success
+  publisher: Prentice-Hall
+
+- id: books/ph/Meyer97
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1997'
+  title: Object-oriented software construction, 2nd edition
+  publisher: Prentice-Hall
+  ISBN: '0-13-629155-4'
+
+- id: books/ph/Backhouse1979
+  type: book
+  author:
+  - family: Backhouse
+    given: Roland Carl
+  issued:
+  - year: '1979'
+  title: 'Syntax of programming languages: Theory and practice'
+  title-short: Syntax of programming languages
+  publisher: Prentice-Hall
+  ISBN: '0-13-879999-7'
+
+- id: books/ph/FrakesB92
+  type: book
+  editor:
+  - family: Frakes
+    given: William B.
+  issued:
+  - year: '1992'
+  title: 'Information retrieval: Data structures & algorithms'
+  title-short: Information retrieval
+  publisher: Prentice-Hall
+  ISBN: '0-13-463837-9'
+
+- id: books/ph/frakesB92/Wartik92
+  type: chapter
+  author:
+  - family: Wartik
+    given: Steven P.
+  issued:
+  - year: '1992'
+  title: Boolean operations
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '264-292'
+
+- id: books/ph/frakesB92/Hollaar92
+  type: chapter
+  author:
+  - family: Hollaar
+    given: Lee A.
+  issued:
+  - year: '1992'
+  title: Special-purpose hardware for information retrieval
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '443-458'
+
+- id: books/ph/frakesB92/HarmanFBL92
+  type: chapter
+  author:
+  - family: Harman
+    given: Donna
+  - family: Fox
+    given: Edward A.
+  - family: Baeza-Yates
+    given: Ricardo A.
+  - family: Lee
+    given: Whay C.
+  issued:
+  - year: '1992'
+  title: Inverted files
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '28-43'
+
+- id: books/ph/frakesB92/Fox92
+  type: chapter
+  author:
+  - family: Fox
+    given: Christopher J.
+  issued:
+  - year: '1992'
+  title: Lexical analysis and stoplists
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '102-130'
+
+- id: books/ph/frakesB92/Frakes92
+  type: chapter
+  author:
+  - family: Frakes
+    given: William B.
+  issued:
+  - year: '1992'
+  title: Introduction to information storage and retrieval systems
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '1-12'
+
+- id: books/ph/frakesB92/WartikFHC92
+  type: chapter
+  author:
+  - family: Wartik
+    given: Steven P.
+  - family: Fox
+    given: Edward A.
+  - family: Heath
+    given: Lenwood S.
+  - family: Chen
+    given: Qi Fan
+  issued:
+  - year: '1992'
+  title: Hashing algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '293-362'
+
+- id: books/ph/frakesB92/Baeza-Yates92
+  type: chapter
+  author:
+  - family: Baeza-Yates
+    given: Ricardo A.
+  issued:
+  - year: '1992'
+  title: Introduction to data structures and algorithms related to information retrieval
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '13-27'
+
+- id: books/ph/frakesB92/Baeza-Yates92a
+  type: chapter
+  author:
+  - family: Baeza-Yates
+    given: Ricardo A.
+  issued:
+  - year: '1992'
+  title: String searching algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '219-24'
+
+- id: books/ph/frakesB92/Faloutsos92
+  type: chapter
+  author:
+  - family: Faloutsos
+    given: Christos
+  issued:
+  - year: '1992'
+  title: Signature files
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '44-65'
+
+- id: books/ph/frakesB92/Stanfill92
+  type: chapter
+  author:
+  - family: Stanfill
+    given: Craig
+  issued:
+  - year: '1992'
+  title: Parallel information retrieval algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '459-497'
+
+- id: books/ph/frakesB92/Rasmussen92
+  type: chapter
+  author:
+  - family: Rasmussen
+    given: Edie M.
+  issued:
+  - year: '1992'
+  title: Clustering algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '419-442'
+
+- id: books/ph/frakesB92/Frakes92a
+  type: chapter
+  author:
+  - family: Frakes
+    given: William B.
+  issued:
+  - year: '1992'
+  title: Stemming algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '131-160'
+
+- id: books/ph/frakesB92/Srivasan92
+  type: chapter
+  author:
+  - family: Srivasan
+    given: Padmini
+  issued:
+  - year: '1992'
+  title: Thesaurus construction
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '161-218'
+
+- id: books/ph/frakesB92/GonnetBS92
+  type: chapter
+  author:
+  - family: Gonnet
+    given: Gaston H.
+  - family: Baeza-Yates
+    given: Ricardo A.
+  - family: Snider
+    given: Tim
+  issued:
+  - year: '1992'
+  title: 'New indices for text: Pat trees and pat arrays'
+  title-short: New indices for text
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '66-82'
+
+- id: books/ph/frakesB92/FordC92
+  type: chapter
+  author:
+  - family: Ford
+    given: Daniel Alexander
+  - family: Christodoulakis
+    given: Stavros
+  issued:
+  - year: '1992'
+  title: File organizations for optical disks
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '83-101'
+
+- id: books/ph/frakesB92/FoxBKL92
+  type: chapter
+  author:
+  - family: Fox
+    given: Edward A.
+  - family: Betrabet
+    given: S.
+  - family: Koushik
+    given: M.
+  - family: Lee
+    given: Whay C.
+  issued:
+  - year: '1992'
+  title: Extended boolean models
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '393-418'
+
+- id: books/ph/frakesB92/Harman92a
+  type: chapter
+  author:
+  - family: Harman
+    given: Donna
+  issued:
+  - year: '1992'
+  title: Ranking algorithms
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '363-392'
+
+- id: books/ph/frakesB92/Harman92
+  type: chapter
+  author:
+  - family: Harman
+    given: Donna
+  issued:
+  - year: '1992'
+  title: Relevance feedback and other query modification techniques
+  container-title: 'Information retrieval: Data structures & algorithms'
+  page: '241-263'
+
+- id: books/ph/deGrootL86/SatoS86
+  type: chapter
+  author:
+  - family: Sato
+    given: Masahiko
+  - family: Sakurai
+    given: Takafumi
+  issued:
+  - year: '1986'
+  title: 'QUTE: A functional language based on unification'
+  title-short: QUTE
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '131-155'
+
+- id: books/ph/deGrootL86/Smolka86
+  type: chapter
+  author:
+  - family: Smolka
+    given: Gert
+  issued:
+  - year: '1986'
+  title: 'FRESH: A higher-order language with unification and multiple results'
+  title-short: FRESH
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '469-524'
+
+- id: books/ph/deGrootL86/BarbutiBLM86
+  type: chapter
+  author:
+  - family: Barbuti
+    given: Roberto
+  - family: Bellia
+    given: Marco
+  - family: Levi
+    given: Giorgio
+  - family: Martelli
+    given: Maurizio
+  issued:
+  - year: '1986'
+  title: 'LEAF: A language which integrates logic, equations and functions'
+  title-short: LEAF
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '201-238'
+
+- id: books/ph/deGrootL86/Reddy86
+  type: chapter
+  author:
+  - family: Reddy
+    given: Uday S.
+  issued:
+  - year: '1986'
+  title: On the relationship between logic and functional languages
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '3-36'
+
+- id: books/ph/deGrootL86/Kornfeld86
+  type: chapter
+  author:
+  - family: Kornfeld
+    given: William A.
+  issued:
+  - year: '1986'
+  title: Equality for prolog
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '279-294'
+
+- id: books/ph/deGrootL86/DarlingtonFP86
+  type: chapter
+  author:
+  - family: Darlington
+    given: John
+  - family: Field
+    given: A. J.
+  - family: Pull
+    given: Helen
+  issued:
+  - year: '1986'
+  title: The unification of functional and logic languages
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '37-70'
+
+- id: books/ph/deGrootL86/SubrahmanyamY86
+  type: chapter
+  author:
+  - family: Subrahmanyam
+    given: P. A.
+  - family: You
+    given: Jia-Huai
+  issued:
+  - year: '1986'
+  title: 'FUNLOG: A computational model integrating logic programming and functional
+    programming'
+  title-short: FUNLOG
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '157-198'
+
+- id: books/ph/deGrootL86/GoguenM86
+  type: chapter
+  author:
+  - family: Goguen
+    given: Joseph A.
+  - family: Meseguer
+    given: José
+  issued:
+  - year: '1986'
+  title: 'EQLOG: Equality, types, and generic modules for logic programming'
+  title-short: EQLOG
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '295-363'
+
+- id: books/ph/deGrootL86/Bandes86
+  type: chapter
+  author:
+  - family: Bandes
+    given: Robert G.
+  issued:
+  - year: '1986'
+  title: Constraining-unification and the programming language uNICORN
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '397-410'
+
+- id: books/ph/deGrootL86/JaffarLM86
+  type: chapter
+  author:
+  - family: Jaffar
+    given: Joxan
+  - family: Lassez
+    given: Jean-Louis
+  - family: Maher
+    given: Michael J.
+  issued:
+  - year: '1986'
+  title: Logic programming language scheme
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '441-467'
+
+- id: books/ph/deGrootL86/MalachiMW86
+  type: chapter
+  author:
+  - family: Malachi
+    given: Yonathan
+  - family: Manna
+    given: Zohar
+  - family: Waldinger
+    given: Richard J.
+  issued:
+  - year: '1986'
+  title: 'TABLOG: A new approach to logic programming'
+  title-short: TABLOG
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '365-394'
+
+- id: books/ph/deGrootL86/Abramson86
+  type: chapter
+  author:
+  - family: Abramson
+    given: Harvey
+  issued:
+  - year: '1986'
+  title: 'A prological definition of hASL: A purely functional language with unification-based
+    conditional binding expressions'
+  title-short: A prological definition of hASL
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '73-129'
+
+- id: books/ph/deGrootL86/Kahn86
+  type: chapter
+  author:
+  - family: Kahn
+    given: Kenneth M.
+  issued:
+  - year: '1986'
+  title: UNIFORM - a language based upon unification which unifies (much of) lISP,
+    pROLOG, and aCT 1
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '411-438'
+
+- id: books/ph/deGrootL86/Cohen86
+  type: chapter
+  author:
+  - family: Cohen
+    given: Shimon
+  issued:
+  - year: '1986'
+  title: The aPPLOG language
+  container-title: 'Logic programming: Functions, relations, and equations'
+  page: '239-276'
+
+- id: books/ph/OzsuV99
+  type: book
+  author:
+  - family: Özsu
+    given: M. Tamer
+  - family: Valduriez
+    given: Patrick
+  issued:
+  - year: '1999'
+  title: Principles of distributed database systems, second edition
+  publisher: Prentice-Hall
+
+- id: books/ph/Rodgers90
+  type: book
+  author:
+  - family: Rodgers
+    given: Ulka
+  issued:
+  - year: '1990'
+  title: UNIX database management systems
+  publisher: Yourdon Press / Prentice-Hall
+  ISBN: '0-13-945593-0'
+
+- id: books/ph/Jones87
+  type: book
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1987'
+  title: The implementation of functional programming languages
+  publisher: Prentice-Hall
+
+- id: books/ph/KernighanR88
+  type: book
+  author:
+  - family: Kernighan
+    given: Brian W.
+  - family: Ritchie
+    given: Dennis
+  issued:
+  - year: '1988'
+  title: The c programming language, second edition
+  publisher: Prentice-Hall
+  ISBN: '0-13-110370-9'
+
+- id: books/ph/GroskyJM97
+  type: book
+  editor:
+  - family: Grosky
+    given: William I.
+  issued:
+  - year: '1997'
+    month: April
+  title: Handbook of multimedia information management
+  publisher: Prentice-Hall
+  ISBN: '0-13-207325-0'
+
+- id: books/ph/RumbaughBPEL91
+  type: book
+  author:
+  - family: Rumbaugh
+    given: James E.
+  - family: Blaha
+    given: Michael R.
+  - family: Premerlani
+    given: William J.
+  - family: Eddy
+    given: Frederick
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '1991'
+  title: Object-oriented modeling and design
+  publisher: Prentice-Hall
+  ISBN: '0-13-630054-5'
+
+- id: books/ph/LewisP81
+  type: book
+  author:
+  - family: Lewis
+    given: Harry R.
+  - family: Papadimitriou
+    given: Christos H.
+  issued:
+  - year: '1981'
+  title: Elements of the theory of computation
+  publisher: Prentice-Hall
+  page: I-XIV, 1-466
+  ISBN: '0-13-273417-6'
+
+- id: books/ph/Dijkstra76
+  type: book
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  issued:
+  - year: '1976'
+  title: A discipline of programming
+  publisher: Prentice-Hall
+
+- id: books/ph/OzsuV91
+  type: book
+  author:
+  - family: Özsu
+    given: M. Tamer
+  - family: Valduriez
+    given: Patrick
+  issued:
+  - year: '1991'
+  title: Principles of distributed database systems
+  publisher: Prentice-Hall
+  ISBN: '0-13-715681-2'
+
+- id: books/ph/Tanenbaum92
+  type: book
+  author:
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1992'
+  title: Modern operating systems
+  publisher: Prentice-Hall
+  ISBN: '0-13-588187-0'
+
+- id: books/ph/CardenasM90
+  type: book
+  editor:
+  - family: Cardenas
+    given: Alfonso F.
+  issued:
+  - year: '1990'
+  title: Research foundations in object-oriented and semantic database system
+  publisher: Prentice-Hall
+  ISBN: '0-13-806340-0'
+
+- id: books/ph/Tanenbaum81
+  type: book
+  author:
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1981'
+  title: Computer networks
+  publisher: Prentice-Hall
+  ISBN: '0-13-165183-8'
+
+- id: books/ph/Hoare85
+  type: book
+  author:
+  - family: Hoare
+    given: C. A. R.
+  issued:
+  - year: '1985'
+  title: Communicating sequential processes
+  publisher: Prentice-Hall
+  ISBN: '0-13-153271-5'
+
+- id: books/ph/Meyer94a
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1994'
+  title: 'Reusable software: The base object-oriented component libraries'
+  title-short: Reusable software
+  publisher: Prentice-Hall
+  ISBN: '0-13-245499-8'
+
+- id: books/ph/Topley00
+  type: book
+  author:
+  - family: Topley
+    given: Kim
+  issued:
+  - year: '2000'
+  title: 'Core swing: Advanced programming'
+  title-short: Core swing
+  publisher: Prentice-Hall
+  ISBN: '0-13-083292-8'
+
+- id: books/ph/BukhresE96
+  type: book
+  editor:
+  - family: Bukhres
+    given: Omran A.
+  issued:
+  - year: '1996'
+  title: 'Object-oriented multidatabase systems: A solution for advanced applications'
+  title-short: Object-oriented multidatabase systems
+  publisher: Prentice-Hall
+  ISBN: '0-13-103813-3'
+
+- id: books/ph/Meyer01
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2001'
+  title: The .nET training course
+  publisher: Prentice-Hall
+  ISBN: '0-13-033115-5'
+
+- id: books/ph/WelshH1986
+  type: book
+  author:
+  - family: Welsh
+    given: Jim
+  - family: Hay
+    given: Atholl
+  issued:
+  - year: '1986'
+  title: A model implementation of standard pascal
+  publisher: Prentice-Hall
+  ISBN: '0-13-586454-2'
+
+- id: books/ph/DeitelDS01
+  type: book
+  editor:
+  - family: Deitel
+    given: Harvey M.
+  issued:
+  - year: '2001'
+  title: How to program advanced java
+  publisher: Prentice-Hall
+  ISBN: '0-13-089560-1'
+
+- id: books/ph/BestR85
+  type: book
+  author:
+  - family: Best
+    given: Michael J.
+  - family: '0002'
+    given: Klaus Ritter
+  issued:
+  - year: '1985'
+  title: 'Linear programming: Active set analysis and computer programs'
+  title-short: Linear programming
+  publisher: Prentice-Hall
+  ISBN: '0-13-536996-7'
+
+- id: books/ph/Meyer91
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1991'
+  title: 'Eiffel: The language'
+  title-short: Eiffel
+  publisher: Prentice-Hall
+  ISBN: '0-13-247925-7'
+
+- id: books/ph/Geary99
+  type: book
+  author:
+  - family: Geary
+    given: David M.
+  issued:
+  - year: '1999'
+  title: 'Graphic java 2, mastering the jFC: Volume iI: Swing, 3rd edition'
+  title-short: Graphic java 2, mastering the jFC
+  publisher: Prentice-Hall
+  ISBN: '0-13-079667-0'
+
+- id: books/ph/KemperM94
+  type: book
+  author:
+  - family: Kemper
+    given: Alfons
+  - family: Moerkotte
+    given: Guido
+  issued:
+  - year: '1994'
+  title: 'Object-oriented database management: Applications in engineering and computer
+    science'
+  title-short: Object-oriented database management
+  publisher: Prentice-Hall
+  ISBN: '0-13-629239-9'
+
+- id: books/ph/CoffmanD73
+  type: book
+  author:
+  - family: Jr.
+    given: Edward G. Coffman
+  - family: Denning
+    given: Peter J.
+  issued:
+  - year: '1973'
+  title: Operating systems theory
+  publisher: Prentice-Hall
+
+- id: books/ph/JainD88
+  type: book
+  author:
+  - family: Jain
+    given: Anil K.
+  - family: Dubes
+    given: Richard C.
+  issued:
+  - year: '1988'
+  title: Algorithms for clustering data
+  publisher: Prentice-Hall
+
+- id: books/ph/Lightstone2000
+  type: book
+  author:
+  - family: Lightstone
+    given: Sam
+  issued:
+  - year: '2010'
+  title: 'Making it big in software: Get the job. work the org. become great'
+  title-short: Making it big in software
+  publisher: Prentice Hall
+  ISBN: '0-13-705967-1'
+
+- id: books/ph/Dunham02
+  type: book
+  author:
+  - family: Dunham
+    given: Margaret H.
+  issued:
+  - year: '2002'
+  title: 'Data mining: Introductory and advanced topics'
+  title-short: Data mining
+  publisher: Prentice-Hall
+  ISBN: '0-13-088892-3'
+
+- id: books/ph/KernighanR78
+  type: book
+  author:
+  - family: Kernighan
+    given: Brian W.
+  - family: Ritchie
+    given: Dennis
+  issued:
+  - year: '1978'
+  title: The c programming language
+  publisher: Prentice-Hall
+  ISBN: '0-13-110163-3'
+
+- id: books/ph/Hansen1985
+  type: book
+  author:
+  - family: Hansen
+    given: Per Brinch
+  issued:
+  - year: '1985'
+  title: Brinch hansen on pascal compilers
+  publisher: Prentice-Hall
+  ISBN: '0-13-083098-4'
+
+- id: books/ph/groskyJM97/BaqaiKG97
+  type: chapter
+  author:
+  - family: Baqai
+    given: Shahab
+  - family: Khan
+    given: M. Farrukh
+  - family: Ghafoor
+    given: Arif
+  issued:
+  - year: '1997'
+  title: Multimedia communications - synchronization
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/BuddhikotPKR97
+  type: chapter
+  author:
+  - family: Buddhikot
+    given: Milind M.
+  - family: Parulkar
+    given: Guru M.
+  - family: Kumar
+    given: Srihari Sampath
+  - family: Rangan
+    given: P. Venkat
+  issued:
+  - year: '1997'
+  title: Design of large-scale multimedia-on-demand storage servers and storage hierarchies
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/OomotoT97
+  type: chapter
+  author:
+  - family: Oomoto
+    given: Eitetsu
+  - family: Tanaka
+    given: Katsumi
+  issued:
+  - year: '1997'
+  title: Video database systems - recent trends in research and development activities
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/DimitrovaG97
+  type: chapter
+  author:
+  - family: Dimitrova
+    given: Nevenka
+  - family: Golshani
+    given: Forouzan
+  issued:
+  - year: '1997'
+  title: Video and image content representation and retrieval
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/BufordR97
+  type: chapter
+  author:
+  - family: Buford
+    given: John F.
+  - family: Rutledge
+    given: Lloyd
+  issued:
+  - year: '1997'
+  title: Third-generation distributed hypermedia systems
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/PatelS97
+  type: chapter
+  author:
+  - family: Patel
+    given: Nilesh V.
+  - family: Sethi
+    given: Ishwar K.
+  issued:
+  - year: '1997'
+  title: Video segmentation for video data management
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/Tonomura97
+  type: chapter
+  author:
+  - family: Tonomura
+    given: Yoshinobu
+  issued:
+  - year: '1997'
+  title: Multimedia interfaces - multimedia content indication
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/HardmanB97
+  type: chapter
+  author:
+  - family: Hardman
+    given: Lynda
+  - family: Bulterman
+    given: Dick C. A.
+  issued:
+  - year: '1997'
+  title: Document model issues for hypermedia
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/GibbsBT97
+  type: chapter
+  author:
+  - family: Gibbs
+    given: Simon J.
+  - family: Breiteneder
+    given: Christian
+  - family: Tsichritzis
+    given: Dennis
+  issued:
+  - year: '1997'
+  title: Modeling time-based media
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/Jagadish97
+  type: chapter
+  author:
+  - family: Jagadish
+    given: H. V.
+  issued:
+  - year: '1997'
+  title: Content-based indexing and retrieval
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/Goble97
+  type: chapter
+  author:
+  - family: Goble
+    given: Carole A.
+  issued:
+  - year: '1997'
+  title: Image database prototypes
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/HamakawaA97
+  type: chapter
+  author:
+  - family: Hamakawa
+    given: Rei
+  - family: Atarashi
+    given: A.
+  issued:
+  - year: '1997'
+  title: Composite models
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/VasudevL97
+  type: chapter
+  author:
+  - family: Bhaskaran
+    given: Vasudev
+  - family: '0046'
+    given: Wei Li
+  issued:
+  - year: '1997'
+  title: 'Memory management: Codecs'
+  title-short: Memory management
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/groskyJM97/ChangC97
+  type: chapter
+  author:
+  - family: Chang
+    given: Shi-Kuo
+  - family: Costabile
+    given: Maria Francesca
+  issued:
+  - year: '1997'
+  title: Visual interfaces to multimedia databases
+  container-title: Handbook of multimedia information management
+  page: '0-'
+
+- id: books/ph/Garcia-MolinaUW99
+  type: book
+  author:
+  - family: Garcia-Molina
+    given: Hector
+  - family: Ullman
+    given: Jeffrey D.
+  - family: Widom
+    given: Jennifer
+  issued:
+  - year: '2000'
+  title: Database system implementation
+  publisher: Prentice-Hall
+  ISBN: '0-13-040264-8'
+
+- id: books/ph/LoomisC97
+  type: book
+  editor:
+  - family: Loomis
+    given: Mary E. S.
+  issued:
+  - year: '1997'
+  title: Object databases in practice
+  publisher: Prentice-Hall
+  ISBN: 0-13-899725-X
+
+- id: books/ph/kumar96/JajodiaM96
+  type: chapter
+  author:
+  - family: Jajodia
+    given: Sushil
+  - family: Mukkamala
+    given: Ravi
+  issued:
+  - year: '1996'
+  title: Reduction in transaction conflicts using semantics-based concurrency control
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '387-405'
+
+- id: books/ph/kumar96/LehmanG96
+  type: chapter
+  author:
+  - family: Lehman
+    given: Tobin J.
+  - family: Gottemukkala
+    given: Vibby
+  issued:
+  - year: '1996'
+  title: The design and performance evaluation of a lock manager for a memory-resident
+    database system
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '406-428'
+
+- id: books/ph/kumar96/Yu96
+  type: chapter
+  author:
+  - family: Yu
+    given: Philip S.
+  issued:
+  - year: '1996'
+  title: Modeling and analysis of concurrency control schemes
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '106-147'
+
+- id: books/ph/kumar96/Mohan96
+  type: chapter
+  author:
+  - family: Mohan
+    given: C.
+  issued:
+  - year: '1996'
+  title: 'Concurrency control and recovery methods for b+-tree indexes: ARIES/KVL
+    and aRIES/IM'
+  title-short: Concurrency control and recovery methods for b+-tree indexes
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '248-306'
+
+- id: books/ph/kumar96/AgrawalCL96
+  type: chapter
+  author:
+  - family: Agrawal
+    given: Rakesh
+  - family: Carey
+    given: Michael J.
+  - family: Livny
+    given: Miron
+  issued:
+  - year: '1996'
+  title: 'Concurrency control performance modeling: Alternatives and implications'
+  title-short: Concurrency control performance modeling
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '58-105'
+
+- id: books/ph/kumar96/ONeilRP96
+  type: chapter
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  - family: Ramamritham
+    given: Krithi
+  - family: Pu
+    given: Calton
+  issued:
+  - year: '1996'
+  title: A two-phase approach to predictably scheduling real-time transactions
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '494-522'
+
+- id: books/ph/kumar96/Mohan96a
+  type: chapter
+  author:
+  - family: Mohan
+    given: C.
+  issued:
+  - year: '1996'
+  title: 'Commit\_LSN: A novel and simple method for reducing locking and latching
+    in transaction processing systems'
+  title-short: Commit\_LSN
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '307-335'
+
+- id: books/ph/kumar96/Reuter96
+  type: chapter
+  author:
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1996'
+  title: An analytic model of transaction interference
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '37-57'
+
+- id: books/ph/kumar96/Chrysanthis96
+  type: chapter
+  author:
+  - family: Chrysanthis
+    given: Panos K.
+  issued:
+  - year: '1996'
+  title: Serializability-based correctness criteria
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '7-29'
+
+- id: books/ph/kumar96/KumarH96
+  type: chapter
+  author:
+  - family: Kumar
+    given: Vijay
+  - family: Hsu
+    given: Meichun
+  issued:
+  - year: '1996'
+  title: Transactions and database processing
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '1-6'
+
+- id: books/ph/kumar96/BoberC96
+  type: chapter
+  author:
+  - family: Bober
+    given: Paul M.
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '1996'
+  title: On mixing queries and transactions via multiversion locking
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '567-594'
+
+- id: books/ph/kumar96/HaritsaCL96
+  type: chapter
+  author:
+  - family: Haritsa
+    given: Jayant R.
+  - family: Carey
+    given: Michael J.
+  - family: Livny
+    given: Miron
+  issued:
+  - year: '1996'
+  title: Firm real-time concurrency control
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '461-493'
+
+- id: books/ph/kumar96/LangworthyZ96
+  type: chapter
+  author:
+  - family: Langworthy
+    given: David E.
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1996'
+  title: Extensibility and asynchrony in the brown-object storage system
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '595-627'
+
+- id: books/ph/kumar96/EichW96
+  type: chapter
+  author:
+  - family: Eich
+    given: Margaret H.
+  - family: Wells
+    given: David L.
+  issued:
+  - year: '1996'
+  title: Database concurrency control using data flow graphs
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '215-247'
+
+- id: books/ph/kumar96/CareyL96
+  type: chapter
+  author:
+  - family: Carey
+    given: Michael J.
+  - family: Livny
+    given: Miron
+  issued:
+  - year: '1996'
+  title: Conflict detection tradeoffs for replicated data
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '523-566'
+
+- id: books/ph/kumar96/ZhangH96
+  type: chapter
+  author:
+  - family: '0004'
+    given: Bin Zhang
+  - family: Hsu
+    given: Meichun
+  issued:
+  - year: '1996'
+  title: Modeling performance impact of hot spots
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '148-165'
+
+- id: books/ph/kumar96/LeeS96
+  type: chapter
+  author:
+  - family: Lee
+    given: Juhnyoung
+  - family: Son
+    given: Sang Hyuk
+  issued:
+  - year: '1996'
+  title: Performance of concurrency control algorithms for real-time database systems
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '429-460'
+
+- id: books/ph/kumar96/XavierR96
+  type: chapter
+  author:
+  - family: Xavier
+    given: Shehan
+  - family: Ramamritham
+    given: Krithi
+  issued:
+  - year: '1996'
+  title: Implementation considerations and performance evaluation of object-based
+    concurrency control protocols
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '356-386'
+
+- id: books/ph/kumar96/Thomasian96
+  type: chapter
+  author:
+  - family: Thomasian
+    given: Alexander
+  issued:
+  - year: '1996'
+  title: Two-phase locking performance and its thrashing behavior
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '166-214'
+
+- id: books/ph/kumar96/SchwenkreisR96
+  type: chapter
+  author:
+  - family: Schwenkreis
+    given: Friedemann
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1996'
+  title: Synchronizing long-lived computations
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '336-355'
+
+- id: books/ph/kumar96/Kumar96
+  type: chapter
+  author:
+  - family: Kumar
+    given: Vijay
+  issued:
+  - year: '1996'
+  title: Concurrency control mechanisms and their taxonomy
+  container-title: Performance of concurrency control mechanisms in centralized database
+    systems
+  page: '30-36'
+
+- id: books/ph/Bach86
+  type: book
+  author:
+  - family: Bach
+    given: Maurice J.
+  issued:
+  - year: '1986'
+  title: The design of the uNIX operating system
+  publisher: Prentice-Hall
+  ISBN: '0-13-201799-7'
+
+- id: books/ph/Comer00
+  type: book
+  editor:
+  - family: Comer
+    given: Douglas
+  issued:
+  - year: '2000'
+  title: Internetworking with tCP/IP - principles, protocols, and architectures, fourth
+    edition
+  publisher: Prentice-Hall
+  ISBN: '0-13-018380-6'
+
+- id: books/ph/Salzberg88
+  type: book
+  author:
+  - family: Salzberg
+    given: Betty
+  issued:
+  - year: '1988'
+  title: 'File structures: An analytic approach'
+  title-short: File structures
+  publisher: Prentice-Hall
+  ISBN: '0-13-314550-6'
+
+- id: books/ph/MeyerN93
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  - family: Nerson
+    given: Jean-Marc
+  issued:
+  - year: '1993'
+  title: Object-oriented applications
+  publisher: Prentice-Hall
+
+- id: books/ph/BattistaETT99
+  type: book
+  author:
+  - family: Battista
+    given: Giuseppe Di
+  - family: Eades
+    given: Peter
+  - family: Tamassia
+    given: Roberto
+  - family: Tollis
+    given: Ioannis G.
+  issued:
+  - year: '1999'
+  title: 'Graph drawing: Algorithms for the visualization of graphs'
+  title-short: Graph drawing
+  publisher: Prentice-Hall
+  ISBN: '0-13-301615-3'
+
+- id: books/ph/Tomlin90
+  type: book
+  author:
+  - family: Tomlin
+    given: C. Dana
+  issued:
+  - year: '1990'
+  title: Geographic information systems and cartographic modelling
+  publisher: Prentice-Hall
+  ISBN: '0-13-350927-3'
+
+- id: books/ph/Meyer90
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1990'
+  title: Introduction to the theory of programming languages
+  publisher: Prentice-Hall
+  ISBN: '0-13-498510-9'
+
+- id: books/ph/Meyer88
+  type: book
+  author:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '1988'
+  title: Object-oriented software construction, 1st edition
+  publisher: Prentice-Hall
+  ISBN: '0-13-629031-0'
+
+- id: books/ph/yao85/Clemons85
+  type: chapter
+  author:
+  - family: Clemons
+    given: Eric K.
+  issued:
+  - year: '1985'
+  title: Data models and the aNSI/SPARC architecture
+  container-title: Principles of database design (i)
+  page: '66-114'
+
+- id: books/ph/yao85/Su85
+  type: chapter
+  author:
+  - family: Su
+    given: Stanley Y. W.
+  issued:
+  - year: '1985'
+  title: Processing-requirement modeling and its applications in logical database
+    design
+  container-title: Principles of database design (i)
+  page: '151-173'
+
+- id: books/ph/yao85/Navathe85
+  type: chapter
+  author:
+  - family: Navathe
+    given: Shamkant B.
+  issued:
+  - year: '1985'
+  title: Schema implemetation and restructuring
+  container-title: Principles of database design (i)
+  page: '361-396'
+
+- id: books/ph/yao85/HevnerY85
+  type: chapter
+  author:
+  - family: Hevner
+    given: Alan R.
+  - family: Yao
+    given: S. Bing
+  issued:
+  - year: '1985'
+  title: Network database design methods
+  container-title: Principles of database design (i)
+  page: '294-324'
+
+- id: books/ph/yao85/Hubbard85
+  type: chapter
+  author:
+  - family: Hubbard
+    given: George U.
+  issued:
+  - year: '1985'
+  title: Compter-assisted hierarchical database design
+  container-title: Principles of database design (i)
+  page: '255-293'
+
+- id: books/ph/yao85/KingM85
+  type: chapter
+  author:
+  - family: King
+    given: Roger
+  - family: McLeod
+    given: Dennis
+  issued:
+  - year: '1985'
+  title: Semantic data models
+  container-title: Principles of database design (i)
+  page: '115-150'
+
+- id: books/ph/yao85/Chen85
+  type: chapter
+  author:
+  - family: Chen
+    given: Peter P.
+  issued:
+  - year: '1985'
+  title: Database design based on entity and realtionship
+  container-title: Principles of database design (i)
+  page: '174-210'
+
+- id: books/ph/yao85/Lien85
+  type: chapter
+  author:
+  - family: Lien
+    given: Y. Edmund
+  issued:
+  - year: '1985'
+  title: Relational database design
+  container-title: Principles of database design (i)
+  page: '211-254'
+
+- id: books/ph/yao85/Kahn85
+  type: chapter
+  author:
+  - family: Kahn
+    given: Beverly K.
+  issued:
+  - year: '1985'
+  title: Requirement specification techniques
+  container-title: Principles of database design (i)
+  page: '1-65'
+
+- id: books/ph/yao85/YaoWH85
+  type: chapter
+  author:
+  - family: Yao
+    given: S. Bing
+  - family: Waddle
+    given: Vance E.
+  - family: Housel
+    given: Barron C.
+  issued:
+  - year: '1985'
+  title: An interactive system for database design and integration
+  container-title: Principles of database design (i)
+  page: '325-360'
+
+- id: books/ph/WaldenN94
+  type: book
+  author:
+  - family: Walden
+    given: Kim
+  - family: Nerson
+    given: Jean-Marc
+  issued:
+  - year: '1994'
+  title: Seamless object-oriented software architecture - analysis and design of reliable
+    systems
+  publisher: Prentice-Hall
+  ISBN: '0-13-031303-3'
+
+- id: books/ph/UllmanW97
+  type: book
+  author:
+  - family: Ullman
+    given: Jeffrey D.
+  - family: Widom
+    given: Jennifer
+  issued:
+  - year: '1997'
+  title: A first course in database systems
+  publisher: Prentice-Hall
+  URL: http://www-db.stanford.edu/~ullman/fcdb.html
+  ISBN: '0-13-861337-0'
+
+- id: books/ph/WakemanJ93
+  type: book
+  author:
+  - family: Wakeman
+    given: Lois
+  - family: Jowett
+    given: Jonathan
+  issued:
+  - year: '1993'
+  title: PCTE - the standard for open repositories
+  publisher: Prentice-Hall
+  ISBN: 0-13-065566-X
+...

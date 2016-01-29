@@ -1,0 +1,963 @@
+---
+references:
+- id: conf/pgas/SharmaSKBF14
+  type: paper-conference
+  author:
+  - family: Sharma
+    given: Aroon
+  - family: Smith
+    given: Darren
+  - family: Koehler
+    given: Joshua
+  - family: Barua
+    given: Rajeev
+  - family: Ferguson
+    given: Michael
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Affine loop optimization based on modulo unrolling in chapel
+  container-title: PGAS
+  publisher: ACM
+  page: 13:1-13:12
+  URL: http://doi.acm.org/10.1145/2676870.2676877
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/VormwaldWCSW10
+  type: paper-conference
+  author:
+  - family: Vormwald
+    given: Steven
+  - family: Wang
+    given: W.
+  - family: Carr
+    given: S.
+  - family: Seidel
+    given: S.
+  - family: Wang
+    given: Z.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Predicting remote reuse distance patterns in uPC applications
+  container-title: PGAS
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2020373.2020374
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/AggarwalYGLS10
+  type: paper-conference
+  author:
+  - family: Aggarwal
+    given: Vikas
+  - family: Yoon
+    given: Changil
+  - family: George
+    given: Alan D.
+  - family: Lam
+    given: Herman
+  - family: Stitt
+    given: Greg
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Performance modeling for multilevel communication in sHMEM+
+  container-title: PGAS
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2020373.2020380
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/BillingsleyBTG10
+  type: paper-conference
+  author:
+  - family: Billingsley
+    given: Max T.
+  - family: Tibbitts
+    given: Beth R.
+  - family: George
+    given: Alan D.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Improving uPC productivity via integrated development tools
+  container-title: PGAS
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2020373.2020381
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/Ibrahim14
+  type: paper-conference
+  author:
+  - family: Ibrahim
+    given: Khaled Z.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Efficient interoperability of openSHMEM on multicore architectures
+  container-title: PGAS
+  publisher: ACM
+  page: 25:1-25:3
+  URL: http://doi.acm.org/10.1145/2676870.2676889
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/WillenbergC14
+  type: paper-conference
+  author:
+  - family: Willenberg
+    given: Ruediger
+  - family: Chow
+    given: Paul
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: A heterogeneous gASNet implementation for fPGA-accelerated computing
+  container-title: PGAS
+  publisher: ACM
+  page: 2:1-2:9
+  URL: http://doi.acm.org/10.1145/2676870.2676885
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/KaiserHASF14
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: Hartmut
+  - family: Heller
+    given: Thomas
+  - family: Adelstein-Lelbach
+    given: Bryce
+  - family: Serio
+    given: Adrian
+  - family: Fey
+    given: Dietmar
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'HPX: A task based programming model in a global address space'
+  title-short: HPX
+  container-title: PGAS
+  publisher: ACM
+  page: 6:1-6:11
+  URL: http://doi.acm.org/10.1145/2676870.2676883
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/Hammond14
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Jeff R.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Towards a matrix-oriented strided interface in openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 17:1-17:3
+  URL: http://doi.acm.org/10.1145/2676870.2676888
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/ShanKWZY14
+  type: paper-conference
+  author:
+  - family: Shan
+    given: Hongzhang
+  - family: Kamil
+    given: Amir
+  - family: Williams
+    given: Samuel
+  - family: Zheng
+    given: Yili
+  - family: Yelick
+    given: Katherine A.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Evaluation of pGAS communication paradigms with geometric multigrid
+  container-title: PGAS
+  publisher: ACM
+  page: 8:1-8:12
+  URL: http://doi.acm.org/10.1145/2676870.2676874
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/AbeM14
+  type: paper-conference
+  author:
+  - family: Abe
+    given: Tatsuya
+  - family: Maeda
+    given: Toshiyuki
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Optimization of a general model checking framework for various memory consistency
+    models
+  container-title: PGAS
+  publisher: ACM
+  page: 14:1-14:10
+  URL: http://doi.acm.org/10.1145/2676870.2676878
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/BouteillerHB14
+  type: paper-conference
+  author:
+  - family: Bouteiller
+    given: Aurelien
+  - family: Hérault
+    given: Thomas
+  - family: Bosilca
+    given: George
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: A multithreaded communication substrate for openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 16:1-16:2
+  URL: http://doi.acm.org/10.1145/2676870.2676895
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/FanfarilloBCFNR14
+  type: paper-conference
+  author:
+  - family: Fanfarillo
+    given: Alessandro
+  - family: Burnus
+    given: Tobias
+  - family: Cardellini
+    given: Valeria
+  - family: Filippone
+    given: Salvatore
+  - family: Nagle
+    given: Dan
+  - family: Rouson
+    given: Damian W. I.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'OpenCoarrays: Open-source transport layers supporting coarray fortran
+    compilers'
+  title-short: OpenCoarrays
+  container-title: PGAS
+  publisher: ACM
+  page: 4:1-4:11
+  URL: http://doi.acm.org/10.1145/2676870.2676876
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/LuoSMASH14
+  type: paper-conference
+  author:
+  - family: Luo
+    given: Miao
+  - family: Seager
+    given: Kayla
+  - family: Murthy
+    given: Karthik S.
+  - family: Archer
+    given: Charles J.
+  - family: Sur
+    given: Sayantan
+  - family: Hefty
+    given: Sean
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Early evaluation of scalable fabric interface for pGAS programming models
+  container-title: PGAS
+  publisher: ACM
+  page: 1:1-1:13
+  URL: http://doi.acm.org/10.1145/2676870.2676871
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/DongZG10
+  type: paper-conference
+  author:
+  - family: Dong
+    given: Han
+  - family: Zhou
+    given: Shujia
+  - family: Grove
+    given: David
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: X10-enabled mapReduce
+  container-title: PGAS
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2020373.2020382
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/ZhouMIGGF14
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Huan
+  - family: Mhedheb
+    given: Yousri
+  - family: Idrees
+    given: Kamran
+  - family: Glass
+    given: Colin W.
+  - family: Gracia
+    given: José
+  - family: Fürlinger
+    given: Karl
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'DART-mPI: An mPI-based implementation of a pGAS runtime system'
+  title-short: DART-mPI
+  container-title: PGAS
+  publisher: ACM
+  page: 3:1-3:11
+  URL: http://doi.acm.org/10.1145/2676870.2676875
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/BlagojevicHIY10
+  type: paper-conference
+  author:
+  - family: Blagojevic
+    given: Filip
+  - family: Hargrove
+    given: Paul
+  - family: Iancu
+    given: Costin
+  - family: Yelick
+    given: Katherine A.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Hybrid pGAS runtime support for multicore nodes
+  container-title: PGAS
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2020373.2020376
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/JanjusicSVP14
+  type: paper-conference
+  author:
+  - family: Janjusic
+    given: Tomislav
+  - family: Shamis
+    given: Pavel
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Poole
+    given: Stephen W.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: OpenSHMEM reference implementation using uCCS-uGNI transport layer
+  container-title: PGAS
+  publisher: ACM
+  page: 18:1-18:4
+  URL: http://doi.acm.org/10.1145/2676870.2676892
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/WelchPSHPC14
+  type: paper-conference
+  author:
+  - family: Welch
+    given: Aaron
+  - family: Pophale
+    given: Swaroop
+  - family: Shamis
+    given: Pavel
+  - family: Hernandez
+    given: Oscar R.
+  - family: Poole
+    given: Stephen W.
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Extending the openSHMEM memory model to support user-defined spaces
+  container-title: PGAS
+  publisher: ACM
+  page: 11:1-11:10
+  URL: http://doi.acm.org/10.1145/2676870.2676884
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/JostHD14
+  type: paper-conference
+  author:
+  - family: Jost
+    given: Gabriele
+  - family: Hanebutte
+    given: Ulf R.
+  - family: Dinan
+    given: James
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'Multi-threaded openSHMEM: A bad idea?'
+  title-short: Multi-threaded openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 21:1-21:4
+  URL: http://doi.acm.org/10.1145/2676870.2676890
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/KumarZCBS14
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Vivek Kumar
+  - family: Zheng
+    given: Yili
+  - family: Cavé
+    given: Vincent
+  - family: Budimlic
+    given: Zoran
+  - family: Sarkar
+    given: Vivek
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'HabaneroUPC++: A compiler-free pGAS library'
+  title-short: HabaneroUPC++
+  container-title: PGAS
+  publisher: ACM
+  page: 5:1-5:10
+  URL: http://doi.acm.org/10.1145/2676870.2676879
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/MarkidisL10
+  type: paper-conference
+  author:
+  - family: Markidis
+    given: Stefano
+  - family: Lapenta
+    given: Giovanni
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Development and performance analysis of a uPC particle-in-cell code
+  container-title: PGAS
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2020373.2020383
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/IonkovY14
+  type: paper-conference
+  author:
+  - family: Ionkov
+    given: Latchesar
+  - family: Young
+    given: Ginger
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Asymmetric memory extension for openshmem
+  container-title: PGAS
+  publisher: ACM
+  page: 22:1-22:2
+  URL: http://doi.acm.org/10.1145/2676870.2676887
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/MallinsonJGH14
+  type: paper-conference
+  author:
+  - family: Mallinson
+    given: A. C.
+  - family: Jarvis
+    given: Stephen A.
+  - family: Gaudin
+    given: W. P.
+  - family: Herdman
+    given: J. A.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Experiences at scale with pGAS versions of a hydrodynamics application
+  container-title: PGAS
+  publisher: ACM
+  page: 9:1-9:11
+  URL: http://doi.acm.org/10.1145/2676870.2676873
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/DinanF14a
+  type: paper-conference
+  author:
+  - family: Dinan
+    given: James
+  - family: Flajslik
+    given: Mario
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'One-sided append: A new communication paradigm for pGAS models'
+  title-short: One-sided append
+  container-title: PGAS
+  publisher: ACM
+  page: 19:1-19:5
+  URL: http://doi.acm.org/10.1145/2676870.2676886
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/LiLLHTP14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mingzhe
+  - family: Lin
+    given: Jian
+  - family: Lu
+    given: Xiaoyi
+  - family: Hamidouche
+    given: Khaled
+  - family: Tomko
+    given: Karen
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Scalable miniMD design with hybrid mPI and openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 24:1-24:4
+  URL: http://doi.acm.org/10.1145/2676870.2676893
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/NamashivayamGKEC14
+  type: paper-conference
+  author:
+  - family: Namashivayam
+    given: Naveen
+  - family: Ghosh
+    given: Sayan
+  - family: Khaldi
+    given: Dounia
+  - family: Eachempati
+    given: Deepak
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Native mode-based optimizations of remote memory accesses in openSHMEM for
+    intel xeon phi
+  container-title: PGAS
+  publisher: ACM
+  page: 12:1-12:11
+  URL: http://doi.acm.org/10.1145/2676870.2676881
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/FarrerasA10
+  type: paper-conference
+  author:
+  - family: Farreras
+    given: Montse
+  - family: Almási
+    given: George
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Asynchronous pGAS runtime for myrinet networks
+  container-title: PGAS
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2020373.2020377
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/JosePSLHSSP14
+  type: paper-conference
+  author:
+  - family: Jose
+    given: Jithin
+  - family: Potluri
+    given: Sreeram
+  - family: Subramoni
+    given: Hari
+  - family: Lu
+    given: Xiaoyi
+  - family: Hamidouche
+    given: Khaled
+  - family: Schulz
+    given: Karl W.
+  - family: Sundar
+    given: Hari
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Designing scalable out-of-core sorting with hybrid mPI+PGAS programming models
+  container-title: PGAS
+  publisher: ACM
+  page: 7:1-7:9
+  URL: http://doi.acm.org/10.1145/2676870.2676880
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/JoseLSP10
+  type: paper-conference
+  author:
+  - family: Jose
+    given: Jithin
+  - family: Luo
+    given: Miao
+  - family: Sur
+    given: Sayantan
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: 'Unifying uPC and mPI runtimes: Experience with mVAPICH'
+  title-short: Unifying uPC and mPI runtimes
+  container-title: PGAS
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2020373.2020378
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/KristensenV10
+  type: paper-conference
+  author:
+  - family: Kristensen
+    given: Mads Ruben Burgdorff
+  - family: Vinter
+    given: Brian
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Numerical python for scalable architectures
+  container-title: PGAS
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/2020373.2020388
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/DinanF14
+  type: paper-conference
+  author:
+  - family: Dinan
+    given: James
+  - family: Flajslik
+    given: Mario
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: 'Contexts: A mechanism for high throughput communication in openSHMEM'
+  title-short: Contexts
+  container-title: PGAS
+  publisher: ACM
+  page: 10:1-10:9
+  URL: http://doi.acm.org/10.1145/2676870.2676872
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/JanaSC14
+  type: paper-conference
+  author:
+  - family: Jana
+    given: Siddhartha
+  - family: Schuchart
+    given: Joseph
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Analysis of energy and performance of pGAS-based data access patterns
+  container-title: PGAS
+  publisher: ACM
+  page: 15:1-15:10
+  URL: http://doi.acm.org/10.1145/2676870.2676882
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/EachempatiJC10
+  type: paper-conference
+  author:
+  - family: Eachempati
+    given: Deepak
+  - family: Jun
+    given: Hyoung Joon
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: An open-source compiler and runtime implementation for coarray fortran
+  container-title: PGAS
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2020373.2020386
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/ChapmanCPPKKS10
+  type: paper-conference
+  author:
+  - family: Chapman
+    given: Barbara M.
+  - family: Curtis
+    given: Tony
+  - family: Pophale
+    given: Swaroop
+  - family: Poole
+    given: Stephen W.
+  - family: Kuehn
+    given: Jeffery A.
+  - family: Koelbel
+    given: Chuck
+  - family: Smith
+    given: Lauren
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: 'Introducing openSHMEM: SHMEM for the pGAS community'
+  title-short: Introducing openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2020373.2020375
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/ShamisVPPDGGS14
+  type: paper-conference
+  author:
+  - family: Shamis
+    given: Pavel
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Poole
+    given: Stephen W.
+  - family: Pophale
+    given: Swaroop
+  - family: Dubman
+    given: Michael
+  - family: Graham
+    given: Richard L.
+  - family: Goldenberg
+    given: Dror
+  - family: Shainer
+    given: Gilad
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Development and extension of atomic memory operations in openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 20:1-20:4
+  URL: http://doi.acm.org/10.1145/2676870.2676891
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/2014
+  type: book
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Proceedings of the 8th international conference on partitioned global address
+    space programming models, pGAS 2014, eugene, oR, uSA, october 6-10, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2676870
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/2010
+  type: book
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Proceedings of the fourth conference on partitioned global address space
+    programming model, pGAS 2010, new york, nY, uSA, october 12-15, 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2020373
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/HaoSVPWPC14
+  type: paper-conference
+  author:
+  - family: Hao
+    given: Pengfei
+  - family: Shamis
+    given: Pavel
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Pophale
+    given: Swaroop
+  - family: Welch
+    given: Aaron
+  - family: Poole
+    given: Stephen W.
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Malony
+    given: Allen D.
+  issued:
+  - year: '2014'
+  title: Fault tolerance for openSHMEM
+  container-title: PGAS
+  publisher: ACM
+  page: 23:1-23:3
+  URL: http://doi.acm.org/10.1145/2676870.2676894
+  ISBN: '978-1-4503-3247-7'
+
+- id: conf/pgas/VanceK10
+  type: paper-conference
+  author:
+  - family: Vance
+    given: Megan
+  - family: Kogge
+    given: Peter M.
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: 'Introducing mNUMA: An extended pGAS architecture'
+  title-short: Introducing mNUMA
+  container-title: PGAS
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2020373.2020379
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/NakaoLBS10
+  type: paper-conference
+  author:
+  - family: Nakao
+    given: Masahiro
+  - family: Lee
+    given: Jinpil
+  - family: Boku
+    given: Taisuke
+  - family: Sato
+    given: Mitsuhisa
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: XcalableMP implementation and performance of nAS parallel benchmarks
+  container-title: PGAS
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2020373.2020384
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/SchererAJMY10
+  type: paper-conference
+  author:
+  - family: III
+    given: William N. Scherer
+  - family: Adhianto
+    given: Laksono
+  - family: Jin
+    given: Guohua
+  - family: Mellor-Crummey
+    given: John M.
+  - family: Yang
+    given: Chaoran
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Hiding latency in coarray fortran 2.0
+  container-title: PGAS
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/2020373.2020387
+  ISBN: '978-1-4503-0461-0'
+
+- id: conf/pgas/EdmondsGL10
+  type: paper-conference
+  author:
+  - family: Edmonds
+    given: Nick
+  - family: Gregor
+    given: Douglas
+  - family: Lumsdaine
+    given: Andrew
+  editor:
+  - family: Moreira
+    given: José E.
+  issued:
+  - year: '2010'
+  title: Extensible pGAS semantics for c++
+  container-title: PGAS
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2020373.2020385
+  ISBN: '978-1-4503-0461-0'
+...

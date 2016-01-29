@@ -1,0 +1,2193 @@
+---
+references:
+- id: conf/lp/1987
+  type: book
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Logic programming ’87, proceedings of the 6th conference, tokyo, japan, june
+    22-24, 1987
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '315'
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/UeharaKMT85
+  type: paper-conference
+  author:
+  - family: Uehara
+    given: Kuniaki
+  - family: Kakiuchi
+    given: Takashi
+  - family: Mikami
+    given: Osamu
+  - family: Toyoda
+    given: Jun’ichi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Extended prolog and ints application to an integrated parser for text understanding
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '214-225'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_21
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/1988
+  type: book
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Logic programming ’88, proceedings of the 7th conference, tokyo, japan, april
+    11-14, 1988
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/KoikeT86
+  type: paper-conference
+  author:
+  - family: Koike
+    given: Hanpei
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: 'Fast execution mechanisms of parallel inference engine pIE: PIEpelined
+    goal rewriting and goal multicasting'
+  title-short: Fast execution mechanisms of parallel inference engine pIE
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-169'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_31
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/UchihiraMHN87
+  type: paper-conference
+  author:
+  - family: Uchihira
+    given: Naoshi
+  - family: Matsumoto
+    given: Kazunori
+  - family: Honiden
+    given: Shinichi
+  - family: Nakamura
+    given: Hideo
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: 'MENDELS: Concurrent program synthesis system using temporal logic'
+  title-short: MENDELS
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-68'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_4
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/Shintani87
+  type: paper-conference
+  author:
+  - family: Shintani
+    given: Toramatsu
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: An approach to speeding up the prolog=based inference engine kORE/IE
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '284-297'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_18
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/Ueda85
+  type: paper-conference
+  author:
+  - family: Ueda
+    given: Kazunori
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Guarded horn clauses
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-179'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_17
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/TakizawaM87
+  type: paper-conference
+  author:
+  - family: Takizawa
+    given: Makoto
+  - family: Miyajima
+    given: Katsumi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Concurrent execution of prolog transaction
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-327'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_20
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/MorishitaN86
+  type: paper-conference
+  author:
+  - family: Morishita
+    given: Shinichi
+  - family: Numao
+    given: Masayuki
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Prolog computation model bPM and its debugger pROEDIT2
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-158'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_30
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/KakizakiUT86
+  type: paper-conference
+  author:
+  - family: Kakizaki
+    given: Ken’ichi
+  - family: Uehara
+    given: Kuniaki
+  - family: Toyoda
+    given: Jun’ichi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Development of c-prolog compiler
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-136'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_28
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/TanakaYK85
+  type: paper-conference
+  author:
+  - family: Tanaka
+    given: Jiro
+  - family: Yokomori
+    given: Takashi
+  - family: Kishishita
+    given: Makoto
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: AND-oR queuing in extended concurrent prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-167'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_16
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Tanaka88
+  type: paper-conference
+  author:
+  - family: Tanaka
+    given: Jiro
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: A simple programming system written in gHC and its reflective operations
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-121'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/NilssonT87
+  type: paper-conference
+  author:
+  - family: Nilsson
+    given: Martin
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: The art of building a parallel logic programming system or from zero to full
+    gHC in ten pages
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-104'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_7
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/KonoAFT85
+  type: paper-conference
+  author:
+  - family: Kono
+    given: Shinji
+  - family: Aoyagi
+    given: T.
+  - family: Fujita
+    given: Masahiro
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Implementation of temporal logic programming language tokio
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-147'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_14
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/ImanakaUT87
+  type: paper-conference
+  author:
+  - family: Imanaka
+    given: Takeshi
+  - family: Uehara
+    given: Kuniaki
+  - family: Toyoda
+    given: Jun’ichi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Analogical program synthesis from program components
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-79'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_5
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/EtohTAHK87
+  type: paper-conference
+  author:
+  - family: Etoh
+    given: Hiroaki
+  - family: Tamura
+    given: Naoyuki
+  - family: Asakawa
+    given: Yasuo
+  - family: Hama
+    given: Toshiyuki
+  - family: Komatsu
+    given: Hideaki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Introduction of a package system into prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-112'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_8
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/YamamotoMYYN85
+  type: paper-conference
+  author:
+  - family: Yamamoto
+    given: Akira
+  - family: Mitsui
+    given: Masaki
+  - family: Yoshida
+    given: Hiroyuki
+  - family: Yokota
+    given: Minoru
+  - family: Nakajima
+    given: Katsuto
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: The program characteristics in logic programming language eSP
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-213'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_20
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Yamaguchi89
+  type: paper-conference
+  author:
+  - family: Yamaguchi
+    given: Jinsei
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: The classification and boundary problem
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-37'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_2
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/HaraguchiA86
+  type: paper-conference
+  author:
+  - family: Haraguchi
+    given: Makoto
+  - family: Arikawa
+    given: Setsuo
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: 'A foundation of reasoning by analogy: Analogical union of logic programs'
+  title-short: A foundation of reasoning by analogy
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-69'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_22
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/MatsumuraMMTMK85
+  type: paper-conference
+  author:
+  - family: Matsumura
+    given: Yasushi
+  - family: Matsunaga
+    given: Takashi
+  - family: Maeda
+    given: Yusuke
+  - family: Tsumoto
+    given: Shusaku
+  - family: Matsumura
+    given: Hiroshi
+  - family: Kimura
+    given: Michio
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'Consultation system for diagnosis of headache and facial pain: “RHINOS”'
+  title-short: Consultation system for diagnosis of headache and facial pain
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-298'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_28
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Yamamoto88
+  type: paper-conference
+  author:
+  - family: Yamamoto
+    given: Akihiro
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Completeness of extending unification based on basic narrowing
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-10'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/TamuraNT89
+  type: paper-conference
+  author:
+  - family: Tamura
+    given: Naoyoshi
+  - family: Numazaki
+    given: Hiroaki
+  - family: Tanaka
+    given: Hozumi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Table-driven bottom up parser in prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-162'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_10
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/TohmaG87
+  type: paper-conference
+  author:
+  - family: Tohma
+    given: Yoshihiro
+  - family: Goto
+    given: Kenji
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Test generation for large-scale combinational circuits by using prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '298-312'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_19
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/KurataN87
+  type: paper-conference
+  author:
+  - family: Kurata
+    given: Akiko
+  - family: Nakashima
+    given: Hideyuki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Manipulation of embedded context using the multiple world mechanism
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '252-263'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_16
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/KomatsuTAK86
+  type: paper-conference
+  author:
+  - family: Komatsu
+    given: Hideaki
+  - family: Tamura
+    given: Naoyuki
+  - family: Asakawa
+    given: Yasuo
+  - family: Kurokawa
+    given: Toshiaki
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: An optimizing prolog compiler
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-115'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_26
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/Shintani88
+  type: paper-conference
+  author:
+  - family: Shintani
+    given: Toramatsu
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: An approach to nonmonotonic inference mechanism in production system kORE/IE
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-52'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/HonidenUK85
+  type: paper-conference
+  author:
+  - family: Honiden
+    given: Shinichi
+  - family: Uchihira
+    given: Naoshi
+  - family: Kasuya
+    given: Toshiaki
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Software prototyping with mENDEL
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-116'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_11
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/1989
+  type: book
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1991'
+  title: Logic programming ’89, proceedings of the 8th conference, tokyo, japan, july
+    12-14, 1989
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '485'
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/FujitaINTM85
+  type: paper-conference
+  author:
+  - family: Fujita
+    given: Masahiro
+  - family: Ishisone
+    given: Makoto
+  - family: Nakamura
+    given: Hiroshi
+  - family: Tanaka
+    given: Hidehiko
+  - family: Moto-Oka
+    given: Tohru
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Using the temporal logic programming language tokio for algorithm description
+    and automatic cMOS gate array synthesis
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '246-255'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_24
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/KohdaT87
+  type: paper-conference
+  author:
+  - family: Kohda
+    given: Youji
+  - family: Tanaka
+    given: Jiro
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Deriving a compilation method for parallel logic languages
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-94'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_6
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/TakizawaKN88
+  type: paper-conference
+  author:
+  - family: Takizawa
+    given: Makoto
+  - family: Katsumata
+    given: Motoshi
+  - family: Nagahora
+    given: Shinichi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Access program to minimize redundant refutations on the network database
+    system
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-171'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/YuasaA88
+  type: paper-conference
+  author:
+  - family: Yuasa
+    given: Hiroko
+  - family: Arikawa
+    given: Setsuo
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Pseudo extension in default reasoning and belief revision by model inference
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-37'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/KawamuraOM87
+  type: paper-conference
+  author:
+  - family: Kawamura
+    given: Toshio
+  - family: Ohwada
+    given: Hayato
+  - family: Mizoguchi
+    given: Fumio
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: 'CS-prolog: A generalized unification based constraint solver'
+  title-short: CS-prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-39'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_2
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/YoshidaKS85
+  type: paper-conference
+  author:
+  - family: Yoshida
+    given: H.
+  - family: Kato
+    given: H.
+  - family: Sugimoto
+    given: M.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Retrieval of software module functions using first-order predicate logic
+    formulae
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-127'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_12
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/MatsudaKMKM85
+  type: paper-conference
+  author:
+  - family: Matsuda
+    given: Hideo
+  - family: Kohata
+    given: M.
+  - family: Masuo
+    given: T.
+  - family: Kaneda
+    given: Yukio
+  - family: Maekawa
+    given: Sadao
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'Parallel prolog machine pARK: Its hardware structure and prolog system'
+  title-short: Parallel prolog machine pARK
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-43'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_4
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Tomura85
+  type: paper-conference
+  author:
+  - family: Tomura
+    given: Satoru
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'TDProlog: An extended prolog with term description'
+  title-short: TDProlog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-191'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_18
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/MinamiSST88
+  type: paper-conference
+  author:
+  - family: Minami
+    given: Toshiro
+  - family: Sawamura
+    given: Hajime
+  - family: Satoh
+    given: Kaoru
+  - family: Tsuchiya
+    given: Kyoko
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: 'EUODHILOS: A general-purpose reasoning assistant system - concept and
+    implementation'
+  title-short: EUODHILOS
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '172-187'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/IwanumaH87
+  type: paper-conference
+  author:
+  - family: Iwanuma
+    given: Koji
+  - family: Harao
+    given: Masateru
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Knowledge representation and inference based on first-order modal logic
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '236-251'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_15
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/Numao87
+  type: paper-conference
+  author:
+  - family: Numao
+    given: Masayuki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Update propagation network - a framework for constraint programming
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-49'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_3
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/ItoU85
+  type: paper-conference
+  author:
+  - family: Ito
+    given: H.
+  - family: Ueno
+    given: H.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'ZERO: Frame + prolog'
+  title-short: ZERO
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-89'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_8
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/TakahashiS85
+  type: paper-conference
+  author:
+  - family: Takahashi
+    given: Hidehisa
+  - family: Shibayama
+    given: Etsuya
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: PRESET - a debugging environment for prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-99'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_9
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Shintani89
+  type: paper-conference
+  author:
+  - family: Shintani
+    given: Toramatsu
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: A consistency maintenance mechanism for subjective judgements and its application
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-173'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_11
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/TamuraA88
+  type: paper-conference
+  author:
+  - family: Tamura
+    given: Hideo
+  - family: Aiso
+    given: Hideo
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Logic programming debugger using control flow specification
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-81'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/YoshinoKOKKNIT86
+  type: paper-conference
+  author:
+  - family: Yoshino
+    given: H.
+  - family: Kagayama
+    given: S.
+  - family: Ohta
+    given: S.
+  - family: Kitahara
+    given: M.
+  - family: Kondoh
+    given: H.
+  - family: Nakakawaji
+    given: M.
+  - family: Ishimaru
+    given: K.
+  - family: Takao
+    given: S.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Legal expert system lES-2
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-45'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_20
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/Nagasawa85
+  type: paper-conference
+  author:
+  - family: Nagasawa
+    given: Isao
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: A method of representing processes in a constraint solver
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-275'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_26
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Sakakibara86
+  type: paper-conference
+  author:
+  - family: Sakakibara
+    given: Yasubumi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: 'Programming in modal logic: An extension of pROLOG based on modal logic'
+  title-short: Programming in modal logic
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-91'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_24
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/TsudaHS89
+  type: paper-conference
+  author:
+  - family: Tsuda
+    given: Hiroshi
+  - family: Hasida
+    given: Kôiti
+  - family: Sirai
+    given: Hidetosi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Cu-prolog and its application to a jPSG parser
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-143'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_9
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/ShintaniKHT86
+  type: paper-conference
+  author:
+  - family: Shintani
+    given: Toramatsu
+  - family: Katayama
+    given: Yoshinori
+  - family: Hiraishi
+    given: Kunihiko
+  - family: Toda
+    given: Mitsuhiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: 'KORE: A hybrid knowledge programming environment for decision support
+    based on a logic programming language'
+  title-short: KORE
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-33'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_19
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/Haraguchi85
+  type: paper-conference
+  author:
+  - family: Haraguchi
+    given: Makoto
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Analogical reasoning using transformations of rules
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-65'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_6
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Yokoi86
+  type: paper-conference
+  author:
+  - family: Yokoi
+    given: Shinji
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: A prolog based object oriented language sPOOL and its compiler
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '116-125'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_27
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/ShibayamaYHKSH87
+  type: paper-conference
+  author:
+  - family: Shibayama
+    given: Kiyoshi
+  - family: Yamamoto
+    given: Masaaki
+  - family: Hirata
+    given: Hiroaki
+  - family: Konoh
+    given: Yasushi
+  - family: Sanetoh
+    given: Takanori
+  - family: Hagiwara
+    given: Hiroshi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: 'KPR: A logic programming language-oriented parallel machine'
+  title-short: KPR
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-131'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_9
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/NilssonT86
+  type: paper-conference
+  author:
+  - family: Nilsson
+    given: Martin
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: FLENG prolog - the language which turns supercomputers into parallel prolog
+    machines
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-179'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_32
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/Nakamura85
+  type: paper-conference
+  author:
+  - family: Nakamura
+    given: K.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'Heuristic prolog: Logic program execution by heuristic search'
+  title-short: Heuristic prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-155'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_15
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/OharaTOKTM86
+  type: paper-conference
+  author:
+  - family: Ohara
+    given: Y.
+  - family: Torii
+    given: S.
+  - family: Ono
+    given: 'E.'
+  - family: Kishishita
+    given: M.
+  - family: Tanaka
+    given: J.
+  - family: Miyazaki
+    given: T.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: A prototype software simulator for fGHC
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-57'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_21
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/TaruiMT87
+  type: paper-conference
+  author:
+  - family: Tarui
+    given: Toshiaki
+  - family: Maruyama
+    given: Tsutomu
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: A preliminary evaluation of a parallel inference machine for stream parallel
+    languages
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-147'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_10
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/HosonoKSSTTWY89
+  type: paper-conference
+  author:
+  - family: Hosono
+    given: Y.
+  - family: Kumagai
+    given: H.
+  - family: Shimizu
+    given: H.
+  - family: Sumida
+    given: M.
+  - family: Takeuchi
+    given: Akikazu
+  - family: Takiguchi
+    given: N.
+  - family: Wake
+    given: T.
+  - family: Yamaoka
+    given: T.
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Knowledge media station
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-133'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_8
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/KakiuchiUT86
+  type: paper-conference
+  author:
+  - family: Kakiuchi
+    given: Takashi
+  - family: Uehara
+    given: Kuniaki
+  - family: Toyoda
+    given: Jun’ichi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Plan-based text generation in an on-line help system
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-11'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_17
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/KishimotoSKH85
+  type: paper-conference
+  author:
+  - family: Kishimoto
+    given: Mitsuhiro
+  - family: Shinogi
+    given: Tsuyoshi
+  - family: Kimura
+    given: Yasunori
+  - family: Hattori
+    given: Akira
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Design and evaluation of a prolog compiler
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-203'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_19
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/ChoiSJKHK85
+  type: paper-conference
+  author:
+  - family: Choi
+    given: J. M.
+  - family: Song
+    given: M. S.
+  - family: Jeong
+    given: K. J.
+  - family: Kwon
+    given: H. C.
+  - family: Han
+    given: S. Y.
+  - family: Kim
+    given: Yung Taek
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: A prolog-based korean-english machine translation system and its efficient
+    method of dictionary management
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '236-245'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_23
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Yamamoto89
+  type: paper-conference
+  author:
+  - family: Yamamoto
+    given: Akihiro
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Elementary formal system as a logic programming language
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-86'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_5
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/ItohN85
+  type: paper-conference
+  author:
+  - family: Itoh
+    given: Etsuo
+  - family: Nakagawa
+    given: Hiroshi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Heuristic applied in tree manipulation algorithm synthesis
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-55'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_5
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/TakizawaIM86
+  type: paper-conference
+  author:
+  - family: Takizawa
+    given: Makoto
+  - family: Itoh
+    given: Hideaki
+  - family: Moriya
+    given: Kunihiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Logic interface system on navigational database systems
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-80'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_23
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/DongN89
+  type: paper-conference
+  author:
+  - family: Dong
+    given: Fangqing
+  - family: Nakagawa
+    given: Hiroshi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Semantics of non-montonic reasoning based on perfect model
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-53'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_3
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/SuzukiKKTMN85
+  type: paper-conference
+  author:
+  - family: Suzuki
+    given: H.
+  - family: Kiyono
+    given: M.
+  - family: Kougo
+    given: S.
+  - family: Takahashi
+    given: M.
+  - family: Motoike
+    given: S.
+  - family: Niki
+    given: T.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'A travel consultation system: Towards a smooth conversation in japanese'
+  title-short: A travel consultation system
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '226-235'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_22
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/TakahashiK86
+  type: paper-conference
+  author:
+  - family: Takahashi
+    given: Kazuko
+  - family: Kanamori
+    given: Tadashi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: On parallel programming methodology in gHC
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-103'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_25
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/TamuraKK88
+  type: paper-conference
+  author:
+  - family: Tamura
+    given: Naoyoshi
+  - family: Kamio
+    given: Tomomi
+  - family: Kurosaki
+    given: Masato
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Extraction of characteristic facts and abstract generation
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-237'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/OhkiTF86
+  type: paper-conference
+  author:
+  - family: Ohki
+    given: Masaru
+  - family: Takeuchi
+    given: Akikazu
+  - family: Furukawa
+    given: Koichi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: A framework for interactive problem solving based on interactive query revision
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-146'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_29
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/HoshidaT88
+  type: paper-conference
+  author:
+  - family: Hoshida
+    given: Masaki
+  - family: Tokoro
+    given: Mario
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: 'ALEX: The logic programming language with explicit control and without
+    cut-operators'
+  title-short: ALEX
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-95'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/SakuraiM88
+  type: paper-conference
+  author:
+  - family: Sakurai
+    given: Akito
+  - family: Motoda
+    given: Hiroshi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Proving definite clauses without explicit use of inductions
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-26'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/OhwadaM87
+  type: paper-conference
+  author:
+  - family: Ohwada
+    given: Hayato
+  - family: Mizoguchi
+    given: Fumio
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Managing search in parallel logic programming
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-177'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_11
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/AoyagiFM85
+  type: paper-conference
+  author:
+  - family: Aoyagi
+    given: T.
+  - family: Fujita
+    given: Masahiro
+  - family: Moto-Oka
+    given: Tohru
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Temporal logic programming language tokio - programming in tokio
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-137'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_13
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/SugimuraAKM88
+  type: paper-conference
+  author:
+  - family: Sugimura
+    given: Ryôichi
+  - family: Akasaka
+    given: Kouji
+  - family: Kubo
+    given: Yukihiro
+  - family: Matsumoto
+    given: Yuji
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Logic based lexical analyser lAX
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-216'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/SugieYSIYASO85
+  type: paper-conference
+  author:
+  - family: Sugie
+    given: Mamoru
+  - family: Yoneyama
+    given: M.
+  - family: Sakabe
+    given: T.
+  - family: Iwasaki
+    given: M.
+  - family: Yoshizumi
+    given: S.
+  - family: Aso
+    given: Moritoshi
+  - family: Shimizu
+    given: Hajime
+  - family: Onai
+    given: Rikio
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Hardware simulator of reduction-based parallel inference machine pIM-r
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-24'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_2
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/NumazakiTT89
+  type: paper-conference
+  author:
+  - family: Numazaki
+    given: Hiroaki
+  - family: Tamura
+    given: Naoyoshi
+  - family: Tanaka
+    given: Hozumi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Paralle generalized lP parser based on logic programming
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-106'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_7
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/TatemuraT89
+  type: paper-conference
+  author:
+  - family: Tatemura
+    given: Jun’ichi
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Debugger for a parallel logic programming language fleng
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-96'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_6
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/Michie89
+  type: paper-conference
+  author:
+  - family: Michie
+    given: Donald
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Human and machine learning of descriptive concepts
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-22'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_1
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/Sakai88
+  type: paper-conference
+  author:
+  - family: Sakai
+    given: Hiroshi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Inference methods and semantics on or-type knowledge bases
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-155'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/Terada88
+  type: paper-conference
+  author:
+  - family: Terada
+    given: Minoru
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Implementation of full gHC by communicating processes
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-135'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/OnaiSMMA85
+  type: paper-conference
+  author:
+  - family: Onai
+    given: Rikio
+  - family: Shimizu
+    given: Hajime
+  - family: Masuda
+    given: Kanae
+  - family: Matsumoto
+    given: Akira
+  - family: Aso
+    given: Moritoshi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'Architecture and evaluation of a reduction-based parallel inference machine:
+    PIM-r'
+  title-short: Architecture and evaluation of a reduction-based parallel inference
+    machine
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_1
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/Ishizaka87
+  type: paper-conference
+  author:
+  - family: Ishizaka
+    given: Hiroki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Inductive inference of regular language based on model inference
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-194'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_12
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/1986
+  type: book
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1987'
+  title: Logic programming ’86, proceedings of the 5th conference, tokyo, japan, june
+    23-26, 1986
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '264'
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/NodaKOHH85
+  type: paper-conference
+  author:
+  - family: Noda
+    given: Yasunori
+  - family: Kinoshita
+    given: Tetsuo
+  - family: Okumura
+    given: Akira
+  - family: Hirano
+    given: Tatsuro
+  - family: Hiruta
+    given: Tadashi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: A parallel logic simulator based on concurrent prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '256-265'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_25
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/1985
+  type: book
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Logic programming ’85, proceedings of the 4th conference, tokyo, japan, july
+    1-3, 1985
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '221'
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/HisanoS85
+  type: paper-conference
+  author:
+  - family: Hisano
+    given: T.
+  - family: Suwa
+    given: M.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Synchronization and communication in the “subject”
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-77'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_7
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/JaffarL87
+  type: paper-conference
+  author:
+  - family: Jaffar
+    given: Joxan
+  - family: Lassez
+    given: Jean-Louis
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: From unification to constraints
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_1
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/Murakami87
+  type: paper-conference
+  author:
+  - family: Murakami
+    given: Masaki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Proving partial correctness of guarded horn clauses programs
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-235'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_14
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/NoguchiTY87
+  type: paper-conference
+  author:
+  - family: Noguchi
+    given: Naohiko
+  - family: Takahashi
+    given: Masanori
+  - family: Yasukawa
+    given: Hideki
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Generating natural language responses appropriate to conversational situation
+    - in the case of japanese
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '264-283'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_17
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/KinoshitaSUSA88
+  type: paper-conference
+  author:
+  - family: Kinoshita
+    given: Satoshi
+  - family: Sano
+    given: Hiroshi
+  - family: Ukita
+    given: Teruhiko
+  - family: Sumita
+    given: Kazuo
+  - family: Amano
+    given: Shin’ya
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Knowledge representation and reasoning for discourse understanding
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-251'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/NittaN85
+  type: paper-conference
+  author:
+  - family: Nitta
+    given: Katsumi
+  - family: Nagao
+    given: Juntaro
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: 'KRIP: A knowledge representation system for laws relating to industrial
+    property'
+  title-short: KRIP
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '276-286'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_27
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/ShiA89
+  type: paper-conference
+  author:
+  - family: Shi
+    given: Yihua
+  - family: Arikawa
+    given: Setsuo
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Time-bounded reasoning in first order knowledge base systems
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-72'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_4
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/SakamaO88
+  type: paper-conference
+  author:
+  - family: Sakama
+    given: Chiaki
+  - family: Okumura
+    given: Akira
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Nonmonotonic parallel inheritance network
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-66'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/Akama86
+  type: paper-conference
+  author:
+  - family: Akama
+    given: Kiyoshi
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1986'
+  title: Inheritance hierarchy mechanism in prolog
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '12-21'
+  volume: '264'
+  DOI: 10.1007/3-540-18024-9_18
+  ISBN: '3-540-18024-9'
+
+- id: conf/lp/HoriuchiK87
+  type: paper-conference
+  author:
+  - family: Horiuchi
+    given: Kenji
+  - family: Kanamori
+    given: Tadashi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1987'
+  title: Polymorphic type inference in prolog by abstract interpretation
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-214'
+  volume: '315'
+  DOI: 10.1007/3-540-19426-6_13
+  ISBN: '3-540-19426-6'
+
+- id: conf/lp/SugiyaiI85
+  type: paper-conference
+  author:
+  - family: Sugiyai
+    given: Isao
+  - family: Ishikawa
+    given: Keiko
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: Knowledge realization and transformation in kRISP
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '299-311'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_29
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/MaruyamaHTM85
+  type: paper-conference
+  author:
+  - family: Maruyama
+    given: Tsutomu
+  - family: Hirata
+    given: Keiji
+  - family: Tanaka
+    given: Hidehiko
+  - family: Moto-Oka
+    given: Tohru
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: A note on the elementary execution unit in a parallel inference machine
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-34'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_3
+  ISBN: '3-540-16479-0'
+
+- id: conf/lp/FukunagaM88
+  type: paper-conference
+  author:
+  - family: Fukunaga
+    given: Kouichi
+  - family: Morishita
+    given: Shinichi
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1988'
+  title: Lattice programming methodology
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-107'
+  volume: '383'
+  ISBN: 3-540-51564-X
+
+- id: conf/lp/NakamuraNKFT89
+  type: paper-conference
+  author:
+  - family: Nakamura
+    given: Hiroshi
+  - family: Nakai
+    given: Masaya
+  - family: Kono
+    given: Shinji
+  - family: Fujita
+    given: Masahiro
+  - family: Tanaka
+    given: Hidehiko
+  editor:
+  - family: Furukawa
+    given: Koichi
+  issued:
+  - year: '1989'
+  title: Logic design assistence using temporal logic based language tokio
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-183'
+  volume: '485'
+  DOI: 10.1007/3-540-53919-0_12
+  ISBN: '3-540-53919-0'
+
+- id: conf/lp/NumaoM85
+  type: paper-conference
+  author:
+  - family: Numao
+    given: Masayuki
+  - family: Maruyama
+    given: H.
+  editor:
+  - family: Wada
+    given: Eiiti
+  issued:
+  - year: '1985'
+  title: PROEDIT - a screen oriented prolog programming environment
+  container-title: LP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-107'
+  volume: '221'
+  DOI: 10.1007/3-540-16479-0_10
+  ISBN: '3-540-16479-0'
+...

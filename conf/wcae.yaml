@@ -1,0 +1,437 @@
+---
+references:
+- id: conf/wcae/MehtaL07
+  type: paper-conference
+  author:
+  - family: Mehta
+    given: Shrenik
+  - family: Lee
+    given: Dwayne
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Industry perspective on chip multi-threading, bridging the gap with academia
+    using openSPARC
+  container-title: WCAE
+  publisher: ACM
+  page: '65'
+  URL: http://doi.acm.org/10.1145/1275633.1275647
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/BenjaminKP06
+  type: paper-conference
+  author:
+  - family: Benjamin
+    given: Michael G.
+  - family: Kaeli
+    given: David R.
+  - family: Platcow
+    given: Richard
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: Experiences with the blackfin architecture in an embedded systems lab
+  container-title: WCAE
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1275620.1275625
+
+- id: conf/wcae/SmullenT06
+  type: paper-conference
+  author:
+  - family: Smullen
+    given: Clint W.
+  - family: Taha
+    given: Tarek M.
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: 'PSATSim: An interactive graphical superscalar architecture simulator for
+    power and performance analysis'
+  title-short: PSATSim
+  container-title: WCAE
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1275620.1275627
+
+- id: conf/wcae/Brylow07
+  type: paper-conference
+  author:
+  - family: Brylow
+    given: Dennis
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: An experimental laboratory environment for teaching embedded hardware systems
+  container-title: WCAE
+  publisher: ACM
+  page: '44-51'
+  URL: http://doi.acm.org/10.1145/1275633.1275643
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/BahringKS06
+  type: paper-conference
+  author:
+  - family: Bähring
+    given: Helmut
+  - family: '0001'
+    given: Jörg Keller
+  - family: Schiffmann
+    given: Wolfram
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: Remote operation and control of computer engineering laboratory experiments
+  container-title: WCAE
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1275620.1275631
+
+- id: conf/wcae/PerezGY07
+  type: paper-conference
+  author:
+  - family: Pérez
+    given: Alicia Asín
+  - family: Gracia
+    given: Darío Suárez
+  - family: Yúfera
+    given: Víctor Viñals
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: A proposal to introduce power and energy notions in computer architecture
+    laboratories
+  container-title: WCAE
+  publisher: ACM
+  page: '52-57'
+  URL: http://doi.acm.org/10.1145/1275633.1275644
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/SoaresW07
+  type: paper-conference
+  author:
+  - family: Soares
+    given: Sandro Neves
+  - family: Wagner
+    given: Flávio Rech
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: 'From classroom to research: Providing different services for computer
+    architecture education'
+  title-short: From classroom to research
+  container-title: WCAE
+  publisher: ACM
+  page: '14-22'
+  URL: http://doi.acm.org/10.1145/1275633.1275637
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/GambhirGS07
+  type: paper-conference
+  author:
+  - family: Gambhir
+    given: Mohit
+  - family: Gehringer
+    given: Edward F.
+  - family: Solihin
+    given: Yan
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Animations of important concepts in parallel computer architecture
+  container-title: WCAE
+  publisher: ACM
+  page: '23-29'
+  URL: http://doi.acm.org/10.1145/1275633.1275638
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/UdugamaG06
+  type: paper-conference
+  author:
+  - family: Udugama
+    given: L. S. K.
+  - family: Geeganage
+    given: Janath C.
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: 'Students’ experimental processor: A processor integrated with different
+    types of architectures for educational purposes'
+  title-short: Students’ experimental processor
+  container-title: WCAE
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/1275620.1275632
+
+- id: conf/wcae/Gehringer06
+  type: paper-conference
+  author:
+  - family: Gehringer
+    given: Edward F.
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: Welcome
+  container-title: WCAE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1275620.1275622
+
+- id: conf/wcae/SaltzerK06
+  type: paper-conference
+  author:
+  - family: Saltzer
+    given: Jerome H.
+  - family: Kaashoek
+    given: M. Frans
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: A systems approach to teaching computer systems
+  container-title: WCAE
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1275620.1275623
+
+- id: conf/wcae/StanleyEPFMC07
+  type: paper-conference
+  author:
+  - family: Stanley
+    given: Timothy Daryl
+  - family: Embrey
+    given: George
+  - family: Prigmore
+    given: Daniel
+  - family: Fife
+    given: Leslie D.
+  - family: Mikolyski
+    given: Scott
+  - family: Colton
+    given: Don
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Pedagogic value in understanding computer architecture of implementing the
+    marie computer from null and lobur in the logic emulation software, multimedia
+    logic
+  container-title: WCAE
+  publisher: ACM
+  page: '66-71'
+  URL: http://doi.acm.org/10.1145/1275633.1275649
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/MendesCM06
+  type: paper-conference
+  author:
+  - family: Mendes
+    given: José Leandro D.
+  - family: Coutinho
+    given: Luiza M. N.
+  - family: Martins
+    given: Carlos A. P. S.
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: Web memory hierarchy learning and research environment
+  container-title: WCAE
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1275620.1275629
+
+- id: conf/wcae/PascualTSF07
+  type: paper-conference
+  author:
+  - family: Pascual
+    given: Leticia
+  - family: Torrentí
+    given: Alejandro
+  - family: Sahuquillo
+    given: Julio
+  - family: Flich
+    given: Jose
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Understanding cache hierarchy interactions with a program-driven simulator
+  container-title: WCAE
+  publisher: ACM
+  page: '30-35'
+  URL: http://doi.acm.org/10.1145/1275633.1275639
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/PetitTSP06
+  type: paper-conference
+  author:
+  - family: Petit
+    given: Salvador
+  - family: Tomás
+    given: Noel
+  - family: Sahuquillo
+    given: Julio
+  - family: Pont
+    given: Ana
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: An execution-driven simulation tool for teaching cache memories in introductory
+    computer organization courses
+  container-title: WCAE
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1275620.1275628
+
+- id: conf/wcae/2006
+  type: book
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2006'
+  title: Proceedings of the 2006 workshop on computer architecture education, wCAE
+    2006, boston, massachusetts, uSA, saturday, june 17, 2006
+  publisher: ACM
+
+- id: conf/wcae/Urness07
+  type: paper-conference
+  author:
+  - family: Urness
+    given: Timothy
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Teaching computer organization/architecture by building a computer
+  container-title: WCAE
+  publisher: ACM
+  page: '72-76'
+  URL: http://doi.acm.org/10.1145/1275633.1275650
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/BecvarK07
+  type: paper-conference
+  author:
+  - family: Becvár
+    given: Milos
+  - family: Kahánek
+    given: Stanislav
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: VLIW-dLX simulator for educational purposes
+  container-title: WCAE
+  publisher: ACM
+  page: '8-13'
+  URL: http://doi.acm.org/10.1145/1275633.1275636
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/2007
+  type: book
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: Proceedings of the 2007 workshop on computer architecture education, wCAE
+    2007, san diego, california, uSA, saturday, june 9, 2007
+  publisher: ACM
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/RamachandranL07
+  type: paper-conference
+  author:
+  - family: Ramachandran
+    given: Umakishore
+  - family: Jr.
+    given: William D. Leahy
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: An integrated approach to teaching computer systems architecture
+  container-title: WCAE
+  publisher: ACM
+  page: '38-43'
+  URL: http://doi.acm.org/10.1145/1275633.1275641
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/VayaJSHFFP07
+  type: paper-conference
+  author:
+  - family: Vayá
+    given: Guillermo Payá
+  - family: Jambor
+    given: Thomas
+  - family: Septinus
+    given: Konstantin
+  - family: Hesselbarth
+    given: Sebastian
+  - family: Flatt
+    given: Holger
+  - family: Freisfeld
+    given: Marc
+  - family: Pirsch
+    given: Peter
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: 'ChipDesign: From theory to real world'
+  title-short: ChipDesign
+  container-title: WCAE
+  publisher: ACM
+  page: '58-64'
+  URL: http://doi.acm.org/10.1145/1275633.1275645
+  ISBN: '978-1-59593-797-1'
+
+- id: conf/wcae/Poplawski07
+  type: paper-conference
+  author:
+  - family: Poplawski
+    given: David A.
+  editor:
+  - family: Gehringer
+    given: Edward F.
+  issued:
+  - year: '2007'
+  title: A pedagogically targeted logic design and simulation tool
+  container-title: WCAE
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/1275633.1275635
+  ISBN: '978-1-59593-797-1'
+...

@@ -1,0 +1,852 @@
+---
+references:
+- id: conf/openidentity/BiekerHZ14
+  type: paper-conference
+  author:
+  - family: Bieker
+    given: Felix
+  - family: Hansen
+    given: Marit
+  - family: Zwingelberg
+    given: Harald
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Towards a privacy-preserving inspection process for authentication solutions
+    with conditional identification
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '85-96'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article2.html
+
+- id: conf/openidentity/MayerMSFM14
+  type: paper-conference
+  author:
+  - family: Mayer
+    given: Andreas
+  - family: Mladenov
+    given: Vladislav
+  - family: Schwenk
+    given: Jörg
+  - family: Feldmann
+    given: Florian
+  - family: Meyer
+    given: Christopher
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Strengthening web authentication through tLS - beyond tLS client certificates
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '97-108'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article12.html
+
+- id: conf/openidentity/HolzschuherP13
+  type: paper-conference
+  author:
+  - family: Holzschuher
+    given: Florian
+  - family: Peinl
+    given: René
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Approaches and challenges for a single sign-on enabled extranet using jasig
+    cAS
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '106-117'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article20.html
+
+- id: conf/openidentity/DuartePZG14
+  type: paper-conference
+  author:
+  - family: Duarte
+    given: Eduardo
+  - family: Pinheiro
+    given: Filipe
+  - family: Zúquete
+    given: André
+  - family: Gomes
+    given: Helder
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Secure and trustworthy file sharing over cloud storage using eid tokens
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '73-84'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article15.html
+
+- id: conf/openidentity/SelhorstS13
+  type: paper-conference
+  author:
+  - family: Selhorst
+    given: Marcel
+  - family: Schwarz
+    given: Carsten
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Cloud-based provisioning of qualified certificates for the german iD card
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '182'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article24.html
+
+- id: conf/openidentity/BrueggerM13
+  type: paper-conference
+  author:
+  - family: Bruegger
+    given: Bud P.
+  - family: Müller
+    given: Moritz-Christian
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: The eid-terminology work of futureid
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '156-162'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article16.html
+
+- id: conf/openidentity/TalamoRBMS14
+  type: paper-conference
+  author:
+  - family: Talamo
+    given: Maurizio
+  - family: Ramachandran
+    given: Selvakumar
+  - family: Barchiesi
+    given: Maria-Laura
+  - family: Merella
+    given: Daniela
+  - family: Schunck
+    given: Christian H.
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: 'Towards a seamless digital europe: The sSEDIC recommendations on digital
+    identity management'
+  title-short: Towards a seamless digital europe
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '62-72'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article3.html
+
+- id: conf/openidentity/BrueggerO14
+  type: paper-conference
+  author:
+  - family: Bruegger
+    given: Bud P.
+  - family: Özmü
+    given: Eray
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: A dNSSEC-based trust infrastructure
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '133-139'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article4.html
+
+- id: conf/openidentity/WichHPSHWP13
+  type: paper-conference
+  author:
+  - family: Wich
+    given: Tobias
+  - family: Horsch
+    given: Moritz
+  - family: Petrautzki
+    given: Dirk
+  - family: Schmölz
+    given: Johannes
+  - family: Hühnlein
+    given: Detlef
+  - family: Wieland
+    given: Thomas
+  - family: Potzernheim
+    given: Simon
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: An extensible client platform for eid, signatures and more
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '55-68'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article3.html
+
+- id: conf/openidentity/Pieters13
+  type: paper-conference
+  author:
+  - family: Pieters
+    given: Menno
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Password management through pWM
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '178'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article2.html
+
+- id: conf/openidentity/Stein13
+  type: paper-conference
+  author:
+  - family: Stein
+    given: Maximilian
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Mobile devices as secure eid reader using trusted execution environments
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '11-19'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article5.html
+
+- id: conf/openidentity/HoepnerSW14
+  type: paper-conference
+  author:
+  - family: Hoepner
+    given: Petra
+  - family: Schmidt
+    given: Maximilian
+  - family: Welzel
+    given: Christian
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: IT trends with impact on privacy and security
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '121-126'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article6.html
+
+- id: conf/openidentity/CuijpersS14
+  type: paper-conference
+  author:
+  - family: Cuijpers
+    given: Colette
+  - family: Schroers
+    given: Jessica
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Eidas as guideline for the development of a pan european eid framework in
+    futureid
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '23-38'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article9.html
+
+- id: conf/openidentity/KuhlischPSKTWHW13
+  type: paper-conference
+  author:
+  - family: Kuhlisch
+    given: Raik
+  - family: Petrautzki
+    given: Dirk
+  - family: Schmölz
+    given: Johannes
+  - family: Kraufmann
+    given: Ben
+  - family: Thiemer
+    given: Florian
+  - family: Wich
+    given: Tobias
+  - family: Hühnlein
+    given: Detlef
+  - family: Wieland
+    given: Thomas
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: An open ecard plug-in for accessing the german national personal health record
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '82-93'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article17.html
+
+- id: conf/openidentity/LunkeitG13
+  type: paper-conference
+  author:
+  - family: Lunkeit
+    given: Armin
+  - family: Großmann
+    given: Jürgen
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Authentication on high critical infrastructures using interoperable federated
+    identities
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '170-177'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article4.html
+
+- id: conf/openidentity/KubachROW14
+  type: paper-conference
+  author:
+  - family: Kubach
+    given: Michael
+  - family: Roßnagel
+    given: Heiko
+  - family: Oly
+    given: Lennart
+  - family: Wehrenberg
+    given: Immo
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: ENX iD - an architecture for practical and secure cross company authentication
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '109-120'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article11.html
+
+- id: conf/openidentity/Sadtler13
+  type: paper-conference
+  author:
+  - family: Sädtler
+    given: Stephan
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Identity management in cloud computing in conformity with european union
+    law? - problems and approaches pursuant to the proposal for a regulation by the
+    european commission on electronic identification and trust services for electronic
+    transactions in the internal market
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '118-129'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article19.html
+
+- id: conf/openidentity/HorschTW14
+  type: paper-conference
+  author:
+  - family: Horsch
+    given: Moritz
+  - family: Tuengerthal
+    given: Max
+  - family: Wich
+    given: Tobias
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: SAML privacy-enhancing profile
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '11-22'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article14.html
+
+- id: conf/openidentity/FunkeS13
+  type: paper-conference
+  author:
+  - family: Funke
+    given: Holger
+  - family: Senger
+    given: Tobias
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: An open source eID simulator
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '169'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article10.html
+
+- id: conf/openidentity/MullerZPG13
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Martina
+  - family: Zoller
+    given: Fabian
+  - family: Pansa
+    given: Ingo
+  - family: Gerlicher
+    given: Ansgar
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Authentication on mobile devices for business application
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '142-154'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article15.html
+
+- id: conf/openidentity/FeldmannS13
+  type: paper-conference
+  author:
+  - family: Feldmann
+    given: Florian
+  - family: Schwenk
+    given: Jörg
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: How to authenticate mobile devices in a web environment - the sIM-iD approach
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '130-141'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article18.html
+
+- id: conf/openidentity/JagerMRE13
+  type: paper-conference
+  author:
+  - family: Jäger
+    given: Hubert A.
+  - family: Monitzer
+    given: Arnold
+  - family: Rieken
+    given: Ralf
+  - family: Ernst
+    given: Edmund
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: A novel set of measures against insider attacks - sealed cloud
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '187-197'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article7.html
+
+- id: conf/openidentity/KubachOF14
+  type: paper-conference
+  author:
+  - family: Kubach
+    given: Michael
+  - family: Özmü
+    given: Eray
+  - family: Flach
+    given: Guntram
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: 'Secure cloud computing with skidentity: A cloud-teamroom for the automotive
+    industry'
+  title-short: Secure cloud computing with skidentity
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '39-49'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article10.html
+
+- id: conf/openidentity/Rijswijk-DeijP13
+  type: paper-conference
+  author:
+  - family: Rijswijk-Deij
+    given: Roland
+    dropping-particle: van
+  - family: Poll
+    given: Erik
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: 'Using trusted execution environments in two-factor authentication: Comparing
+    approaches'
+  title-short: Using trusted execution environments in two-factor authentication
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '20-31'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article21.html
+
+- id: conf/openidentity/HulseboschWODW14
+  type: paper-conference
+  author:
+  - family: Hulsebosch
+    given: Bob
+  - family: Wegdam
+    given: Maarten
+  - family: Oostdijk
+    given: Martijn
+  - family: Dijk
+    given: Joost
+    dropping-particle: van
+  - family: Wijnen
+    given: Remco Poortinga-Van
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Making authentication stronger and more cost efficient with web of trust
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '50-61'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article8.html
+
+- id: conf/openidentity/Houdeau13
+  type: paper-conference
+  author:
+  - family: Houdeau
+    given: Detlef
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Landscape eID in europe in cY2013
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '163'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article9.html
+
+- id: conf/openidentity/BieringN13
+  type: paper-conference
+  author:
+  - family: Biering
+    given: Henrik
+  - family: Nennker
+    given: Axel
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Upcoming specifications from the openid foundation
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '183-186'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article12.html
+
+- id: conf/openidentity/HoudeauM14
+  type: paper-conference
+  author:
+  - family: Houdeau
+    given: Detlef
+  - family: Meher
+    given: Amit Kumer
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Approach to vendor authentication
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '147-149'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article7.html
+
+- id: conf/openidentity/ZwattendorferST13
+  type: paper-conference
+  author:
+  - family: Zwattendorfer
+    given: Bernd
+  - family: Suzic
+    given: Bojan
+  - family: Teufl
+    given: Peter
+  - family: Derler
+    given: Andreas
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Secure hardware-based public cloud storage
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '43-54'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article13.html
+
+- id: conf/openidentity/Gustavsson13
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Tomas
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Common criteria certified open source software - fact or fiction?
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '155'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article8.html
+
+- id: conf/openidentity/BauereissGHK13
+  type: paper-conference
+  author:
+  - family: Bauereiss
+    given: Thomas
+  - family: Gohmann
+    given: Stefan
+  - family: Hutter
+    given: Dieter
+  - family: Kläser
+    given: Alexander
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Selective lDAP multi-master replication
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '94-105'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article11.html
+
+- id: conf/openidentity/KubachRS13
+  type: paper-conference
+  author:
+  - family: Kubach
+    given: Michael
+  - family: Roßnagel
+    given: Heiko
+  - family: Sellung
+    given: Rachelle
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: 'Service providers’ requirements for eid solutions: Empirical evidence
+    from the leisure sector'
+  title-short: Service providers’ requirements for eid solutions
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '69-81'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article14.html
+
+- id: conf/openidentity/2013
+  type: book
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Open identity summit 2013, september 9th - 11th 2013, kloster banz, germany
+  collection-title: LNI
+  publisher: GI
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223.html
+
+- id: conf/openidentity/FahnrichK14
+  type: paper-conference
+  author:
+  - family: Fähnrich
+    given: Nicolas
+  - family: Kubach
+    given: Michael
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: 'Analyzing the state-of-the-art of scientific publications on identity
+    management: Is there an economic perspective?'
+  title-short: Analyzing the state-of-the-art of scientific publications on identity
+    management
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '127-132'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article5.html
+
+- id: conf/openidentity/Kurowski14
+  type: paper-conference
+  author:
+  - family: Kurowski
+    given: Sebastian
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2014'
+  title: Using a whatsapp vulnerability for profiling individuals
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '140-146'
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237/article13.html
+
+- id: conf/openidentity/2014
+  type: book
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Open identity summit 2014, november 4-6, 2014, stuttgart, germany
+  collection-title: LNI
+  publisher: GI
+  volume: P-237
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings237.html
+
+- id: conf/openidentity/Lindemann13
+  type: paper-conference
+  author:
+  - family: Lindemann
+    given: Rolf
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Not built on sand - how modern authentication complements federation
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '164-168'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article22.html
+
+- id: conf/openidentity/ThielHHB13
+  type: paper-conference
+  author:
+  - family: Thiel
+    given: Simon
+  - family: Hermann
+    given: Fabian
+  - family: Heupel
+    given: Marcel
+  - family: Bourimi
+    given: Mohamed
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Unlinkability support in a decentralised, multiple-identity social network
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '32-42'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article23.html
+
+- id: conf/openidentity/Strack13
+  type: paper-conference
+  author:
+  - family: Strack
+    given: Hermann
+  editor:
+  - family: Hühnlein
+    given: Detlef
+  issued:
+  - year: '2013'
+  title: Authentication and security integration for ecampus services at the university
+    of applied sciences harz using the german electronic identity card/eid and egovernment
+    standards
+  container-title: Open identity summit
+  collection-title: LNI
+  publisher: GI
+  page: '179-181'
+  volume: P-223
+  URL: http://subs.emis.de/LNI/Proceedings/Proceedings223/article6.html
+...

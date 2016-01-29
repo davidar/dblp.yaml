@@ -1,0 +1,930 @@
+---
+references:
+- id: conf/wdas/NdiayeDLR00
+  type: paper-conference
+  author:
+  - family: Ndiaye
+    given: Yakham
+  - family: Diene
+    given: Aly Wane
+  - family: Litwin
+    given: Witold
+  - family: Risch
+    given: Tore
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: Scalable distributed data structures for high-performance databases
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '45-69'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/RischKT02
+  type: paper-conference
+  author:
+  - family: Risch
+    given: Tore
+  - family: Koparanova
+    given: Milena Gateva
+  - family: Thidé
+    given: Bo
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: High-performance gRID database manager for scientific data
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '99-106'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/LitwinM00
+  type: paper-conference
+  author:
+  - family: Litwin
+    given: Witold
+  - family: '0001'
+    given: Jai Menon
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: Scalable distributed log structured arrays
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '25-43'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/BaiaoMZ02
+  type: paper-conference
+  author:
+  - family: Baião
+    given: Fernanda Araujo
+  - family: Mattoso
+    given: Marta
+  - family: Zaverucha
+    given: Gerson
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: A framework for the design of distributed databases
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '29-36'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/PasqualeNP02
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Nardelli
+    given: Enrico
+  - family: Proietti
+    given: Guido
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: An improved upper bound for scalable distributed search trees
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '15-28'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/PasqualeLN00
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Luccio
+    given: Fabrizio
+  - family: Nardelli
+    given: Enrico
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: 'Introduction: Distributed data & structures 3'
+  title-short: Introduction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/LuccioP99
+  type: paper-conference
+  author:
+  - family: Luccio
+    given: Fabrizio
+  - family: Pagli
+    given: Linda
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: 'Dese trees: A new structure for interconnection'
+  title-short: Dese trees
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '56-72'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/ShavitZ99
+  type: paper-conference
+  author:
+  - family: Shavit
+    given: Nir
+  - family: Zemach
+    given: Asaph
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Concurrent priority queue algorithms
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '107-132'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/BozanisM00
+  type: paper-conference
+  author:
+  - family: Bozanis
+    given: Panayiotis
+  - family: Manolopoulos
+    given: Yannis
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: 'DAL: Accommodating skip lists in the sDDS model'
+  title-short: DAL
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '1-9'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/1999
+  type: book
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Distributed data & structures 2, records of the 2nd international meeting
+    (wDAS 1999), princeton, uSA, may 10-11, 1999
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/1998
+  type: book
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1999'
+  title: Distributed data & structures, records of the 1st international meeting (wDAS
+    1998), orlando, florida, uSA
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/BochmannFR98
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Flocchini
+    given: Paola
+  - family: Ramazani
+    given: D.
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: Distributed objects with sense of direction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '1-12'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/Sahli02
+  type: paper-conference
+  author:
+  - family: Sahli
+    given: Fethi Bennour
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Performance of the sDDS lH\*LH under sDDS-2000
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '1-14'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/SantoroW98
+  type: paper-conference
+  author:
+  - family: Santoro
+    given: Nicola
+  - family: Widmayer
+    given: Peter
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: 'Introduction: Distributed data and structures 1'
+  title-short: Introduction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/BreitbartDSW99
+  type: paper-conference
+  author:
+  - family: Breitbart
+    given: Yuri
+  - family: Das
+    given: Sajal K.
+  - family: Santoro
+    given: Nicola
+  - family: Widmayer
+    given: Peter
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: 'Introduction: Distributed data & structures 2'
+  title-short: Introduction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/PasqualeN99
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Nardelli
+    given: Enrico
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Fully dynamic balanced and distributed search trees with logarithmic costs
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '73-90'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/LitwinMRS99
+  type: paper-conference
+  author:
+  - family: Litwin
+    given: Witold
+  - family: '0001'
+    given: Jai Menon
+  - family: Risch
+    given: Tore
+  - family: Schwarz
+    given: Thomas J. E.
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Design issues for scalable availability lH\* schemes with recor grouping
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '38-55'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/GraySTKSSv02
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Jim
+  - family: Szalay
+    given: Alexander S.
+  - family: Thakar
+    given: Ani
+  - family: Kunszt
+    given: Peter Z.
+  - family: Stoughton
+    given: Christopher
+  - family: Slutz
+    given: Donald R.
+  - family: vandenBerg
+    given: Jan
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Data mining the sDSS skyServer database
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '189-208'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/Aberer02
+  type: paper-conference
+  author:
+  - family: Aberer
+    given: Karl
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Scalable data access in peer-to-peer systems using unbalanced search trees
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '107-120'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/MoussaL02
+  type: paper-conference
+  author:
+  - family: Moussa
+    given: Rim
+  - family: Litwin
+    given: Witold
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Experimental performance analysis of lH\*RS parity management
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '87-98'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/Flocchini99
+  type: paper-conference
+  author:
+  - family: Flocchini
+    given: Paola
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: The dynamics of distributed object naming by sense of direction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '25-37'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/WattenhoferW98
+  type: paper-conference
+  author:
+  - family: Wattenhofer
+    given: Roger
+  - family: Widmayer
+    given: Peter
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: A unified analysis of distributed counting with queueing theory
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '84-97'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/Kirchberg02
+  type: paper-conference
+  author:
+  - family: Kirchberg
+    given: Markus
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Exploiting multi-level transactions in distributed database systems
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '37-58'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/BuiDPV99
+  type: paper-conference
+  author:
+  - family: Bui
+    given: Alain
+  - family: Datta
+    given: Ajoy Kumar
+  - family: Petit
+    given: Franck
+  - family: Villain
+    given: Vincent
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Optimal pIF in tree networks
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '1-16'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/BreitbartV98
+  type: paper-conference
+  author:
+  - family: Breitbart
+    given: Yuri
+  - family: Vingralek
+    given: Radek
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: Addressing and balancing issues in distributed b+-trees
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '98-'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/2002
+  type: book
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Distributed data & structures 4, records of the 4th international meeting
+    (wDAS 2002), paris, france, march 20-23, 2002
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/Schwarz02
+  type: paper-conference
+  author:
+  - family: Schwarz
+    given: Thomas J. E.
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Reed solomon codes for erasure correction in sDDS
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '75-86'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/Villain99
+  type: paper-conference
+  author:
+  - family: Villain
+    given: Vincent
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: A key tool for optimality in the state model
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '133-148'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/PasqualeN00a
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Nardelli
+    given: Enrico
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: 'Scalable distributed data structures: A survey'
+  title-short: Scalable distributed data structures
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '87-111'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/PasqualeN00
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Nardelli
+    given: Enrico
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: An amoritized lower bound for distributed searching of k-dimensional data
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '71-85'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/SeckNKL02
+  type: paper-conference
+  author:
+  - family: Seck
+    given: Mouhamed Tidiane
+  - family: Ndiaye
+    given: Samba
+  - family: Kane
+    given: Ibrahima Elimane
+  - family: Litwin
+    given: Witold
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Deadlock and livelock free concurrency control by value dates for scalable
+    distributed data structures
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '59-74'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/DasP98
+  type: paper-conference
+  author:
+  - family: Das
+    given: Sajal K.
+  - family: Pinotti
+    given: Maria Cristina
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: Distributed data access in tree-like structures and multidimensional vector
+    spaces - a survey
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '21-42'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/AriAGMBL02
+  type: paper-conference
+  author:
+  - family: Ari
+    given: Ismail
+  - family: Amer
+    given: Ahmed
+  - family: Gramacy
+    given: Robert B.
+  - family: Miller
+    given: Ethan L.
+  - family: Brandt
+    given: Scott A.
+  - family: Long
+    given: Darrell D. E.
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: 'ACME: Adaptive caching using multiple experts'
+  title-short: ACME
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '143-158'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/LitwinL02
+  type: paper-conference
+  author:
+  - family: Litwin
+    given: Witold
+  - family: Lévy
+    given: Gérard
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: 'Introduction: Distributed data & structures 4'
+  title-short: Introduction
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/Scarano98
+  type: paper-conference
+  author:
+  - family: Scarano
+    given: Vittorio
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: Versatile access to parallel memory systems
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '65-83'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/BozanisM02
+  type: paper-conference
+  author:
+  - family: Bozanis
+    given: Panayiotis
+  - family: Manolopoulos
+    given: Yannis
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: 'LDT: A logarithmic distributed search tree'
+  title-short: LDT
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '121-132'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/GancarskiNV02
+  type: paper-conference
+  author:
+  - family: Gançarski
+    given: Stéphane
+  - family: Naacke
+    given: Hubert
+  - family: Valduriez
+    given: Patrick
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Load balancing of autonomous applications and databases in a cluster system
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '159-170'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/PachecoFLP00
+  type: paper-conference
+  author:
+  - family: Pacheco
+    given: Lino Flores
+  - family: Franceschini
+    given: Gianni
+  - family: Luccio
+    given: Fabrizio
+  - family: Pagli
+    given: Linda
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2000'
+  title: Decomposition of k-dense trees
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '11-23'
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/2000
+  type: book
+  editor:
+  - family: Pasquale
+    given: Adriano Di
+  issued:
+  - year: '2001'
+  title: Distributed data & structures 3, records of the 3rd international meeting
+    (wDAS 2000), l’Aquilia, italy, 23 june 2000, in conjunction with sIROCCO 2000
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  volume: '9'
+  ISBN: '1-894145-08-9'
+
+- id: conf/wdas/PasqualeFN02
+  type: paper-conference
+  author:
+  - family: Pasquale
+    given: Adriano Di
+  - family: Flammini
+    given: Michele
+  - family: Nardelli
+    given: Enrico
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: Allocation problems in scalable distributed data structures
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '133-142'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/PetitV99
+  type: paper-conference
+  author:
+  - family: Petit
+    given: Franck
+  - family: Villain
+    given: Vincent
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Time and space optimality of distributed depth-first token circulation algorithms
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '91-106'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+
+- id: conf/wdas/AbererH02
+  type: paper-conference
+  author:
+  - family: Aberer
+    given: Karl
+  - family: Hauswirth
+    given: Manfred
+  editor:
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '2002'
+  title: An overview of peer-to-peer information systems
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '171-188'
+  volume: '14'
+  ISBN: '1-894145-13-5'
+
+- id: conf/wdas/RotemSB98
+  type: paper-conference
+  author:
+  - family: Rotem
+    given: Doron
+  - family: Seshadri
+    given: Sridhar
+  - family: Bernardo
+    given: Luis M.
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: Data replication and delay balancing in heterogeneous disk systems
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '43-64'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/BuschH98
+  type: paper-conference
+  author:
+  - family: Busch
+    given: Costas
+  - family: Herlihy
+    given: Maurice
+  editor:
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1998'
+  title: A survey on counting networks
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '13-20'
+  volume: '2'
+  ISBN: 1-894145-02-X
+
+- id: conf/wdas/DasP99
+  type: paper-conference
+  author:
+  - family: Das
+    given: Sajal K.
+  - family: Pinotti
+    given: Maria Cristina
+  editor:
+  - family: Breitbart
+    given: Yuri
+  issued:
+  - year: '1999'
+  title: Conflict-free access to subcubes of mixed-radix hypercubes
+  container-title: WDAS
+  collection-title: Proceedings in informatics
+  publisher: Carleton Scientific
+  page: '17-24'
+  volume: '6'
+  ISBN: '1-894145-05-4'
+...

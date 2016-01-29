@@ -1,0 +1,1042 @@
+---
+references:
+- id: conf/foal/Harrison08
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: William
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: De-constructing and re-constructing aspect-orientation
+  container-title: FOAL
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/1394496.1394503
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/StaijenR09
+  type: paper-conference
+  author:
+  - family: Staijen
+    given: Tom
+  - family: Rensink
+    given: Arend
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: Graph-based specification and simulation of featherweight java with around
+    advice
+  container-title: FOAL
+  publisher: ACM
+  page: '25-30'
+  URL: http://doi.acm.org/10.1145/1509837.1509844
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/DisenfeldK11
+  type: paper-conference
+  author:
+  - family: Disenfeld
+    given: Cynthia
+  - family: Katz
+    given: Shmuel
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: 'Compositional verification of events and observers: (Summary)'
+  title-short: Compositional verification of events and observers
+  container-title: FOAL
+  publisher: ACM
+  page: '1-5'
+  URL: http://doi.acm.org/10.1145/1960510.1960512
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/FigueroaTT12
+  type: paper-conference
+  author:
+  - family: Figueroa
+    given: Ismael
+  - family: Tanter
+    given: Éric
+  - family: Tabareau
+    given: Nicolas
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: A practical monadic aspect weaver
+  container-title: FOAL
+  publisher: ACM
+  page: '21-26'
+  URL: http://doi.acm.org/10.1145/2162010.2162018
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/BartheK08
+  type: paper-conference
+  author:
+  - family: Barthe
+    given: Gilles
+  - family: Kunz
+    given: César
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: Certificate translation for specification-preserving advices
+  container-title: FOAL
+  publisher: ACM
+  page: '9-18'
+  URL: http://doi.acm.org/10.1145/1394496.1394498
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/2009
+  type: book
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: Proceedings of the 8th workshop on foundations of aspect-oriented languages,
+    fOAL 2009, charlottesville, virginia, uSA, march 2, 2009
+  publisher: ACM
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/Bodden12
+  type: paper-conference
+  author:
+  - family: Bodden
+    given: Eric
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Towards typesafe weaving for modular reasoning in aspect-oriented programs
+  container-title: FOAL
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2162010.2162012
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/AotaniKM14
+  type: paper-conference
+  author:
+  - family: Aotani
+    given: Tomoyuki
+  - family: Kamina
+    given: Tetsuo
+  - family: Masuhara
+    given: Hidehiko
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: 'Context holders: Realizing multiple layer activation mechanisms in a single
+    context-oriented language'
+  title-short: Context holders
+  container-title: FOAL
+  publisher: ACM
+  page: '3-6'
+  URL: http://doi.acm.org/10.1145/2588548.2588552
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/TanterTD12
+  type: paper-conference
+  author:
+  - family: Tanter
+    given: Éric
+  - family: Tabareau
+    given: Nicolas
+  - family: Douence
+    given: Rémi
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Taming aspects with membranes
+  container-title: FOAL
+  publisher: ACM
+  page: '3-8'
+  URL: http://doi.acm.org/10.1145/2162010.2162014
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/BagherzadehLD11
+  type: paper-conference
+  author:
+  - family: Bagherzadeh
+    given: Mehdi
+  - family: Leavens
+    given: Gary T.
+  - family: '0001'
+    given: Robert Dyer
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: Applying translucid contracts for modular reasoning about aspect and object
+    oriented events
+  container-title: FOAL
+  publisher: ACM
+  page: '31-35'
+  URL: http://doi.acm.org/10.1145/1960510.1960517
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/KatzK09
+  type: paper-conference
+  author:
+  - family: Katz
+    given: Emilia
+  - family: Katz
+    given: Shmuel
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: 'Modular verification of strongly invasive aspects: Summary'
+  title-short: Modular verification of strongly invasive aspects
+  container-title: FOAL
+  publisher: ACM
+  page: '7-12'
+  URL: http://doi.acm.org/10.1145/1509837.1509840
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/FigueroaT11
+  type: paper-conference
+  author:
+  - family: Figueroa
+    given: Ismael
+  - family: Tanter
+    given: Éric
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: A semantics for execution levels with exceptions
+  container-title: FOAL
+  publisher: ACM
+  page: '7-11'
+  URL: http://doi.acm.org/10.1145/1960510.1960513
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/MalakutiA14
+  type: paper-conference
+  author:
+  - family: Malakuti
+    given: Somayeh
+  - family: Aksit
+    given: Mehmet
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: 'Event-based modularization: How emergent behavioral patterns must be modularized?'
+  title-short: Event-based modularization
+  container-title: FOAL
+  publisher: ACM
+  page: '7-12'
+  URL: http://doi.acm.org/10.1145/2588548.2588549
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/DelawareCB09
+  type: paper-conference
+  author:
+  - family: Delaware
+    given: Benjamin
+  - family: Cook
+    given: William R.
+  - family: Batory
+    given: Don S.
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: A machine-checked model of safe composition
+  container-title: FOAL
+  publisher: ACM
+  page: '31-35'
+  URL: http://doi.acm.org/10.1145/1509837.1509846
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/Dutchyn06
+  type: paper-conference
+  author:
+  - family: Dutchyn
+    given: Christopher
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Specializing continuations a model for dynamic join points
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '45-57'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233840
+
+- id: conf/foal/RebeloLLBR13
+  type: paper-conference
+  author:
+  - family: Rebêlo
+    given: Henrique
+  - family: Leavens
+    given: Gary T.
+  - family: Lima
+    given: Ricardo Massa Ferreira
+  - family: Borba
+    given: Paulo
+  - family: Ribeiro
+    given: Márcio
+  editor:
+  - family: Ernst
+    given: Erik
+  issued:
+  - year: '2013'
+  title: Modular aspect-oriented design rule enforcement with xPIDRs
+  container-title: FOAL
+  publisher: ACM
+  page: '13-18'
+  URL: http://doi.acm.org/10.1145/2451598.2451603
+  ISBN: '978-1-4503-1865-5'
+
+- id: conf/foal/DUrsiCM06
+  type: paper-conference
+  author:
+  - family: D’Ursi
+    given: Antonio Castaldo
+  - family: Cavallaro
+    given: Luca
+  - family: Monga
+    given: Mattia
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: On bytecode slicing and aspectJ interferences
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '35-43'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233839
+
+- id: conf/foal/HildebrandtMSZ13
+  type: paper-conference
+  author:
+  - family: Hildebrandt
+    given: Thomas T.
+  - family: Mukkamala
+    given: Raghava Rao
+  - family: Slaats
+    given: Tijs
+  - family: Zanitti
+    given: Francesco
+  editor:
+  - family: Ernst
+    given: Erik
+  issued:
+  - year: '2013'
+  title: Modular context-sensitive and aspect-oriented processes with dynamic condition
+    response graphs
+  container-title: FOAL
+  publisher: ACM
+  page: '19-24'
+  URL: http://doi.acm.org/10.1145/2451598.2451604
+  ISBN: '978-1-4503-1865-5'
+
+- id: conf/foal/2012
+  type: book
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Proceedings of the eleventh workshop on foundations of aspect-oriented languages,
+    fOAL 2012, potsdam, germany, march 25-30, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2162010
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/SchottleAMK14
+  type: paper-conference
+  author:
+  - family: Schöttle
+    given: Matthias
+  - family: Alam
+    given: Omar
+  - family: Mussbacher
+    given: Gunter
+  - family: Kienzle
+    given: Jörg
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: Specification of domain-specific languages based on concern interfaces
+  container-title: FOAL
+  publisher: ACM
+  page: '23-28'
+  URL: http://doi.acm.org/10.1145/2588548.2588551
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/Ostermann06
+  type: paper-conference
+  author:
+  - family: Ostermann
+    given: Klaus
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Aspects and modular reasoning in nonmonotonic logic
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '59-64'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233841
+
+- id: conf/foal/2011
+  type: book
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: Proceedings of the 10th international workshop on foundations of aspect-oriented
+    languages, fOAL 2011, porto de galinhas, brazil, march 21-25, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1960510
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/SarnaV12
+  type: paper-conference
+  author:
+  - family: Sarna
+    given: Külli
+  - family: Vain
+    given: Jüri
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Exploiting aspects in model-based testing
+  container-title: FOAL
+  publisher: ACM
+  page: '45-48'
+  URL: http://doi.acm.org/10.1145/2162010.2162023
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/SulzmannW06
+  type: paper-conference
+  author:
+  - family: Sulzmann
+    given: Martin
+  - family: Wang
+    given: Meng
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Aspect-oriented programming with type classes
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '65-74'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233842
+
+- id: conf/foal/2008
+  type: book
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: Proceedings of the 7th workshop on foundations of aspect-oriented languages,
+    fOAL 2008, brussels, belgium, april 1, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/AotaniM06
+  type: paper-conference
+  author:
+  - family: Aotani
+    given: Tomoyuki
+  - family: Masuhara
+    given: Hidehiko
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Towards a type system for detecting never-matching pointcut compositions
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '23-26'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233837
+
+- id: conf/foal/SchooldermanNKE14
+  type: paper-conference
+  author:
+  - family: Schoolderman
+    given: Marc
+  - family: Neutelings
+    given: Jascha
+  - family: Kersten
+    given: Rody
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: 'ECAlogic: Hardware-parametric energy-consumption analysis of algorithms'
+  title-short: ECAlogic
+  container-title: FOAL
+  publisher: ACM
+  page: '19-22'
+  URL: http://doi.acm.org/10.1145/2588548.2588553
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/CavallaroM09
+  type: paper-conference
+  author:
+  - family: Cavallaro
+    given: Luca
+  - family: Monga
+    given: Mattia
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: Unweaving the impact of aspect changes in aspectJ
+  container-title: FOAL
+  publisher: ACM
+  page: '13-18'
+  URL: http://doi.acm.org/10.1145/1509837.1509842
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/SanchezL14
+  type: paper-conference
+  author:
+  - family: Sánchez
+    given: José
+  - family: Leavens
+    given: Gary T.
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: Static verification of ptolemyrely programs using openJML
+  container-title: FOAL
+  publisher: ACM
+  page: '13-18'
+  URL: http://doi.acm.org/10.1145/2588548.2588550
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/ChadwickL09
+  type: paper-conference
+  author:
+  - family: Chadwick
+    given: Bryan
+  - family: Lieberherr
+    given: Karl J.
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: A type system for functional traversal-based aspects
+  container-title: FOAL
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/1509837.1509839
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/KaminaAM13
+  type: paper-conference
+  author:
+  - family: Kamina
+    given: Tetsuo
+  - family: Aotani
+    given: Tomoyuki
+  - family: Masuhara
+    given: Hidehiko
+  editor:
+  - family: Ernst
+    given: Erik
+  issued:
+  - year: '2013'
+  title: A core calculus of composite layers
+  container-title: FOAL
+  publisher: ACM
+  page: '7-12'
+  URL: http://doi.acm.org/10.1145/2451598.2451601
+  ISBN: '978-1-4503-1865-5'
+
+- id: conf/foal/AotaniTM11
+  type: paper-conference
+  author:
+  - family: Aotani
+    given: Tomoyuki
+  - family: Toyama
+    given: Manabu
+  - family: Masuhara
+    given: Hidehiko
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: Supporting covariant return types and generics in type relaxed weaving
+  container-title: FOAL
+  publisher: ACM
+  page: '25-29'
+  URL: http://doi.acm.org/10.1145/1960510.1960516
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/Chiba14
+  type: paper-conference
+  author:
+  - family: Chiba
+    given: Shigeru
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: To be destructive or not to be, that is the question on modular extensions
+  container-title: FOAL
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2588548.2588554
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/Smith06
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Douglas R.
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Requirement enforcement by transformation automata
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '5-14'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233835
+
+- id: conf/foal/FigueroaTT13
+  type: paper-conference
+  author:
+  - family: Figueroa
+    given: Ismael
+  - family: Tabareau
+    given: Nicolas
+  - family: Tanter
+    given: Éric
+  editor:
+  - family: Ernst
+    given: Erik
+  issued:
+  - year: '2013'
+  title: Taming aspects with monads and membranes
+  container-title: FOAL
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/2451598.2451600
+  ISBN: '978-1-4503-1865-5'
+
+- id: conf/foal/UbayashiK12
+  type: paper-conference
+  author:
+  - family: Ubayashi
+    given: Naoyasu
+  - family: Kamei
+    given: Yasutaka
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Architectural point mapping for design traceability
+  container-title: FOAL
+  publisher: ACM
+  page: '39-44'
+  URL: http://doi.acm.org/10.1145/2162010.2162022
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/CottenierBW12
+  type: paper-conference
+  author:
+  - family: Cottenier
+    given: Thomas
+  - family: Berg
+    given: Aswin
+    dropping-particle: van den
+  - family: Weigert
+    given: Thomas
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Modular reasoning about region composition
+  container-title: FOAL
+  publisher: ACM
+  page: '15-20'
+  URL: http://doi.acm.org/10.1145/2162010.2162016
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/ElBendaryB09
+  type: paper-conference
+  author:
+  - family: ElBendary
+    given: Mohamed
+  - family: Boyland
+    given: John
+  editor:
+  - family: Südholt
+    given: Mario
+  issued:
+  - year: '2009'
+  title: Enhancing base-code protection in aspect-oriented programs
+  container-title: FOAL
+  publisher: ACM
+  page: '19-24'
+  URL: http://doi.acm.org/10.1145/1509837.1509843
+  ISBN: '978-1-60558-452-2'
+
+- id: conf/foal/KatzK08
+  type: paper-conference
+  author:
+  - family: Katz
+    given: Emilia
+  - family: Katz
+    given: Shmuel
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: Incremental analysis of interference among aspects
+  container-title: FOAL
+  publisher: ACM
+  page: '29-38'
+  URL: http://doi.acm.org/10.1145/1394496.1394500
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/Tabareau11
+  type: paper-conference
+  author:
+  - family: Tabareau
+    given: Nicolas
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: 'Aspect oriented programming: A language for 2-categories'
+  title-short: Aspect oriented programming
+  container-title: FOAL
+  publisher: ACM
+  page: '13-17'
+  URL: http://doi.acm.org/10.1145/1960510.1960514
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/HirschfeldIM11
+  type: paper-conference
+  author:
+  - family: Hirschfeld
+    given: Robert
+  - family: Igarashi
+    given: Atsushi
+  - family: Masuhara
+    given: Hidehiko
+  editor:
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2011'
+  title: 'ContextFJ: A minimal core calculus for context-oriented programming'
+  title-short: ContextFJ
+  container-title: FOAL
+  publisher: ACM
+  page: '19-23'
+  URL: http://doi.acm.org/10.1145/1960510.1960515
+  ISBN: '978-1-4503-0644-7'
+
+- id: conf/foal/LegerT12
+  type: paper-conference
+  author:
+  - family: Leger
+    given: Paul
+  - family: Tanter
+    given: Éric
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: A self-replication algorithm to flexibly match execution traces
+  container-title: FOAL
+  publisher: ACM
+  page: '27-32'
+  URL: http://doi.acm.org/10.1145/2162010.2162019
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/2007
+  type: book
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Proceedings of the 6th workshop on foundations of aspect-oriented languages,
+    fOAL 2007, vancouver, british columbia, canada, march 13, 2007
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  volume: '268'
+
+- id: conf/foal/XiHG08
+  type: paper-conference
+  author:
+  - family: Xi
+    given: Chenchen
+  - family: Harbulot
+    given: Bruno
+  - family: Gurd
+    given: John R.
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: A synchronized block join point for aspectJ
+  container-title: FOAL
+  publisher: ACM
+  page: '39'
+  URL: http://doi.acm.org/10.1145/1394496.1394501
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/HoferO06
+  type: paper-conference
+  author:
+  - family: Hofer
+    given: Christian
+  - family: Ostermann
+    given: Klaus
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: On the relation of aspects and monads
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '27-33'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233838
+
+- id: conf/foal/2013
+  type: book
+  editor:
+  - family: Ernst
+    given: Erik
+  issued:
+  - year: '2013'
+  title: Proceedings of the 12th workshop on foundations of aspect-oriented languages,
+    fOAL 2013, march 26, 2013, fukuoka, japan
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2451598
+  ISBN: '978-1-4503-1865-5'
+
+- id: conf/foal/2014
+  type: book
+  editor:
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '2014'
+  title: Proceedings of the 13th workshop on foundations of aspect-oriented languages,
+    fOAL 2014, april 22, 2014, lugano, switzerland
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2588548
+  ISBN: '978-1-4503-2798-5'
+
+- id: conf/foal/RashidiA08
+  type: paper-conference
+  author:
+  - family: Rashidi
+    given: Parisa
+  - family: Alexander
+    given: Roger T.
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: 'Onspect: Ontology based aspects'
+  title-short: Onspect
+  container-title: FOAL
+  publisher: ACM
+  page: '41'
+  URL: http://doi.acm.org/10.1145/1394496.1394502
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/HuiR06
+  type: paper-conference
+  author:
+  - family: Hui
+    given: Peter
+  - family: Riely
+    given: James
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: 'Typing for a minimal aspect language: Preliminary report'
+  title-short: Typing for a minimal aspect language
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '15-22'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233836
+
+- id: conf/foal/MolderezJ12
+  type: paper-conference
+  author:
+  - family: Molderez
+    given: Tim
+  - family: Janssens
+    given: Dirk
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Design by contract for aspects, by aspects
+  container-title: FOAL
+  publisher: ACM
+  page: '9-14'
+  URL: http://doi.acm.org/10.1145/2162010.2162015
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/Ossher06
+  type: paper-conference
+  author:
+  - family: Ossher
+    given: Harold
+  editor:
+  - family: Harrison
+    given: William
+  issued:
+  - year: '2007'
+  title: Fundamentals of concern manipulation
+  container-title: FOAL
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '1-4'
+  volume: '268'
+  URL: http://doi.acm.org/10.1145/1233833.1233834
+
+- id: conf/foal/KhatchadourianDS08
+  type: paper-conference
+  author:
+  - family: Khatchadourian
+    given: Raffi
+  - family: Dovland
+    given: Johan
+  - family: Soundarajan
+    given: Neelam
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: Enforcing behavioral constraints in evolving aspect-oriented programs
+  container-title: FOAL
+  publisher: ACM
+  page: '19-28'
+  URL: http://doi.acm.org/10.1145/1394496.1394499
+  ISBN: '978-1-60558-110-1'
+
+- id: conf/foal/FernandoDR12
+  type: paper-conference
+  author:
+  - family: Fernando
+    given: Rex D.
+  - family: '0001'
+    given: Robert Dyer
+  - family: Rajan
+    given: Hridesh
+  editor:
+  - family: Katz
+    given: Shmuel
+  issued:
+  - year: '2012'
+  title: Event type polymorphism
+  container-title: FOAL
+  publisher: ACM
+  page: '33-38'
+  URL: http://doi.acm.org/10.1145/2162010.2162020
+  ISBN: '978-1-4503-1099-4'
+
+- id: conf/foal/SeweBM08
+  type: paper-conference
+  author:
+  - family: Sewe
+    given: Andreas
+  - family: Bockisch
+    given: Christoph
+  - family: Mezini
+    given: Mira
+  editor:
+  - family: Clifton
+    given: Curtis
+  issued:
+  - year: '2008'
+  title: 'Redundancy-free residual dispatch: Using ordered binary decision diagrams
+    for efficient dispatch'
+  title-short: Redundancy-free residual dispatch
+  container-title: FOAL
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/1394496.1394497
+  ISBN: '978-1-60558-110-1'
+...

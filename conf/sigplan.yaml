@@ -1,0 +1,2699 @@
+---
+references:
+- id: conf/sigplan/ParnasSW76
+  type: paper-conference
+  author:
+  - family: Parnas
+    given: David Lorge
+  - family: Shore
+    given: John E.
+  - family: Weiss
+    given: David M.
+  issued:
+  - year: '1976'
+  title: Abstract types defined as classes of variables
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '149-153'
+
+- id: conf/sigplan/SarkarH86
+  type: paper-conference
+  author:
+  - family: Sarkar
+    given: Vivek
+  - family: Hennessy
+    given: John L.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Compile-time partitioning and scheduling of parallel programs
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '17-26'
+  URL: http://doi.acm.org/10.1145/12276.13313
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/KellerPPM84
+  type: paper-conference
+  author:
+  - family: Keller
+    given: S. E.
+  - family: Perkins
+    given: J. A.
+  - family: Payton
+    given: Teri F.
+  - family: Mardinly
+    given: S. P.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Tree transformation techniques and experiences
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '190-201'
+  URL: http://doi.acm.org/10.1145/502874.502893
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Kipps82
+  type: paper-conference
+  author:
+  - family: Kipps
+    given: I. M.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Experience with porting techniques on a cOBOL 74 compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '15-21'
+  URL: http://doi.acm.org/10.1145/800230.806976
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/CooperKL86
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Kennedy
+    given: Ken
+  - family: Torczon
+    given: Linda
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: 'Interprocedural optimization: Eliminating unnecessary recompilation'
+  title-short: Interprocedural optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '58-67'
+  URL: http://doi.acm.org/10.1145/12276.13317
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/CattellNL79
+  type: paper-conference
+  author:
+  - family: Cattell
+    given: R. G. G.
+  - family: Newcomer
+    given: Joseph M.
+  - family: Leverett
+    given: Bruce W.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Code generation in a machine-independent compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '65-75'
+  URL: http://doi.acm.org/10.1145/800229.806955
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/GrahamJR79
+  type: paper-conference
+  author:
+  - family: Graham
+    given: Susan L.
+  - family: Joy
+    given: William N.
+  - family: Roubine
+    given: Olivier
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Hashed symbol tables for languages with explicit scope control
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '50-57'
+  URL: http://doi.acm.org/10.1145/800229.806953
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/HouselS76
+  type: paper-conference
+  author:
+  - family: Housel
+    given: Barron C.
+  - family: Shu
+    given: Nan C.
+  issued:
+  - year: '1976'
+  title: A high-level data manipulation language for hierarchical data structures
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '155-169'
+
+- id: conf/sigplan/SchmidtV84
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Uwe
+  - family: Völler
+    given: Reinhard
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: A multi-language compiler system with automatically generated codegenerators
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '202-212'
+  URL: http://doi.acm.org/10.1145/502874.502894
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/BodwinBKLP82
+  type: paper-conference
+  author:
+  - family: Bodwin
+    given: James
+  - family: Bradley
+    given: Laurette
+  - family: Kanda
+    given: Kohji
+  - family: Litle
+    given: Diane
+  - family: Pleban
+    given: Uwe F.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Experience with an experimental compiler generator based on denotational
+    semantics
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '216-229'
+  URL: http://doi.acm.org/10.1145/800230.806997
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/RudmikM82
+  type: paper-conference
+  author:
+  - family: Rudmik
+    given: Andres
+  - family: Moore
+    given: Barbara G.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An efficient separate compilation strategy for very large programs
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '301-307'
+  URL: http://doi.acm.org/10.1145/800230.807004
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/AvakianHHK82
+  type: paper-conference
+  author:
+  - family: Avakian
+    given: Arra
+  - family: Haradhvala
+    given: Sam
+  - family: Horn
+    given: Julian
+  - family: Knobe
+    given: Bruce
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: The design of an integrated support software system
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '308-317'
+  URL: http://doi.acm.org/10.1145/800230.807005
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/LeBlancF79
+  type: paper-conference
+  author:
+  - family: LeBlanc
+    given: Richard J.
+  - family: Fischer
+    given: Charles N.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: On implementing separate compilation in block-structured languages
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '139-143'
+  URL: http://doi.acm.org/10.1145/800229.806963
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/GanzingerGMW82
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  - family: Giegerich
+    given: Robert
+  - family: Möncke
+    given: Ulrich
+  - family: Wilhelm
+    given: Reinhard
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A truly generative semantics-directed compiler generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '172-184'
+  URL: http://doi.acm.org/10.1145/800230.806993
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/JulligD84
+  type: paper-conference
+  author:
+  - family: Jüllig
+    given: Richard
+  - family: DeRemer
+    given: Frank
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Regular right-part attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '171-178'
+  URL: http://doi.acm.org/10.1145/502874.502891
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/HoltW79
+  type: paper-conference
+  author:
+  - family: Holt
+    given: Richard C.
+  - family: Wortman
+    given: David B.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: A model for implementing euclid modules and type templates
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '8-12'
+  URL: http://doi.acm.org/10.1145/800229.806949
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/AllmanSH76
+  type: paper-conference
+  author:
+  - family: Allman
+    given: Eric
+  - family: Stonebraker
+    given: Michael
+  - family: Held
+    given: Gerald
+  issued:
+  - year: '1976'
+  title: Embedding a relational data sublanguage in a general purpose programming
+    language
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '25-35'
+
+- id: conf/sigplan/Pleban79
+  type: paper-conference
+  author:
+  - family: Pleban
+    given: Uwe F.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: The use of transition matrices in a recursive-descent compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '144-151'
+  URL: http://doi.acm.org/10.1145/800229.806964
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/DrossopoulouUPGDW82
+  type: paper-conference
+  author:
+  - family: Drossopoulou
+    given: Sophia
+  - family: Uhl
+    given: James S.
+  - family: Persch
+    given: Guido
+  - family: Goos
+    given: Gerhard
+  - family: Dausmann
+    given: Manfred
+  - family: Winterstein
+    given: Georg
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An attribute grammar for ada
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '334-348'
+  URL: http://doi.acm.org/10.1145/800230.807008
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Raiha79
+  type: paper-conference
+  author:
+  - family: Räihä
+    given: Kari-Jouko
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Dynamic allocation of space for attribute instances in multi-pass evaluators
+    of attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '26-38'
+  URL: http://doi.acm.org/10.1145/800229.806951
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Wall86
+  type: paper-conference
+  author:
+  - family: Wall
+    given: David W.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Global register allocation at link time
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '264-275'
+  URL: http://doi.acm.org/10.1145/12276.13338
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Williams79
+  type: paper-conference
+  author:
+  - family: Williams
+    given: Graeme
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Program checking
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '13-25'
+  URL: http://doi.acm.org/10.1145/800229.806950
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/HarrisonK86
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: Peter G.
+  - family: Khoshnevisan
+    given: Hessam
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Efficient compilation of linear recursive functions into object level loops
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '207-218'
+  URL: http://doi.acm.org/10.1145/12276.13332
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/KrummeA82
+  type: paper-conference
+  author:
+  - family: Krumme
+    given: David W.
+  - family: Ackley
+    given: David H.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A practical method for code generation based on exhaustive search
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '185-196'
+  URL: http://doi.acm.org/10.1145/800230.806994
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/AigrainGHMP84
+  type: paper-conference
+  author:
+  - family: Aigrain
+    given: Philippe
+  - family: Graham
+    given: Susan L.
+  - family: Henry
+    given: Robert R.
+  - family: McKusick
+    given: Marshall K.
+  - family: Pelegrí-Llopart
+    given: Eduardo
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Experience with a graham-glanville style code generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/502874.502876
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/ChowH84
+  type: paper-conference
+  author:
+  - family: Chow
+    given: Fred C.
+  - family: Hennessy
+    given: John L.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Register allocation by priority-based coloring
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '222-232'
+  URL: http://doi.acm.org/10.1145/502874.502896
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/BurkeC86
+  type: paper-conference
+  author:
+  - family: Burke
+    given: Michael G.
+  - family: Cytron
+    given: Ron
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Interprocedural dependence analysis and parallelization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '162-175'
+  URL: http://doi.acm.org/10.1145/12276.13328
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Jourdan84
+  type: paper-conference
+  author:
+  - family: Jourdan
+    given: Martin
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Strongly non-circular attribute grammars and their recursive evaluation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '81-93'
+  URL: http://doi.acm.org/10.1145/502874.502882
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Ross76
+  type: paper-conference
+  author:
+  - family: Ross
+    given: Douglas T.
+  issued:
+  - year: '1976'
+  title: Toward foundations for the understanding of type
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '63-65'
+
+- id: conf/sigplan/Shaw76
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: Mary
+  issued:
+  - year: '1976'
+  title: Research directions in abstract data structures
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '66-68'
+
+- id: conf/sigplan/ChristopherHK84
+  type: paper-conference
+  author:
+  - family: Christopher
+    given: Thomas W.
+  - family: Hatcher
+    given: Philip J.
+  - family: Kukuk
+    given: Ronald C.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Using dynamic programming to generate optimized code in a graham-glanville
+    style code generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/502874.502877
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/MiltonKR79
+  type: paper-conference
+  author:
+  - family: Milton
+    given: D. R.
+  - family: Kirchhoff
+    given: L. W.
+  - family: Rowland
+    given: B. R.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: An all(1) compiler generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '152-157'
+  URL: http://doi.acm.org/10.1145/800229.806965
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/FlonH76
+  type: paper-conference
+  author:
+  - family: Flon
+    given: Lawrence
+  - family: Habermann
+    given: A. Nico
+  issued:
+  - year: '1976'
+  title: Towards the construction of verifiable software systems
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '141-148'
+
+- id: conf/sigplan/JohnsonR82
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: C. W.
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Semantic errors - diagnosis and repair
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '88-97'
+  URL: http://doi.acm.org/10.1145/800230.806983
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/BernsteinBP86
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: David
+  - family: Boral
+    given: Haran
+  - family: Pinter
+    given: Ron Y.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Optimal chaining in expression trees
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/12276.13311
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/HooverT86
+  type: paper-conference
+  author:
+  - family: Hoover
+    given: Roger
+  - family: Teitelbaum
+    given: Tim
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Efficient incremental evaluation of aggregate values in attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/12276.13315
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/TrioletIF86
+  type: paper-conference
+  author:
+  - family: Triolet
+    given: Rémi
+  - family: Irigoin
+    given: François
+  - family: Feautrier
+    given: Paul
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Direct parallelization of call statements
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '176-185'
+  URL: http://doi.acm.org/10.1145/12276.13329
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/McLeod76
+  type: paper-conference
+  author:
+  - family: McLeod
+    given: Dennis
+  issued:
+  - year: '1976'
+  title: High level domain definition in a relational data base system
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '47-57'
+
+- id: conf/sigplan/Touzeau84
+  type: paper-conference
+  author:
+  - family: Touzeau
+    given: Roy F.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: A fortran compiler for the fPS-164 scientific computer
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '48-57'
+  URL: http://doi.acm.org/10.1145/502874.502879
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Reiss84
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: An approach to incremental compilation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '144-156'
+  URL: http://doi.acm.org/10.1145/502874.502889
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/MarksteinCM82
+  type: paper-conference
+  author:
+  - family: Markstein
+    given: Victoria
+  - family: Cocke
+    given: John
+  - family: Markstein
+    given: Peter W.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Optimization of range checking
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '114-119'
+  URL: http://doi.acm.org/10.1145/800230.806986
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Crawford82
+  type: paper-conference
+  author:
+  - family: Crawford
+    given: John
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Engineering a production code generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '205-215'
+  URL: http://doi.acm.org/10.1145/800230.806996
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/DoneganNF79
+  type: paper-conference
+  author:
+  - family: Donegan
+    given: Michael K.
+  - family: Noonan
+    given: Robert E.
+  - family: Feyock
+    given: Stefan
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: A code generator generator language
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '58-64'
+  URL: http://doi.acm.org/10.1145/800229.806954
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Powell84
+  type: paper-conference
+  author:
+  - family: Powell
+    given: Michael L.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: A portable optimizing compiler for modula-2
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '310-319'
+  URL: http://doi.acm.org/10.1145/502874.502905
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/BoehmD86
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  - family: Demers
+    given: Alan J.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Implementing rUSSELL
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '186-195'
+  URL: http://doi.acm.org/10.1145/12276.13330
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Moor82
+  type: paper-conference
+  author:
+  - family: Moor
+    given: Ian W.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An applicative compiler for a parallel machine
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '284-293'
+  URL: http://doi.acm.org/10.1145/800230.807002
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/LarusH86
+  type: paper-conference
+  author:
+  - family: Larus
+    given: James R.
+  - family: Hilfinger
+    given: Paul N.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Register allocation in the sPUR lisp compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '255-263'
+  URL: http://doi.acm.org/10.1145/12276.13337
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Pleban84
+  type: paper-conference
+  author:
+  - family: Pleban
+    given: Uwe F.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Compiler prototyping using formal semantics
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '94-105'
+  URL: http://doi.acm.org/10.1145/502874.502883
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/SmithS76
+  type: paper-conference
+  author:
+  - family: Smith
+    given: John Miles
+  - family: Smith
+    given: Diane C. P.
+  issued:
+  - year: '1976'
+  title: Data base abstraction
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '71'
+
+- id: conf/sigplan/HansenSC79
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Gilbert J.
+  - family: Shoults
+    given: G. A.
+  - family: Cointment
+    given: J. D.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Construction of a transportable, multi-pass compiler for extended pascal
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '117-126'
+  URL: http://doi.acm.org/10.1145/800229.806961
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/JohnsonM86
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Mark Scott
+  - family: Miller
+    given: Terrence C.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Effectiveness of a machine-level, global optimizer
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '99-108'
+  URL: http://doi.acm.org/10.1145/12276.13321
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Hammer76
+  type: paper-conference
+  author:
+  - family: Hammer
+    given: Michael
+  issued:
+  - year: '1976'
+  title: Data abstractions for data bases
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '58-59'
+
+- id: conf/sigplan/1982
+  type: book
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Proceedings of the sIGPLAN ’82 symposium on compiler construction, boston,
+    massachusetts, uSA, june 23-25, 1982
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=800230
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Feldman79
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Stuart I.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Implementation of a portable fortran 77 compiler using modern tools
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '98-106'
+  URL: http://doi.acm.org/10.1145/800229.806959
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Bray84
+  type: paper-conference
+  author:
+  - family: Bray
+    given: Gary
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Sharing code among instances of ada generics
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '276-284'
+  URL: http://doi.acm.org/10.1145/502874.502901
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/BrooksGS82
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Rodney A.
+  - family: Gabriel
+    given: Richard P.
+  - family: Jr.
+    given: Guy L. Steele
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An optimizing compiler for lexically scoped lISP
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '261-275'
+  URL: http://doi.acm.org/10.1145/800230.807000
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/DavidsonF84
+  type: paper-conference
+  author:
+  - family: Davidson
+    given: Jack W.
+  - family: Fraser
+    given: Christopher W.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Automatic generation of peephole optimizations
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '111-116'
+  URL: http://doi.acm.org/10.1145/502874.502885
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Robbins84
+  type: paper-conference
+  author:
+  - family: Robbins
+    given: David C.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Engineering a high-capacity pascal compiler for high performance
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '300-309'
+  URL: http://doi.acm.org/10.1145/502874.502904
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/RudmikL79
+  type: paper-conference
+  author:
+  - family: Rudmik
+    given: Andres
+  - family: Lee
+    given: E. S.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Compiler design for efficient code generation and program optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '127-138'
+  URL: http://doi.acm.org/10.1145/800229.806962
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Lindstrom86
+  type: paper-conference
+  author:
+  - family: Lindstrom
+    given: Gary
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Static evaluation of functional programs
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '196-206'
+  URL: http://doi.acm.org/10.1145/12276.13331
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/PerkinsS79
+  type: paper-conference
+  author:
+  - family: Perkins
+    given: Daniel R.
+  - family: Sites
+    given: Richard L.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Machine-independent pASCAL code optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '201-207'
+  URL: http://doi.acm.org/10.1145/800229.806970
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Johnsson84
+  type: paper-conference
+  author:
+  - family: Johnsson
+    given: Thomas
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Efficient compilation of lazy evaluation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '58-69'
+  URL: http://doi.acm.org/10.1145/502874.502880
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/DeRemerP79
+  type: paper-conference
+  author:
+  - family: DeRemer
+    given: Frank
+  - family: Pennello
+    given: Thomas J.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Efficient computation of lALR(1) look-ahead sets
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '176-187'
+  URL: http://doi.acm.org/10.1145/800229.806968
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/MorganR82
+  type: paper-conference
+  author:
+  - family: Morgan
+    given: Thomas M.
+  - family: Rowe
+    given: Lawrence A.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Analyzing exotic instructions for a retargetable code generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '197-204'
+  URL: http://doi.acm.org/10.1145/800230.806995
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Chaitin82
+  type: paper-conference
+  author:
+  - family: Chaitin
+    given: Gregory J.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Register allocation & spilling via graph coloring
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '98-105'
+  URL: http://doi.acm.org/10.1145/800230.806984
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/PaiK79
+  type: paper-conference
+  author:
+  - family: Pai
+    given: Ajit B.
+  - family: Kieburtz
+    given: Richard B.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: 'Global context recovery: A new strategy for parser recovery from syntax
+    errors'
+  title-short: Global context recovery
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '158-167'
+  URL: http://doi.acm.org/10.1145/800229.806966
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Hardgrave76
+  type: paper-conference
+  author:
+  - family: Hardgrave
+    given: W. Terry
+  issued:
+  - year: '1976'
+  title: A technique for implementing a set processor
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '86-94'
+
+- id: conf/sigplan/Linden76
+  type: paper-conference
+  author:
+  - family: Linden
+    given: Theodore A.
+  issued:
+  - year: '1976'
+  title: The use of abstract data types to simplify program modifications
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '12-23'
+
+- id: conf/sigplan/Levy84
+  type: paper-conference
+  author:
+  - family: Levy
+    given: Michael R.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Type checking, separate compilation and reusability
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '285-289'
+  URL: http://doi.acm.org/10.1145/502874.502902
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Seyfer82
+  type: paper-conference
+  author:
+  - family: Seyfer
+    given: Harlan K.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Tailoring testing to a specific compiler - experiences
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '140-152'
+  URL: http://doi.acm.org/10.1145/800230.806990
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/GrahamHS82
+  type: paper-conference
+  author:
+  - family: Graham
+    given: Susan L.
+  - family: Henry
+    given: Robert R.
+  - family: Schulman
+    given: Robert A.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An experiment in table driven code generation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '32-43'
+  URL: http://doi.acm.org/10.1145/800230.806978
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Vallarino76
+  type: paper-conference
+  author:
+  - family: Vallarino
+    given: Oscar
+  issued:
+  - year: '1976'
+  title: On the use of bit maps for multiple key retrieval
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '108-114'
+
+- id: conf/sigplan/MadhavjiW82
+  type: paper-conference
+  author:
+  - family: Madhavji
+    given: Nazim H.
+  - family: Wilson
+    given: I. R.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Cray pascal
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '1-14'
+  URL: http://doi.acm.org/10.1145/800230.806975
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Farrow82
+  type: paper-conference
+  author:
+  - family: Farrow
+    given: Rodney
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: 'LINGUIST-86: Yet another translator writing system based on attribute
+    grammars'
+  title-short: LINGUIST-86
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '160-171'
+  URL: http://doi.acm.org/10.1145/800230.806992
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/BurkeF82
+  type: paper-conference
+  author:
+  - family: Burke
+    given: Michael G.
+  - family: Fisher
+    given: Gerald A.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A practical method for syntactic error diagnosis and recovery
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '67-78'
+  URL: http://doi.acm.org/10.1145/800230.806981
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Frailey79
+  type: paper-conference
+  author:
+  - family: Frailey
+    given: Dennis J.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: An intermediate language for source and target independent code optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '188-200'
+  URL: http://doi.acm.org/10.1145/800229.806969
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/PrattM82
+  type: paper-conference
+  author:
+  - family: Pratt
+    given: Terrence W.
+  - family: Maydwell
+    given: George D.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Experience with the normal semantic definition of hAL/S
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '327-333'
+  URL: http://doi.acm.org/10.1145/800230.807007
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/GrossL86
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Thomas R.
+  - family: Lam
+    given: Monica S.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Compilation for a high-performance systolic array
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/12276.13314
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Abrahams79
+  type: paper-conference
+  author:
+  - family: Abrahams
+    given: Paul W.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: The cIMS pL/I compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '107-116'
+  URL: http://doi.acm.org/10.1145/800229.806960
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Sites79
+  type: paper-conference
+  author:
+  - family: Sites
+    given: Richard L.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Machine-independent register allocation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '221-225'
+  URL: http://doi.acm.org/10.1145/800229.806973
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Baker82
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Theodore P.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A single-pass syntax-directed front end for ada
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '318-326'
+  URL: http://doi.acm.org/10.1145/800230.807006
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Kahrs79
+  type: paper-conference
+  author:
+  - family: Kahrs
+    given: Mark
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Implementation of an interactive programming system
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '76-82'
+  URL: http://doi.acm.org/10.1145/800229.806956
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Raskovsky82
+  type: paper-conference
+  author:
+  - family: Raskovsky
+    given: Martin R.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Denotational semantics as a specification of code generators
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '230-244'
+  URL: http://doi.acm.org/10.1145/800230.806998
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Sethi82
+  type: paper-conference
+  author:
+  - family: Sethi
+    given: Ravi
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Control flow aspects of semantics directed compiling (summary)
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '245-260'
+  URL: http://doi.acm.org/10.1145/800230.806999
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/RaihaT86
+  type: paper-conference
+  author:
+  - family: Räihä
+    given: Kari-Jouko
+  - family: Tarhio
+    given: Jorma
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: A globalizing transformation for attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '74-84'
+  URL: http://doi.acm.org/10.1145/12276.13319
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/ZloofJ76
+  type: paper-conference
+  author:
+  - family: Zloof
+    given: Moshé M.
+  - family: Jong
+    given: S. Peter
+    dropping-particle: de
+  issued:
+  - year: '1976'
+  title: 'The system for business automation: Programming language'
+  title-short: The system for business automation
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '24'
+
+- id: conf/sigplan/Ives86
+  type: paper-conference
+  author:
+  - family: Ives
+    given: Fred
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Unifying view of recent lALR(1) lookahead set algorithms
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '131-135'
+  URL: http://doi.acm.org/10.1145/12276.13324
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/BaiardiRV84
+  type: paper-conference
+  author:
+  - family: Baiardi
+    given: Fabrizio
+  - family: Ricci
+    given: Laura
+  - family: Vanneschi
+    given: Marco
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Static checking of interprocess communication in eCSP
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '290-299'
+  URL: http://doi.acm.org/10.1145/502874.502903
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/JohnsonM76
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Robert T.
+  - family: Morris
+    given: James B.
+  issued:
+  - year: '1976'
+  title: Abstract data types in the model programming language
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '36-46'
+
+- id: conf/sigplan/AllenK84
+  type: paper-conference
+  author:
+  - family: Allen
+    given: John R.
+  - family: Kennedy
+    given: Ken
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Automatic loop interchange
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '233-246'
+  URL: http://doi.acm.org/10.1145/502874.502897
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/GanzingerG84
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  - family: Giegerich
+    given: Robert
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Attribute coupled grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '157-170'
+  URL: http://doi.acm.org/10.1145/502874.502890
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/1979
+  type: book
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Proceedings of the 1979 sIGPLAN symposium on compiler construction, denver,
+    colorado, uSA, august 6-10, 1979
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=800229
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/76
+  type: book
+  issued:
+  - year: '1976'
+  title: 'Proceedings of the sIGPLAN ’76 conference on data: Abstraction, definition
+    and structure, salt lake city, utah, uSA, march 22-24, 1976'
+  title-short: Proceedings of the sIGPLAN ’76 conference on data
+  publisher: ACM
+
+- id: conf/sigplan/Nordstrom76
+  type: paper-conference
+  author:
+  - family: Nordström
+    given: Bengt
+  issued:
+  - year: '1976'
+  title: An outline of a mathematical model for the definition and manipulation of
+    data
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '1-11'
+
+- id: conf/sigplan/BonkowskiGM79
+  type: paper-conference
+  author:
+  - family: Bonkowski
+    given: G. B.
+  - family: Gentleman
+    given: W. Morven
+  - family: Malcolm
+    given: M. A.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Porting the zed compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '92-97'
+  URL: http://doi.acm.org/10.1145/800229.806958
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/LandwehrJG82
+  type: paper-conference
+  author:
+  - family: Landwehr
+    given: Rudolf
+  - family: Jansohn
+    given: Hans-Stephan
+  - family: Goos
+    given: Gerhard
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Experience with an automatic code generator generator
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '56-66'
+  URL: http://doi.acm.org/10.1145/800230.806980
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/1984
+  type: book
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Proceedings of the 1984 sIGPLAN symposium on compiler construction, montreal,
+    canada, june 17-22, 1984
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=502874
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Turba82
+  type: paper-conference
+  author:
+  - family: Turba
+    given: Thomas N.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A facility for the downward execution of a high-level language
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '127-133'
+  URL: http://doi.acm.org/10.1145/800230.806988
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Blower84
+  type: paper-conference
+  author:
+  - family: Blower
+    given: M. I.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: An efficient implementation of visibility in ada
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '259-265'
+  URL: http://doi.acm.org/10.1145/502874.502899
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Kieburtz76
+  type: paper-conference
+  author:
+  - family: Kieburtz
+    given: Richard B.
+  issued:
+  - year: '1976'
+  title: Programming without pointer variables
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '95-107'
+
+- id: conf/sigplan/CooperK84
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Kennedy
+    given: Ken
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Efficient computation of flow insensitive interprocedural summary information
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '247-258'
+  URL: http://doi.acm.org/10.1145/502874.502898
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Zadeck84
+  type: paper-conference
+  author:
+  - family: Zadeck
+    given: F. Kenneth
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Incremental data flow analysis in a structured program editor
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '132-143'
+  URL: http://doi.acm.org/10.1145/502874.502888
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/GriesG76
+  type: paper-conference
+  author:
+  - family: Gries
+    given: David
+  - family: Gehani
+    given: Narain H.
+  issued:
+  - year: '1976'
+  title: Some ideas on data types in high level languages
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '120'
+
+- id: conf/sigplan/FisherERN84
+  type: paper-conference
+  author:
+  - family: Fisher
+    given: Joseph A.
+  - family: Ellis
+    given: John R.
+  - family: Ruttenberg
+    given: John C.
+  - family: Nicolau
+    given: Alexandru
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: 'Parallel processing: A smart compiler and a dumb machine'
+  title-short: Parallel processing
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '37-47'
+  URL: http://doi.acm.org/10.1145/502874.502878
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Marshall82
+  type: paper-conference
+  author:
+  - family: Marshall
+    given: Howard Z.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: The linear graph package, a compiler building environment
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '294-300'
+  URL: http://doi.acm.org/10.1145/800230.807003
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Farrow86
+  type: paper-conference
+  author:
+  - family: Farrow
+    given: Rodney
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Automatic generation of fixed-point-finding evaluators for circular, but
+    well-defined, attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '85-98'
+  URL: http://doi.acm.org/10.1145/12276.13320
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Horning76
+  type: paper-conference
+  author:
+  - family: Horning
+    given: James J.
+  issued:
+  - year: '1976'
+  title: Some desirable properties of data abstraction facilities
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '60-62'
+
+- id: conf/sigplan/Davidson86
+  type: paper-conference
+  author:
+  - family: Davidson
+    given: Jack W.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: A retargetable instruction reorganizer
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '234-241'
+  URL: http://doi.acm.org/10.1145/12276.13334
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Fabri79
+  type: paper-conference
+  author:
+  - family: Fabri
+    given: Janet
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Automatic storage optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '83-91'
+  URL: http://doi.acm.org/10.1145/800229.806957
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/AuslanderH82
+  type: paper-conference
+  author:
+  - family: Auslander
+    given: Marc A.
+  - family: Hopkins
+    given: Martin
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An overview of the pL.8 compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '22-31'
+  URL: http://doi.acm.org/10.1145/800230.806977
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/FraserW86
+  type: paper-conference
+  author:
+  - family: Fraser
+    given: Christopher W.
+  - family: Wendt
+    given: Alan L.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Integrating code generation and optimization
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '242-248'
+  URL: http://doi.acm.org/10.1145/12276.13335
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/KesslerPCDK86
+  type: paper-conference
+  author:
+  - family: Kessler
+    given: Robert R.
+  - family: Peterson
+    given: J. C.
+  - family: Carr
+    given: Harold
+  - family: Duggan
+    given: Gerald P.
+  - family: Knell
+    given: J.
+  - family: Krohnfeldt
+    given: Jed J.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: EPIC - a retargetable, highly optimizing lisp compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '118-130'
+  URL: http://doi.acm.org/10.1145/12276.13323
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/SchwartzDB84
+  type: paper-conference
+  author:
+  - family: Schwartz
+    given: Mayer D.
+  - family: Delisle
+    given: Norman M.
+  - family: Begwani
+    given: Vimal S.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Incremental compilation in magpie
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '122-131'
+  URL: http://doi.acm.org/10.1145/502874.502887
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/KranzKRHP86
+  type: paper-conference
+  author:
+  - family: Kranz
+    given: David A.
+  - family: Kelsey
+    given: Richard
+  - family: Rees
+    given: Jonathan
+  - family: Hudak
+    given: Paul
+  - family: Philbin
+    given: James
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: 'ORBIT: An optimizing compiler for scheme'
+  title-short: ORBIT
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '219-233'
+  URL: http://doi.acm.org/10.1145/12276.13333
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/GrahamKM82
+  type: paper-conference
+  author:
+  - family: Graham
+    given: Susan L.
+  - family: Kessler
+    given: Peter B.
+  - family: McKusick
+    given: Marshall K.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: 'Gprof: A call graph execution profiler'
+  title-short: Gprof
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '120-126'
+  URL: http://doi.acm.org/10.1145/800230.806987
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Senko76
+  type: paper-conference
+  author:
+  - family: Senko
+    given: Michael E.
+  issued:
+  - year: '1976'
+  title: DIAM iI and levels of abstraction
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '121-140'
+
+- id: conf/sigplan/BermudezS86
+  type: paper-conference
+  author:
+  - family: Bermudez
+    given: Manuel E.
+  - family: Schimpf
+    given: Karl M.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: A practical arbitrary look-ahead lR parsing technique
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '136-144'
+  URL: http://doi.acm.org/10.1145/12276.13325
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Royer86
+  type: paper-conference
+  author:
+  - family: Royer
+    given: Véronique
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Transformations of denotational semantics in semantics directed compiler
+    generation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '68-73'
+  URL: http://doi.acm.org/10.1145/12276.13318
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Bird82
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Peter L.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: An implementation of a code generator specification language for table driven
+    code generators
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '44-55'
+  URL: http://doi.acm.org/10.1145/800230.806979
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/WellsC76
+  type: paper-conference
+  author:
+  - family: Wells
+    given: Mark B.
+  - family: Cornwall
+    given: Fred L.
+  issued:
+  - year: '1976'
+  title: A data type encapsulation scheme utilizing base language operators
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '170-178'
+
+- id: conf/sigplan/Wand84
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: A semantic prototyping system
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '213-221'
+  URL: http://doi.acm.org/10.1145/502874.502895
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/FraserMW84
+  type: paper-conference
+  author:
+  - family: Fraser
+    given: Christopher W.
+  - family: Myers
+    given: Eugene W.
+  - family: Wendt
+    given: Alan L.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Analyzing and compressing assembly code
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '117-121'
+  URL: http://doi.acm.org/10.1145/502874.502886
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Koster76
+  type: paper-conference
+  author:
+  - family: Koster
+    given: Cornelis H. A.
+  issued:
+  - year: '1976'
+  title: Visibility and types
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '179-'
+
+- id: conf/sigplan/Kessler84
+  type: paper-conference
+  author:
+  - family: Kessler
+    given: Robert R.
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: 'Peep: An architectural description driven peephole optimizer'
+  title-short: Peep
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '106-110'
+  URL: http://doi.acm.org/10.1145/502874.502884
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/LaLondeR82
+  type: paper-conference
+  author:
+  - family: LaLonde
+    given: Wilf R.
+  - family: Rivières
+    given: Jim
+    dropping-particle: des
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A flexible compiler structure that allows dynamic phase ordering
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '134-139'
+  URL: http://doi.acm.org/10.1145/800230.806989
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/GrahamHJ79
+  type: paper-conference
+  author:
+  - family: Graham
+    given: Susan L.
+  - family: Haley
+    given: Charles B.
+  - family: Joy
+    given: William N.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Practical lR error recovery
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '168-175'
+  URL: http://doi.acm.org/10.1145/800229.806967
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Kaiser86
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Generation of run-time environments
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '51-57'
+  URL: http://doi.acm.org/10.1145/12276.13316
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/GibbonsM86
+  type: paper-conference
+  author:
+  - family: Gibbons
+    given: Phillip B.
+  - family: Muchnick
+    given: Steven S.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Efficient instruction scheduling for a pipelined architecture
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '11-16'
+  URL: http://doi.acm.org/10.1145/12276.13312
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Farrow84
+  type: paper-conference
+  author:
+  - family: Farrow
+    given: Rodney
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Sub-protocol-evaluators for attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '70-80'
+  URL: http://doi.acm.org/10.1145/502874.502881
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Guttag76
+  type: paper-conference
+  author:
+  - family: Guttag
+    given: John V.
+  issued:
+  - year: '1976'
+  title: Abstract data types and the development of data structures
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '72'
+
+- id: conf/sigplan/CordyHW79
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: James R.
+  - family: Holt
+    given: Richard C.
+  - family: Wortman
+    given: David B.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: 'Semantic charts: A diagrammatic approach to semantic processing'
+  title-short: Semantic charts
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '39-49'
+  URL: http://doi.acm.org/10.1145/800229.806952
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/BerryEL76
+  type: paper-conference
+  author:
+  - family: Berry
+    given: Daniel M.
+  - family: Erlich
+    given: Z.
+  - family: Lucena
+    given: Carlos José Pereira
+    dropping-particle: de
+  issued:
+  - year: '1976'
+  title: 'Correctness of data representations: Pointers in high level languages'
+  title-short: Correctness of data representations
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '115-119'
+
+- id: conf/sigplan/Karr84
+  type: paper-conference
+  author:
+  - family: Karr
+    given: Michael
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Code generation by coagulation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/502874.502875
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Koskimies84
+  type: paper-conference
+  author:
+  - family: Koskimies
+    given: Kai
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: A specification language for one-pass semantic analysis
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '179-189'
+  URL: http://doi.acm.org/10.1145/502874.502892
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/KoskimiesRS82
+  type: paper-conference
+  author:
+  - family: Koskimies
+    given: Kai
+  - family: Räihä
+    given: Kari-Jouko
+  - family: Sarjakoski
+    given: Matti
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Compiler construction using attribute grammars
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '153-159'
+  URL: http://doi.acm.org/10.1145/800230.806991
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/GrissBH82
+  type: paper-conference
+  author:
+  - family: Griss
+    given: Martin L.
+  - family: Benson
+    given: Eric
+  - family: Hearn
+    given: Anthony C.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: Current status of a portable lisp compiler
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '276-283'
+  URL: http://doi.acm.org/10.1145/800230.807001
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/1986
+  type: book
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Proceedings of the 1986 sIGPLAN symposium on compiler construction, palo
+    alto, california, uSA, june 25-27, 1986
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=12276
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/MitchellW76
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Jim
+  - family: Wegbreit
+    given: Ben
+  issued:
+  - year: '1976'
+  title: A next step in data structuring for programming languages
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '69-70'
+
+- id: conf/sigplan/MacLaren84
+  type: paper-conference
+  author:
+  - family: MacLaren
+    given: M. Donald
+  editor:
+  - family: Deusen
+    given: Mary S. Van
+  issued:
+  - year: '1984'
+  title: Inline routines in vAXELN pascal
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '266-275'
+  URL: http://doi.acm.org/10.1145/502874.502900
+  ISBN: '0-89791-139-3'
+
+- id: conf/sigplan/Kessler86
+  type: paper-conference
+  author:
+  - family: Kessler
+    given: Peter B.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Discovering machine-specific code improvements
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '249-254'
+  URL: http://doi.acm.org/10.1145/12276.13336
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Nelson79
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Philip A.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: A comparison of pASCAL intermediate languages
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '208-213'
+  URL: http://doi.acm.org/10.1145/800229.806971
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/MauneyF82
+  type: paper-conference
+  author:
+  - family: Mauney
+    given: Jon
+  - family: Fischer
+    given: Charles N.
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: A forward move algorithm for lL and lR parsers
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '79-87'
+  URL: http://doi.acm.org/10.1145/800230.806982
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Johnson86
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Harold
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Data flow analysis for ‘intractable’ system software
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '109-117'
+  URL: http://doi.acm.org/10.1145/12276.13322
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/MintzFS79
+  type: paper-conference
+  author:
+  - family: Mintz
+    given: Ronald J.
+  - family: Fisher
+    given: Gerald A.
+  - family: Sharir
+    given: Micha
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: The design of a global optimizer
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '226-234'
+  URL: http://doi.acm.org/10.1145/800229.806974
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/BubenkoBLN76
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Janis A. Bubenko
+  - family: Berild
+    given: Stig
+  - family: Lindencrona-Ohlin
+    given: Eva
+  - family: Nachmens
+    given: Sam
+  issued:
+  - year: '1976'
+  title: From information structures to dBTG data structures
+  container-title: 'Conference on data: Abstraction, definition and structure'
+  publisher: ACM
+  page: '73-85'
+
+- id: conf/sigplan/CallahanCKT86
+  type: paper-conference
+  author:
+  - family: Callahan
+    given: David
+  - family: Cooper
+    given: Keith D.
+  - family: Kennedy
+    given: Ken
+  - family: Torczon
+    given: Linda
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Interprocedural constant propagation
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '152-161'
+  URL: http://doi.acm.org/10.1145/12276.13327
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/ChowR82
+  type: paper-conference
+  author:
+  - family: Chow
+    given: Anita L.
+  - family: Rudmik
+    given: Andres
+  editor:
+  - family: White
+    given: John R.
+  issued:
+  - year: '1982'
+  title: The design of a data flow analyzer
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '106-113'
+  URL: http://doi.acm.org/10.1145/800230.806985
+  ISBN: '0-89791-074-5'
+
+- id: conf/sigplan/Pennello86
+  type: paper-conference
+  author:
+  - family: Pennello
+    given: Thomas J.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1986'
+  title: Very fast lR parsing
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '145-151'
+  URL: http://doi.acm.org/10.1145/12276.13326
+  ISBN: '0-89791-197-0'
+
+- id: conf/sigplan/Ball79
+  type: paper-conference
+  author:
+  - family: Ball
+    given: J. Eugene
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: Predicting the effects of optimization on a procedure body
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '214-220'
+  URL: http://doi.acm.org/10.1145/800229.806972
+  ISBN: '0-89791-002-8'
+
+- id: conf/sigplan/Morris79
+  type: paper-conference
+  author:
+  - family: Morris
+    given: James B.
+  editor:
+  - family: Johnson
+    given: Stephen C.
+  issued:
+  - year: '1979'
+  title: 'Data abstraction: A static implementation strategy'
+  title-short: Data abstraction
+  container-title: SIGPLAN symposium on compiler construction
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/800229.806948
+  ISBN: '0-89791-002-8'
+...

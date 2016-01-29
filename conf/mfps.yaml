@@ -1,0 +1,2705 @@
+---
+references:
+- id: conf/mfps/1987
+  type: book
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1988'
+  title: Mathematical foundations of programming language semantics, 3rd workshop,
+    tulane university, new orleans, louisiana, uSA, april 8-10, 1987, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '298'
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Benson87
+  type: paper-conference
+  author:
+  - family: Benson
+    given: David B.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: The shuffle bialgebra
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '616-637'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_32
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/AbdaliW85
+  type: paper-conference
+  author:
+  - family: Abdali
+    given: S. Kamal
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Standard, storeless semantics for aLGOL-style block structure and call-by
+    name
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_22
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Mercouroff91
+  type: paper-conference
+  author:
+  - family: Mercouroff
+    given: Nicolas
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: An algorithm for analyzing communicating processes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '312-325'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_16
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/BakkerB93
+  type: paper-conference
+  author:
+  - family: Bakker
+    given: J. W.
+    dropping-particle: de
+  - family: Breugel
+    given: Franck
+    dropping-particle: van
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Topological models for higher ordr control flow
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-142'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_6
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/RoscoeB89
+  type: paper-conference
+  author:
+  - family: Roscoe
+    given: A. W.
+  - family: Barrett
+    given: Geoff
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Unbounded nondeterminism in cSP
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-193'
+  volume: '442'
+  DOI: 10.1007/BFb0040257
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Rosolini91
+  type: paper-conference
+  author:
+  - family: Rosolini
+    given: Giuseppe
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: An exper model for quest
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '436-445'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_22
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Barrett89
+  type: paper-conference
+  author:
+  - family: Barrett
+    given: Geoff
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: The semantics of priority and fairness in occam
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-208'
+  volume: '442'
+  DOI: 10.1007/BFb0040258
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Mislove87
+  type: paper-conference
+  author:
+  - family: Mislove
+    given: Michael W.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: On the smyth power domain
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-172'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_8
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/BlossH87
+  type: paper-conference
+  author:
+  - family: Bloss
+    given: Adrienne G.
+  - family: Hudak
+    given: Paul
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Path semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '476-489'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_26
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Stark89
+  type: paper-conference
+  author:
+  - family: Stark
+    given: Eugene W.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Connections between a concrete and an abstract model of concurrent systems
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-79'
+  volume: '442'
+  DOI: 10.1007/BFb0040254
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/AmericaR87
+  type: paper-conference
+  author:
+  - family: America
+    given: Pierre
+  - family: Rutten
+    given: Jan J. M. M.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Solving reflexive domain equations in a category of complete metric spaces
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-288'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_13
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/MossT89
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Lawrence S.
+  - family: Thatte
+    given: Satish R.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Generalization of final algebra semantics by relativization
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '284-300'
+  volume: '442'
+  DOI: 10.1007/BFb0040263
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/BargendaHS85
+  type: paper-conference
+  author:
+  - family: Bargenda
+    given: H.
+  - family: Herrlich
+    given: Horst
+  - family: Strecker
+    given: George E.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Concrete categories and injectivity
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-52'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_24
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/AdamekH85
+  type: paper-conference
+  author:
+  - family: Adámek
+    given: Jirí
+  - family: Herrlich
+    given: Horst
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Cartesian closed categories, quasitopoi and topological universes
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-41'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_23
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Pasztor89
+  type: paper-conference
+  author:
+  - family: Pasztor
+    given: Ana
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Does “n+1 times” prove more programs correct than “n times”?
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '373-389'
+  volume: '442'
+  DOI: 10.1007/BFb0040269
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Jeffrey93
+  type: paper-conference
+  author:
+  - family: Jeffrey
+    given: Alan
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A chemical abstract machine for graph reduction
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-303'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_14
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/KoppermanF93
+  type: paper-conference
+  author:
+  - family: Kopperman
+    given: Ralph
+  - family: Flagg
+    given: Bob
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: The asymmetric topology of computer science
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '544-553'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_26
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Wand91
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Correctness of procedure representations in higher-order assembly language
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-311'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_15
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Mulry93
+  type: paper-conference
+  author:
+  - family: Mulry
+    given: Philip S.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Lifting theorems for kleisli categories
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304-319'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_15
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/DanvyH93
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Hatcliff
+    given: John
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: On the transformation between direct and continuation semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '627-648'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_31
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/CarboniFS87
+  type: paper-conference
+  author:
+  - family: Carboni
+    given: Aurelio
+  - family: Freyd
+    given: Peter J.
+  - family: Scedrov
+    given: Andre
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: A categorical approach to realizability and polymorphic types
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-42'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_2
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/ZamfirM85
+  type: paper-conference
+  author:
+  - family: Zamfir
+    given: Maria
+  - family: Martin
+    given: David
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: On the syntax and semantics of concurrent computing
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357-394'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_42
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/JifengH89
+  type: paper-conference
+  author:
+  - family: He
+    given: Jifeng
+  - family: Hoare
+    given: C. A. R.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Categorical semantics for programming languages
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '402-417'
+  volume: '442'
+  DOI: 10.1007/BFb0040271
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/1993
+  type: book
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1994'
+  title: Mathematical foundations of programming semantics, 9th international conference,
+    new orleans, lA, uSA, april 7-10, 1993, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '802'
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/BrookesG91
+  type: paper-conference
+  author:
+  - family: Brookes
+    given: Stephen D.
+  - family: Geva
+    given: Shai
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Continuous functions and parallel algorithms on concrete data structures
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '326-349'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_17
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Brookes85
+  type: paper-conference
+  author:
+  - family: Brookes
+    given: Stephen D.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: A fully abstract semantics and a proof system for an aLGOL-like language
+    with sharing
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-100'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_26
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/BruceR87
+  type: paper-conference
+  author:
+  - family: Bruce
+    given: Kim B.
+  - family: Riecke
+    given: Jon G.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: The semantics of miranda’s algebraic types
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '455-473'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_25
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Gray87
+  type: paper-conference
+  author:
+  - family: Gray
+    given: John W.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: A categorical treatment of polymorphic operations
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2-22'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_1
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/PanangadenR89
+  type: paper-conference
+  author:
+  - family: Panangaden
+    given: Prakash
+  - family: Russell
+    given: James R.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: A category-theoretic semantics for unbounded indeterminacy
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '319-332'
+  volume: '442'
+  DOI: 10.1007/BFb0040265
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Mulry87
+  type: paper-conference
+  author:
+  - family: Mulry
+    given: Philip S.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Kan extensions in effective semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-132'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_6
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/1989
+  type: book
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1990'
+  title: Mathematical foundations of programming semantics, 5th international conference,
+    tulane university, new orleans, louisiana, uSA, march 29 - april 1, 1989, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '442'
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/KasangianL91
+  type: paper-conference
+  author:
+  - family: Kasangian
+    given: Stefano
+  - family: Labella
+    given: Anna
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: On continuous time agents
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '403-425'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_20
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Zhang93
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Guo-Qiang
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Universal quasi-prime algebraic domains
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '454-473'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_22
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/1991
+  type: book
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1992'
+  title: Mathematical foundations of programming semantics, 7th international conference,
+    pittsburgh, pA, uSA, march 25-28, 1991, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '598'
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Barwise91
+  type: paper-conference
+  author:
+  - family: Barwise
+    given: Jon
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Information links in domain theory
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-192'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_8
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Smyth87
+  type: paper-conference
+  author:
+  - family: Smyth
+    given: Michael B.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: 'Quasi uniformities: Reconciling domains with metric spaces'
+  title-short: Quasi uniformities
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '236-253'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_12
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Abramsky89
+  type: paper-conference
+  author:
+  - family: Abramsky
+    given: Samson
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: A generalized kahn principle for abstract asynchronous networks
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-21'
+  volume: '442'
+  DOI: 10.1007/BFb0040252
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/MisloveO91
+  type: paper-conference
+  author:
+  - family: Mislove
+    given: Michael W.
+  - family: Oles
+    given: Frank J.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: A simple language supporting angelic nondeterminism and parallel composition
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-101'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_4
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Kent87
+  type: paper-conference
+  author:
+  - family: Kent
+    given: Robert E.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: The metric closure powerspace construction
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-199'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_9
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/BluteSP93
+  type: paper-conference
+  author:
+  - family: Blute
+    given: Richard
+  - family: Seely
+    given: R. A. G.
+  - family: Panangaden
+    given: Prakash
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Holomorhpic models of exponential types in linear logic
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '474-512'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_23
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/DaviesS89
+  type: paper-conference
+  author:
+  - family: Davies
+    given: Jim
+  - family: Schneider
+    given: Steve
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Factorizing proofs in timed cSP
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-159'
+  volume: '442'
+  DOI: 10.1007/BFb0040256
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/BloomE91
+  type: paper-conference
+  author:
+  - family: Bloom
+    given: Stephen L.
+  - family: Ésik
+    given: Zoltán
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Program correctness and matricial iteration theories
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '457-476'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_24
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Mislove85
+  type: paper-conference
+  author:
+  - family: Mislove
+    given: Michael W.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Detecting local finite breadth in continuous lattices and semilattices
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-214'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_34
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/GateleyD91
+  type: paper-conference
+  author:
+  - family: Gateley
+    given: John
+  - family: Duba
+    given: Bruce F.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Call-by-value combinatory logic and the lambda-value calculus
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-53'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_2
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Revesz87
+  type: paper-conference
+  author:
+  - family: Révész
+    given: György E.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Rule-based semantics for an extended lambda-calculus
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-56'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_3
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/MeltonS85
+  type: paper-conference
+  author:
+  - family: Melton
+    given: Austin
+  - family: Schmidt
+    given: David A.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: A topological framework of cpos lacking bottom elements
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-204'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_33
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Shultis85
+  type: paper-conference
+  author:
+  - family: Shultis
+    given: Jonathan C.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: What is a model? A consumer’s perspective on semantic theory
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '296-307'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_38
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Spreen87
+  type: paper-conference
+  author:
+  - family: Spreen
+    given: Dieter
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Computable one-to-one enumerations of effective domains
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '372-384'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_20
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Reed89
+  type: paper-conference
+  author:
+  - family: Reed
+    given: George M.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: A hierarchy of domains for real-time distributed computing
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-128'
+  volume: '442'
+  DOI: 10.1007/BFb0040255
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/AcetoH89
+  type: paper-conference
+  author:
+  - family: Aceto
+    given: Luca
+  - family: Hennessy
+    given: Matthew
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Termination, deadlock and divergence
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-318'
+  volume: '442'
+  DOI: 10.1007/BFb0040264
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Lawson87
+  type: paper-conference
+  author:
+  - family: Lawson
+    given: Jimmie D.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: The versatile continuous order
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-160'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_7
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/MeltonSS91
+  type: paper-conference
+  author:
+  - family: Melton
+    given: Austin
+  - family: Schröder
+    given: Bernd S. W.
+  - family: Strecker
+    given: George E.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Connections
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '492-506'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_26
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Malmkjaer89
+  type: paper-conference
+  author:
+  - family: Malmkjær
+    given: Karoline
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: On some semantic issues in the reflective tower
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-246'
+  volume: '442'
+  DOI: 10.1007/BFb0040260
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Fiech93
+  type: paper-conference
+  author:
+  - family: Fiech
+    given: Adrian
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Category of delta-functors
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '567-586'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_28
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Aceto91
+  type: paper-conference
+  author:
+  - family: Aceto
+    given: Luca
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: On relating concurency and nondeterminism
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '376-402'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_19
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/CalbrixNP93
+  type: paper-conference
+  author:
+  - family: Calbrix
+    given: Hugues
+  - family: Nivat
+    given: Maurice
+  - family: Podelski
+    given: Andreas
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Ultimately periodic words of rational w-languages
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '554-566'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_27
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/CardelliM89
+  type: paper-conference
+  author:
+  - family: Cardelli
+    given: Luca
+  - family: Mitchell
+    given: John C.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Operations on records
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-52'
+  volume: '442'
+  DOI: 10.1007/BFb0040253
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Power89
+  type: paper-conference
+  author:
+  - family: Power
+    given: A. John
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: An algebraic formulation for data refinement
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '390-401'
+  volume: '442'
+  DOI: 10.1007/BFb0040270
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/JungLP91
+  type: paper-conference
+  author:
+  - family: Jung
+    given: Achim
+  - family: Libkin
+    given: Leonid
+  - family: Puhlmann
+    given: Hermann
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Decomposition of domains
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-258'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_12
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/PlebanL87
+  type: paper-conference
+  author:
+  - family: Pleban
+    given: Uwe F.
+  - family: '0001'
+    given: Peter Lee
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: 'High-level semantics: An integrated approach to programming language semantics
+    and the specification of implementations'
+  title-short: High-level semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '550-571'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_29
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/ScholefieldZJ93
+  type: paper-conference
+  author:
+  - family: Scholefield
+    given: David
+  - family: Zedan
+    given: Hussein S. M.
+  - family: He
+    given: Jifeng
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A predicative semantics for the refinement of real-time systems
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '230-249'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_11
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Graham87
+  type: paper-conference
+  author:
+  - family: Graham
+    given: Steven K.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Closure properties of a probabilistic domain construction
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '213-233'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_11
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Manes91
+  type: paper-conference
+  author:
+  - family: Manes
+    given: Ernest G.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Equations for if-then-else
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '446-456'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_23
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Huth93
+  type: paper-conference
+  author:
+  - family: Huth
+    given: Michael
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Linear domains and linear maps
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '438-453'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_21
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/KamimuraT85
+  type: paper-conference
+  author:
+  - family: Kamimura
+    given: Tsutomu
+  - family: Tang
+    given: Adrian
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Retracts of sEP objects
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-148'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_29
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Manes87
+  type: paper-conference
+  author:
+  - family: Manes
+    given: Ernie
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Assertional categories
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-120'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_5
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Jung87
+  type: paper-conference
+  author:
+  - family: Jung
+    given: Achim
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: New results on hierarchies of domains
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-310'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_15
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Zamfir87
+  type: paper-conference
+  author:
+  - family: Zamfir
+    given: Maria
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Initial algebra semantics and concurrency
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '528-549'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_28
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/PfenningP89
+  type: paper-conference
+  author:
+  - family: Pfenning
+    given: Frank
+  - family: Paulin-Mohring
+    given: Christine
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Inductively defined types in the calculus of constructions
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '209-228'
+  volume: '442'
+  DOI: 10.1007/BFb0040259
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Rutten93
+  type: paper-conference
+  author:
+  - family: Rutten
+    given: Jan J. M. M.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A strucutral co-induction theorem
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-102'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_4
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/BloomK91
+  type: paper-conference
+  author:
+  - family: Bloom
+    given: Bard
+  - family: Kwiatkowska
+    given: Marta Z.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: 'Trade-offs in true concurrency: Pomsets and mazurkiewicz traces'
+  title-short: Trade-offs in true concurrency
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '350-375'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_18
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Stoughton89
+  type: paper-conference
+  author:
+  - family: Stoughton
+    given: Allen
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Equationally fully abstract models of pCF
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-283'
+  volume: '442'
+  DOI: 10.1007/BFb0040262
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Koslowski85
+  type: paper-conference
+  author:
+  - family: Koslowski
+    given: Jürgen
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Continuous categories
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-161'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_30
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Vickers87
+  type: paper-conference
+  author:
+  - family: Vickers
+    given: Steven
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: An algorithmic approach to the p-adic integers
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '599-615'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_31
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Bucciarelli93
+  type: paper-conference
+  author:
+  - family: Bucciarelli
+    given: Antonio
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: 'Another approach to sequentiality: Kleene’s unimonotone functions'
+  title-short: Another approach to sequentiality
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '333-358'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_17
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Wadler93
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A syntax for linear logic
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '513-529'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_24
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Sangiorgi93
+  type: paper-conference
+  author:
+  - family: Sangiorgi
+    given: Davide
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: An investigation into functions as processes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-159'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_7
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/LeavensP91
+  type: paper-conference
+  author:
+  - family: Leavens
+    given: Gary T.
+  - family: Pigozzi
+    given: Don
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Typed homomorphic relations extended with sybtypes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-167'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_7
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Gunter85
+  type: paper-conference
+  author:
+  - family: Gunter
+    given: Carl A.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Comparing categories of domains
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-121'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_27
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/JonesSS87
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Neil D.
+  - family: Sestoft
+    given: Peter
+  - family: Søndergaard
+    given: Harald
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: 'MIX: A self-applicable partial evaluator for experiments in compiler generation
+    (extended abstract)'
+  title-short: MIX
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '386-413'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_21
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Rabinovich93
+  type: paper-conference
+  author:
+  - family: Rabinovich
+    given: Alexander Moshe
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A complete axiomatisation for trace congruence of finite state behaviors
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '530-543'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_25
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/BloomE93
+  type: paper-conference
+  author:
+  - family: Bloom
+    given: Stephen L.
+  - family: Ésik
+    given: Zoltán
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Some quasi-varieties of iteration theories
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '378-409'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_19
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Gunter89
+  type: paper-conference
+  author:
+  - family: Gunter
+    given: Elsa L.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Pseudo-retract functors for local lattices and bifinite l-domains
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '351-363'
+  volume: '442'
+  DOI: 10.1007/BFb0040267
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/MainB89
+  type: paper-conference
+  author:
+  - family: Main
+    given: Michael G.
+  - family: Black
+    given: David L.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Semantic models for total correctness and fairness
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-270'
+  volume: '442'
+  DOI: 10.1007/BFb0040261
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/CoquandGW87
+  type: paper-conference
+  author:
+  - family: Coquand
+    given: Thierry
+  - family: Gunter
+    given: Carl A.
+  - family: Winskel
+    given: Glynn
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: DI-domains as a model of polymorphism
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344-363'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_18
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/HerrlichH85
+  type: paper-conference
+  author:
+  - family: Herrlich
+    given: Horst
+  - family: Husek
+    given: Miroslav
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Galois connections
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-134'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_28
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/ThomasS85
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Teresa A.
+  - family: Stanat
+    given: Donald F.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: An fP domain with infinite objects
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-341'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_40
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/MaR91
+  type: paper-conference
+  author:
+  - family: Ma
+    given: QingMing
+  - family: Reynolds
+    given: John C.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Types, abstractions, and parametric polymorphism, part 2
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-40'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_1
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Huth91
+  type: paper-conference
+  author:
+  - family: Huth
+    given: Michael
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Cartesian closed categories of domains and the space proj(D)
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-271'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_13
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Main85
+  type: paper-conference
+  author:
+  - family: Main
+    given: Michael G.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Free constructions of powerdomains
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-183'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_31
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Breugel93
+  type: paper-conference
+  author:
+  - family: Breugel
+    given: Franck
+    dropping-particle: van
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Three metric domains of processes for bisimulation
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-121'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_5
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Rishe85a
+  type: paper-conference
+  author:
+  - family: Rishe
+    given: Naphtali
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Postconditional semantics of data base queries
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '275-295'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_37
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Brookes87
+  type: paper-conference
+  author:
+  - family: Brookes
+    given: Stephen D.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Semantically based axiomatics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '312-330'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_16
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Reed87
+  type: paper-conference
+  author:
+  - family: Reed
+    given: Joylyn
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Semantics-based tools for a specification-support environment
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414-424'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_22
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/BanerjeeS93
+  type: paper-conference
+  author:
+  - family: Banerjee
+    given: Anindya
+  - family: Schmidt
+    given: David A.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: A categorical interpretation of landin’s correspondence principle
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '587-602'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_29
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/ReedR87
+  type: paper-conference
+  author:
+  - family: Reed
+    given: George M.
+  - family: Roscoe
+    given: A. W.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Metric spaces as models for real-time concurrency
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '331-343'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_17
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Aczel93
+  type: paper-conference
+  author:
+  - family: Aczel
+    given: Peter
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Final universes of processes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-28'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_1
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/LarsenY93
+  type: paper-conference
+  author:
+  - family: Larsen
+    given: Kim Guldstrand
+  - family: '0001'
+    given: Wang Yi
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: 'Time abstracted bisimiulation: Implicit specifications and decidability'
+  title-short: Time abstracted bisimiulation
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-176'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_8
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Bruce91
+  type: paper-conference
+  author:
+  - family: Bruce
+    given: Kim B.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: The equivalence of two semantic definitions for inheritance in object-oriented
+    languages
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-124'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_5
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/HylandRR89
+  type: paper-conference
+  author:
+  - family: Hyland
+    given: J. M. E.
+  - family: Robinson
+    given: E. P.
+  - family: Rosolini
+    given: Giuseppe
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Algebraic types in pER models
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '333-350'
+  volume: '442'
+  DOI: 10.1007/BFb0040266
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Schreiber87
+  type: paper-conference
+  author:
+  - family: Schreiber
+    given: Gerlinde
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Operational semantics and a distributed implementation of cSP
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '444-454'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_24
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/KamimuraT87
+  type: paper-conference
+  author:
+  - family: Kamimura
+    given: Tsutomu
+  - family: Tang
+    given: Adrian
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Continuous auxiliary relations
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '364-371'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_19
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Gray89
+  type: paper-conference
+  author:
+  - family: Gray
+    given: John W.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: Initial algebra semantics for lambda calculi
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '418-439'
+  volume: '442'
+  DOI: 10.1007/BFb0040272
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Doberkat87
+  type: paper-conference
+  author:
+  - family: Doberkat
+    given: Ernst-Erich
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Topological completeness in an ideal model for polymorphic types
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-302'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_14
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Bradley87
+  type: paper-conference
+  author:
+  - family: Bradley
+    given: Laurette
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: A treatment of languages with stages of evaluation
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '425-443'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_23
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Zhang91
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Guo-Qiang
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: A monoidal closed category of event structures
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '426-435'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_21
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/WellsB87
+  type: paper-conference
+  author:
+  - family: Wells
+    given: Charles
+  - family: Barr
+    given: Michael
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: The formal description of data types using sketches
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '490-527'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_27
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/PinnaP93
+  type: paper-conference
+  author:
+  - family: Pinna
+    given: G. Michele
+  - family: Poigné
+    given: Axel
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: On the specification of elementary reactive behaviour
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-292'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_13
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Chen93
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Liang
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Axiomatising real-time processes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-229'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_10
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Heckmann93
+  type: paper-conference
+  author:
+  - family: Heckmann
+    given: Reinhold
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Probabilistic power domains, information systems, and locales
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '410-437'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_20
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Gray91
+  type: paper-conference
+  author:
+  - family: Gray
+    given: John W.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Simultaneous substitution in the typed lambda calculus
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-220'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_10
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Barr91
+  type: paper-conference
+  author:
+  - family: Barr
+    given: Michael
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: HSP type theorems in the category of posets
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-234'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_11
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/BruceCK93
+  type: paper-conference
+  author:
+  - family: Bruce
+    given: Kim B.
+  - family: Crabtree
+    given: Jonathan
+  - family: Kanapathy
+    given: Gerlad
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: 'An operational semantics for tOOPLE: A statically-typed object-oriented
+    programming language'
+  title-short: An operational semantics for tOOPLE
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '603-626'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_30
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Klarlund91
+  type: paper-conference
+  author:
+  - family: Klarlund
+    given: Nils
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Liminf progress measures
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '477-491'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_25
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Rutten91
+  type: paper-conference
+  author:
+  - family: Rutten
+    given: Jan J. M. M.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Nonwellfounded sets and programming language semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '193-206'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_9
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Rishe85
+  type: paper-conference
+  author:
+  - family: Rishe
+    given: Naphtali
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: On denotational semantics of data bases
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-274'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_36
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Watt87
+  type: paper-conference
+  author:
+  - family: Watt
+    given: David A.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: An action semantics of standard mL
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '572-598'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_30
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Jagadeesan89
+  type: paper-conference
+  author:
+  - family: Jagadeesan
+    given: Radha
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1989'
+  title: L-domains and lossless powerdomains
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '364-372'
+  volume: '442'
+  DOI: 10.1007/BFb0040268
+  ISBN: '3-540-97375-3'
+
+- id: conf/mfps/Pasztor85
+  type: paper-conference
+  author:
+  - family: Pasztor
+    given: Ana
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: On the variety concept of omega-continuous algebras. application of a general
+    approach
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-248'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_35
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Smith91
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Scott F.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: From operational to denotational semantics
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-76'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_3
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Stoughton93
+  type: paper-conference
+  author:
+  - family: Stoughton
+    given: Allen
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Mechanizing logical relations
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '359-377'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_18
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/1985
+  type: book
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1986'
+  title: Mathematical foundations of programming semantics, international conference,
+    manhattan, kansas, uSA, april 11-12, 1985, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '239'
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/BensonT85
+  type: paper-conference
+  author:
+  - family: Benson
+    given: David B.
+  - family: Tiuryn
+    given: Jerzy
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Fixed ponts in process algebras with internal actions ( a preliminary note)
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-58'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_25
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Manes85
+  type: paper-conference
+  author:
+  - family: Manes
+    given: Ernest G.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Additive domains
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-195'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_32
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Heckmann91
+  type: paper-conference
+  author:
+  - family: Heckmann
+    given: Reinhold
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: An upper power domain construction in terms of strongly compact sets
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272-293'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_14
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Curien93
+  type: paper-conference
+  author:
+  - family: Curien
+    given: Pierre-Louis
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: On the symmetry of sequentiality
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-71'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_2
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Nelson91
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Neal
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1991'
+  title: Primitive recursive functionals with dependent types
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-143'
+  volume: '598'
+  DOI: 10.1007/3-540-55511-0_6
+  ISBN: '3-540-55511-0'
+
+- id: conf/mfps/Pitts93
+  type: paper-conference
+  author:
+  - family: Pitts
+    given: Andrew M.
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Computational adequacy via “mixed” inductive definitions
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-82'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_3
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Schneider93
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Steve
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Timewise refinement for communicating processes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-214'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_9
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Smith85
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Jonathan D. H.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Modal theory, partial orders, and digital geometry
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '308-323'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_39
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/Hrbacek87
+  type: paper-conference
+  author:
+  - family: Hrbacek
+    given: Karel
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: A powerdomain construction
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-212'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_10
+  ISBN: '3-540-19020-1'
+
+- id: conf/mfps/Venugopalan85
+  type: paper-conference
+  author:
+  - family: Venugopalan
+    given: P.
+  editor:
+  - family: Melton
+    given: Austin
+  issued:
+  - year: '1985'
+  title: Union complete countable subset systems
+  container-title: Mathematical foundations of programming semantics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '342-356'
+  volume: '239'
+  DOI: 10.1007/3-540-16816-8_41
+  ISBN: '3-540-16816-8'
+
+- id: conf/mfps/BestL93
+  type: paper-conference
+  author:
+  - family: Best
+    given: Eike
+  - family: Linde-Göers
+    given: Hans-Günther
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Compositional process semantics of petri boxes
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '250-270'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_12
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/BrookesG93
+  type: paper-conference
+  author:
+  - family: Brookes
+    given: Stephen D.
+  - family: Geva
+    given: Shai
+  editor:
+  - family: Brookes
+    given: Stephen D.
+  issued:
+  - year: '1993'
+  title: Sequential functions on indexed domains and full abstraction for a sub-language
+    of pCF
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '320-332'
+  volume: '802'
+  DOI: 10.1007/3-540-58027-1_16
+  ISBN: '3-540-58027-1'
+
+- id: conf/mfps/Wagner87
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Eric G.
+  editor:
+  - family: Main
+    given: Michael G.
+  issued:
+  - year: '1987'
+  title: Semantics of block structured languages with pointers
+  container-title: MFPS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-84'
+  volume: '298'
+  DOI: 10.1007/3-540-19020-1_4
+  ISBN: '3-540-19020-1'
+...

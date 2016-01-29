@@ -1,0 +1,531 @@
+---
+references:
+- id: conf/hsaft/Jahanian93
+  type: paper-conference
+  author:
+  - family: Jahanian
+    given: Farnam
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerance in embedded real-time systems
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-249'
+  volume: '774'
+  DOI: 10.1007/BFb0020038
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Liddell93
+  type: paper-conference
+  author:
+  - family: Liddell
+    given: David
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Simple design makes reliable computers
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-94'
+  volume: '774'
+  DOI: 10.1007/BFb0020025
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/AmirAD93
+  type: paper-conference
+  author:
+  - family: Amir
+    given: Ofir
+  - family: Amir
+    given: Yair
+  - family: Dolev
+    given: Danny
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: A highly available application in the transis environment
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-139'
+  volume: '774'
+  DOI: 10.1007/BFb0020028
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/FuchsHA93
+  type: paper-conference
+  author:
+  - family: Fuchs
+    given: W. Kent
+  - family: Hwu
+    given: Wen-mei W.
+  - family: Alewine
+    given: Neal J.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Application of compiler-assisted rollback recovery to speculative execution
+    repair
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-65'
+  volume: '774'
+  DOI: 10.1007/BFb0020022
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/BorrW93
+  type: paper-conference
+  author:
+  - family: Borr
+    given: Andrea J.
+  - family: Wilhelmy
+    given: Carol
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Highly-available data services for uNIX client-server networks: Why fault
+    tolerant hardware isn’t the answer'
+  title-short: Highly-available data services for uNIX client-server networks
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-304'
+  volume: '774'
+  DOI: 10.1007/BFb0020041
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/PradhanSV93
+  type: paper-conference
+  author:
+  - family: Pradhan
+    given: Dhiraj K.
+  - family: Sharma
+    given: Debendra Das
+  - family: Vaidya
+    given: Nitin H.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Roll-forward checkpointing schemes
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-116'
+  volume: '774'
+  DOI: 10.1007/BFb0020026
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/1993
+  type: book
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1994'
+  title: Hardware and software architectures for fault tolerance, experiences and
+    perspecives \[revised papers from a workshop at le mont saint michel, france,
+    june 1993\]
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '774'
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/BanatreGM93
+  type: paper-conference
+  author:
+  - family: Banâtre
+    given: Michel
+  - family: Gefflaut
+    given: Alain
+  - family: Morin
+    given: Christine
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Scalable shared memory multiprocessors: Some ideas to make them reliable'
+  title-short: Scalable shared memory multiprocessors
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-44'
+  volume: '774'
+  DOI: 10.1007/BFb0020021
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Locke93
+  type: paper-conference
+  author:
+  - family: Locke
+    given: C. Douglas
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Fault tolerant applications systems: A requirements perspective'
+  title-short: Fault tolerant applications systems
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-25'
+  volume: '774'
+  DOI: 10.1007/BFb0020020
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Stiffler93
+  type: paper-conference
+  author:
+  - family: Stiffler
+    given: Jack J.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerant architectures - past, present, and (?) future
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-121'
+  volume: '774'
+  DOI: 10.1007/BFb0020027
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Lee93
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Peter A.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Software-faults: The remaining problem in fault tolerant systems?'
+  title-short: Software-faults
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-181'
+  volume: '774'
+  DOI: 10.1007/BFb0020032
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Bark93
+  type: paper-conference
+  author:
+  - family: Bark
+    given: Rod
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerant platforms for emerging telecommunications markets
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-236'
+  volume: '774'
+  DOI: 10.1007/BFb0020037
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Paris93
+  type: paper-conference
+  author:
+  - family: Pâris
+    given: Jehan-François
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: The management of replicated data
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-311'
+  volume: '774'
+  DOI: 10.1007/BFb0020042
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/LipkisR93
+  type: paper-conference
+  author:
+  - family: Lipkis
+    given: Jim
+  - family: Rozier
+    given: Marc
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerance enablers in the cHORUS microkernel
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '182-190'
+  volume: '774'
+  DOI: 10.1007/BFb0020033
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Gleeson93
+  type: paper-conference
+  author:
+  - family: Gleeson
+    given: Barry J.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Fault tolerance: Why should i pay for it?'
+  title-short: Fault tolerance
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-77'
+  volume: '774'
+  DOI: 10.1007/BFb0020023
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/LalaH93
+  type: paper-conference
+  author:
+  - family: Lala
+    given: Jaynarayan H.
+  - family: Harper
+    given: Richard E.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Fault tolerance in embedded real-time systems: Importance and treatment
+    of common mode failures'
+  title-short: Fault tolerance in embedded real-time systems
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-282'
+  volume: '774'
+  DOI: 10.1007/BFb0020040
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Shrivastava93
+  type: paper-conference
+  author:
+  - family: Shrivastava
+    given: Santosh K.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: 'Arjuna and voltan: Case studies in building fault tolerant distributed
+    systems using standard components'
+  title-short: Arjuna and voltan
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-226'
+  volume: '774'
+  DOI: 10.1007/BFb0020036
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Powell93
+  type: paper-conference
+  author:
+  - family: Powell
+    given: David
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Distributed fault tolerance - lessons learned from delta-4
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-217'
+  volume: '774'
+  DOI: 10.1007/BFb0020035
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Elnozahy93
+  type: paper-conference
+  author:
+  - family: Elnozahy
+    given: E. N.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerance for clusters of workstations
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-158'
+  volume: '774'
+  DOI: 10.1007/BFb0020030
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Levendel93
+  type: paper-conference
+  author:
+  - family: Levendel
+    given: Ytzhak H.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Fault tolerance cost effectiveness
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-20'
+  volume: '774'
+  DOI: 10.1007/BFb0020019
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Kopetz93
+  type: paper-conference
+  author:
+  - family: Kopetz
+    given: Hermann
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: The systematic design of large real-time systems or interface simplicity
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '250-262'
+  volume: '774'
+  DOI: 10.1007/BFb0020039
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/HuangKJ93
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Yennun
+  - family: Kintala
+    given: Chandra M. R.
+  - family: Jalote
+    given: Pankaj
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Two techniques for transient software error recovery
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-170'
+  volume: '774'
+  DOI: 10.1007/BFb0020031
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Muller93
+  type: paper-conference
+  author:
+  - family: Muller
+    given: Gilles
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: A reliable client-server model on top of a micro-kernel
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-198'
+  volume: '774'
+  DOI: 10.1007/BFb0020034
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Birman93
+  type: paper-conference
+  author:
+  - family: Birman
+    given: Kenneth P.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Reliable enterprise computing systems
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-150'
+  volume: '774'
+  DOI: 10.1007/BFb0020029
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/JonesC93
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Jeremy
+  - family: Coghlan
+    given: Brian A.
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Stable disk - a fault tolerant cached rAID subsystem
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-90'
+  volume: '774'
+  DOI: 10.1007/BFb0020024
+  ISBN: 3-540-57767-X
+
+- id: conf/hsaft/Chillarege93
+  type: paper-conference
+  author:
+  - family: Chillarege
+    given: Ram
+  editor:
+  - family: Banâtre
+    given: Michel
+  issued:
+  - year: '1993'
+  title: Top five challenges facing the practice of fault tolerance
+  container-title: Hardware and software architectures for fault tolerance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-12'
+  volume: '774'
+  DOI: 10.1007/BFb0020018
+  ISBN: 3-540-57767-X
+...

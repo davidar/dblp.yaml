@@ -1,0 +1,938 @@
+---
+references:
+- id: conf/pascal/Bischoff79
+  type: paper-conference
+  author:
+  - family: Bischoff
+    given: Thorsten H.
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Der pASCAL-p4-compiler auf der dS 2000 und seine implementierung
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '74-78'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/SommerHS79
+  type: paper-conference
+  author:
+  - family: Sommer
+    given: Manfred
+  - family: Hackmann
+    given: Wilhelm K.
+  - family: Stadel
+    given: Manfred P.
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Die siemens-pASCAL-programmiersysteme
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '165-174'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Balzert79
+  type: paper-conference
+  author:
+  - family: Balzert
+    given: Helmut
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Die programmiersprache pLASMA 78
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '47-63'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/HoffmannK79
+  type: paper-conference
+  author:
+  - family: Hoffmann
+    given: Hans-Jürgen
+  - family: Krönig
+    given: Dirk
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Eine zusammenstellung von eigenschaften der bei der tagung vorgestellten
+    pASCAL-implementierungen
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '185-201'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/MallSR82
+  type: paper-conference
+  author:
+  - family: Mall
+    given: Manuel
+  - family: Schmidt
+    given: Joachim W.
+  - family: Reimer
+    given: Manuel
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: 'PASCAL und relationen: Sprachintegration und übersetzung'
+  title-short: PASCAL und relationen
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '139-154'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Schrott79
+  type: paper-conference
+  author:
+  - family: Schrott
+    given: Gerhard
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Eine pASCAL-erweiterung für prozeßrechneranwendungen
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '147-158'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/HammerlLP79
+  type: paper-conference
+  author:
+  - family: Hammerl
+    given: Lothar
+  - family: Löhr
+    given: Klaus-Peter
+  - family: Pütz
+    given: Jörg
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Concurrent pASCAL in virtual machines
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '109-121'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/KochMP82
+  type: paper-conference
+  author:
+  - family: Koch
+    given: Jürgen
+  - family: Mall
+    given: Manuel
+  - family: Putfarken
+    given: P.
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: 'Modula-2 für die vAX: Beschreibung einer systemübertragung'
+  title-short: Modula-2 für die vAX
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '47-65'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/KunzeS82
+  type: paper-conference
+  author:
+  - family: Kunze
+    given: G.
+  - family: Stetter
+    given: Franz
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Nichtdeterministische anweisungen für concurrent pASCAL
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '155-169'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Neaga82
+  type: paper-conference
+  author:
+  - family: Neaga
+    given: Michael
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: 'PASCAL-sC: Eine programmiersprache für wissenschaftliches rechnen'
+  title-short: PASCAL-sC
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '109-122'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Ammann81a
+  type: paper-conference
+  author:
+  - family: Ammann
+    given: Urs
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Code generation for a pascal compiler
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '83-123'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/1982
+  type: book
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Implementierung pASCAL-artiger programmiersprachen, tagung iI/1982 des german
+    chapter of the aCM, am 12.7.1982 in kiel
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Eulenstein82
+  type: paper-conference
+  author:
+  - family: Eulenstein
+    given: Michael
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: An extension to pASCAL for modular programming and a proposal of a conceptionally
+    machine independent linker
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '29-45'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Aumann79
+  type: paper-conference
+  author:
+  - family: Aumann
+    given: Urs
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Emulation von rechnern mittels pASCAL-programmen
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '25-36'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Geissmann82
+  type: paper-conference
+  author:
+  - family: Geissmann
+    given: Leo
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Implementation of separate compilation in the modula-2 compiler
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '15-27'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Mickel81
+  type: paper-conference
+  author:
+  - family: Mickel
+    given: A. D.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: The future of pascal
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '57-62'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/FlotheK79
+  type: paper-conference
+  author:
+  - family: Flöthe
+    given: Joachim
+  - family: Kölsch
+    given: Raimund T.
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Mikro-programme als externe pASCAL-prozeduren
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '95-108'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/AdamsL79
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Ulrich
+  - family: Latka
+    given: Rainer
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: PASCAL im timesharing auf der uNIVAC 1108
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '13-24'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Sexauer79
+  type: paper-conference
+  author:
+  - family: Sexauer
+    given: E. R.
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: GA 216/10 pDS mit dem uCSD pASCAL-system
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '159-164'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Wirth81
+  type: paper-conference
+  author:
+  - family: Wirth
+    given: Niklaus
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: 'Pascal-s: A subset and its implementation'
+  title-short: Pascal-s
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '199-259'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/SchmidtV82
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Uwe
+  - family: Völler
+    given: Reinhard
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Die entwicklung eines portablen übersetzersystems mit der vienna development
+    method
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '185-201'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/1979
+  type: book
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: PASCAL, 2. tagung in kaiserslautern, tagung i/1979 des german chapter of
+    the aCM, am 16. und 17.2.1979 in kaiserslautern
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Jacobi82
+  type: paper-conference
+  author:
+  - family: Jacobi
+    given: Christian
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: The lilith architecture, its design in view of code generation
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '67-80'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/DenkerV79
+  type: paper-conference
+  author:
+  - family: Denker
+    given: Martin
+  - family: Venema
+    given: Rainer
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: PASCAL-compiler für lSI-11
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '79-83'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Ammann81
+  type: paper-conference
+  author:
+  - family: Ammann
+    given: Urs
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: The zurich implementation
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '63-82'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/Dreschler-FischerFMN79
+  type: paper-conference
+  author:
+  - family: Dreschler-Fischer
+    given: Leonie S.
+  - family: '0001'
+    given: Bernd Fischer
+  - family: Mittelstein
+    given: M.
+  - family: Nagel
+    given: Hans-Hellmut
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Ein pASCAL-compiler für das dIETZ-system 621x2
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '84-94'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Bishop81
+  type: paper-conference
+  author:
+  - family: Bishop
+    given: Judy M.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: A pascal machine?
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '277-300'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/ReesGRZ81
+  type: paper-conference
+  author:
+  - family: Rees
+    given: Michael J.
+  - family: Goodson
+    given: J. I.
+  - family: Reynolds
+    given: J. J. M.
+  - family: Zell
+    given: H. J.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Pascal on an advanced architecture
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '261-275'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/Walter82
+  type: paper-conference
+  author:
+  - family: Walter
+    given: Inge
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Anschluß der datenbanksprache rDBL an pASCAL im datenbankmanagementsystem
+    (dBMS) pOREL
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '123-137'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/LandwehrJG82
+  type: paper-conference
+  author:
+  - family: Landwehr
+    given: Rudolf
+  - family: Jansohn
+    given: Hans-Stephan
+  - family: Goos
+    given: Gerhard
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Erfahrungen mit einem automatischen code-generator-generator
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '171-184'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Lecarme81
+  type: paper-conference
+  author:
+  - family: Lecarme
+    given: Olivier
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Pascal and portability
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '21-35'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/Webster81
+  type: paper-conference
+  author:
+  - family: Webster
+    given: C. A. G.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Pascal in education
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '37-47'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/AustermuhlL79
+  type: paper-conference
+  author:
+  - family: Austermühl
+    given: Burkhard
+  - family: Lutze
+    given: Rainer
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: PASCAL und iNTERLISP?
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '37-46'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/BarthDP82
+  type: paper-conference
+  author:
+  - family: Barth
+    given: Wilhelm
+  - family: Dirnberger
+    given: Josef
+  - family: Purgathofer
+    given: Werner
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Die implementierung von pASCAL/BILD
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '81-95'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Wichmann81
+  type: paper-conference
+  author:
+  - family: Wichmann
+    given: Brian A.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: The efficiency of pascal
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '49-55'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/KirchnerNW79
+  type: paper-conference
+  author:
+  - family: Kirchner
+    given: Reinhard
+  - family: Neaga
+    given: Michael
+  - family: Wippermann
+    given: Hans-Wilm
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Ein drei-pass-pASCAL-compiler für z80
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '127-134'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Wagner82
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Bernhard
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Dateikonzept der siemens-pASCAL-programmiersysteme
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '97-107'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Harders79
+  type: paper-conference
+  author:
+  - family: Harders
+    given: Kurt
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Eine pASCAL-implementierung für die dIETZ 621
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '122-126'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/Baron81
+  type: paper-conference
+  author:
+  - family: Barron
+    given: D. W.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: A perspective on pascal
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '1-3'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/1981
+  type: book
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Pascal - the language and its implementation
+  publisher: John Wiley
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/Weng-Beckmann79
+  type: paper-conference
+  author:
+  - family: Weng-Beckmann
+    given: Ulrike
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: PPS - eine implementierung von standard-pASCAL für mikrorechner
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '175-184'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/HammerlKS82
+  type: paper-conference
+  author:
+  - family: Hammerl
+    given: Lothar
+  - family: Köster
+    given: Karl-Heinz
+  - family: Schürmann
+    given: Gerd
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: Leichte portierbarkeit von übersetzern für pASCAL-artige sprachen durch erzeugung
+    maschinenunabhängigen zielcodes
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '203-214'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/NoriAJNJ81
+  type: paper-conference
+  author:
+  - family: Nori
+    given: K. V.
+  - family: Ammann
+    given: Urs
+  - family: Jensen
+    given: Kathleen
+  - family: Nageli
+    given: H. H.
+  - family: Jacobi
+    given: Christian
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Pascal-p implementation notes
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '125-170'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/WelshSH81
+  type: paper-conference
+  author:
+  - family: Welsh
+    given: Jim
+  - family: Sneeringer
+    given: W. J.
+  - family: Hoare
+    given: C. A. R.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Ambiguities and insecurities in pascal
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '5-19'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/Remmele79
+  type: paper-conference
+  author:
+  - family: Remmele
+    given: Werner
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: 'PASCAL - portabilität - effizienz - mikrorechner: Gedanken über erfahrungswerte
+    aus pASCAL-implementierungen an mikrorechnern'
+  title-short: PASCAL - portabilität - effizienz - mikrorechner
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '135-146'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+
+- id: conf/pascal/BiedlI82
+  type: paper-conference
+  author:
+  - family: Biedl
+    given: A.
+  - family: Istinger
+    given: Michael
+  editor:
+  - family: Langmaack
+    given: Hans
+  issued:
+  - year: '1982'
+  title: PASCAL-normung und pASCAL-erweiterung
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '215-221'
+  volume: '11'
+  ISBN: '3-519-02430-6'
+
+- id: conf/pascal/Welsh81
+  type: paper-conference
+  author:
+  - family: Welsh
+    given: Jim
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: Two 1900 compilers
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '171-179'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/WattF81
+  type: paper-conference
+  author:
+  - family: Watt
+    given: David A.
+  - family: Findlay
+    given: W.
+  editor:
+  - family: Barron
+    given: D. W.
+  issued:
+  - year: '1981'
+  title: A pascal diagnostics system
+  container-title: Pascal - the language and its implementation
+  publisher: John Wiley
+  page: '181-198'
+  ISBN: '0-471-27835-1'
+
+- id: conf/pascal/BeckerDGHKSW79
+  type: paper-conference
+  author:
+  - family: Becker
+    given: M.
+  - family: Dersch
+    given: W.
+  - family: Guntermann
+    given: K.
+  - family: Hofferbert
+    given: P.
+  - family: Kappas
+    given: A.
+  - family: Seibert
+    given: 'E.'
+  - family: Waldschmidt
+    given: H.
+  editor:
+  - family: Wippermann
+    given: Hans-Wilm
+  issued:
+  - year: '1979'
+  title: Ein pASCAL-übersetzer für kleinrechner mit z80-kern
+  container-title: PASCAL
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '64-73'
+  volume: '1'
+  ISBN: '3-519-02420-9'
+...

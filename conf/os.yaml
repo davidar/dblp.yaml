@@ -1,0 +1,526 @@
+---
+references:
+- id: conf/os/HorningLMR74
+  type: paper-conference
+  author:
+  - family: Horning
+    given: James J.
+  - family: Lauer
+    given: Hugh C.
+  - family: Melliar-Smith
+    given: P. M.
+  - family: Randell
+    given: Brian
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: A program structure for error detection and recovery
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-187'
+  volume: '16'
+  DOI: 10.1007/BFb0029359
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Ludewig82
+  type: paper-conference
+  author:
+  - family: Ludewig
+    given: Jochen
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: Espreso - a system for process control software specification
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-131'
+  volume: '152'
+  DOI: 10.1007/BFb0051563
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/MateBCFH82
+  type: paper-conference
+  author:
+  - family: Máté
+    given: L. L.
+  - family: Bohus
+    given: M.
+  - family: Csopaki
+    given: Gyula
+  - family: Filp
+    given: A.
+  - family: Hinsenkamp
+    given: A.
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: System cars and its description language
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '152'
+  DOI: 10.1007/BFb0051557
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/1974
+  type: book
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Operating systems, proceedings of an international symposium held at rocquencourt,
+    april 23-25, 1974
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '16'
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Guimaraes74
+  type: paper-conference
+  author:
+  - family: Guimaraes
+    given: C.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: A foreground- background time sharing queue with general service times
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-125'
+  volume: '16'
+  DOI: 10.1007/BFb0029356
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Brandwajn74
+  type: paper-conference
+  author:
+  - family: Brandwajn
+    given: Alexandre
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Equivalence and decomposition methods with application to a model of a time-sharing
+    virtual memory system
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-88'
+  volume: '16'
+  DOI: 10.1007/BFb0029354
+  ISBN: 3-540-06849-X
+
+- id: conf/os/ShelnessSW74
+  type: paper-conference
+  author:
+  - family: Shelness
+    given: N. H.
+  - family: Stephens
+    given: P. D.
+  - family: Whitfield
+    given: Harry
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: The edinburgh multi-access system scheduling and allocation procedures in
+    the resident supervisor
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-310'
+  volume: '16'
+  DOI: 10.1007/BFb0029366
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Guiboud-RibaudB74
+  type: paper-conference
+  author:
+  - family: Guiboud-Ribaud
+    given: Serge
+  - family: Briat
+    given: J.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Espace d’adressage et espace d’exécuteion du systeème gemau
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-162'
+  volume: '16'
+  DOI: 10.1007/BFb0029357
+  ISBN: 3-540-06849-X
+
+- id: conf/os/CampbellH74
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Roy H.
+  - family: Habermann
+    given: A. Nico
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: The specification of process synchronization by path expressions
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-102'
+  volume: '16'
+  DOI: 10.1007/BFb0029355
+  ISBN: 3-540-06849-X
+
+- id: conf/os/KaiserK74
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: Claude
+  - family: Krakowiak
+    given: Sacha
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Analyse de quelques pannes d’un systeème d’exploitation
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-207'
+  volume: '16'
+  DOI: 10.1007/BFb0029360
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Parent74a
+  type: paper-conference
+  author:
+  - family: Parent
+    given: Michel
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Presentation of the control graph models
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-292'
+  volume: '16'
+  DOI: 10.1007/BFb0029365
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Lampson74
+  type: paper-conference
+  author:
+  - family: Lampson
+    given: Butler W.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: An open operating system for a single-user machine
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-217'
+  volume: '16'
+  DOI: 10.1007/BFb0029361
+  ISBN: 3-540-06849-X
+
+- id: conf/os/1982
+  type: book
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1983'
+  title: Specification and design of software systems, conference on operating systems,
+    visegrad, hungary, january 23-27, 1982, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '152'
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Halassy82
+  type: paper-conference
+  author:
+  - family: Halassy
+    given: Béla
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: 'SZIAM: A data model design aid'
+  title-short: SZIAM
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '99-113'
+  volume: '152'
+  DOI: 10.1007/BFb0051562
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Haberman74
+  type: paper-conference
+  author:
+  - family: Habermann
+    given: A. Nico
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: A new approach to avoidance of system deadlocks
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-170'
+  volume: '16'
+  DOI: 10.1007/BFb0029358
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Lipton74
+  type: paper-conference
+  author:
+  - family: Lipton
+    given: Richard J.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Schedulers as enforces in synchronization
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-256'
+  volume: '16'
+  DOI: 10.1007/BFb0029363
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Lenfant74
+  type: paper-conference
+  author:
+  - family: Lenfant
+    given: Jacques
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Evaluation sur des modèles de comportement de programme de la taille d’un
+    ensemble de travail
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-236'
+  volume: '16'
+  DOI: 10.1007/BFb0029362
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Beretvas74
+  type: paper-conference
+  author:
+  - family: Beretvas
+    given: Thomas
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: A simulation model representing the oS/VS2 release 2 control program
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-29'
+  volume: '16'
+  DOI: 10.1007/BFb0029352
+  ISBN: 3-540-06849-X
+
+- id: conf/os/KozmaL82
+  type: paper-conference
+  author:
+  - family: Kozma
+    given: László
+  - family: Laborczi
+    given: Z.
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: On implementation problems of shared abstract data types
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-152'
+  volume: '152'
+  DOI: 10.1007/BFb0051565
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Knuth82
+  type: paper-conference
+  author:
+  - family: Knuth
+    given: Elöd
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: 'Software structuring: A pragmatic approach'
+  title-short: Software structuring
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-27'
+  volume: '152'
+  DOI: 10.1007/BFb0051558
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Kramer82
+  type: paper-conference
+  author:
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: 'Distributed computer systems: Two views'
+  title-short: Distributed computer systems
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-98'
+  volume: '152'
+  DOI: 10.1007/BFb0051561
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Parent74
+  type: paper-conference
+  author:
+  - family: Parent
+    given: Christine
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Caractérisation fonctionelle des systèmes de fichiers
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '257-278'
+  volume: '16'
+  DOI: 10.1007/BFb0029364
+  ISBN: 3-540-06849-X
+
+- id: conf/os/Neuhold82
+  type: paper-conference
+  author:
+  - family: Neuhold
+    given: Erich J.
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: Development methodologies for event and message based application systems
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-55'
+  volume: '152'
+  DOI: 10.1007/BFb0051559
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/Mitchell82
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: R. J.
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: Program design - a practical approach
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-145'
+  volume: '152'
+  DOI: 10.1007/BFb0051564
+  ISBN: '3-540-12284-2'
+
+- id: conf/os/BelpaireW74
+  type: paper-conference
+  author:
+  - family: Belpaire
+    given: Gerald
+  - family: Wilmotte
+    given: J. R.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1974'
+  title: Correctness of realizations of levels of abstraction in operating systems
+  container-title: Symposium on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '16'
+  DOI: 10.1007/BFb0029351
+  ISBN: 3-540-06849-X
+
+- id: conf/os/BaloghFSS82
+  type: paper-conference
+  author:
+  - family: Balogh
+    given: Kalman
+  - family: Farkas
+    given: Zsuzsa
+  - family: Sántáné-Tóth
+    given: Edit
+  - family: Szeredi
+    given: Péter
+  editor:
+  - family: Knuth
+    given: Elöd
+  issued:
+  - year: '1982'
+  title: Software development in lDM
+  container-title: Conference on operating systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-83'
+  volume: '152'
+  DOI: 10.1007/BFb0051560
+  ISBN: '3-540-12284-2'
+...

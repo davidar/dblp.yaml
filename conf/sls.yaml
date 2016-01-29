@@ -1,0 +1,890 @@
+---
+references:
+- id: conf/sls/BenedettiniRG09
+  type: paper-conference
+  author:
+  - family: Benedettini
+    given: Stefano
+  - family: Roli
+    given: Andrea
+  - family: Gaspero
+    given: Luca Di
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: 'EasyGenetic: A template metaprogramming framework for genetic master-slave
+    algorithms'
+  title-short: EasyGenetic
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-139'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_14
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/GutinK09
+  type: paper-conference
+  author:
+  - family: Gutin
+    given: Gregory
+  - family: Karapetyan
+    given: Daniel
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: A memetic algorithm for the multidimensional assignment problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-129'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_12
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/PasiaDHR07
+  type: paper-conference
+  author:
+  - family: Pasia
+    given: Joseph M.
+  - family: Doerner
+    given: Karl F.
+  - family: Hartl
+    given: Richard F.
+  - family: Reimann
+    given: Marc
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Solving a bi-objective vehicle routing problem by pareto-ant colony optimization
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-191'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_15
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/Lokketangen07
+  type: paper-conference
+  author:
+  - family: Løkketangen
+    given: Arne
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: The importance of being careful
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_1
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/Haugland07
+  type: paper-conference
+  author:
+  - family: Haugland
+    given: Dag
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A bidirectional greedy heuristic for the subspace selection problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-176'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_12
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/RibeiroRC09
+  type: paper-conference
+  author:
+  - family: Ribeiro
+    given: Celso C.
+  - family: Rosseti
+    given: Isabel
+  - family: Campos
+    given: Reinaldo Vallejos
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: On the use of run time distributions to evaluate and compare stochastic local
+    search algorithms
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-30'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_2
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/HashimotoEYNIL07
+  type: paper-conference
+  author:
+  - family: Hashimoto
+    given: Hideki
+  - family: Ezaki
+    given: Youichi
+  - family: Yagiura
+    given: Mutsunori
+  - family: Nonobe
+    given: Koji
+  - family: Ibaraki
+    given: Toshihide
+  - family: Løkketangen
+    given: Arne
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A set covering approach for the pickup and delivery problem with general
+    constraints on each route
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-196'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_16
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/2009
+  type: book
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Engineering stochastic local search algorithms. designing, implementing and
+    analyzing effective heuristics, second international workshop, sLS 2009, brussels,
+    belgium, september 3-4, 2009. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/BattitiM07
+  type: paper-conference
+  author:
+  - family: Battiti
+    given: Roberto
+  - family: Mascia
+    given: Franco
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: An algorithm portfolio for the sub-graph isomorphism problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '106-120'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_8
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/NeumannSW07
+  type: paper-conference
+  author:
+  - family: Neumann
+    given: Frank
+  - family: Sudholt
+    given: Dirk
+  - family: Witt
+    given: Carsten
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Comparing variants of mMAS aCO algorithms on pseudo-boolean functions
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-75'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_5
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/FavarettoMP09
+  type: paper-conference
+  author:
+  - family: Favaretto
+    given: Daniela
+  - family: Moretti
+    given: Elena
+  - family: Pellegrini
+    given: Paola
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: On the explorative behavior of mAX-mIN ant system
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-119'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_10
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/SuttonHW09
+  type: paper-conference
+  author:
+  - family: Sutton
+    given: Andrew M.
+  - family: Howe
+    given: Adele E.
+  - family: Whitley
+    given: L. Darrell
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Estimating bounds on expected plateau size in mAXSAT problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-45'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_3
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/YagiuraKKNNIG07
+  type: paper-conference
+  author:
+  - family: Yagiura
+    given: Mutsunori
+  - family: Komiya
+    given: Akira
+  - family: Kojima
+    given: Kenya
+  - family: Nonobe
+    given: Koji
+  - family: Nagamochi
+    given: Hiroshi
+  - family: Ibaraki
+    given: Toshihide
+  - family: Glover
+    given: Fred
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A path relinking approach for the multi-resource generalized quadratic assignment
+    problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-135'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_9
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/BlumB07
+  type: paper-conference
+  author:
+  - family: Blum
+    given: Christian
+  - family: Blesa
+    given: Maria J.
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Probabilistic beam search for the longest common subsequence problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-161'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_11
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/UrlingsR07
+  type: paper-conference
+  author:
+  - family: Urlings
+    given: Thijs
+  - family: Ruiz
+    given: Rubén
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Local search in complex scheduling problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-206'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_18
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/EstellonGN09
+  type: paper-conference
+  author:
+  - family: Estellon
+    given: Bertrand
+  - family: Gardi
+    given: Frédéric
+  - family: Nouioua
+    given: Karim
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: High-performance local search for task scheduling with human resource allocation
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_1
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/LiefoogheMHJT09
+  type: paper-conference
+  author:
+  - family: Liefooghe
+    given: Arnaud
+  - family: Mesmoudi
+    given: Salma
+  - family: Humeau
+    given: Jérémie
+  - family: Jourdan
+    given: Laetitia
+  - family: Talbi
+    given: El-Ghazali
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: A study on dominance-based local search approaches for multiobjective combinatorial
+    optimization
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-124'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_11
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/GasperoS07
+  type: paper-conference
+  author:
+  - family: Gaspero
+    given: Luca Di
+  - family: Schaerf
+    given: Andrea
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: 'EasySyn++: A tool for automatic synthesis of stochastic local search algorithms'
+  title-short: EasySyn++
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-181'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_13
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/ImamichiN07
+  type: paper-conference
+  author:
+  - family: Imamichi
+    given: Takashi
+  - family: Nagamochi
+    given: Hiroshi
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A multi-sphere scheme for 2D and 3D packing problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-211'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_19
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/GaglioloLB09
+  type: paper-conference
+  author:
+  - family: Gagliolo
+    given: Matteo
+  - family: Legrand
+    given: Catherine
+  - family: Birattari
+    given: Mauro
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Mixed-effects modeling of optimisation algorithm performance
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-154'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_17
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/PellegriniB07
+  type: paper-conference
+  author:
+  - family: Pellegrini
+    given: Paola
+  - family: Birattari
+    given: Mauro
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Implementation effort and performance
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-45'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_3
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/HalimY07
+  type: paper-conference
+  author:
+  - family: Halim
+    given: Steven
+  - family: Yap
+    given: Roland H. C.
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: 'Designing and tuning sLS through animation and graphics: An extended walk-through'
+  title-short: Designing and tuning sLS through animation and graphics
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-30'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_2
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/RobetLS09
+  type: paper-conference
+  author:
+  - family: Robet
+    given: Julien
+  - family: Lardeux
+    given: Frédéric
+  - family: Saubion
+    given: Frédéric
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Autonomous control approach for local search
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-134'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_13
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/MatthewsSHW09
+  type: paper-conference
+  author:
+  - family: Matthews
+    given: David C.
+  - family: Sutton
+    given: Andrew M.
+  - family: Hains
+    given: Doug
+  - family: Whitley
+    given: L. Darrell
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Improved robustness through population variance in ant colony optimization
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-149'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_16
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/Bang-JensenCGJ07
+  type: paper-conference
+  author:
+  - family: Bang-Jensen
+    given: Jørgen
+  - family: Chiarandini
+    given: Marco
+  - family: Goegebeur
+    given: Yuri
+  - family: Jørgensen
+    given: Bent
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Mixed models for the analysis of local search components
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-105'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_7
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/MladenovicPU07
+  type: paper-conference
+  author:
+  - family: Mladenovic
+    given: Nenad
+  - family: Plastria
+    given: Frank
+  - family: Urosevic
+    given: Dragan
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Formulation space search for circle packing problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-216'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_20
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/GasperoRS07
+  type: paper-conference
+  author:
+  - family: Gaspero
+    given: Luca Di
+  - family: Roli
+    given: Andrea
+  - family: Schaerf
+    given: Andrea
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: 'EasyAnalyzer: An object-oriented framework for the experimental analysis
+    of stochastic local search algorithms'
+  title-short: EasyAnalyzer
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-90'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_6
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/HorobaS09
+  type: paper-conference
+  author:
+  - family: Horoba
+    given: Christian
+  - family: Sudholt
+    given: Dirk
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Running time analysis of aCO systems for shortest path problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-91'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_6
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/KokubugataMK07
+  type: paper-conference
+  author:
+  - family: Kokubugata
+    given: Hisafumi
+  - family: Moriyama
+    given: Ayako
+  - family: Kawashima
+    given: Hironao
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A practical solution using simulated annealing for general routing problems
+    with nodes, edges, and arcs
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-149'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_10
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/2007
+  type: book
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Engineering stochastic local search algorithms. designing, implementing and
+    analyzing effective heuristics, international workshop, sLS 2007, brussels, belgium,
+    september 6-8, 2007, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4638'
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/MasciaB09
+  type: paper-conference
+  author:
+  - family: Mascia
+    given: Franco
+  - family: Brunato
+    given: Mauro
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Techniques and tools for local search landscape visualization and analysis
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-104'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_7
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/LimaPLG09
+  type: paper-conference
+  author:
+  - family: Lima
+    given: Cláudio F.
+  - family: Pelikan
+    given: Martin
+  - family: Lobo
+    given: Fernando G.
+  - family: Goldberg
+    given: David E.
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Loopy substructural local search for the bayesian optimization algorithm
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-75'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_5
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/SuttonHW09a
+  type: paper-conference
+  author:
+  - family: Sutton
+    given: Andrew M.
+  - family: Howe
+    given: Adele E.
+  - family: Whitley
+    given: L. Darrell
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: A theoretical analysis of the k-satisfiability search space
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-60'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_4
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/BenoistEGJ09
+  type: paper-conference
+  author:
+  - family: Benoist
+    given: Thierry
+  - family: Estellon
+    given: Bertrand
+  - family: Gardi
+    given: Frédéric
+  - family: Jeanjean
+    given: Antoine
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: High-performance local search for solving real-life inventory routing problems
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-109'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_8
+  ISBN: '978-3-642-03750-4'
+
+- id: conf/sls/Sreevalsan-NairVWHH07
+  type: paper-conference
+  author:
+  - family: Sreevalsan-Nair
+    given: Jaya
+  - family: Verhoeven
+    given: Meike
+  - family: Woodruff
+    given: David L.
+  - family: Hotz
+    given: Ingrid
+  - family: Hamann
+    given: Bernd
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: 'Human-guided enhancement of a stochastic local search: Visualization and
+    adjustment of 3D pheromone'
+  title-short: Human-guided enhancement of a stochastic local search
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '182-186'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_14
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/LaurentH07
+  type: paper-conference
+  author:
+  - family: Laurent
+    given: Benoît
+  - family: Hao
+    given: Jin-Kao
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: A study of neighborhood structures for the multiple depot vehicle scheduling
+    problem
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '197-201'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_17
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/Pedroso07
+  type: paper-conference
+  author:
+  - family: Pedroso
+    given: João Pedro
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Simple metaheuristics using the simplex algorithm for non-linear programming
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-221'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_21
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/RidgeK07
+  type: paper-conference
+  author:
+  - family: Ridge
+    given: Enda
+  - family: Kudenko
+    given: Daniel
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2007'
+  title: Tuning the performance of the mMAS heuristic
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-60'
+  volume: '4638'
+  DOI: 10.1007/978-3-540-74446-7_4
+  ISBN: '978-3-540-74445-0'
+
+- id: conf/sls/Thierens09
+  type: paper-conference
+  author:
+  - family: Thierens
+    given: Dirk
+  editor:
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2009'
+  title: Adaptive operator selection for iterated local search
+  container-title: SLS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-144'
+  volume: '5752'
+  DOI: 10.1007/978-3-642-03751-1_15
+  ISBN: '978-3-642-03750-4'
+...

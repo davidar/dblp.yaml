@@ -1,0 +1,5428 @@
+---
+references:
+- id: conf/esec/1987
+  type: book
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: ESEC ’87, 1st european software engineering conference, strasbourg, france,
+    september 9-11, 1987, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '289'
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/BrabermanF99
+  type: paper-conference
+  author:
+  - family: Braberman
+    given: Víctor A.
+  - family: Felder
+    given: Miguel
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Verification of real-time designs: Combining scheduling theory with automatic
+    formal verification'
+  title-short: Verification of real-time designs
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '494-510'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319266
+  DOI: 10.1007/3-540-48166-4_30
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/HeiselSZ95
+  type: paper-conference
+  author:
+  - family: Heisel
+    given: Maritta
+  - family: Santen
+    given: Thomas
+  - family: Zimmermann
+    given: Dominik
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'Tool support for formal software development: A generic architecture'
+  title-short: Tool support for formal software development
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272-293'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_20
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/GiannakopoulouMK99
+  type: paper-conference
+  author:
+  - family: Giannakopoulou
+    given: Dimitra
+  - family: Magee
+    given: Jeff
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Checking progress with action priority: Is it fair?'
+  title-short: Checking progress with action priority
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '511-527'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319268
+  DOI: 10.1007/3-540-48166-4_31
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/DwyerCH98
+  type: paper-conference
+  author:
+  - family: Dwyer
+    given: Matthew B.
+  - family: Carr
+    given: Vicki
+  - family: Hines
+    given: Laura
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Model checking graphical user interfaces using abstractions
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '244-261'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267914
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Basili93
+  type: paper-conference
+  author:
+  - family: Basili
+    given: Victor R.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: The experience factory and its relationship to other improvement paradigms
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-83'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_6
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Schefstrom91
+  type: paper-conference
+  author:
+  - family: Schefström
+    given: Dick
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: The arcs experience
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '443-464'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/DixHRT87
+  type: paper-conference
+  author:
+  - family: Dix
+    given: Alan J.
+  - family: Harrison
+    given: Michael D.
+  - family: Runciman
+    given: Colin
+  - family: Thimbleby
+    given: Harold W.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Interaction models and the principled design of interactive systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-126'
+  volume: '289'
+  DOI: 10.1007/BFb0022105
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Denert93
+  type: paper-conference
+  author:
+  - family: Denert
+    given: Ernst
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Software engineering in business and academia: How wide is the gap?'
+  title-short: Software engineering in business and academia
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-47'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_4
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Jarzabek95
+  type: paper-conference
+  author:
+  - family: Jarzabek
+    given: Stan
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'PQL: A language for specifying abstract program views'
+  title-short: PQL
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-342'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_23
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Jackson91
+  type: paper-conference
+  author:
+  - family: Jackson
+    given: Charles
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: The impact of software engineering researches on industrial practice - a
+    personal view
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '472-479'
+  volume: '550'
+  DOI: 10.1007/3540547428_66
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/CheungGK98
+  type: paper-conference
+  author:
+  - family: Cheung
+    given: Shing-Chi
+  - family: Giannakopoulou
+    given: Dimitra
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Verification of liveness properties using compositional reachability analysis
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '227-243'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267913
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/GallKM95
+  type: paper-conference
+  author:
+  - family: Gall
+    given: Harald C.
+  - family: Klösch
+    given: René
+  - family: Mittermeir
+    given: Roland
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Object-oriented re-architecturing
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '499-519'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_32
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/WoodRBM98
+  type: paper-conference
+  author:
+  - family: Wood
+    given: Murray
+  - family: Roper
+    given: Marc
+  - family: Brooks
+    given: Andrew
+  - family: Miller
+    given: James
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Comparing and combining software defect detection techniques: A replicated
+    empirical study'
+  title-short: Comparing and combining software defect detection techniques
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '262-277'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267915
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Berzins91
+  type: paper-conference
+  author:
+  - family: Berzins
+    given: Valdis
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Software merge: Models and methods for combining changes to programs'
+  title-short: Software merge
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-250'
+  volume: '550'
+  DOI: 10.1007/3540547428_51
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/SchutzeRZ98
+  type: paper-conference
+  author:
+  - family: Schütze
+    given: Martin
+  - family: Riegel
+    given: Jan Peter
+  - family: Zimmermann
+    given: Gerhard
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A pattern-based application generator for building simulation
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '468-482'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267927
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/SuttonO98
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Stanley M. Sutton
+  - family: Osterweil
+    given: Leon J.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: The design of a next-generation process language
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-158'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267908
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Kunzmann-Combelles93
+  type: paper-conference
+  author:
+  - family: Kuntzmann-Combelles
+    given: Annie
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Quantitative approach to software management: The ami method'
+  title-short: Quantitative approach to software management
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-250'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_17
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/DauchyM91
+  type: paper-conference
+  author:
+  - family: Dauchy
+    given: Pierre
+  - family: Marre
+    given: Bruno
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Test data selection from algebraic specifications: Application to an automatic
+    subway module'
+  title-short: Test data selection from algebraic specifications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-100'
+  volume: '550'
+  DOI: 10.1007/3540547428_44
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/WagnerG95
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Tim A.
+  - family: Graham
+    given: Susan L.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Integrating incremental analysis with version management
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-218'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_16
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/NardiT89
+  type: paper-conference
+  author:
+  - family: Nardi
+    given: Daniele
+  - family: Tucci
+    given: Marco
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: An application of the event calculus for representing the history of a software
+    project
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-190'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/RobinsonE87
+  type: paper-conference
+  author:
+  - family: Robinson
+    given: H. M.
+  - family: Emms
+    given: J. M.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Requirements analysis for a database administration support environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '377-386'
+  volume: '289'
+  DOI: 10.1007/BFb0022130
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Parnas98
+  type: paper-conference
+  author:
+  - family: Parnas
+    given: David Lorge
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Software engineering: An unconsummated marriage (extended abstract)'
+  title-short: Software engineering
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-3'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267897
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/CreusotLRTKMS91
+  type: paper-conference
+  author:
+  - family: Creusot
+    given: Denis
+  - family: Lemoine
+    given: Philippe
+  - family: Roux
+    given: Olivier F.
+  - family: Trinquet
+    given: Yvon
+  - family: Kung
+    given: Antonio
+  - family: Marbach
+    given: Olivier
+  - family: Serrano-Morales
+    given: Carlos
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Execution environment for eLECTRE applications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-165'
+  volume: '550'
+  DOI: 10.1007/3540547428_47
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/WarboysBGKMMM99
+  type: paper-conference
+  author:
+  - family: Warboys
+    given: Brian
+  - family: Balasubramaniam
+    given: Dharini
+  - family: Greenwood
+    given: R. Mark
+  - family: Kirby
+    given: Graham N. C.
+  - family: Mayes
+    given: Ken
+  - family: Morrison
+    given: Ronald
+  - family: Munro
+    given: David S.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Collaboration and composition: Issues for a second generation process
+    language'
+  title-short: Collaboration and composition
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-90'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318787
+  DOI: 10.1007/3-540-48166-4_6
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/DossickK99
+  type: paper-conference
+  author:
+  - family: Dossick
+    given: Stephen E.
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'CHIME: A metadata-based distributed software development environment'
+  title-short: CHIME
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '464-475'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319264
+  DOI: 10.1007/3-540-48166-4_28
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Knabe87
+  type: paper-conference
+  author:
+  - family: Knabe
+    given: Christoph
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: The impact of exception handling on labour division, safety, and error diagnostics
+    in an industrial software engineering environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '369-376'
+  volume: '289'
+  DOI: 10.1007/BFb0022129
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/CollbergK87
+  type: paper-conference
+  author:
+  - family: Collberg
+    given: Christian S.
+  - family: Krampell
+    given: Magnus G.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: A property-based method for selecting among multiple implementations of modules
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '193-201'
+  volume: '289'
+  DOI: 10.1007/BFb0022112
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/MorascaP89
+  type: paper-conference
+  author:
+  - family: Morasca
+    given: Sandro
+  - family: Pezzè
+    given: Mauro
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Validation of concurrent aDA programs using symbolic execution
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '469-486'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/DuboisLS87
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Eric Dubois
+  - family: Lévy
+    given: Nicole
+  - family: Souquières
+    given: Jeanine
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Formalising reconstructuring operators in a specification process
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-171'
+  volume: '289'
+  DOI: 10.1007/BFb0022109
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/EngelsHTE98
+  type: paper-conference
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Heckel
+    given: Reiko
+  - family: Taentzer
+    given: Gabriele
+  - family: Ehrig
+    given: Hartmut
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A view-oriented approach to system modelling based on graph transformation
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '327-343'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267919
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Tempel87
+  type: paper-conference
+  author:
+  - family: Tempel
+    given: Hans Günter
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: A set of tools supporting the software design based on sDL
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '348-356'
+  volume: '289'
+  DOI: 10.1007/BFb0022127
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/CroweNCOJ87
+  type: paper-conference
+  author:
+  - family: Crowe
+    given: Malcolm K.
+  - family: Nicol
+    given: Clark
+  - family: Corr
+    given: Martin E.
+  - family: Oram
+    given: John W.
+  - family: Jenkins
+    given: David G.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: A software development environment for ada
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '318-326'
+  volume: '289'
+  DOI: 10.1007/BFb0022124
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/CailletBR87
+  type: paper-conference
+  author:
+  - family: Caillet
+    given: Jean-François
+  - family: Bonnet
+    given: Christian
+  - family: Raither
+    given: Barbara
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: High level interpretaton of execution traces of ada tasks
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-317'
+  volume: '289'
+  DOI: 10.1007/BFb0022123
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/1999
+  type: book
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Software engineering - eSEC/FSE’99, 7th european software engineering conference,
+    held jointly with the 7th aCM sIGSOFT symposium on the foundations of software
+    engineering, toulouse, france, september 1999, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318773
+  DOI: 10.1007/3-540-48166-4
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Robinson91
+  type: paper-conference
+  author:
+  - family: Robinson
+    given: Dave
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: CASE support for large systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '504-508'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/ForgacsB98
+  type: paper-conference
+  author:
+  - family: Forgács
+    given: István
+  - family: Bertolino
+    given: Antonia
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Feasible test path selection by principal slicing
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '378-394'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267922
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/CheungK93
+  type: paper-conference
+  author:
+  - family: Cheung
+    given: Shing-Chi
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Tractable flow analysis for anomaly detection in distributed programs
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-300'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_20
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/SneltingGS91
+  type: paper-conference
+  author:
+  - family: Snelting
+    given: Gregor
+  - family: Grosch
+    given: Franz-Josef
+  - family: Schroeder
+    given: Ulrik
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Inference-based support for programming in the large
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '396-408'
+  volume: '550'
+  DOI: 10.1007/3540547428_60
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Potts91
+  type: paper-conference
+  author:
+  - family: Potts
+    given: Colin
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Expediency and appropriate technology: An agenda for requirements engineering
+    research in the 1990s'
+  title-short: Expediency and appropriate technology
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '495-496'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/GaskellP95
+  type: paper-conference
+  author:
+  - family: Gaskell
+    given: Craig
+  - family: Phillips
+    given: Roger
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: A structured analysis formalism with execution semantics to allow unambiguous
+    model interpretation
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-253'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_18
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Thomas89
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Martyn
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: 'Asking for the impossible: The state of the art in safety-related systems'
+  title-short: Asking for the impossible
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-47'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Parisi-PresicceP91
+  type: paper-conference
+  author:
+  - family: Parisi-Presicce
+    given: Francesco
+  - family: Pierantonio
+    given: Alfonso
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: An algebraic view of inheritance and subtyping in object oriented programming
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '364-379'
+  volume: '550'
+  DOI: 10.1007/3540547428_58
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/GintellAHKMM93
+  type: paper-conference
+  author:
+  - family: Gintell
+    given: John
+  - family: Arnold
+    given: John
+  - family: Houde
+    given: Michael
+  - family: Kruszelnicki
+    given: Jacek
+  - family: McKenney
+    given: Roland
+  - family: Memmi
+    given: Gérard
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Scrutiny: A collaborative inspection and review system'
+  title-short: Scrutiny
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344-360'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_24
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/LevesonHR99
+  type: paper-conference
+  author:
+  - family: Leveson
+    given: Nancy G.
+  - family: Heimdahl
+    given: Mats Per Erik
+  - family: Reese
+    given: Jon Damon
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Designing specification languages for process control systems: Lessons
+    learned and steps to the future'
+  title-short: Designing specification languages for process control systems
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-145'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318937
+  DOI: 10.1007/3-540-48166-4_9
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/MonkSPD95
+  type: paper-conference
+  author:
+  - family: Monk
+    given: Simon R.
+  - family: Sommerville
+    given: Ian
+  - family: Pendaries
+    given: Jean Michel
+  - family: Durin
+    given: Bernard
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Supporting design rationale for system evolution
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '307-323'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_22
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/MascoloPR99
+  type: paper-conference
+  author:
+  - family: Mascolo
+    given: Cecilia
+  - family: Picco
+    given: Gian Pietro
+  - family: Roman
+    given: Gruia-Catalin
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: A fine-grained model for code mobility
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-56'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318785
+  DOI: 10.1007/3-540-48166-4_4
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/LiuC93
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Chunnian
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Automatic replanning of task networks for process model evolution in ePOS
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '434-450'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_29
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Greenspan91
+  type: paper-conference
+  author:
+  - family: Greenspan
+    given: Sol J.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: The scruffy side of requirements engineering
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '492-494'
+  volume: '550'
+  DOI: 10.1007/3540547428_70
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/GyimothyBF99
+  type: paper-conference
+  author:
+  - family: Gyimóthy
+    given: Tibor
+  - family: Beszédes
+    given: Árpád
+  - family: Forgács
+    given: István
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: An efficient relevant slicing method for debugging
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-321'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319248
+  DOI: 10.1007/3-540-48166-4_19
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Finkelstein91
+  type: paper-conference
+  author:
+  - family: Finkelstein
+    given: Anthony
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: A (neat) alphabet of requirements engineering issues
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '489-491'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Fischer91
+  type: paper-conference
+  author:
+  - family: Fischer
+    given: Wolf E.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: CASE seen from both sides of the fence
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '509-511'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/EmmerichSW93
+  type: paper-conference
+  author:
+  - family: Emmerich
+    given: Wolfgang
+  - family: Schäfer
+    given: Wilhelm
+  - family: Welsh
+    given: Jim
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Databases for software engineering environments - the goal has not yet been
+    attained
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-162'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_11
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/BodikGS98
+  type: paper-conference
+  author:
+  - family: Bodík
+    given: Rastislav
+  - family: Gupta
+    given: Rajiv
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Refining data flow information using infeasible paths
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-377'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267921
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Adams93
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Rolf
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: An experiment in software retrieval
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '380-396'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_26
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/ChenGK98
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Yih-Farn
+  - family: Gansner
+    given: Emden R.
+  - family: Koutsofios
+    given: Eleftherios
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A c++ data model supporting reachability analysis and dead code detection
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414-431'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267924
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Allen87
+  type: paper-conference
+  author:
+  - family: Allen
+    given: R. C.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: SOFTBUS - an approach to software engineering for distributed real-time long-lifetime
+    spacecraft data management systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-211'
+  volume: '289'
+  DOI: 10.1007/BFb0022113
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/1993
+  type: book
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Software engineering - eSEC ’93, 4th european software engineering conference,
+    garmisch-partenkirchen, germany, september 13-17, 1993, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '717'
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/BrownCCMSWW95
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Alan W.
+  - family: Carney
+    given: David J.
+  - family: Clements
+    given: Paul C.
+  - family: Meyers
+    given: B. Craig
+  - family: Smith
+    given: Dennis B.
+  - family: Weiderman
+    given: Nelson H.
+  - family: Wood
+    given: William G.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'Assessing the quality of large, software-intensive systems: A case study'
+  title-short: Assessing the quality of large, software-intensive systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '384-404'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_26
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/KarlssonT98
+  type: paper-conference
+  author:
+  - family: Karlsson
+    given: Even-André
+  - family: Taxén
+    given: Lars
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Incremental development for aXE 10
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '519-520'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267930
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Jazayeri98
+  type: paper-conference
+  author:
+  - family: Jazayeri
+    given: Mehdi
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Software engineering - old problems, new problems, and unsolved problems
+    (panel)
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '530'
+  volume: '1301'
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/GallK93
+  type: paper-conference
+  author:
+  - family: Gall
+    given: Harald C.
+  - family: Klösch
+    given: René
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Capsule oriented reverse engineering for software reuse
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '418-433'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_28
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/HennellHR87
+  type: paper-conference
+  author:
+  - family: Hennell
+    given: Michael A.
+  - family: Hedley
+    given: David
+  - family: Riddell
+    given: I. J.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Automated testing techniques for real-time embedded software
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '244-253'
+  volume: '289'
+  DOI: 10.1007/BFb0022117
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Schwartzel95
+  type: paper-conference
+  author:
+  - family: Schwärtzel
+    given: Heinz
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'Demands and perspectives for future software engineers: An industrial
+    viewpoint (abstract)'
+  title-short: Demands and perspectives for future software engineers
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-2'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_1
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/CartmellA87
+  type: paper-conference
+  author:
+  - family: Cartmell
+    given: John
+  - family: Alderson
+    given: Albert
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: The eclipse two-tier database interface
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-137'
+  volume: '289'
+  DOI: 10.1007/BFb0022106
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/MeijlerDE98
+  type: paper-conference
+  author:
+  - family: Meijler
+    given: Theo Dirk
+  - family: Demeyer
+    given: Serge
+  - family: Engel
+    given: Robert
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Making design patterns explicit in fACE: A frame work adaptive composition
+    environment'
+  title-short: Making design patterns explicit in fACE
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-110'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267905
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/FinkelsteinGHKN93
+  type: paper-conference
+  author:
+  - family: Finkelstein
+    given: Anthony
+  - family: Gabbay
+    given: Dov M.
+  - family: Hunter
+    given: Anthony
+  - family: Kramer
+    given: Jeff
+  - family: Nuseibeh
+    given: Bashar
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Inconsistency handling in multi-perspective specifications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-99'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_7
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/1989
+  type: book
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: ESEC ’89, 2nd european software engineering conference, university of warwick,
+    coventry, uK, september 11-15, 1989, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Bokowski99
+  type: paper-conference
+  author:
+  - family: Bokowski
+    given: Boris
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'CoffeeStrainer: Statically-checked constraints on the definition and use
+    of types in java'
+  title-short: CoffeeStrainer
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355-374'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319253
+  DOI: 10.1007/3-540-48166-4_22
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/LiangH99
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Donglin
+  - family: Harrold
+    given: Mary Jean
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Efficient points-to analysis for whole-program analysis
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-215'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318943
+  DOI: 10.1007/3-540-48166-4_13
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Joeris98
+  type: paper-conference
+  author:
+  - family: Joeris
+    given: Gregor
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Change management needs integrated process and configuration management
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-141'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267907
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/1991
+  type: book
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: ESEC ’91, 3rd european software engineering conference, milan, italy, october
+    21-24, 1991, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Myers89
+  type: paper-conference
+  author:
+  - family: Myers
+    given: Margaret
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Structural modelling of prolog for metrication
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '351-375'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Feldman91
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Stuart I.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Software configuration management: Past uses and future challenges'
+  title-short: Software configuration management
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-6'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/HoekHHW98
+  type: paper-conference
+  author:
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Hall
+    given: Richard S.
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Software release management
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-175'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267909
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/AueB93
+  type: paper-conference
+  author:
+  - family: Aue
+    given: Alfred
+  - family: Breu
+    given: Michael
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Distributed information systems: An advanced methology'
+  title-short: Distributed information systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-282'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_19
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/KoskimiesM95
+  type: paper-conference
+  author:
+  - family: Koskimies
+    given: Kai
+  - family: Mössenböck
+    given: Hanspeter
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Designing a framework by stepwise generalization
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '479-498'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_31
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/VidalFG95
+  type: paper-conference
+  author:
+  - family: Vidal
+    given: Alberto Valderruten
+  - family: Ferro
+    given: Manuel Vilares
+  - family: Gil
+    given: Jorge Graña
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Instrumentation of synchronous reactive models for performance engineering
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-89'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_8
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Fierz99
+  type: paper-conference
+  author:
+  - family: Fierz
+    given: Hugo
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'The cIP method: Component- and model-based construction of embedded systems'
+  title-short: The cIP method
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '375-392'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319255
+  DOI: 10.1007/3-540-48166-4_23
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/JaramilloGS99
+  type: paper-conference
+  author:
+  - family: Jaramillo
+    given: Clara
+  - family: Gupta
+    given: Rajiv
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Comparison checking: An approach to avoid debugging of optimized code'
+  title-short: Comparison checking
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '268-284'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318947
+  DOI: 10.1007/3-540-48166-4_17
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Eggers93
+  type: paper-conference
+  author:
+  - family: Eggers
+    given: Harald
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Software technology for a distributed telecommunication system
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '213-225'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_15
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/DeitersGS89
+  type: paper-conference
+  author:
+  - family: Deiters
+    given: Wolfgang
+  - family: Gruhn
+    given: Volker
+  - family: Schäfer
+    given: Wilhelm
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Systematic development of formal software process models
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-117'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/BrownMZ93
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Alan W.
+  - family: Morris
+    given: Edwin J.
+  - family: Zarrella
+    given: Paul F.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Experiences with a federated environment testbed
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-196'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_13
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/AsirelliI87
+  type: paper-conference
+  author:
+  - family: Asirelli
+    given: Patrizia
+  - family: Inverardi
+    given: Paola
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'Enhancing configuration facilities in software development: A logic approach'
+  title-short: Enhancing configuration facilities in software development
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-63'
+  volume: '289'
+  DOI: 10.1007/BFb0022098
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Padberg99
+  type: paper-conference
+  author:
+  - family: Padberg
+    given: Frank
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: A probabilistic model for software projects
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-126'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318932
+  DOI: 10.1007/3-540-48166-4_8
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/BeerS87
+  type: paper-conference
+  author:
+  - family: Beer
+    given: Stephen
+  - family: Sommerville
+    given: Ian
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Software design automation in an iPSE
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-97'
+  volume: '289'
+  DOI: 10.1007/BFb0022102
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Cattel91
+  type: paper-conference
+  author:
+  - family: Cattel
+    given: Thierry
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Rational design of distributed applications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-79'
+  volume: '550'
+  DOI: 10.1007/3540547428_43
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/GargantiniH99
+  type: paper-conference
+  author:
+  - family: Gargantini
+    given: Angelo
+  - family: Heitmeyer
+    given: Constance L.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Using model checking to generate tests from requirements specifications
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-162'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318939
+  DOI: 10.1007/3-540-48166-4_10
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Uhl98
+  type: paper-conference
+  author:
+  - family: Uhl
+    given: Jürgen
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: What we expect from software engineers in the industry (abstract)
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267901
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/ZellerS95
+  type: paper-conference
+  author:
+  - family: Zeller
+    given: Andreas
+  - family: Snelting
+    given: Gregor
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Handling version sets through feature logic
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-204'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_15
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/OquendoBGMT89
+  type: paper-conference
+  author:
+  - family: Oquendo
+    given: Flávio
+  - family: Berrada
+    given: Karima
+  - family: Gallo
+    given: Ferdinando
+  - family: Minot
+    given: Régis
+  - family: Thomas
+    given: Ian
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Version management in the pACT integrated software engineering environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-242'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/AmadorVA91
+  type: paper-conference
+  author:
+  - family: Amador
+    given: Jorge
+  - family: Vincente
+    given: Belén
+    dropping-particle: de
+  - family: Alonso
+    given: Alejandro
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Dynamically replaceable software: A design method'
+  title-short: Dynamically replaceable software
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '210-228'
+  volume: '550'
+  DOI: 10.1007/3540547428_50
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/WarrenS95
+  type: paper-conference
+  author:
+  - family: Warren
+    given: Ian
+  - family: Sommerville
+    given: Ian
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Dynamic configuration abstraction
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-190'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_14
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Linden91
+  type: paper-conference
+  author:
+  - family: Linden 0001
+    given: Frank
+    dropping-particle: van der
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Specification in cOLD-1 of a cAD-package for drawing shadow masks
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-121'
+  volume: '550'
+  DOI: 10.1007/3540547428_45
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/PaoliT93
+  type: paper-conference
+  author:
+  - family: Paoli
+    given: Flavio De
+  - family: Tisato
+    given: Francesco
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Language constructs for cooperative systems design
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '329-343'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_23
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/BernardLLV87
+  type: paper-conference
+  author:
+  - family: Bernard
+    given: Yves
+  - family: Lacroix
+    given: M.
+  - family: Lavency
+    given: Pierre
+  - family: Vanhoedenaghe
+    given: M.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Configuration management in an open environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-43'
+  volume: '289'
+  DOI: 10.1007/BFb0022096
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Beck99
+  type: paper-conference
+  author:
+  - family: Beck
+    given: Kent
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Extreme programming: A discipline of software development'
+  title-short: Extreme programming
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318778
+  DOI: 10.1007/3-540-48166-4_1
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/BustardW93
+  type: paper-conference
+  author:
+  - family: Bustard
+    given: David W.
+  - family: Winstanley
+    given: Adam C.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Making changes to formal specifications: Requirements and an example'
+  title-short: Making changes to formal specifications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-126'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_9
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Matsumoto95
+  type: paper-conference
+  author:
+  - family: Matsumoto
+    given: Masao J.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Quantitative evaluations of software built in with domain-specific disciplines
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '438-456'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_29
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/FantechiGIM87
+  type: paper-conference
+  author:
+  - family: Fantechi
+    given: Alessandro
+  - family: Gnesi
+    given: Stefania
+  - family: Inverardi
+    given: Paola
+  - family: Montanari
+    given: Ugo
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: An executon environment for the formal definiton of ada
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '327-335'
+  volume: '289'
+  DOI: 10.1007/BFb0022125
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Fernstrom91
+  type: paper-conference
+  author:
+  - family: Fernström
+    given: Christer
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'The eureka software factory: Concepts and accomplishments'
+  title-short: The eureka software factory
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-36'
+  volume: '550'
+  DOI: 10.1007/3540547428_41
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/LewisBH89
+  type: paper-conference
+  author:
+  - family: Lewis
+    given: R.
+  - family: Beck
+    given: D. W.
+  - family: Hartmann
+    given: J.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Assay - a tool to support regression testing
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '487-496'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Rombach89
+  type: paper-conference
+  author:
+  - family: Rombach
+    given: H. Dieter
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: The role of measurement in iSEEs
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-85'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/AllenDLK98
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Graham
+  - family: Davies
+    given: Leighton
+  - family: Lindmark
+    given: Göran
+  - family: Karlsson
+    given: Even-André
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: TTM15 - a large multi-site improvement project
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-124'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267906
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Zeller99
+  type: paper-conference
+  author:
+  - family: Zeller
+    given: Andreas
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Yesterday, my program worked. today, it does not. why?
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-267'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318946
+  DOI: 10.1007/3-540-48166-4_16
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Reichardt93
+  type: paper-conference
+  author:
+  - family: Reichardt
+    given: Johannes
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Preventative software engineering
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '251-262'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_18
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Tattersall91
+  type: paper-conference
+  author:
+  - family: Tattersall
+    given: Colin
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Integrated project support environments, text generation and technical writing
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '424-442'
+  volume: '550'
+  DOI: 10.1007/3540547428_62
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/SiffCBKR99
+  type: paper-conference
+  author:
+  - family: Siff
+    given: Michael
+  - family: Chandra
+    given: Satish
+  - family: Ball
+    given: Thomas
+  - family: Kunchithapadam
+    given: Krishna
+  - family: Reps
+    given: Thomas W.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Coping with type casts in c
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-198'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318942
+  DOI: 10.1007/3-540-48166-4_12
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Coen-PorisiniP91
+  type: paper-conference
+  author:
+  - family: Coen-Porisini
+    given: Alberto
+  - family: Paoli
+    given: Flavio De
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'SESADA: An environment supporting software specialization'
+  title-short: SESADA
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-289'
+  volume: '550'
+  DOI: 10.1007/3540547428_53
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/DevanbuS98
+  type: paper-conference
+  author:
+  - family: Devanbu
+    given: Premkumar T.
+  - family: Stubblebine
+    given: Stuart G.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Cryptographic verification of test coverage claims
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '395-413'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267923
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Voas91
+  type: paper-conference
+  author:
+  - family: Voas
+    given: Jeffrey M.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: A dynamic failure model for predicting the impact that a program location
+    has on the program
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '308-331'
+  volume: '550'
+  DOI: 10.1007/3540547428_55
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/RozmanGD91
+  type: paper-conference
+  author:
+  - family: Rozman
+    given: Ivan
+  - family: Györkös
+    given: József
+  - family: Dogsa
+    given: Tomaz
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Relation between source code metrics and structure analysis metrics
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '332-342'
+  volume: '550'
+  DOI: 10.1007/3540547428_56
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/SchurrWZ95
+  type: paper-conference
+  author:
+  - family: Schürr
+    given: Andy
+  - family: Winter
+    given: Andreas J.
+  - family: Zündorf
+    given: Albert
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Graph grammar engineering with pROGRES
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-234'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_17
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/NaumovichAC99
+  type: paper-conference
+  author:
+  - family: Naumovich
+    given: Gleb
+  - family: Avrunin
+    given: George S.
+  - family: Clarke
+    given: Lori A.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: An efficient algorithm for computing mHP information for concurrent java
+    programs
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '338-354'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319252
+  DOI: 10.1007/3-540-48166-4_21
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/JagerSW99
+  type: paper-conference
+  author:
+  - family: Jäger
+    given: Dirk
+  - family: Schleicher
+    given: Ansgar
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Using uML for software process modeling
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-108'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318788
+  DOI: 10.1007/3-540-48166-4_7
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/EngelsS87
+  type: paper-conference
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: A hybrid interpreter in a software development environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-88'
+  volume: '289'
+  DOI: 10.1007/BFb0022101
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/NaumovichACO98
+  type: paper-conference
+  author:
+  - family: Naumovich
+    given: Gleb
+  - family: Avrunin
+    given: George S.
+  - family: Clarke
+    given: Lori A.
+  - family: Osterweil
+    given: Leon J.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Applying static analysis to software architectures
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-93'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267904
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/LissandreV87
+  type: paper-conference
+  author:
+  - family: Lissandre
+    given: Michel
+  - family: Vaulx
+    given: Bernard De
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'SPECIF-x: A tool for cASE'
+  title-short: SPECIF-x
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-287'
+  volume: '289'
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/HekmatpourW87
+  type: paper-conference
+  author:
+  - family: Hekmatpour
+    given: Sharam
+  - family: Woodman
+    given: Mark
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Formal specification of graphical notations and graphical software tools
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '297-305'
+  volume: '289'
+  DOI: 10.1007/BFb0022122
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/NorrisS89
+  type: paper-conference
+  author:
+  - family: Norris
+    given: Mark T.
+  - family: Stockman
+    given: Sinclair Guillaume
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Industrialising formal methods for telecommunications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-175'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Chamillard95
+  type: paper-conference
+  author:
+  - family: Chamillard
+    given: A. T.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: An exploratory study of program metrics as predictors of reachability analysis
+    performance
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '343-361'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_24
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Selby87
+  type: paper-conference
+  author:
+  - family: Selby
+    given: Richard W.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Analyzing software reuse at the project and module design levels
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-220'
+  volume: '289'
+  DOI: 10.1007/BFb0022114
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Christ-NeumannS87
+  type: paper-conference
+  author:
+  - family: Christ-Neumann
+    given: Marie-Luise
+  - family: Schmidt
+    given: Heinz W.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: ASDL - an object-oriented specification language for syntax-directed environments
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-79'
+  volume: '289'
+  DOI: 10.1007/BFb0022100
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/HitzM95
+  type: paper-conference
+  author:
+  - family: Hitz
+    given: Martin
+  - family: Montazeri
+    given: Behzad
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Measuring product attributes of object-oriented systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-136'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_11
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/RosenblumW98
+  type: paper-conference
+  author:
+  - family: Rosenblum
+    given: David S.
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A design framework for internet-scale event observation and notification
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344-360'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267920
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Godart93
+  type: paper-conference
+  author:
+  - family: Godart
+    given: Claude
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'COO: A transaction model to support cOOperating software developers cOOrdination'
+  title-short: COO
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-379'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_25
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/PohlW98
+  type: paper-conference
+  author:
+  - family: Pohl
+    given: Klaus
+  - family: Weidenhaupt
+    given: Klaus
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A contextual approach for process-integrated tools
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-192'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267910
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/VottaZ95
+  type: paper-conference
+  author:
+  - family: Votta
+    given: Lawrence G.
+  - family: Zajak
+    given: Mary L.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Design process improvement case study using process waiver data
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-58'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_6
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Harel93
+  type: paper-conference
+  author:
+  - family: Harel
+    given: David
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Computers are not omnipotent (abstract)
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '10'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_2
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/LacroixV89
+  type: paper-conference
+  author:
+  - family: Lacroix
+    given: M.
+  - family: Vanhoedenaghe
+    given: M.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Tool integration in an open environment
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '311-323'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/RountevRL99
+  type: paper-conference
+  author:
+  - family: Rountev
+    given: Atanas
+  - family: Ryder
+    given: Barbara G.
+  - family: Landi
+    given: William
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Data-flow analysis of program fragments
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-252'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318945
+  DOI: 10.1007/3-540-48166-4_15
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/CzarneckiE99
+  type: paper-conference
+  author:
+  - family: Czarnecki
+    given: Krzysztof
+  - family: Eisenecker
+    given: Ulrich W.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Components and generative programming
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2-19'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318779
+  DOI: 10.1007/3-540-48166-4_2
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/HagelsteinRW93
+  type: paper-conference
+  author:
+  - family: Hagelstein
+    given: Jacques
+  - family: Roelants
+    given: Dominique
+  - family: Wodon
+    given: Pierre
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Formal requirements made practical
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-144'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_10
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Humphrey95
+  type: paper-conference
+  author:
+  - family: Humphrey
+    given: Watts S.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: A personal commitment to software quality
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '5-7'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_3
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Conradi87
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Experience with fortran verifier. a tool for documentation and error diagnosis
+    of fortran-77 programs
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-275'
+  volume: '289'
+  DOI: 10.1007/BFb0022119
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Bancilhon95
+  type: paper-conference
+  author:
+  - family: Bancilhon
+    given: François
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Why we need object databases (abstract)
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-4'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_2
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Mullin87
+  type: paper-conference
+  author:
+  - family: Mullin
+    given: Douglas
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: FORTUNE - a documentation support system for software engineers
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '387-395'
+  volume: '289'
+  DOI: 10.1007/BFb0022131
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/SelbyM91
+  type: paper-conference
+  author:
+  - family: Selby
+    given: Richard W.
+  - family: Madsen
+    given: R. Kent
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Metric-driven classification analysis
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '290-307'
+  volume: '550'
+  DOI: 10.1007/3540547428_54
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/SijtsmaM91
+  type: paper-conference
+  author:
+  - family: Sijtsma
+    given: Ben A.
+  - family: Mager
+    given: Joseph W. L. J.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: A theory for software design extraction
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '251-265'
+  volume: '550'
+  DOI: 10.1007/3540547428_52
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Bourdoncle93
+  type: paper-conference
+  author:
+  - family: Bourdoncle
+    given: François
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Assertion-based debugging of imperative programs by abstract interpretation
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '501-516'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_33
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/HauswirthJ99
+  type: paper-conference
+  author:
+  - family: Hauswirth
+    given: Manfred
+  - family: Jazayeri
+    given: Mehdi
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: A component and communication model for push systems
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-38'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318784
+  DOI: 10.1007/3-540-48166-4_3
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/ShepperdI91
+  type: paper-conference
+  author:
+  - family: Shepperd
+    given: Martin J.
+  - family: Ince
+    given: Darrel C.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Algebraic validation of software metrics
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '343-363'
+  volume: '550'
+  DOI: 10.1007/3540547428_57
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/GhezziFB93
+  type: paper-conference
+  author:
+  - family: Ghezzi
+    given: Carlo
+  - family: Felder
+    given: Miguel
+  - family: Bellettini
+    given: Carlo
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Real-time systems: A survey of approaches to formal specification and
+    verification'
+  title-short: Real-time systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-36'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_3
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Coen-PorisiniM93
+  type: paper-conference
+  author:
+  - family: Coen-Porisini
+    given: Alberto
+  - family: Mandrioli
+    given: Dino
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: A formal framework for aSTRAL intra-level proof obligations
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '483-500'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_32
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Troy91
+  type: paper-conference
+  author:
+  - family: Troy
+    given: Robert
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Impact of methods on productivity and quality
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '480-484'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Ince89
+  type: paper-conference
+  author:
+  - family: Ince
+    given: Darrel C.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: 'Martin j. shepperd: An empirical and theoretical analysis of an information
+    flow-based system design metric'
+  title-short: Martin j. shepperd
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-99'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/ChenKV95
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Yih-Farn
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Vo
+    given: Kiem-Phong
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'An objective reuse metric: Model and methology'
+  title-short: An objective reuse metric
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-123'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_10
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Ball99
+  type: paper-conference
+  author:
+  - family: Ball
+    given: Thomas
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: The concept of dynamic analysis
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-234'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318944
+  DOI: 10.1007/3-540-48166-4_14
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/JarkePJBAHWRPSSJMTVCS93
+  type: paper-conference
+  author:
+  - family: Jarke
+    given: Matthias
+  - family: Pohl
+    given: Klaus
+  - family: Jacobs
+    given: Stephan
+  - family: Jr.
+    given: Janis A. Bubenko
+  - family: Assenova
+    given: Petia
+  - family: Holm
+    given: Peter
+  - family: Wangler
+    given: Benkt
+  - family: Rolland
+    given: Colette
+  - family: Plihon
+    given: Véronique
+  - family: Schmitt
+    given: Jean-Roch
+  - family: Sutcliffe
+    given: Alistair G.
+  - family: Jones
+    given: Sara
+  - family: Maiden
+    given: Neil A. M.
+  - family: Till
+    given: David
+  - family: Vassiliou
+    given: Yannis
+  - family: Constantopoulos
+    given: Panos
+  - family: Spanoudakis
+    given: George
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Requirements engineering: An integrated view of representation, process,
+    and domain'
+  title-short: Requirements engineering
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-114'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_8
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Jazayeri95
+  type: paper-conference
+  author:
+  - family: Jazayeri
+    given: Mehdi
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Component programming - a fresh look at software components
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '457-478'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_30
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Glinz95
+  type: paper-conference
+  author:
+  - family: Glinz
+    given: Martin
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: An integrated formal model of scenarios based on statecharts
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-271'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_19
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/BoehmEKM98
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Barry W.
+  - family: Egyed
+    given: Alexander
+  - family: Kwan
+    given: Julie
+  - family: Madachy
+    given: Raymond J.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Developing multimedia applications with the winWin spiral model
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-39'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267899
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/DesharnaisFKM98
+  type: paper-conference
+  author:
+  - family: Desharnais
+    given: Jules
+  - family: Frappier
+    given: Marc
+  - family: Khédri
+    given: Ridha
+  - family: Mili
+    given: Ali
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Integration of sequential scenarios
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '310-326'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267918
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Kramer91
+  type: paper-conference
+  author:
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'CASE support for the software process: A research viewpoint'
+  title-short: CASE support for the software process
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '499-503'
+  volume: '550'
+  DOI: 10.1007/3540547428_73
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/MageeDEK95
+  type: paper-conference
+  author:
+  - family: Magee
+    given: Jeff
+  - family: Dulay
+    given: Naranker
+  - family: Eisenbach
+    given: Susan
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Specifying distributed software architectures
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-153'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_12
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/IdriGI98
+  type: paper-conference
+  author:
+  - family: Idri
+    given: A.
+  - family: Griech
+    given: B.
+  - family: Iraki
+    given: A. El
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Towards an adaptation of the cOCOMO cost model to the software measurement
+    theory
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '525-526'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267932
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/DiniBM98
+  type: paper-conference
+  author:
+  - family: Dini
+    given: Petre
+  - family: Belkhelladi
+    given: Amina
+  - family: Melo
+    given: Walcélio L.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Formalizing software architectures: An industrial experience'
+  title-short: Formalizing software architectures
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '527-529'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267933
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Rushby98
+  type: paper-conference
+  author:
+  - family: Rushby
+    given: John M.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Subtypes for specifications
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '4-19'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267898
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Oswald87
+  type: paper-conference
+  author:
+  - family: Oswald
+    given: Heinz
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'PantaPM: An integrated software development environment'
+  title-short: PantaPM
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '12-20'
+  volume: '289'
+  DOI: 10.1007/BFb0022094
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/TaiC95
+  type: paper-conference
+  author:
+  - family: Tai
+    given: Kuo-Chung
+  - family: Carver
+    given: Richard H.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: A specification-based methology for testing concurrent programs
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-172'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_13
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/EnselmeBV87
+  type: paper-conference
+  author:
+  - family: Enselme
+    given: Daniel
+  - family: Benay
+    given: Gérard
+  - family: Villemin
+    given: F.-Y.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Automatic program synthesis from data structures
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '339-347'
+  volume: '289'
+  DOI: 10.1007/BFb0022126
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Fuggetta91
+  type: paper-conference
+  author:
+  - family: Fuggetta
+    given: Alfonso
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Panel presentation
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '465-467'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Dix89
+  type: paper-conference
+  author:
+  - family: Dix
+    given: Alan J.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Software engineering implications for formal refinement
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-259'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/RobillardM99
+  type: paper-conference
+  author:
+  - family: Robillard
+    given: Martin P.
+  - family: Murphy
+    given: Gail C.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Analyzing exception flow in java programs
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '322-327'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319251
+  DOI: 10.1007/3-540-48166-4_20
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/HonidenUI91
+  type: paper-conference
+  author:
+  - family: Honiden
+    given: Shinichi
+  - family: Uchihira
+    given: Naoshi
+  - family: Itoh
+    given: Kiyoshi
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: An application of artifical intelligence to prototyping process in performance
+    design for real-time systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-209'
+  volume: '550'
+  DOI: 10.1007/3540547428_49
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Choppy87
+  type: paper-conference
+  author:
+  - family: Choppy
+    given: Christine
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Formal specifications, prototyping and integration tests
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '172-179'
+  volume: '289'
+  DOI: 10.1007/BFb0022110
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Obst87
+  type: paper-conference
+  author:
+  - family: Obst
+    given: Wolfgang
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Delta technique and string-to-string correction
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '64-68'
+  volume: '289'
+  DOI: 10.1007/BFb0022099
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/CurrieFC87
+  type: paper-conference
+  author:
+  - family: Currie
+    given: Ian F.
+  - family: Foster
+    given: J. M.
+  - family: Core
+    given: P. W.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'Ten15: An abstract machine for portable environments'
+  title-short: Ten15
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-148'
+  volume: '289'
+  DOI: 10.1007/BFb0022107
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/TichyN87
+  type: paper-conference
+  author:
+  - family: Tichy
+    given: Walter F.
+  - family: Newbery
+    given: Frances J.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Knowledge-based editors for directed graphs
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-109'
+  volume: '289'
+  DOI: 10.1007/BFb0022103
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/MeyerNM87
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Bertrand
+  - family: Nerson
+    given: Jean-Marc
+  - family: Matsuo
+    given: Masanobu
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'EIFFEL: Object-oriented design for software engineering'
+  title-short: EIFFEL
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-229'
+  volume: '289'
+  DOI: 10.1007/BFb0022115
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Gottler89
+  type: paper-conference
+  author:
+  - family: Göttler
+    given: Herbert
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Graph grammars, a new paradigm for implementing visual languages
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '336-350'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Thomas93
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Ian
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Observations on object management systems and process support in environments
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '197-212'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_14
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/WermelingerF99
+  type: paper-conference
+  author:
+  - family: Wermelinger
+    given: Michel
+  - family: Fiadeiro
+    given: José Luiz
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Algebraic software architecture reconfiguration
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '393-409'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319256
+  DOI: 10.1007/3-540-48166-4_24
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/Shutt89
+  type: paper-conference
+  author:
+  - family: Shutt
+    given: R. N.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: A rigorous development strategy using the oBJ specification language and
+    the mALPAS program analysis tools
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '260-291'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/BlackSLL87
+  type: paper-conference
+  author:
+  - family: Black
+    given: W. J.
+  - family: Sutcliffe
+    given: Alistair G.
+  - family: Loucopoulos
+    given: Pericles
+  - family: Layzell
+    given: Paul J.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Translation between pragmatic software development methods
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357-365'
+  volume: '289'
+  DOI: 10.1007/BFb0022128
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Coutaz91
+  type: paper-conference
+  author:
+  - family: Coutaz
+    given: Joëlle
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Architectural design for user interfaces
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '7-22'
+  volume: '550'
+  DOI: 10.1007/3540547428_40
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/LandesS95
+  type: paper-conference
+  author:
+  - family: Landes
+    given: Dieter
+  - family: Studer
+    given: Rudi
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: The treatment of non-functional requirements in mIKE
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-306'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_21
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/PerryS93
+  type: paper-conference
+  author:
+  - family: Perry
+    given: Dewayne E.
+  - family: Stieg
+    given: Carol S.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Software faults in evolving a large, real-time system: A case study'
+  title-short: Software faults in evolving a large, real-time system
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-67'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_5
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Hruschka87
+  type: paper-conference
+  author:
+  - family: Hruschka
+    given: Peter
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: ProMod at the age of 5
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288-296'
+  volume: '289'
+  DOI: 10.1007/BFb0022121
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/NiskierMS89
+  type: paper-conference
+  author:
+  - family: Niskier
+    given: Celso
+  - family: Maibaum
+    given: T. S. E.
+  - family: Schwabe
+    given: Daniel
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: A pluralistic knowledge-based approach to software specification
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '411-423'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/TuyaSC95
+  type: paper-conference
+  author:
+  - family: Tuya
+    given: Javier
+  - family: Sánchez
+    given: Luciano
+  - family: Corrales
+    given: José A.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Using a symbolic model checker for verify safety properties in sA/RT models
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-75'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_7
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/FranceD89
+  type: paper-conference
+  author:
+  - family: France
+    given: Robert B.
+  - family: Docker
+    given: Thomas W. G.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Formal specification using structured systems analysis
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-310'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/RepsBDL98
+  type: paper-conference
+  author:
+  - family: Reps
+    given: Thomas W.
+  - family: Ball
+    given: Thomas
+  - family: Das
+    given: Manuvir
+  - family: Larus
+    given: James R.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: The use of program profiling for software maintenance with applications to
+    the year 2000 problem
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '432-449'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267925
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/PiccoRM98
+  type: paper-conference
+  author:
+  - family: Picco
+    given: Gian Pietro
+  - family: Roman
+    given: Gruia-Catalin
+  - family: McCann
+    given: Peter J.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Expressing code mobility in mobile uNITY
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '500-518'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267929
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/BarghoutiK91
+  type: paper-conference
+  author:
+  - family: Barghouti
+    given: Naser S.
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Scaling up rule-based software development environments
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '380-395'
+  volume: '550'
+  DOI: 10.1007/3540547428_59
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/KopetzZFKPS91
+  type: paper-conference
+  author:
+  - family: Kopetz
+    given: Hermann
+  - family: Zainlinger
+    given: Ralph
+  - family: Fohler
+    given: Gerhard
+  - family: Kantz
+    given: Heinz
+  - family: Puschner
+    given: Peter P.
+  - family: Schütz
+    given: Werner
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: An engineering approach to hard real-time system design
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-188'
+  volume: '550'
+  DOI: 10.1007/3540547428_48
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/KamstiesL95
+  type: paper-conference
+  author:
+  - family: Kamsties
+    given: Erik
+  - family: Lott
+    given: Christopher M.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: An empirical evaluation of three defect-detection techniques
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '362-383'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_25
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/BreitenederM93
+  type: paper-conference
+  author:
+  - family: Breiteneder
+    given: Christian
+  - family: Mück
+    given: Thomas A.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Process programming with active and passive components
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '466-482'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_31
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Poncet87
+  type: paper-conference
+  author:
+  - family: Poncet
+    given: Fernand
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'SADL: A software development environment for software specification, design
+    and programming'
+  title-short: SADL
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-11'
+  volume: '289'
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/JahnkeSZ98
+  type: paper-conference
+  author:
+  - family: Jahnke
+    given: Jens H.
+  - family: Schäfer
+    given: Wilhelm
+  - family: Zündorf
+    given: Albert
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Generic fuzzy reasoning nets as a basis for reverse engineering relational
+    database applications
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '193-210'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267911
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/HeimdahlW98
+  type: paper-conference
+  author:
+  - family: Heimdahl
+    given: Mats Per Erik
+  - family: Whalen
+    given: Michael W.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Reduction and slicing of hierarchical state machines
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '450-467'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267926
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Craigen87
+  type: paper-conference
+  author:
+  - family: Craigen
+    given: Dan
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Strengths and weaknesses of program verification systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '396-404'
+  volume: '289'
+  DOI: 10.1007/BFb0022132
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/LiuRE93
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Lulu
+  - family: Robson
+    given: David J.
+  - family: Ellis
+    given: Rod
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: A regression testing database model
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-174'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_12
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Obbink98
+  type: paper-conference
+  author:
+  - family: Obbink
+    given: J. Henk
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Analysis of software architectures in high and low volume electronic systems,
+    industrial experience report
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '523-524'
+  volume: '1301'
+  DOI: 10.1007/3-540-63531-9_36
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Frasca91
+  type: paper-conference
+  author:
+  - family: Frasca
+    given: Valente
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: The production of software in the fINSIEL group
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '468-471'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/England87
+  type: paper-conference
+  author:
+  - family: England
+    given: David
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: A user interface design tool
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '110-117'
+  volume: '289'
+  DOI: 10.1007/BFb0022104
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/FastenbauerS89
+  type: paper-conference
+  author:
+  - family: Fastenbauer
+    given: Michael
+  - family: Saria
+    given: Heinz
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: HCDM/GSDS - a design environment for real-time software with automatic program
+    generation
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-335'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Coen-PorisiniKM95
+  type: paper-conference
+  author:
+  - family: Coen-Porisini
+    given: Alberto
+  - family: Kemmerer
+    given: Richard A.
+  - family: Mandrioli
+    given: Dino
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: A formal framework for aSTRAL inter-level proof obligations
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-108'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_9
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Szwillus87
+  type: paper-conference
+  author:
+  - family: Szwillus
+    given: Gerd
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Using data flow specifications and interactive editing in the operating system
+    user interface
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-157'
+  volume: '289'
+  DOI: 10.1007/BFb0022108
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/JarzabekK99
+  type: paper-conference
+  author:
+  - family: Jarzabek
+    given: Stan
+  - family: Knauber
+    given: Peter
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Synergy between component-based and generative approaches
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '429-445'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319260
+  DOI: 10.1007/3-540-48166-4_26
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/PerryV98
+  type: paper-conference
+  author:
+  - family: Perry
+    given: Dewayne E.
+  - family: Votta
+    given: Lawrence G.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: The tale of two projects - abstract
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '521-522'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267931
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/FradetMP99
+  type: paper-conference
+  author:
+  - family: Fradet
+    given: Pascal
+  - family: Métayer
+    given: Daniel Le
+  - family: Périn
+    given: Michaël
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Consistency checking for multiple view software architectures
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '410-428'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319258
+  DOI: 10.1007/3-540-48166-4_25
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/1995
+  type: book
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 5th european software engineering conference, sitges, spain, september 25-28,
+    1995, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '989'
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Buxton93
+  type: paper-conference
+  author:
+  - family: Buxton
+    given: J. N.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: On the decline of classical programming
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-9'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_1
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/FloydRS89
+  type: paper-conference
+  author:
+  - family: Floyd
+    given: Christiane
+  - family: Reisin
+    given: Fanny-Michaela
+  - family: Schmidt
+    given: Gerhard
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: STEPS to software development with users
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-64'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/AlborghettiGM98
+  type: paper-conference
+  author:
+  - family: Alborghetti
+    given: Andrea
+  - family: Gargantini
+    given: Angelo
+  - family: Morzenti
+    given: Angelo
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Providing automated support to deductive analysis of time critical systems
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '211-226'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267912
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/JengC93
+  type: paper-conference
+  author:
+  - family: Jeng
+    given: Jun-Jang
+  - family: Cheng
+    given: Betty H. C.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Using formal methods to construct a software component library
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '397-417'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_27
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/AdamsWT89
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Rolf
+  - family: Weinert
+    given: Annette
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Software change dynamics or half of all ada compilations are redundant
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-221'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Boehm89
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Barry W.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Software risk management
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Maibaum98
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'What we teach software engineers in the university: Do we take engineering
+    seriously?'
+  title-short: What we teach software engineers in the university
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-50'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267900
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Donzeau-GougeDFJ87
+  type: paper-conference
+  author:
+  - family: Donzeau-Gouge
+    given: Véronique
+  - family: Dubois
+    given: Catherine
+  - family: Facon
+    given: Philippe
+  - family: Jean
+    given: F.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Development of a programming environment for setl
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-32'
+  volume: '289'
+  DOI: 10.1007/BFb0022095
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/KrishnamurthyB93
+  type: paper-conference
+  author:
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Barghouti
+    given: Naser S.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: 'Provence: A process visualisation and enactment environment'
+  title-short: Provence
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '451-465'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_30
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Gafni99
+  type: paper-conference
+  author:
+  - family: Gafni
+    given: Vered
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Robots: A real-time systems architectural style'
+  title-short: Robots
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-74'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318786
+  DOI: 10.1007/3-540-48166-4_5
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/BayerGWDA99
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: Joachim
+  - family: Girard
+    given: Jean-Francois
+  - family: Würthner
+    given: Martin
+  - family: DeBaud
+    given: Jean-Marc
+  - family: Apel
+    given: Martin
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Transitioning legacy assets to a product line architecture
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '446-463'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319262
+  DOI: 10.1007/3-540-48166-4_27
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/DickL91
+  type: paper-conference
+  author:
+  - family: Dick
+    given: Jeremy
+  - family: Loubersac
+    given: Jérôme
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Integrating structured and formal methods: A visual approach to vDM'
+  title-short: Integrating structured and formal methods
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-59'
+  volume: '550'
+  DOI: 10.1007/3540547428_42
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/DucasseR98
+  type: paper-conference
+  author:
+  - family: Ducasse
+    given: Stéphane
+  - family: Richner
+    given: Tamar
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Executable connectors: Towards reusable design elements'
+  title-short: Executable connectors
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '483-499'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267928
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/LandSJ98
+  type: paper-conference
+  author:
+  - family: Land
+    given: Lesley Pek Wee
+  - family: Sauer
+    given: Chris
+  - family: Jeffery
+    given: D. Ross
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: 'Validating the defect detection performance advantage of group designs
+    for software reviews: Report of a laboratory experiment using program code'
+  title-short: Validating the defect detection performance advantage of group designs
+    for software reviews
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-309'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267917
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Ebert98
+  type: paper-conference
+  author:
+  - family: Ebert
+    given: Christof
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Experiences with criticality predictions in software development
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '278-293'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267916
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/CastellS95
+  type: paper-conference
+  author:
+  - family: Castell
+    given: Núria
+  - family: Slavkova
+    given: Olga
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Metrics for quality factors in the lESD project
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '423-437'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_28
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/BelkhatirE87
+  type: paper-conference
+  author:
+  - family: Belkhatir
+    given: Noureddine
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: Software management constraints and action triggering in the adele program
+    database
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-54'
+  volume: '289'
+  DOI: 10.1007/BFb0022097
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/GhezziK91
+  type: paper-conference
+  author:
+  - family: Ghezzi
+    given: Carlo
+  - family: Kemmerer
+    given: Richard A.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'ASTRAL: An assertion language for specifying realtime systems'
+  title-short: ASTRAL
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-146'
+  volume: '550'
+  DOI: 10.1007/3540547428_46
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/BaldassariBRZ89
+  type: paper-conference
+  author:
+  - family: Baldassari
+    given: Marco
+  - family: Bruno
+    given: Giorgio
+  - family: Russi
+    given: Vincenzo
+  - family: Zompi
+    given: Roberto
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: PROTOB - a hierarchical object-oriented cASE tool for distributed systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '424-445'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Feather91
+  type: paper-conference
+  author:
+  - family: Feather
+    given: Martin S.
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: Requirements engineering - getting right from wrong
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '485-488'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/LieDCKHH89
+  type: paper-conference
+  author:
+  - family: Lie
+    given: Anund
+  - family: Didriksen
+    given: Tor
+  - family: Conradi
+    given: Reidar
+  - family: Karlsson
+    given: Even-André
+  - family: Hallsteinsen
+    given: Svein O.
+  - family: Holager
+    given: Per
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Change oriented versioning
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-202'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/GarzottoGMM87
+  type: paper-conference
+  author:
+  - family: Garzotto
+    given: Franca
+  - family: Ghezzi
+    given: Carlo
+  - family: Mandrioli
+    given: Dino
+  - family: Morzenti
+    given: Angelo
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: On the specification of real-time systems using logic programming
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-190'
+  volume: '289'
+  DOI: 10.1007/BFb0022111
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/ChangR99
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Juei
+  - family: Richardson
+    given: Debra J.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'Structural specification-based testing: Automated support and experimental
+    evaluation'
+  title-short: Structural specification-based testing
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-302'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318948
+  DOI: 10.1007/3-540-48166-4_18
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/GrawG95
+  type: paper-conference
+  author:
+  - family: Graw
+    given: Günter
+  - family: Gruhn
+    given: Volker
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: Distributed modeling and distributed enaction of business processes
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '8-27'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_4
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Cederling93
+  type: paper-conference
+  author:
+  - family: Cederling
+    given: Ulf
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Industrial software development - a case study
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '226-237'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_16
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/Kemmerer98
+  type: paper-conference
+  author:
+  - family: Kemmerer
+    given: Richard A.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Security issues in distributed software
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '52-59'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267902
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/Lang91
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Bernard
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'CASE support for the software process: Advances and problems'
+  title-short: CASE support for the software process
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '512-515'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Spafford89
+  type: paper-conference
+  author:
+  - family: Spafford
+    given: Eugene H.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: The internet worm incident
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '446-468'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Armenise89
+  type: paper-conference
+  author:
+  - family: Armenise
+    given: Pasquale
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: 'Software process machines: A framework for future software development
+    environments'
+  title-short: Software process machines
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-139'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Laprie87
+  type: paper-conference
+  author:
+  - family: Laprie
+    given: Jean-Claude
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: The dependability approach to critical computing systems
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '233-243'
+  volume: '289'
+  DOI: 10.1007/BFb0022116
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/Beeck93
+  type: paper-conference
+  author:
+  - family: Beeck
+    given: Michael
+    dropping-particle: von der
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: Integration of structured analysis and timed statecharts for real-time and
+    concurrency specification
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-328'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_22
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/BarghoutiKC95
+  type: paper-conference
+  author:
+  - family: Barghouti
+    given: Naser S.
+  - family: Koutsofios
+    given: Eleftherios
+  - family: Cohen
+    given: Edith
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'Improvise: Interactive multimedia process visualization environment'
+  title-short: Improvise
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-43'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_5
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/GrimaudLV99
+  type: paper-conference
+  author:
+  - family: Grimaud
+    given: Gilles
+  - family: Lanet
+    given: Jean-Louis
+  - family: Vandewalle
+    given: Jean-Jacques
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: 'FACADE: A typed intermediate language dedicated to smart cards'
+  title-short: FACADE
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '476-493'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=319265
+  DOI: 10.1007/3-540-48166-4_29
+  ISBN: '3-540-66538-2'
+
+- id: conf/esec/TuyaSZC93
+  type: paper-conference
+  author:
+  - family: Tuya
+    given: Javier
+  - family: Sánchez
+    given: Luciano
+  - family: Zurita
+    given: R.
+  - family: Corrales
+    given: José A.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1993'
+  title: A pragmatic task design approach based on a ward/Mellor real-time structured
+    specification
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-312'
+  volume: '717'
+  DOI: 10.1007/3-540-57209-0_21
+  ISBN: '3-540-57209-0'
+
+- id: conf/esec/MedvidovicT98
+  type: paper-conference
+  author:
+  - family: Medvidovic
+    given: Nenad
+  - family: Taylor
+    given: Richard N.
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: A framework for classifying and comparing architecture description languages
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-76'
+  volume: '1301'
+  URL: http://doi.acm.org/10.1145/267895.267903
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/ManfrediOT89
+  type: paper-conference
+  author:
+  - family: Manfredi
+    given: F.
+  - family: Orlando
+    given: G.
+  - family: Tortorici
+    given: P.
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: An object-oriented approach to the system analysis
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '395-410'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/1997
+  type: book
+  editor:
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1997'
+  title: Software engineering - eSEC/FSE ’97, 6th european software engineering conference
+    held jointly with the 5th aCM sIGSOFT symposium on foundations of software engineering,
+    zurich, switzerland, september 22-25, 1997, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1301'
+  ISBN: '3-540-63531-9'
+
+- id: conf/esec/CollinsEGGT91
+  type: paper-conference
+  author:
+  - family: Collins
+    given: Tim
+  - family: Ewert
+    given: Kevin
+  - family: Gerety
+    given: Colin
+  - family: Gustafson
+    given: Jon
+  - family: Thomas
+    given: Ian
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: 'Tickle: Object-oriented description and composition services for software
+    engineering environments'
+  title-short: Tickle
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '409-423'
+  volume: '550'
+  DOI: 10.1007/3540547428_61
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/Hruschka91
+  type: paper-conference
+  author:
+  - family: Hruschka
+    given: Peter
+  editor:
+  - family: Lamsweerde
+    given: Axel
+    dropping-particle: van
+  issued:
+  - year: '1991'
+  title: CASE support for the software process
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '497-498'
+  volume: '550'
+  ISBN: '3-540-54742-8'
+
+- id: conf/esec/RaitherO87
+  type: paper-conference
+  author:
+  - family: Raither
+    given: Barbara
+  - family: Osterweil
+    given: Leon J.
+  editor:
+  - family: Nichols
+    given: Howard K.
+  issued:
+  - year: '1987'
+  title: 'TRICS: A testing tool for c'
+  title-short: TRICS
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-262'
+  volume: '289'
+  DOI: 10.1007/BFb0022118
+  ISBN: 3-540-18712-X
+
+- id: conf/esec/WirsingHS89
+  type: paper-conference
+  author:
+  - family: Wirsing
+    given: Martin
+  - family: Hennicker
+    given: Rolf
+  - family: Stabl
+    given: Robert
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: MENU - an example for the systematic reuse of specifications
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-41'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/HsiaHKY95
+  type: paper-conference
+  author:
+  - family: Hsia
+    given: Pei
+  - family: Hsu
+    given: Chih-Tung
+  - family: Kung
+    given: David Chenho
+  - family: Yaung
+    given: Alan T.
+  editor:
+  - family: Schäfer
+    given: Wilhelm
+  issued:
+  - year: '1995'
+  title: 'The impact of incremental delivery on maintenance effort: An analytical
+    study'
+  title-short: The impact of incremental delivery on maintenance effort
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-422'
+  volume: '989'
+  DOI: 10.1007/3-540-60406-5_27
+  ISBN: '3-540-60406-5'
+
+- id: conf/esec/Hausen89
+  type: paper-conference
+  author:
+  - family: Hausen
+    given: Hans-Ludwig
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: Rule-based handling of software quality and productivity models
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '376-394'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/Wordsworth89
+  type: paper-conference
+  author:
+  - family: Wordsworth
+    given: John
+  editor:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1989'
+  title: 'Practical experience of formal specification: A programming interface
+    for communications'
+  title-short: Practical experience of formal specification
+  container-title: ESEC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-158'
+  volume: '387'
+  ISBN: '3-540-51635-2'
+
+- id: conf/esec/ThompsonHM99
+  type: paper-conference
+  author:
+  - family: Thompson
+    given: Jeffrey M.
+  - family: Heimdahl
+    given: Mats Per Erik
+  - family: Miller
+    given: Steven P.
+  editor:
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '1999'
+  title: Specification-based prototyping for embedded systems
+  container-title: ESEC / sIGSOFT fSE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-179'
+  volume: '1687'
+  URL: http://dl.acm.org/citation.cfm?id=318940
+  DOI: 10.1007/3-540-48166-4_11
+  ISBN: '3-540-66538-2'
+...

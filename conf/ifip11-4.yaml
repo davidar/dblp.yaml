@@ -1,0 +1,965 @@
+---
+references:
+- id: conf/ifip11-4/OrtolaniCCP10
+  type: paper-conference
+  author:
+  - family: Ortolani
+    given: Stefano
+  - family: Conti
+    given: Mauro
+  - family: Crispo
+    given: Bruno
+  - family: Pietro
+    given: Roberto Di
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Event handoff unobservability in wSN
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-28'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_3
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/DjambazovaADJ10
+  type: paper-conference
+  author:
+  - family: Djambazova
+    given: Edita
+  - family: Almgren
+    given: Magnus
+  - family: Dimitrov
+    given: Kiril
+  - family: Jonsson
+    given: Erland
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Emerging and future cyber threats to critical systems
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-46'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_4
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/PhanAWP10
+  type: paper-conference
+  author:
+  - family: Phan
+    given: Raphael C.-W.
+  - family: Amran
+    given: Ahmad Roshidi
+  - family: Whitley
+    given: John N.
+  - family: Parish
+    given: David J.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Evidential notions of defensibility and admissibility with property preservation
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-139'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_12
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/BiedermannK11
+  type: paper-conference
+  author:
+  - family: Biedermann
+    given: Sebastian
+  - family: '0001'
+    given: Stefan Katzenbeisser
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Detecting computer worms in the cloud
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-54'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_4
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/2009
+  type: book
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: INetSec 2009 - open research problems in network security - iFIP wG 11.4
+    international workshop, zurich, switzerland, april 23-24, 2009, revised selected
+    papers
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/PeetersKP09
+  type: paper-conference
+  author:
+  - family: Peeters
+    given: Roel
+  - family: Kohlweiss
+    given: Markulf
+  - family: Preneel
+    given: Bart
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: 'Threshold things that think: Authorisation for resharing'
+  title-short: Threshold things that think
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '111-124'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_11
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/Solms10
+  type: paper-conference
+  author:
+  - family: Solms
+    given: Basie
+    dropping-particle: von
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: 'Securing the internet: Fact or fiction?'
+  title-short: Securing the internet
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_1
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/Seedorf09
+  type: paper-conference
+  author:
+  - family: Seedorf
+    given: Jan
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Security issues for p2P-based voice- and video-streaming applications
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '95-110'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_10
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/PhanWP10
+  type: paper-conference
+  author:
+  - family: Phan
+    given: Raphael C.-W.
+  - family: Whitley
+    given: John N.
+  - family: Parish
+    given: David J.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: 'Adversarial security: Getting to the root of the problem'
+  title-short: Adversarial security
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-55'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_5
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/JordaanS10
+  type: paper-conference
+  author:
+  - family: Jordaan
+    given: Louis
+  - family: Solms
+    given: Basie
+    dropping-particle: von
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: A biometrics-based solution to combat sIM swap fraud
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-87'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_7
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/Tchifilionova10
+  type: paper-conference
+  author:
+  - family: Tchifilionova
+    given: Vassilka
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Security and privacy implications of cloud computing - lost in the cloud
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-158'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_14
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/SunB09
+  type: paper-conference
+  author:
+  - family: Sun
+    given: San-Tsai
+  - family: Beznosov
+    given: Konstantin
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Open problems in web 2.0 user content sharing
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '37-51'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_4
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/2011
+  type: book
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2012'
+  title: Open problems in network security - iFIP wG 11.4 international workshop,
+    iNetSec 2011, lucerne, switzerland, june 9, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/PolimirovaN10
+  type: paper-conference
+  author:
+  - family: Polimirova
+    given: Dimitrina
+  - family: Nickolov
+    given: Eugene
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Real-time system for assessing the information security of computer networks
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-133'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_11
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/HeupelK11
+  type: paper-conference
+  author:
+  - family: Heupel
+    given: Marcel
+  - family: Kesdogan
+    given: Dogan
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Towards usable interfaces for proof based access rights on mobile devices
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-27'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_2
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/Kellermann10
+  type: paper-conference
+  author:
+  - family: Kellermann
+    given: Benjamin
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Open research questions of privacy-enhanced event scheduling
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-19'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_2
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/BangerterBK11
+  type: paper-conference
+  author:
+  - family: Bangerter
+    given: Endre
+  - family: Bühlmann
+    given: Stefan
+  - family: Kirda
+    given: Engin
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: 'Efficient and stealthy instruction tracing and its applications in automated
+    malware analysis: Open problems and challenges'
+  title-short: Efficient and stealthy instruction tracing and its applications in
+    automated malware analysis
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-64'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_5
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/Steinbrecher10
+  type: paper-conference
+  author:
+  - family: Steinbrecher
+    given: Sandra
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: The need for interoperable reputation systems
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-169'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_15
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/AsgharR11
+  type: paper-conference
+  author:
+  - family: Asghar
+    given: Muhammad Rizwan
+  - family: Russello
+    given: Giovanni
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Flexible and dynamic consent-capturing
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-131'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_10
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/MilutinovicDND11
+  type: paper-conference
+  author:
+  - family: Milutinovic
+    given: Milica
+  - family: Decroix
+    given: Koen
+  - family: Naessens
+    given: Vincent
+  - family: Decker
+    given: Bart De
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Commercial home assistance (eHealth) services
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-42'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_3
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/TondelN11
+  type: paper-conference
+  author:
+  - family: Tøndel
+    given: Inger Anne
+  - family: Nyre
+    given: Åsmund Ahlmann
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Towards a similarity metric for comparing machine-readable privacy policies
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-103'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_8
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/WastlundAF11
+  type: paper-conference
+  author:
+  - family: Wästlund
+    given: Erik
+  - family: Angulo
+    given: Julio
+  - family: Fischer-Hübner
+    given: Simone
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Evoking comprehensive mental models of anonymous credentials
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_1
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/KirkpatrickB09
+  type: paper-conference
+  author:
+  - family: Kirkpatrick
+    given: Michael S.
+  - family: Bertino
+    given: Elisa
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Context-dependent authentication and access control
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '63-75'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_6
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/Palazov10
+  type: paper-conference
+  author:
+  - family: Palazov
+    given: Anton
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Some technologies for information security protection in weak-controlled
+    computer systems and their applicability for eGovernment services users
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-122'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_10
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/MinierP11
+  type: paper-conference
+  author:
+  - family: Minier
+    given: Marine
+  - family: Phan
+    given: Raphael C.-W.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Energy-efficient cryptographic engineering paradigm
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-88'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_7
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/SzydlowskiEKV11
+  type: paper-conference
+  author:
+  - family: Szydlowski
+    given: Martin
+  - family: Egele
+    given: Manuel
+  - family: Kruegel
+    given: Christopher
+  - family: Vigna
+    given: Giovanni
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Challenges for dynamic analysis of iOS applications
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-77'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_6
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/AsherAP09
+  type: paper-conference
+  author:
+  - family: Asher
+    given: Craig
+  - family: Aumasson
+    given: Jean-Philippe
+  - family: Phan
+    given: Raphael C.-W.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Security and privacy preservation in human-involved networks
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '139-148'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_13
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/BussardP11
+  type: paper-conference
+  author:
+  - family: Bussard
+    given: Laurent
+  - family: Pinsdorf
+    given: Ulrich
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: 'Abstract privacy policy framework: Addressing privacy problems in sOA'
+  title-short: Abstract privacy policy framework
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-118'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_9
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/VelevZ10
+  type: paper-conference
+  author:
+  - family: Velev
+    given: Dimiter
+  - family: Zlateva
+    given: Plamena
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Cloud infrastructure security
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-148'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_13
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/PhamW09
+  type: paper-conference
+  author:
+  - family: Pham
+    given: Dang Vinh
+  - family: Wright
+    given: Joss
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Discussing anonymity metrics for mix based anonymity approaches
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '149-168'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_14
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/NaessensSLVVND09
+  type: paper-conference
+  author:
+  - family: Naessens
+    given: Vincent
+  - family: Sandikkaya
+    given: Mehmet Tahir
+  - family: Lapon
+    given: Jorn
+  - family: Verslype
+    given: Kristof
+  - family: Verhaeghe
+    given: Pieter
+  - family: Nigusse
+    given: Girma
+  - family: Decker
+    given: Bart De
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Privacy policies, tools and mechanisms of the future
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '125-138'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_12
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/IvanovTMK10
+  type: paper-conference
+  author:
+  - family: Ivanov
+    given: Veliko
+  - family: Tzaneva
+    given: Monika
+  - family: Murdjeva
+    given: Alexandra
+  - family: Kisimov
+    given: Valentin S.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Securing the core university business processes
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-116'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_9
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/BlassZ09
+  type: paper-conference
+  author:
+  - family: Blass
+    given: Erik-Oliver
+  - family: Zitterbart
+    given: Martina
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Tailored security and safety for pervasive computing
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '85-92'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_8
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/EgeleKK09
+  type: paper-conference
+  author:
+  - family: Egele
+    given: Manuel
+  - family: Kirda
+    given: Engin
+  - family: Kruegel
+    given: Christopher
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: 'Mitigating drive-by download attacks: Challenges and open problems'
+  title-short: Mitigating drive-by download attacks
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '52-62'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_5
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/ArnabMH10
+  type: paper-conference
+  author:
+  - family: Arnab
+    given: Alapan
+  - family: Martin
+    given: Tobias
+  - family: Hutchison
+    given: Andrew
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Practical experiences with purenet, a self-learning malware prevention system
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-69'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_6
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/CutilloMS09
+  type: paper-conference
+  author:
+  - family: Cutillo
+    given: Leucio Antonio
+  - family: Molva
+    given: Refik
+  - family: Strufe
+    given: Thorsten
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Leveraging social links for trust and privacy in networks
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '27-36'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_3
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/GrossS11
+  type: paper-conference
+  author:
+  - family: Groß
+    given: Stephan
+  - family: Schill
+    given: Alexander
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Towards user centric data governance and control in the cloud
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-144'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_11
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/Hernandez-CastroR09
+  type: paper-conference
+  author:
+  - family: Hernández-Castro
+    given: Carlos Javier
+  - family: Ribagorda
+    given: Arturo
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: 'Remotely telling humans and computers apart: An unsolved problem'
+  title-short: Remotely telling humans and computers apart
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '9-26'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_2
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/AsgharIRC11
+  type: paper-conference
+  author:
+  - family: Asghar
+    given: Muhammad Rizwan
+  - family: Ion
+    given: Mihaela
+  - family: Russello
+    given: Giovanni
+  - family: Crispo
+    given: Bruno
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Securing data provenance in the cloud
+  container-title: INetSeC
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-160'
+  volume: '7039'
+  DOI: 10.1007/978-3-642-27585-2_12
+  ISBN: '978-3-642-27584-5'
+
+- id: conf/ifip11-4/PhanWP09
+  type: paper-conference
+  author:
+  - family: Phan
+    given: Raphael C.-W.
+  - family: Whitley
+    given: John N.
+  - family: Parish
+    given: David J.
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: On the design of forgiving biometric security systems
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '1-8'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_1
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/BlassM09
+  type: paper-conference
+  author:
+  - family: Blass
+    given: Erik-Oliver
+  - family: Molva
+    given: Refik
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: New directions in rFID security
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '76-84'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_7
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/Cachin09
+  type: paper-conference
+  author:
+  - family: Cachin
+    given: Christian
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2009'
+  title: Rational protocols
+  container-title: INetSeC
+  collection-title: IFIP advances in information and communication technology
+  publisher: Springer
+  page: '93-94'
+  volume: '309'
+  DOI: 10.1007/978-3-642-05437-2_9
+  ISBN: '978-3-642-05436-5'
+
+- id: conf/ifip11-4/CavedonKV10
+  type: paper-conference
+  author:
+  - family: Cavedon
+    given: Ludovico
+  - family: Kruegel
+    given: Christopher
+  - family: Vigna
+    given: Giovanni
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Are bGP routers open to attack? An experiment
+  container-title: INetSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-103'
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9_8
+  ISBN: '978-3-642-19227-2'
+
+- id: conf/ifip11-4/2010
+  type: book
+  editor:
+  - family: Camenisch
+    given: Jan
+  issued:
+  - year: '2011'
+  title: Open research problems in network security - iFIP wG 11.4 international workshop,
+    iNetSec 2010, sofia, bulgaria, march 5-6, 2010, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6555'
+  DOI: 10.1007/978-3-642-19228-9
+  ISBN: '978-3-642-19227-2'
+...

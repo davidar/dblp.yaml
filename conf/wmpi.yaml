@@ -1,0 +1,425 @@
+---
+references:
+- id: conf/wmpi/EkmanS04
+  type: paper-conference
+  author:
+  - family: Ekman
+    given: Magnus
+  - family: Stenström
+    given: Per
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A case for multi-level main memory
+  container-title: WMPI
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1054943.1054944
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/Mudawar04
+  type: paper-conference
+  author:
+  - family: Mudawar
+    given: Muhamed F.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Scalable cache memory design for large-scale sMT architectures
+  container-title: WMPI
+  publisher: ACM
+  page: '65-71'
+  URL: http://doi.acm.org/10.1145/1054943.1054952
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/SomogyiWHKAF04
+  type: paper-conference
+  author:
+  - family: Somogyi
+    given: Stephen
+  - family: Wenisch
+    given: Thomas F.
+  - family: Hardavellas
+    given: Nikolaos
+  - family: Kim
+    given: Jangwoo
+  - family: Ailamaki
+    given: Anastassia
+  - family: Falsafi
+    given: Babak
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Memory coherence activity prediction in commercial workloads
+  container-title: WMPI
+  publisher: ACM
+  page: '37-45'
+  URL: http://doi.acm.org/10.1145/1054943.1054949
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/BriggsCC04
+  type: paper-conference
+  author:
+  - family: Briggs
+    given: Faye A.
+  - family: Chittor
+    given: Suresh
+  - family: Cheng
+    given: Kai
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Micro-architecture techniques in the intel e8870 scalable memory controller
+  container-title: WMPI
+  publisher: ACM
+  page: '30-36'
+  URL: http://doi.acm.org/10.1145/1054943.1054948
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/TakahashiKBTNS04
+  type: paper-conference
+  author:
+  - family: Takahashi
+    given: Chikafumi
+  - family: Kondo
+    given: Masaaki
+  - family: Boku
+    given: Taisuke
+  - family: Takahashi
+    given: Daisuke
+  - family: Nakamura
+    given: Hiroshi
+  - family: Sato
+    given: Mitsuhisa
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: 'SCIMA-sMP: On-chip memory processor architecture for sMP'
+  title-short: SCIMA-sMP
+  container-title: WMPI
+  publisher: ACM
+  page: '121-128'
+  URL: http://doi.acm.org/10.1145/1054943.1054960
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/SurendraBN04
+  type: paper-conference
+  author:
+  - family: Surendra
+    given: G.
+  - family: Banerjee
+    given: Subhasis
+  - family: Nandy
+    given: S. K.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: 'On the effectiveness of prefetching and reuse in reducing l1 data cache
+    traffic: A case study of snort'
+  title-short: On the effectiveness of prefetching and reuse in reducing l1 data cache
+    traffic
+  container-title: WMPI
+  publisher: ACM
+  page: '88-95'
+  URL: http://doi.acm.org/10.1145/1054943.1054955
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/BrockmanTKK04
+  type: paper-conference
+  author:
+  - family: Brockman
+    given: Jay B.
+  - family: Thoziyoor
+    given: Shyamkumar
+  - family: Kuntz
+    given: Shannon K.
+  - family: Kogge
+    given: Peter M.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A low cost, multithreaded processing-in-memory system
+  container-title: WMPI
+  publisher: ACM
+  page: '16-22'
+  URL: http://doi.acm.org/10.1145/1054943.1054946
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/PeriFK04
+  type: paper-conference
+  author:
+  - family: Peri
+    given: Ramesh V.
+  - family: Fernando
+    given: John
+  - family: Kolagotla
+    given: Ravi
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Addressing mode driven low power data caches for embedded processors
+  container-title: WMPI
+  publisher: ACM
+  page: '129-135'
+  URL: http://doi.acm.org/10.1145/1054943.1054961
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/HallnorR04
+  type: paper-conference
+  author:
+  - family: Hallnor
+    given: Erik G.
+  - family: Reinhardt
+    given: Steven K.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A compressed memory hierarchy using an indirect index cache
+  container-title: WMPI
+  publisher: ACM
+  page: '9-15'
+  URL: http://doi.acm.org/10.1145/1054943.1054945
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/MutluKAP04
+  type: paper-conference
+  author:
+  - family: Mutlu
+    given: Onur
+  - family: Kim
+    given: Hyesoon
+  - family: Armstrong
+    given: David N.
+  - family: Patt
+    given: Yale N.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Understanding the effects of wrong-path memory references on processor performance
+  container-title: WMPI
+  publisher: ACM
+  page: '56-64'
+  URL: http://doi.acm.org/10.1145/1054943.1054951
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/NatarajanCB04
+  type: paper-conference
+  author:
+  - family: Natarajan
+    given: Chitra
+  - family: Christenson
+    given: Bruce
+  - family: Briggs
+    given: Faye A.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A study of performance impact of memory controller features in multi-processor
+    server environment
+  container-title: WMPI
+  publisher: ACM
+  page: '80-87'
+  URL: http://doi.acm.org/10.1145/1054943.1054954
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/NakarW04
+  type: paper-conference
+  author:
+  - family: Nakar
+    given: Doron
+  - family: Weiss
+    given: Shlomo
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Selective main memory compression by identifying program phase changes
+  container-title: WMPI
+  publisher: ACM
+  page: '96-101'
+  URL: http://doi.acm.org/10.1145/1054943.1054956
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/ChihaiaG04
+  type: paper-conference
+  author:
+  - family: Chihaia
+    given: Irina
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: An analytical model for software-only main memory compression
+  container-title: WMPI
+  publisher: ACM
+  page: '107-113'
+  URL: http://doi.acm.org/10.1145/1054943.1054958
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/GalluzziBPGCV04
+  type: paper-conference
+  author:
+  - family: Galluzzi
+    given: Marco
+  - family: Beivide
+    given: Ramón
+  - family: Puente
+    given: Valentin
+  - family: Gregorio
+    given: José-Ángel
+  - family: Cristal
+    given: Adrián
+  - family: Valero
+    given: Mateo
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Evaluating kilo-instruction multiprocessors
+  container-title: WMPI
+  publisher: ACM
+  page: '72-79'
+  URL: http://doi.acm.org/10.1145/1054943.1054953
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/McCurdyF04
+  type: paper-conference
+  author:
+  - family: McCurdy
+    given: Collin
+  - family: Fischer
+    given: Charles N.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A localizing directory coherence protocol
+  container-title: WMPI
+  publisher: ACM
+  page: '23-29'
+  URL: http://doi.acm.org/10.1145/1054943.1054947
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/GabrielW04
+  type: paper-conference
+  author:
+  - family: Gabriel
+    given: Steven T.
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: The opie compiler from row-major source to morton-ordered matrices
+  container-title: WMPI
+  publisher: ACM
+  page: '136-144'
+  URL: http://doi.acm.org/10.1145/1054943.1054962
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/RaabBR04
+  type: paper-conference
+  author:
+  - family: Raab
+    given: Wolfgang
+  - family: Blüthgen
+    given: Hans-Martin
+  - family: Ramacher
+    given: Ulrich
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: A low-power memory hierarchy for a fully programmable baseband processor
+  container-title: WMPI
+  publisher: ACM
+  page: '102-106'
+  URL: http://doi.acm.org/10.1145/1054943.1054957
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/GonzalezLG04
+  type: paper-conference
+  author:
+  - family: González
+    given: José
+  - family: Latorre
+    given: Fernando
+  - family: '0001'
+    given: Antonio González
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Cache organizations for clustered microarchitectures
+  container-title: WMPI
+  publisher: ACM
+  page: '46-55'
+  URL: http://doi.acm.org/10.1145/1054943.1054950
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/2004
+  type: book
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Proceedings of the 3rd workshop on memory performance issues, in conjunction
+    with the 31st international symposium on computer architecture 2004, munich, germany,
+    june 20, 2004
+  publisher: ACM
+  ISBN: 1-59593-040-X
+
+- id: conf/wmpi/WehmeyerHM04
+  type: paper-conference
+  author:
+  - family: Wehmeyer
+    given: Lars
+  - family: Helmig
+    given: Urs
+  - family: Marwedel
+    given: Peter
+  editor:
+  - family: Carter
+    given: John B.
+  issued:
+  - year: '2004'
+  title: Compiler-optimized usage of partitioned memories
+  container-title: WMPI
+  publisher: ACM
+  page: '114-120'
+  URL: http://doi.acm.org/10.1145/1054943.1054959
+  ISBN: 1-59593-040-X
+...

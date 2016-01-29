@@ -1,0 +1,2326 @@
+---
+references:
+- id: conf/rfidsec/BernsteinL12
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Daniel J.
+  - family: Lange
+    given: Tanja
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Never trust a bunny
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-148'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_10
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/MatsuoPOY10
+  type: paper-conference
+  author:
+  - family: Matsuo
+    given: Shin’ichiro
+  - family: Phong
+    given: Le Trieu
+  - family: Ohkubo
+    given: Miyako
+  - family: Yung
+    given: Moti
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Leakage-resilient rFID authentication with forward-privacy
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-188'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_15
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/LoWC14
+  type: paper-conference
+  author:
+  - family: Lo
+    given: Nai-Wei
+  - family: Wang
+    given: I.-Fan
+  - family: Chuang
+    given: Yo-Hsuan
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: RFID multi-ownership transfer protocol in vMI environments
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '51-66'
+  volume: '12'
+  DOI: 10.3233/978-1-61499-462-6-51
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/KardasKBD11
+  type: paper-conference
+  author:
+  - family: Kardas
+    given: Süleyman
+  - family: Kiraz
+    given: Mehmet Sabir
+  - family: Bingöl
+    given: Muhammed Ali
+  - family: Demirci
+    given: Hüseyin
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: A novel rFID distance bounding protocol based on physically unclonable functions
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-93'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_6
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/Tuyls10
+  type: paper-conference
+  author:
+  - family: Tuyls
+    given: Pim
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Hardware intrinsic security
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_11
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/YehCW14
+  type: paper-conference
+  author:
+  - family: Yeh
+    given: Kuo-Hui
+  - family: Chen
+    given: YuShan
+  - family: Wang
+    given: Fan-Wei
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: An authentication scheme for ubiquitous rFID systems
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '41-50'
+  volume: '12'
+  DOI: 10.3233/978-1-61499-462-6-41
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/Trujillo-RasuaMA10
+  type: paper-conference
+  author:
+  - family: Trujillo-Rasua
+    given: Rolando
+  - family: '0002'
+    given: Benjamin Martin
+  - family: Avoine
+    given: Gildas
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: The poulidor distance-bounding protocol
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '239-257'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_19
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/ChengVMS13
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Shu
+  - family: Varadharajan
+    given: Vijay
+  - family: Mu
+    given: Yi
+  - family: Susilo
+    given: Willy
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: A secure elliptic curve based rFID ownership transfer scheme with controlled
+    delegation
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '31-43'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-31
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/KavunY10
+  type: paper-conference
+  author:
+  - family: Kavun
+    given: Elif Bilge
+  - family: Yalçin
+    given: Tolga
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: A lightweight implementation of keccak hash function for radio-frequency
+    identification applications
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '258-269'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_20
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/PapagiannopoulosV13
+  type: paper-conference
+  author:
+  - family: Papagiannopoulos
+    given: Konstantinos
+  - family: Verstegen
+    given: Aram
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Speed and size-optimized implementations of the pRESENT cipher for tiny aVR
+    devices
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-175'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_11
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/Vaudenay10
+  type: paper-conference
+  author:
+  - family: Vaudenay
+    given: Serge
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Privacy models for rFID schemes
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_6
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/ArmknechtHM14
+  type: paper-conference
+  author:
+  - family: Armknecht
+    given: Frederik
+  - family: Hamann
+    given: Matthias
+  - family: Mikhalev
+    given: Vasily
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Lightweight authentication protocols on ultra-constrained rFIDs - myths and
+    facts
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_1
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/CidFPR15
+  type: paper-conference
+  author:
+  - family: Cid
+    given: Carlos
+  - family: Ferreira
+    given: Loïc
+  - family: Procter
+    given: Gordon
+  - family: Robshaw
+    given: Matthew J. B.
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Algebraic cryptanalysis and rFID authentication
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-121'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_7
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/HermansP12
+  type: paper-conference
+  author:
+  - family: Hermans
+    given: Jens
+  - family: Peeters
+    given: Roel
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: 'Private yoking proofs: Attacks, models and new provable constructions'
+  title-short: Private yoking proofs
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-108'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_7
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/AvoineC12
+  type: paper-conference
+  author:
+  - family: Avoine
+    given: Gildas
+  - family: Carpent
+    given: Xavier
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Yet another ultralightweight authentication protocol that is broken
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-30'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_2
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/ElkhiyaouiBM12
+  type: paper-conference
+  author:
+  - family: Elkhiyaoui
+    given: Kaoutar
+  - family: Blass
+    given: Erik-Oliver
+  - family: Molva
+    given: Refik
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: 'T-match: Privacy-preserving item matching for storage-only rFID tags'
+  title-short: T-match
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-95'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_6
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/CastroPPE10
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Julio César Hernández
+  - family: Peris-Lopez
+    given: Pedro
+  - family: Phan
+    given: Raphael C.-W.
+  - family: Estévez-Tapiador
+    given: Juan M.
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Cryptanalysis of the david-prasad rFID ultralightweight authentication protocol
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-34'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_3
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/FisherH13
+  type: paper-conference
+  author:
+  - family: Fisher
+    given: Roy
+  - family: Hancke
+    given: Gerhard P.
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: SSL usage in commercial internet of things platforms
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '69-82'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-69
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/SaxenaV10
+  type: paper-conference
+  author:
+  - family: Saxena
+    given: Nitesh
+  - family: Voris
+    given: Jonathan
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: 'Still and silent: Motion detection for enhanced rFID security and privacy
+    without changing the usage model'
+  title-short: Still and silent
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2-21'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_2
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/HutterFP10
+  type: paper-conference
+  author:
+  - family: Hutter
+    given: Michael
+  - family: Feldhofer
+    given: Martin
+  - family: Plos
+    given: Thomas
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: An eCDSA processor for rFID authentication
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-202'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_16
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/KasperKOZP13
+  type: paper-conference
+  author:
+  - family: Kasper
+    given: Timo
+  - family: Kühn
+    given: Alexander
+  - family: Oswald
+    given: David
+  - family: Zenger
+    given: Christian T.
+  - family: Paar
+    given: Christof
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: 'Rights management with nFC smartphones and electronic iD cards: A proof
+    of concept for modern car sharing'
+  title-short: Rights management with nFC smartphones and electronic iD cards
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-53'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_3
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/PesslH14
+  type: paper-conference
+  author:
+  - family: Pessl
+    given: Peter
+  - family: Hutter
+    given: Michael
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Curved tags - a low-resource eCDSA implementation tailored for rFID
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-172'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_10
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/VilaR15
+  type: paper-conference
+  author:
+  - family: Vila
+    given: José
+  - family: Rodríguez
+    given: Ricardo J.
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Practical experiences on nFC relay attacks with android - virtual pickpocketing
+    revisited
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-103'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_6
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/AmariucaiBG11
+  type: paper-conference
+  author:
+  - family: Amariucai
+    given: George T.
+  - family: Bergman
+    given: Clifford
+  - family: Guan
+    given: Yong
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: An automatic, time-based, secure pairing protocol for passive rFID
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-126'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_8
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/AlizadehAABG0LS14
+  type: paper-conference
+  author:
+  - family: Alizadeh
+    given: Javad
+  - family: AlKhzaimi
+    given: Hoda
+  - family: Aref
+    given: Mohammad Reza
+  - family: Bagheri
+    given: Nasour
+  - family: Gauravaram
+    given: Praveen
+  - family: '0002'
+    given: Abhishek Kumar
+  - family: Lauridsen
+    given: Martin M.
+  - family: Sanadhya
+    given: Somitra Kumar
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Cryptanalysis of sIMON variants with connections
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-107'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_6
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/GrossP12
+  type: paper-conference
+  author:
+  - family: Groß
+    given: Hannes
+  - family: Plos
+    given: Thomas
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: On using instruction-set extensions for minimizing the hardware-implementation
+    costs of symmetric-key algorithms on a low-resource microcontroller
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-164'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_11
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/2012
+  type: book
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2013'
+  title: Radio frequency identification. security and privacy issues - 8th international
+    workshop, rFIDSec 2012, nijmegen, the netherlands, july 2-3, 2012, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/Sportiello14
+  type: paper-conference
+  author:
+  - family: Sportiello
+    given: Luigi
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: 'EPassport: Side channel in the basic access control'
+  title-short: EPassport
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-184'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_11
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/GongNL11
+  type: paper-conference
+  author:
+  - family: Gong
+    given: Zheng
+  - family: Nikova
+    given: Svetla
+  - family: Law
+    given: Yee Wei
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: 'KLEIN: A new family of lightweight block ciphers'
+  title-short: KLEIN
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_1
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/2011
+  type: book
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2012'
+  title: RFID. security and privacy - 7th international workshop, rFIDSec 2011, amherst,
+    uSA, june 26-28, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/MikamiWS13
+  type: paper-conference
+  author:
+  - family: Mikami
+    given: Shugo
+  - family: Watanabe
+    given: Dai
+  - family: Sakiyama
+    given: Kazuo
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: A comparative study of stream ciphers and hash functions for rFID authentications
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '83-94'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-83
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/KaraKBA10
+  type: paper-conference
+  author:
+  - family: Kara
+    given: Orhun
+  - family: Kardas
+    given: Süleyman
+  - family: Bingöl
+    given: Muhammed Ali
+  - family: Avoine
+    given: Gildas
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Optimal security limits of rFID distance bounding protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-238'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_18
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/KasperOP11
+  type: paper-conference
+  author:
+  - family: Kasper
+    given: Timo
+  - family: Oswald
+    given: David
+  - family: Paar
+    given: Christof
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: Side-channel analysis of cryptographic rFIDs with analog demodulation
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-77'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_5
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/LiMSGV14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Nan
+  - family: Mu
+    given: Yi
+  - family: Susilo
+    given: Willy
+  - family: Guo
+    given: Fuchun
+  - family: Varadharajan
+    given: Vijay
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Privacy-preserving authorized rFID authentication protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-122'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_7
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/WengerKK13
+  type: paper-conference
+  author:
+  - family: Wenger
+    given: Erich
+  - family: Korak
+    given: Thomas
+  - family: Kirschbaum
+    given: Mario
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Analyzing side-channel leakage of rFID-suitable lightweight eCC hardware
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-144'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_9
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/TsoCZW14
+  type: paper-conference
+  author:
+  - family: Tso
+    given: Raylin
+  - family: Chen
+    given: Chien-Ming
+  - family: Zheng
+    given: Xinying
+  - family: Wu
+    given: Mu-En
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: A new ultra-lightweight rFID authentication protocol based on physical unclonable
+    functions
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '17-28'
+  volume: '12'
+  DOI: 10.3233/978-1-61499-462-6-17
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/KumarB15
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Raghavan
+  - family: Burleson
+    given: Wayne
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Side-channel assisted modeling attacks on feed-forward arbiter pUFs using
+    silicon data
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-67'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_4
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/Sportiello12
+  type: paper-conference
+  author:
+  - family: Sportiello
+    given: Luigi
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Weakening ePassports through bad implementations
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-136'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_9
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/HolcombRSBF12
+  type: paper-conference
+  author:
+  - family: Holcomb
+    given: Daniel E.
+  - family: Rahmati
+    given: Amir
+  - family: Salajegheh
+    given: Mastooreh
+  - family: Burleson
+    given: Wayne P.
+  - family: Fu
+    given: Kevin
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: 'DRV-fingerprinting: Using data retention voltage of sRAM cells for chip
+    identification'
+  title-short: DRV-fingerprinting
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-179'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_12
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/2013a
+  type: book
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: Radio frequency identification system security - rFIDsec’13 asia workshop
+    proceedings, guangzhou, china, november 27, 2013
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  volume: '11'
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/2014a
+  type: book
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: Radio frequency identification system security - rFIDsec’14 asia workshop
+    proceedings, hualien, taiwan, november 27-28, 2014
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  volume: '12'
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/LiMSGV13
+  type: paper-conference
+  author:
+  - family: Li
+    given: Nan
+  - family: Mu
+    given: Yi
+  - family: Susilo
+    given: Willy
+  - family: Guo
+    given: Fuchun
+  - family: Varadharajan
+    given: Vijay
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: On rFID authentication protocols with wide-strong privacy
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '3-16'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-3
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/HuoYGP13
+  type: paper-conference
+  author:
+  - family: Huo
+    given: Fei
+  - family: Yang
+    given: Chouchang
+  - family: Gong
+    given: Guang
+  - family: Poovendran
+    given: Radha
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: A framework to securing rFID transmissions by varying transmitted reader’s
+    power
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '57-68'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-57
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/EngelsSSS11
+  type: paper-conference
+  author:
+  - family: Engels
+    given: Daniel W.
+  - family: Saarinen
+    given: Markku-Juhani O.
+  - family: Schweitzer
+    given: Peter
+  - family: Smith
+    given: Eric M.
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: The hummingbird-2 lightweight authenticated encryption algorithm
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-31'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_2
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/GrossWMH14
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Hannes
+  - family: Wenger
+    given: Erich
+  - family: Martín
+    given: Honorio
+  - family: Hutter
+    given: Michael
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: PIONEER - a prototype for the internet of things based on an extendable ePC
+    gen2 rFID tag
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-73'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_4
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/ChaiG11
+  type: paper-conference
+  author:
+  - family: Chai
+    given: Qi
+  - family: Gong
+    given: Guang
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: 'BUPLE: Securing passive rFID communication through physical layer enhancements'
+  title-short: BUPLE
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-146'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_9
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/MansouriD13
+  type: paper-conference
+  author:
+  - family: Mansouri
+    given: Shohreh Sharif
+  - family: Dubrova
+    given: Elena
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: An improved hardware implementation of the quark hash function
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-127'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_8
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/SafkhaniPBNC12
+  type: paper-conference
+  author:
+  - family: Safkhani
+    given: Masoumeh
+  - family: Peris-Lopez
+    given: Pedro
+  - family: Bagheri
+    given: Nasour
+  - family: Naderi
+    given: Majid
+  - family: Castro
+    given: Julio César Hernández
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: On the security of tan et al. serverless rFID authentication and search protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_1
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/LiMWOS14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Yang
+  - family: Mikami
+    given: Shugo
+  - family: Watanabe
+    given: Dai
+  - family: Ohta
+    given: Kazuo
+  - family: Sakiyama
+    given: Kazuo
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: Single-chip implementation and evaluation of passive uHF rFID tag with hash-based
+    mutual authentication
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '3-15'
+  volume: '12'
+  DOI: 10.3233/978-1-61499-462-6-3
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/BatinaSSV11
+  type: paper-conference
+  author:
+  - family: Batina
+    given: Lejla
+  - family: Seys
+    given: Stefaan
+  - family: Singelée
+    given: Dave
+  - family: Verbauwhede
+    given: Ingrid
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: Hierarchical eCC-based rFID authentication protocol
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-201'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_12
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/SportielloC13
+  type: paper-conference
+  author:
+  - family: Sportiello
+    given: Luigi
+  - family: Ciardulli
+    given: Andrea
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Long distance relay attack
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-85'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_5
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/ElkhiyaouiBM11
+  type: paper-conference
+  author:
+  - family: Elkhiyaoui
+    given: Kaoutar
+  - family: Blass
+    given: Erik-Oliver
+  - family: Molva
+    given: Refik
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: 'ROTIV: RFID ownership transfer with issuer verification'
+  title-short: ROTIV
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-182'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_11
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/HinterwalderRP15
+  type: paper-conference
+  author:
+  - family: Hinterwälder
+    given: Gesine
+  - family: Riek
+    given: Felix
+  - family: Paar
+    given: Christof
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Efficient e-cash with attributes on mULTOS smartcards
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-155'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_9
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/AkramMM13
+  type: paper-conference
+  author:
+  - family: Akram
+    given: Raja Naeem
+  - family: Markantonakis
+    given: Konstantinos
+  - family: Mayes
+    given: Keith
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: Remote attestation mechanism for embedded devices based on physical unclonable
+    functions
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '107-121'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-107
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/XuRHB15
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Xiaolin
+  - family: Rührmair
+    given: Ulrich
+  - family: Holcomb
+    given: Daniel E.
+  - family: Burleson
+    given: Wayne P.
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Security evaluation and enhancement of bistable ring pUFs
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-16'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_1
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/HinterwalderPB12
+  type: paper-conference
+  author:
+  - family: Hinterwälder
+    given: Gesine
+  - family: Paar
+    given: Christof
+  - family: Burleson
+    given: Wayne P.
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Privacy preserving payments on computational rFID devices with application
+    in intelligent transportation systems
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-122'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_8
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/FrancisHMM10
+  type: paper-conference
+  author:
+  - family: Francis
+    given: Lishoy
+  - family: Hancke
+    given: Gerhard P.
+  - family: Mayes
+    given: Keith
+  - family: Markantonakis
+    given: Konstantinos
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Practical nFC peer-to-peer relay attack using mobile phones
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-49'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_4
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/AvoineMM10
+  type: paper-conference
+  author:
+  - family: Avoine
+    given: Gildas
+  - family: '0002'
+    given: Benjamin Martin
+  - family: Martin
+    given: Tania
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Tree-based rFID authentication protocols are definitively not privacy-friendly
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-122'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_10
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/ArmknechtCSW10
+  type: paper-conference
+  author:
+  - family: Armknecht
+    given: Frederik
+  - family: Chen
+    given: Liqun
+  - family: Sadeghi
+    given: Ahmad-Reza
+  - family: Wachsmann
+    given: Christian
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Anonymous authentication for rFID systems
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-175'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_14
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/FanG13
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Xinxin
+  - family: Gong
+    given: Guang
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: Securing nFC with elliptic curve cryptography - challenges and solutions
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '97-106'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-97
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/KerschbaumO10
+  type: paper-conference
+  author:
+  - family: Kerschbaum
+    given: Florian
+  - family: Oertel
+    given: Nina
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Privacy-preserving pattern matching for anomaly detection in rFID anti-counterfeiting
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-137'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_12
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/AvoineCM10a
+  type: paper-conference
+  author:
+  - family: Avoine
+    given: Gildas
+  - family: Coisel
+    given: Iwen
+  - family: Martin
+    given: Tania
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Time measurement threatens privacy-friendly rFID authentication protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-157'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_13
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/YangFT15
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Kun
+  - family: Forte
+    given: Domenic
+  - family: Tehranipoor
+    given: Mark
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: 'ReSC: RFID-enabled supply chain management and traceability for network
+    devices'
+  title-short: ReSC
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-49'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_3
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/OzcanhanDU13
+  type: paper-conference
+  author:
+  - family: Özcanhan
+    given: Mehmet Hilal
+  - family: Dalkiliç
+    given: Gökhan
+  - family: Utku
+    given: Semih
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Is nFC a better option instead of ePC gen-2 in safe medication of inpatients
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-33'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_2
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/AlparBL12
+  type: paper-conference
+  author:
+  - family: Alpár
+    given: Gergely
+  - family: Batina
+    given: Lejla
+  - family: Lueks
+    given: Wouter
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Designated attribute-based proofs for rFID applications
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-75'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_5
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/Dietrich10
+  type: paper-conference
+  author:
+  - family: Dietrich
+    given: Kurt
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Anonymous rFID authentication using trusted computing technologies
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-102'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_9
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/AvoineCM10
+  type: paper-conference
+  author:
+  - family: Avoine
+    given: Gildas
+  - family: Carpent
+    given: Xavier
+  - family: '0002'
+    given: Benjamin Martin
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Strong authentication and strong integrity (sASI) is not that strong
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-64'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_5
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/BagheriGSS13
+  type: paper-conference
+  author:
+  - family: Bagheri
+    given: Nasour
+  - family: Gauravaram
+    given: Praveen
+  - family: Safkhani
+    given: Masoumeh
+  - family: Sanadhya
+    given: Somitra Kumar
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Desynchronization and traceability attacks on rIPTA-dA protocol
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-68'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_4
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/PabbuletiMS14
+  type: paper-conference
+  author:
+  - family: Pabbuleti
+    given: Krishna Chaitanya
+  - family: Mane
+    given: Deepak Hanamant
+  - family: Schaumont
+    given: Patrick
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Energy budget analysis for signature protocols on a self-powered wireless
+    sensor node
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-136'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_8
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/ManeS13
+  type: paper-conference
+  author:
+  - family: Mane
+    given: Deepak Hanamant
+  - family: Schaumont
+    given: Patrick
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Energy-architecture tuning for eCC-based rFID tags
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-160'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_10
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/YeCE14
+  type: paper-conference
+  author:
+  - family: Ye
+    given: Xin
+  - family: Chen
+    given: Cong
+  - family: Eisenbarth
+    given: Thomas
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Non-linear collision analysis
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-214'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_13
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/HabrakenDPR15
+  type: paper-conference
+  author:
+  - family: Habraken
+    given: René
+  - family: Dolron
+    given: Peter
+  - family: Poll
+    given: Erik
+  - family: Ruiter
+    given: Joeri
+    dropping-particle: de
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: An rFID skimming gate using higher harmonics
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-137'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_8
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/PendlPH11
+  type: paper-conference
+  author:
+  - family: Pendl
+    given: Christian
+  - family: Pelnar
+    given: Markus
+  - family: Hutter
+    given: Michael
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: Elliptic curve cryptography on the wISP uHF rFID tag
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-47'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_3
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/Fernandez-MirTCD11
+  type: paper-conference
+  author:
+  - family: Fernàndez-Mir
+    given: Albert
+  - family: Trujillo-Rasua
+    given: Rolando
+  - family: Castellà-Roca
+    given: Jordi
+  - family: Domingo-Ferrer
+    given: Josep
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: A scalable rFID authentication protocol supporting ownership transfer and
+    controlled delegation
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-162'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_10
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/Abyaneh11
+  type: paper-conference
+  author:
+  - family: Abyaneh
+    given: Mohammad Reza Sohizadeh
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: Security analysis of two distance-bounding protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-107'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_7
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/GansG10
+  type: paper-conference
+  author:
+  - family: Koning Gans
+    given: Gerhard
+    dropping-particle: de
+  - family: Garcia
+    given: Flavio D.
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: Towards a practical solution to the rFID desynchronization problem
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-219'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_17
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/TobischB15
+  type: paper-conference
+  author:
+  - family: Tobisch
+    given: Johannes
+  - family: Becker
+    given: Georg T.
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: On the scaling of machine learning attacks on pUFs with application to noise
+    bifurcation
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-31'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_2
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/KlonowskiKS13
+  type: paper-conference
+  author:
+  - family: Klonowski
+    given: Marek
+  - family: Kutylowski
+    given: Miroslaw
+  - family: Syga
+    given: Piotr
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: Chameleon rFID and tracking prevention
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '17-29'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-17
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/DeursenR10
+  type: paper-conference
+  author:
+  - family: Deursen
+    given: Ton
+    dropping-particle: van
+  - family: Radomirovic
+    given: Sasa
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: 'EC-rAC: Enriching a capacious rFID attack collection'
+  title-short: EC-rAC
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-90'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_8
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/AvoineBCK13
+  type: paper-conference
+  author:
+  - family: Avoine
+    given: Gildas
+  - family: Bingöl
+    given: Muhammed Ali
+  - family: Carpent
+    given: Xavier
+  - family: Kardas
+    given: Süleyman
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Deploying oSK on low-resource mobile devices
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-18'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_1
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/VeugenB12
+  type: paper-conference
+  author:
+  - family: Veugen
+    given: Thijs
+  - family: Beye
+    given: Michael
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Improved anonymity for key-trees
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-47'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_3
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/Papapagiannopoulos14
+  type: paper-conference
+  author:
+  - family: Papapagiannopoulos
+    given: Kostas
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: 'High throughput in slices: The case of pRESENT, pRINCE and kATAN64 ciphers'
+  title-short: High throughput in slices
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-155'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_9
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/JavaliRLJ14
+  type: paper-conference
+  author:
+  - family: Javali
+    given: Chitra
+  - family: Revadigar
+    given: Girish
+  - family: Libman
+    given: Lavy
+  - family: Jha
+    given: Sanjay
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: 'SeAK: Secure authentication and key generation protocol based on dual
+    antennas for wireless body area networks'
+  title-short: SeAK
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-89'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_5
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/BatinaHHK14
+  type: paper-conference
+  author:
+  - family: Batina
+    given: Lejla
+  - family: Hermans
+    given: Jens
+  - family: Hoepman
+    given: Jaap-Henk
+  - family: Krasnova
+    given: Anna
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: High-speed dating privacy-preserving attribute matching for rFID
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-35'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_2
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/2013
+  type: book
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: Radio frequency identification - security and privacy issues 9th international
+    workshop, rFIDsec 2013, graz, austria, july 9-11, 2013, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/BarenghiHBSRK11
+  type: paper-conference
+  author:
+  - family: Barenghi
+    given: Alessandro
+  - family: Hocquet
+    given: Cédric
+  - family: Bol
+    given: David
+  - family: Standaert
+    given: François-Xavier
+  - family: Regazzoni
+    given: Francesco
+  - family: Koren
+    given: Israel
+  editor:
+  - family: Juels
+    given: Ari
+  issued:
+  - year: '2011'
+  title: Exploring the feasibility of low cost fault injection attacks on sub-threshold
+    devices through an example of a 65nm aES implementation
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-60'
+  volume: '7055'
+  DOI: 10.1007/978-3-642-25286-0_4
+  ISBN: '978-3-642-25285-3'
+
+- id: conf/rfidsec/FigueiredoZS14
+  type: paper-conference
+  author:
+  - family: Figueiredo
+    given: Rui
+  - family: Zúquete
+    given: André
+  - family: Silva
+    given: Tomás Oliveira
+    dropping-particle: 'e'
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: Massively parallel identification of privacy-preserving vehicle rFID tags
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-53'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_3
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/Juels10
+  type: paper-conference
+  author:
+  - family: Juels
+    given: Ari
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: The physical basis of rFID security
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_1
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/Gross15
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Hannes
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Sharing is caring - on the protection of arithmetic logic units against passive
+    physical attacks
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-84'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_5
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/LiTH13
+  type: paper-conference
+  author:
+  - family: Li
+    given: Weijian
+  - family: Tang
+    given: Shaohua
+  - family: He
+    given: Daojing
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: A survey of side channel attacks on mPKCs potential for rFID
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '123-131'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-123
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/ChaCT14
+  type: paper-conference
+  author:
+  - family: Cha
+    given: Shi-Cho
+  - family: Chen
+    given: Jyun-Fu
+  - family: Tseng
+    given: Chih-Teng
+  editor:
+  - family: Lo
+    given: Nai-Wei
+  issued:
+  - year: '2014'
+  title: On privacy-preserving e-invoicing in physical channels via nFC
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '29-40'
+  volume: '12'
+  DOI: 10.3233/978-1-61499-462-6-29
+  ISBN: '978-1-61499-461-9'
+
+- id: conf/rfidsec/FanHV10
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Junfeng
+  - family: Hermans
+    given: Jens
+  - family: Vercauteren
+    given: Frederik
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: On the claimed privacy of eC-rAC iII
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-74'
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2_7
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/2014
+  type: book
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: 'Radio frequency identification: Security and privacy issues - 10th international
+    workshop, rFIDSec 2014, oxford, uK, july 21-23, 2014, revised selected papers'
+  title-short: Radio frequency identification
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8
+  ISBN: '978-3-319-13065-1'
+
+- id: conf/rfidsec/2015
+  type: book
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Radio frequency identification. security and privacy issues - 11th international
+    workshop, rFIDsec 2015, new york, nY, uSA, june 23-24, 2015, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/CavalloCKS15
+  type: paper-conference
+  author:
+  - family: Cavallo
+    given: Bren
+  - family: Crescenzo
+    given: Giovanni Di
+  - family: Kahrobaei
+    given: Delaram
+  - family: Shpilrain
+    given: Vladimir
+  editor:
+  - family: Mangard
+    given: Stefan
+  issued:
+  - year: '2015'
+  title: Efficient and secure delegation of group exponentiation to a single server
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-173'
+  volume: '9440'
+  DOI: 10.1007/978-3-319-24837-0_10
+  ISBN: '978-3-319-24836-3'
+
+- id: conf/rfidsec/KlonowskiMMZ12
+  type: paper-conference
+  author:
+  - family: Klonowski
+    given: Marek
+  - family: Majcher
+    given: Krzysztof
+  - family: Macyna
+    given: Wojciech
+  - family: Zagórski
+    given: Filip
+  editor:
+  - family: Hoepman
+    given: Jaap-Henk
+  issued:
+  - year: '2012'
+  title: Hidden bits approach for authentication in rFID systems
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-58'
+  volume: '7739'
+  DOI: 10.1007/978-3-642-36140-1_4
+  ISBN: '978-3-642-36139-5'
+
+- id: conf/rfidsec/PeetersHF13
+  type: paper-conference
+  author:
+  - family: Peeters
+    given: Roel
+  - family: Hermans
+    given: Jens
+  - family: Fan
+    given: Junfeng
+  editor:
+  - family: Ma
+    given: Changshe
+  issued:
+  - year: '2013'
+  title: 'IBIHOP: Proper privacy preserving mutual rFID authentication'
+  title-short: IBIHOP
+  container-title: RFIDSec asia
+  collection-title: Cryptology and information security series
+  publisher: IOS Press
+  page: '45-56'
+  volume: '11'
+  DOI: 10.3233/978-1-61499-328-5-45
+  ISBN: '978-1-61499-327-8'
+
+- id: conf/rfidsec/2010
+  type: book
+  editor:
+  - family: Yalcin
+    given: Siddika Berna Ors
+  issued:
+  - year: '2010'
+  title: 'Radio frequency identification: Security and privacy issues - 6th international
+    workshop, rFIDSec 2010, istanbul, turkey, june 8-9, 2010, revised selected papers'
+  title-short: Radio frequency identification
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6370'
+  DOI: 10.1007/978-3-642-16822-2
+  ISBN: '978-3-642-16821-5'
+
+- id: conf/rfidsec/BatinaDEKMPVY13
+  type: paper-conference
+  author:
+  - family: Batina
+    given: Lejla
+  - family: Das
+    given: Amitabh
+  - family: Ege
+    given: Baris
+  - family: Kavun
+    given: Elif Bilge
+  - family: Mentens
+    given: Nele
+  - family: Paar
+    given: Christof
+  - family: Verbauwhede
+    given: Ingrid
+  - family: Yalçin
+    given: Tolga
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: 'Dietary recommendations for lightweight block ciphers: Power, energy and
+    area analysis of recently developed architectures'
+  title-short: Dietary recommendations for lightweight block ciphers
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-112'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_7
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/AghiliBGSS13
+  type: paper-conference
+  author:
+  - family: Aghili
+    given: Seyed Farhad
+  - family: Bagheri
+    given: Nasour
+  - family: Gauravaram
+    given: Praveen
+  - family: Safkhani
+    given: Masoumeh
+  - family: Sanadhya
+    given: Somitra Kumar
+  editor:
+  - family: Hutter
+    given: Michael
+  issued:
+  - year: '2013'
+  title: On the security of two rFID mutual authentication protocols
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-99'
+  volume: '8262'
+  DOI: 10.1007/978-3-642-41332-2_6
+  ISBN: '978-3-642-41331-5'
+
+- id: conf/rfidsec/WeinerMS14
+  type: paper-conference
+  author:
+  - family: Weiner
+    given: Michael
+  - family: Manich
+    given: Salvador
+  - family: Sigl
+    given: Georg
+  editor:
+  - family: Saxena
+    given: Nitesh
+  issued:
+  - year: '2014'
+  title: A low area probing detector for power efficient security iCs
+  container-title: RFIDSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '185-197'
+  volume: '8651'
+  DOI: 10.1007/978-3-319-13066-8_12
+  ISBN: '978-3-319-13065-1'
+...

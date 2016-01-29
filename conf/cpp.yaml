@@ -1,0 +1,2346 @@
+---
+references:
+- id: conf/cpp/BlazyT16
+  type: paper-conference
+  author:
+  - family: Blazy
+    given: Sandrine
+  - family: Trieu
+    given: Alix
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Formal verification of control-flow graph flattening
+  container-title: CPP
+  publisher: ACM
+  page: '176-187'
+  URL: http://doi.acm.org/10.1145/2854065.2854082
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Friedman16
+  type: paper-conference
+  author:
+  - family: Friedman
+    given: Harvey M.
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Perspectives on formal verification (invited talk)
+  container-title: CPP
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2854065.2858808
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Vafeiadis15
+  type: paper-conference
+  author:
+  - family: Vafeiadis
+    given: Viktor
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Formal reasoning about the c11 weak memory model
+  container-title: CPP
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2676724.2693181
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Eberl15
+  type: paper-conference
+  author:
+  - family: Eberl
+    given: Manuel
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A decision procedure for univariate real polynomials in isabelle/HOL
+  container-title: CPP
+  publisher: ACM
+  page: '75-83'
+  URL: http://doi.acm.org/10.1145/2676724.2693166
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/DoczkalS11
+  type: paper-conference
+  author:
+  - family: Doczkal
+    given: Christian
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Constructive formalization of hybrid logic with eventualities
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '5-20'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_3
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Bell13
+  type: paper-conference
+  author:
+  - family: Bell
+    given: Christian J.
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Certifiably sound parallelizing transformations
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '227-242'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_15
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/PfenningCT11
+  type: paper-conference
+  author:
+  - family: Pfenning
+    given: Frank
+  - family: Caires
+    given: Luís
+  - family: Toninho
+    given: Bernardo
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Proof-carrying code in a session-typed process calculus
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-36'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_4
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Czajka16
+  type: paper-conference
+  author:
+  - family: Czajka
+    given: Lukasz
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Improving automation in interactive theorem provers by efficient encoding
+    of lambda-abstractions
+  container-title: CPP
+  publisher: ACM
+  page: '49-57'
+  URL: http://doi.acm.org/10.1145/2854065.2854069
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/HuffmanK13
+  type: paper-conference
+  author:
+  - family: Huffman
+    given: Brian
+  - family: Kuncar
+    given: Ondrej
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: 'Lifting and transfer: A modular design for quotients in isabelle/HOL'
+  title-short: Lifting and transfer
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-146'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_9
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/SchroppP13
+  type: paper-conference
+  author:
+  - family: Schropp
+    given: Andreas
+  - family: '0001'
+    given: Andrei Popescu
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Nonfree datatypes in isabelle/HOL - animating a many-sorted metatheory
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-130'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_8
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/BernardBRS16
+  type: paper-conference
+  author:
+  - family: Bernard
+    given: Sophie
+  - family: Bertot
+    given: Yves
+  - family: Rideau
+    given: Laurence
+  - family: Strub
+    given: Pierre-Yves
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Formal proofs of transcendence for e and pi as an application of multivariate
+    and symmetric polynomials
+  container-title: CPP
+  publisher: ACM
+  page: '76-87'
+  URL: http://doi.acm.org/10.1145/2854065.2854072
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Voevodsky11
+  type: paper-conference
+  author:
+  - family: Voevodsky
+    given: Vladimir
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Univalent semantics of constructive type theories
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_7
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Moura16
+  type: paper-conference
+  author:
+  - family: Moura
+    given: Leonardo Mendonça
+    dropping-particle: de
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Dependent type practice (invited talk)
+  container-title: CPP
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2854065.2858809
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/CaoFF15
+  type: paper-conference
+  author:
+  - family: Cao
+    given: Jingyuan
+  - family: Fu
+    given: Ming
+  - family: Feng
+    given: Xinyu
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Practical tactics for verifying c programs in coq
+  container-title: CPP
+  publisher: ACM
+  page: '97-108'
+  URL: http://doi.acm.org/10.1145/2676724.2693162
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/CohenD16
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Cyril
+  - family: Djalal
+    given: Boris
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Formalization of a newton series representation of polynomials
+  container-title: CPP
+  publisher: ACM
+  page: '100-109'
+  URL: http://doi.acm.org/10.1145/2854065.2854075
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/WoosWATEA16
+  type: paper-conference
+  author:
+  - family: Woos
+    given: Doug
+  - family: Wilcox
+    given: James R.
+  - family: Anton
+    given: Steve
+  - family: Tatlock
+    given: Zachary
+  - family: Ernst
+    given: Michael D.
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Planning for change in a formal verification of the raft consensus protocol
+  container-title: CPP
+  publisher: ACM
+  page: '154-165'
+  URL: http://doi.acm.org/10.1145/2854065.2854081
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Thiemann016
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: René
+  - family: '0002'
+    given: Akihisa Yamada
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Formalizing jordan normal forms in isabelle/HOL
+  container-title: CPP
+  publisher: ACM
+  page: '88-99'
+  URL: http://doi.acm.org/10.1145/2854065.2854073
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/ShiMTB11
+  type: paper-conference
+  author:
+  - family: Shi
+    given: Xiaomu
+  - family: Monin
+    given: Jean-François
+  - family: Tuong
+    given: Frédéric
+  - family: Blanqui
+    given: Frédéric
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: First steps towards the certification of an aRM simulator using compcert
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '346-361'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_25
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/NguyenM11
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Thi Minh Tuyen
+  - family: Marché
+    given: Claude
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Hardware-dependent proofs of numerical programs
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '314-329'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_23
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/MillerT13
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Dale
+  - family: Tiu
+    given: Alwen
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Extracting proofs from tabled proof search
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-210'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_13
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Nakano12
+  type: paper-conference
+  author:
+  - family: Nakano
+    given: Keisuke
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Shall we juggle, coinductively?
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-172'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_14
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/LeiQ11
+  type: paper-conference
+  author:
+  - family: Lei
+    given: Jinjiang
+  - family: Qiu
+    given: Zongyan
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Verification of scalable synchronous queue
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-263'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_19
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Kobayashi12
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Program certification by higher-order model checking
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-10'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_4
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/Bertot15
+  type: paper-conference
+  author:
+  - family: Bertot
+    given: Yves
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Fixed precision patterns for the formal verification of mathematical constant
+    approximations
+  container-title: CPP
+  publisher: ACM
+  page: '147-155'
+  URL: http://doi.acm.org/10.1145/2676724.2693172
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Appel11
+  type: paper-conference
+  author:
+  - family: Appel
+    given: Andrew W.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: 'VeriSmall: Verified smallfoot shape analysis'
+  title-short: VeriSmall
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-246'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_18
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/DoddsA13
+  type: paper-conference
+  author:
+  - family: Dodds
+    given: Josiah
+  - family: Appel
+    given: Andrew W.
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Mostly sound type system improves a foundational program verifier
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-32'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_2
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/CheneyU11
+  type: paper-conference
+  author:
+  - family: Cheney
+    given: James
+  - family: Urban
+    given: Christian
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Mechanizing the metatheory of mini-xQuery
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '280-295'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_21
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Asperti15
+  type: paper-conference
+  author:
+  - family: Asperti
+    given: Andrea
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: The speedup theorem in a primitive recursive framework
+  container-title: CPP
+  publisher: ACM
+  page: '175-182'
+  URL: http://doi.acm.org/10.1145/2676724.2693178
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/BoldoLM12
+  type: paper-conference
+  author:
+  - family: Boldo
+    given: Sylvie
+  - family: Lelay
+    given: Catherine
+  - family: Melquiond
+    given: Guillaume
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: 'Improving real analysis in coq: A user-friendly approach to integrals
+    and derivatives'
+  title-short: Improving real analysis in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-304'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_22
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/2012
+  type: book
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Certified programs and proofs - second international conference, cPP 2012,
+    kyoto, japan, december 13-15, 2012. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/GenevauxNS11
+  type: paper-conference
+  author:
+  - family: Génevaux
+    given: Jean-David
+  - family: Narboux
+    given: Julien
+  - family: Schreck
+    given: Pascal
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Formalization of wu’s simple method in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-86'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_8
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Kahl11
+  type: paper-conference
+  author:
+  - family: Kahl
+    given: Wolfram
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: The teaching tool calcCheck a proof-checker for gries and schneider’s “logical
+    approach to discrete math”
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-230'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_17
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/HenzH11
+  type: paper-conference
+  author:
+  - family: Henz
+    given: Martin
+  - family: Hobor
+    given: Aquinas
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: 'Teaching experience: Logic and formal methods with coq'
+  title-short: Teaching experience
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-215'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_16
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/DoczkalKS13
+  type: paper-conference
+  author:
+  - family: Doczkal
+    given: Christian
+  - family: Kaiser
+    given: Jan-Oliver
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: A constructive theory of regular languages in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-97'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_6
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/BartheGKLB12
+  type: paper-conference
+  author:
+  - family: Barthe
+    given: Gilles
+  - family: Grégoire
+    given: Benjamin
+  - family: Kunz
+    given: César
+  - family: Lakhnech
+    given: Yassine
+  - family: Béguelin
+    given: Santiago Zanella
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: 'Automation in computer-aided cryptography: Proofs, attacks and designs'
+  title-short: Automation in computer-aided cryptography
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '7-8'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_3
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/ZhaoZ12
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Jianzhou
+  - family: Zdancewic
+    given: Steve
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Mechanized verification of computing dominators for formalizing compilers
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-42'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_6
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/SchaferSS16
+  type: paper-conference
+  author:
+  - family: Schäfer
+    given: Steven
+  - family: Schneider
+    given: Sigurd
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Axiomatic semantics for compiler verification
+  container-title: CPP
+  publisher: ACM
+  page: '188-196'
+  URL: http://doi.acm.org/10.1145/2854065.2854083
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/2011
+  type: book
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Certified programs and proofs - first international conference, cPP 2011,
+    kenting, taiwan, december 7-9, 2011. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/LammichN15
+  type: paper-conference
+  author:
+  - family: Lammich
+    given: Peter
+  - family: Neumann
+    given: René
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A framework for verifying depth-first search algorithms
+  container-title: CPP
+  publisher: ACM
+  page: '137-146'
+  URL: http://doi.acm.org/10.1145/2676724.2693165
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/SchaferST15
+  type: paper-conference
+  author:
+  - family: Schäfer
+    given: Steven
+  - family: Smolka
+    given: Gert
+  - family: Tebbi
+    given: Tobias
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Completeness and decidability of de bruijn substitution algebra in coq
+  container-title: CPP
+  publisher: ACM
+  page: '67-73'
+  URL: http://doi.acm.org/10.1145/2676724.2693163
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/CoquandS11
+  type: paper-conference
+  author:
+  - family: Coquand
+    given: Thierry
+  - family: Siles
+    given: Vincent
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: A decision procedure for regular expression equivalence in type theory
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-134'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_11
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/KrebbersW15
+  type: paper-conference
+  author:
+  - family: Krebbers
+    given: Robbert
+  - family: Wiedijk
+    given: Freek
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A typed c11 semantics for interactive theorem proving
+  container-title: CPP
+  publisher: ACM
+  page: '15-27'
+  URL: http://doi.acm.org/10.1145/2676724.2693571
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Lammich16
+  type: paper-conference
+  author:
+  - family: Lammich
+    given: Peter
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Refinement based verification of imperative data structures
+  container-title: CPP
+  publisher: ACM
+  page: '27-36'
+  URL: http://doi.acm.org/10.1145/2854065.2854067
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/ArmandFGKTW11
+  type: paper-conference
+  author:
+  - family: Armand
+    given: Michaël
+  - family: Faure
+    given: Germain
+  - family: Grégoire
+    given: Benjamin
+  - family: Keller
+    given: Chantal
+  - family: Théry
+    given: Laurent
+  - family: Werner
+    given: Benjamin
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: A modular integration of sAT/SMT solvers to coq through proof witnesses
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-150'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_12
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/KhakpourSD13
+  type: paper-conference
+  author:
+  - family: Khakpour
+    given: Narges
+  - family: Schwarz
+    given: Oliver
+  - family: Dam
+    given: Mads
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Machine assisted proof of aRMv7 instruction level isolation properties
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '276-291'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_18
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/MurrayMBGK12
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Toby C.
+  - family: Matichuk
+    given: Daniel
+  - family: Brassil
+    given: Matthew
+  - family: Gammie
+    given: Peter
+  - family: Klein
+    given: Gerwin
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Noninterference for operating system kernels
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-142'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_12
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/Stewart13
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: Gordon
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Computational verification of network programs in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-49'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_3
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/FirsovU13
+  type: paper-conference
+  author:
+  - family: Firsov
+    given: Denis
+  - family: Uustalu
+    given: Tarmo
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Certified parsing of regular languages
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-113'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_7
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/PopescuHN12
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Andrei Popescu
+  - family: Hölzl
+    given: Johannes
+  - family: Nipkow
+    given: Tobias
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Proving concurrent noninterference
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-125'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_11
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/ChanN12
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Hing-Lun
+  - family: Norrish
+    given: Michael
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: 'A string of pearls: Proofs of fermat’s little theorem'
+  title-short: A string of pearls
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-207'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_16
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/BessonCP11
+  type: paper-conference
+  author:
+  - family: Besson
+    given: Frédéric
+  - family: Cornilleau
+    given: Pierre-Emmanuel
+  - family: Pichardie
+    given: David
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Modular sMT proofs for fast reflexive checking inside coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-166'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_13
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/CohenDM13
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Cyril
+  - family: Dénès
+    given: Maxime
+  - family: Mörtberg
+    given: Anders
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Refinements for free!
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-162'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_10
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Sternagel13
+  type: paper-conference
+  author:
+  - family: Sternagel
+    given: Christian
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Certified kruskal’s tree theorem
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-193'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_12
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/SternagelWZ15
+  type: paper-conference
+  author:
+  - family: Sternagel
+    given: Thomas
+  - family: Winkler
+    given: Sarah
+  - family: Zankl
+    given: Harald
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Recording completion for certificates in equational reasoning
+  container-title: CPP
+  publisher: ACM
+  page: '41-47'
+  URL: http://doi.acm.org/10.1145/2676724.2693171
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/JiaLV15
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Xiao Jia
+  - family: Li
+    given: Wei
+  - family: Vafeiadis
+    given: Viktor
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Proving lock-freedom easily and automatically
+  container-title: CPP
+  publisher: ACM
+  page: '119-127'
+  URL: http://doi.acm.org/10.1145/2676724.2693179
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/BoespflugDG11
+  type: paper-conference
+  author:
+  - family: Boespflug
+    given: Mathieu
+  - family: Dénès
+    given: Maxime
+  - family: Grégoire
+    given: Benjamin
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Full reduction at full throttle
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '362-377'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_26
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/StratulatD11
+  type: paper-conference
+  author:
+  - family: Stratulat
+    given: Sorin
+  - family: Demange
+    given: Vincent
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Automated certification of implicit induction proofs
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-53'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_5
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/PohjolaP16
+  type: paper-conference
+  author:
+  - family: Pohjola
+    given: Johannes Åman
+  - family: Parrow
+    given: Joachim
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Bisimulation up-to techniques for psi-calculi
+  container-title: CPP
+  publisher: ACM
+  page: '142-153'
+  URL: http://doi.acm.org/10.1145/2854065.2854080
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/CoquandMS12
+  type: paper-conference
+  author:
+  - family: Coquand
+    given: Thierry
+  - family: Mörtberg
+    given: Anders
+  - family: Siles
+    given: Vincent
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Coherent and strongly discrete rings in type theory
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-288'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_21
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/KotelnikovKRV16
+  type: paper-conference
+  author:
+  - family: Kotelnikov
+    given: Evgenii
+  - family: Kovács
+    given: Laura
+  - family: Reger
+    given: Giles
+  - family: Voronkov
+    given: Andrei
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: The vampire and the fOOL
+  container-title: CPP
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/2854065.2854071
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/TollitteDD12
+  type: paper-conference
+  author:
+  - family: Tollitte
+    given: Pierre-Nicolas
+  - family: Delahaye
+    given: David
+  - family: Dubois
+    given: Catherine
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Producing certified functional code from inductive specifications
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-91'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_9
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/KaliszykPU16
+  type: paper-conference
+  author:
+  - family: Kaliszyk
+    given: Cezary
+  - family: Pak
+    given: Karol
+  - family: Urban
+    given: Josef
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: 'Towards a mizar environment for isabelle: Foundations and language'
+  title-short: Towards a mizar environment for isabelle
+  container-title: CPP
+  publisher: ACM
+  page: '58-65'
+  URL: http://doi.acm.org/10.1145/2854065.2854070
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Bulwahn12
+  type: paper-conference
+  author:
+  - family: Bulwahn
+    given: Lukas
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: The new quickcheck for isabelle - random, exhaustive and symbolic testing
+    under one roof
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-108'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_10
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/Leroy12
+  type: paper-conference
+  author:
+  - family: Leroy
+    given: Xavier
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Mechanized semantics for compiler verification
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '4-6'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_2
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/MulliganC12
+  type: paper-conference
+  author:
+  - family: Mulligan
+    given: Dominic P.
+  - family: Coen
+    given: Claudio Sacerdoti
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: On the correctness of an optimising assembler for the intel mCS-51 microprocessor
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-59'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_7
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/BodinJS15
+  type: paper-conference
+  author:
+  - family: Bodin
+    given: Martin
+  - family: Jensen
+    given: Thomas
+  - family: Schmitt
+    given: Alan
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Certified abstract interpretation with pretty-big-step semantics
+  container-title: CPP
+  publisher: ACM
+  page: '29-40'
+  URL: http://doi.acm.org/10.1145/2676724.2693174
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Chargueraud16
+  type: paper-conference
+  author:
+  - family: Charguéraud
+    given: Arthur
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Higher-order representation predicates in separation logic
+  container-title: CPP
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2854065.2854068
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/LicataB13
+  type: paper-conference
+  author:
+  - family: Licata
+    given: Daniel R.
+  - family: Brunerie
+    given: Guillaume
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Π n (s n ) in homotopy type theory
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_1
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Morrisett12
+  type: paper-conference
+  author:
+  - family: Morrisett
+    given: Greg
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Scalable formal machine models
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-3'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_1
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/KaliszykB11
+  type: paper-conference
+  author:
+  - family: Kaliszyk
+    given: Cezary
+  - family: Barendregt
+    given: Henk
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Reasoning about constants in nominal isabelle or how to formalize the second
+    fixed point theorem
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-102'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_9
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Ridge11
+  type: paper-conference
+  author:
+  - family: Ridge
+    given: Tom
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Simple, functional, sound and complete parsing for all context-free grammars
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-118'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_10
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Miller11
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Dale
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: A proposal for broad spectrum proof certificates
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-69'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_6
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/2016
+  type: book
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Proceedings of the 5th aCM sIGPLAN conference on certified programs and proofs,
+    saint petersburg, fL, uSA, january 20-22, 2016
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2854065
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/LiP16
+  type: paper-conference
+  author:
+  - family: Li
+    given: Wenda
+  - family: Paulson
+    given: Lawrence C.
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: A modular, efficient formalisation of real algebraic numbers
+  container-title: CPP
+  publisher: ACM
+  page: '66-75'
+  URL: http://doi.acm.org/10.1145/2854065.2854074
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Krebbers13
+  type: paper-conference
+  author:
+  - family: Krebbers
+    given: Robbert
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Aliasing restrictions of c11 formalized in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-65'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_4
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/RamananandroMML16
+  type: paper-conference
+  author:
+  - family: Ramananandro
+    given: Tahina
+  - family: Mountcastle
+    given: Paul
+  - family: Meister
+    given: Benoît
+  - family: Lethin
+    given: Richard
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: A unified coq framework for verifying c programs with floating-point computations
+  container-title: CPP
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/2854065.2854066
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/BlazyMP15
+  type: paper-conference
+  author:
+  - family: Blazy
+    given: Sandrine
+  - family: Maroneze
+    given: André
+  - family: Pichardie
+    given: David
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Verified validation of program slicing
+  container-title: CPP
+  publisher: ACM
+  page: '109-117'
+  URL: http://doi.acm.org/10.1145/2676724.2693169
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/RamananandroSWKF15
+  type: paper-conference
+  author:
+  - family: Ramananandro
+    given: Tahina
+  - family: Shao
+    given: Zhong
+  - family: Weng
+    given: Shu-Chun
+  - family: Koenig
+    given: Jérémie
+  - family: Fu
+    given: Yuchen
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A compositional semantics for verified separate compilation and linking
+  container-title: CPP
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2676724.2693167
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/OHearn11
+  type: paper-conference
+  author:
+  - family: O’Hearn
+    given: Peter W.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Algebra, logic, locality, concurrency
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-4'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_2
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Doorn16
+  type: paper-conference
+  author:
+  - family: Doorn
+    given: Floris
+    dropping-particle: van
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: Constructing the propositional truncation using non-recursive hITs
+  container-title: CPP
+  publisher: ACM
+  page: '122-129'
+  URL: http://doi.acm.org/10.1145/2854065.2854076
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/DoczkalS12
+  type: paper-conference
+  author:
+  - family: Doczkal
+    given: Christian
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Constructive completeness for modal logic with transitive closure
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '224-239'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_18
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/FirsovU15
+  type: paper-conference
+  author:
+  - family: Firsov
+    given: Denis
+  - family: Uustalu
+    given: Tarmo
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Certified normalization of context-free grammars
+  container-title: CPP
+  publisher: ACM
+  page: '167-174'
+  URL: http://doi.acm.org/10.1145/2676724.2693177
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/KaliszykUV15
+  type: paper-conference
+  author:
+  - family: Kaliszyk
+    given: Cezary
+  - family: Urban
+    given: Josef
+  - family: Vyskocil
+    given: Jirí
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Certified connection tableaux proofs for hOL light and tPTP
+  container-title: CPP
+  publisher: ACM
+  page: '59-66'
+  URL: http://doi.acm.org/10.1145/2676724.2693176
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Chaudhuri12
+  type: paper-conference
+  author:
+  - family: Chaudhuri
+    given: Kaustuv
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Compact proof certificates for linear logic
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-223'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_17
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/Kuncar15
+  type: paper-conference
+  author:
+  - family: Kuncar
+    given: Ondrej
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: 'Correctness of isabelle’s cyclicity checker: Implementability of overloading
+    in proof assistants'
+  title-short: Correctness of isabelle’s cyclicity checker
+  container-title: CPP
+  publisher: ACM
+  page: '85-94'
+  URL: http://doi.acm.org/10.1145/2676724.2693175
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/GauthierK15
+  type: paper-conference
+  author:
+  - family: Gauthier
+    given: Thibault
+  - family: Kaliszyk
+    given: Cezary
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Premise selection and external provers for hOL4
+  container-title: CPP
+  publisher: ACM
+  page: '49-57'
+  URL: http://doi.acm.org/10.1145/2676724.2693173
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/Campbell12
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Brian
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: An executable semantics for compCert c
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-75'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_8
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/Shao15
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Zhong
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Clean-slate development of certified oS kernels
+  container-title: CPP
+  publisher: ACM
+  page: '95-96'
+  URL: http://doi.acm.org/10.1145/2676724.2693180
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/BohmeFSW11
+  type: paper-conference
+  author:
+  - family: Böhme
+    given: Sascha
+  - family: Fox
+    given: Anthony C. J.
+  - family: Sewell
+    given: Thomas
+  - family: Weber
+    given: Tjark
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Reconstruction of z3’s bit-vector proofs in hOL4 and isabelle/HOL
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-198'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_15
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/RobertL12
+  type: paper-conference
+  author:
+  - family: Robert
+    given: Valentin
+  - family: Leroy
+    given: Xavier
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: A formally-verified alias analysis
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-26'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_5
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/RahliB16
+  type: paper-conference
+  author:
+  - family: Rahli
+    given: Vincent
+  - family: Bickford
+    given: Mark
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: A nominal exploration of intuitionism
+  container-title: CPP
+  publisher: ACM
+  page: '130-141'
+  URL: http://doi.acm.org/10.1145/2854065.2854077
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/Asperti13
+  type: paper-conference
+  author:
+  - family: Asperti
+    given: Andrea
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: A formal proof of borodin-trakhtenbrot’s gap theorem
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-177'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_11
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/BackesHT11
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Michael Backes
+  - family: Hritcu
+    given: Catalin
+  - family: Tarrach
+    given: Thorsten
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Automatically verifying typing constraints for a data processing language
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '296-313'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_22
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/MyreenC13
+  type: paper-conference
+  author:
+  - family: Myreen
+    given: Magnus O.
+  - family: Curello
+    given: Gregorio
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: 'Proof pearl: A verified bignum implementation in x86-64 machine code'
+  title-short: Proof pearl
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-81'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_5
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Neron12
+  type: paper-conference
+  author:
+  - family: Neron
+    given: Pierre
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: A formal proof of square root and division elimination in embedded programs
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '256-272'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_20
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/2013
+  type: book
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Certified programs and proofs - third international conference, cPP 2013,
+    melbourne, vIC, australia, december 11-13, 2013, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/VaynbergS12
+  type: paper-conference
+  author:
+  - family: Vaynberg
+    given: Alexander
+  - family: Shao
+    given: Zhong
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Compositional verification of a baby virtual memory manager
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-159'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_13
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/AspertiR12
+  type: paper-conference
+  author:
+  - family: Asperti
+    given: Andrea
+  - family: Ricciotti
+    given: Wilmer
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: Rating disambiguation errors
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '240-255'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_19
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/CorbineauDL11
+  type: paper-conference
+  author:
+  - family: Corbineau
+    given: Pierre
+  - family: Duclos
+    given: Mathilde
+  - family: Lakhnech
+    given: Yassine
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: 'Certified security proofs of cryptographic protocols in the computational
+    model: An application to intrusion resilience'
+  title-short: Certified security proofs of cryptographic protocols in the computational
+    model
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '378-393'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_27
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/0001HN13
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Andrei Popescu
+  - family: Hölzl
+    given: Johannes
+  - family: Nipkow
+    given: Tobias
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Formalizing probabilistic noninterference
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-275'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_17
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Immler15
+  type: paper-conference
+  author:
+  - family: Immler
+    given: Fabian
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A verified algorithm for geometric zonotope/Hyperplane intersection
+  container-title: CPP
+  publisher: ACM
+  page: '129-136'
+  URL: http://doi.acm.org/10.1145/2676724.2693164
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/JiangN11
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Dongchen
+  - family: Nipkow
+    given: Tobias
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: 'Proof pearl: The marriage theorem'
+  title-short: Proof pearl
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '394-399'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_28
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/Braibant11
+  type: paper-conference
+  author:
+  - family: Braibant
+    given: Thomas
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: 'Coquet: A coq library for verifying hardware'
+  title-short: Coquet
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '330-345'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_24
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/KimR11
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Jieung
+  - family: Ryu
+    given: Sukyoung
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Coq mechanization of featherweight fortress with multiple dispatch and multiple
+    inheritance
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '264-279'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_20
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/2015
+  type: book
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: Proceedings of the 2015 conference on certified programs and proofs, cPP
+    2015, mumbai, india, january 15-17, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2676724
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/BelangerMP13
+  type: paper-conference
+  author:
+  - family: Belanger
+    given: Olivier Savary
+  - family: Monnier
+    given: Stefan
+  - family: Pientka
+    given: Brigitte
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Programming type-safe transformations using higher-order abstract syntax
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-258'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_16
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/HuangM13
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Daniel
+  - family: Morrisett
+    given: Greg
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: Formalizing the sAFECode type system
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '211-226'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_14
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Bjorner11
+  type: paper-conference
+  author:
+  - family: Bjørner
+    given: Nikolaj
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Engineering theories with z3
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-2'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_1
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/ChaudhuriCM15
+  type: paper-conference
+  author:
+  - family: Chaudhuri
+    given: Kaustuv
+  - family: Cimini
+    given: Matteo
+  - family: Miller
+    given: Dale
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '2015'
+  title: A lightweight formalization of the metatheory of bisimulation-up-to
+  container-title: CPP
+  publisher: ACM
+  page: '157-166'
+  URL: http://doi.acm.org/10.1145/2676724.2693170
+  ISBN: '978-1-4503-3296-5'
+
+- id: conf/cpp/WuZU13
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Chunhan
+  - family: Zhang
+    given: Xingyuan
+  - family: Urban
+    given: Christian
+  editor:
+  - family: Gonthier
+    given: Georges
+  issued:
+  - year: '2013'
+  title: A formal model and correctness proof for an access control policy framework
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '292-307'
+  volume: '8307'
+  DOI: 10.1007/978-3-319-03545-1_19
+  ISBN: '978-3-319-03544-4'
+
+- id: conf/cpp/Accattoli12
+  type: paper-conference
+  author:
+  - family: Accattoli
+    given: Beniamino
+  editor:
+  - family: Hawblitzel
+    given: Chris
+  issued:
+  - year: '2012'
+  title: 'Proof pearl: Abella formalization of λ-calculus cube property'
+  title-short: Proof pearl
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-187'
+  volume: '7679'
+  DOI: 10.1007/978-3-642-35308-6_15
+  ISBN: '978-3-642-35307-9'
+
+- id: conf/cpp/BraibantP11
+  type: paper-conference
+  author:
+  - family: Braibant
+    given: Thomas
+  - family: Pous
+    given: Damien
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '2011'
+  title: Tactics for reasoning modulo aC in coq
+  container-title: CPP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-182'
+  volume: '7086'
+  DOI: 10.1007/978-3-642-25379-9_14
+  ISBN: '978-3-642-25378-2'
+
+- id: conf/cpp/FultonP16
+  type: paper-conference
+  author:
+  - family: Fulton
+    given: Nathan
+  - family: Platzer
+    given: André
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: 'A logic of proofs for differential dynamic logic: Toward independently
+    checkable proof certificates for dynamic logics'
+  title-short: A logic of proofs for differential dynamic logic
+  container-title: CPP
+  publisher: ACM
+  page: '110-121'
+  URL: http://doi.acm.org/10.1145/2854065.2854078
+  ISBN: '978-1-4503-4127-1'
+
+- id: conf/cpp/St-MartinF16
+  type: paper-conference
+  author:
+  - family: St-Martin
+    given: Michel
+  - family: Felty
+    given: Amy P.
+  editor:
+  - family: Avigad
+    given: Jeremy
+  issued:
+  - year: '2016'
+  title: A verified algorithm for detecting conflicts in xACML access control rules
+  container-title: CPP
+  publisher: ACM
+  page: '166-175'
+  URL: http://doi.acm.org/10.1145/2854065.2854079
+  ISBN: '978-1-4503-4127-1'
+...

@@ -1,0 +1,8086 @@
+---
+references:
+- id: conf/conpar/Mohr90
+  type: paper-conference
+  author:
+  - family: Mohr
+    given: Bernd
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Performance evaluation of parallel programs in parallel and distributed systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-187'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_98
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/GerasoulisY92
+  type: paper-conference
+  author:
+  - family: Gerasoulis
+    given: Apostolos
+  - family: Yang
+    given: Tao
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Static scheduling of parallel programs for message passing architectures
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '601-612'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_461
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ShawSW90
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: G. J.
+  - family: Stewart
+    given: A.
+  - family: Waring
+    given: L. C.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 3D multigrid correction methods for transputer networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '665-671'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_142
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Kader86
+  type: paper-conference
+  author:
+  - family: Kader
+    given: A. A. Abdel
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: OCSAMO - a systolic array for matrix operations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '319-328'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_186
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/AdamoB90
+  type: paper-conference
+  author:
+  - family: Adamo
+    given: Jean-Marc
+  - family: Bonello
+    given: Christophe
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'TéNOR++: A dynamic configurer for superNode machines'
+  title-short: TéNOR++
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '640-651'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_140
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/SpierS90
+  type: paper-conference
+  author:
+  - family: Spier
+    given: Kevin L.
+  - family: Szymanski
+    given: Boleslaw K.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Interprocess analysis and optimization in the equational language compiler
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-335'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_111
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Campos92
+  type: paper-conference
+  author:
+  - family: Campos
+    given: Geraldo Lino
+    dropping-particle: de
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Asynchronous polycyclic architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '387-398'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_435
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/HaritaogluA94
+  type: paper-conference
+  author:
+  - family: Haritaoglu
+    given: Ismail
+  - family: Aykanat
+    given: Cevdet
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: An efficient mapping heuristic for mesh-connected parallel architectures
+    based on mean field annealing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '820-831'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_71
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/DesprezT92
+  type: paper-conference
+  author:
+  - family: Desprez
+    given: Frederic
+  - family: Tourancheau
+    given: Bernard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A theoretical study of reconfigurability for numerical algorithms on a reconfigurable
+    network
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '817-818'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_504
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/FreislebenK92
+  type: paper-conference
+  author:
+  - family: Freisleben
+    given: Bernd
+  - family: Kielmann
+    given: Thilo
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Automatic parallelization of divide-and-conquer algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '849-850'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_520
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/YousifD94
+  type: paper-conference
+  author:
+  - family: Yousif
+    given: Mazin S.
+  - family: Das
+    given: Chita R.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: A switch cache design for mIN-based shared-memory multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '426-437'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_38
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/AdamoA92
+  type: paper-conference
+  author:
+  - family: Adamo
+    given: Jean-Marc
+  - family: Alhafez
+    given: N.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Minimal, adaptive and deadlock-free routing for multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '815-816'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_503
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Sharma90
+  type: paper-conference
+  author:
+  - family: Sharma
+    given: Sanjay
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Real-time visualization of concurrent processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '852-862'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_160
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BerryGHJLMPS86
+  type: paper-conference
+  author:
+  - family: Berry
+    given: Michael W.
+  - family: Gallivan
+    given: Kyle
+  - family: Harrod
+    given: W.
+  - family: Jalby
+    given: William
+  - family: Lo
+    given: Sy-Shin
+  - family: Meier
+    given: Ulrike
+  - family: Philippe
+    given: Bernard
+  - family: Sameh
+    given: Ahmed H.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Parallel algorithms on the cEDAR system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-39'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_150
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/MomoiSKI86
+  type: paper-conference
+  author:
+  - family: Momoi
+    given: Shigeharu
+  - family: Shimada
+    given: Shigeo
+  - family: Kobayashi
+    given: Masamitsu
+  - family: Ishikawa
+    given: Tsutomu
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Hierarchical array processor system (hAP)
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '311-318'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_185
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/GaoSH90
+  type: paper-conference
+  author:
+  - family: Gao
+    given: Yaoqing
+  - family: Sun
+    given: Chengzheng
+  - family: Hu
+    given: Shouren
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Study of a parallel inference machine for parallel execution of logic programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-153'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_95
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/KulkarniPU92
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: P. J.
+  - family: Phadnis
+    given: N. R.
+  - family: Udpikar
+    given: Vishwas
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Monochrome image coding using hierarchical closed loop vector quantizer on
+    a multiprocessing system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '809-810'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_500
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/HolznerT90
+  type: paper-conference
+  author:
+  - family: Holzner
+    given: Rudolf
+  - family: Tomann
+    given: Stefan
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Design and simulation of a multistage interconnection network
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '385-396'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_117
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/DattaS92
+  type: paper-conference
+  author:
+  - family: Datta
+    given: Alak Kumar
+  - family: Sen
+    given: Ranjan K.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: An efficient parallel algorithm for maximal matching
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '813-814'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_502
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Hegland90
+  type: paper-conference
+  author:
+  - family: Hegland
+    given: Markus
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: On the computation of breeding values
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '232-242'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_103
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Tsao92
+  type: paper-conference
+  author:
+  - family: Tsao
+    given: Nai-Kuan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On the accuracy of solving triangular systems in parallel-iII
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '307-318'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_425
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BauchKMO92
+  type: paper-conference
+  author:
+  - family: Bauch
+    given: Andreas
+  - family: Kosch
+    given: Thomas
+  - family: Maehle
+    given: Erik
+  - family: Obelöer
+    given: Wolfgang
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: The software-monitor dELTA-t and its use for performance measurements of
+    some farming variants on the multi-transputer system dAMP
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-78'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_399
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/RochVV92
+  type: paper-conference
+  author:
+  - family: Roch
+    given: Jean-Louis
+  - family: Vermeerbergen
+    given: A.
+  - family: Villard
+    given: Gilles
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Cost prediction for load balancing: Application to algebraic computations'
+  title-short: Cost prediction for load balancing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '467-478'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_444
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/FosterK94
+  type: paper-conference
+  author:
+  - family: Foster
+    given: Ian T.
+  - family: Kesselman
+    given: Carl
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Language constructs and runtime systems for compositional parallel programming
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '5-16'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_2
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/MuchnickS92
+  type: paper-conference
+  author:
+  - family: Muchnick
+    given: Vyacheslav B.
+  - family: Shafarenko
+    given: Alexander V.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'F-code: A portable software platform for data-parallel languages'
+  title-short: F-code
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '509-514'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_449
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Trottenberg86
+  type: paper-conference
+  author:
+  - family: Trottenberg
+    given: Ulrich
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: SUPRENUM - an mIMD multiprocessor system for multi-level scientific computing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-52'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_152
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/HongL94
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Hoon
+  - family: Loidl
+    given: Hans-Wolfgang
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallel computation of modular multivariate polynominal resultants on a
+    shared memory machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '325-336'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_29
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ThaparD90
+  type: paper-conference
+  author:
+  - family: Thapar
+    given: Manu
+  - family: Delagi
+    given: Bruce
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Scalable cache coherence for large shared memory multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '592-603'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_136
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/RobertT86
+  type: paper-conference
+  author:
+  - family: Robert
+    given: Yves
+  - family: Trystram
+    given: Denis
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Parallel implementation of the algebraic path problem
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-156'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_165
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Pettorossi81
+  type: paper-conference
+  author:
+  - family: Pettorossi
+    given: Alberto
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: A transformational approach for developing parallel programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '245-258'
+  volume: '111'
+  DOI: 10.1007/BFb0105122
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/FraigniaudG94
+  type: paper-conference
+  author:
+  - family: Fraigniaud
+    given: Pierre
+  - family: Gavoille
+    given: Cyril
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Optimal interval routing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '785-796'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_68
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Meyer94
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Jürgen W.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Self-organizing processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '842-853'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_73
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/GuptaBJBB90
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Amit
+  - family: Banerjea
+    given: Anindo
+  - family: Jha
+    given: Vikas
+  - family: Bafna
+    given: Vineet
+  - family: Bhatt
+    given: P. C. P.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Parallel implementation of logic languages
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-165'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_96
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BanatreB81
+  type: paper-conference
+  author:
+  - family: Banâtre
+    given: Jean-Pierre
+  - family: Banâtre
+    given: Michel
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Parallel structures for vector processing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-114'
+  volume: '111'
+  DOI: 10.1007/BFb0105112
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/ZimaBGH86
+  type: paper-conference
+  author:
+  - family: Zima
+    given: Hans P.
+  - family: Bast
+    given: Heinz-J.
+  - family: Gerndt
+    given: Michael
+  - family: Hoppen
+    given: Peter J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Semi-automatic parallelization of fortran programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-294'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_182
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/DupratA92
+  type: paper-conference
+  author:
+  - family: Duprat
+    given: Jean
+  - family: Aguilar
+    given: Mario Fiallos
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On the simulation of pipelining of fully digit on-line floating-point adder
+    networks on massively parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '707-712'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_472
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KasabovBJ81
+  type: paper-conference
+  author:
+  - family: Kasabov
+    given: Nikola K.
+  - family: Bijev
+    given: G. T.
+  - family: Jechev
+    given: B. J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Hierarchical discrete systems and realisation of parallel algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414-422'
+  volume: '111'
+  DOI: 10.1007/BFb0105133
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/KabakchievB92
+  type: paper-conference
+  author:
+  - family: Kabakchiev
+    given: Christo A.
+  - family: Behar
+    given: Vera P.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel detection algorithm of radar signals
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-246'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_418
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/MackenzieOSK92
+  type: paper-conference
+  author:
+  - family: Mackenzie
+    given: Lewis M.
+  - family: Ould-Khaoua
+    given: Mohamed
+  - family: Sutherland
+    given: Rob J.
+  - family: Kelly
+    given: T.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A hypergraph-based interconnection network for large multicomputers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '837-838'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_514
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Perrott81
+  type: paper-conference
+  author:
+  - family: Perrott
+    given: Ronald H.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Language design approaches for parallel processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-126'
+  volume: '111'
+  DOI: 10.1007/BFb0105113
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Shukhman92
+  type: paper-conference
+  author:
+  - family: Shukhman
+    given: Boris
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallelism in generation of sequences for monte carlo simulation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '779-780'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_485
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Hellwagner92
+  type: paper-conference
+  author:
+  - family: Hellwagner
+    given: Hermann
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On the practical efficiency of randomized shared memory
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '429-440'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_441
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DubouxFG92
+  type: paper-conference
+  author:
+  - family: Duboux
+    given: Thibault
+  - family: Ferreira
+    given: Afonso
+  - family: Gastaldo
+    given: Michel
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'MIMD dictionary machines: From theory to practice'
+  title-short: MIMD dictionary machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '545-550'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_453
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BemmerlL90
+  type: paper-conference
+  author:
+  - family: Bemmerl
+    given: Thomas
+  - family: '0002'
+    given: Thomas Ludwig
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: MMK - a distributed operating system kernel with integrated dynamic loadbalancing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '744-755'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_150
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/MartiniMR86
+  type: paper-conference
+  author:
+  - family: Martini
+    given: Claudio
+  - family: Morando
+    given: Mauro
+  - family: Ridella
+    given: Sandro
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Caltech hypercube mIMD computer performances measurements in a physical mathematical
+    application
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-132'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_162
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/BrehmBV90
+  type: paper-conference
+  author:
+  - family: Brehm
+    given: Jürgen
+  - family: Böhm
+    given: A.
+  - family: Volkert
+    given: Jens
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Sparse matrix algorithms for sUPRENUM
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-130'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_93
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/OldehoeftCA86
+  type: paper-conference
+  author:
+  - family: Oldehoeft
+    given: R. R.
+  - family: Cann
+    given: David C.
+  - family: Allan
+    given: Stephen J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: 'SISAL: Initial mIMD performance results'
+  title-short: SISAL
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-127'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_161
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/LauRBBP94
+  type: paper-conference
+  author:
+  - family: Lau
+    given: Lawrence
+  - family: Rezny
+    given: Mike
+  - family: Belward
+    given: John
+  - family: Burrage
+    given: Kevin
+  - family: Pohl
+    given: Bert
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: ADVISE - agricultural developmental visualisation interactive software environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-195'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_17
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/BoillatK90
+  type: paper-conference
+  author:
+  - family: Boillat
+    given: Jacques E.
+  - family: Kropf
+    given: Peter G.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A fast distributed mapping algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-416'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_119
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Gabarro92
+  type: paper-conference
+  author:
+  - family: Gabarró
+    given: Joaquim
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: The design of a parallel algorithm to solve the word problem for the free
+    partially commutative groups
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '805-806'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_498
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ArbenzO92
+  type: paper-conference
+  author:
+  - family: Arbenz
+    given: Peter
+  - family: Oettli
+    given: Michael
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Block implementations of the symmetric qR and jacobi algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '827-828'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_509
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/CosnardF90
+  type: paper-conference
+  author:
+  - family: Cosnard
+    given: Michel
+  - family: Fraigniaud
+    given: Pierre
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A performance analysis of network topologies in finding the roots of a polynomial
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '875-886'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_162
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BagleyWA94
+  type: paper-conference
+  author:
+  - family: Bagley
+    given: Ross A.
+  - family: Wilsey
+    given: Philip A.
+  - family: Abu-Ghazaleh
+    given: Nael B.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Composing functional unit blocks for efficient interpretation of mIMD code
+    sequences on sIMD processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '616-627'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_54
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/GerndtZ90
+  type: paper-conference
+  author:
+  - family: Gerndt
+    given: Michael
+  - family: Zima
+    given: Hans P.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Optimizing communication in superb
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '300-311'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_109
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/CharrierR92
+  type: paper-conference
+  author:
+  - family: Charrier
+    given: Pierre
+  - family: Roman
+    given: Jean
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Partitioning and mapping for parallel nested dissection on distributed memory
+    architectures
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '295-306'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_424
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LlosaVFA94
+  type: paper-conference
+  author:
+  - family: Llosa
+    given: Josep
+  - family: Valero
+    given: Mateo
+  - family: Fortes
+    given: José A. B.
+  - family: Ayguadé
+    given: Eduard
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Using sacks to organize registers in vLIW machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '628-639'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_55
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/AndonovQ92
+  type: paper-conference
+  author:
+  - family: Andonov
+    given: Rumen
+  - family: Quinton
+    given: Patrice
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Efficient linear systolic array for the knapsack problem
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-258'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_419
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BonchevI92
+  type: paper-conference
+  author:
+  - family: Bonchev
+    given: Boyan
+  - family: Iliev
+    given: Miroslav
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A hybrid dataflow architecture with multiple tokens
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '737-742'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_477
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/WestonCB92
+  type: paper-conference
+  author:
+  - family: Weston
+    given: Jim
+  - family: Clint
+    given: Maurice
+  - family: Bleakney
+    given: C. W.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel implementations of jacobi’s algorithm for the eigensolution of large
+    matrices using array processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '787-788'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_489
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BaugstoGK90
+  type: paper-conference
+  author:
+  - family: Baugstø
+    given: Bjørn Arild W.
+  - family: Greipsland
+    given: Jarle Fredrik
+  - family: Kamerbeek
+    given: J.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Sorting large data files on pOOMA
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '536-547'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_131
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Schwandt86
+  type: paper-conference
+  author:
+  - family: Schwandt
+    given: Hartmut
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Multitasking algorithms on cRAY computers for interval arithmetic newton-like
+    methods for a class of systems of nonlinear equations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-111'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_159
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Ziavras92
+  type: paper-conference
+  author:
+  - family: Ziavras
+    given: Sotirios G.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Connection machine results for pyramid embedding algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-36'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_394
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LauQ86
+  type: paper-conference
+  author:
+  - family: Lau
+    given: Kung-Kiu
+  - family: Qiao
+    given: Xiang-Zhen
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: FFT on a new parallel vector processor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-94'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_157
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Vajtersic86
+  type: paper-conference
+  author:
+  - family: Vajtersic
+    given: Marián
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Fast parallel algorithms for eigenvalue and singular value computations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-263'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_178
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/HammerR86
+  type: paper-conference
+  author:
+  - family: Hammer
+    given: Carsten
+  - family: Raebel
+    given: Guillermo
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Code generation for partially vectorizable loops in the vectorizing pascal-xT
+    compiler
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '295-302'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_183
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Duff86
+  type: paper-conference
+  author:
+  - family: Duff
+    given: Iain S.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: The parallel solution of sparse linear equations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-24'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_149
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Sotz90
+  type: paper-conference
+  author:
+  - family: Sötz
+    given: Franz
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A method for performance prediction of parallel programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-107'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_91
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Thomas92
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: S. J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A block algorithm for orthogonalization in elliptic norms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '379-385'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_434
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/AdamoBT92
+  type: paper-conference
+  author:
+  - family: Adamo
+    given: Jean-Marc
+  - family: Bonello
+    given: Christophe
+  - family: Trejo
+    given: Luis A.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'The c\_NET programming environment: An overview'
+  title-short: The c\_NET programming environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-120'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_405
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DetertG94
+  type: paper-conference
+  author:
+  - family: Detert
+    given: Ulrich
+  - family: Gerndt
+    given: Michael
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: TOP2 tool suite for the development and testing of parallel applications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-207'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_18
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/SchutzR92
+  type: paper-conference
+  author:
+  - family: Schütz
+    given: Bernd
+  - family: Rauscher
+    given: Reinhard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A parallel architecture for a vLSI-hardware-realization
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '789-790'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_490
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Raghavendra86
+  type: paper-conference
+  author:
+  - family: Raghavendra
+    given: C. S.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: 'HMESH: A vLSI architecture for parallel processing'
+  title-short: HMESH
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-83'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_156
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/MakhaniokCMS90
+  type: paper-conference
+  author:
+  - family: Makhaniok
+    given: Mikhail
+  - family: Cherniavsky
+    given: Victor
+  - family: Männer
+    given: Reinhard
+  - family: Stucky
+    given: Oliver
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Massively parallel realization of logical operations in distributed parallel
+    systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '796-805'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_155
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Odijk90
+  type: paper-conference
+  author:
+  - family: Odijk
+    given: Eddy
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'POOMA, pOOL and parallel symbolic computing: An assessment'
+  title-short: POOMA, pOOL and parallel symbolic computing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-38'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_85
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Mirenkov94
+  type: paper-conference
+  author:
+  - family: Mirenkov
+    given: Nikolay N.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: VIM language paradigm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '569-580'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_50
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/FengGY94
+  type: paper-conference
+  author:
+  - family: Feng
+    given: Ming-Dong
+  - family: Gao
+    given: Yaoqing
+  - family: Yuen
+    given: Chung-Kwong
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Distributed linda tuplespace algorithms and implementations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '581-592'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_51
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ChenKLR92
+  type: paper-conference
+  author:
+  - family: Chen
+    given: G.
+  - family: Keller
+    given: Herbert B.
+  - family: Lui
+    given: S. H.
+  - family: Roux
+    given: Bernard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Parallel homotopy algorithm for large sparse generalized eigenvalue problems:
+    Application to hydrodynamic stability analysis'
+  title-short: Parallel homotopy algorithm for large sparse generalized eigenvalue
+    problems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '331-342'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_427
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KolpMS86
+  type: paper-conference
+  author:
+  - family: Kolp
+    given: Otto
+  - family: Mierendorff
+    given: Hermann
+  - family: Seidl
+    given: W.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Analysis of multigrid methods for non-sharde memory systems by a simple performance
+    model
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-103'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_158
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/HortonKV92
+  type: paper-conference
+  author:
+  - family: Horton
+    given: Graham
+  - family: Knirsch
+    given: Ralf
+  - family: Vollath
+    given: Hermann
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: The time-parallel solution of parabolic partial differencial equations using
+    the frequency-filtering method
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-216'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_415
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Geerling94
+  type: paper-conference
+  author:
+  - family: Geerling
+    given: A. Max
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Formal derivation of sIMD parallelism from non-linear recursive specifications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-147'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_13
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Lecouffe81
+  type: paper-conference
+  author:
+  - family: Lecouffe
+    given: Pierre
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: 'SAUGE: How to use the parallelism of sequential programs'
+  title-short: SAUGE
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-244'
+  volume: '111'
+  DOI: 10.1007/BFb0105121
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/MahjoubK92
+  type: paper-conference
+  author:
+  - family: Mahjoub
+    given: Zaher
+  - family: Karoui-Sahtout
+    given: F.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Optimal performances and scheduling for parallel algorithms with equal cost
+    tasks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '799-800'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_495
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/House81
+  type: paper-conference
+  author:
+  - family: House
+    given: Steven R.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Compiling in parallel
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '298-313'
+  volume: '111'
+  DOI: 10.1007/BFb0105126
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Zitterbart90
+  type: paper-conference
+  author:
+  - family: Zitterbart
+    given: Martina
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Monitoring and debugging transputer-networks with nETMON-iI
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-209'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_100
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/ZhangHX86
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Guoqing
+  - family: Hu
+    given: Yueming
+  - family: Xie
+    given: Zhiliang
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A new approach to decentralized control of job scheduling
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-141'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_163
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/MakhaniokM92
+  type: paper-conference
+  author:
+  - family: Makhaniok
+    given: Mikhail
+  - family: Männer
+    given: Reinhard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Synchronization of parallel processes in distributed systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-162'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_410
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ChardonnesHK90
+  type: paper-conference
+  author:
+  - family: Chardonnes
+    given: B.
+  - family: Hersch
+    given: Roger D.
+  - family: Kölbl
+    given: O.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Transputer based distributed cartographic image processing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '336-346'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_112
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/MurerF92
+  type: paper-conference
+  author:
+  - family: Murer
+    given: Stephan
+  - family: Färber
+    given: Philipp
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A scalable distributed shared memory
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '453-466'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_443
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SaltonB81
+  type: paper-conference
+  author:
+  - family: Salton
+    given: Gerard
+  - family: Bergmark
+    given: Donna
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Parallel computations in information retrieval
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '328-342'
+  volume: '111'
+  DOI: 10.1007/BFb0105128
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/MohrBM94
+  type: paper-conference
+  author:
+  - family: Mohr
+    given: Bernd
+  - family: Brown
+    given: Darryl
+  - family: Malony
+    given: Allen D.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: 'TAU: A portable parallel program analysis environment for pC++'
+  title-short: TAU
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-40'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_4
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/SergentB94
+  type: paper-conference
+  author:
+  - family: Sergent
+    given: Thierry Le
+  - family: Berthomieu
+    given: Bernard
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Balancing load under large and fast load changes in distributed computing
+    systems - a case study
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '854-865'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_74
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/GasperoniS92
+  type: paper-conference
+  author:
+  - family: Gasperoni
+    given: Franco
+  - family: Schwiegelshohn
+    given: Uwe
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Scheduling loops on parallel processors: A simple algorithm with close
+    to optimum performance'
+  title-short: Scheduling loops on parallel processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '625-636'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_463
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Nikolopoulos94
+  type: paper-conference
+  author:
+  - family: Nikolopoulos
+    given: Stavros D.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallel recognition and location algorithms for chordal graphs using distance
+    matrices
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349-358'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_31
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Berrendorf92
+  type: paper-conference
+  author:
+  - family: Berrendorf
+    given: Rudolf
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Memory access in shared virtual memory
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '785-786'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_488
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ElleuchKMT94
+  type: paper-conference
+  author:
+  - family: Elleuch
+    given: A.
+  - family: Kanawati
+    given: Rushed
+  - family: Muntean
+    given: Traian
+  - family: Talbi
+    given: El-Ghazali
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Dynamic load balancing mechanisms for a parallel operating system kernel
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '866-877'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_75
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/HarderHM86
+  type: paper-conference
+  author:
+  - family: Härder
+    given: Theo
+  - family: Hübel
+    given: Christoph
+  - family: Mitschang
+    given: Bernhard
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Use of inherent parallelism in database operations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '385-392'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_193
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/BoyleCFH92
+  type: paper-conference
+  author:
+  - family: Boyle
+    given: James M.
+  - family: Clint
+    given: Maurice
+  - family: Fitzpatrick
+    given: Stephen
+  - family: Harmer
+    given: Terence J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: The construction of numerical mathematical software for the aMT dAP by program
+    transformation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '761-767'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_481
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/AmorMHPRA94
+  type: paper-conference
+  author:
+  - family: Amor
+    given: Margarita
+  - family: Martín
+    given: María J.
+  - family: Heras
+    given: Dora Blanco
+  - family: Plata
+    given: Oscar G.
+  - family: Rivera
+    given: Francisco F.
+  - family: Argüello
+    given: Francisco
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Vectorization of the radix r self-sorting fFT
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-217'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_19
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Brandes86
+  type: paper-conference
+  author:
+  - family: Brandes
+    given: Thomas
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Automatic vectorisation for high level languages based on an expert system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-310'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_184
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/SaadS81
+  type: paper-conference
+  author:
+  - family: Saad
+    given: V.
+  - family: Sameh
+    given: Ahmed H.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Iterative methods for the solution of elliptic difference equations on multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '395-413'
+  volume: '111'
+  DOI: 10.1007/BFb0105132
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Beranek92
+  type: paper-conference
+  author:
+  - family: Beranek
+    given: Anton
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Data race detection based on replay for parallel applications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-114'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_404
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Kindermann94
+  type: paper-conference
+  author:
+  - family: Kindermann
+    given: Stephan
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Flexible program and architecture specification for massively parallel systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-171'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_15
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/PerrottHCS86
+  type: paper-conference
+  author:
+  - family: Perrott
+    given: Ronald H.
+  - family: Holt
+    given: Christopher M.
+  - family: Clint
+    given: Maurice
+  - family: Stewart
+    given: Alan
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A parallel processing algorithm for thinning digitised pictures
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-189'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_169
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/MyoupoF92
+  type: paper-conference
+  author:
+  - family: Myoupo
+    given: Jean Frédéric
+  - family: Fabret
+    given: Anne-Cécile
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Designing modular linear systolic arrays using dependance graph regular partitions
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-270'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_421
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Brezany86
+  type: paper-conference
+  author:
+  - family: Brezany
+    given: Peter
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Parallel compilation on a multiprocessor system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-286'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_181
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/ClintWF94
+  type: paper-conference
+  author:
+  - family: Clint
+    given: Maurice
+  - family: Weston
+    given: Jim
+  - family: Flannagan
+    given: J. B.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Efficient gram-schmidt orthogonalisation on an array processor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-228'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_20
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/HammondMJ94
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Jr.
+    given: James S. Mattson
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Automatic spark strategies and granularity for a parallel functional language
+    reducer
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '521-532'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_46
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Bondeli90
+  type: paper-conference
+  author:
+  - family: Bondeli
+    given: Stefan
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'Divide and conquer: A new parallel algorithm for the solution of a tridiagonal
+    linear system of equations'
+  title-short: Divide and conquer
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-119'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_92
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/LimongelliP94
+  type: paper-conference
+  author:
+  - family: Limongelli
+    given: Carla
+  - family: Pirastu
+    given: Roberto
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Exact solution of linear systems over rational numbers by parallel p-adic
+    arithmetic
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-323'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_28
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Heide86
+  type: paper-conference
+  author:
+  - family: Heide
+    given: K.
+    dropping-particle: von der
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A general purpose pipelined ring architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-205'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_171
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Bemmerl90
+  type: paper-conference
+  author:
+  - family: Bemmerl
+    given: Thomas
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: The tOPSYS architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '732-743'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_149
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Handler86
+  type: paper-conference
+  author:
+  - family: Händler
+    given: Wolfgang
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: 'Multiprocessors: Main trends and dead ends (abstract)'
+  title-short: Multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '403'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_195
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/GortonCJ94
+  type: paper-conference
+  author:
+  - family: Gorton
+    given: Ian
+  - family: Chan
+    given: Toong Shoon
+  - family: Jelly
+    given: Innes
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Engineering high quality parallel software using pARSE
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '381-392'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_34
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/MilikowskiV94
+  type: paper-conference
+  author:
+  - family: Milikowski
+    given: R.
+  - family: Vree
+    given: Willem G.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Non-homogeneous parallel memory operations in a vLIW machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '485-496'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_43
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Staunstrup81
+  type: paper-conference
+  author:
+  - family: Staunstrup
+    given: Jørgen
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Analysis of concurrent algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-230'
+  volume: '111'
+  DOI: 10.1007/BFb0105120
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/HopflST90
+  type: paper-conference
+  author:
+  - family: Höpfl
+    given: F.
+  - family: Schirrmacher
+    given: J.
+  - family: Trent
+    given: M.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A distributed shared memory multiprocessor kit with scalable local complexity
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '581-591'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_135
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/EssafiPJ92
+  type: paper-conference
+  author:
+  - family: Essafi
+    given: Hassane
+  - family: Pic
+    given: Marc
+  - family: Juvin
+    given: Didier
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Kappa-project - first step: To improve data manipualtions and representations
+    on parallel computers'
+  title-short: Kappa-project - first step
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '503-508'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_448
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/JakobJ90
+  type: paper-conference
+  author:
+  - family: Jakob
+    given: Rüdiger
+  - family: Jordan
+    given: Harry F.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: An mIMD execution environment with a fixed number of processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '525-535'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_130
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Speiser90
+  type: paper-conference
+  author:
+  - family: Speiser
+    given: Ambros P.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'Digital electronics for 50 years: No limits to growth?'
+  title-short: Digital electronics for 50 years
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-9'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_83
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BourzoufiGT92
+  type: paper-conference
+  author:
+  - family: Bourzoufi
+    given: H.
+  - family: Goncalves
+    given: Gilles
+  - family: Toursel
+    given: Bernard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A time-bounded binding access with low task-switching cost in an oR-parallel
+    prolog
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '725-730'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_475
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/FitzpatrickHB94
+  type: paper-conference
+  author:
+  - family: Fitzpatrick
+    given: Stephen
+  - family: Harmer
+    given: Terence J.
+  - family: Boyle
+    given: James M.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Deriving efficient parallel implementations of algorithms operating on general
+    sparse matrices using automatic program transformation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-159'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_14
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Fron92
+  type: paper-conference
+  author:
+  - family: Fron
+    given: Annick
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Multiprocessor simulation using object-oriented programming
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '819-820'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_505
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Sedukhin90
+  type: paper-conference
+  author:
+  - family: Sedukhin
+    given: Stanislav
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Systolic array architecture for two-dimensional discrete fourier transform
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '682-691'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_144
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/SchnekenburgerFWS92
+  type: paper-conference
+  author:
+  - family: Schnekenburger
+    given: Thomas
+  - family: Friedrich
+    given: Michael
+  - family: Weininger
+    given: Andreas
+  - family: Schoen
+    given: Thomas
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'ParSim: A tool for the analysis of parallel and distributed programs'
+  title-short: ParSim
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '689-700'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_470
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/RochVV94
+  type: paper-conference
+  author:
+  - family: Roch
+    given: Jean-Louis
+  - family: Vermeerbergen
+    given: A.
+  - family: Villard
+    given: Gilles
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: A new load-prediction scheme based on algorithmic cost functions
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '878-889'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_76
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Jechev86
+  type: paper-conference
+  author:
+  - family: Jechev
+    given: B. J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Full recursive form of the algorithms for fast generalized fourier transforms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-119'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_160
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/BrennerL86
+  type: paper-conference
+  author:
+  - family: Brenner
+    given: Karl-Heinz
+  - family: Lohmann
+    given: A. W.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: The digital optical computing program at erlangen
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-75'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_155
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/LemkeQ92
+  type: paper-conference
+  author:
+  - family: Lemke
+    given: Max
+  - family: Quinlan
+    given: Daniel J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: P++, a c++ virtual shared grids based programming environment for architecture-independent
+    development of structured grid applications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-126'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_406
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Veen81
+  type: paper-conference
+  author:
+  - family: Veen
+    given: Arthur H.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Reconciling data flow machines and conventional languages
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-140'
+  volume: '111'
+  DOI: 10.1007/BFb0105114
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/BemmerlB92
+  type: paper-conference
+  author:
+  - family: Bemmerl
+    given: Thomas
+  - family: Braun
+    given: Peter
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Visualization of message passing parallel programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '79-90'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_400
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ZaversekK92
+  type: paper-conference
+  author:
+  - family: Zaversek
+    given: Peter
+  - family: Kolbezen
+    given: Peter
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Dynamic allocation on the transputer network
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '825-826'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_508
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/MegsonE86
+  type: paper-conference
+  author:
+  - family: Megson
+    given: Graham M.
+  - family: Evans
+    given: David J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: 'LISA: A parallel processing architecture'
+  title-short: LISA
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-375'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_191
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Berthou94
+  type: paper-conference
+  author:
+  - family: Berthou
+    given: Jean-Yves
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Design of a meta-parallelizer for large scientific applications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '652-663'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_57
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/KlingsporLR92
+  type: paper-conference
+  author:
+  - family: Klingspor
+    given: Frank
+  - family: Luhofer
+    given: Dietmar
+  - family: Rottke
+    given: Thomas
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel searching for 3D-objects
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '551-556'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_454
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/HoggLH94
+  type: paper-conference
+  author:
+  - family: Hogg
+    given: R. S.
+  - family: Lloyd
+    given: David W.
+  - family: Hughes
+    given: W. I.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Self-timed communication strategies for massively parallel systolic architectures
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '557-567'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_49
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/EvripidouG90
+  type: paper-conference
+  author:
+  - family: Evripidou
+    given: Paraskevas
+  - family: Gaudiot
+    given: Jean-Luc
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A decoupled data-driven architecture with vectors and macro actors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-50'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_86
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Vajtersic81
+  type: paper-conference
+  author:
+  - family: Vajtersic
+    given: Marián
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Solving two modified discrete poisson equations in 7 logn steps on n2 processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '423-432'
+  volume: '111'
+  DOI: 10.1007/BFb0105134
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/StojcevMMM94
+  type: paper-conference
+  author:
+  - family: Stojcev
+    given: Mile K.
+  - family: Milovanovic
+    given: Emina I.
+  - family: Mihajlovic
+    given: Milan D.
+  - family: Milovanovic
+    given: Igor Z.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallel algorithm for inverting tridiagonal matrix on linear processor array
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-240'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_21
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/AnisimovKPS92
+  type: paper-conference
+  author:
+  - family: Anisimov
+    given: Nikolay A.
+  - family: Kouvalenko
+    given: Aleksey
+  - family: Postupalski
+    given: Pavel
+  - family: Simanchuk
+    given: Aleksey
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A graphical petri net based editor for a visualization of distributed and
+    parallel systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '847-848'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_519
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Schendel81
+  type: paper-conference
+  author:
+  - family: Schendel
+    given: Udo
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: On basic concepts in parallel numerical mathematics
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '373-394'
+  volume: '111'
+  DOI: 10.1007/BFb0105131
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/GarsdenW90
+  type: paper-conference
+  author:
+  - family: Garsden
+    given: H.
+  - family: Wendelborn
+    given: Andrew L.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A comparison of microtasking implementations of the applicative language
+    sISAL
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '697-708'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_146
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Vogell86
+  type: paper-conference
+  author:
+  - family: Vogell
+    given: Thula
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Complexity of parallel partitioned algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '338-344'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_188
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/LincolnMR94
+  type: paper-conference
+  author:
+  - family: Lincoln
+    given: Patrick
+  - family: Meseguer
+    given: José
+  - family: Ricciulli
+    given: Livio
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: The rewrite rule machine node architecture and its performance
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '509-520'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_45
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Ruighaver92
+  type: paper-conference
+  author:
+  - family: Ruighaver
+    given: A. B.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A decoupled multicomputer architecture with optical full interconnection
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-410'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_437
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Richter90
+  type: paper-conference
+  author:
+  - family: Richter
+    given: Reinhard J.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A reconfigurable interconnection network for flexible pipelining
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '397-404'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_118
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Qui-wei86
+  type: paper-conference
+  author:
+  - family: Qui-wei
+    given: Liao
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A new parallel algorithm for solving general linear systems of equations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '264-271'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_179
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/TanC92
+  type: paper-conference
+  author:
+  - family: Tan
+    given: Gary S. H.
+  - family: Chin
+    given: Wei-Ngan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Load balancing in a neighbourhood-based multiprocessor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '801-802'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_496
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Vajtersic92
+  type: paper-conference
+  author:
+  - family: Vajtersic
+    given: Marián
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A vLSI multigrid poisson solver amenable to biharmonic equation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '807-808'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_499
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Lam92
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Stephen P. S.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A novel sorting array processor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '193-204'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_414
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BasuSKP90
+  type: paper-conference
+  author:
+  - family: Basu
+    given: Anupam
+  - family: Srinivas
+    given: S.
+  - family: Kumar
+    given: Kamlesh G.
+  - family: Paulraj
+    given: Arogyaswami
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A model for performance prediction of message passing multiprocessors achieving
+    concurrency by domain decomposition
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-85'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_89
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/AndonovR94
+  type: paper-conference
+  author:
+  - family: Andonov
+    given: Rumen
+  - family: Rajopadhye
+    given: Sanjay V.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Optimal tile sizing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '701-712'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_61
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/KattnerEM94
+  type: paper-conference
+  author:
+  - family: Kattner
+    given: R.
+  - family: Eger
+    given: M.
+  - family: Müller-Schloer
+    given: Christian
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Modeling cache coherence overhead with geometric objects
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '438-448'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_39
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ShiloachV81
+  type: paper-conference
+  author:
+  - family: Shiloach
+    given: Yossi
+  - family: Vishkin
+    given: Uzi
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Finding the maximum, merging and sorting in a parallel computation model
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '314-327'
+  volume: '111'
+  DOI: 10.1007/BFb0105127
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Munthe-Kaas92
+  type: paper-conference
+  author:
+  - family: Munthe-Kaas
+    given: Hans Z.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Generalized shuffle-exchange networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-54'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_397
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LeuS92
+  type: paper-conference
+  author:
+  - family: Leu
+    given: Eric
+  - family: Schiper
+    given: André
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Execution replay: A mechanism for integrating a visualization tool with
+    a symbolic debugger'
+  title-short: Execution replay
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-66'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_398
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Hwang94
+  type: paper-conference
+  author:
+  - family: Hwang
+    given: Kai
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Scalability and programmability of massively parallel processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-4'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_1
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ZuoW90
+  type: paper-conference
+  author:
+  - family: Zuo
+    given: Gu Qing
+  - family: Wang
+    given: An Zhong
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: MPS - an experimental multi-microprocessor based parallel system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '347-354'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_113
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/TanakaMMN94
+  type: paper-conference
+  author:
+  - family: Tanaka
+    given: Yoshio
+  - family: Matsui
+    given: Shogo
+  - family: Maeda
+    given: Atsushi
+  - family: Nakanishi
+    given: Masakazu
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Partial marking gC
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '337-348'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_30
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/PetitonW92
+  type: paper-conference
+  author:
+  - family: Petiton
+    given: Serge G.
+  - family: Weill-Duflos
+    given: Christine
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Massively parallel preconditioners for the sparse conjugate gradient method
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '373-378'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_433
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/1990
+  type: book
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: CONPAR 90 - vAPP iV, joint international conference on vector and parallel
+    processing, zurich, switerland, september 10-13, 1990, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '457'
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/GenglerC92
+  type: paper-conference
+  author:
+  - family: Gengler
+    given: Marc
+  - family: Coray
+    given: Giovanni
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A parallel best-first b&B with synchronization phases
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '515-526'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_450
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/RochV92
+  type: paper-conference
+  author:
+  - family: Roch
+    given: Jean-Louis
+  - family: Villard
+    given: Gilles
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel gcd and lattice basis reduction
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '557-564'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_455
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/GrieblL94
+  type: paper-conference
+  author:
+  - family: Griebl
+    given: Martin
+  - family: Lengauer
+    given: Christian
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: On scanning space-time mapped while loops
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '677-688'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_59
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ChapmanMRZ94
+  type: paper-conference
+  author:
+  - family: Chapman
+    given: Barbara M.
+  - family: Mehrotra
+    given: Piyush
+  - family: Rosendale
+    given: John Van
+  - family: Zima
+    given: Hans P.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: 'A software architecture for multidisciplinary applications: Integrating
+    task and data parallelism'
+  title-short: A software architecture for multidisciplinary applications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '664-676'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_58
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/GrabnerK94
+  type: paper-conference
+  author:
+  - family: Grabner
+    given: Siegfried
+  - family: Kranzlmüller
+    given: Dieter
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Monitoring for detecing bugs and blocking communication
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-75'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_7
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/CalvinCDJMTT94
+  type: paper-conference
+  author:
+  - family: Calvin
+    given: Christophe
+  - family: Colombet
+    given: Laurent
+  - family: Desprez
+    given: Frederic
+  - family: Jargot
+    given: B.
+  - family: Michallon
+    given: Philippe
+  - family: Tourancheau
+    given: Bernard
+  - family: Trystram
+    given: Denis
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Towards mixed computation/Communication in parallel scientific libraries
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '605-615'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_53
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/UresinD86
+  type: paper-conference
+  author:
+  - family: Üresin
+    given: Aydin
+  - family: Dubois
+    given: Michel
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Generalized asynchronous iterations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272-278'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_180
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/SedukhinS94
+  type: paper-conference
+  author:
+  - family: Sedukhin
+    given: Stanislav
+  - family: Sedukhin
+    given: Igor S.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Systematic approach and software tool for systolic design
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '172-183'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_16
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/1994
+  type: book
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: 'Parallel processing: CONPAR 94 - vAPP vI, third joint international conference
+    on vector and parallel processing, linz, austria, september 6-8, 1994, proceedings'
+  title-short: Parallel processing
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '854'
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/MaehleMW86
+  type: paper-conference
+  author:
+  - family: Maehle
+    given: Erik
+  - family: Moritzen
+    given: Klaus
+  - family: Wirl
+    given: Klaus
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Fault-tolerant hardware configuration management on the multiprocessor system
+    dIRMU 25
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '190-197'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_170
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/OhringDH94
+  type: paper-conference
+  author:
+  - family: Öhring
+    given: Sabine R.
+  - family: Das
+    given: Sajal K.
+  - family: Hohndel
+    given: Dirk H.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Asymptotically optimal communication algorithms on faulty folded petersen
+    networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '749-760'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_65
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/KleijK92
+  type: paper-conference
+  author:
+  - family: Kleij
+    given: Reinier
+    dropping-particle: van
+  - family: Kuijper
+    given: Frido
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A multiprocessor system for displaying quadric cSG models
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '583-588'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_458
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Levaire92
+  type: paper-conference
+  author:
+  - family: Levaire
+    given: Jean-Luc
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Semantics and compilation of the data-parallel switch statement
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '491-502'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_447
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ZsoterLB90
+  type: paper-conference
+  author:
+  - family: Zsótér
+    given: A.
+  - family: Legendi
+    given: Tamás
+  - family: Balázs
+    given: G.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Design and implementation of m1 cellprocessor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '692-696'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_145
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/ArbabHS92
+  type: paper-conference
+  author:
+  - family: Arbab
+    given: Farhad
+  - family: Herman
+    given: Ivan
+  - family: Spilling
+    given: Pål
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Manifold: Concepts and implementation'
+  title-short: Manifold
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '793-794'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_492
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SchwehmW94
+  type: paper-conference
+  author:
+  - family: Schwehm
+    given: Markus
+  - family: Walter
+    given: Thomas
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Mapping and scheduling by genetic algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '832-841'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_72
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/UngererZ92
+  type: paper-conference
+  author:
+  - family: Ungerer
+    given: Theo
+  - family: Zehendner
+    given: Eberhard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Threads and subinstruction level parallelism in a dataflow architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '731-736'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_476
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ChenL92
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Jingsen
+  - family: Levcopoulos
+    given: Christos
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Improved parallel sorting of presorted sequences
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '539-544'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_452
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Maquelin90
+  type: paper-conference
+  author:
+  - family: Maquelin
+    given: Olivier
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'ADAM: A coarse-grain dataflow architecture that addresses the load balancing
+    and throttling problems'
+  title-short: ADAM
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-276'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_106
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Nowinski92
+  type: paper-conference
+  author:
+  - family: Nowinski
+    given: Wieslaw Lucjan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A sIMD architecture for medical imaging
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-180'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_412
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/WaringC92
+  type: paper-conference
+  author:
+  - family: Waring
+    given: L. C.
+  - family: Clint
+    given: Maurice
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Computation of the eigenvalues of real symmetric matrices using a processor
+    farm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355-360'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_430
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ThalhoferR86
+  type: paper-conference
+  author:
+  - family: Thalhofer
+    given: Klaus D.
+  - family: Reinartz
+    given: Karl D.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A classification of algorithms which are well suited for implementations
+    on the dAP as a basis for further research on parallel programming
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '376-384'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_192
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/EigenmannHJP90
+  type: paper-conference
+  author:
+  - family: Eigenmann
+    given: Rudolf
+  - family: Hoeflinger
+    given: Jay
+  - family: Jaxon
+    given: Greg
+  - family: Padua
+    given: David A.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Cedar fortran and its compiler
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288-299'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_108
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/JulliandP81
+  type: paper-conference
+  author:
+  - family: Julliand
+    given: Jacques
+  - family: Perrin
+    given: Guy-René
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Design and development of concurrent programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '464-479'
+  volume: '111'
+  DOI: 10.1007/BFb0105138
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/GrossSS90
+  type: paper-conference
+  author:
+  - family: Gross
+    given: L.
+  - family: Sternecker
+    given: P.
+  - family: Schönauer
+    given: Willi
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Optimal data structures for an efficient vectorized finite element code
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '435-446'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_122
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Lam94
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Monica S.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Locality optimizations for parallel machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-28'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_3
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/FellerE81
+  type: paper-conference
+  author:
+  - family: Feller
+    given: M.
+  - family: Ercegovac
+    given: Milos D.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: 'Queue machines: An organization for parallel computation'
+  title-short: Queue machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-47'
+  volume: '111'
+  DOI: 10.1007/BFb0105108
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Bieler90
+  type: paper-conference
+  author:
+  - family: Bieler
+    given: Frank
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Partitioning programs into processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '513-524'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_129
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/FerreiraLS94
+  type: paper-conference
+  author:
+  - family: Ferreira
+    given: Afonso
+  - family: Lejbman
+    given: Alfredo Goldman
+    dropping-particle: vel
+  - family: Song
+    given: Siang W.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Broadcasting in bus interconnection networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '797-807'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_69
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/BoyanovY90
+  type: paper-conference
+  author:
+  - family: Boyanov
+    given: Kiril
+  - family: Yanev
+    given: K.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A family of highly parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '569-580'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_134
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Wu92
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Hongzhong
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On tests of uniform tree circuits
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '527-538'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_451
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/GannonLN92
+  type: paper-conference
+  author:
+  - family: Gannon
+    given: Dennis
+  - family: Lee
+    given: Jenq Kuen
+  - family: Narayana
+    given: Srinivas
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On using object-oriented parallel programming to build distributed algebraic
+    abstractions
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '769-774'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_482
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/TrobecJ94
+  type: paper-conference
+  author:
+  - family: Trobec
+    given: Roman
+  - family: Jerebic
+    given: Izidor
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Optimization of diagnostic examination
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '761-772'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_66
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/KeaneM92
+  type: paper-conference
+  author:
+  - family: Keane
+    given: John A.
+  - family: Mayes
+    given: Kenneth R.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Resource management on a packet-based parallel graph reduction machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '417-422'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_439
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Turkedjiev86
+  type: paper-conference
+  author:
+  - family: Petkov
+    given: Nikolay
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Synthesis of systolic algorithms and processor arrays
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-172'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_167
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/ValeroPA94
+  type: paper-conference
+  author:
+  - family: Valero
+    given: Mateo
+  - family: Peiron
+    given: Montse
+  - family: Ayguadé
+    given: Eduard
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Memory access synchronization in vector multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414-425'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_37
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/MartinoI94
+  type: paper-conference
+  author:
+  - family: Martino
+    given: Beniamino Di
+  - family: Iannello
+    given: Giulio
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallelization of non-simultaneous iterative methods for systems of linear
+    equations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-264'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_23
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Weberpals90
+  type: paper-conference
+  author:
+  - family: Weberpals
+    given: Helmut
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Improving the vector performance via algorithmic domain decomposition
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '458-466'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_124
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Katona81
+  type: paper-conference
+  author:
+  - family: Katona
+    given: 'E.'
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Cellular algorithms for binary matrix operations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-216'
+  volume: '111'
+  DOI: 10.1007/BFb0105119
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/ArvindM94
+  type: paper-conference
+  author:
+  - family: Arvind
+    given: D. K.
+  - family: McConnell
+    given: B. R. J.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Towards the synthesis of asynchronous concurrent programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-135'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_12
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Barth92
+  type: paper-conference
+  author:
+  - family: Barth
+    given: Dominique
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: An algorithm of broadcasting in the mesh of trees
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '843-844'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_517
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ToutE92
+  type: paper-conference
+  author:
+  - family: Tout
+    given: Kifah R.
+  - family: Evans
+    given: David J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A parallel expert system using a backward chaining strategy
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '713-718'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_473
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Uchida86
+  type: paper-conference
+  author:
+  - family: Uchida
+    given: Shunichi
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Toward the parallel inference machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '404-418'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_196
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Dai90
+  type: paper-conference
+  author:
+  - family: Dai
+    given: Kechang
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Code parallelization for the lGDG large-grain dataflow computation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-252'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_104
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BarnettL92
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Michael Barnett
+  - family: Lengauer
+    given: Christian
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Unimodularity considered non-essential
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '659-664'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_467
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Pflug86
+  type: paper-conference
+  author:
+  - family: Pflug
+    given: Georg Ch.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Memory conflicts in mIMD-computers - a performance analysis
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-68'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_154
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Lavault92
+  type: paper-conference
+  author:
+  - family: Lavault
+    given: Christian
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Analysis of an efficient distributed algorithm for mutual exclusion (average-case
+    analysis of path reversal)
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-144'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_408
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Broy81
+  type: paper-conference
+  author:
+  - family: Broy
+    given: Manfred
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: On language constructs for concurrent programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-154'
+  volume: '111'
+  DOI: 10.1007/BFb0105115
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/GurdGK81
+  type: paper-conference
+  author:
+  - family: Gurd
+    given: John R.
+  - family: Glauert
+    given: John R. W.
+  - family: Kirkham
+    given: Chris C.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Generation of dataflow graphical object code for the lapse programming language
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-168'
+  volume: '111'
+  DOI: 10.1007/BFb0105116
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Veldhorst86
+  type: paper-conference
+  author:
+  - family: Veldhorst
+    given: Marinus
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Parallel dynamic programming algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '393-402'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_194
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Meyer92
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Jürgen W.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Automatic mapping of parallel programs onto processor networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '823-824'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_507
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Wagner86
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Frank
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Shuffle/Exchange is the natural interconnection scheme for the parallel fast
+    fourier transform
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '345-352'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_189
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/FritschM81
+  type: paper-conference
+  author:
+  - family: Fritsch
+    given: Gerhard
+  - family: Müller
+    given: Horst
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Parallelization of a minimization problem for multiprocessor systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '453-463'
+  volume: '111'
+  DOI: 10.1007/BFb0105137
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/DaoudiL90
+  type: paper-conference
+  author:
+  - family: Daoudi
+    given: El Mostafa
+  - family: Libert
+    given: Gaetan
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Parallel givens factorization on a shared memory multiprocessor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-142'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_94
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Schnepf90
+  type: paper-conference
+  author:
+  - family: Schnepf
+    given: Eric
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: The performance of linear algebra subprograms on the siemens s series
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '559-568'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_133
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Issarny90
+  type: paper-conference
+  author:
+  - family: Issarny
+    given: Valérie
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Design and implementation of an exception handling mechanism for communicating
+    sequential processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '604-615'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_137
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/MildePA86
+  type: paper-conference
+  author:
+  - family: Milde
+    given: Johannes
+  - family: Plückebaum
+    given: Thomas
+  - family: Ameling
+    given: Walter
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Synchronous communication of cooperating processes in the m5PS multiprocessor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-148'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_164
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Bahi92
+  type: paper-conference
+  author:
+  - family: Bahi
+    given: M.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel algorithms simulation applied to differential-algebraic systems
+    and electrical network application
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '797-798'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_494
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Paugam-Moisy92
+  type: paper-conference
+  author:
+  - family: Paugam-Moisy
+    given: Hélène
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Optimal speedup conditions for a parallel back-propagation algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '719-724'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_474
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Moukeli92
+  type: paper-conference
+  author:
+  - family: Moukeli
+    given: Pierre
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Statistical probabilistic clock synchronization algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-168'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_411
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Peters81
+  type: paper-conference
+  author:
+  - family: Peters
+    given: Frans J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Tree machines and divide-and-conquer algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-36'
+  volume: '111'
+  DOI: 10.1007/BFb0105107
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Kuck81
+  type: paper-conference
+  author:
+  - family: Kuck
+    given: David J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Automatic program restructuring for high-speed computation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-84'
+  volume: '111'
+  DOI: 10.1007/BFb0105110
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/HaanW90
+  type: paper-conference
+  author:
+  - family: Haan
+    given: Oswald
+  - family: Waelde
+    given: Walter
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: FFTVPLIB, a collection of fast fourier transforms for vectorprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '447-457'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_123
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/LengauerH81
+  type: paper-conference
+  author:
+  - family: Lengauer
+    given: Christian
+  - family: Hehner
+    given: Eric C. R.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: A methodolgy for programming with concurrency
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-270'
+  volume: '111'
+  DOI: 10.1007/BFb0105123
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/MugwanezaMS90
+  type: paper-conference
+  author:
+  - family: Mugwaneza
+    given: Léon
+  - family: Muntean
+    given: Traian
+  - family: Sakho
+    given: Ibrahima
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A deadlock free routing algorithm with network size independent buffering
+    space
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '489-501'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_127
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/IstavrinosB90
+  type: paper-conference
+  author:
+  - family: Istavrinos
+    given: Petro
+  - family: Borrmann
+    given: Lothar
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A process and memory model for a parallel distributed-memory machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '479-488'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_126
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Hatz92
+  type: paper-conference
+  author:
+  - family: Hatz
+    given: Volker
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Interconnection networks based on block designs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-42'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_395
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Murer90
+  type: paper-conference
+  author:
+  - family: Murer
+    given: Stephan
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A latency tolerant code generation algorithm for a coarse grain dataflow
+    machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-287'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_107
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/David92
+  type: paper-conference
+  author:
+  - family: David
+    given: Pierre
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Semantic analysis for parallelizing c
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '647-652'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_465
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BemmerlHL90
+  type: paper-conference
+  author:
+  - family: Bemmerl
+    given: Thomas
+  - family: Hansen
+    given: Olav
+  - family: '0002'
+    given: Thomas Ludwig
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: PATOP for performance tuning of parallel programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '840-851'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_159
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/HerschTK92
+  type: paper-conference
+  author:
+  - family: Hersch
+    given: Roger D.
+  - family: Tonelli
+    given: B.
+  - family: Krummenacher
+    given: Bernard
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A multiprocessor multiwindow visualization subsystem
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-108'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_403
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/PodsiadloJ81
+  type: paper-conference
+  author:
+  - family: Podsiadlo
+    given: David A.
+  - family: Jordan
+    given: Harry F.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Operating systems support for the finite element machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-65'
+  volume: '111'
+  DOI: 10.1007/BFb0105109
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/MorrisD86
+  type: paper-conference
+  author:
+  - family: Morris
+    given: David T.
+  - family: Dew
+    given: Peter M.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: An adaptive parallel algorithm for display of cSG objects
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '206-213'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_172
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Nowinski90
+  type: paper-conference
+  author:
+  - family: Nowinski
+    given: Wieslaw Lucjan
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Parallel implementation of the convultion method in image reconstruction
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355-364'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_114
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BouchitteBDR94
+  type: paper-conference
+  author:
+  - family: Bouchitté
+    given: Vincent
+  - family: Boulet
+    given: Pierre
+  - family: Darte
+    given: Alain
+  - family: Robert
+    given: Yves
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Evaluating array expressions on massively parallel machines with communication/
+    computation overlap
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '713-724'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_62
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/HartensteinHW90
+  type: paper-conference
+  author:
+  - family: Hartenstein
+    given: Reiner W.
+  - family: Hirschbiel
+    given: Alexander G.
+  - family: Weber
+    given: M.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A novel paradigm of parallel computation and its use to implement simple
+    high performance hardware
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-62'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_87
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Bhatkar90
+  type: paper-conference
+  author:
+  - family: Bhatkar
+    given: Vijay P.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'Parallel computing: An indian perspective'
+  title-short: Parallel computing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '10-25'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_84
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Treleaven86
+  type: paper-conference
+  author:
+  - family: Treleaven
+    given: Philip C.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Future parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-47'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_151
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/BohmH86
+  type: paper-conference
+  author:
+  - family: Böhm
+    given: R.
+  - family: Homeister
+    given: D.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Fraktale und ihre untersuchung mit parallelrechnung
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-182'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_168
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/FerschaJ94
+  type: paper-conference
+  author:
+  - family: Ferscha
+    given: Alois
+  - family: Johnson
+    given: James
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Performance oriented development of sPMD programs based on task structure
+    specifications
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-65'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_6
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/CrozMR90
+  type: paper-conference
+  author:
+  - family: Croz
+    given: Jeremy Du
+  - family: Mayes
+    given: Peter
+  - family: Brozolo
+    given: Giuseppe Radicati
+    dropping-particle: di
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Factorizations of band matrices using level 3 bLAS
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-231'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_102
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/ChegeTT90
+  type: paper-conference
+  author:
+  - family: Chege
+    given: G. W.
+  - family: Taylor
+    given: R. W.
+  - family: Tealby
+    given: J. M.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'Parallel modelling of electromagnetic field scattering: A new approach
+    using the edinburgh concurrent supercomputer facility'
+  title-short: Parallel modelling of electromagnetic field scattering
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '652-664'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_141
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/WuF92
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Jie Wu
+  - family: Fernández
+    given: Eduardo B.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Broadcasting in faulty cube-connected-cycles with minimum recovery time
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '833-834'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_512
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/RamamrithamK81
+  type: paper-conference
+  author:
+  - family: Ramamritham
+    given: Krithi
+  - family: Keller
+    given: Robert M.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: On synchronization and its specification
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-282'
+  volume: '111'
+  DOI: 10.1007/BFb0105124
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Schepers92
+  type: paper-conference
+  author:
+  - family: Schepers
+    given: Jörg
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Invariance properties in distributed systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-156'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_409
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Schafer90
+  type: paper-conference
+  author:
+  - family: Schäfer
+    given: Michael
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Numerical simulation of thermal convection on sIMD computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '786-795'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_154
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/GriebelHRS92
+  type: paper-conference
+  author:
+  - family: Griebel
+    given: Michael
+  - family: Huber
+    given: W.
+  - family: Rüde
+    given: Ulrich
+  - family: Störtkuhl
+    given: T.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: The combination technique for parallel sparse-grid-preconditioning or -solution
+    of pDEs on workstation networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-228'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_416
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/PlewanS90
+  type: paper-conference
+  author:
+  - family: Plewan
+    given: Hans-Jürgen
+  - family: Schlenk
+    given: Peter
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Creating and controlling concurrency in object oriented systems - a case
+    study
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '616-627'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_138
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Mirenkov90
+  type: paper-conference
+  author:
+  - family: Mirenkov
+    given: Nikolay N.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: High-performance computer system “sIBERIA”
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '806-815'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_156
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Schreiner94
+  type: paper-conference
+  author:
+  - family: Schreiner
+    given: Wolfgang
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Virtual tasks for the pACLIB kernel
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '533-544'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_47
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Jebelean94
+  type: paper-conference
+  author:
+  - family: Jebelean
+    given: Tudor
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Systolic algorithms for long integer gCD computation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-252'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_22
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Zhou92
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Lei
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Complexity estimation in the pIPS parallel programming environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '845-846'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_518
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ChenL94
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Guihai
+  - family: Lau
+    given: Francis C. M.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Laying out midimew networks with constant dilation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '773-784'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_67
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/WardTW90
+  type: paper-conference
+  author:
+  - family: Ward
+    given: Mike
+  - family: Townsend
+    given: Paul
+  - family: Watzlawik
+    given: Günter
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: EDS hardware architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '816-827'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_157
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Burks86
+  type: paper-conference
+  author:
+  - family: Burks
+    given: Arthur W.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A radically non-von-neumann-architecture for learning and discovery
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_148
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Chen94
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Jingsen
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallel heap construction using multiple selection
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '371-380'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_33
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/BougeGUV94
+  type: paper-conference
+  author:
+  - family: Bougé
+    given: Luc
+  - family: Guyadec
+    given: Yann Le
+  - family: Utard
+    given: Gil
+  - family: Virot
+    given: Bernard
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: On the expressivity of a weakest precondition calculus for a simple data-parallel
+    programming language
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-111'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_10
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ArvindK92
+  type: paper-conference
+  author:
+  - family: Arvind
+    given: D. K.
+  - family: Knight
+    given: J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Detection of concurrency-related errors in joyce
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-132'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_407
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DekelS81
+  type: paper-conference
+  author:
+  - family: Dekel
+    given: Eliezer
+  - family: Sahni
+    given: Sartaj
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Binary trees and parallel scheduling algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '480-492'
+  volume: '111'
+  DOI: 10.1007/BFb0105139
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/PinK92
+  type: paper-conference
+  author:
+  - family: Pin
+    given: Chen
+  - family: Krishnamurthy
+    given: E. V.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Data parallel evaluation-interpolation algorithm for solving functional matrix
+    equations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '781-782'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_486
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Polster86
+  type: paper-conference
+  author:
+  - family: Polster
+    given: A.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Parallel solution of eigenvalue problems in acoustics on the distributed
+    array processor (dAP)
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '239-246'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_176
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/KikuchiYMI90
+  type: paper-conference
+  author:
+  - family: Kikuchi
+    given: Hideo
+  - family: Yukawa
+    given: Takashi
+  - family: Matsuzawa
+    given: Kazumitsu
+  - family: Ishikawa
+    given: Tsutomu
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'Presto: A bus-connected multiprocessor for a rete-based production system'
+  title-short: Presto
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-74'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_88
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Lange86
+  type: paper-conference
+  author:
+  - family: Lange
+    given: Otto
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Kronecker products of matrices and their implementation on shuffle/Exchange-type
+    processor networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '353-360'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_190
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/CrookesMB92
+  type: paper-conference
+  author:
+  - family: Crookes
+    given: Danny
+  - family: McHale
+    given: A. P.
+  - family: Beney
+    given: N.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A dAP-based implementation of a portable parallel image processing machine
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '803-804'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_497
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Kushner92
+  type: paper-conference
+  author:
+  - family: Kushner
+    given: Edward J.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Automatic parallelization of grid-based applications for the iPSC/860
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '637-645'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_464
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KusakabeHTA92
+  type: paper-conference
+  author:
+  - family: Kusakabe
+    given: Shigeru
+  - family: Hoshide
+    given: Takahide
+  - family: Taniguchi
+    given: Rin-ichiro
+  - family: Amamiya
+    given: Makoto
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallelism control scheme in a dataflow architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '743-748'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_478
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/GallS94
+  type: paper-conference
+  author:
+  - family: Gall
+    given: Jean-Yves Le
+  - family: Simon
+    given: François
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: 'MUSE: A message passing concurrent computer for on-board space systems'
+  title-short: MUSE
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '545-556'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_48
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/MinHK90
+  type: paper-conference
+  author:
+  - family: Min
+    given: Sang Lyul
+  - family: Hsu
+    given: Yarsun
+  - family: Kim
+    given: Hyoung-Joo
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A design of performance-optimized control-based synchronization
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '312-323'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_110
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Lupke94
+  type: paper-conference
+  author:
+  - family: Lüpke
+    given: Stefan
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Accelerated access to shared distributed arrays on distribued memory systems
+    by access objects
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '449-460'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_40
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Knecht90
+  type: paper-conference
+  author:
+  - family: Knecht
+    given: Renate
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Parallelizing divide-and-conquer algorithms - microtasking versus autotasking
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '548-558'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_132
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Dohmen94
+  type: paper-conference
+  author:
+  - family: Dohmen
+    given: Renate
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Comparison between a message passing and a global shared memory parallel
+    computer by means of a concrete monte-carlo algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '473-484'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_42
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Lang92
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Bruno
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Reducing symmetric banded matrices to tridiagonal form - a comparison of
+    a new parallel algorithm with two serial algorithms on the iPSC/860
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-282'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_422
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LeiteB92
+  type: paper-conference
+  author:
+  - family: Leite
+    given: Neucimar Jerônimo
+  - family: Bertrand
+    given: Gilles
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Computational models for image processing: Towards a concise parallel
+    language'
+  title-short: Computational models for image processing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '831-832'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_511
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Ohring92
+  type: paper-conference
+  author:
+  - family: Öhring
+    given: Sabine R.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Dynamic tree embeddings into de bruijn graphs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '783-784'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_487
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/RauberR94
+  type: paper-conference
+  author:
+  - family: Rauber
+    given: Thomas
+  - family: Rünger
+    given: Gudula
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Hypercube implementation and performance analysis for extrapolation models
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-276'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_24
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/WilkinsonM92
+  type: paper-conference
+  author:
+  - family: Wilkinson
+    given: Bob
+  - family: Mulholland
+    given: Lawrence S.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'An implementation of the bLAS on the i860: A rISC approach to software
+    for rISC devices'
+  title-short: An implementation of the bLAS on the i860
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-294'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_423
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KuchenSL92
+  type: paper-conference
+  author:
+  - family: Kuchen
+    given: Herbert
+  - family: Stoltze
+    given: Holger
+  - family: Lücking
+    given: Friedrich
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Candela - a topology description language
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '777-778'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_484
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BaileyNSS94
+  type: paper-conference
+  author:
+  - family: Bailey
+    given: Peter R.
+  - family: Newey
+    given: Malcolm C.
+  - family: Sitsky
+    given: David
+  - family: Stanton
+    given: Robin
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Supporting coarse and fine grain parallelism in an extension of mL
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '593-604'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_52
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Abstreiter90
+  type: paper-conference
+  author:
+  - family: Abstreiter
+    given: Franz
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Visualizing and analysing the runtime behavior of parallel programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '828-839'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_158
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Eglin-LeclercJP92
+  type: paper-conference
+  author:
+  - family: Eglin-Leclerc
+    given: Marie-Christine
+  - family: Julliand
+    given: Jacques
+  - family: Perrin
+    given: Guy-René
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: How to compile systems of recurrence equations into networks of communicating
+    processes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '795-796'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_493
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/TalbiBAM92
+  type: paper-conference
+  author:
+  - family: Talbi
+    given: El-Ghazali
+  - family: Bessière
+    given: Pierre
+  - family: Ahuactzin
+    given: Juan Manuel
+  - family: Mazer
+    given: Emmanuel
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel robot motion planning in a dynamic environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '835-836'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_513
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LyonS90
+  type: paper-conference
+  author:
+  - family: Lyon
+    given: Gordon
+  - family: Snelick
+    given: Robert
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Workloads, observables, benchmarks and instrumentation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-97'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_90
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/GovindarajanN92
+  type: paper-conference
+  author:
+  - family: Govindarajan
+    given: Ramaswamy
+  - family: Nemawarkar
+    given: Shashank S.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A large context multithreaded architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '423-428'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_440
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LevaireU92
+  type: paper-conference
+  author:
+  - family: Levaire
+    given: Jean-Luc
+  - family: Ubéda
+    given: Stéphane
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A multiscale parallel thinning algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '595-600'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_460
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ShteimannFRE92
+  type: paper-conference
+  author:
+  - family: Shteimann
+    given: Konstantin
+  - family: Feitelson
+    given: Dror G.
+  - family: Rudolph
+    given: Larry
+  - family: Exman
+    given: Iaakov
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Envelopes in adaptive local queues for mIMD load balancing
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '479-484'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_445
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/MansourF92
+  type: paper-conference
+  author:
+  - family: Mansour
+    given: Nashat
+  - family: Fox
+    given: Geoffrey
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel physical optimization algorithms for data mapping
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-96'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_401
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ZimmermannL94
+  type: paper-conference
+  author:
+  - family: Zimmermann
+    given: Wolf
+  - family: Löwe
+    given: Welf
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: An approach to machine-independent parallel programming
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-288'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_25
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/DehneG90
+  type: paper-conference
+  author:
+  - family: Dehne
+    given: Frank K. H. A.
+  - family: Gastaldo
+    given: Michel
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A note on the load balancing problem for coarse grained hypercube dictionary
+    machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '417-422'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_120
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/AklQ92
+  type: paper-conference
+  author:
+  - family: Akl
+    given: Selim G.
+  - family: Qiu
+    given: Ke
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel minimum spanning forest algorithms on the star and pancake interconnection
+    networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '565-570'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_456
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/JohnsonICL94
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: S. P.
+  - family: Ierotheou
+    given: Cos S.
+  - family: Cross
+    given: Mark
+  - family: Leggett
+    given: P. F.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: User interaction and symbolic extensions to dependence analysis
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '725-736'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_63
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/HossfeldW81
+  type: paper-conference
+  author:
+  - family: Hossfeld
+    given: Friedel
+  - family: Weidner
+    given: P.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Parallel evaluation of correlation time-of-flight experiments
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '441-452'
+  volume: '111'
+  DOI: 10.1007/BFb0105136
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/LevrouwA94
+  type: paper-conference
+  author:
+  - family: Levrouw
+    given: Luk
+  - family: Audenaert
+    given: Koenraad
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Minimizing the log size for execution replay of shared-memory programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-87'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_8
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Buehrer86
+  type: paper-conference
+  author:
+  - family: Buehrer
+    given: R. E.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A high performance interconnection concept for dataflow - or other closely
+    coupled multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '230-238'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_175
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/GaoHW90
+  type: paper-conference
+  author:
+  - family: Gao
+    given: Guang R.
+  - family: Hum
+    given: Herbert H. J.
+  - family: Wong
+    given: Yue-Bong
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: An efficient scheme for fine-grain software pipelining
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '709-720'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_147
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Pecht81
+  type: paper-conference
+  author:
+  - family: Pecht
+    given: Josef
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: The development of fast cellular pattern transformation algorithms using
+    virtual boundaries
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-202'
+  volume: '111'
+  DOI: 10.1007/BFb0105118
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/GrammatikakisJ92
+  type: paper-conference
+  author:
+  - family: Grammatikakis
+    given: Miltos D.
+  - family: Jwo
+    given: Jung-Sing
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Greedy permutation routing on caylay graphs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '839-840'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_515
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/MzoughiLL92
+  type: paper-conference
+  author:
+  - family: Mzoughi
+    given: Abdelaziz
+  - family: Lalam
+    given: Mustapha
+  - family: Litaize
+    given: Daniel
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Very high speed vectorial processors using serial multiport memory as data
+    memory
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '411-416'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_438
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Halada81
+  type: paper-conference
+  author:
+  - family: Halada
+    given: Ladislav
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: A parallel algorithm for solving band systems and matrix inversion
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '433-440'
+  volume: '111'
+  DOI: 10.1007/BFb0105135
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/AdamoT92
+  type: paper-conference
+  author:
+  - family: Adamo
+    given: Jean-Marc
+  - family: Trejo
+    given: Luis A.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Experimenting upon the cG algorithm within the c\_NET programming environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '841-842'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_516
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/HamanakaNT92
+  type: paper-conference
+  author:
+  - family: Hamanaka
+    given: Naoki
+  - family: Nakagoshi
+    given: Junji
+  - family: Tanaka
+    given: Teruo
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Reducing network hardware quantity by employing multi-processor cluster structure
+    in distributed memory parallel processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-30'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_393
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/EmbrechtsR92
+  type: paper-conference
+  author:
+  - family: Embrechts
+    given: Hugo
+  - family: Roose
+    given: Dirk
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel algorithms for the distance transformation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '571-582'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_457
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DavidFRS92
+  type: paper-conference
+  author:
+  - family: David
+    given: V.
+  - family: Fraboul
+    given: C.
+  - family: Rousselot
+    given: J. Y.
+  - family: Siron
+    given: Pierre
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Partitioning and mapping communication graphs on a modular reconfigurable
+    parallel architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-48'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_396
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BeccardA90
+  type: paper-conference
+  author:
+  - family: Beccard
+    given: R.
+  - family: Ameling
+    given: Walter
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: From object-oriented programming to automatic load distribution
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '502-512'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_128
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Kunde86
+  type: paper-conference
+  author:
+  - family: Kunde
+    given: Manfred
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A general approach to sorting on 3-dimensionally mesh-connected arrays
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '329-337'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_187
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/WerthF94
+  type: paper-conference
+  author:
+  - family: Werth
+    given: Mourad Raji
+  - family: Feautrier
+    given: Paul
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Optimizing communications by using compile time analysis
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '689-700'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_60
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/HarissisJA90
+  type: paper-conference
+  author:
+  - family: Harissis
+    given: A.
+  - family: Jam
+    given: C.
+  - family: Ambler
+    given: A.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Analysis and design of circuit switching interconnection networks using 4×4
+    nodes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '374-384'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_116
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Xue92
+  type: paper-conference
+  author:
+  - family: Xue
+    given: Jingling
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On the loading, recovery and access of stationary data in systolic arrays
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-264'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_420
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Deserable94
+  type: paper-conference
+  author:
+  - family: Désérable
+    given: Dominique
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Broadcasting in the arrowhead torus
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '808-819'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_70
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Yeh92
+  type: paper-conference
+  author:
+  - family: Yeh
+    given: Hong-Jin
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A task scheduling algorithm for the parallel expression evaluation in a reconfigurable
+    fully digit on-line network
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '653-658'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_466
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DongenGN92
+  type: paper-conference
+  author:
+  - family: Dongen
+    given: Vincent Van
+  - family: Gao
+    given: Guang R.
+  - family: Ning
+    given: Qi
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A polynomial time method for optimal software pipelining
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '613-624'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_462
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SrinivasD92
+  type: paper-conference
+  author:
+  - family: Srinivas
+    given: Suresh
+  - family: Dybvig
+    given: R. Kent
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Superscalar floating-point vector computation in scheme
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '811-812'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_501
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/EklundK90
+  type: paper-conference
+  author:
+  - family: Eklund
+    given: Patrik
+  - family: '0001'
+    given: Michael Kaufmann
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Hierarchical wiring in multigrids
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '423-434'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_121
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/AklL94
+  type: paper-conference
+  author:
+  - family: Akl
+    given: Selim G.
+  - family: Lindon
+    given: Lorrie Fava
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Paradigms admitting superunitary behaviour in parallel computation
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-312'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_27
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/StokarGGHMSSZ90
+  type: paper-conference
+  author:
+  - family: Stokar
+    given: D.
+  - family: Gunzinger
+    given: Anton
+  - family: Guggenbühl
+    given: Walter
+  - family: Hiltebrand
+    given: Edi
+  - family: Mathis
+    given: S.
+  - family: Schaeren
+    given: P.
+  - family: Schneuwly
+    given: Bruno
+  - family: Zeltner
+    given: Markus
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: 'SYDAMA iI: A heterogeneous multiprocessor system for real time image processing'
+  title-short: SYDAMA iI
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '365-373'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_115
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Tvrdik92
+  type: paper-conference
+  author:
+  - family: Tvrdík
+    given: Pavel
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: On incomplete hypercubes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-24'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_392
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BerthouK92
+  type: paper-conference
+  author:
+  - family: Berthou
+    given: Jean-Yves
+  - family: Klein
+    given: Philippe
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Estimating the effective performance of program parallelization on shared
+    memory mIMD multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '701-706'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_471
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BirdTM92
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Peter L.
+  - family: Topham
+    given: Nigel P.
+  - family: Manoharan
+    given: Sathiamoorthy
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A comparison of two memory models for high performance computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '399-404'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_436
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Grit90
+  type: paper-conference
+  author:
+  - family: Grit
+    given: Dale H.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Sisal on a message passing architecture
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '721-731'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_148
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/LinO92
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Rong
+  - family: Olariu
+    given: Stephan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Computing the inner product on reconfigurable buses with shift switching
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-192'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_413
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Rabhi92
+  type: paper-conference
+  author:
+  - family: Rabhi
+    given: Fethi A.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A parallel structure for static iterative transformation algorithms
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '755-760'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_480
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/1981
+  type: book
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: 'CONPAR 81: Conference on analysing problem classes and programming for
+    parallel computing, nürnberg, germany, june 10-12, 1981, proceedings'
+  title-short: CONPAR 81
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '111'
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Legendi81
+  type: paper-conference
+  author:
+  - family: Legendi
+    given: Tamás
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Cellular algorithms and their verification
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-188'
+  volume: '111'
+  DOI: 10.1007/BFb0105117
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/AmestoyDDM92
+  type: paper-conference
+  author:
+  - family: Amestoy
+    given: Patrick
+  - family: Daydé
+    given: Michel J.
+  - family: Duff
+    given: Iain S.
+  - family: Morère
+    given: Pierre
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Linear algebra calculations on the bBN tC2000
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '319-330'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_426
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/ShanehchiE81
+  type: paper-conference
+  author:
+  - family: Shanehchi
+    given: J.
+  - family: Evans
+    given: D. J.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: New variants of the quadrant interlocking factorisation (q.I.F.) method
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '493-507'
+  volume: '111'
+  DOI: 10.1007/BFb0105140
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Flanders81
+  type: paper-conference
+  author:
+  - family: Flanders
+    given: Peter M.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Non-numerical aspects of computations on parallel hardware
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-297'
+  volume: '111'
+  DOI: 10.1007/BFb0105125
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/1986
+  type: book
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: 'CONPAR 86: Conference on algorithms and hardware for parallel processing,
+    aachen, september 17-19, 1986, proceedings'
+  title-short: CONPAR 86
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '237'
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/MilovanovicMS92
+  type: paper-conference
+  author:
+  - family: Milovanovic
+    given: Emina I.
+  - family: Milovanovic
+    given: Igor Z.
+  - family: Stojcev
+    given: Mile K.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Matrix inversion algorithm for linear array processor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '367-372'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_432
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Lee86
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Matthew K. O.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: A packet based demand/Data driven reduction model for the parallel execution
+    of logic programs
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '214-221'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_173
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/ZhangGMR92
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Lichen
+  - family: Galindo
+    given: Michel
+  - family: Marquie
+    given: Daniel
+  - family: Raynaud
+    given: Yves
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Generating physical channel access protocol data unit of cCSDS recommendation
+    by use of the transputers and oCCAM
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '791-792'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_491
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SchaferGS92
+  type: paper-conference
+  author:
+  - family: Schäfer
+    given: Michael
+  - family: Gutzmann
+    given: Michael M.
+  - family: Schwehm
+    given: Markus
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Comparing the dAP, meiko and suprenum with a fluid dynamic benchmark
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-240'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_417
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Prestwich94
+  type: paper-conference
+  author:
+  - family: Prestwich
+    given: Steven David
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: On logic program parallelisation strategies
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-300'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_26
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/BecherB92
+  type: paper-conference
+  author:
+  - family: Becher
+    given: Jonathan D.
+  - family: Beck
+    given: Kent
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Profiling on a massively parallel computer
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-102'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_402
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SturzlingerW94
+  type: paper-conference
+  author:
+  - family: Stürzlinger
+    given: Wolfgang
+  - family: Wild
+    given: Christoph
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Parallel visibility computations for parallel radiosity
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-413'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_36
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/UngerA92
+  type: paper-conference
+  author:
+  - family: Unger
+    given: Herwig
+  - family: Achour
+    given: Khaled Ben
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A petri-net-based method to the design of parallel programs for a multiprocessor
+    system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '749-754'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_479
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KnirschH92
+  type: paper-conference
+  author:
+  - family: Knirsch
+    given: Ralf
+  - family: Hofmann
+    given: Klaus
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: An improved parallel algorithm for the solution of molecular dynamics problems
+    on mIMD multiprocessors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '829-830'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_510
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/KastnerSZ94
+  type: paper-conference
+  author:
+  - family: Kastner
+    given: Wolfgang
+  - family: Stöckler
+    given: Stefan
+  - family: Zeitlberger
+    given: René
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: 'GOLD mINE: Specification language for event-based monitoring'
+  title-short: GOLD mINE
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-99'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_9
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ViolardP94
+  type: paper-conference
+  author:
+  - family: Violard
+    given: Eric
+  - family: Perrin
+    given: Guy-René
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Reduction in pEI
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-123'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_11
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Kacsuk90
+  type: paper-conference
+  author:
+  - family: Kacsuk
+    given: Péter
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Prolog implementations on parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-175'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_97
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/DiNucciB90
+  type: paper-conference
+  author:
+  - family: DiNucci
+    given: David C.
+  - family: II
+    given: Robert G. Babb
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Development of portable parallel programs with large-grain data flow 2
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-264'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_105
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/MaslovP94
+  type: paper-conference
+  author:
+  - family: Maslov
+    given: Vadim
+  - family: Pugh
+    given: William
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Simplifying polynominal constraints over integers to make dependence analysis
+    more precise
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '737-748'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_64
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Gajski81
+  type: paper-conference
+  author:
+  - family: Gajski
+    given: Daniel
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Recurrence semigroups and their relation to data storage in fast recurrence
+    solvers on parallel machines
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '343-357'
+  volume: '111'
+  DOI: 10.1007/BFb0105129
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/Stpiczynski92
+  type: paper-conference
+  author:
+  - family: Stpiczynski
+    given: Przemyslaw
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Parallel algorithms for solving linear recurrence systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '434-348'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_428
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/CornardMRT86
+  type: paper-conference
+  author:
+  - family: Cosnard
+    given: Michel
+  - family: Marrakchi
+    given: Mounir
+  - family: Robert
+    given: Yves
+  - family: Trystram
+    given: Denis
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Gauss elimination algorithms for mIMD computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-254'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_177
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/DionGU94
+  type: paper-conference
+  author:
+  - family: Dion
+    given: Michèle
+  - family: Gengler
+    given: Marc
+  - family: Ubéda
+    given: Stéphane
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Comparing two probabilistic models of the computational complexity of the
+    branch and bound algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '359-370'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_32
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/WabnigHKV94
+  type: paper-conference
+  author:
+  - family: Wabnig
+    given: Harald
+  - family: Haring
+    given: Günter
+  - family: Kranzlmüller
+    given: Dieter
+  - family: Volkert
+    given: Jens
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Communication pattern based performance prediction on the nCUBE 2 multiprocessor
+    system
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-52'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_5
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/Tarnvik92
+  type: paper-conference
+  author:
+  - family: Tärnvik
+    given: Erik
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Dynamo - a portable tool for dynamic load balancing on distributed memory
+    multicomputers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '485-490'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_446
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/CosnardP90
+  type: paper-conference
+  author:
+  - family: Cosnard
+    given: Michel
+  - family: Philippe
+    given: Jean-Laurent
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Achieving superlinear speedups for the multiple polynomial quadratic sieve
+    factoring algorithm on a distributed memory multiprocessor
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '863-874'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_161
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/SaitoAKA86
+  type: paper-conference
+  author:
+  - family: Saito
+    given: Chizuko
+  - family: Amano
+    given: Hideharu
+  - family: Kudoh
+    given: Tomohiro
+  - family: Aiso
+    given: Hideo
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: An adaptable cluster structure of (sM)²-iI
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-60'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_153
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/DemianM92
+  type: paper-conference
+  author:
+  - family: Demian
+    given: V.
+  - family: Mignot
+    given: J. C.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Implementation of the self-organizing feature map on parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '775-776'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_483
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/NathMB81
+  type: paper-conference
+  author:
+  - family: Nath
+    given: Dhruva
+  - family: Maheshwari
+    given: S. N.
+  - family: Bhatt
+    given: P. C. P.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Parallel algorithms for the convex hull problem in two dimensions
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '358-372'
+  volume: '111'
+  DOI: 10.1007/BFb0105130
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/BhattCLR92
+  type: paper-conference
+  author:
+  - family: Bhatt
+    given: Sandeep N.
+  - family: Chung
+    given: Fan R. K.
+  - family: Leighton
+    given: Frank Thomson
+  - family: Rosenberg
+    given: Arnold L.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Tolerating faults in synchronization networks
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_391
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/GovindarajanAG94
+  type: paper-conference
+  author:
+  - family: Govindarajan
+    given: Ramaswamy
+  - family: Altman
+    given: Erik R.
+  - family: Gao
+    given: Guang R.
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: A framework for resource-constrained rate-optimal software pipelining
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '640-651'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_56
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/OlariuSZ92
+  type: paper-conference
+  author:
+  - family: Olariu
+    given: Stephan
+  - family: Schwing
+    given: James L.
+  - family: Zhang
+    given: Jingyuan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Efficient image computations on reconfigurable meshes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '589-594'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_459
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BulckHKPRSS94
+  type: paper-conference
+  author:
+  - family: Bülck
+    given: Torsten
+  - family: Held
+    given: Achim
+  - family: Kluge
+    given: Werner E.
+  - family: Pantke
+    given: Stefan
+  - family: Rathsack
+    given: Carsten
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Schröder
+    given: Raimund
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Experience with the implementation of a concurrent graph reduction system
+    on an nCube/2 platform
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '497-508'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_44
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/ClintWB90
+  type: paper-conference
+  author:
+  - family: Clint
+    given: Maurice
+  - family: Weston
+    given: Jim
+  - family: Bleakney
+    given: C. W.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Hybrid algorithms for the eigensolution of large sparse symmetric matrices
+    on the aMT dAP 510
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '766-773'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_152
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BullF92
+  type: paper-conference
+  author:
+  - family: Bull
+    given: J. Mark
+  - family: Freeman
+    given: T. L.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Numerical performance of an asynchronous jacobi iteration
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-366'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_431
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/SpaltSM94
+  type: paper-conference
+  author:
+  - family: Spalt
+    given: Alfred
+  - family: Spiegl
+    given: Edith
+  - family: Meikl
+    given: Thomas
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: Massively parallel volume rendering
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '393-404'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_35
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/StojcevMMJ92
+  type: paper-conference
+  author:
+  - family: Stojcev
+    given: Mile K.
+  - family: Milovanovic
+    given: Igor Z.
+  - family: Milovanovic
+    given: Emina I.
+  - family: Jovanovic
+    given: Goran S.
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Real-number codes for fault-tolerant matrix inversion on processor arrays
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '821-822'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_506
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/GutzmannS92
+  type: paper-conference
+  author:
+  - family: Gutzmann
+    given: Michael M.
+  - family: Steffan
+    given: Klaus
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'PEPSIM-sT: A simulator tool for benchmarking'
+  title-short: PEPSIM-sT
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '665-676'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_468
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/BemmerlLT90
+  type: paper-conference
+  author:
+  - family: Bemmerl
+    given: Thomas
+  - family: Lindhof
+    given: Robert
+  - family: Treml
+    given: Thomas
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: The distributed monitor system of tOPSYS
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '756-765'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_151
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Vajtersic90
+  type: paper-conference
+  author:
+  - family: Vajtersic
+    given: Marián
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Parallel multigrid algorithms for some specialized computer systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '887-896'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_163
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Vornberger86
+  type: paper-conference
+  author:
+  - family: Vornberger
+    given: Oliver
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Implementing branch-and-bound in a ring of processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-164'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_166
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/1992
+  type: book
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'Parallel processing: CONPAR 92 - vAPP v, second joint international conference
+    on vector and parallel processing, lyon, france, september 1-4, 1992, proceedings'
+  title-short: Parallel processing
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '634'
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Pozo92
+  type: paper-conference
+  author:
+  - family: Pozo
+    given: Roldan
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Performance modeling of sparse matrix methods for distributed memory architectures
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '677-688'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_469
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/DavidLP81
+  type: paper-conference
+  author:
+  - family: Dávid
+    given: G.
+  - family: Losonczi
+    given: I.
+  - family: Papp
+    given: S. D.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Language support for designing multilevel computer systems
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-100'
+  volume: '111'
+  DOI: 10.1007/BFb0105111
+  ISBN: '3-540-10827-0'
+
+- id: conf/conpar/BischofL90
+  type: paper-conference
+  author:
+  - family: Bischof
+    given: Christian H.
+  - family: Lacroute
+    given: Philippe G.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: An adaptive blocking strategy for matrix factorizations
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '210-221'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_101
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Bar-OnM92
+  type: paper-conference
+  author:
+  - family: Bar-On
+    given: Ilan
+  - family: Munk
+    given: Ophir
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: A new parallel factorization a = dDtBC for band symmetric positive definite
+    matrices
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349-354'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_429
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/LahjomriP92
+  type: paper-conference
+  author:
+  - family: Lahjomri
+    given: Zakaria
+  - family: Priol
+    given: Thierry
+  editor:
+  - family: Bougé
+    given: Luc
+  issued:
+  - year: '1992'
+  title: 'KOAN: A shared virtual memory for the iPSC/2 hypercube'
+  title-short: KOAN
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '441-452'
+  volume: '634'
+  DOI: 10.1007/3-540-55895-0_442
+  ISBN: '3-540-55895-0'
+
+- id: conf/conpar/Romero90
+  type: paper-conference
+  author:
+  - family: Romero
+    given: Jorge Humberto Conçalves
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A comparative study of two wavefront implementations of a lU solver algorithm
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '672-681'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_143
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BerrendorfGLP94
+  type: paper-conference
+  author:
+  - family: Berrendorf
+    given: Rudolf
+  - family: Gerndt
+    given: Michael
+  - family: Lahjomri
+    given: Zakaria
+  - family: Priol
+    given: Thierry
+  editor:
+  - family: Buchberger
+    given: Bruno
+  issued:
+  - year: '1994'
+  title: A comparison of shared virtual memory and message passing programming techniques
+    based on a finite element application
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '461-472'
+  volume: '854'
+  DOI: 10.1007/3-540-58430-7_41
+  ISBN: '3-540-58430-7'
+
+- id: conf/conpar/RostM90
+  type: paper-conference
+  author:
+  - family: Rost
+    given: Johann
+  - family: Maehle
+    given: Erik
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: A distributed algorithm for dynamic task scheduling
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '628-639'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_139
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/SchneiderD86
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Hans-Albert
+  - family: Dilger
+    given: Werner
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1986'
+  title: Information processing with associative processors
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-229'
+  volume: '237'
+  DOI: 10.1007/3-540-16811-7_174
+  ISBN: '3-540-16811-7'
+
+- id: conf/conpar/Flanders90
+  type: paper-conference
+  author:
+  - family: Flanders
+    given: Peter M.
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Virtual systems architecture on the aMT dAP
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '774-785'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_153
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/BlancT90
+  type: paper-conference
+  author:
+  - family: Blanc
+    given: Jean-Yves
+  - family: Trystram
+    given: Denis
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: Implementation of parallel numerical routines using broadcast communication
+    schemes
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '467-478'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_125
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Moser90
+  type: paper-conference
+  author:
+  - family: Moser
+    given: Michael
+  editor:
+  - family: Burkhart
+    given: Helmar
+  issued:
+  - year: '1990'
+  title: The eLAN performance analysis environment
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-199'
+  volume: '457'
+  DOI: 10.1007/3-540-53065-7_99
+  ISBN: '3-540-53065-7'
+
+- id: conf/conpar/Burks81
+  type: paper-conference
+  author:
+  - family: Burks
+    given: Arthur W.
+  editor:
+  - family: Händler
+    given: Wolfgang
+  issued:
+  - year: '1981'
+  title: Programming and structure changes in parallel computers
+  container-title: CONPAR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-24'
+  volume: '111'
+  DOI: 10.1007/BFb0105106
+  ISBN: '3-540-10827-0'
+...

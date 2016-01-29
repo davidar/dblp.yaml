@@ -1,0 +1,1518 @@
+---
+references:
+- id: conf/ewrl/GirginP08
+  type: paper-conference
+  author:
+  - family: Girgin
+    given: Sertan
+  - family: Preux
+    given: Philippe
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Basis expansion in natural actor critic methods
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '110-123'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_9
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/GeistS11
+  type: paper-conference
+  author:
+  - family: Geist
+    given: Matthieu
+  - family: Scherrer
+    given: Bruno
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: ℓ1-penalized projected bellman residual
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-101'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_12
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/PaduraruPPC12
+  type: paper-conference
+  author:
+  - family: Paduraru
+    given: Cosmin
+  - family: Precup
+    given: Doina
+  - family: Pineau
+    given: Joelle
+  - family: Comanici
+    given: Gheorghe
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: An empirical analysis of off-policy learning in discrete mDPs
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '89-102'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/paduraru12a.html
+
+- id: conf/ewrl/HeessST12
+  type: paper-conference
+  author:
+  - family: Heess
+    given: Nicolas
+  - family: Silver
+    given: David
+  - family: Teh
+    given: Yee Whye
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Actor-critic reinforcement learning with energy-based policies
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '43-58'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/heess12a.html
+
+- id: conf/ewrl/Metzen12
+  type: paper-conference
+  author:
+  - family: Metzen
+    given: Jan Hendrik
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Online skill discovery using graph-based clustering
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '77-88'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/metzen12a.html
+
+- id: conf/ewrl/DegrisSW08
+  type: paper-conference
+  author:
+  - family: Degris
+    given: Thomas
+  - family: Sigaud
+    given: Olivier
+  - family: Wuillemin
+    given: Pierre-Henri
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Exploiting additive structure in factored mDPs for reinforcement learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-26'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_2
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/MatsuiGIC11
+  type: paper-conference
+  author:
+  - family: Matsui
+    given: Tohgoroh
+  - family: Goto
+    given: Takashi
+  - family: Izumi
+    given: Kiyoshi
+  - family: Chen
+    given: Yu
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Compound reinforcement learning: Theory and an application to finance'
+  title-short: Compound reinforcement learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '321-332'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_31
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/YuMS08
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Jia Yuan
+  - family: Mannor
+    given: Shie
+  - family: Shimkin
+    given: Nahum
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Markov decision processes with arbitrary reward processes
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '268-281'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_21
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/RobardsS11
+  type: paper-conference
+  author:
+  - family: Robards
+    given: Matthew W.
+  - family: Sunehag
+    given: Peter
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Gradient based algorithms with loss functions and kernels for improved on-policy
+    control
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '30-41'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_7
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/GoschinWLC12
+  type: paper-conference
+  author:
+  - family: Goschin
+    given: Sergiu
+  - family: Weinstein
+    given: Ari
+  - family: Littman
+    given: Michael L.
+  - family: Chastain
+    given: Erick
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Planning in reward-rich domains via pAC bandits
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '25-42'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/goschin12a.html
+
+- id: conf/ewrl/PetersKN08
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Jan Peters
+  - family: Kober
+    given: Jens
+  - family: Nguyen-Tuong
+    given: Duy
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Policy learning - a unified perspective with applications in robotics
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-228'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_17
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/CastroP11
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Pablo Samuel
+  - family: Precup
+    given: Doina
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Automatic construction of temporally extended actions for mDPs using bisimulation
+    metrics
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-152'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_16
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/Elkan11
+  type: paper-conference
+  author:
+  - family: Elkan
+    given: Charles
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Reinforcement learning with a bilinear q function
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-88'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_11
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/LesnerZ11
+  type: paper-conference
+  author:
+  - family: Lesner
+    given: Boris
+  - family: Zanuttini
+    given: Bruno
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Handling ambiguous effects in action learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-65'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_9
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/FachantidisPTV11
+  type: paper-conference
+  author:
+  - family: Fachantidis
+    given: Anestis
+  - family: Partalas
+    given: Ioannis
+  - family: Taylor
+    given: Matthew E.
+  - family: Vlahavas
+    given: Ioannis P.
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Transfer learning via multiple inter-task mappings
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '225-236'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_23
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/WelshW08
+  type: paper-conference
+  author:
+  - family: Welsh
+    given: Noel
+  - family: Wyatt
+    given: Jeremy
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: 'United we stand: Population based methods for solving unknown pOMDPs'
+  title-short: United we stand
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-252'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_19
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/GeistPF08
+  type: paper-conference
+  author:
+  - family: Geist
+    given: Matthieu
+  - family: Pietquin
+    given: Olivier
+  - family: Fricout
+    given: Gabriel
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Bayesian reward filtering
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-109'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_8
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/2012
+  type: book
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Proceedings of the tenth european workshop on reinforcement learning, eWRL
+    2012, edinburgh, scotland, june, 2012
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/
+
+- id: conf/ewrl/RasmussenD08
+  type: paper-conference
+  author:
+  - family: Rasmussen
+    given: Carl Edward
+  - family: Deisenroth
+    given: Marc Peter
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Probabilistic inference for fast learning in control
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-242'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_18
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/Martin-GuerreroSMSMG08
+  type: paper-conference
+  author:
+  - family: Martín-Guerrero
+    given: José David
+  - family: Soria-Olivas
+    given: Emilio
+  - family: Martínez-Sober
+    given: Marcelino
+  - family: Serrano-López
+    given: Antonio J.
+  - family: Benedito
+    given: José Rafael Magdalena
+  - family: Gómez-Sanchís
+    given: Juan
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Use of reinforcement learning in two real applications
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-204'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_15
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/SnelW11
+  type: paper-conference
+  author:
+  - family: Snel
+    given: Matthijs
+  - family: Whiteson
+    given: Shimon
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Multi-task reinforcement learning: Shaping and feature selection'
+  title-short: Multi-task reinforcement learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-248'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_24
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/NguyenSH11
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Phuong Minh
+  - family: Sunehag
+    given: Peter
+  - family: Hutter
+    given: Marcus
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Feature reinforcement learning in practice
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-77'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_10
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/2011
+  type: book
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2012'
+  title: Recent advances in reinforcement learning - 9th european workshop, eWRL 2011,
+    athens, greece, september 9-11, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/MaesWE11
+  type: paper-conference
+  author:
+  - family: Maes
+    given: Francis
+  - family: Wehenkel
+    given: Louis
+  - family: Ernst
+    given: Damien
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Automatic discovery of ranking formulas for playing with multi-armed bandits
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '5-17'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_5
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/ScherrerG11
+  type: paper-conference
+  author:
+  - family: Scherrer
+    given: Bruno
+  - family: Geist
+    given: Matthieu
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Recursive least-squares learning with eligibility traces
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-127'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_14
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/2008
+  type: book
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Recent advances in reinforcement learning, 8th european workshop, eWRL 2008,
+    villeneuve d’Ascq, france, june 30 - july 3, 2008, revised and selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5323'
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/ValkoGL12
+  type: paper-conference
+  author:
+  - family: Valko
+    given: Michal
+  - family: Ghavamzadeh
+    given: Mohammad
+  - family: Lazaric
+    given: Alessandro
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Semi-supervised apprenticeship learning
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '131-142'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/valko12a.html
+
+- id: conf/ewrl/PaduraruPP11
+  type: paper-conference
+  author:
+  - family: Paduraru
+    given: Cosmin
+  - family: Precup
+    given: Doina
+  - family: Pineau
+    given: Joelle
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: A framework for computing bounds for the return of a policy
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '201-212'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_21
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/ChatzidimitriouPMV11
+  type: paper-conference
+  author:
+  - family: Chatzidimitriou
+    given: Kyriakos C.
+  - family: Partalas
+    given: Ioannis
+  - family: Mitkas
+    given: Pericles A.
+  - family: Vlahavas
+    given: Ioannis P.
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Transferring evolved reservoir features in reinforcement learning tasks
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '213-224'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_22
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/DimitrakakisL08
+  type: paper-conference
+  author:
+  - family: Dimitrakakis
+    given: Christos
+  - family: Lagoudakis
+    given: Michail G.
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Algorithms and bounds for rollout sampling approximate policy iteration
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-40'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_3
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/DimitrakakisR11
+  type: paper-conference
+  author:
+  - family: Dimitrakakis
+    given: Christos
+  - family: Rothkopf
+    given: Constantin A.
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Bayesian multitask inverse reinforcement learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-284'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_27
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/LevyS11
+  type: paper-conference
+  author:
+  - family: Levy
+    given: Kfir Y.
+  - family: Shimkin
+    given: Nahum
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Unified inter and intra options learning using policy gradient methods
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-164'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_17
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/YuB08
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Huizhen
+  - family: Bertsekas
+    given: Dimitri P.
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: New error bounds for approximations from projected linear equations
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-267'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_20
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/Vlachos12
+  type: paper-conference
+  author:
+  - family: Vlachos
+    given: Andreas
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: An investigation of imitation learning algorithms for structured prediction
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '143-154'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/vlachos12a.html
+
+- id: conf/ewrl/Auer11
+  type: paper-conference
+  author:
+  - family: Auer
+    given: Peter
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Invited talk: UCRL and autonomous exploration'
+  title-short: Invited talk
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_1
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/LoiaconoL08
+  type: paper-conference
+  author:
+  - family: Loiacono
+    given: Daniele
+  - family: Lanzi
+    given: Pier Luca
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Tile coding based on hyperplane tiles
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-190'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_14
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/Szepesvari11
+  type: paper-conference
+  author:
+  - family: Szepesvári
+    given: Csaba
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Invited talk: Towards robust reinforcement learning algorithms'
+  title-short: Invited talk
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '4'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_4
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/MannC12
+  type: paper-conference
+  author:
+  - family: Mann
+    given: Timothy Arthur
+  - family: Choe
+    given: Yoonsuck
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Directed exploration in reinforcement learning with transferred knowledge
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '59-76'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/mann12a.html
+
+- id: conf/ewrl/HrenM08
+  type: paper-conference
+  author:
+  - family: Hren
+    given: Jean-François
+  - family: Munos
+    given: Rémi
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Optimistic planning of deterministic systems
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-164'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_12
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/MaesWE11a
+  type: paper-conference
+  author:
+  - family: Maes
+    given: Francis
+  - family: Wehenkel
+    given: Louis
+  - family: Ernst
+    given: Damien
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Optimized look-ahead tree search policies
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-200'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_20
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/DaswaniSH12
+  type: paper-conference
+  author:
+  - family: Daswani
+    given: Mayank
+  - family: Sunehag
+    given: Peter
+  - family: Hutter
+    given: Marcus
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Feature reinforcement learning using looping suffix trees
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '11-24'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/daswani12a.html
+
+- id: conf/ewrl/LiS11
+  type: paper-conference
+  author:
+  - family: Li
+    given: Yuxi
+  - family: Schuurmans
+    given: Dale
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: MapReduce for parallel reinforcement learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-320'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_30
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/SeldinSAA12
+  type: paper-conference
+  author:
+  - family: Seldin
+    given: Yevgeny
+  - family: Szepesvári
+    given: Csaba
+  - family: Auer
+    given: Peter
+  - family: Abbasi-Yadkori
+    given: Yasin
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Evaluation and analysis of the performance of the eXP3 algorithm in stochastic
+    environments
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '103-116'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/seldin12a.html
+
+- id: conf/ewrl/WeinsteinLG12
+  type: paper-conference
+  author:
+  - family: Weinstein
+    given: Ari
+  - family: Littman
+    given: Michael L.
+  - family: Goschin
+    given: Sergiu
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Rollout-based game-tree search outprunes traditional alpha-beta
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '155-167'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/weinstein12a.html
+
+- id: conf/ewrl/DeisenrothSP12
+  type: paper-conference
+  author:
+  - family: Deisenroth
+    given: Marc Peter
+  - family: Szepesvári
+    given: Csaba
+  - family: '0001'
+    given: Jan Peters
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Preface
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/deisenroth12a/deisenroth12a.pdf
+
+- id: conf/ewrl/FarahmandGSM08
+  type: paper-conference
+  author:
+  - family: Farahmand
+    given: Amir Massoud
+  - family: Ghavamzadeh
+    given: Mohammad
+  - family: Szepesvári
+    given: Csaba
+  - family: Mannor
+    given: Shie
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: 'Regularized fitted q-iteration: Application to planning'
+  title-short: Regularized fitted q-iteration
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-68'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_5
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/FilippiCCM08
+  type: paper-conference
+  author:
+  - family: Filippi
+    given: Sarah
+  - family: Cappé
+    given: Olivier
+  - family: Clérot
+    given: Fabrice
+  - family: Moulines
+    given: Eric
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: A near optimal policy for channel allocation in cognitive radio
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-81'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_6
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/Dimitrakakis11
+  type: paper-conference
+  author:
+  - family: Dimitrakakis
+    given: Christos
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Robust bayesian reinforcement learning through tight lower bounds
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-188'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_19
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/GabelR08
+  type: paper-conference
+  author:
+  - family: Gabel
+    given: Thomas
+  - family: Riedmiller
+    given: Martin A.
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Evaluation of batch-mode reinforcement learning methods for solving dEC-mDPs
+    with changing action sets
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-95'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_7
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/BoutsioukisPV11
+  type: paper-conference
+  author:
+  - family: Boutsioukis
+    given: Georgios
+  - family: Partalas
+    given: Ioannis
+  - family: Vlahavas
+    given: Ioannis P.
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Transfer learning in multi-agent reinforcement learning domains
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-260'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_25
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/LambrouVC11
+  type: paper-conference
+  author:
+  - family: Lambrou
+    given: Ioannis
+  - family: Vassiliades
+    given: Vassilis
+  - family: Christodoulou
+    given: Chris
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: An extension of a hierarchical reinforcement learning algorithm for multiagent
+    settings
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '261-272'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_26
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/Silver12
+  type: paper-conference
+  author:
+  - family: Silver
+    given: David
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Gradient temporal difference networks
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '117-130'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/silver12a.html
+
+- id: conf/ewrl/Heidrich-MeisnerI08
+  type: paper-conference
+  author:
+  - family: Heidrich-Meisner
+    given: Verena
+  - family: Igel
+    given: Christian
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Variable metric reinforcement learning methods applied to the noisy mountain
+    car problem
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-150'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_11
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/DefournyEW08
+  type: paper-conference
+  author:
+  - family: Defourny
+    given: Boris
+  - family: Ernst
+    given: Damien
+  - family: Wehenkel
+    given: Louis
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Lazy planning under uncertainty by optimizing decisions on an ensemble of
+    incomplete disturbance trees
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_1
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/TziortziotisB11
+  type: paper-conference
+  author:
+  - family: Tziortziotis
+    given: Nikolaos
+  - family: Blekas
+    given: Konstantinos
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Value function approximation through sparse bayesian modeling
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-139'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_15
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/HoffmanLGM11
+  type: paper-conference
+  author:
+  - family: Hoffman
+    given: Matthew W.
+  - family: Lazaric
+    given: Alessandro
+  - family: Ghavamzadeh
+    given: Mohammad
+  - family: Munos
+    given: Rémi
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Regularized least squares temporal difference learning with nested ℓ2 and
+    ℓ1 penalization
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-114'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_13
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/GoetschalckxSD08
+  type: paper-conference
+  author:
+  - family: Goetschalckx
+    given: Robby
+  - family: Sanner
+    given: Scott
+  - family: Driessens
+    given: Kurt
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Reinforcement learning with the use of costly features
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-135'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_10
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/Araya-LopezBTC11
+  type: paper-conference
+  author:
+  - family: Araya-López
+    given: Mauricio
+  - family: Buffet
+    given: Olivier
+  - family: Thomas
+    given: Vincent
+  - family: Charpillet
+    given: François
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Active learning of mDP models
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-53'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_8
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/KleinGP11
+  type: paper-conference
+  author:
+  - family: Klein
+    given: Edouard
+  - family: Geist
+    given: Matthieu
+  - family: Pietquin
+    given: Olivier
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Batch, off-policy and model-free apprenticeship learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-296'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_28
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/Stone11
+  type: paper-conference
+  author:
+  - family: Stone
+    given: Peter
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Invited talk: PRISM - practical rL: Representation, interaction, synthesis,
+    and mortality'
+  title-short: Invited talk
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_3
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/LiS08
+  type: paper-conference
+  author:
+  - family: Li
+    given: Yuxi
+  - family: Schuurmans
+    given: Dale
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Policy iteration for learning an exercise policy for american options
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-178'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_13
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/SairameshR11
+  type: paper-conference
+  author:
+  - family: Sairamesh
+    given: Munu
+  - family: Ravindran
+    given: Balaraman
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Options with exceptions
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-176'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_18
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/MaesDG08
+  type: paper-conference
+  author:
+  - family: Maes
+    given: Francis
+  - family: Denoyer
+    given: Ludovic
+  - family: Gallinari
+    given: Patrick
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: Applications of reinforcement learning to structured prediction
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-219'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_16
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/OngGP11
+  type: paper-conference
+  author:
+  - family: Ong
+    given: Sylvie C. W.
+  - family: Grinberg
+    given: Yuri
+  - family: Pineau
+    given: Joelle
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Goal-directed online learning of predictive models
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-29'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_6
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/CastronovoMFE12
+  type: paper-conference
+  author:
+  - family: Castronovo
+    given: Michael
+  - family: Maes
+    given: Francis
+  - family: Fonteneau
+    given: Raphael
+  - family: Ernst
+    given: Damien
+  editor:
+  - family: Deisenroth
+    given: Marc Peter
+  issued:
+  - year: '2012'
+  title: Learning exploration/Exploitation strategies for single trajectory reinforcement
+    learning
+  container-title: EWRL
+  collection-title: JMLR proceedings
+  publisher: JMLR.org
+  page: '1-10'
+  volume: '24'
+  URL: http://jmlr.org/proceedings/papers/v24/castronovo12a.html
+
+- id: conf/ewrl/MiyazakiI11
+  type: paper-conference
+  author:
+  - family: Miyazaki
+    given: Kazuteru
+  - family: Ida
+    given: Masaaki
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Proposal and evaluation of the active course classification support system
+    with exploitation-oriented learning
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '333-344'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_32
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/DyagilevMS08
+  type: paper-conference
+  author:
+  - family: Dyagilev
+    given: Kirill
+  - family: Mannor
+    given: Shie
+  - family: Shimkin
+    given: Nahum
+  editor:
+  - family: Girgin
+    given: Sertan
+  issued:
+  - year: '2008'
+  title: 'Efficient reinforcement learning in parameterized models: Discrete parameter
+    case'
+  title-short: Efficient reinforcement learning in parameterized models
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-54'
+  volume: '5323'
+  DOI: 10.1007/978-3-540-89722-4_4
+  ISBN: '978-3-540-89721-7'
+
+- id: conf/ewrl/KurodaMK11
+  type: paper-conference
+  author:
+  - family: Kuroda
+    given: Seiya
+  - family: Miyazaki
+    given: Kazuteru
+  - family: Kobayashi
+    given: Hiroaki
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: Introduction of fixed mode states into online profit sharing and its application
+    to waist trajectory generation of biped robot
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '297-308'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_29
+  ISBN: '978-3-642-29945-2'
+
+- id: conf/ewrl/Kersting11
+  type: paper-conference
+  author:
+  - family: Kersting
+    given: Kristian
+  editor:
+  - family: Sanner
+    given: Scott
+  issued:
+  - year: '2011'
+  title: 'Invited talk: Increasing representational power and scaling inference
+    in reinforcement learning'
+  title-short: Invited talk
+  container-title: EWRL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2'
+  volume: '7188'
+  DOI: 10.1007/978-3-642-29946-9_2
+  ISBN: '978-3-642-29945-2'
+...

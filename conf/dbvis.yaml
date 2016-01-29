@@ -1,0 +1,763 @@
+---
+references:
+- id: conf/dbvis/KaoBCS95
+  type: paper-conference
+  author:
+  - family: Kao
+    given: David T.
+  - family: Bergeron
+    given: R. Daniel
+  - family: Cullinane
+    given: Michael J.
+  - family: Sparr
+    given: Ted M.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Semantics and mathematics of scientific data sampling
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-100'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_8
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/Ryan93
+  type: paper-conference
+  author:
+  - family: Ryan
+    given: Karen L.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Data integration for visualization systems
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-93'
+  volume: '871'
+  DOI: 10.1007/BFb0021146
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Lee95
+  type: paper-conference
+  author:
+  - family: Lee
+    given: John Peter
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Views, visualization and databases
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-53'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_4
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/Wierse95
+  type: paper-conference
+  author:
+  - family: Wierse
+    given: Andreas
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Collaborative visualization based on distributed data objects
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-219'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_16
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/EickSW93
+  type: paper-conference
+  author:
+  - family: Eick
+    given: Stephen G.
+  - family: Jr.
+    given: Eric E. Sumner
+  - family: Wills
+    given: Graham J.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Visualizing reference databases
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-193'
+  volume: '871'
+  DOI: 10.1007/BFb0021154
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/BoyleFG93
+  type: paper-conference
+  author:
+  - family: Boyle
+    given: John
+  - family: Fothergill
+    given: John E.
+  - family: Gray
+    given: Peter M. D.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Design of a 3D user interface to a database
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-185'
+  volume: '871'
+  DOI: 10.1007/BFb0021153
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Hibbard95
+  type: paper-conference
+  author:
+  - family: Hibbard
+    given: William L.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Mathematical structures of data and their implications for visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-85'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_7
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/Neugebauer95
+  type: paper-conference
+  author:
+  - family: Neugebauer
+    given: Matthias
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Metalevel database programming and visualization with pOETView
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-144'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_11
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/KeimLTW95
+  type: paper-conference
+  author:
+  - family: Keim
+    given: Daniel A.
+  - family: Lee
+    given: John Peter
+  - family: Thuraisingham
+    given: Bhavani M.
+  - family: Wittenbrink
+    given: Craig M.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: 'Database issues for data visualization: Supporting interactive database
+    explorartion'
+  title-short: Database issues for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '12-25'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_2
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/1993
+  type: book
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'Database issues for data visualization: IEEE visualization ’93 workshop,
+    san jose, california, uSA, october 26, 1993, proceedings'
+  title-short: Database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '871'
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/WittenbrinkRPLM95
+  type: paper-conference
+  author:
+  - family: Wittenbrink
+    given: Craig M.
+  - family: Rosen
+    given: Eric C.
+  - family: Pang
+    given: Alex
+  - family: Lodha
+    given: Suresh K.
+  - family: Mantey
+    given: Patrick E.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Realtime database support for environmental visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-130'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_10
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/WoynaZSC93
+  type: paper-conference
+  author:
+  - family: Woyna
+    given: Mark A.
+  - family: Zawada
+    given: David G.
+  - family: Simunich
+    given: Kathy Lee
+  - family: Christiansen
+    given: John H.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: A hyperspectral image data exploration workbench for environmental science
+    applications
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-169'
+  volume: '871'
+  DOI: 10.1007/BFb0021152
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Walther93
+  type: paper-conference
+  author:
+  - family: Walther
+    given: Sandra
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'Inherent logical structure of computational data: Its role in storage
+    and retrieval strategies to support user queries'
+  title-short: Inherent logical structure of computational data
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-106'
+  volume: '871'
+  DOI: 10.1007/BFb0021147
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Vasudevan93
+  type: paper-conference
+  author:
+  - family: Vasudevan
+    given: Venu
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Database requirements for supporting end-user visualizations
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-147'
+  volume: '871'
+  DOI: 10.1007/BFb0021150
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/AryaGGKSVWWW93
+  type: paper-conference
+  author:
+  - family: Arya
+    given: Manish
+  - family: Grady
+    given: Nancy W.
+  - family: Grinstein
+    given: Georges G.
+  - family: Kochevar
+    given: Peter
+  - family: Swanberg
+    given: Deborah
+  - family: Vasudevan
+    given: Venu
+  - family: Wanger
+    given: Leonard
+  - family: Wierse
+    given: Andreas
+  - family: Woyna
+    given: Mark A.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'Database issues for data visualization: System integration issues'
+  title-short: Database issues for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-24'
+  volume: '871'
+  DOI: 10.1007/BFb0021142
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Lee93
+  type: paper-conference
+  author:
+  - family: Lee
+    given: John Peter
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Data exploration interactions and the exBase system
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-137'
+  volume: '871'
+  DOI: 10.1007/BFb0021149
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/KeimK93
+  type: paper-conference
+  author:
+  - family: Keim
+    given: Daniel A.
+  - family: Kriegel
+    given: Hans-Peter
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Using visualization to support data mining of large existing databases
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '210-229'
+  volume: '871'
+  DOI: 10.1007/BFb0021156
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/FlaneryD95
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Ray E. Flanery
+  - family: Donato
+    given: June M.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Large scale data analysis using aVS5 and pOSTGRES
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-154'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_12
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/Kochevar93
+  type: paper-conference
+  author:
+  - family: Kochevar
+    given: Peter
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: Database management for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-117'
+  volume: '871'
+  DOI: 10.1007/BFb0021148
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/GrinsteinT95
+  type: paper-conference
+  author:
+  - family: Grinstein
+    given: Georges G.
+  - family: Thuraisingham
+    given: Bhavani M.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Data mining and data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-56'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_5
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/BergeronCHKMTW93
+  type: paper-conference
+  author:
+  - family: Bergeron
+    given: R. Daniel
+  - family: Cody
+    given: William F.
+  - family: Hibbard
+    given: William L.
+  - family: Kao
+    given: David T.
+  - family: Miceli
+    given: Kristina D.
+  - family: Treinish
+    given: Lloyd
+  - family: Walther
+    given: Sandra
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'Database issues for data visualization: Developing a data model'
+  title-short: Database issues for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-15'
+  volume: '871'
+  DOI: 10.1007/BFb0021141
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Keim95
+  type: paper-conference
+  author:
+  - family: Keim
+    given: Daniel A.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Enhancing the visual clustering of query-dependent database visualization
+    techniques using screen-filling curves
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-110'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_9
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/Schmeing95
+  type: paper-conference
+  author:
+  - family: Schmeing
+    given: Walter
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: 'LadMan: A large data management system'
+  title-short: LadMan
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-180'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_14
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/MukherjeaF95
+  type: paper-conference
+  author:
+  - family: Mukherjea
+    given: Sougata
+  - family: Foley
+    given: James D.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Requirements and architecture of an information visualization tool
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-75'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_6
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/BoyleEHKLS93
+  type: paper-conference
+  author:
+  - family: Boyle
+    given: John
+  - family: Eick
+    given: Stephen G.
+  - family: Hemmje
+    given: Matthias
+  - family: Keim
+    given: Daniel A.
+  - family: Lee
+    given: John Peter
+  - family: Jr.
+    given: Eric E. Sumner
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'Database issues for data visualization: Interaction, user interfaces,
+    and presentation'
+  title-short: Database issues for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-34'
+  volume: '871'
+  DOI: 10.1007/BFb0021143
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Hemmje93
+  type: paper-conference
+  author:
+  - family: Hemmje
+    given: Matthias
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: A 3D based user interface for information retrieval systems
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-209'
+  volume: '871'
+  DOI: 10.1007/BFb0021155
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/HibbardKW95
+  type: paper-conference
+  author:
+  - family: Hibbard
+    given: William L.
+  - family: Kao
+    given: David T.
+  - family: Wierse
+    given: Andreas
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: 'Database issues for data visualization: Scientific data modeling'
+  title-short: Database issues for data visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-11'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_1
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/WierseLR93
+  type: paper-conference
+  author:
+  - family: Wierse
+    given: Andreas
+  - family: Lang
+    given: Ulrich
+  - family: Rühle
+    given: Roland
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: A system architecture for data-oriented visualization
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-159'
+  volume: '871'
+  DOI: 10.1007/BFb0021151
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/HibbardDP93
+  type: paper-conference
+  author:
+  - family: Hibbard
+    given: William L.
+  - family: Dyer
+    given: Charles R.
+  - family: Paul
+    given: Brian E.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: 'The vIS-aD data model: Integrating metadata and polymorphic display with
+    a scientific programming language'
+  title-short: The vIS-aD data model
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-68'
+  volume: '871'
+  DOI: 10.1007/BFb0021144
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/Davies95
+  type: paper-conference
+  author:
+  - family: Davies
+    given: Harvey L.
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: FAN - an array-oriented query language
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-170'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_13
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/1995
+  type: book
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1996'
+  title: Database issues for data visualization, iEEE visualization ’95 workshop,
+    atlanta, georgia, uSA, october 28, 1995, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1183'
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/KaoBS93
+  type: paper-conference
+  author:
+  - family: Kao
+    given: David T.
+  - family: Bergeron
+    given: R. Daniel
+  - family: Sparr
+    given: Ted M.
+  editor:
+  - family: Lee
+    given: John Peter
+  issued:
+  - year: '1993'
+  title: An extended schema model for scientific data
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-82'
+  volume: '871'
+  DOI: 10.1007/BFb0021145
+  ISBN: '3-540-58519-2'
+
+- id: conf/dbvis/LangGB95
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Ulrich
+  - family: Grinstein
+    given: Georges G.
+  - family: Bergeron
+    given: R. Daniel
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: Visualization related metadata
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-34'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_3
+  ISBN: '3-540-62221-7'
+
+- id: conf/dbvis/AikenCLSSW95
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alexander
+  - family: Chen
+    given: Jolly
+  - family: Lin
+    given: Mark
+  - family: Spalding
+    given: Mybrid
+  - family: Stonebraker
+    given: Michael
+  - family: Woodruff
+    given: Allison
+  editor:
+  - family: Wierse
+    given: Andreas
+  issued:
+  - year: '1995'
+  title: The tioga-2 database visualization environment
+  container-title: Workshop on database issues for data visualization
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-207'
+  volume: '1183'
+  DOI: 10.1007/3-540-62221-7_15
+  ISBN: '3-540-62221-7'
+...

@@ -1,0 +1,3502 @@
+---
+references:
+- id: conf/jtres/UhrigW07
+  type: paper-conference
+  author:
+  - family: Uhrig
+    given: Sascha
+  - family: Wiese
+    given: Jörg
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: 'Jamuth: An iP processor core for embedded java real-time systems'
+  title-short: Jamuth
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '230-237'
+  URL: http://doi.acm.org/10.1145/1288940.1288974
+
+- id: conf/jtres/ZhaoWK15
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Shuai
+  - family: Wellings
+    given: Andy J.
+  - family: Korsholm
+    given: Stephan Erbs
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Supporting multiprocessors in the icecap safety-critical java run-time environment
+  container-title: JTRES
+  publisher: ACM
+  page: 1:1-1:10
+  URL: http://doi.acm.org/10.1145/2822304.2822305
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/SchoeberlR12
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Rios
+    given: Juan Ricardo
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Safety-critical java on a java processor
+  container-title: JTRES
+  publisher: ACM
+  page: '54-61'
+  URL: http://doi.acm.org/10.1145/2388936.2388946
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/AhrendtMP12
+  type: paper-conference
+  author:
+  - family: Ahrendt
+    given: Wolfgang
+  - family: Mostowski
+    given: Wojciech
+  - family: Paganelli
+    given: Gabriele
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Real-time java aPI specifications for high coverage test generation
+  container-title: JTRES
+  publisher: ACM
+  page: '145-154'
+  URL: http://doi.acm.org/10.1145/2388936.2388960
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/LiMS15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Zhenmin
+  - family: Malik
+    given: Avinash
+  - family: Salcic
+    given: Zoran A.
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Reducing worst case reaction time of synchronous programs on chip-multiprocessors
+    with application-specific tDMA scheduling
+  container-title: JTRES
+  publisher: ACM
+  page: 11:1-11:9
+  URL: http://doi.acm.org/10.1145/2822304.2822306
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/PuffitschS07
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: PicoJava-iI in an fPGA
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '213-221'
+  URL: http://doi.acm.org/10.1145/1288940.1288972
+
+- id: conf/jtres/WellingsS11
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: User-defined clocks in the real-time specification for java
+  container-title: JTRES
+  publisher: ACM
+  page: '74-81'
+  URL: http://doi.acm.org/10.1145/2043910.2043923
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/SchommerFKW09
+  type: paper-conference
+  author:
+  - family: Schommer
+    given: John F.
+  - family: Franke
+    given: Dominik
+  - family: Kowalewski
+    given: Stefan
+  - family: Weise
+    given: Carsten
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Evaluation of the real-time java runtime environment for deployment in time-critical
+    systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/1620405.1620413
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/BodeveixCCFR07
+  type: paper-conference
+  author:
+  - family: Bodeveix
+    given: Jean-Paul
+  - family: Cavallero
+    given: Raphaël
+  - family: Chemouil
+    given: David
+  - family: Filali
+    given: Mamoun
+  - family: Rolland
+    given: Jean-François
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: A mapping from aADL to java-rTSJ
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '165-174'
+  URL: http://doi.acm.org/10.1145/1288940.1288965
+
+- id: conf/jtres/WellingsK10
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Kim
+    given: MinSeong
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Asynchronous event handling and safety critical java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/1850771.1850778
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/SondergaardKR14
+  type: paper-conference
+  author:
+  - family: Søndergaard
+    given: Hans
+  - family: Korsholm
+    given: Stephan Erbs
+  - family: Ravn
+    given: Anders P.
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: A safety-critical java technology compatibility kit
+  container-title: JTRES
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2661020.2661021
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/OtaniACDMS07
+  type: paper-conference
+  author:
+  - family: Otani
+    given: Thomas W.
+  - family: Auguston
+    given: Mikhail
+  - family: Cook
+    given: Thomas S.
+  - family: Drusinsky
+    given: Doron
+  - family: Michael
+    given: James Bret
+  - family: Shing
+    given: Man-tak
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: A design pattern for using non-developmental items in real-time java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '135-143'
+  URL: http://doi.acm.org/10.1145/1288940.1288961
+
+- id: conf/jtres/PuffitschS08
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Non-blocking root scanning for real-time garbage collection
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '68-76'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434801
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/PoloKPKGS10
+  type: paper-conference
+  author:
+  - family: Polo
+    given: Oscar R.
+  - family: Konings
+    given: Kristof
+  - family: Parra
+    given: Pablo
+  - family: Knoblauch
+    given: Martin
+  - family: García
+    given: Ignacio
+  - family: Sanchez
+    given: Sebastian
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'Preliminary feasibility analysis of component based modelling and automatic
+    java code generation for nanosatellite on-board software: Short paper'
+  title-short: Preliminary feasibility analysis of component based modelling and automatic
+    java code generation for nanosatellite on-board software
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '79-81'
+  URL: http://doi.acm.org/10.1145/1850771.1850783
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/Kalibera09
+  type: paper-conference
+  author:
+  - family: Kalibera
+    given: Tomas
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Replicating real-time garbage collector for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '100-109'
+  URL: http://doi.acm.org/10.1145/1620405.1620420
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/PizloZV09
+  type: paper-conference
+  author:
+  - family: Pizlo
+    given: Filip
+  - family: Ziarek
+    given: Lukasz
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Real time java on resource-constrained platforms with fiji vM
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '110-119'
+  URL: http://doi.acm.org/10.1145/1620405.1620421
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/WedzingaW12
+  type: paper-conference
+  author:
+  - family: Wedzinga
+    given: G.
+  - family: Wiegmink
+    given: K.
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Using cHARTER tools to develop a safety-critical avionics application in
+    java
+  container-title: JTRES
+  publisher: ACM
+  page: '125-134'
+  URL: http://doi.acm.org/10.1145/2388936.2388958
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/HuntTS08
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Tonin
+    given: Isabel
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Using global data flow analysis on bytecode to aid worst case execution time
+    analysis for real-time java programs
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '97-105'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434806
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/MiguelS12
+  type: paper-conference
+  author:
+  - family: Miguel
+    given: Miguel A.
+    dropping-particle: de
+  - family: Salazar
+    given: Emilio
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Model-based development for rTSJ platforms
+  container-title: JTRES
+  publisher: ACM
+  page: '175-184'
+  URL: http://doi.acm.org/10.1145/2388936.2388966
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/KimW09
+  type: paper-conference
+  author:
+  - family: Kim
+    given: MinSeong
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Applying fixed-priority preemptive scheduling with preemption threshold to
+    asynchronous event handling in the rTSJ
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '80-89'
+  URL: http://doi.acm.org/10.1145/1620405.1620417
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/LamyS11
+  type: paper-conference
+  author:
+  - family: Lamy
+    given: Frederic
+  - family: Schoofs
+    given: Tobias
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Industry use cases for the java environment for parallel realtime development
+  container-title: JTRES
+  publisher: ACM
+  page: '106-115'
+  URL: http://doi.acm.org/10.1145/2043910.2043928
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/Nilsen12
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Revisiting the “perc real-time aPI”
+  container-title: JTRES
+  publisher: ACM
+  page: '165-174'
+  URL: http://doi.acm.org/10.1145/2388936.2388964
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/2009
+  type: book
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Proceedings of the 7th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2009, madrid, spain, september 23-25, 2009
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/Puffitsch15
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: 'Fernando: An educational ahead-of-time bytecode compiler'
+  title-short: Fernando
+  container-title: JTRES
+  publisher: ACM
+  page: 14:1-14:9
+  URL: http://doi.acm.org/10.1145/2822304.2822316
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/WellingsLB11
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Lin
+    given: Shiyao
+  - family: Burns
+    given: Alan
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Resource sharing in rTSJ and sCJ systems
+  container-title: JTRES
+  publisher: ACM
+  page: '11-19'
+  URL: http://doi.acm.org/10.1145/2043910.2043913
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/FrostJLT11
+  type: paper-conference
+  author:
+  - family: Frost
+    given: Christian
+  - family: Jensen
+    given: Casper Svenning
+  - family: Luckow
+    given: Kasper Søe
+  - family: Thomsen
+    given: Bent
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: WCET analysis of java bytecode featuring common execution environments
+  container-title: JTRES
+  publisher: ACM
+  page: '30-39'
+  URL: http://doi.acm.org/10.1145/2043910.2043916
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/BaxterCWF15
+  type: paper-conference
+  author:
+  - family: Baxter
+    given: James
+  - family: Cavalcanti
+    given: Ana
+  - family: Wellings
+    given: Andy J.
+  - family: Freitas
+    given: Leo
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Safety-critical java virtual machine services
+  container-title: JTRES
+  publisher: ACM
+  page: 7:1-7:10
+  URL: http://doi.acm.org/10.1145/2822304.2822307
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/KaliberaPMS10
+  type: paper-conference
+  author:
+  - family: Kalibera
+    given: Tomas
+  - family: Parizek
+    given: Pavel
+  - family: Malohlava
+    given: Michal
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Exhaustive testing of safety critical java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '164-174'
+  URL: http://doi.acm.org/10.1145/1850771.1850794
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/MeawadSIV11
+  type: paper-conference
+  author:
+  - family: Meawad
+    given: Fadi
+  - family: Schoeberl
+    given: Martin
+  - family: Iyer
+    given: Karthik
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Real-time wait-free queues using micro-transactions
+  container-title: JTRES
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/2043910.2043912
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/Korsholm11
+  type: paper-conference
+  author:
+  - family: Korsholm
+    given: Stephan
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Flash memory in embedded java programs
+  container-title: JTRES
+  publisher: ACM
+  page: '116-124'
+  URL: http://doi.acm.org/10.1145/2043910.2043930
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/SchorrigH10
+  type: paper-conference
+  author:
+  - family: Schorrig
+    given: Hartmut
+  - family: Henties
+    given: Thomas
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'Java2C - developing in java, deployment in c: Short paper'
+  title-short: Java2C - developing in java, deployment in c
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '73-75'
+  URL: http://doi.acm.org/10.1145/1850771.1850781
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/WellingsK08
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Kim
+    given: M. S.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Processing group parameters in the real-time specification for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '3-9'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434792
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/GruianW07
+  type: paper-conference
+  author:
+  - family: Gruian
+    given: Flavius
+  - family: Westmijze
+    given: Mark
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: 'BlueJEP: A flexible and high-performance java embedded processor'
+  title-short: BlueJEP
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '222-229'
+  URL: http://doi.acm.org/10.1145/1288940.1288973
+
+- id: conf/jtres/MeiW14
+  type: paper-conference
+  author:
+  - family: Mei
+    given: Hai Tao
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Using jetBench to evaluate the efficiency of multiprocessor support for parallel
+    processing
+  container-title: JTRES
+  publisher: ACM
+  page: '47'
+  URL: http://doi.acm.org/10.1145/2661020.2661029
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/AndersenTDH13
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: Jeppe L.
+  - family: Todberg
+    given: Mikkel
+  - family: Dalsgaard
+    given: Andreas Engelbredt
+  - family: Hansen
+    given: René Rydhof
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Worst-case memory consumption analysis for sCJ
+  container-title: JTRES
+  publisher: ACM
+  page: '2-10'
+  URL: http://doi.acm.org/10.1145/2512989.2513000
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/Uhrig12
+  type: paper-conference
+  author:
+  - family: Uhrig
+    given: Sascha
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Implementing a ring-based real-time capable network using a multithreaded
+    java processor
+  container-title: JTRES
+  publisher: ACM
+  page: '185-192'
+  URL: http://doi.acm.org/10.1145/2388936.2388967
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/KimW10
+  type: paper-conference
+  author:
+  - family: Kim
+    given: MinSeong
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Using the executor framework to implement asynchronous event handling in
+    the rTSJ
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '16-25'
+  URL: http://doi.acm.org/10.1145/1850771.1850774
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/PreusserZS07
+  type: paper-conference
+  author:
+  - family: Preußer
+    given: Thomas
+  - family: Zabel
+    given: Martin
+  - family: Spallek
+    given: Rainer G.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Enabling constant-time interface method dispatch in embedded java processors
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '196-205'
+  URL: http://doi.acm.org/10.1145/1288940.1288969
+
+- id: conf/jtres/Schoeberl15
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Scala for real-time systems?
+  container-title: JTRES
+  publisher: ACM
+  page: 13:1-13:5
+  URL: http://doi.acm.org/10.1145/2822304.2822313
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/Puffitsch09
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Data caching, garbage collection, and the java memory model
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '90-99'
+  URL: http://doi.acm.org/10.1145/1620405.1620419
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/SchoeberlPU10
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Preußer
+    given: Thomas B.
+  - family: Uhrig
+    given: Sascha
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: The embedded java benchmark suite jemBench
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '120-127'
+  URL: http://doi.acm.org/10.1145/1850771.1850789
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/2012
+  type: book
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: The 10th international workshop on java technologies for real-time and embedded
+    systems, jTRES ’12, copenhagen, denmark, october 24-26, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2388936
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/SilvaBWP08
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Elias Teodoro Silva
+  - family: Barcelos
+    given: Daniel
+  - family: Wagner
+    given: Flávio Rech
+  - family: Pereira
+    given: Carlos Eduardo
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: A virtual platform for multiprocessor real-time embedded systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '31-37'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434796
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/SchoeberlV07
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Garbage collection for safety critical java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '85-93'
+  URL: http://doi.acm.org/10.1145/1288940.1288953
+
+- id: conf/jtres/KratzerB10
+  type: paper-conference
+  author:
+  - family: Kratzer
+    given: Kevin
+  - family: Böttcher
+    given: Axel
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Using an rTSJ-compatible mVC pattern as basis for configurable event-driven
+    real-time software
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '8-15'
+  URL: http://doi.acm.org/10.1145/1850771.1850773
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/PillietFR15
+  type: paper-conference
+  author:
+  - family: Pilliet
+    given: Jerome
+  - family: Forax
+    given: Rémi
+  - family: Roussel
+    given: Gilles
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: 'DualStack: Improvement of invokedynamic implementation on android'
+  title-short: DualStack
+  container-title: JTRES
+  publisher: ACM
+  page: 4:1-4:8
+  URL: http://doi.acm.org/10.1145/2822304.2822310
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/BogholmHRTS09
+  type: paper-conference
+  author:
+  - family: Bøgholm
+    given: Thomas
+  - family: Hansen
+    given: René Rydhof
+  - family: Ravn
+    given: Anders P.
+  - family: Thomsen
+    given: Bent
+  - family: Søndergaard
+    given: Hans
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: 'A predictable java profile: Rationale and implementations'
+  title-short: A predictable java profile
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '150-159'
+  URL: http://doi.acm.org/10.1145/1620405.1620427
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/GarbervetskyYBRT09
+  type: paper-conference
+  author:
+  - family: Garbervetsky
+    given: Diego
+  - family: Yovine
+    given: Sergio
+  - family: Braberman
+    given: Víctor A.
+  - family: Rouaux
+    given: Martín
+  - family: Taboada
+    given: Alejandro
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: On transforming java-like programs into memory-predictable code
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '140-149'
+  URL: http://doi.acm.org/10.1145/1620405.1620426
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/SchoeberlP08
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Puffitsch
+    given: Wolfgang
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Non-blocking object copy for real-time garbage collection
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '77-84'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434802
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/2011
+  type: book
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: The 9th international workshop on java technologies for real-time and embedded
+    systems, jTRES ’11, york, united kingdom, september 26-28, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2043910
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/ZiarekB15
+  type: paper-conference
+  author:
+  - family: Ziarek
+    given: Lukasz
+  - family: Blanton
+    given: Ethan
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: The fiji multiVM architecture
+  container-title: JTRES
+  publisher: ACM
+  page: 9:1-9:10
+  URL: http://doi.acm.org/10.1145/2822304.2822312
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/PreusserZS07a
+  type: paper-conference
+  author:
+  - family: Preußer
+    given: Thomas
+  - family: Zabel
+    given: Martin
+  - family: Spallek
+    given: Rainer G.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Bump-pointer method caching for embedded java processors
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '206-210'
+  URL: http://doi.acm.org/10.1145/1288940.1288970
+
+- id: conf/jtres/SmithSLP14
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Jesper
+  - family: Stephen
+    given: Douglas
+  - family: Lesman
+    given: Alex
+  - family: Pratt
+    given: Jerry E.
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Real-time control of humanoid robots using openJDK
+  container-title: JTRES
+  publisher: ACM
+  page: '29'
+  URL: http://doi.acm.org/10.1145/2661020.2661027
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/2008
+  type: book
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Proceedings of the 6th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2008, 24-26 september 2008, santa clara, california,
+    uSA
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  volume: '343'
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/GerlitzKSFK13
+  type: paper-conference
+  author:
+  - family: Gerlitz
+    given: Thomas
+  - family: Kalkov
+    given: Igor
+  - family: Schommer
+    given: John F.
+  - family: Franke
+    given: Dominik
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Non-blocking garbage collection for real-time android
+  container-title: JTRES
+  publisher: ACM
+  page: '108-117'
+  URL: http://doi.acm.org/10.1145/2512989.2512999
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/RuizRH15
+  type: paper-conference
+  author:
+  - family: Ruiz
+    given: Alejandro Pérez
+  - family: Rivas
+    given: Mario Aldea
+  - family: Harbour
+    given: Michael González
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: CPU isolation on the android oS for running real-time applications
+  container-title: JTRES
+  publisher: ACM
+  page: 6:1-6:7
+  URL: http://doi.acm.org/10.1145/2822304.2822317
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/StromS15
+  type: paper-conference
+  author:
+  - family: Strøm
+    given: Tórur Biskopstø
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Multiprocessor priority ceiling emulation for safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: 2:1-2:10
+  URL: http://doi.acm.org/10.1145/2822304.2822308
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/ThommSKLS11
+  type: paper-conference
+  author:
+  - family: Thomm
+    given: Isabella
+  - family: Stilkerich
+    given: Michael
+  - family: Kapitza
+    given: Rüdiger
+  - family: Lohmann
+    given: Daniel
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Automated application of fault tolerance mechanisms in a component-based
+    system
+  container-title: JTRES
+  publisher: ACM
+  page: '87-95'
+  URL: http://doi.acm.org/10.1145/2043910.2043925
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/HuntTBSSF07
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Tonin
+    given: Isabel
+  - family: Benkel
+    given: Michael
+  - family: Seifert
+    given: Mirko
+  - family: Siegemund
+    given: Katja
+  - family: Feiertag
+    given: Nico
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Modeling architecturally neutral realtime systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '175-184'
+  URL: http://doi.acm.org/10.1145/1288940.1288966
+
+- id: conf/jtres/HamzaHK15
+  type: paper-conference
+  author:
+  - family: Hamza
+    given: Hamza
+  - family: Hughes
+    given: Alan
+  - family: Kirner
+    given: Raimund
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: On the design of a java virtual machine for mixed-criticality systems
+  container-title: JTRES
+  publisher: ACM
+  page: 8:1-8:4
+  URL: http://doi.acm.org/10.1145/2822304.2822315
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/StilkerichSES14
+  type: paper-conference
+  author:
+  - family: Stilkerich
+    given: Isabella
+  - family: Strotz
+    given: Michael
+  - family: Erhardt
+    given: Christoph
+  - family: Stilkerich
+    given: Michael
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: 'RT-lAGC: Fragmentation-tolerant real-time memory management revisited'
+  title-short: RT-lAGC
+  container-title: JTRES
+  publisher: ACM
+  page: '87'
+  URL: http://doi.acm.org/10.1145/2661020.2661031
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/ParkMNS14
+  type: paper-conference
+  author:
+  - family: Park
+    given: HeeJong
+  - family: Malik
+    given: Avinash
+  - family: Nadeem
+    given: Muhammad
+  - family: Salcic
+    given: Zoran A.
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: 'The cardiac pacemaker: SystemJ versus safety critical java'
+  title-short: The cardiac pacemaker
+  container-title: JTRES
+  publisher: ACM
+  page: '37'
+  URL: http://doi.acm.org/10.1145/2661020.2661030
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/YanCBKZ14
+  type: paper-conference
+  author:
+  - family: Yan
+    given: Yin
+  - family: Cosgrove
+    given: Shaun
+  - family: Blanton
+    given: Ethan
+  - family: Ko
+    given: Steven Y.
+  - family: Ziarek
+    given: Lukasz
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Real-time sensing on android
+  container-title: JTRES
+  publisher: ACM
+  page: '67'
+  URL: http://doi.acm.org/10.1145/2661020.2661026
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/DibbleW09
+  type: paper-conference
+  author:
+  - family: Dibble
+    given: Peter C.
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: JSR-282 status report
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '179-182'
+  URL: http://doi.acm.org/10.1145/1620405.1620431
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/RousselFP14
+  type: paper-conference
+  author:
+  - family: Roussel
+    given: Gilles
+  - family: Forax
+    given: Rémi
+  - family: Pilliet
+    given: Jerome
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: 'Android 292: Implementing invokedynamic in android'
+  title-short: Android 292
+  container-title: JTRES
+  publisher: ACM
+  page: '76'
+  URL: http://doi.acm.org/10.1145/2661020.2661032
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/HaddadHL10
+  type: paper-conference
+  author:
+  - family: Haddad
+    given: Ghaith
+  - family: Hussain
+    given: Faraz
+  - family: Leavens
+    given: Gary T.
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: The design of safeJML, a specification language for sCJ with support for
+    wCET specification
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '155-163'
+  URL: http://doi.acm.org/10.1145/1850771.1850793
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/SondergaardKR12
+  type: paper-conference
+  author:
+  - family: Søndergaard
+    given: Hans
+  - family: Korsholm
+    given: Stephan
+  - family: Ravn
+    given: Anders P.
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Safety-critical java for low-end embedded platforms
+  container-title: JTRES
+  publisher: ACM
+  page: '44-53'
+  URL: http://doi.acm.org/10.1145/2388936.2388945
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/LuckowTK14
+  type: paper-conference
+  author:
+  - family: Luckow
+    given: Kasper Søe
+  - family: Thomsen
+    given: Bent
+  - family: Korsholm
+    given: Stephan Erbs
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: 'HVMTP: A time predictable and portable java virtual machine for hard real-time
+    embedded systems'
+  title-short: HVMTP
+  container-title: JTRES
+  publisher: ACM
+  page: '107'
+  URL: http://doi.acm.org/10.1145/2661020.2661022
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/Siebert07
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Realtime garbage collection in the jamaicaVM 3.0
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '94-103'
+  URL: http://doi.acm.org/10.1145/1288940.1288954
+
+- id: conf/jtres/KerstenSGME12
+  type: paper-conference
+  author:
+  - family: Kersten
+    given: Rody
+  - family: Shkaravska
+    given: Olha
+  - family: Gastel
+    given: Bernard
+    dropping-particle: van
+  - family: Montenegro
+    given: Manuel
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Making resource analysis practical for real-time java
+  container-title: JTRES
+  publisher: ACM
+  page: '135-144'
+  URL: http://doi.acm.org/10.1145/2388936.2388959
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/ErhardtKSS14
+  type: paper-conference
+  author:
+  - family: Erhardt
+    given: Christoph
+  - family: Kuhnle
+    given: Simon
+  - family: Stilkerich
+    given: Isabella
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: 'The final frontier: Coping with immutable data in a jVM for embedded real-time
+    systems'
+  title-short: The final frontier
+  container-title: JTRES
+  publisher: ACM
+  page: '97'
+  URL: http://doi.acm.org/10.1145/2661020.2661024
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/StromS12
+  type: paper-conference
+  author:
+  - family: Strøm
+    given: Tórur Biskopstø
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: A desktop 3D printer in safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: '72-79'
+  URL: http://doi.acm.org/10.1145/2388936.2388949
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/Schoeberl11
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Memory management for safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: '47-53'
+  URL: http://doi.acm.org/10.1145/2043910.2043919
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/Nilsen11
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Harmonizing alternative approaches to safety-critical development with java
+  container-title: JTRES
+  publisher: ACM
+  page: '54-63'
+  URL: http://doi.acm.org/10.1145/2043910.2043920
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/Nilsen08
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Simple low-level real-time threading semantics to enable portability, efficiency,
+    analyzability, and generality
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '125-134'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434810
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/SchoeberlDHKRRSS14
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Dalsgaard
+    given: Andreas Engelbredt
+  - family: Hansen
+    given: René Rydhof
+  - family: Korsholm
+    given: Stephan Erbs
+  - family: Ravn
+    given: Anders P.
+  - family: Rivas
+    given: Juan Ricardo Rios
+  - family: Strøm
+    given: Tórur Biskopstø
+  - family: Søndergaard
+    given: Hans
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Certifiable java for embedded systems
+  container-title: JTRES
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2661020.2661025
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/ZhaoTV09
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Lei
+  - family: Tang
+    given: Daniel
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: A technology compatibility kit for safety critical java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '160-168'
+  URL: http://doi.acm.org/10.1145/1620405.1620428
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/EneryHB07
+  type: paper-conference
+  author:
+  - family: Enery
+    given: James Mc
+  - family: Hickey
+    given: David
+  - family: Boubekeur
+    given: Menouer
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Empirical evaluation of two main-stream rTSJ implementations
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '47-54'
+  URL: http://doi.acm.org/10.1145/1288940.1288947
+
+- id: conf/jtres/KimW08
+  type: paper-conference
+  author:
+  - family: Kim
+    given: MinSeong
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: An efficient and predictable implementation of asynchronous event handling
+    in the rTSJ
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '48-57'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434798
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/Hunt12
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: A new i/O model for the real-time specification for java
+  container-title: JTRES
+  publisher: ACM
+  page: '26-33'
+  URL: http://doi.acm.org/10.1145/2388936.2388942
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/RobertzHNBT07
+  type: paper-conference
+  author:
+  - family: Robertz
+    given: Sven Gestegard
+  - family: Henriksson
+    given: Roger
+  - family: Nilsson
+    given: Klas
+  - family: Blomdell
+    given: Anders
+  - family: Tarasov
+    given: Ivan
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Using real-time java for industrial robot control
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '104-110'
+  URL: http://doi.acm.org/10.1145/1288940.1288955
+
+- id: conf/jtres/KalkovGK14
+  type: paper-conference
+  author:
+  - family: Kalkov
+    given: Igor
+  - family: Gurghian
+    given: Alexandru
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Predictable broadcasting of parallel intents in real-time android
+  container-title: JTRES
+  publisher: ACM
+  page: '57'
+  URL: http://doi.acm.org/10.1145/2661020.2661023
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/KorsholmSP15
+  type: paper-conference
+  author:
+  - family: Korsholm
+    given: Stephan Erbs
+  - family: Schoeberl
+    given: Martin
+  - family: Puffitsch
+    given: Wolfgang
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Safety-critical java on a time-predictable processor
+  container-title: JTRES
+  publisher: ACM
+  page: 3:1-3:9
+  URL: http://doi.acm.org/10.1145/2822304.2822309
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/YanKKAKZ13
+  type: paper-conference
+  author:
+  - family: Yan
+    given: Yin
+  - family: Konduri
+    given: Sree Harsha
+  - family: Kulkarni
+    given: Amit
+  - family: Anand
+    given: Varun
+  - family: Ko
+    given: Steven Y.
+  - family: Ziarek
+    given: Lukasz
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: 'RTDroid: A design for real-time android'
+  title-short: RTDroid
+  container-title: JTRES
+  publisher: ACM
+  page: '98-107'
+  URL: http://doi.acm.org/10.1145/2512989.2512990
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/RockAKB09
+  type: paper-conference
+  author:
+  - family: Röck
+    given: Harald
+  - family: Auerbach
+    given: Joshua S.
+  - family: Kirsch
+    given: Christoph M.
+  - family: Bacon
+    given: David F.
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Avoiding unbounded priority inversion in barrier protocols using gang priority
+    management
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '70-79'
+  URL: http://doi.acm.org/10.1145/1620405.1620416
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/GruianA12
+  type: paper-conference
+  author:
+  - family: Gruian
+    given: Flavius
+  - family: Arslan
+    given: Mehmet Ali
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Java bytecode to hardware made easy with bluespec system verilog
+  container-title: JTRES
+  publisher: ACM
+  page: '80-87'
+  URL: http://doi.acm.org/10.1145/2388936.2388951
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/HaddadL11
+  type: paper-conference
+  author:
+  - family: Haddad
+    given: Ghaith
+  - family: Leavens
+    given: Gary T.
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Specifying subtypes in sCJ programs
+  container-title: JTRES
+  publisher: ACM
+  page: '40-46'
+  URL: http://doi.acm.org/10.1145/2043910.2043917
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/WhithamAS09
+  type: paper-conference
+  author:
+  - family: Whitham
+    given: Jack
+  - family: Audsley
+    given: Neil C.
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Using hardware methods to improve time-predictable performance in real-time
+    java systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '130-139'
+  URL: http://doi.acm.org/10.1145/1620405.1620424
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/SantosW08
+  type: paper-conference
+  author:
+  - family: Santos
+    given: Osmar Marchi
+    dropping-particle: dos
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Blocking time monitoring in the real-time specification for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '135-143'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434811
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/KimW07
+  type: paper-conference
+  author:
+  - family: Kim
+    given: MinSeong
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Asynchronous event handling in the real-time specification for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '3-12'
+  URL: http://doi.acm.org/10.1145/1288940.1288942
+
+- id: conf/jtres/NikolovHW15
+  type: paper-conference
+  author:
+  - family: Nikolov
+    given: Vladimir
+  - family: Hauck
+    given: Franz J.
+  - family: Wesner
+    given: Stefan
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Assembling a framework for unknown real-time applications with rTSJ
+  container-title: JTRES
+  publisher: ACM
+  page: 12:1-12:10
+  URL: http://doi.acm.org/10.1145/2822304.2822318
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/BlantonZ13
+  type: paper-conference
+  author:
+  - family: Blanton
+    given: Ethan
+  - family: Ziarek
+    given: Lukasz
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Non-blocking inter-partition communication with wait-free pair transactions
+  container-title: JTRES
+  publisher: ACM
+  page: '58-67'
+  URL: http://doi.acm.org/10.1145/2512989.2512994
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/Schanne07
+  type: paper-conference
+  author:
+  - family: Schanne
+    given: Marc
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Integrated development of distributed real-time applications with asynchronous
+    communication
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '127-132'
+  URL: http://doi.acm.org/10.1145/1288940.1288959
+
+- id: conf/jtres/Hunt10
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Realtime java technology in avionics systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '138-147'
+  URL: http://doi.acm.org/10.1145/1850771.1850791
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/MeiGW15
+  type: paper-conference
+  author:
+  - family: Mei
+    given: Hai Tao
+  - family: Gray
+    given: Ian
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Integrating java 8 streams with the real-time specification for java
+  container-title: JTRES
+  publisher: ACM
+  page: 10:1-10:10
+  URL: http://doi.acm.org/10.1145/2822304.2822314
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/GruianW10
+  type: paper-conference
+  author:
+  - family: Gruian
+    given: Flavius
+  - family: Westmijze
+    given: Mark
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Investigating hardware micro-instruction folding in a java embedded processor
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '102-108'
+  URL: http://doi.acm.org/10.1145/1850771.1850787
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/Higuera-Toledano08
+  type: paper-conference
+  author:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Making stronger and flexible the single parent rule in the real-time specification
+    of java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '19-28'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434794
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/BlantonLZJ12
+  type: paper-conference
+  author:
+  - family: Blanton
+    given: Ethan
+  - family: Lessa
+    given: Demian
+  - family: Ziarek
+    given: Lukasz
+  - family: Jayaraman
+    given: Bharat
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: 'Ji.Fi: Visual test and debug queries for hard real-time'
+  title-short: Ji.Fi
+  container-title: JTRES
+  publisher: ACM
+  page: '155-164'
+  URL: http://doi.acm.org/10.1145/2388936.2388962
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/Ballarin13
+  type: paper-conference
+  author:
+  - family: Ballarin
+    given: Clemens
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Towards monitoring temporal properties with jamaicaVM
+  container-title: JTRES
+  publisher: ACM
+  page: '89-95'
+  URL: http://doi.acm.org/10.1145/2512989.2512998
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/RavnS13
+  type: paper-conference
+  author:
+  - family: Ravn
+    given: Anders P.
+  - family: Søndergaard
+    given: Hans
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: A test suite for safety-critical java using jML
+  container-title: JTRES
+  publisher: ACM
+  page: '80-88'
+  URL: http://doi.acm.org/10.1145/2512989.2512993
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/PuffitschS12
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: On the scalability of time-predictable chip-multiprocessing
+  container-title: JTRES
+  publisher: ACM
+  page: '98-104'
+  URL: http://doi.acm.org/10.1145/2388936.2388953
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/RichardsonWDD10
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Thomas
+  - family: Wellings
+    given: Andy J.
+  - family: Dianes
+    given: Jose Ángel
+  - family: Díaz
+    given: Manuel
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Towards memory management for service-oriented real-time systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '128-137'
+  URL: http://doi.acm.org/10.1145/1850771.1850790
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/MassonM08
+  type: paper-conference
+  author:
+  - family: Masson
+    given: Damien
+  - family: Midonnet
+    given: Serge
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: 'RTSJ extensions: Event manager and feasibility analyzer'
+  title-short: RTSJ extensions
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '10-18'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434793
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/Doherty07
+  type: paper-conference
+  author:
+  - family: Doherty
+    given: Brian P.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: A real-time benchmark for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '35-46'
+  URL: http://doi.acm.org/10.1145/1288940.1288946
+
+- id: conf/jtres/StromPS13
+  type: paper-conference
+  author:
+  - family: Strøm
+    given: Tórur Biskopstø
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Chip-multiprocessor hardware locks for safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: '38-46'
+  URL: http://doi.acm.org/10.1145/2512989.2512995
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/Pitter08
+  type: paper-conference
+  author:
+  - family: Pitter
+    given: Christof
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Time-predictable memory arbitration for a java chip-multiprocessor
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '115-122'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434808
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/TejeraAM07
+  type: paper-conference
+  author:
+  - family: Tejera
+    given: Daniel
+  - family: Alonso
+    given: Alejandro
+  - family: Miguel
+    given: Miguel A.
+    dropping-particle: de
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: 'RMI-hRT: Remote method invocation - hard real time'
+  title-short: RMI-hRT
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '113-120'
+  URL: http://doi.acm.org/10.1145/1288940.1288957
+
+- id: conf/jtres/KorsholmJ07
+  type: paper-conference
+  author:
+  - family: Korsholm
+    given: Stephan
+  - family: Jean
+    given: Philippe
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: The java legacy interface
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '187-195'
+  URL: http://doi.acm.org/10.1145/1288940.1288968
+
+- id: conf/jtres/RavnS10
+  type: paper-conference
+  author:
+  - family: Ravn
+    given: Anders P.
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Cyclic executive for safety-critical java on chip-multiprocessors
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '63-69'
+  URL: http://doi.acm.org/10.1145/1850771.1850779
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/BogholmHRTS10
+  type: paper-conference
+  author:
+  - family: Bøgholm
+    given: Thomas
+  - family: Hansen
+    given: René Rydhof
+  - family: Ravn
+    given: Anders P.
+  - family: Thomsen
+    given: Bent
+  - family: Søndergaard
+    given: Hans
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Schedulability analysis for java finalizers
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/1850771.1850772
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/DombrowskiKDGH13
+  type: paper-conference
+  author:
+  - family: Dombrowski
+    given: Marcel
+  - family: Kent
+    given: Kenneth B.
+  - family: Dawson
+    given: Michael
+  - family: Gracie
+    given: Charlie
+  - family: Herpers
+    given: Rainer
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Dynamic monitor allocation in the java virtual machine
+  container-title: JTRES
+  publisher: ACM
+  page: '30-37'
+  URL: http://doi.acm.org/10.1145/2512989.2512996
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/2007
+  type: book
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Proceedings of the 5th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2007, institute of computer engineering, vienna university
+    of technology, 26-28 september 2007, vienna, austria
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+
+- id: conf/jtres/PedersenS10
+  type: paper-conference
+  author:
+  - family: Pedersen
+    given: Rasmus Ulslev
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'Object oriented machine learning with a multicore real-time java processor:
+    Short paper'
+  title-short: Object oriented machine learning with a multicore real-time java processor
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '76-78'
+  URL: http://doi.acm.org/10.1145/1850771.1850782
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/Puffitsch11
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Hard real-time garbage collection for a java chip multi-processor
+  container-title: JTRES
+  publisher: ACM
+  page: '64-73'
+  URL: http://doi.acm.org/10.1145/2043910.2043921
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/KaliberaHPPTV09
+  type: paper-conference
+  author:
+  - family: Kalibera
+    given: Tomas
+  - family: Hagelberg
+    given: Jeff
+  - family: Pizlo
+    given: Filip
+  - family: Plsek
+    given: Ales
+  - family: Titzer
+    given: Ben
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: 'CDx: A family of real-time java benchmarks'
+  title-short: CDx
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1620405.1620412
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/KalkovFSK12
+  type: paper-conference
+  author:
+  - family: Kalkov
+    given: Igor
+  - family: Franke
+    given: Dominik
+  - family: Schommer
+    given: John F.
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: A real-time extension to the android platform
+  container-title: JTRES
+  publisher: ACM
+  page: '105-114'
+  URL: http://doi.acm.org/10.1145/2388936.2388955
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/BordinV07
+  type: paper-conference
+  author:
+  - family: Bordin
+    given: Matteo
+  - family: Vardanega
+    given: Tullio
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Real-time java from an automated code generation perspective
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/1288940.1288950
+
+- id: conf/jtres/Ziarek10
+  type: paper-conference
+  author:
+  - family: Ziarek
+    given: Lukasz
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'PRP: Priority rollback protocol – a pIP extension for mixed criticality
+    systems: Short paper'
+  title-short: PRP
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '82-84'
+  URL: http://doi.acm.org/10.1145/1850771.1850784
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/PuffitschNP13
+  type: paper-conference
+  author:
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Noulard
+    given: Eric
+  - family: Pagetti
+    given: Claire
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Explicit precedence constraints in safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/2512989.2512997
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/LuckowBTL13
+  type: paper-conference
+  author:
+  - family: Luckow
+    given: Kasper Søe
+  - family: Bøgholm
+    given: Thomas
+  - family: Thomsen
+    given: Bent
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: 'TetaSARTS: A tool for modular timing analysis of safety critical java
+    systems'
+  title-short: TetaSARTS
+  container-title: JTRES
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/2512989.2512992
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/ZabelPS12
+  type: paper-conference
+  author:
+  - family: Zabel
+    given: Martin
+  - family: Preußer
+    given: Thomas B.
+  - family: Spallek
+    given: Rainer G.
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Increasing the efficiency of an embedded multi-core bytecode processor using
+    an object cache
+  container-title: JTRES
+  publisher: ACM
+  page: '88-97'
+  URL: http://doi.acm.org/10.1145/2388936.2388952
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/TangPV10
+  type: paper-conference
+  author:
+  - family: Tang
+    given: Daniel
+  - family: Plsek
+    given: Ales
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Static checking of safety critical java annotations
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '148-154'
+  URL: http://doi.acm.org/10.1145/1850771.1850792
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/WellingsLC13
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Luckcuck
+    given: Matt
+  - family: Cavalcanti
+    given: Ana
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: 'Safety-critical java level 2: Motivations, example applications and issues'
+  title-short: Safety-critical java level 2
+  container-title: JTRES
+  publisher: ACM
+  page: '48-57'
+  URL: http://doi.acm.org/10.1145/2512989.2512991
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/DawsonT08
+  type: paper-conference
+  author:
+  - family: Dawson
+    given: Michael
+  - family: Thwaite
+    given: Paul
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Testing class libraries for rTSJ safety
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '61-67'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434800
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/MaiaNP10
+  type: paper-conference
+  author:
+  - family: Maia
+    given: Cláudio
+  - family: Nogueira
+    given: Luís
+  - family: Pinho
+    given: Luís Miguel
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'Experiences on the implementation of a cooperative embedded system framework:
+    Short paper'
+  title-short: Experiences on the implementation of a cooperative embedded system
+    framework
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '70-72'
+  URL: http://doi.acm.org/10.1145/1850771.1850780
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/Higuera-Toledano12
+  type: paper-conference
+  author:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: About 15 years of real-time java
+  container-title: JTRES
+  publisher: ACM
+  page: '34-43'
+  URL: http://doi.acm.org/10.1145/2388936.2388943
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/ALRahmawyW07
+  type: paper-conference
+  author:
+  - family: AlRahmawy
+    given: Mohammed
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: A model for real time mobility based on the rTSJ
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '155-164'
+  URL: http://doi.acm.org/10.1145/1288940.1288964
+
+- id: conf/jtres/Nilsen07
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Improving abstraction, encapsulation, and performance within mixed-mode real-time
+    java applications
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/1288940.1288943
+
+- id: conf/jtres/CavalcantiWWWZ11
+  type: paper-conference
+  author:
+  - family: Cavalcanti
+    given: Ana
+  - family: Wellings
+    given: Andy J.
+  - family: Woodcock
+    given: Jim
+  - family: Wei
+    given: Kun
+  - family: Zeyda
+    given: Frank
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: Safety-critical java in circus
+  container-title: JTRES
+  publisher: ACM
+  page: '20-29'
+  URL: http://doi.acm.org/10.1145/2043910.2043915
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/PitterS07
+  type: paper-conference
+  author:
+  - family: Pitter
+    given: Christof
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Towards a java multiprocessor
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '144-151'
+  URL: http://doi.acm.org/10.1145/1288940.1288962
+
+- id: conf/jtres/MaiaNP11
+  type: paper-conference
+  author:
+  - family: Maia
+    given: Cláudio
+  - family: Nogueira
+    given: Luís
+  - family: Pinho
+    given: Luís Miguel
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: 'Combining rTSJ with fork/Join: A priority-based model'
+  title-short: Combining rTSJ with fork/Join
+  container-title: JTRES
+  publisher: ACM
+  page: '82-86'
+  URL: http://doi.acm.org/10.1145/2043910.2043924
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/Schoeberl07
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Architecture for object-oriented programming languages
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '57-62'
+  URL: http://doi.acm.org/10.1145/1288940.1288949
+
+- id: conf/jtres/MalikWC10
+  type: paper-conference
+  author:
+  - family: Malik
+    given: Abdul Haseeb
+  - family: Wellings
+    given: Andy J.
+  - family: Chang
+    given: Yang
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: A locality model for the real-time specification for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '36-45'
+  URL: http://doi.acm.org/10.1145/1850771.1850776
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/MakelainenFM08
+  type: paper-conference
+  author:
+  - family: Mäkeläinen
+    given: Raine
+  - family: Flora
+    given: Cristiano
+    dropping-particle: di
+  - family: Mikkonen
+    given: Tommi
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Enhanced integration of java to symbian oS using smart pointers
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '38-47'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434797
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/Foley07
+  type: paper-conference
+  author:
+  - family: Foley
+    given: Sean
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: Tactics for minimal interference from class loading in real-time java&trade;
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/1288940.1288944
+
+- id: conf/jtres/Nilsen10
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Ada-java middleware for legacy software modernization
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '85-94'
+  URL: http://doi.acm.org/10.1145/1850771.1850785
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/2013
+  type: book
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: The 11th international workshop on java technologies for real-time and embedded
+    systems, jTRES ’13, karlsruhe, germany, october 9-11, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2512989
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/RiosNS12
+  type: paper-conference
+  author:
+  - family: Rios
+    given: Juan Ricardo
+  - family: Nilsen
+    given: Kelvin
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Patterns for safety-critical java memory usage
+  container-title: JTRES
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/2388936.2388938
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/DalsgaardHS12
+  type: paper-conference
+  author:
+  - family: Dalsgaard
+    given: Andreas Engelbredt
+  - family: Hansen
+    given: René Rydhof
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Private memory allocation analysis for safety-critical java
+  container-title: JTRES
+  publisher: ACM
+  page: '9-17'
+  URL: http://doi.acm.org/10.1145/2388936.2388939
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/DefoeLC07
+  type: paper-conference
+  author:
+  - family: Defoe
+    given: Delvin C.
+  - family: LeGrand
+    given: Rob
+  - family: Cytron
+    given: Ron K.
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: On the connection between functional programming languages and real-time
+    java scoped memory
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/1288940.1288951
+
+- id: conf/jtres/AlrahmawyW09
+  type: paper-conference
+  author:
+  - family: AlRahmawy
+    given: Mohammed
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: An rTSJ-based reconfigurable server component
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/1620405.1620410
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/SinghWC12
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Neeraj Kumar
+  - family: Wellings
+    given: Andy J.
+  - family: Cavalcanti
+    given: Ana
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: The cardiac pacemaker case study and its implementation in safety-critical
+    java and ravenscar ada
+  container-title: JTRES
+  publisher: ACM
+  page: '62-71'
+  URL: http://doi.acm.org/10.1145/2388936.2388948
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/SchoofsJLNGR09
+  type: paper-conference
+  author:
+  - family: Schoofs
+    given: Tobias
+  - family: Jenn
+    given: Eric
+  - family: Leriche
+    given: Stéphane
+  - family: Nilsen
+    given: Kelvin
+  - family: Gauthier
+    given: Ludovic
+  - family: Richard-Foy
+    given: Marc
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Use of pERC pico in the aIDA avionics platform
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '169-178'
+  URL: http://doi.acm.org/10.1145/1620405.1620429
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/SilvaWWP07
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Elias Teodoro Silva
+  - family: Wehrmeister
+    given: Marco A.
+  - family: Wagner
+    given: Flávio Rech
+  - family: Pereira
+    given: Carlos Eduardo
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2007'
+  title: An approach to improve predictability in communication services in distributed
+    real-time embedded systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '121-126'
+  URL: http://doi.acm.org/10.1145/1288940.1288958
+
+- id: conf/jtres/TerrizaV09
+  type: paper-conference
+  author:
+  - family: Terriza
+    given: Juan Antonio Holgado
+  - family: Viúdez-Aivar
+    given: Jaime
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: A flexible java framework for embedded systems
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '21-30'
+  URL: http://doi.acm.org/10.1145/1620405.1620409
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/ErhardtSLS11
+  type: paper-conference
+  author:
+  - family: Erhardt
+    given: Christoph
+  - family: Stilkerich
+    given: Michael
+  - family: Lohmann
+    given: Daniel
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: 'Exploiting static application knowledge in a java compiler for embedded
+    systems: A case study'
+  title-short: Exploiting static application knowledge in a java compiler for embedded
+    systems
+  container-title: JTRES
+  publisher: ACM
+  page: '96-105'
+  URL: http://doi.acm.org/10.1145/2043910.2043927
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/GauthierGLAAN13
+  type: paper-conference
+  author:
+  - family: Gauthier
+    given: Ludovic
+  - family: Gray
+    given: Ian
+  - family: Larkham
+    given: Adrian
+  - family: Ayad
+    given: Gasser
+  - family: Acquaviva
+    given: Andrea
+  - family: Nilsen
+    given: Kelvin
+  editor:
+  - family: Siebert
+    given: Fridtjof
+  issued:
+  - year: '2013'
+  title: Explicit java control of low-power heterogeneous parallel processing in the
+    toucHMore project
+  container-title: JTRES
+  publisher: ACM
+  page: '68-77'
+  URL: http://doi.acm.org/10.1145/2512989.2513001
+  ISBN: '978-1-4503-2166-2'
+
+- id: conf/jtres/HuberPS10
+  type: paper-conference
+  author:
+  - family: Huber
+    given: Benedikt
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: WCET driven design space exploration of an object cache
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '26-35'
+  URL: http://doi.acm.org/10.1145/1850771.1850775
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/2014
+  type: book
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: Proceedings of the 12th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2014, niagara falls, nY, uSA, october 13-14, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2661020
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/2015
+  type: book
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Proceedings of the 13th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2015, paris, france, october 7-8, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2822304
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/KalkovGK15
+  type: paper-conference
+  author:
+  - family: Kalkov
+    given: Igor
+  - family: Gurghian
+    given: Alexandru
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Ziarek
+    given: Lukasz
+  issued:
+  - year: '2015'
+  title: Priority inheritance during remote procedure calls in real-time android using
+    extended binder framework
+  container-title: JTRES
+  publisher: ACM
+  page: 5:1-5:10
+  URL: http://doi.acm.org/10.1145/2822304.2822311
+  ISBN: '978-1-4503-3644-4'
+
+- id: conf/jtres/CaskaS11
+  type: paper-conference
+  author:
+  - family: Caska
+    given: James
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Wellings
+    given: Andy J.
+  issued:
+  - year: '2011'
+  title: 'Java dust: How small can embedded java be?'
+  title-short: Java dust
+  container-title: JTRES
+  publisher: ACM
+  page: '125-129'
+  URL: http://doi.acm.org/10.1145/2043910.2043931
+  ISBN: '978-1-4503-0731-4'
+
+- id: conf/jtres/MalikSGWL09
+  type: paper-conference
+  author:
+  - family: Malik
+    given: Avinash
+  - family: Salcic
+    given: Zoran A.
+  - family: Girault
+    given: Alain
+  - family: Walker
+    given: Adam
+  - family: Lee
+    given: Sung Chul
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: A customizable multiprocessor for globally asynchronous locally synchronous
+    execution
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '120-129'
+  URL: http://doi.acm.org/10.1145/1620405.1620423
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/KwonCR12
+  type: paper-conference
+  author:
+  - family: Kwon
+    given: Jinsan
+  - family: Cho
+    given: Hyeonjoong
+  - family: Ravindran
+    given: Binoy
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: A framework accommodating categorized multiprocessor real-time scheduling
+    in the rTSJ
+  container-title: JTRES
+  publisher: ACM
+  page: '18-25'
+  URL: http://doi.acm.org/10.1145/2388936.2388941
+  ISBN: '978-1-4503-1688-0'
+
+- id: conf/jtres/ThommSWS10
+  type: paper-conference
+  author:
+  - family: Thomm
+    given: Isabella
+  - family: Stilkerich
+    given: Michael
+  - family: Wawersich
+    given: Christian
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: 'KESO: An open-source multi-jVM for deeply embedded systems'
+  title-short: KESO
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '109-119'
+  URL: http://doi.acm.org/10.1145/1850771.1850788
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/BogholmKOTL08
+  type: paper-conference
+  author:
+  - family: Bøgholm
+    given: Thomas
+  - family: Kragh-Hansen
+    given: Henrik
+  - family: Olsen
+    given: Petur
+  - family: Thomsen
+    given: Bent
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: Model-based schedulability analysis of safety critical hard real-time java
+    programs
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '106-114'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434807
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/PlsekZSTKV10
+  type: paper-conference
+  author:
+  - family: Plsek
+    given: Ales
+  - family: Zhao
+    given: Lei
+  - family: Sahin
+    given: Veysel H.
+  - family: Tang
+    given: Daniel
+  - family: Kalibera
+    given: Tomas
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Developing safety critical java applications with oSCJ/L0
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '95-101'
+  URL: http://doi.acm.org/10.1145/1850771.1850786
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/2010
+  type: book
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Proceedings of the 8th international workshop on java technologies for real-time
+    and embedded systems, jTRES 2010, prague, czech republic, august 19-21, 2010
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/RichardsonWDD09
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Thomas
+  - family: Wellings
+    given: Andy J.
+  - family: Dianes
+    given: Jose Ángel
+  - family: Díaz
+    given: Manuel
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Providing temporal isolation in the oSGi framework
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1620405.1620407
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/ChanWGA14
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Yu
+  - family: Wellings
+    given: Andy J.
+  - family: Gray
+    given: Ian
+  - family: Audsley
+    given: Neil C.
+  editor:
+  - family: Puffitsch
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: On the locality of java 8 streams in real-time big data applications
+  container-title: JTRES
+  publisher: ACM
+  page: '20'
+  URL: http://doi.acm.org/10.1145/2661020.2661028
+  ISBN: '978-1-4503-2813-5'
+
+- id: conf/jtres/ZabelS10
+  type: paper-conference
+  author:
+  - family: Zabel
+    given: Martin
+  - family: Spallek
+    given: Rainer G.
+  editor:
+  - family: Kalibera
+    given: Tomas
+  issued:
+  - year: '2010'
+  title: Application requirements and efficiency of embedded java bytecode multi-cores
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '46-52'
+  URL: http://doi.acm.org/10.1145/1850771.1850777
+  ISBN: '978-1-4503-0122-0'
+
+- id: conf/jtres/AlRahmawyW09
+  type: paper-conference
+  author:
+  - family: AlRahmawy
+    given: Mohammed
+  - family: Wellings
+    given: Andy J.
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Design patterns for supporting rTSJ component models
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1620405.1620408
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/WellingsCR09
+  type: paper-conference
+  author:
+  - family: Wellings
+    given: Andy J.
+  - family: Chang
+    given: Yang
+  - family: Richardson
+    given: Thomas
+  editor:
+  - family: Higuera-Toledano
+    given: M. Teresa
+  issued:
+  - year: '2009'
+  title: Enhancing the platform independence of the real-time specification for java
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '61-69'
+  URL: http://doi.acm.org/10.1145/1620405.1620415
+  ISBN: '978-1-60558-732-5'
+
+- id: conf/jtres/Siebert08
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Bollella
+    given: Gregory
+  issued:
+  - year: '2008'
+  title: 'JEOPARD: Java environment for parallel real-time development'
+  title-short: JEOPARD
+  container-title: JTRES
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '87-93'
+  volume: '343'
+  URL: http://doi.acm.org/10.1145/1434790.1434804
+  ISBN: '978-1-60558-337-2'
+
+- id: conf/jtres/OhKCM12
+  type: paper-conference
+  author:
+  - family: Oh
+    given: Hyeong-Seok
+  - family: Kim
+    given: Beom-Jun
+  - family: Choi
+    given: Hyung-Kyu
+  - family: Moon
+    given: Soo-Mook
+  editor:
+  - family: Schoeberl
+    given: Martin
+  issued:
+  - year: '2012'
+  title: Evaluation of android dalvik virtual machine
+  container-title: JTRES
+  publisher: ACM
+  page: '115-124'
+  URL: http://doi.acm.org/10.1145/2388936.2388956
+  ISBN: '978-1-4503-1688-0'
+...

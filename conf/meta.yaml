@@ -1,0 +1,870 @@
+---
+references:
+- id: conf/meta/GiunchigliaS88
+  type: paper-conference
+  author:
+  - family: Giunchiglia
+    given: Fausto
+  - family: Smaill
+    given: Alan
+  issued:
+  - year: '1988'
+  title: Reflection in constructive and non-constructive automated reasoning
+  container-title: META
+  page: '123-140'
+
+- id: conf/meta/YalcinalpS88
+  type: paper-conference
+  author:
+  - family: Yalçinalp
+    given: L. Ümit
+  - family: Sterling
+    given: Leon
+  issued:
+  - year: '1988'
+  title: An integrated interpreter for explaining prolog’s successes and failures
+  container-title: META
+  page: '191-203'
+
+- id: conf/meta/Wiggins92
+  type: paper-conference
+  author:
+  - family: Wiggins
+    given: Geraint A.
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Negation and control on automatically generated logic programs
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '250-264'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_17
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/CostantiniDL92
+  type: paper-conference
+  author:
+  - family: Costantini
+    given: Stefania
+  - family: Dell’Acqua
+    given: Pierangelo
+  - family: Lanzarone
+    given: Gaetano Aurelio
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Reflective agents in metalogic programming
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-147'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_9
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Debray92
+  type: paper-conference
+  author:
+  - family: Debray
+    given: Saumya K.
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Compiler optimizations for low-level redundancy elimination: An application
+    of meta-level prolog primitives'
+  title-short: Compiler optimizations for low-level redundancy elimination
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-134'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_8
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/SchreyeV92
+  type: paper-conference
+  author:
+  - family: Schreye
+    given: Danny De
+  - family: Verschaetse
+    given: Kristof
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Tutorial on termination of logic programs
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-88'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_5
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Hirschman88
+  type: paper-conference
+  author:
+  - family: Hirschman
+    given: Lynette
+  issued:
+  - year: '1988'
+  title: A meta-rule treatment for englich wh-constructions
+  container-title: META
+  page: '1-21'
+
+- id: conf/meta/Cicekli88
+  type: paper-conference
+  author:
+  - family: Cicekli
+    given: Ilyas
+  issued:
+  - year: '1988'
+  title: Design and implementation of an abstract metaProlog engine for metaProlog
+  container-title: META
+  page: '417-433'
+
+- id: conf/meta/Bonatti92
+  type: paper-conference
+  author:
+  - family: Bonatti
+    given: Piero A.
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Model theoretic semantics for demo
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-234'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_15
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Bahgat92
+  type: paper-conference
+  author:
+  - family: Bahgat
+    given: Reem
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: The pandora deadlock handler meta-level relation
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-176'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_11
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Fruhwirth88
+  type: paper-conference
+  author:
+  - family: Frühwirth
+    given: Thom W.
+  issued:
+  - year: '1988'
+  title: Type inference by program transformation and partial evaluation
+  container-title: META
+  page: '263-282'
+
+- id: conf/meta/BruynoogheJ92
+  type: paper-conference
+  author:
+  - family: Bruynooghe
+    given: Maurice
+  - family: Janssens
+    given: Gerda
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Propagation: A new operation in a framework for abstract interpretation
+    of logic programs'
+  title-short: Propagation
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-307'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_20
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/SchreyeB88
+  type: paper-conference
+  author:
+  - family: Schreye
+    given: Danny De
+  - family: Bruynooghe
+    given: Maurice
+  issued:
+  - year: '1988'
+  title: The compilation of forward checking regimes through meta-interpretation and
+    transformation
+  container-title: META
+  page: '217-231'
+
+- id: conf/meta/RossiM88
+  type: paper-conference
+  author:
+  - family: Rossi
+    given: Francesca
+  - family: Montanari
+    given: Ugo
+  issued:
+  - year: '1988'
+  title: Hypergraph grammars and networks of constraints versus logic programming
+    and metaprogramming
+  container-title: META
+  page: '531-544'
+
+- id: conf/meta/Ross88
+  type: paper-conference
+  author:
+  - family: Ross
+    given: Brian J.
+  issued:
+  - year: '1988'
+  title: The partial evaluation of imperative programs using prolog
+  container-title: META
+  page: '341-363'
+
+- id: conf/meta/HamfeltH92
+  type: paper-conference
+  author:
+  - family: Hamfelt
+    given: Andreas
+  - family: Hansson
+    given: Åke
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Representation of fragmentary multilayered knowledge
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '321-335'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_22
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/StaplesRPHCW88
+  type: paper-conference
+  author:
+  - family: Staples
+    given: John
+  - family: '0001'
+    given: Peter J. Robinson
+  - family: Paterson
+    given: R. A.
+  - family: Hagen
+    given: R. A.
+  - family: Craddock
+    given: A. J.
+  - family: Wallis
+    given: P. C.
+  issued:
+  - year: '1988'
+  title: 'Qu-prolog: An extended prolog for meta level programming'
+  title-short: Qu-prolog
+  container-title: META
+  page: '435-452'
+
+- id: conf/meta/CavalieriLMN88
+  type: paper-conference
+  author:
+  - family: Cavalieri
+    given: Marco
+  - family: Lamma
+    given: Evelina
+  - family: Mello
+    given: Paola
+  - family: Natali
+    given: Antonio
+  issued:
+  - year: '1988'
+  title: 'Meta-programming in prolog through direct introspection: Comparison with
+    meta-interpretation techniques'
+  title-short: Meta-programming in prolog through direct introspection
+  container-title: META
+  page: '399-415'
+
+- id: conf/meta/DrabentNM88
+  type: paper-conference
+  author:
+  - family: Drabent
+    given: Wlodzimierz
+  - family: Nadjm-Tehrani
+    given: Simin
+  - family: Maluszynski
+    given: Jan
+  issued:
+  - year: '1988'
+  title: Algorithmic debugging with assertions
+  container-title: META
+  page: '501-521'
+
+- id: conf/meta/Grabowski92
+  type: paper-conference
+  author:
+  - family: Grabowski
+    given: Jan
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Metaprograms for change assumptions, objects, and inheritance
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '336-351'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_23
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/MesnardG92
+  type: paper-conference
+  author:
+  - family: Mesnard
+    given: Frédéric
+  - family: Ganascia
+    given: Jean-Gabriel
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: CLP(Q) for proving interargument relations
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '308-320'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_21
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Voda88
+  type: paper-conference
+  author:
+  - family: Voda
+    given: Paul J.
+  issued:
+  - year: '1988'
+  title: The logical reconstruction of cuts as one solution operators
+  container-title: META
+  page: '523-530'
+
+- id: conf/meta/HannanM88
+  type: paper-conference
+  author:
+  - family: Hannan
+    given: John
+  - family: Miller
+    given: Dale
+  issued:
+  - year: '1988'
+  title: A meta-logic for functional programming
+  container-title: META
+  page: '453-476'
+
+- id: conf/meta/CervesatoR92
+  type: paper-conference
+  author:
+  - family: Cervesato
+    given: Iliano
+  - family: Rossi
+    given: Gianfranco
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Logic meta-programming facilities in ’lOG
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-161'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_10
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/BenkerimiH92
+  type: paper-conference
+  author:
+  - family: Benkerimi
+    given: Kerima
+  - family: Hill
+    given: Patricia M.
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Object-oriented programming in gödel: An experiment'
+  title-short: Object-oriented programming in gödel
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-191'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_12
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/TarauB88
+  type: paper-conference
+  author:
+  - family: Tarau
+    given: Paul
+  - family: Boyer
+    given: Michel
+  issued:
+  - year: '1988'
+  title: Prolog meta-programming with soft databases
+  container-title: META
+  page: '365-381'
+
+- id: conf/meta/BrogiMPT92
+  type: paper-conference
+  author:
+  - family: Brogi
+    given: Antonio
+  - family: Mancarella
+    given: Paolo
+  - family: Pedreschi
+    given: Dino
+  - family: Turini
+    given: Franco
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Meta for modularising logic programming
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-119'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_7
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Harmelen92
+  type: paper-conference
+  author:
+  - family: Harmelen
+    given: Frank
+    dropping-particle: van
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Definable naming relations in meta-level systems
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-104'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_6
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Christiansen92
+  type: paper-conference
+  author:
+  - family: Christiansen
+    given: Henning
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: A complete resolution method for logical meta-programming languages
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-219'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_14
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/JiangA88
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Yue Jun
+  - family: Azarmi
+    given: Nader
+  issued:
+  - year: '1988'
+  title: Meta logic programming for epistemic notions
+  container-title: META
+  page: '477-499'
+
+- id: conf/meta/BossiCE92
+  type: paper-conference
+  author:
+  - family: Bossi
+    given: Annalisa
+  - family: Cocco
+    given: Nicoletta
+  - family: Etalle
+    given: Sandro
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Transforming normal programs by replacement
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-279'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_18
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Owen88
+  type: paper-conference
+  author:
+  - family: Owen
+    given: Stephen
+  issued:
+  - year: '1988'
+  title: Issues in the partial evaluation of meta-interpreters
+  container-title: META
+  page: '319-339'
+
+- id: conf/meta/Harmelen88
+  type: paper-conference
+  author:
+  - family: Harmelen
+    given: Frank
+    dropping-particle: van
+  issued:
+  - year: '1988'
+  title: A classification of meta-level architectures
+  container-title: META
+  page: '103-122'
+
+- id: conf/meta/AkamaI88
+  type: paper-conference
+  author:
+  - family: Akama
+    given: Seiki
+  - family: Ishikawa
+    given: Akira
+  issued:
+  - year: '1988'
+  title: Semantically constrained parsing and logic programming
+  container-title: META
+  page: '157-168'
+
+- id: conf/meta/BowlesW88
+  type: paper-conference
+  author:
+  - family: Bowles
+    given: Andrew
+  - family: Wilk
+    given: Paul
+  issued:
+  - year: '1988'
+  title: Tracing requirements for multi-layered meta-programming
+  container-title: META
+  page: '205-215'
+
+- id: conf/meta/Konolige92
+  type: paper-conference
+  author:
+  - family: Konolige
+    given: Kurt
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: An autoepistemic analysis of metalevel reasoning in logic programming
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-48'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_3
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/CodishGS88
+  type: paper-conference
+  author:
+  - family: Codish
+    given: Michael
+  - family: Gallagher
+    given: John P.
+  - family: Shapiro
+    given: Ehud Y.
+  issued:
+  - year: '1988'
+  title: Using safe approximations of fixed points for analysis of logic programs
+  container-title: META
+  page: '233-261'
+
+- id: conf/meta/TraffP92
+  type: paper-conference
+  author:
+  - family: Träff
+    given: Jesper Larsson
+  - family: Prestwich
+    given: Steven David
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Meta-programming for reordering literals in deductive databases
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '280-293'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_19
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/ChengES88
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Mantis H. M.
+  - family: Emden
+    given: Maarten H.
+    dropping-particle: van
+  - family: Strooper
+    given: Paul A.
+  issued:
+  - year: '1988'
+  title: Complete sets of frontiers in logic-based program transformation
+  container-title: META
+  page: '283-297'
+
+- id: conf/meta/HillL88
+  type: paper-conference
+  author:
+  - family: Hill
+    given: Patricia M.
+  - family: Lloyd
+    given: John W.
+  issued:
+  - year: '1988'
+  title: Analysis of meta-programs
+  container-title: META
+  page: '23-51'
+
+- id: conf/meta/GiunchigliaSS92
+  type: paper-conference
+  author:
+  - family: Giunchiglia
+    given: Fausto
+  - family: Serafini
+    given: Luciano
+  - family: Simpson
+    given: Alex K.
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Hierarchical meta-logics: Intuitions, proof theory and semantics'
+  title-short: Hierarchical meta-logics
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-249'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_16
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Subrahmanian88
+  type: paper-conference
+  author:
+  - family: Subrahmanian
+    given: V. S.
+  issued:
+  - year: '1988'
+  title: A simple formulation of the theory of metalogic programming
+  container-title: META
+  page: '65-101'
+
+- id: conf/meta/Gardenfors92
+  type: paper-conference
+  author:
+  - family: Gärdenfors
+    given: Peter
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Belief revision: A vade-mecum'
+  title-short: Belief revision
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-10'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_1
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Komorowski92
+  type: paper-conference
+  author:
+  - family: Komorowski
+    given: Henryk Jan
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: An introduction to partial deduction
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-69'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_4
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/BruffaertsH88
+  type: paper-conference
+  author:
+  - family: Bruffaerts
+    given: Albert
+  - family: Henin
+    given: Eric
+  issued:
+  - year: '1988'
+  title: 'Negation as failure: Proofs, inference rules and meta-interpreters'
+  title-short: Negation as failure
+  container-title: META
+  page: '169-190'
+
+- id: conf/meta/CerroH92
+  type: paper-conference
+  author:
+  - family: Cerro
+    given: Luis Fariñas
+    dropping-particle: del
+  - family: Herzig
+    given: Andreas
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: 'Metaprogramming through intensional deduction: Some examples'
+  title-short: Metaprogramming through intensional deduction
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-25'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_2
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/SchreyeM92
+  type: paper-conference
+  author:
+  - family: Schreye
+    given: Danny De
+  - family: Martens
+    given: Bern
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: A sensible least herbrand semantics for untyped vanilla meta-programming
+    and its extension to a limited form of amalgamation
+  container-title: META
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-204'
+  volume: '649'
+  DOI: 10.1007/3-540-56282-6_13
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/DahlM88
+  type: paper-conference
+  author:
+  - family: Dahl
+    given: Verónica
+  - family: Massicotte
+    given: Pierre
+  issued:
+  - year: '1988'
+  title: Processing techniques for dsicontinuous grammars
+  container-title: META
+  page: '141-156'
+
+- id: conf/meta/ChanW88
+  type: paper-conference
+  author:
+  - family: Chan
+    given: David
+  - family: Wallace
+    given: Mark
+  issued:
+  - year: '1988'
+  title: A treatment of negation during partial evaluation
+  container-title: META
+  page: '299-317'
+
+- id: conf/meta/1992
+  type: book
+  editor:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1992'
+  title: Meta-programming in logic, 3rd international workshop, mETA-92, uppsala,
+    sweden, june 10-12, 1992, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '649'
+  ISBN: '3-540-56282-6'
+
+- id: conf/meta/Barklund88
+  type: paper-conference
+  author:
+  - family: Barklund
+    given: Jonas
+  issued:
+  - year: '1988'
+  title: What is a meta-variable in prolog?
+  container-title: META
+  page: '383-398'
+
+- id: conf/meta/Blair88
+  type: paper-conference
+  author:
+  - family: Blair
+    given: Howard A.
+  issued:
+  - year: '1988'
+  title: Metalogic programming and direct universal computability
+  container-title: META
+  page: '53-63'
+...

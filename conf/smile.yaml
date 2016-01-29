@@ -1,0 +1,860 @@
+---
+references:
+- id: conf/smile/PritchettZ98
+  type: paper-conference
+  author:
+  - family: Pritchett
+    given: Philip
+  - family: Zisserman
+    given: Andrew
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Matching and reconstruction from widely separated views
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-92'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_6
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Nister00
+  type: paper-conference
+  author:
+  - family: Nistér
+    given: David
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Frame decimation for structure and motion
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-34'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_2
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/BrodskyFA98
+  type: paper-conference
+  author:
+  - family: Brodský
+    given: Tomás
+  - family: Fermüller
+    given: Cornelia
+  - family: Aloimonos
+    given: Yiannis
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: 'Beyond the epipolar constraint: Integrating 3D motion and structure estimation'
+  title-short: Beyond the epipolar constraint
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-123'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_8
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/BakerPFA00
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Patrick
+  - family: Pless
+    given: Robert
+  - family: Fermüller
+    given: Cornelia
+  - family: Aloimonos
+    given: Yiannis
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Eyes from eyes
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-217'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_14
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/1998
+  type: book
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: 3D structure from multiple images of large-scale environments, european workshop,
+    sMILE’98, freiburg, germany, june 6-7, 1998
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1506'
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/ZhangS00
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Zhengyou
+  - family: Shan
+    given: Ying
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: A progressive scheme for stereo matching
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-85'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_5
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/AvidanS98
+  type: paper-conference
+  author:
+  - family: Avidan
+    given: Shai
+  - family: Shashua
+    given: Amnon
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Tensor embedding of the fundamental matrix
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-62'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_4
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/WeinshallAI98
+  type: paper-conference
+  author:
+  - family: Weinshall
+    given: Daphna
+  - family: Anandan
+    given: P.
+  - family: Irani
+    given: Michal
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: From ordinal to euclidean reconstruction with partial scene calibration
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-223'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_14
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/PajdlaMTBD00
+  type: paper-conference
+  author:
+  - family: Pajdla
+    given: Tomás
+  - family: Mellor
+    given: J. P.
+  - family: Taylor
+    given: Camillo J.
+  - family: Brodský
+    given: Tomás
+  - family: Davison
+    given: Andrew J.
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Panel session on extended environments
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-242'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_16
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/SlabaughMC00
+  type: paper-conference
+  author:
+  - family: Slabaugh
+    given: Gregory G.
+  - family: Malzbender
+    given: Thomas
+  - family: Culbertson
+    given: W. Bruce
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Volumetric warping for voxel coloring on an infinite domain
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-123'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_8
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/PollefeysKSCD00
+  type: paper-conference
+  author:
+  - family: Pollefeys
+    given: Marc
+  - family: Kang
+    given: Sing Bing
+  - family: Slabaugh
+    given: Gregory G.
+  - family: Cornelis
+    given: Kurt
+  - family: Debevec
+    given: Paul E.
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Panel session on visual scene representation
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-169'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_11
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/QuanOM98
+  type: paper-conference
+  author:
+  - family: Quan
+    given: Long
+  - family: Ohta
+    given: Yuichi
+  - family: Mohr
+    given: Roger
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Geometry of multiple affine views
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-46'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_3
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/FalkenhagenW98
+  type: paper-conference
+  author:
+  - family: Falkenhagen
+    given: Lutz
+  - family: Wedi
+    given: Thomas
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Improving block-based disparity estimation by considering the non-uniform
+    distribution of the estimation error
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '93-108'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_7
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Taylor00
+  type: paper-conference
+  author:
+  - family: Taylor
+    given: Camillo J.
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: 'VideoPlus: A method for capturing the structure and appearance of immersive
+    environments'
+  title-short: VideoPlus
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-203'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_13
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/ShumSBHA98
+  type: paper-conference
+  author:
+  - family: Shum
+    given: Heung-Yeung
+  - family: Szeliski
+    given: Richard
+  - family: Baker
+    given: Simon
+  - family: Han
+    given: Mei
+  - family: Anandan
+    given: P.
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Interactive 3D modeling from multiple images using scene regularities
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '236-252'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_16
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/CornelisPVG00
+  type: paper-conference
+  author:
+  - family: Cornelis
+    given: Kurt
+  - family: Pollefeys
+    given: Marc
+  - family: Vergauwen
+    given: Maarten
+  - family: Gool
+    given: Luc J. Van
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Augmented reality using uncalibrated video sequences
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-160'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_10
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/HartleyD98
+  type: paper-conference
+  author:
+  - family: Hartley
+    given: Richard I.
+  - family: Debunne
+    given: Gilles
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Dualizing scene reconstruction algorithms
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '14-31'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_2
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/SzeliskiT98
+  type: paper-conference
+  author:
+  - family: Szeliski
+    given: Richard
+  - family: Torr
+    given: Philip H. S.
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: 'Geometrically constrained structure from motion: Points on planes'
+  title-short: Geometrically constrained structure from motion
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-186'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_12
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Ponce00
+  type: paper-conference
+  author:
+  - family: Ponce
+    given: Jean
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: On computing metric upgrades of projective reconstructions under the rectangular
+    pixel assumption
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '52-67'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_4
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/KanazawaK00
+  type: paper-conference
+  author:
+  - family: Kanazawa
+    given: Yasushi
+  - family: Kanatani
+    given: Ken-ichi
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Stabilizing image mosaicing by model selection
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-51'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_3
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/KlinkerSR98
+  type: paper-conference
+  author:
+  - family: Klinker
+    given: Gudrun
+  - family: Stricker
+    given: Didier
+  - family: Reiners
+    given: Dirk
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: The use of reality models in augmented reality applications
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '275-289'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_19
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/PedersiniST98
+  type: paper-conference
+  author:
+  - family: Pedersini
+    given: Federico
+  - family: Sarti
+    given: Augusto
+  - family: Tubaro
+    given: Stefano
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Multi-camera acquisitions for high-accuracy 3D reconstruction
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-138'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_9
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/ZalesnyG00
+  type: paper-conference
+  author:
+  - family: Zalesny
+    given: Alexey
+  - family: Gool
+    given: Luc J. Van
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: A compact model for viewpoint dependent texture synthesis
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-143'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_9
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/PollefeysKVG98
+  type: paper-conference
+  author:
+  - family: Pollefeys
+    given: Marc
+  - family: Koch
+    given: Reinhard
+  - family: Vergauwen
+    given: Maarten
+  - family: Gool
+    given: Luc J. Van
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Metric 3D surface reconstruction from uncalibrated image sequences
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-154'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_10
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/SchumannBS98
+  type: paper-conference
+  author:
+  - family: Schumann
+    given: Hagen
+  - family: Burtescu
+    given: Silviu
+  - family: Siering
+    given: Frank
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Applying augmented reality techniques in the field of interactive collaborative
+    design
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '290-303'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_20
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Triggs98
+  type: paper-conference
+  author:
+  - family: Triggs
+    given: Bill
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Optimal estimation of matching constraints
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-77'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_5
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/GrosskopfN98
+  type: paper-conference
+  author:
+  - family: Großkopf
+    given: Stefan
+  - family: Neugebauer
+    given: Peter Johannes
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Fitting geometrical deformable models to registered range images
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-274'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_18
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/2000
+  type: book
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2001'
+  title: 3D structure from images - sMILE 2000, second european workshop on 3D structure
+    from multiple images of large-scale environments dublin, ireland, july 12, 2000,
+    revised papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2018'
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/Moons98
+  type: paper-conference
+  author:
+  - family: Moons
+    given: Theo
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: A guided tour through multiview relations
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304-346'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_21
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Sparr98
+  type: paper-conference
+  author:
+  - family: Sparr
+    given: Gunnar
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Euclidean and affine structure/Motion for uncalibrated cameras from affine
+    shape and subsidiary information
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-207'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_13
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/MohrBFGK98
+  type: paper-conference
+  author:
+  - family: Mohr
+    given: Roger
+  - family: Buschmann
+    given: R.
+  - family: Falkenhagen
+    given: Lutz
+  - family: Gool
+    given: Luc J. Van
+  - family: Koch
+    given: Reinhard
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: CUMULI, pANORAMA, and vANGUARD project overview
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-13'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_1
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/RobertM98
+  type: paper-conference
+  author:
+  - family: Robert
+    given: Philippe
+  - family: Minaud
+    given: Damien
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Integration of multiple range maps through consistency processing
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-265'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_17
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/DavisonK00
+  type: paper-conference
+  author:
+  - family: Davison
+    given: Andrew J.
+  - family: Kita
+    given: Nobuyuki
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Sequential localisation and map-building in computer vision and robotics
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-234'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_15
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/TriggsNKPZ00
+  type: paper-conference
+  author:
+  - family: Triggs
+    given: Bill
+  - family: Nistér
+    given: David
+  - family: Kanatani
+    given: Ken-ichi
+  - family: Ponce
+    given: Jean
+  - family: Zhang
+    given: Zhengyou
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Panel session on computations and algorithms
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-93'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_6
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/BondyfalatB98
+  type: paper-conference
+  author:
+  - family: Bondyfalat
+    given: Didier
+  - family: Bougnoux
+    given: Sylvain
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Imposing euclidean constraints during self-calibration processes
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '224-235'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_15
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/Debevec00
+  type: paper-conference
+  author:
+  - family: Debevec
+    given: Paul E.
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Pursuing reality with image-based modeling, rendering, and lighting
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_1
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/FitzgibbonCZ98
+  type: paper-conference
+  author:
+  - family: Fitzgibbon
+    given: Andrew W.
+  - family: Cross
+    given: Geoffrey
+  - family: Zisserman
+    given: Andrew
+  editor:
+  - family: Koch
+    given: Reinhard
+  issued:
+  - year: '1998'
+  title: Automatic 3D model construction for turn-table sequences
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-170'
+  volume: '1506'
+  DOI: 10.1007/3-540-49437-5_11
+  ISBN: '3-540-65310-4'
+
+- id: conf/smile/ChaiKS00
+  type: paper-conference
+  author:
+  - family: Chai
+    given: Jinxiang
+  - family: Kang
+    given: Sing Bing
+  - family: Shum
+    given: Heung-Yeung
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Rendering with non-uniform approximate concentric mosaics
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-108'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_7
+  ISBN: '3-540-41845-8'
+
+- id: conf/smile/Mellor00
+  type: paper-conference
+  author:
+  - family: Mellor
+    given: J. P.
+  editor:
+  - family: Pollefeys
+    given: Marc
+  issued:
+  - year: '2000'
+  title: Geometry and texture from thousands of images
+  container-title: SMILE
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-186'
+  volume: '2018'
+  DOI: 10.1007/3-540-45296-6_12
+  ISBN: '3-540-41845-8'
+...

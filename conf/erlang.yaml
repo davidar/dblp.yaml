@@ -1,0 +1,2964 @@
+---
+references:
+- id: conf/erlang/ScalasCP08
+  type: paper-conference
+  author:
+  - family: Scalas
+    given: Alceste
+  - family: Casu
+    given: Giovanni
+  - family: Pili
+    given: Piero
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: High-performance technical computing with erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1411273.1411281
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/Widera04
+  type: paper-conference
+  author:
+  - family: Widera
+    given: Manfred
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Flow graphs for testing sequential erlang programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '48-53'
+  URL: http://doi.acm.org/10.1145/1022471.1022479
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/ArtsC11
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Castro
+    given: Laura M.
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Model-based testing of data types with side effects
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '30-38'
+  URL: http://doi.acm.org/10.1145/2034654.2034662
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Nelson06
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jay
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Concurrent caching
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '32-38'
+  URL: http://doi.acm.org/10.1145/1159789.1159797
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/SvenssonF07a
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Hans
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: A more accurate semantics for distributed erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/1292520.1292528
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/FrancalanzaZ13
+  type: paper-conference
+  author:
+  - family: Francalanza
+    given: Adrian
+  - family: Zerafa
+    given: Tyron
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Towards an abstraction for remote evaluation in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '75-76'
+  URL: http://doi.acm.org/10.1145/2505305.2505316
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/Nelson04
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jay
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Structured programming using processes
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '54-64'
+  URL: http://doi.acm.org/10.1145/1022471.1022480
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/Fritchie03
+  type: paper-conference
+  author:
+  - family: Fritchie
+    given: Scott Lystig
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: A study of erlang eTS table implementations and performance
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '43-55'
+  URL: http://doi.acm.org/10.1145/940880.940887
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/WienerWM10
+  type: paper-conference
+  author:
+  - family: Wiener
+    given: Guy
+  - family: Weiss
+    given: Gera
+  - family: Marron
+    given: Assaf
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Coordinating and visualizing independent behaviors in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/1863509.1863512
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/Hammond14
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: Functional programming and the “megacore” era
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2633448.2633456
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/Lindgren05
+  type: paper-conference
+  author:
+  - family: Lindgren
+    given: Thomas
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: Atom garbage collection
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '40-45'
+  URL: http://doi.acm.org/10.1145/1088361.1088369
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/Arts14
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: On shrinking randomly generated load tests
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '25-31'
+  URL: http://doi.acm.org/10.1145/2633448.2633452
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/MeiklejohnR15
+  type: paper-conference
+  author:
+  - family: Meiklejohn
+    given: Christopher
+  - family: Roy
+    given: Peter Van
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: The implementation and use of a generic dataflow behaviour in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '39-45'
+  URL: http://doi.acm.org/10.1145/2804295.2804300
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/StenmanS02
+  type: paper-conference
+  author:
+  - family: Stenman
+    given: Erik
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: On reducing interprocess communication overhead in concurrent programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '58-63'
+  URL: http://doi.acm.org/10.1145/592849.592857
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/Armstrong02
+  type: paper-conference
+  author:
+  - family: Armstrong
+    given: Joe
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Getting erlang to talk to the outside world
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '64-72'
+  URL: http://doi.acm.org/10.1145/592849.592858
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/Wiger07
+  type: paper-conference
+  author:
+  - family: Wiger
+    given: Ulf T.
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Extended process registry for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1292520.1292522
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/ZhengLY13
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Siyao
+  - family: Long
+    given: Xiang
+  - family: Yang
+    given: Jingwei
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Using many-core coprocessor to boost up erlang vM
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2505305.2505307
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/Blomstedt12
+  type: paper-conference
+  author:
+  - family: Blomstedt
+    given: Joseph
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: 'Hansei: Property-based development of concurrent systems'
+  title-short: Hansei
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '73-80'
+  URL: http://doi.acm.org/10.1145/2364489.2364505
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/Santoro07
+  type: paper-conference
+  author:
+  - family: Santoro
+    given: Corrado
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: An erlang framework for autonomous mobile robots
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '85-92'
+  URL: http://doi.acm.org/10.1145/1292520.1292533
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/Carlsson03
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Richard
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: Parameterized modules in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '29-35'
+  URL: http://doi.acm.org/10.1145/940880.940885
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/GotovosCS11
+  type: paper-conference
+  author:
+  - family: Gotovos
+    given: Alkis
+  - family: Christakis
+    given: Maria
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Test-driven development of concurrent programs using concuerror
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51-61'
+  URL: http://doi.acm.org/10.1145/2034654.2034664
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/PiotrowskiT13
+  type: paper-conference
+  author:
+  - family: Piotrowski
+    given: Michal
+  - family: Turek
+    given: Wojciech
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Software agents mobility using process migration mechanism in distributed
+    erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/2505305.2505312
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/2009
+  type: book
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Proceedings of the 8th aCM sIGPLAN workshop on erlang, edinburgh, scotland,
+    uK, september 5, 2009
+  publisher: ACM
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/Nystrom09
+  type: paper-conference
+  author:
+  - family: Nyström
+    given: Jan Henry
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Automatic assessment of failure recovery in erlang applications
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/1596600.1596604
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/Aurell05
+  type: paper-conference
+  author:
+  - family: Aurell
+    given: Simon
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: 'Remote controlling devices using instant messaging: Building an intelligent
+    gateway in erlang/OTP'
+  title-short: Remote controlling devices using instant messaging
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '46-51'
+  URL: http://doi.acm.org/10.1145/1088361.1088371
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/GerdesHSW15
+  type: paper-conference
+  author:
+  - family: Gerdes
+    given: Alex
+  - family: Hughes
+    given: John
+  - family: Smallbone
+    given: Nicholas
+  - family: Wang
+    given: Meng
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: Linking unit tests and properties
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '19-26'
+  URL: http://doi.acm.org/10.1145/2804295.2804298
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/PaladiA09
+  type: paper-conference
+  author:
+  - family: Paladi
+    given: Nicolae
+  - family: Arts
+    given: Thomas
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: 'Model based testing of data constraints: Testing the business logic of
+    a mnesia application with quviq quickCheck'
+  title-short: Model based testing of data constraints
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/1596600.1596611
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/WigerAB02
+  type: paper-conference
+  author:
+  - family: Wiger
+    given: Ulf T.
+  - family: Ask
+    given: Gösta
+  - family: Boortz
+    given: Kent
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: World-class product certification using erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '24-33'
+  URL: http://doi.acm.org/10.1145/592849.592853
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/2003
+  type: book
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: Proceedings of the 2003 aCM sIGPLAN workshop on erlang, uppsala, sweden,
+    august 29, 2003
+  publisher: ACM
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/Rikitake12
+  type: paper-conference
+  author:
+  - family: Rikitake
+    given: Kenji
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: TinyMT pseudo random number generator for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '67-72'
+  URL: http://doi.acm.org/10.1145/2364489.2364504
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/Logan04
+  type: paper-conference
+  author:
+  - family: Logan
+    given: Martin J.
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Monitoring and state transparency of distributed systems
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '7-10'
+  URL: http://doi.acm.org/10.1145/1022471.1022473
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/FeherB09
+  type: paper-conference
+  author:
+  - family: Fehér
+    given: Gábor
+  - family: Békés
+    given: András G.
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: 'ECT: An object-oriented extension to erlang'
+  title-short: ECT
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/1596600.1596608
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/LunaPS04
+  type: paper-conference
+  author:
+  - family: Luna
+    given: Daniel
+  - family: Pettersson
+    given: Mikael
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: HiPE on aMD64
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '38-47'
+  URL: http://doi.acm.org/10.1145/1022471.1022478
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/Huch07
+  type: paper-conference
+  author:
+  - family: Huch
+    given: Frank
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Learning programming with erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '93-99'
+  URL: http://doi.acm.org/10.1145/1292520.1292534
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/LiTOT08
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  - family: Orösz
+    given: George
+  - family: Tóth
+    given: Melinda
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: 'Refactoring with wrangler, updated: Data and process refactorings, and
+    integration with eclipse'
+  title-short: Refactoring with wrangler, updated
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/1411273.1411283
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/LoveiHKK07
+  type: paper-conference
+  author:
+  - family: Lövei
+    given: László
+  - family: Horváth
+    given: Zoltán
+  - family: Kozsik
+    given: Tamás
+  - family: Király
+    given: Roland
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Introducing records by refactoring
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '18-28'
+  URL: http://doi.acm.org/10.1145/1292520.1292524
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/TaylorD15
+  type: paper-conference
+  author:
+  - family: Taylor
+    given: Ramsay
+  - family: Derrick
+    given: John
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: 'Smother: An mC/DC analysis tool for erlang'
+  title-short: Smother
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '13-18'
+  URL: http://doi.acm.org/10.1145/2804295.2804297
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/ArtsT10
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: 'From test cases to fSMs: Augmented test-driven development and property
+    inference'
+  title-short: From test cases to fSMs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1863509.1863511
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/GrunerL09
+  type: paper-conference
+  author:
+  - family: Grüner
+    given: Sten
+  - family: Lorentsen
+    given: Thomas
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Teaching erlang using robotics and player/stage
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-40'
+  URL: http://doi.acm.org/10.1145/1596600.1596606
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/GustafssonS05
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Per
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: Bit-level binaries and generalized comprehensions in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1088361.1088363
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/Meiklejohn13
+  type: paper-conference
+  author:
+  - family: Meiklejohn
+    given: Christopher
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: 'Riak pG: Distributed process groups on dynamo-style distributed storage'
+  title-short: Riak pG
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '27-32'
+  URL: http://doi.acm.org/10.1145/2505305.2505309
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/CarlssonGN04
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Richard
+  - family: Gustavsson
+    given: Björn
+  - family: Nyblom
+    given: Patrik
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Erlang’s exception handling revisited
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '16-26'
+  URL: http://doi.acm.org/10.1145/1022471.1022475
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/DrienyovszkyHT10
+  type: paper-conference
+  author:
+  - family: Drienyovszky
+    given: Dániel
+  - family: Horpácsi
+    given: Dániel
+  - family: Thompson
+    given: Simon
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Quickchecking refactoring tools
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '75-80'
+  URL: http://doi.acm.org/10.1145/1863509.1863521
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/Nystrom03
+  type: paper-conference
+  author:
+  - family: Nyström
+    given: Sven-Olof
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: A soft-typing system for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '56-71'
+  URL: http://doi.acm.org/10.1145/940880.940888
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/Trinder06
+  type: paper-conference
+  author:
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Comparing c++ and eRLANG for motorola telecoms software
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51'
+  URL: http://doi.acm.org/10.1145/1159789.1159800
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/Armstrong04
+  type: paper-conference
+  author:
+  - family: Armstrong
+    given: Joe
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: 'EX11: A gUI in a concurrent functional language'
+  title-short: EX11
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/1022471.1022472
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/ArtsHJW06
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Hughes
+    given: John
+  - family: Johansson
+    given: Joakim
+  - family: Wiger
+    given: Ulf T.
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Testing telecoms software with quviq quickCheck
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '2-10'
+  URL: http://doi.acm.org/10.1145/1159789.1159792
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/2012
+  type: book
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: Proceedings of the eleventh aCM sIGPLAN erlang workshop, copenhagen, denmark,
+    september 14, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2364489
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/Nyblom11
+  type: paper-conference
+  author:
+  - family: Nyblom
+    given: Patrik
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: 'Erlang eTS tables and software transactional memory: How transactions
+    make eTS tables more like ordinary actors'
+  title-short: Erlang eTS tables and software transactional memory
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '2-13'
+  URL: http://doi.acm.org/10.1145/2034654.2034658
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/SagonasST12
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Stavrakakis
+    given: Chris
+  - family: Tsiouris
+    given: Yiannis
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: 'ErLLVM: An lLVM backend for erlang'
+  title-short: ErLLVM
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '21-32'
+  URL: http://doi.acm.org/10.1145/2364489.2364494
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/NagyV08
+  type: paper-conference
+  author:
+  - family: Nagy
+    given: Tamás
+  - family: Víg
+    given: Anikó Nagyné
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: Erlang testing and tools survey
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/1411273.1411277
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/LindahlS05
+  type: paper-conference
+  author:
+  - family: Lindahl
+    given: Tobias
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: 'TypEr: A type annotator of erlang code'
+  title-short: TypEr
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '17-25'
+  URL: http://doi.acm.org/10.1145/1088361.1088366
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/PapadakisS11
+  type: paper-conference
+  author:
+  - family: Papadakis
+    given: Manolis
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: A propEr integration of types and function specifications with property-based
+    testing
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/2034654.2034663
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/2011
+  type: book
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Proceedings of the 10th aCM sIGPLAN workshop on erlang, tokyo, japan, september
+    23, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2034654
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Nelson05
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jay
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: A stream library using erlang binaries
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/1088361.1088364
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/KlafteneggerSW13
+  type: paper-conference
+  author:
+  - family: Klaftenegger
+    given: David
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Winblad
+    given: Kjell
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: On the scalability of the erlang term storage
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/2505305.2505308
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/ParisA09
+  type: paper-conference
+  author:
+  - family: Paris
+    given: Javier
+  - family: Arts
+    given: Thomas
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Automatic testing of tCP/IP implementations using quickCheck
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/1596600.1596612
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/2008
+  type: book
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: Proceedings of the 7th aCM sIGPLAN workshop on eRLANG, victoria, bC, canada,
+    september 27, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/Boberg08
+  type: paper-conference
+  author:
+  - family: Boberg
+    given: Jonas
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: Early fault detection with model-based testing
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '9-20'
+  URL: http://doi.acm.org/10.1145/1411273.1411276
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/JimenezLS07
+  type: paper-conference
+  author:
+  - family: Jimenez
+    given: Miguel
+  - family: Lindahl
+    given: Tobias
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: A language for specifying type contracts in erlang and its interaction with
+    success typings
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '11-17'
+  URL: http://doi.acm.org/10.1145/1292520.1292523
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/Cronqvist04
+  type: paper-conference
+  author:
+  - family: Cronqvist
+    given: Mats
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Troubleshooting a large erlang system
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '11-15'
+  URL: http://doi.acm.org/10.1145/1022471.1022474
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/HughesB11
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: John M.
+  - family: Bolinder
+    given: Hans
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: 'Testing a database for race conditions with quickCheck: None'
+  title-short: Testing a database for race conditions with quickCheck
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '72-77'
+  URL: http://doi.acm.org/10.1145/2034654.2034667
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Fink12
+  type: paper-conference
+  author:
+  - family: Fink
+    given: Bryan
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: 'Distributed computation on dynamo-style distributed storage: Riak pipe'
+  title-short: Distributed computation on dynamo-style distributed storage
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/2364489.2364497
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/MarcoteIE04
+  type: paper-conference
+  author:
+  - family: Marcote
+    given: Enrique
+  - family: Iglesia
+    given: Daniel I.
+  - family: Escudero
+    given: Carlos J.
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: An external short message entity for gambling services
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '27-32'
+  URL: http://doi.acm.org/10.1145/1022471.1022476
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/EarleFHM14
+  type: paper-conference
+  author:
+  - family: Earle
+    given: Clara Benac
+  - family: Fredlund
+    given: Lars-Åke
+  - family: Herranz-Nieva
+    given: Ángel
+  - family: Mariño
+    given: Julio
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: 'Jsongen: A quickcheck based library for testing jSON web services'
+  title-short: Jsongen
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-41'
+  URL: http://doi.acm.org/10.1145/2633448.2633454
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/Ghaffari14
+  type: paper-conference
+  author:
+  - family: Ghaffari
+    given: Amir
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: Investigating the scalability limits of distributed erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '43-49'
+  URL: http://doi.acm.org/10.1145/2633448.2633449
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/ParisGV05
+  type: paper-conference
+  author:
+  - family: París
+    given: Javier
+  - family: Gulías
+    given: Víctor M.
+  - family: Valderruten
+    given: Alberto
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: A high performance erlang tcp/Ip stack
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '52-61'
+  URL: http://doi.acm.org/10.1145/1088361.1088372
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/FrancesquiniGM13
+  type: paper-conference
+  author:
+  - family: Francesquini
+    given: Emilio
+  - family: Goldman
+    given: Alfredo
+  - family: Méhaut
+    given: Jean-François
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Actor scheduling for multicore hierarchical memory platforms
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/2505305.2505313
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/2005
+  type: book
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: Proceedings of the 2005 aCM sIGPLAN workshop on erlang, tallinn, estonia,
+    september 26-28, 2005
+  publisher: ACM
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/BozoFHTHKKBBH14
+  type: paper-conference
+  author:
+  - family: Bozó
+    given: István
+  - family: Fordós
+    given: Viktoria
+  - family: Horváth
+    given: Zoltán
+  - family: Tóth
+    given: Melinda
+  - family: Horpácsi
+    given: Dániel
+  - family: Kozsik
+    given: Tamás
+  - family: Köszegi
+    given: Judit
+  - family: Barwell
+    given: Adam
+  - family: Brown
+    given: Christopher
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: Discovering parallel pattern candidates in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '13-23'
+  URL: http://doi.acm.org/10.1145/2633448.2633453
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/DiazEF10
+  type: paper-conference
+  author:
+  - family: Díaz
+    given: Álvaro Fernández
+  - family: Earle
+    given: Clara Benac
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Implementing a multiagent negotiation protocol in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '69-74'
+  URL: http://doi.acm.org/10.1145/1863509.1863520
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/Lovei09
+  type: paper-conference
+  author:
+  - family: Lövei
+    given: László
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Automated module interface upgrade
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '11-22'
+  URL: http://doi.acm.org/10.1145/1596600.1596603
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/ArtsCH08
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Castro
+    given: Laura M.
+  - family: Hughes
+    given: John
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: Testing erlang data types with quviq quickcheck
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1411273.1411275
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/Germain06
+  type: paper-conference
+  author:
+  - family: Germain
+    given: Guillaume
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Concurrency oriented programming in termite scheme
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '20'
+  URL: http://doi.acm.org/10.1145/1159789.1159795
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/NorellG15
+  type: paper-conference
+  author:
+  - family: Norell
+    given: Ulf
+  - family: Gerdes
+    given: Alex
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: Attribute grammars in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2804295.2804296
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/2002
+  type: book
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Proceedings of the 2002 aCM sIGPLAN workshop on erlang, pittsburgh, pennsylvania,
+    uSA, october 7, 2002
+  publisher: ACM
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/DrejhammarR14
+  type: paper-conference
+  author:
+  - family: Drejhammar
+    given: Frej
+  - family: Rasmusson
+    given: Lars
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: 'BEAMJIT: A just-in-time compiling runtime for erlang'
+  title-short: BEAMJIT
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/2633448.2633450
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/VarelaACG04
+  type: paper-conference
+  author:
+  - family: Varela
+    given: Carlos
+  - family: Abalde
+    given: Carlos
+  - family: Castro
+    given: Laura M.
+  - family: Gulías
+    given: Jose
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: On modelling agent systems with erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '65-70'
+  URL: http://doi.acm.org/10.1145/1022471.1022481
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/GhaffariCTM13
+  type: paper-conference
+  author:
+  - family: Ghaffari
+    given: Amir
+  - family: Chechina
+    given: Natalia
+  - family: Trinder
+    given: Phil
+  - family: Meredith
+    given: Jon
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: 'Scalable persistent storage for erlang: Theory and practice'
+  title-short: Scalable persistent storage for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '73-74'
+  URL: http://doi.acm.org/10.1145/2505305.2505315
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/Trnkvist04
+  type: paper-conference
+  author:
+  - family: Trnkvist
+    given: Torbjrn
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: An implementation of the sMB protocol in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-37'
+  URL: http://doi.acm.org/10.1145/1022471.1022477
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/SagonasW14
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Winblad
+    given: Kjell
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: More scalable ordered set for eTS using adaptation
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '3-11'
+  URL: http://doi.acm.org/10.1145/2633448.2633455
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/SvenssonA05
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Hans
+  - family: Arts
+    given: Thomas
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: A new leader election implementation
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '35-39'
+  URL: http://doi.acm.org/10.1145/1088361.1088368
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/KitleiBKTT10
+  type: paper-conference
+  author:
+  - family: Kitlei
+    given: Róbert
+  - family: Bozó
+    given: István
+  - family: Kozsik
+    given: Tamás
+  - family: Tejfel
+    given: Máté
+  - family: Tóth
+    given: Melinda
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Analysis of preprocessor constructs in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '45-56'
+  URL: http://doi.acm.org/10.1145/1863509.1863517
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/LopezCC12
+  type: paper-conference
+  author:
+  - family: López
+    given: Macías
+  - family: Castro
+    given: Laura M.
+  - family: Cabrero
+    given: David
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: Failover and takeover contingency mechanisms for network partition and node
+    failure
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/2364489.2364498
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/SeijasLT13
+  type: paper-conference
+  author:
+  - family: Seijas
+    given: Pablo Lamela
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Towards property-based testing of rESTful web services
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '77-78'
+  URL: http://doi.acm.org/10.1145/2505305.2505317
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/ArtsHNSS11
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Hughes
+    given: John
+  - family: Norell
+    given: Ulf
+  - family: Smallbone
+    given: Nicholas
+  - family: Svensson
+    given: Hans
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Accelerating race condition detection through procrastination
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '14-22'
+  URL: http://doi.acm.org/10.1145/2034654.2034659
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Fritchie10
+  type: paper-conference
+  author:
+  - family: Fritchie
+    given: Scott Lystig
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Chain replication in theory and in practice
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-44'
+  URL: http://doi.acm.org/10.1145/1863509.1863515
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/LengletC06
+  type: paper-conference
+  author:
+  - family: Lenglet
+    given: Romain
+  - family: Chiba
+    given: Shigeru
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: 'Dryverl: A flexible erlang/C binding compiler'
+  title-short: Dryverl
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '21-31'
+  URL: http://doi.acm.org/10.1145/1159789.1159796
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/Nicosia07
+  type: paper-conference
+  author:
+  - family: Nicosia
+    given: Vincenzo
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Towards hard real-time erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '29-36'
+  URL: http://doi.acm.org/10.1145/1292520.1292525
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/StefanoGS05
+  type: paper-conference
+  author:
+  - family: Stefano
+    given: Antonella Di
+  - family: Gangemi
+    given: Francesca
+  - family: Santoro
+    given: Corrado
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: 'ERESYE: Artificial intelligence in erlang programs'
+  title-short: ERESYE
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '62-71'
+  URL: http://doi.acm.org/10.1145/1088361.1088373
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/CesariniLS06
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesco
+  - family: Larsson
+    given: Lukas
+  - family: Slaski
+    given: Michal
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: 'From hTTP to hTML: Erlang/OTP experiences in web based service applications'
+  title-short: From hTTP to hTML
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '52-57'
+  URL: http://doi.acm.org/10.1145/1159789.1159801
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/LiT13
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Multicore profiling for erlang programs using percept2
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/2505305.2505311
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/SilvaL12
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Jucimar Maia Silva
+  - family: Lins
+    given: Rafael Dueire
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: 'OoErlang: Another object oriented extension to erlang'
+  title-short: OoErlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '65-66'
+  URL: http://doi.acm.org/10.1145/2364489.2364502
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/CarlssonR06
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Richard
+  - family: Rémond
+    given: Mickaël
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: 'EUnit: A lightweight unit testing framework for erlang'
+  title-short: EUnit
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1159789.1159791
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/CortesGHHPR09
+  type: paper-conference
+  author:
+  - family: Cortés
+    given: Hugo
+  - family: García
+    given: Mónica
+  - family: Hernández
+    given: Jorge
+  - family: Hernández-Gutiérrez
+    given: Manuel
+  - family: Pérez-Cordoba
+    given: Esperanza
+  - family: Ramos
+    given: Erik
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Development of a distributed system applied to teaching and learning
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1596600.1596607
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/GuoD07
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Qiang
+  - family: Derrick
+    given: John
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Verification of timed erlang/OTP components using the process algebra mucrl
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '55-64'
+  URL: http://doi.acm.org/10.1145/1292520.1292529
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/NystromTK03
+  type: paper-conference
+  author:
+  - family: Nyström
+    given: Jan Henry
+  - family: Trinder
+    given: Philip W.
+  - family: King
+    given: David J.
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: Evaluating distributed functional languages for telecommunications software
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/940880.940881
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/ArtsF02
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Trace analysis of erlang programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '16-23'
+  URL: http://doi.acm.org/10.1145/592849.592852
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/2006
+  type: book
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Proceedings of the 2006 aCM sIGPLAN workshop on erlang, portland, oregon,
+    uSA, september 16, 2006
+  publisher: ACM
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/BlomJ03
+  type: paper-conference
+  author:
+  - family: Blom
+    given: Johan
+  - family: Jonsson
+    given: Bengt
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: Automated test generation for industrial erlang applications
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '8-14'
+  URL: http://doi.acm.org/10.1145/940880.940882
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/MacKenzieCT15
+  type: paper-conference
+  author:
+  - family: MacKenzie
+    given: Kenneth
+  - family: Chechina
+    given: Natalia
+  - family: Trinder
+    given: Phil
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: Performance portability through semi-explicit placement in distributed erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/2804295.2804299
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/Fritchie14
+  type: paper-conference
+  author:
+  - family: Fritchie
+    given: Scott Lystig
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: 'Faulterl: Precise fault injection for the erlang vM, nIFs and linked-in
+    drivers'
+  title-short: Faulterl
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '75-76'
+  URL: http://doi.acm.org/10.1145/2633448.2633459
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/EarleF09
+  type: paper-conference
+  author:
+  - family: Earle
+    given: Clara Benac
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Recent improvements to the mcErlang model checker
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '93-100'
+  URL: http://doi.acm.org/10.1145/1596600.1596613
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/AronisS11
+  type: paper-conference
+  author:
+  - family: Aronis
+    given: Stavros
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Typed callbacks for more robust behaviours
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '23-29'
+  URL: http://doi.acm.org/10.1145/2034654.2034660
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/SvenssonFE10
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Hans
+  - family: Fredlund
+    given: Lars-Åke
+  - family: Earle
+    given: Clara Benac
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: A unified semantics for future erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/1863509.1863514
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/EarleFD05
+  type: paper-conference
+  author:
+  - family: Earle
+    given: Clara Benac
+  - family: Fredlund
+    given: Lars-Åke
+  - family: Derrick
+    given: John
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: Verifying fault-tolerant erlang programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '26-34'
+  URL: http://doi.acm.org/10.1145/1088361.1088367
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/BravoLRM14
+  type: paper-conference
+  author:
+  - family: Bravo
+    given: Manuel
+  - family: Li
+    given: Zhongmiao
+  - family: Roy
+    given: Peter Van
+  - family: Meiklejohn
+    given: Christopher
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: 'Derflow: Distributed deterministic dataflow programming for erlang'
+  title-short: Derflow
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/2633448.2633451
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/Carlsson02
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Richard
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Hierarchical module namespaces in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-5'
+  URL: http://doi.acm.org/10.1145/592849.592850
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/ArtsST11
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Seijas
+    given: Pablo Lamela
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Extracting quickCheck specifications from eUnit test cases
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '62-71'
+  URL: http://doi.acm.org/10.1145/2034654.2034666
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Wiger10
+  type: paper-conference
+  author:
+  - family: Wiger
+    given: Ulf T.
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Generic load regulation framework for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '57-68'
+  URL: http://doi.acm.org/10.1145/1863509.1863518
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/AronisPRSTV12
+  type: paper-conference
+  author:
+  - family: Aronis
+    given: Stavros
+  - family: Papaspyrou
+    given: Nikolaos
+  - family: Roukounaki
+    given: Katerina
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Tsiouris
+    given: Yiannis
+  - family: Venetis
+    given: Ioannis E.
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: A scalability benchmark suite for erlang/OTP
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/2364489.2364495
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/Hellman06
+  type: paper-conference
+  author:
+  - family: Hellman
+    given: Emil
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Evaluation of database management systems for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '58-67'
+  URL: http://doi.acm.org/10.1145/1159789.1159802
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/2007
+  type: book
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Proceedings of the 2007 aCM sIGPLAN workshop on erlang, freiburg, germany,
+    october 5, 2007
+  publisher: ACM
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/GustafssonS02
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Per
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Native code compilation of erlang’s bit syntax
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '6-15'
+  URL: http://doi.acm.org/10.1145/592849.592851
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/BrueningSL02
+  type: paper-conference
+  author:
+  - family: Bruening
+    given: Michael
+  - family: Snyder
+    given: Hal
+  - family: Logan
+    given: Martin
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: OTP in server farms
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '45-48'
+  URL: http://doi.acm.org/10.1145/592849.592855
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/ArtsP02
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Penas
+    given: Juan José Sánchez
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: Global scheduler properties derived from local restrictions
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '49-57'
+  URL: http://doi.acm.org/10.1145/592849.592856
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/DiazEF12
+  type: paper-conference
+  author:
+  - family: Díaz
+    given: Álvaro Fernández
+  - family: Earle
+    given: Clara Benac
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: Erlang as an implementation platform for bDI languages
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/2364489.2364491
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/RoyNRC06
+  type: paper-conference
+  author:
+  - family: Roy
+    given: Chanchal Kumar
+  - family: Noll
+    given: Thomas
+  - family: Roy
+    given: Banani
+  - family: Cordy
+    given: James R.
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: Towards automatic verification of erlang programs by pi-calculus translation
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '38-50'
+  URL: http://doi.acm.org/10.1145/1159789.1159798
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/DenzumiAM11
+  type: paper-conference
+  author:
+  - family: Denzumi
+    given: Shuhei
+  - family: Arimura
+    given: Hiroki
+  - family: Minato
+    given: Shin-ichi
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: Implementation of sequence bDDs in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '90-91'
+  URL: http://doi.acm.org/10.1145/2034654.2034672
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/BainCK11
+  type: paper-conference
+  author:
+  - family: Bain
+    given: Trevor
+  - family: Campbell
+    given: Patrick
+  - family: Karlsson
+    given: Jonas
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: 'Modeling growth and dynamics of neural networks via message passing in
+    erlang: Neural models have a natural home in message passing functional programming
+    languages'
+  title-short: Modeling growth and dynamics of neural networks via message passing
+    in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '94-97'
+  URL: http://doi.acm.org/10.1145/2034654.2034674
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Vinoski11
+  type: paper-conference
+  author:
+  - family: Vinoski
+    given: Steve
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: A decade of yaws
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2034654.2034656
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/FredlundE06
+  type: paper-conference
+  author:
+  - family: Fredlund
+    given: Lars-Åke
+  - family: Earle
+    given: Clara Benac
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2006'
+  title: 'Model checking erlang programs: The functional approach'
+  title-short: Model checking erlang programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '11-19'
+  URL: http://doi.acm.org/10.1145/1159789.1159793
+  ISBN: '1-59593-490-1'
+
+- id: conf/erlang/SchuttSR08
+  type: paper-conference
+  author:
+  - family: Schütt
+    given: Thorsten
+  - family: Schintke
+    given: Florian
+  - family: Reinefeld
+    given: Alexander
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: 'Scalaris: Reliable transactional p2p key/value store'
+  title-short: Scalaris
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '41-48'
+  URL: http://doi.acm.org/10.1145/1411273.1411280
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/ClaessenS05
+  type: paper-conference
+  author:
+  - family: Claessen
+    given: Koen
+  - family: Svensson
+    given: Hans
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: A semantics for distributed erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '78-87'
+  URL: http://doi.acm.org/10.1145/1088361.1088376
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/NorellSA13
+  type: paper-conference
+  author:
+  - family: Norell
+    given: Ulf
+  - family: Svensson
+    given: Hans
+  - family: Arts
+    given: Thomas
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Testing blocking operations with quickCheck’s component library
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '87-92'
+  URL: http://doi.acm.org/10.1145/2505305.2505310
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/AmaralFJ11
+  type: paper-conference
+  author:
+  - family: Amaral
+    given: Cláudio
+  - family: Florido
+    given: Mário
+  - family: Jansson
+    given: Patrik
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: 'Interfacing dynamically typed languages and the why tool: Reasoning about
+    lists and tuples'
+  title-short: Interfacing dynamically typed languages and the why tool
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '92-93'
+  URL: http://doi.acm.org/10.1145/2034654.2034673
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Fritchie02
+  type: paper-conference
+  author:
+  - family: Fritchie
+    given: Scott Lystig
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2002'
+  title: The evolution of erlang drivers and the erlang driver toolkit
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '34-44'
+  URL: http://doi.acm.org/10.1145/592849.592854
+  ISBN: '1-58113-592-0'
+
+- id: conf/erlang/2013
+  type: book
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Proceedings of the twelfth aCM sIGPLAN erlang workshop, boston, massachusetts,
+    uSA, september 28, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2505305
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/Horpacsi13
+  type: paper-conference
+  author:
+  - family: Horpácsi
+    given: Dániel
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Extending erlang by utilising refactorErl
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/2505305.2505314
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/SvenssonF07
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Hans
+  - family: Fredlund
+    given: Lars-Åke
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: 'Programming distributed erlang applications: Pitfalls and recipes'
+  title-short: Programming distributed erlang applications
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '37-42'
+  URL: http://doi.acm.org/10.1145/1292520.1292527
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/SagonasL08
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Luna
+    given: Daniel
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: 'Gradual typing of erlang programs: A wrangler experience'
+  title-short: Gradual typing of erlang programs
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/1411273.1411284
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/MundkurTF11
+  type: paper-conference
+  author:
+  - family: Mundkur
+    given: Prashanth
+  - family: Tuulos
+    given: Ville H.
+  - family: Flatow
+    given: Jared
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: 'Disco: A computing platform for large-scale data analytics'
+  title-short: Disco
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '84-89'
+  URL: http://doi.acm.org/10.1145/2034654.2034670
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/2014
+  type: book
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: Proceedings of the thirteenth aCM sIGPLAN workshop on erlang, gothenburg,
+    sweden, september 5, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2633448
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/NollR05
+  type: paper-conference
+  author:
+  - family: Noll
+    given: Thomas
+  - family: Roy
+    given: Chanchal Kumar
+  editor:
+  - family: Sagonas
+    given: Konstantinos F.
+  issued:
+  - year: '2005'
+  title: Modeling erlang in the pi-calculus
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '72-77'
+  URL: http://doi.acm.org/10.1145/1088361.1088375
+  ISBN: '1-59593-066-3'
+
+- id: conf/erlang/2015
+  type: book
+  editor:
+  - family: Svensson
+    given: Hans
+  issued:
+  - year: '2015'
+  title: Proceedings of the 14th aCM sIGPLAN workshop on erlang 2015, vancouver, bC,
+    canada, september 4, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2804295
+  ISBN: '978-1-4503-3805-9'
+
+- id: conf/erlang/LoveiHKNVHKK08
+  type: paper-conference
+  author:
+  - family: Lövei
+    given: László
+  - family: Hoch
+    given: Csaba
+  - family: Köllö
+    given: Hanna
+  - family: Nagy
+    given: Tamás
+  - family: Víg
+    given: Anikó Nagyné
+  - family: Horpácsi
+    given: Dániel
+  - family: Kitlei
+    given: Róbert
+  - family: Király
+    given: Roland
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: Refactoring module structure
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '83-89'
+  URL: http://doi.acm.org/10.1145/1411273.1411285
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/Nystrom07
+  type: paper-conference
+  author:
+  - family: Nystrom
+    given: Jan Henry
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Priority messaging made easy
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '65-72'
+  URL: http://doi.acm.org/10.1145/1292520.1292530
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/Svensson09
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Hans
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: 'Implementing an lTL-to-büchi translator in erlang: A protest experience
+    report'
+  title-short: Implementing an lTL-to-büchi translator in erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '63-70'
+  URL: http://doi.acm.org/10.1145/1596600.1596610
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/SagonasPCGL03
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Pettersson
+    given: Mikael
+  - family: Carlsson
+    given: Richard
+  - family: Gustafsson
+    given: Per
+  - family: Lindahl
+    given: Tobias
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: 'All you wanted to know about the hiPE compiler: (But might have been afraid
+    to ask)'
+  title-short: All you wanted to know about the hiPE compiler
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '36-42'
+  URL: http://doi.acm.org/10.1145/940880.940886
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/PapaspyrouS12
+  type: paper-conference
+  author:
+  - family: Papaspyrou
+    given: Nikolaos
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: On preserving term sharing in the erlang virtual machine
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/2364489.2364493
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/AvgerinosS09
+  type: paper-conference
+  author:
+  - family: Avgerinos
+    given: Thanassis
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Earle
+    given: Clara Benac
+  issued:
+  - year: '2009'
+  title: Cleaning up erlang code is a dirty job but somebody’s gotta do it
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1596600.1596602
+  ISBN: '978-1-60558-507-9'
+
+- id: conf/erlang/2010
+  type: book
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Proceedings of the 9th aCM sIGPLAN workshop on erlang, baltimore, maryland,
+    uSA, september 30, 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1863509
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/CesariniPS08
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesco
+  - family: Pappalardo
+    given: Viviana
+  - family: Santoro
+    given: Corrado
+  editor:
+  - family: Teoh
+    given: Soon Tee
+  issued:
+  - year: '2008'
+  title: A comparative evaluation of imperative and functional implementations of
+    the imap protocol
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '29-40'
+  URL: http://doi.acm.org/10.1145/1411273.1411279
+  ISBN: '978-1-60558-065-4'
+
+- id: conf/erlang/Hellstrom07
+  type: paper-conference
+  author:
+  - family: Hellström
+    given: Oscar
+  editor:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2007'
+  title: Optimising tCP/IP connectivity
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '73-84'
+  URL: http://doi.acm.org/10.1145/1292520.1292532
+  ISBN: '978-1-59593-675-2'
+
+- id: conf/erlang/Nelson12
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jay
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: 'Co-ops: Concurrent algorithmic skeletons for erlang'
+  title-short: Co-ops
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '61-62'
+  URL: http://doi.acm.org/10.1145/2364489.2364500
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/FranciscoLFC13
+  type: paper-conference
+  author:
+  - family: Francisco
+    given: Miguel A.
+  - family: López
+    given: Macías
+  - family: Ferreiro
+    given: Henrique
+  - family: Castro
+    given: Laura M.
+  editor:
+  - family: Vinoski
+    given: Steve
+  issued:
+  - year: '2013'
+  title: Turning web services descriptions into quickcheck models for automatic testing
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '79-86'
+  URL: http://doi.acm.org/10.1145/2505305.2505306
+  ISBN: '978-1-4503-2385-7'
+
+- id: conf/erlang/2004
+  type: book
+  editor:
+  - family: Cesarini
+    given: Francesco
+  issued:
+  - year: '2004'
+  title: Proceedings of the 2004 aCM sIGPLAN workshop on erlang, snowbird, utah, uSA,
+    september 22, 2004
+  publisher: ACM
+  ISBN: '1-58113-918-7'
+
+- id: conf/erlang/SeijasTTBD14
+  type: paper-conference
+  author:
+  - family: Seijas
+    given: Pablo Lamela
+  - family: Thompson
+    given: Simon J.
+  - family: Taylor
+    given: Ramsay
+  - family: Bogdanov
+    given: Kirill
+  - family: Derrick
+    given: John
+  editor:
+  - family: Castro
+    given: Laura M.
+  issued:
+  - year: '2014'
+  title: 'Synapse: Automatic behaviour inference and implementation comparison for
+    erlang'
+  title-short: Synapse
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '73-74'
+  URL: http://doi.acm.org/10.1145/2633448.2633457
+  ISBN: '978-1-4503-3038-1'
+
+- id: conf/erlang/CabreroAVC03
+  type: paper-conference
+  author:
+  - family: Cabrero
+    given: David
+  - family: Abalde
+    given: Carlos
+  - family: Varela
+    given: Carlos
+  - family: Castro
+    given: Laura M.
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: 'ARMISTICE: An experience developing management software with erlang'
+  title-short: ARMISTICE
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '23-28'
+  URL: http://doi.acm.org/10.1145/940880.940884
+  ISBN: '1-58113-772-9'
+
+- id: conf/erlang/Rikitake11
+  type: paper-conference
+  author:
+  - family: Rikitake
+    given: Kenji
+  editor:
+  - family: Rikitake
+    given: Kenji
+  issued:
+  - year: '2011'
+  title: SFMT pseudo random number generator for erlang
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '78-83'
+  URL: http://doi.acm.org/10.1145/2034654.2034669
+  ISBN: '978-1-4503-0859-5'
+
+- id: conf/erlang/Breddin10
+  type: paper-conference
+  author:
+  - family: Breddin
+    given: Tino
+  editor:
+  - family: Fritchie
+    given: Scott Lystig
+  issued:
+  - year: '2010'
+  title: Using erlang to implement a autonomous build and distribution system for
+    software projects
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '81-86'
+  URL: http://doi.acm.org/10.1145/1863509.1863522
+  ISBN: '978-1-4503-0253-1'
+
+- id: conf/erlang/FrancesquiniGM12
+  type: paper-conference
+  author:
+  - family: Francesquini
+    given: Emilio
+  - family: Goldman
+    given: Alfredo
+  - family: Méhaut
+    given: Jean-François
+  editor:
+  - family: Hoffman
+    given: Torben
+  issued:
+  - year: '2012'
+  title: Towards automatic actor pinning on multi-core architectures
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '63-64'
+  URL: http://doi.acm.org/10.1145/2364489.2364501
+  ISBN: '978-1-4503-1575-3'
+
+- id: conf/erlang/PenasR03
+  type: paper-conference
+  author:
+  - family: Penas
+    given: Juan José Sánchez
+  - family: Ramiro
+    given: Carlos Abalde
+  editor:
+  - family: Däcker
+    given: Bjarne
+  issued:
+  - year: '2003'
+  title: Extending the voDKA architecture to improve resource modelling
+  container-title: Erlang workshop
+  publisher: ACM
+  page: '15-22'
+  URL: http://doi.acm.org/10.1145/940880.940883
+  ISBN: '1-58113-772-9'
+...

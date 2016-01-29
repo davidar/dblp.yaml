@@ -1,0 +1,3962 @@
+---
+references:
+- id: conf/fpca/1987
+  type: book
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Functional programming languages and computer architecture, portland, oregon,
+    uSA, september 14-16, 1987, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/HankinOS85
+  type: paper-conference
+  author:
+  - family: Hankin
+    given: Chris
+  - family: Osmon
+    given: Peter
+  - family: Shute
+    given: Malcolm J.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: COBWEB - a combinator reduction architecture
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '99-112'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_32
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Wadler81
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Applicative style programming, program transformation, and list operators
+  container-title: FPCA
+  publisher: ACM
+  page: '25-32'
+  URL: http://doi.acm.org/10.1145/800223.806759
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/MacLennan81
+  type: paper-conference
+  author:
+  - family: MacLennan
+    given: Bruce J.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Introduction to relational programming
+  container-title: FPCA
+  publisher: ACM
+  page: '213-220'
+  URL: http://doi.acm.org/10.1145/800223.806781
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/ClackJ85
+  type: paper-conference
+  author:
+  - family: Clack
+    given: Chris D.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Strictness analysis - a practical approach
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-49'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_28
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Turner85
+  type: paper-conference
+  author:
+  - family: Turner
+    given: D. A.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'Miranda: A non-strict functional language with polymorphic types'
+  title-short: Miranda
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_26
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/AikenM91
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alexander
+  - family: Murphy
+    given: Brian R.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Implementing regular tree expressions
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '427-447'
+  volume: '523'
+  DOI: 10.1007/3540543961_21
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Rittri95
+  type: paper-conference
+  author:
+  - family: Rittri
+    given: Mikael
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Dimension inference under polymorphic recursion
+  container-title: FPCA
+  publisher: ACM
+  page: '147-159'
+  URL: http://doi.acm.org/10.1145/224164.224197
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/LeungM91
+  type: paper-conference
+  author:
+  - family: Leung
+    given: Allen
+  - family: Mishra
+    given: Prateek
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Reasoning about simple and exhaustive demand in highter-order lazy languages
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '328-351'
+  volume: '523'
+  DOI: 10.1007/3540543961_16
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/85
+  type: book
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Functional programming languages and computer architecture, fPCA 1985, nancy,
+    france, september 16-19, 1985, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Sestoft89
+  type: paper-conference
+  author:
+  - family: Sestoft
+    given: Peter
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Replacing function parameters by global variables
+  container-title: FPCA
+  publisher: ACM
+  page: '39-53'
+  URL: http://doi.acm.org/10.1145/99370.99374
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/KellerS81
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Robert M.
+  - family: Sleep
+    given: M. Ronan
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: 'Applicative caching: Programmer control of object sharing and lifetime
+    in. distributed implementations of applicative languages'
+  title-short: Applicative caching
+  container-title: FPCA
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/800223.806772
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Lester87
+  type: paper-conference
+  author:
+  - family: Lester
+    given: David R.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: The g-machine as a representation of stack semantics
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-59'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_4
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/SkedzielewskiW85
+  type: paper-conference
+  author:
+  - family: Skedzielewski
+    given: Stephen K.
+  - family: Welcome
+    given: M. L.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Data flow graph optimization in iF1
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-34'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_27
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/AdityaC93
+  type: paper-conference
+  author:
+  - family: Aditya
+    given: Shail
+  - family: Caro
+    given: Alejandro
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Compiler-directed type reconstruction for polymorphic languages
+  container-title: FPCA
+  publisher: ACM
+  page: '74-82'
+  URL: http://doi.acm.org/10.1145/165180.165192
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Jones95
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Mark P.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Simplifying and improving qualified types
+  container-title: FPCA
+  publisher: ACM
+  page: '160-169'
+  URL: http://doi.acm.org/10.1145/224164.224198
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/RufW89
+  type: paper-conference
+  author:
+  - family: Ruf
+    given: Erik
+  - family: Weise
+    given: Daniel
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'Nondeterminism and unification in logScheme: Integrating logic and functional
+    programming'
+  title-short: Nondeterminism and unification in logScheme
+  container-title: FPCA
+  publisher: ACM
+  page: '327-339'
+  URL: http://doi.acm.org/10.1145/99370.99400
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Wadler89
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Theorems for free!
+  container-title: FPCA
+  publisher: ACM
+  page: '347-359'
+  URL: http://doi.acm.org/10.1145/99370.99404
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/RuncimanT89
+  type: paper-conference
+  author:
+  - family: Runciman
+    given: Colin
+  - family: Toyn
+    given: Ian
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Retrieving re-usable software components by polymorphic type
+  container-title: FPCA
+  publisher: ACM
+  page: '166-173'
+  URL: http://doi.acm.org/10.1145/99370.99383
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Launchbury91
+  type: paper-conference
+  author:
+  - family: Launchbury
+    given: John
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: A strongly-typed self-applicable partial evaluator
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-164'
+  volume: '523'
+  DOI: 10.1007/3540543961_8
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/HammarlundL93
+  type: paper-conference
+  author:
+  - family: Hammarlund
+    given: Per
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: On the relation between functional and data parallel programming languages
+  container-title: FPCA
+  publisher: ACM
+  page: '210-222'
+  URL: http://doi.acm.org/10.1145/165180.165211
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Ohori89
+  type: paper-conference
+  author:
+  - family: Ohori
+    given: Atsushi
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: A simple semantics for mL polymorphism
+  container-title: FPCA
+  publisher: ACM
+  page: '281-292'
+  URL: http://doi.acm.org/10.1145/99370.99393
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Augustsson85
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Compiling pattern matching
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '368-381'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_48
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Jensen91
+  type: paper-conference
+  author:
+  - family: Jensen
+    given: Thomas P.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Strictness analysis in logical form
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '352-366'
+  volume: '523'
+  DOI: 10.1007/3540543961_17
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Young85
+  type: paper-conference
+  author:
+  - family: Young
+    given: Mark F.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: A functional language and modular architecture for scientific computing
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-318'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_44
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Goldberg87
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Benjamin
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Detecting sharing of partial applications in functional programs
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '408-425'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_22
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Baraki91
+  type: paper-conference
+  author:
+  - family: Baraki
+    given: Gebreselassie
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: A note on abstract interpretation of polymorphic functions
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '367-378'
+  volume: '523'
+  DOI: 10.1007/3540543961_18
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Jones93
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Mark P.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: 'A system of constructor classes: Overloading and implicit higher-order
+    polymorphism'
+  title-short: A system of constructor classes
+  container-title: FPCA
+  publisher: ACM
+  page: '52-64'
+  URL: http://doi.acm.org/10.1145/165180.165190
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Maranget91
+  type: paper-conference
+  author:
+  - family: Maranget
+    given: Luc
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: 'GAML: A parallel implementation of lazy mL'
+  title-short: GAML
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-123'
+  volume: '523'
+  DOI: 10.1007/3540543961_6
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/OderskyWW95
+  type: paper-conference
+  author:
+  - family: Odersky
+    given: Martin
+  - family: Wadler
+    given: Philip
+  - family: Wehr
+    given: Martin
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: A second look at overloading
+  container-title: FPCA
+  publisher: ACM
+  page: '135-146'
+  URL: http://doi.acm.org/10.1145/224164.224195
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/TakanoM95
+  type: paper-conference
+  author:
+  - family: Takano
+    given: Akihiko
+  - family: Meijer
+    given: Erik
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Shortcut deforestation in calculational form
+  container-title: FPCA
+  publisher: ACM
+  page: '306-313'
+  URL: http://doi.acm.org/10.1145/224164.224221
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Turner81
+  type: paper-conference
+  author:
+  - family: Turner
+    given: D. A.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: The semantic elegance of applicative languages
+  container-title: FPCA
+  publisher: ACM
+  page: '85-92'
+  URL: http://doi.acm.org/10.1145/800223.806766
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/George89
+  type: paper-conference
+  author:
+  - family: George
+    given: Lal
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: An abstract machine for parallel graph reduction
+  container-title: FPCA
+  publisher: ACM
+  page: '214-229'
+  URL: http://doi.acm.org/10.1145/99370.99387
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/PageM93
+  type: paper-conference
+  author:
+  - family: Page
+    given: Rex L.
+  - family: Moe
+    given: Brian D.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Experience with a large scientific application in a functional language
+  container-title: FPCA
+  publisher: ACM
+  page: '3-11'
+  URL: http://doi.acm.org/10.1145/165180.165183
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Traub91
+  type: paper-conference
+  author:
+  - family: Traub
+    given: Kenneth R.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Multi-thread code generation for dataflow architectures from non-strict programs
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-101'
+  volume: '523'
+  DOI: 10.1007/3540543961_5
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/BellotJ87
+  type: paper-conference
+  author:
+  - family: Bellot
+    given: Patrick
+  - family: Jay
+    given: Véronique
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: A theory for natural modelisation and implementation of functions with variable
+    arity
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-233'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_13
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/GrossS87
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Thomas R.
+  - family: Sussman
+    given: Alan
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Mapping a single-assignment language onto the warp systolic array
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '347-363'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_19
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/CousotC95
+  type: paper-conference
+  author:
+  - family: Cousot
+    given: Patrick
+  - family: Cousot
+    given: Radhia
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Formal language, grammar and set-constraint-based program analysis by abstract
+    interpretation
+  container-title: FPCA
+  publisher: ACM
+  page: '170-181'
+  URL: http://doi.acm.org/10.1145/224164.224199
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/JayaramanP87
+  type: paper-conference
+  author:
+  - family: Jayaraman
+    given: Bharat
+  - family: Plaisted
+    given: David A.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Functional programming with sets
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-211'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_12
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Tolle81
+  type: paper-conference
+  author:
+  - family: Tolle
+    given: Donald MacDavid
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: 'Implanting fFP trees in binary trees: An architectural proposal'
+  title-short: Implanting fFP trees in binary trees
+  container-title: FPCA
+  publisher: ACM
+  page: '115-122'
+  URL: http://doi.acm.org/10.1145/800223.806770
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/AikenF95
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alexander
+  - family: Fähndrich
+    given: Manuel
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Dynamic typing and subtype inference
+  container-title: FPCA
+  publisher: ACM
+  page: '182-191'
+  URL: http://doi.acm.org/10.1145/224164.224201
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Hughes85a
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: John
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: A distributed garbage collection algorithm
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '256-271'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_41
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/1993
+  type: book
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Proceedings of the conference on functional programming languages and computer
+    architecture, fPCA 1993, copenhagen, denmark, june 9-11, 1993
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/165180
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/SheardF93
+  type: paper-conference
+  author:
+  - family: Sheard
+    given: Tim
+  - family: Fegaras
+    given: Leonidas
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: A fold for all seasons
+  container-title: FPCA
+  publisher: ACM
+  page: '233-242'
+  URL: http://doi.acm.org/10.1145/165180.165216
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Arya89
+  type: paper-conference
+  author:
+  - family: Arya
+    given: Kavi
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Processes in a functional animation system
+  container-title: FPCA
+  publisher: ACM
+  page: '382-395'
+  URL: http://doi.acm.org/10.1145/99370.99409
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Backus81
+  type: paper-conference
+  author:
+  - family: Backus
+    given: John W.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Function level programs as mathematical objects
+  container-title: FPCA
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/800223.806757
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/HartelL93
+  type: paper-conference
+  author:
+  - family: Hartel
+    given: Pieter H.
+  - family: Langendoen
+    given: Koen
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Benchmarking implementations of lazy functional languages
+  container-title: FPCA
+  publisher: ACM
+  page: '341-349'
+  URL: http://doi.acm.org/10.1145/165180.165230
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Clarke87
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: T. J. W.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: 'The d-rISC: An architecture for use in multiprocessors'
+  title-short: The d-rISC
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-33'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_2
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/GrantSWZ93
+  type: paper-conference
+  author:
+  - family: Grant
+    given: Philip W.
+  - family: Sharp
+    given: J. A.
+  - family: Webster
+    given: Michael F.
+  - family: Zhang
+    given: X.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Some issues in a functional implementation of a finite element algorithm
+  container-title: FPCA
+  publisher: ACM
+  page: '12-17'
+  URL: http://doi.acm.org/10.1145/165180.165186
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Nocker93
+  type: paper-conference
+  author:
+  - family: Nöcker
+    given: Eric
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Strictness analysis using abstract reduction
+  container-title: FPCA
+  publisher: ACM
+  page: '255-265'
+  URL: http://doi.acm.org/10.1145/165180.165219
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/1989
+  type: book
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Proceedings of the fourth international conference on functional programming
+    languages and computer architecture, fPCA 1989, london, uK, september 11-13, 1989
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/99370
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/GunterRR95
+  type: paper-conference
+  author:
+  - family: Gunter
+    given: Carl A.
+  - family: Rémy
+    given: Didier
+  - family: Riecke
+    given: Jon G.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: A generalization of exceptions and control in mL-like languages
+  container-title: FPCA
+  publisher: ACM
+  page: '12-23'
+  URL: http://doi.acm.org/10.1145/224164.224173
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/StanatW81
+  type: paper-conference
+  author:
+  - family: Stanat
+    given: Donald F.
+  - family: Jr.
+    given: E. Hollins Williams
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Optimal associative searching on a cellular computer
+  container-title: FPCA
+  publisher: ACM
+  page: '99-106'
+  URL: http://doi.acm.org/10.1145/800223.806768
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/1991
+  type: book
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Functional programming languages and computer architecture, 5th aCM conference,
+    cambridge, mA, uSA, august 26-30, 1991, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '523'
+  DOI: 10.1007/3-540-54396-1
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/ConselD91
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  - family: Danvy
+    given: Olivier
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: For a better support of static data flow
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '496-519'
+  volume: '523'
+  DOI: 10.1007/3540543961_24
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Okasaki95
+  type: paper-conference
+  author:
+  - family: Okasaki
+    given: Chris
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Purely functional random-access lists
+  container-title: FPCA
+  publisher: ACM
+  page: '86-95'
+  URL: http://doi.acm.org/10.1145/224164.224187
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Wand95
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Compiler correctness for parallel languages
+  container-title: FPCA
+  publisher: ACM
+  page: '120-134'
+  URL: http://doi.acm.org/10.1145/224164.224193
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/LillieH91
+  type: paper-conference
+  author:
+  - family: Lillie
+    given: David J.
+  - family: Harrison
+    given: Peter G.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: A projection model of types
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-288'
+  volume: '523'
+  DOI: 10.1007/3540543961_13
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/HudakA87
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Anderson
+    given: Steven
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Pomset interpretations of parallel functional programs
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '234-256'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_14
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Mogensen89
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Separating binding times in language specifications
+  container-title: FPCA
+  publisher: ACM
+  page: '14-25'
+  URL: http://doi.acm.org/10.1145/99370.99372
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/GoncalvesA95
+  type: paper-conference
+  author:
+  - family: Gonçalves
+    given: Marcelo J. R.
+  - family: Appel
+    given: Andrew W.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Cache performance of fast-allocating programs
+  container-title: FPCA
+  publisher: ACM
+  page: '293-305'
+  URL: http://doi.acm.org/10.1145/224164.224219
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/JonesM89
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon B.
+  - family: Métayer
+    given: Daniel Le
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Computer-time garbage collection by sharing analysis
+  container-title: FPCA
+  publisher: ACM
+  page: '54-74'
+  URL: http://doi.acm.org/10.1145/99370.99375
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Peterson89
+  type: paper-conference
+  author:
+  - family: Peterson
+    given: John
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'Untagged data in tagged environments: Choosing optimal representations
+    at compile time'
+  title-short: Untagged data in tagged environments
+  container-title: FPCA
+  publisher: ACM
+  page: '89-99'
+  URL: http://doi.acm.org/10.1145/99370.99377
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/PresnellP81
+  type: paper-conference
+  author:
+  - family: Presnell
+    given: H. A.
+  - family: Pargas
+    given: Roy P.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Communication along shortest paths in a tree machine
+  container-title: FPCA
+  publisher: ACM
+  page: '107-114'
+  URL: http://doi.acm.org/10.1145/800223.806769
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/CanningCHOM89
+  type: paper-conference
+  author:
+  - family: Canning
+    given: Peter S.
+  - family: Cook
+    given: William R.
+  - family: Hill
+    given: Walter L.
+  - family: Olthoff
+    given: Walter G.
+  - family: Mitchell
+    given: John C.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: F-bounded polymorphism for object-oriented programming
+  container-title: FPCA
+  publisher: ACM
+  page: '273-280'
+  URL: http://doi.acm.org/10.1145/99370.99392
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Thatte91
+  type: paper-conference
+  author:
+  - family: Thatte
+    given: Satish R.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Coercive type isomorphism
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-49'
+  volume: '523'
+  DOI: 10.1007/3540543961_3
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/SilbermannJ89
+  type: paper-conference
+  author:
+  - family: Silbermann
+    given: Frank S. K.
+  - family: Jayaraman
+    given: Bharat
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Set abstraction in functional and logic programming
+  container-title: FPCA
+  publisher: ACM
+  page: '313-326'
+  URL: http://doi.acm.org/10.1145/99370.99398
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/BlellochG95
+  type: paper-conference
+  author:
+  - family: Blelloch
+    given: Guy E.
+  - family: Greiner
+    given: John
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Parallelism in sequential functional languages
+  container-title: FPCA
+  publisher: ACM
+  page: '226-237'
+  URL: http://doi.acm.org/10.1145/224164.224210
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/JeuringS95
+  type: paper-conference
+  author:
+  - family: Jeuring
+    given: Johan
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Constructing functional programs for grammar analysis problems
+  container-title: FPCA
+  publisher: ACM
+  page: '259-269'
+  URL: http://doi.acm.org/10.1145/224164.224214
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Feeley93
+  type: paper-conference
+  author:
+  - family: Feeley
+    given: Marc
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Polling efficiently on stock hardware
+  container-title: FPCA
+  publisher: ACM
+  page: '179-190'
+  URL: http://doi.acm.org/10.1145/165180.165205
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/KuchenG93
+  type: paper-conference
+  author:
+  - family: Kuchen
+    given: Herbert
+  - family: Gladitz
+    given: Katia
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Parallel implementation of bags
+  container-title: FPCA
+  publisher: ACM
+  page: '299-307'
+  URL: http://doi.acm.org/10.1145/165180.165226
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Burton89
+  type: paper-conference
+  author:
+  - family: Burton
+    given: F. Warren
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Indeterminate behavior with determinate semantics in parallel programs
+  container-title: FPCA
+  publisher: ACM
+  page: '340-346'
+  URL: http://doi.acm.org/10.1145/99370.99402
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/ChuangG93
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Tyng-Ruey
+  - family: Goldberg
+    given: Benjamin
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Real-time deques, multihead thring machines, and purely functional programming
+  container-title: FPCA
+  publisher: ACM
+  page: '289-298'
+  URL: http://doi.acm.org/10.1145/165180.165225
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/JonesS89
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Salkild
+    given: Jon
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: The spineless tagless g-machine
+  container-title: FPCA
+  publisher: ACM
+  page: '184-201'
+  URL: http://doi.acm.org/10.1145/99370.99385
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/AikenW93
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alexander
+  - family: Wimmers
+    given: Edward L.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Type inclusion constraints and type inference
+  container-title: FPCA
+  publisher: ACM
+  page: '31-41'
+  URL: http://doi.acm.org/10.1145/165180.165188
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/MoreauR93
+  type: paper-conference
+  author:
+  - family: Moreau
+    given: Luc
+  - family: Ribbens
+    given: Daniel
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Sound rules for parallel evaluation of a functional language with callcc
+  container-title: FPCA
+  publisher: ACM
+  page: '125-135'
+  URL: http://doi.acm.org/10.1145/165180.165197
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/JonesL91
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Launchbury
+    given: John
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Unboxed values as first class citizens in a non-strict functional language
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '636-666'
+  volume: '523'
+  DOI: 10.1007/3540543961_30
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/HudakG85
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Goldberg
+    given: Benjamin
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'Serial combinators: “Optimal” grains of parallelism'
+  title-short: Serial combinators
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '382-399'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_49
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/PatelSE85
+  type: paper-conference
+  author:
+  - family: Patel
+    given: Dorab
+  - family: Schlag
+    given: Martine D. F.
+  - family: Ercegovac
+    given: Milos D.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'VFP: An environment for the multi-level specification, analysis, and synthesis
+    of hardware algorithms'
+  title-short: VFP
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-255'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_40
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/BunemanNF81
+  type: paper-conference
+  author:
+  - family: Buneman
+    given: Peter
+  - family: Nikhil
+    given: Rishiyur S.
+  - family: Frankel
+    given: Robert E.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: A practical functional programming system for databases
+  container-title: FPCA
+  publisher: ACM
+  page: '195-202'
+  URL: http://doi.acm.org/10.1145/800223.806779
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/CousineauCM85
+  type: paper-conference
+  author:
+  - family: Cousineau
+    given: Guy
+  - family: Curien
+    given: Pierre-Louis
+  - family: Mauny
+    given: Michel
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: The categorical abstract machine
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-64'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_29
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/QuintonRW95
+  type: paper-conference
+  author:
+  - family: Quinton
+    given: Patrice
+  - family: Rajopadhye
+    given: Sanjay V.
+  - family: Wilde
+    given: Doran
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Deriving imperative code from functional programs
+  container-title: FPCA
+  publisher: ACM
+  page: '36-44'
+  URL: http://doi.acm.org/10.1145/224164.224177
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/TurnerWM95
+  type: paper-conference
+  author:
+  - family: Turner
+    given: David N.
+  - family: Wadler
+    given: Philip
+  - family: Mossin
+    given: Christian
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Once upon a type
+  container-title: FPCA
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/224164.224168
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Gordon93
+  type: paper-conference
+  author:
+  - family: Gordon
+    given: Andrew D.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: An operational semantics for i/O in a lazy functional language
+  container-title: FPCA
+  publisher: ACM
+  page: '136-145'
+  URL: http://doi.acm.org/10.1145/165180.165199
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/WeiseCRS91
+  type: paper-conference
+  author:
+  - family: Weise
+    given: Daniel
+  - family: Conybeare
+    given: Roland
+  - family: Ruf
+    given: Erik
+  - family: Seligman
+    given: Scott
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Automatic online partial evaluation
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-191'
+  volume: '523'
+  DOI: 10.1007/3540543961_9
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/KapurMS81
+  type: paper-conference
+  author:
+  - family: Kapur
+    given: Deepak
+  - family: Musser
+    given: David R.
+  - family: Stepanov
+    given: Alexander A.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Operators and algebraic structures
+  container-title: FPCA
+  publisher: ACM
+  page: '59-64'
+  URL: http://doi.acm.org/10.1145/800223.806763
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/NielsonN89
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Hanne Riis
+  - family: Nielson
+    given: Flemming
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Transformations on higher-order functions
+  container-title: FPCA
+  publisher: ACM
+  page: '129-143'
+  URL: http://doi.acm.org/10.1145/99370.99380
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Mairson91
+  type: paper-conference
+  author:
+  - family: Mairson
+    given: Harry G.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Outline of a proof theory of parametricity
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-327'
+  volume: '523'
+  DOI: 10.1007/3540543961_15
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/WadlerH87
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  - family: Hughes
+    given: R. J. M.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Projections for strictness analysis
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '385-407'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_21
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/FrandsenS91
+  type: paper-conference
+  author:
+  - family: Frandsen
+    given: Gudmund Skovbjerg
+  - family: Sturtivant
+    given: Carl
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: What is an efficient implementation of the -calculus?
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-312'
+  volume: '523'
+  DOI: 10.1007/3540543961_14
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Henglein91
+  type: paper-conference
+  author:
+  - family: Henglein
+    given: Fritz
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Efficient type inference for higher-order binding-time analysis
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '448-472'
+  volume: '523'
+  DOI: 10.1007/3540543961_22
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/SchauserG95
+  type: paper-conference
+  author:
+  - family: Schauser
+    given: Klaus E.
+  - family: Goldstein
+    given: Seth Copen
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: How much non-strictness do lenient programs require?
+  container-title: FPCA
+  publisher: ACM
+  page: '216-225'
+  URL: http://doi.acm.org/10.1145/224164.224208
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/KellerL81
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Robert M.
+  - family: Lindstrom
+    given: Gary
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Applications of feedback in functional programming
+  container-title: FPCA
+  publisher: ACM
+  page: '123-130'
+  URL: http://doi.acm.org/10.1145/800223.806771
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/NipkowS91
+  type: paper-conference
+  author:
+  - family: Nipkow
+    given: Tobias
+  - family: Snelting
+    given: Gregor
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Type classes and overloading resolution via order-sorted unification
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '523'
+  DOI: 10.1007/3540543961_1
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Wise85
+  type: paper-conference
+  author:
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Design for a multiprocessing heap with on-board reference counting
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-304'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_43
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/SmetsersNGP91
+  type: paper-conference
+  author:
+  - family: Smetsers
+    given: Sjaak
+  - family: Nöcker
+    given: Eric
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Generating efficient code for lazy functional languages
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '592-617'
+  volume: '523'
+  DOI: 10.1007/3540543961_28
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Berry81
+  type: paper-conference
+  author:
+  - family: Berry
+    given: Gérard
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Programming with concrete data structures and sequential algorithms
+  container-title: FPCA
+  publisher: ACM
+  page: '49-58'
+  URL: http://doi.acm.org/10.1145/800223.806762
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/MeijerFP91
+  type: paper-conference
+  author:
+  - family: Meijer
+    given: Erik
+  - family: Fokkinga
+    given: Maarten M.
+  - family: Paterson
+    given: Ross
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Functional programming with bananas, lenses, envelopes and barbed wire
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-144'
+  volume: '523'
+  DOI: 10.1007/3540543961_7
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/AriolaA89
+  type: paper-conference
+  author:
+  - family: Ariola
+    given: Zena M.
+  - family: Arvind
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'P-tAC: A parallel intermediate language'
+  title-short: P-tAC
+  container-title: FPCA
+  publisher: ACM
+  page: '230-242'
+  URL: http://doi.acm.org/10.1145/99370.99388
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/GuttagHW81
+  type: paper-conference
+  author:
+  - family: Guttag
+    given: John V.
+  - family: Horning
+    given: James J.
+  - family: Williams
+    given: John
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: FP with data abstraction and strong typing
+  container-title: FPCA
+  publisher: ACM
+  page: '11-24'
+  URL: http://doi.acm.org/10.1145/800223.806758
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Liu93
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Feixiong
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Towards lazy evaluation, sharing and non-determinism in resolution based
+    functional logic languages
+  container-title: FPCA
+  publisher: ACM
+  page: '201-209'
+  URL: http://doi.acm.org/10.1145/165180.165209
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/AdityaN91
+  type: paper-conference
+  author:
+  - family: Aditya
+    given: Shail
+  - family: Nikhil
+    given: Rishiyur S.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Incremental polymorphism
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '379-405'
+  volume: '523'
+  DOI: 10.1007/3540543961_19
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Aasa93
+  type: paper-conference
+  author:
+  - family: Aasa
+    given: Annika
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Precedences for conctypes
+  container-title: FPCA
+  publisher: ACM
+  page: '83-94'
+  URL: http://doi.acm.org/10.1145/165180.165193
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/CattrallR93
+  type: paper-conference
+  author:
+  - family: Cattrall
+    given: Dave
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: 'Widening the representation bottleneck: A functional implementation of
+    relational programming'
+  title-short: Widening the representation bottleneck
+  container-title: FPCA
+  publisher: ACM
+  page: '191-200'
+  URL: http://doi.acm.org/10.1145/165180.165206
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Argo89
+  type: paper-conference
+  author:
+  - family: Argo
+    given: Guy
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Improving the three instruction machine
+  container-title: FPCA
+  publisher: ACM
+  page: '100-115'
+  URL: http://doi.acm.org/10.1145/99370.99378
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Dybjer85
+  type: paper-conference
+  author:
+  - family: Dybjer
+    given: Peter
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Program verification in a logical theory of constructions
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '334-349'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_46
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/AppelM87
+  type: paper-conference
+  author:
+  - family: Appel
+    given: Andrew W.
+  - family: MacQueen
+    given: David B.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: A standard mL compiler
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-324'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_17
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/BushG85
+  type: paper-conference
+  author:
+  - family: Bush
+    given: V. J.
+  - family: Gurd
+    given: John R.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Transforming recursive programs for execution on parallel machines
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '350-367'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_47
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Mauny89
+  type: paper-conference
+  author:
+  - family: Mauny
+    given: Michel
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Parsers and printers as stream destructors and constructors embedded in functional
+    languages
+  container-title: FPCA
+  publisher: ACM
+  page: '360-370'
+  URL: http://doi.acm.org/10.1145/99370.99405
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/PurushothamanS93
+  type: paper-conference
+  author:
+  - family: Purushothaman
+    given: S.
+  - family: Seaman
+    given: Jill
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: From operational definitions to abstract semantics
+  container-title: FPCA
+  publisher: ACM
+  page: '276-288'
+  URL: http://doi.acm.org/10.1145/165180.165224
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Burn87
+  type: paper-conference
+  author:
+  - family: Burn
+    given: Geoffrey L.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Evaluation transformers - a model for the parallel evaluation of functional
+    languages (extended abstract)
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '446-470'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_24
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Dwelly89
+  type: paper-conference
+  author:
+  - family: Dwelly
+    given: Andrew
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Functions and dynamic user interfaces
+  container-title: FPCA
+  publisher: ACM
+  page: '371-381'
+  URL: http://doi.acm.org/10.1145/99370.99407
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Schlag87
+  type: paper-conference
+  author:
+  - family: Schlag
+    given: Martine D. F.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: The planar topology of functional programs
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-193'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_11
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Sparud93
+  type: paper-conference
+  author:
+  - family: Sparud
+    given: Jan
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Fixing some space leaks without a garbage collector
+  container-title: FPCA
+  publisher: ACM
+  page: '117-124'
+  URL: http://doi.acm.org/10.1145/165180.165196
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Mago81
+  type: paper-conference
+  author:
+  - family: Magó
+    given: Gyula
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: 'Copying operands versus copying results: A solution to the problem of
+    large operands in fFP’S'
+  title-short: Copying operands versus copying results
+  container-title: FPCA
+  publisher: ACM
+  page: '93-98'
+  URL: http://doi.acm.org/10.1145/800223.806767
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Plaisted85
+  type: paper-conference
+  author:
+  - family: Plaisted
+    given: David A.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: An architecture for fast data movement in the fFP machine
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-163'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_35
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/CattoG81
+  type: paper-conference
+  author:
+  - family: Catto
+    given: Arthur J.
+  - family: Gurd
+    given: John R.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Resource management in dataflow
+  container-title: FPCA
+  publisher: ACM
+  page: '77-84'
+  URL: http://doi.acm.org/10.1145/800223.806765
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Nordstrom81
+  type: paper-conference
+  author:
+  - family: Nordström
+    given: Bengt
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: 'Programming in constructive set theory: Some examples'
+  title-short: Programming in constructive set theory
+  container-title: FPCA
+  publisher: ACM
+  page: '141-154'
+  URL: http://doi.acm.org/10.1145/800223.806773
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/KieburtzS81
+  type: paper-conference
+  author:
+  - family: Kieburtz
+    given: Richard B.
+  - family: Shultis
+    given: Jonathan C.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Transformations of fP program schemes
+  container-title: FPCA
+  publisher: ACM
+  page: '41-48'
+  URL: http://doi.acm.org/10.1145/800223.806761
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Boquist95
+  type: paper-conference
+  author:
+  - family: Boquist
+    given: Urban
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Interprocedural register allocation for lazy functional languages
+  container-title: FPCA
+  publisher: ACM
+  page: '270-281'
+  URL: http://doi.acm.org/10.1145/224164.224215
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/ToynDR87
+  type: paper-conference
+  author:
+  - family: Toyn
+    given: Ian
+  - family: Dix
+    given: Alan J.
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Performance polymorphism
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '325-346'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_18
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/MorrisettFH95
+  type: paper-conference
+  author:
+  - family: Morrisett
+    given: J. Gregory
+  - family: Felleisen
+    given: Matthias
+  - family: Harper
+    given: Robert
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Abstract models of memory management
+  container-title: FPCA
+  publisher: ACM
+  page: '66-77'
+  URL: http://doi.acm.org/10.1145/224164.224182
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Riecke93
+  type: paper-conference
+  author:
+  - family: Riecke
+    given: Jon G.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Delimiting the scope of effects
+  container-title: FPCA
+  publisher: ACM
+  page: '146-158'
+  URL: http://doi.acm.org/10.1145/165180.165200
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/WeissSS89
+  type: paper-conference
+  author:
+  - family: Weiss
+    given: Shlomit
+  - family: Spillinger
+    given: Ilan Y.
+  - family: Silberman
+    given: Gabriel M.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Architectural improvements for data-driven vLSI processing arrays
+  container-title: FPCA
+  publisher: ACM
+  page: '243-259'
+  URL: http://doi.acm.org/10.1145/99370.99389
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Nikhil85
+  type: paper-conference
+  author:
+  - family: Nikhil
+    given: Rishiyur S.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Practical polymorphism
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '319-333'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_45
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Thiemann95
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Unboxed values and polymorphic typing revisited
+  container-title: FPCA
+  publisher: ACM
+  page: '24-35'
+  URL: http://doi.acm.org/10.1145/224164.224175
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Traub89
+  type: paper-conference
+  author:
+  - family: Traub
+    given: Kenneth R.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'Compilation as partitioning: A new approach to compiling non-strict functional
+    languages'
+  title-short: Compilation as partitioning
+  container-title: FPCA
+  publisher: ACM
+  page: '75-88'
+  URL: http://doi.acm.org/10.1145/99370.99376
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/SansomJ93
+  type: paper-conference
+  author:
+  - family: Sansom
+    given: Patrick M.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Generational garbage collection for haskell
+  container-title: FPCA
+  publisher: ACM
+  page: '106-116'
+  URL: http://doi.acm.org/10.1145/165180.165195
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/FairbairnW87
+  type: paper-conference
+  author:
+  - family: Fairbairn
+    given: Jon
+  - family: Wray
+    given: Stuart
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: 'TIM: A simple, lazy abstract machine to execute supercombinatorics'
+  title-short: TIM
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-45'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_3
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Marchiori95
+  type: paper-conference
+  author:
+  - family: Marchiori
+    given: Massimo
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: The functional side of logic programming
+  container-title: FPCA
+  publisher: ACM
+  page: '55-65'
+  URL: http://doi.acm.org/10.1145/224164.224181
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Ang93
+  type: paper-conference
+  author:
+  - family: Ang
+    given: Boon Seong
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Efficient implementation of sequential loops in dataflow computation
+  container-title: FPCA
+  publisher: ACM
+  page: '169-178'
+  URL: http://doi.acm.org/10.1145/165180.165203
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Sintzoff81
+  type: paper-conference
+  author:
+  - family: Sintzoff
+    given: Michel
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Proof-oriented and applicative valuations in definitions of algorithms
+  container-title: FPCA
+  publisher: ACM
+  page: '155-162'
+  URL: http://doi.acm.org/10.1145/800223.806774
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Fradet91
+  type: paper-conference
+  author:
+  - family: Fradet
+    given: Pascal
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Syntactic detection of single-threading using continuations
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-258'
+  volume: '523'
+  DOI: 10.1007/3540543961_12
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/VolpanoS91
+  type: paper-conference
+  author:
+  - family: Volpano
+    given: Dennis M.
+  - family: Smith
+    given: Geoffrey
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: On the complexity of mL typability with overloading
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-28'
+  volume: '523'
+  DOI: 10.1007/3540543961_2
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/DarlingtonR81
+  type: paper-conference
+  author:
+  - family: Darlington
+    given: John
+  - family: Reeve
+    given: Mike
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: ALICE a multi-processor reduction machine for the parallel evaluation cF
+    applicative languages
+  container-title: FPCA
+  publisher: ACM
+  page: '65-76'
+  URL: http://doi.acm.org/10.1145/800223.806764
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/MiraniH95
+  type: paper-conference
+  author:
+  - family: Mirani
+    given: Rajiv
+  - family: Hudak
+    given: Paul
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: First-class schedules and virtual maps
+  container-title: FPCA
+  publisher: ACM
+  page: '78-85'
+  URL: http://doi.acm.org/10.1145/224164.224185
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Hunt89
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: Sebastian
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Frontiers and open sets in abstract interpretation
+  container-title: FPCA
+  publisher: ACM
+  page: '1-13'
+  URL: http://doi.acm.org/10.1145/99370.99371
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/JonesCSH87
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Clack
+    given: Chris D.
+  - family: Salkild
+    given: Jon
+  - family: Hardie
+    given: Mark
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: GRIP - a high-performance architecture for parallel graph reduction
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-112'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_7
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/CarlssonH93
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Mats
+  - family: Hallgren
+    given: Thomas
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: 'FUDGETS: A graphical user interface in a lazy functional language'
+  title-short: FUDGETS
+  container-title: FPCA
+  publisher: ACM
+  page: '321-330'
+  URL: http://doi.acm.org/10.1145/165180.165228
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/BjernerH89
+  type: paper-conference
+  author:
+  - family: Bjerner
+    given: Bror
+  - family: Holmström
+    given: S.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: A composition approach to time analysis of first order lazy functional programs
+  container-title: FPCA
+  publisher: ACM
+  page: '157-165'
+  URL: http://doi.acm.org/10.1145/99370.99382
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/PageCG81
+  type: paper-conference
+  author:
+  - family: Page
+    given: Rex L.
+  - family: Conant
+    given: M. G.
+  - family: Grit
+    given: Dale H.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: If-then-else as a concurrency inhibitor in eager beaver evaluation of recursive
+    programs
+  container-title: FPCA
+  publisher: ACM
+  page: '179-186'
+  URL: http://doi.acm.org/10.1145/800223.806777
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/ClarkG81
+  type: paper-conference
+  author:
+  - family: Clark
+    given: Keith L.
+  - family: Gregory
+    given: Steve
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: A relational language for parallel programming
+  container-title: FPCA
+  publisher: ACM
+  page: '171-178'
+  URL: http://doi.acm.org/10.1145/800223.806776
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Rittri89
+  type: paper-conference
+  author:
+  - family: Rittri
+    given: Mikael
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Using types as search keys in function libraries
+  container-title: FPCA
+  publisher: ACM
+  page: '174-183'
+  URL: http://doi.acm.org/10.1145/99370.99384
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/ODonnell85
+  type: paper-conference
+  author:
+  - family: O’Donnell
+    given: John T.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: An architecture that efficiently updates associative aggregates in applicative
+    programing languages
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '164-189'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_36
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/NorthR87
+  type: paper-conference
+  author:
+  - family: North
+    given: Stephen C.
+  - family: Reppy
+    given: John H.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Concurrent garbage collection on stock hardware
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-133'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_8
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/RohNB93
+  type: paper-conference
+  author:
+  - family: Roh
+    given: Lucas
+  - family: Najjar
+    given: Walid A.
+  - family: Böhm
+    given: A. P. Wim
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Generation and quantitative evaluation of dataflow clusters
+  container-title: FPCA
+  publisher: ACM
+  page: '159-168'
+  URL: http://doi.acm.org/10.1145/165180.165201
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Wise87
+  type: paper-conference
+  author:
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Matrix algebra and applicative programming
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-153'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_9
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/SastryCA93
+  type: paper-conference
+  author:
+  - family: Sastry
+    given: A. V. S.
+  - family: Clinger
+    given: William D.
+  - family: Ariola
+    given: Zena M.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Order-of-evaluation analysis for destructive updates in strict functional
+    languages with flat aggregates
+  container-title: FPCA
+  publisher: ACM
+  page: '266-275'
+  URL: http://doi.acm.org/10.1145/165180.165222
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/HughesM95
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: John
+  - family: Moran
+    given: Andrew
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Making choices lazily
+  container-title: FPCA
+  publisher: ACM
+  page: '108-119'
+  URL: http://doi.acm.org/10.1145/224164.224191
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Wadler85
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'How to replace failure by a list of successes: A method for exception
+    handling, backtracking, and pattern matching in lazy functional languages'
+  title-short: How to replace failure by a list of successes
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-128'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_33
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/SwarupRI91
+  type: paper-conference
+  author:
+  - family: Swarup
+    given: Vipin
+  - family: Reddy
+    given: Uday S.
+  - family: Ireland
+    given: Evan
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Assignments for applicative languages
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-214'
+  volume: '523'
+  DOI: 10.1007/3540543961_10
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/SchauserCE91
+  type: paper-conference
+  author:
+  - family: Schauser
+    given: Klaus E.
+  - family: Culler
+    given: David E.
+  - family: Eicken
+    given: Thorsten
+    dropping-particle: von
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Compiler-controlled multithreading for lenient parallel languages
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-72'
+  volume: '523'
+  DOI: 10.1007/3540543961_4
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/AbramskyS85
+  type: paper-conference
+  author:
+  - family: Abramsky
+    given: Samson
+  - family: Sykes
+    given: R.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'Secd-m: A virtual machine for applicative programming'
+  title-short: Secd-m
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-98'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_31
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/LeroyM91
+  type: paper-conference
+  author:
+  - family: Leroy
+    given: Xavier
+  - family: Mauny
+    given: Michel
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Dynamics in mL
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '406-426'
+  volume: '523'
+  DOI: 10.1007/3540543961_20
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Johnsson87
+  type: paper-conference
+  author:
+  - family: Johnsson
+    given: Thomas
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Attribute grammars as a functional programming paradigm
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-173'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_10
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/RuggieroS87
+  type: paper-conference
+  author:
+  - family: Ruggiero
+    given: Carlos A.
+  - family: Sargeant
+    given: John
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Control of parallelism in the manchester dataflow machine
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_1
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/FinneB93
+  type: paper-conference
+  author:
+  - family: Finne
+    given: Sigbjorn
+  - family: Burn
+    given: Geoffrey L.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Assessing the evaluation transformer model of reduction on the spineless
+    g-machine
+  container-title: FPCA
+  publisher: ACM
+  page: '331-340'
+  URL: http://doi.acm.org/10.1145/165180.165229
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Hughes85
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: John
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Lazy memo-functions
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-146'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_34
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Yoshida93
+  type: paper-conference
+  author:
+  - family: Yoshida
+    given: Nobuko
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Optimal reduction in weak-λ-calculus with shared environments
+  container-title: FPCA
+  publisher: ACM
+  page: '243-254'
+  URL: http://doi.acm.org/10.1145/165180.165217
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Frank81
+  type: paper-conference
+  author:
+  - family: Frank
+    given: Geoffrey A.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Specification of data structures for fP programs
+  container-title: FPCA
+  publisher: ACM
+  page: '221-228'
+  URL: http://doi.acm.org/10.1145/800223.806782
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Johnsson85
+  type: paper-conference
+  author:
+  - family: Johnsson
+    given: Thomas
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'Lambda lifting: Treansforming programs to recursive equations'
+  title-short: Lambda lifting
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '190-203'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_37
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/MalhotraR81
+  type: paper-conference
+  author:
+  - family: Malhotra
+    given: Vishv M.
+  - family: Rajaraman
+    given: V.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: A data-flow language for specifying business data processing applications
+  container-title: FPCA
+  publisher: ACM
+  page: '203-212'
+  URL: http://doi.acm.org/10.1145/800223.806780
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/WatsonW87
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Paul
+  - family: Watson
+    given: Ian
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Evaluating functional programs on the fLAGSHIP machine
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-97'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_6
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Takayama89
+  type: paper-conference
+  author:
+  - family: Takayama
+    given: Yukihide
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Extended projection - new method to extract efficient programs from constructive
+    proofs
+  container-title: FPCA
+  publisher: ACM
+  page: '299-312'
+  URL: http://doi.acm.org/10.1145/99370.99396
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/SharpR95
+  type: paper-conference
+  author:
+  - family: Sharp
+    given: Robin
+  - family: Rasmussen
+    given: Ole
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Using a language of functions and relations for vLSI specification
+  container-title: FPCA
+  publisher: ACM
+  page: '45-54'
+  URL: http://doi.acm.org/10.1145/224164.224180
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/BarthNA91
+  type: paper-conference
+  author:
+  - family: Barth
+    given: Paul S.
+  - family: Nikhil
+    given: Rishiyur S.
+  - family: Arvind
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: 'M-structures: Extending a parallel, non-strict, functional language with
+    state'
+  title-short: M-structures
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '538-568'
+  volume: '523'
+  DOI: 10.1007/3540543961_26
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/HylandO95
+  type: paper-conference
+  author:
+  - family: Hyland
+    given: J. M. E.
+  - family: Ong
+    given: C.-H. Luke
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Pi-calculus, dialogue games and pCF
+  container-title: FPCA
+  publisher: ACM
+  page: '96-107'
+  URL: http://doi.acm.org/10.1145/224164.224189
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/ConeryK81
+  type: paper-conference
+  author:
+  - family: Conery
+    given: John S.
+  - family: Kibler
+    given: Dennis F.
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Parallel interpretation of logic programs
+  container-title: FPCA
+  publisher: ACM
+  page: '163-170'
+  URL: http://doi.acm.org/10.1145/800223.806775
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/LaunchburyS95
+  type: paper-conference
+  author:
+  - family: Launchbury
+    given: John
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: 'Warm fusion: Deriving build-cata’s from recursive definitions'
+  title-short: Warm fusion
+  container-title: FPCA
+  publisher: ACM
+  page: '314-323'
+  URL: http://doi.acm.org/10.1145/224164.224223
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Chiueh91
+  type: paper-conference
+  author:
+  - family: Chiueh
+    given: Tzi-cker
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: An architectural technique for cache-level garbage collection
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '520-537'
+  volume: '523'
+  DOI: 10.1007/3540543961_25
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/KozatoO93
+  type: paper-conference
+  author:
+  - family: Kozato
+    given: Y.
+  - family: Otto
+    given: G. P.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Benchmarking real-life image processing programs in lazy functional languages
+  container-title: FPCA
+  publisher: ACM
+  page: '18-30'
+  URL: http://doi.acm.org/10.1145/165180.165187
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/BurtonS81
+  type: paper-conference
+  author:
+  - family: Burton
+    given: F. Warren
+  - family: Sleep
+    given: M. Ronan
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Executing functional programs on a virtual tree of processors
+  container-title: FPCA
+  publisher: ACM
+  page: '187-194'
+  URL: http://doi.acm.org/10.1145/800223.806778
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/GautierG87
+  type: paper-conference
+  author:
+  - family: Gautier
+    given: Thierry
+  - family: Guernic
+    given: Paul Le
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: 'SIGNAL: A declarative language for synchronous programming of real-time
+    systems'
+  title-short: SIGNAL
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '257-277'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_15
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/1995
+  type: book
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Proceedings of the seventh international conference on functional programming
+    languages and computer architecture, fPCA 1995, la jolla, california, uSA, june
+    25-28, 1995
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/224164
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/GillLJ93
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andrew J.
+  - family: Launchbury
+    given: John
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: A short cut to deforestation
+  container-title: FPCA
+  publisher: ACM
+  page: '223-232'
+  URL: http://doi.acm.org/10.1145/165180.165214
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Rojemo95
+  type: paper-conference
+  author:
+  - family: Röjemo
+    given: Niklas
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Highlights from nhc - a space-efficient haskell compiler
+  container-title: FPCA
+  publisher: ACM
+  page: '282-292'
+  URL: http://doi.acm.org/10.1145/224164.224217
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Rosendahl89
+  type: paper-conference
+  author:
+  - family: Rosendahl
+    given: Mads
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Automatic complexity analysis
+  container-title: FPCA
+  publisher: ACM
+  page: '144-156'
+  URL: http://doi.acm.org/10.1145/99370.99381
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Kieburtz85
+  type: paper-conference
+  author:
+  - family: Kieburtz
+    given: Richard B.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: 'The g-machine: A fast, graph-reduction evaluator'
+  title-short: The g-machine
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '400-413'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_50
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/Hannan91
+  type: paper-conference
+  author:
+  - family: Hannan
+    given: John
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Making abstract machines less abstract
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '618-635'
+  volume: '523'
+  DOI: 10.1007/3540543961_29
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/WakelingR91
+  type: paper-conference
+  author:
+  - family: Wakeling
+    given: David
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Linearity and laziness
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-240'
+  volume: '523'
+  DOI: 10.1007/3540543961_11
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Brownbridge85
+  type: paper-conference
+  author:
+  - family: Brownbridge
+    given: David R.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Cyclic reference counting for combinator machines
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-288'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_42
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/BrusELP87
+  type: paper-conference
+  author:
+  - family: Brus
+    given: T. H.
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Leer
+    given: M. O.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: 'CLEAN: A language for functional graph writing'
+  title-short: CLEAN
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '364-384'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_20
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/1981
+  type: book
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: Proceedings of the 1981 conference on functional programming languages and
+    computer architecture, fPCA 1981, wentworth, new hampshire, uSA, october 1981
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=800223
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/Sheeran85
+  type: paper-conference
+  author:
+  - family: Sheeran
+    given: Mary
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Designing regular array architectures using higher order functions
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-237'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_39
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/MeijerH95
+  type: paper-conference
+  author:
+  - family: Meijer
+    given: Erik
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: 'Bananas in space: Extending fold and unfold to exponential types'
+  title-short: Bananas in space
+  container-title: FPCA
+  publisher: ACM
+  page: '324-333'
+  URL: http://doi.acm.org/10.1145/224164.224225
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Holst91
+  type: paper-conference
+  author:
+  - family: Holst
+    given: Carsten Kehler
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: Finiteness analysis
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '473-495'
+  volume: '523'
+  DOI: 10.1007/3540543961_23
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/WandO89
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  - family: O’Keefe
+    given: Patrick
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: On the complexity of type inference with coercion
+  container-title: FPCA
+  publisher: ACM
+  page: '293-298'
+  URL: http://doi.acm.org/10.1145/99370.99394
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/MartinH87
+  type: paper-conference
+  author:
+  - family: Martin
+    given: Chris
+  - family: Hankin
+    given: Chris
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Finding fixed points in finite lattices
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '426-445'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_23
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Jeuring95
+  type: paper-conference
+  author:
+  - family: Jeuring
+    given: Johan
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Polytypic pattern matching
+  container-title: FPCA
+  publisher: ACM
+  page: '238-248'
+  URL: http://doi.acm.org/10.1145/224164.224212
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/BondorfP93
+  type: paper-conference
+  author:
+  - family: Bondorf
+    given: Anders
+  - family: Palsberg
+    given: Jens
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Compiling actions by partial evaluation
+  container-title: FPCA
+  publisher: ACM
+  page: '308-320'
+  URL: http://doi.acm.org/10.1145/165180.165227
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Lillie93
+  type: paper-conference
+  author:
+  - family: Lillie
+    given: David J.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Conjunctive subtyping
+  container-title: FPCA
+  publisher: ACM
+  page: '42-51'
+  URL: http://doi.acm.org/10.1145/165180.165189
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/HeytensN91
+  type: paper-conference
+  author:
+  - family: Heytens
+    given: Michael L.
+  - family: Nikhil
+    given: Rishiyur S.
+  editor:
+  - family: Hughes
+    given: John
+  issued:
+  - year: '1991'
+  title: List comprehensions in agna, a parallel persistant object system
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '569-591'
+  volume: '523'
+  DOI: 10.1007/3540543961_27
+  ISBN: '3-540-54396-1'
+
+- id: conf/fpca/Lester89
+  type: paper-conference
+  author:
+  - family: Lester
+    given: David R.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'Stacklessness: Compiling recursion for a distributed architecture'
+  title-short: Stacklessness
+  container-title: FPCA
+  publisher: ACM
+  page: '116-128'
+  URL: http://doi.acm.org/10.1145/99370.99379
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Augustsson93
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Implementing haskell overloading
+  container-title: FPCA
+  publisher: ACM
+  page: '65-73'
+  URL: http://doi.acm.org/10.1145/165180.165191
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/Debray85
+  type: paper-conference
+  author:
+  - family: Debray
+    given: Saumya K.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: Optimizing almost-tail-recursive prolog programs
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-219'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_38
+  ISBN: '3-540-15975-4'
+
+- id: conf/fpca/KuoM89
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Tsung-Min
+  - family: Mishra
+    given: Prateek
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: 'Strictness analysis: A new perspective based on type inference'
+  title-short: Strictness analysis
+  container-title: FPCA
+  publisher: ACM
+  page: '260-272'
+  URL: http://doi.acm.org/10.1145/99370.99390
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/Hicks93
+  type: paper-conference
+  author:
+  - family: Hicks
+    given: James
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1993'
+  title: Experiences with compiler-directed storage reclamation
+  container-title: FPCA
+  publisher: ACM
+  page: '95-105'
+  URL: http://doi.acm.org/10.1145/165180.165194
+  ISBN: 0-89791-595-X
+
+- id: conf/fpca/AugustssonJ89
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  - family: Johnsson
+    given: Thomas
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Parallel graph reduction with the &lt;nu, g&gt;-machine
+  container-title: FPCA
+  publisher: ACM
+  page: '202-213'
+  URL: http://doi.acm.org/10.1145/99370.99386
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/IslamMB81
+  type: paper-conference
+  author:
+  - family: Islam
+    given: N.
+  - family: Myers
+    given: Thomas J.
+  - family: Broome
+    given: Paul
+  editor:
+  - family: Arvind
+  issued:
+  - year: '1981'
+  title: A simple optimizer for fP-like languages
+  container-title: FPCA
+  publisher: ACM
+  page: '33-40'
+  URL: http://doi.acm.org/10.1145/800223.806760
+  ISBN: '0-89791-060-5'
+
+- id: conf/fpca/AdityaAS95
+  type: paper-conference
+  author:
+  - family: Aditya
+    given: Shail
+  - family: Arvind
+  - family: Stoy
+    given: Joseph E.
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Semantics of barriers in a non-strict, implicitly-parallel language
+  container-title: FPCA
+  publisher: ACM
+  page: '204-215'
+  URL: http://doi.acm.org/10.1145/224164.224206
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/DarlingtonW87
+  type: paper-conference
+  author:
+  - family: Darlington
+    given: John
+  - family: While
+    given: R. Lyndon
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Controlling the behaviour of functional language systems
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '278-300'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_16
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Bloss89
+  type: paper-conference
+  author:
+  - family: Bloss
+    given: Adrienne G.
+  editor:
+  - family: Stoy
+    given: Joseph E.
+  issued:
+  - year: '1989'
+  title: Update analysis and the efficient implementation of functional aggregates
+  container-title: FPCA
+  publisher: ACM
+  page: '26-38'
+  URL: http://doi.acm.org/10.1145/99370.99373
+  ISBN: '0-201-51389-7'
+
+- id: conf/fpca/HengleinR95
+  type: paper-conference
+  author:
+  - family: Henglein
+    given: Fritz
+  - family: Rehof
+    given: Jakob
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: 'Safe polymorphic type inference for scheme: Translating scheme to mL'
+  title-short: Safe polymorphic type inference for scheme
+  container-title: FPCA
+  publisher: ACM
+  page: '192-203'
+  URL: http://doi.acm.org/10.1145/224164.224203
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/WallaceR95
+  type: paper-conference
+  author:
+  - family: Wallace
+    given: Malcolm
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Williams
+    given: John
+  issued:
+  - year: '1995'
+  title: Lambdas in the liftshaft - functional programming and an embedded architecture
+  container-title: FPCA
+  publisher: ACM
+  page: '249-258'
+  URL: http://doi.acm.org/10.1145/224164.224213
+  ISBN: '0-89791-719-7'
+
+- id: conf/fpca/Lins87
+  type: paper-conference
+  author:
+  - family: Lins
+    given: Rafael Dueire
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1987'
+  title: Categorical multi-combinators
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-79'
+  volume: '274'
+  DOI: 10.1007/3-540-18317-5_5
+  ISBN: '3-540-18317-5'
+
+- id: conf/fpca/Bellot85
+  type: paper-conference
+  author:
+  - family: Bellot
+    given: Patrick
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1985'
+  title: High order programming in extended fP
+  container-title: FPCA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-80'
+  volume: '201'
+  DOI: 10.1007/3-540-15975-4_30
+  ISBN: '3-540-15975-4'
+...

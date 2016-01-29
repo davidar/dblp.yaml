@@ -1,0 +1,761 @@
+---
+references:
+- id: conf/aes/WorleyWCW00
+  type: paper-conference
+  author:
+  - family: Worley
+    given: John
+  - family: Worley
+    given: Bill
+  - family: Christian
+    given: Tom
+  - family: Worley
+    given: Christopher
+  issued:
+  - year: '2000'
+  title: 'AES finalists on pA-rISC and iA-64: Implementations & performance'
+  title-short: AES finalists on pA-rISC and iA-64
+  container-title: AES candidate conference
+  page: '57-74'
+
+- id: conf/aes/KohnoKS00
+  type: paper-conference
+  author:
+  - family: Kohno
+    given: Tadayoshi
+  - family: Kelsey
+    given: John
+  - family: Schneier
+    given: Bruce
+  issued:
+  - year: '2000'
+  title: Preliminary cryptanalysis of reduced-round serpent
+  container-title: AES candidate conference
+  page: '195-211'
+
+- id: conf/aes/Courtois04a
+  type: paper-conference
+  author:
+  - family: Courtois
+    given: Nicolas
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: The inverse s-box, non-linear polynomial relations and cryptanalysis of block
+    ciphers
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-188'
+  volume: '3373'
+  DOI: 10.1007/11506447_15
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/Keliher04
+  type: paper-conference
+  author:
+  - family: Keliher
+    given: Liam
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Refined analysis of bounds related to linear and differential cryptanalysis
+    for the aES
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-57'
+  volume: '3373'
+  DOI: 10.1007/11506447_5
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/WeaverW00
+  type: paper-conference
+  author:
+  - family: Weaver
+    given: Nicholas
+  - family: Wawrzynek
+    given: John
+  issued:
+  - year: '2000'
+  title: A comparison of the aES candidates amenability to fPGA implementation
+  container-title: AES candidate conference
+  page: '28-39'
+
+- id: conf/aes/WeissB00
+  type: paper-conference
+  author:
+  - family: Weiss
+    given: Richard
+  - family: Binkert
+    given: Nathan L.
+  issued:
+  - year: '2000'
+  title: A comparison of aES candidates on the alpha 21264
+  container-title: AES candidate conference
+  page: '75-81'
+
+- id: conf/aes/IchikawaKM00
+  type: paper-conference
+  author:
+  - family: Ichikawa
+    given: Tetsuya
+  - family: Kasuya
+    given: Tomomi
+  - family: Matsui
+    given: Mitsuru
+  issued:
+  - year: '2000'
+  title: Hardware evaluation of the aES finalists
+  container-title: AES candidate conference
+  page: '279-285'
+
+- id: conf/aes/DobbertinKR04
+  type: paper-conference
+  author:
+  - family: Dobbertin
+    given: Hans
+  - family: Knudsen
+    given: Lars R.
+  - family: Robshaw
+    given: Matthew J. B.
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: The cryptanalysis of the aES - a brief survey
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-10'
+  volume: '3373'
+  DOI: 10.1007/11506447_1
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/ArmknechtL04
+  type: paper-conference
+  author:
+  - family: Armknecht
+    given: Frederik
+  - family: Lucks
+    given: Stefan
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Linearity of the aES key schedule
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-169'
+  volume: '3373'
+  DOI: 10.1007/11506447_14
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/SchneierW00
+  type: paper-conference
+  author:
+  - family: Schneier
+    given: Bruce
+  - family: Whiting
+    given: Doug
+  issued:
+  - year: '2000'
+  title: A performance comparison of the five aES finalists
+  container-title: AES candidate conference
+  page: '123-135'
+
+- id: conf/aes/Minier04
+  type: paper-conference
+  author:
+  - family: Minier
+    given: Marine
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: A three rounds property of the aES
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-26'
+  volume: '3373'
+  DOI: 10.1007/11506447_3
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/Courtois04
+  type: paper-conference
+  author:
+  - family: Courtois
+    given: Nicolas
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: General principles of algebraic attacks and new design criteria for cipher
+    components
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-83'
+  volume: '3373'
+  DOI: 10.1007/11506447_7
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/WeeksBRF00
+  type: paper-conference
+  author:
+  - family: Weeks
+    given: Bryan
+  - family: Bean
+    given: Mark
+  - family: Rozylowicz
+    given: Tom
+  - family: Ficke
+    given: Chris
+  issued:
+  - year: '2000'
+  title: Hardware performance simulations of round 2 advanced encryption standard
+    algorithms
+  container-title: AES candidate conference
+  page: '286-304'
+
+- id: conf/aes/Harvey00
+  type: paper-conference
+  author:
+  - family: Harvey
+    given: Ian
+  issued:
+  - year: '2000'
+  title: The effects of multiple algorithms in the advanced encryption standard
+  container-title: AES candidate conference
+  page: '269-276'
+
+- id: conf/aes/RivestRY00
+  type: paper-conference
+  author:
+  - family: Rivest
+    given: Ronald L.
+  - family: Robshaw
+    given: Matthew J. B.
+  - family: Yin
+    given: Yiqun Lisa
+  issued:
+  - year: '2000'
+  title: RC6 as the aES
+  container-title: AES candidate conference
+  page: '337-342'
+
+- id: conf/aes/TrichinaKL04
+  type: paper-conference
+  author:
+  - family: Trichina
+    given: Elena
+  - family: Korkishko
+    given: Tymur
+  - family: Lee
+    given: Kyung-Hee
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: 'Small size, low power, side channel-immune aES coprocessor: Design and
+    synthesis results'
+  title-short: Small size, low power, side channel-immune aES coprocessor
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-127'
+  volume: '3373'
+  DOI: 10.1007/11506447_10
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/Johnson00
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Donald Byron
+  issued:
+  - year: '2000'
+  title: 'AES and future resiliency: More thoughts and questions'
+  title-short: AES and future resiliency
+  container-title: AES candidate conference
+  page: '257-268'
+
+- id: conf/aes/Lucks00
+  type: paper-conference
+  author:
+  - family: Lucks
+    given: Stefan
+  issued:
+  - year: '2000'
+  title: Attacking seven rounds of rijndael under 192-bit and 256-bit keys
+  container-title: AES candidate conference
+  page: '215-229'
+
+- id: conf/aes/SanoKKS00
+  type: paper-conference
+  author:
+  - family: Sano
+    given: Fumihiko
+  - family: Koike
+    given: Masanobu
+  - family: Kawamura
+    given: Shin-ichi
+  - family: Shiba
+    given: Masue
+  issued:
+  - year: '2000'
+  title: Performance evaluation of aES finalists on the high-end smart card
+  container-title: AES candidate conference
+  page: '82-93'
+
+- id: conf/aes/Cid04
+  type: paper-conference
+  author:
+  - family: Cid
+    given: Carlos
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Some algebraic aspects of the advanced encryption standard
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-66'
+  volume: '3373'
+  DOI: 10.1007/11506447_6
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/AokiL00
+  type: paper-conference
+  author:
+  - family: Aoki
+    given: Kazumaro
+  - family: Lipmaa
+    given: Helger
+  issued:
+  - year: '2000'
+  title: Fast implementations of aES candidates
+  container-title: AES candidate conference
+  page: '106-120'
+
+- id: conf/aes/SterbenzL00
+  type: paper-conference
+  author:
+  - family: Sterbenz
+    given: Andreas
+  - family: Lipp
+    given: Peter
+  issued:
+  - year: '2000'
+  title: Performance of the aES candidate algorithms in java
+  container-title: AES candidate conference
+  page: '161-165'
+
+- id: conf/aes/Raddum04
+  type: paper-conference
+  author:
+  - family: Raddum
+    given: Håvard
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: More dual rijndaels
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-147'
+  volume: '3373'
+  DOI: 10.1007/11506447_12
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/LeSWD04
+  type: paper-conference
+  author:
+  - family: Le
+    given: Tri Van
+  - family: Sparr
+    given: Rüdiger
+  - family: Wernsdorf
+    given: Ralph
+  - family: Desmedt
+    given: Yvo
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Complementation-like and cyclic properties of aES round functions
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-141'
+  volume: '3373'
+  DOI: 10.1007/11506447_11
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/GajC00
+  type: paper-conference
+  author:
+  - family: Gaj
+    given: Kris
+  - family: Chodowiec
+    given: Pawel
+  issued:
+  - year: '2000'
+  title: Comparison of the hardware performance of the aES candidates using reconfigurable
+    hardware
+  container-title: AES candidate conference
+  page: '40-54'
+
+- id: conf/aes/ToliZ04
+  type: paper-conference
+  author:
+  - family: Toli
+    given: Ilia
+  - family: Zanoni
+    given: Alberto
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: An algebraic interpretation of aES-128
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-97'
+  volume: '3373'
+  DOI: 10.1007/11506447_8
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/DaemenR00
+  type: paper-conference
+  author:
+  - family: Daemen
+    given: Joan
+  - family: Rijmen
+    given: Vincent
+  issued:
+  - year: '2000'
+  title: Rijndael for aES
+  container-title: AES candidate conference
+  page: '343-348'
+
+- id: conf/aes/SchneierKWWF00
+  type: paper-conference
+  author:
+  - family: Schneier
+    given: Bruce
+  - family: Kelsey
+    given: John
+  - family: Whiting
+    given: Doug
+  - family: Wagner
+    given: David
+  - family: Ferguson
+    given: Niels
+  issued:
+  - year: '2000'
+  title: Comments on twofish as an aES candidate
+  container-title: AES candidate conference
+  page: '355-356'
+
+- id: conf/aes/Osvik00
+  type: paper-conference
+  author:
+  - family: Osvik
+    given: Dag Arne
+  issued:
+  - year: '2000'
+  title: Speeding up serpent
+  container-title: AES candidate conference
+  page: '317-329'
+
+- id: conf/aes/Dray00
+  type: paper-conference
+  author:
+  - family: Dray
+    given: Jim
+  issued:
+  - year: '2000'
+  title: NIST performance analysis of the final round javaTM aES candidates
+  container-title: AES candidate conference
+  page: '149-160'
+
+- id: conf/aes/KelseyS00
+  type: paper-conference
+  author:
+  - family: Kelsey
+    given: John
+  - family: Schneier
+    given: Bruce
+  issued:
+  - year: '2000'
+  title: MARS attacks! Preliminary cryptanalysis of reduced-round mARS variants
+  container-title: AES candidate conference
+  page: '169-185'
+
+- id: conf/aes/SatohOTD00
+  type: paper-conference
+  author:
+  - family: Satoh
+    given: Akashi
+  - family: Ooba
+    given: Nobuyuki
+  - family: Takano
+    given: Kohji
+  - family: D’Avignon
+    given: Edward
+  issued:
+  - year: '2000'
+  title: High-speed mARS hardware
+  container-title: AES candidate conference
+  page: '305-316'
+
+- id: conf/aes/AndersonBK00
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Ross J.
+  - family: Biham
+    given: Eli
+  - family: Knudsen
+    given: Lars R.
+  issued:
+  - year: '2000'
+  title: The case for serpent
+  container-title: AES candidate conference
+  page: '349-354'
+
+- id: conf/aes/GilbertM00
+  type: paper-conference
+  author:
+  - family: Gilbert
+    given: Henri
+  - family: Minier
+    given: Marine
+  issued:
+  - year: '2000'
+  title: A collision attack on 7 rounds of rijndael
+  container-title: AES candidate conference
+  page: '230-241'
+
+- id: conf/aes/BihamF00
+  type: paper-conference
+  author:
+  - family: Biham
+    given: Eli
+  - family: Furman
+    given: Vladimir
+  issued:
+  - year: '2000'
+  title: Impossible differential on 8-round mARS’ core
+  container-title: AES candidate conference
+  page: '186-194'
+
+- id: conf/aes/WollingerWGP00
+  type: paper-conference
+  author:
+  - family: Wollinger
+    given: Thomas J.
+  - family: Wang
+    given: Min
+  - family: Guajardo
+    given: Jorge
+  - family: Paar
+    given: Christof
+  issued:
+  - year: '2000'
+  title: How well are high-end dSPs suited for the aES algorithms? AES algorithms
+    on the tMS320C6x dSP
+  container-title: AES candidate conference
+  page: '94-105'
+
+- id: conf/aes/SugitaKUKI00
+  type: paper-conference
+  author:
+  - family: Sugita
+    given: Makoto
+  - family: Kobara
+    given: Kazukuni
+  - family: Uehara
+    given: Kazuhiro
+  - family: Kubota
+    given: Shuji
+  - family: Imai
+    given: Hideki
+  issued:
+  - year: '2000'
+  title: Relationships among differential, truncated differential, impossible differential
+    cryptanalyses against word-oriented block ciphers like rIJNDAEL, e2
+  container-title: AES candidate conference
+  page: '242-254'
+
+- id: conf/aes/PramstallerMDW04
+  type: paper-conference
+  author:
+  - family: Pramstaller
+    given: Norbert
+  - family: Mangard
+    given: Stefan
+  - family: Dominikus
+    given: Sandra
+  - family: Wolkerstorfer
+    given: Johannes
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Efficient aES implementations on aSICs and fPGAs
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-112'
+  volume: '3373'
+  DOI: 10.1007/11506447_9
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/CoppersmithGHJMPSZ00
+  type: paper-conference
+  author:
+  - family: Coppersmith
+    given: Don
+  - family: Gennaro
+    given: Rosario
+  - family: Halevi
+    given: Shai
+  - family: Jutla
+    given: Charanjit S.
+  - family: Matyas
+    given: Stephen M.
+  - family: Peyravian
+    given: Mohammad
+  - family: Safford
+    given: David
+  - family: Zunic
+    given: Nevenko
+  issued:
+  - year: '2000'
+  title: IBM comments
+  container-title: AES candidate conference
+  page: '333-336'
+
+- id: conf/aes/Bassham00
+  type: paper-conference
+  author:
+  - family: III
+    given: Lawrence E. Bassham
+  issued:
+  - year: '2000'
+  title: Efficiency testing of aNSI c implementations of round 2 candidate algorithms
+    for the advanced encryption standard
+  container-title: AES candidate conference
+  page: '136-148'
+
+- id: conf/aes/Giraud04
+  type: paper-conference
+  author:
+  - family: Giraud
+    given: Christophe
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: DFA on aES
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-41'
+  volume: '3373'
+  DOI: 10.1007/11506447_4
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/RijmenO04
+  type: paper-conference
+  author:
+  - family: Rijmen
+    given: Vincent
+  - family: Oswald
+    given: Elisabeth
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: Representations and rijndael descriptions
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-158'
+  volume: '3373'
+  DOI: 10.1007/11506447_13
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/ElbirtYCP00
+  type: paper-conference
+  author:
+  - family: Elbirt
+    given: Adam J.
+  - family: Yip
+    given: W.
+  - family: Chetwynd
+    given: B.
+  - family: Paar
+    given: Christof
+  issued:
+  - year: '2000'
+  title: An fPGA implementation and performance evaluation of the aES block cipher
+    candidate algorithm finalists
+  container-title: AES candidate conference
+  page: '13-27'
+
+- id: conf/aes/Biryukov04
+  type: paper-conference
+  author:
+  - family: Biryukov
+    given: Alex
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2004'
+  title: The boomerang attack on 5 and 6-round reduced aES
+  container-title: AES conference
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-15'
+  volume: '3373'
+  DOI: 10.1007/11506447_2
+  ISBN: '3-540-26557-0'
+
+- id: conf/aes/2004
+  type: book
+  editor:
+  - family: Dobbertin
+    given: Hans
+  issued:
+  - year: '2005'
+  title: Advanced encryption standard - aES, 4th international conference, aES 2004,
+    bonn, germany, may 10-12, 2004, revised selected and invited papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3373'
+  ISBN: '3-540-26557-0'
+...

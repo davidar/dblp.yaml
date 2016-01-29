@@ -1,0 +1,715 @@
+---
+references:
+- id: books/ms/Geiger95
+  type: book
+  author:
+  - family: Geiger
+    given: Kyle
+  issued:
+  - year: '1995'
+  title: Inside oDBC
+  publisher: Microsoft Press
+  ISBN: '1-55615-815-7'
+
+- id: books/ms/Rogerson97
+  type: book
+  author:
+  - family: Rogerson
+    given: Dale
+  issued:
+  - year: '1997'
+  title: Inside cOM
+  publisher: Microsoft Press
+  ISBN: '1-57231-349-8'
+
+- id: books/ms/4paradigm09
+  type: book
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'The fourth paradigm: Data-intensive scientific discovery'
+  title-short: The fourth paradigm
+  publisher: Microsoft Research
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Hannay09
+  type: chapter
+  author:
+  - family: Hannay
+    given: Timo
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: From web 2.0 to the global database
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '215-220'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_hannay.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/HeyTT09a
+  type: chapter
+  author:
+  - family: Hey
+    given: Tony
+  - family: Tansley
+    given: Stewart
+  - family: Tolle
+    given: Kristin M.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Conclusions and next steps
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '227-230'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_conclusion.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/GoodmanW09
+  type: chapter
+  author:
+  - family: Goodman
+    given: Alyssa
+  - family: Wong
+    given: Curtis
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Bringing the night sky closer: Discoveries in the data deluge'
+  title-short: Bringing the night sky closer
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '39-44'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_goodman_wong.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/LichtmanRPC09
+  type: chapter
+  author:
+  - family: Lichtman
+    given: Jeff W.
+  - family: Reid
+    given: R. Clay
+  - family: Pfister
+    given: Hanspeter
+  - family: Cohen
+    given: Michael F.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Discovering the wiring diagram of the brain
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '75-82'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_lichtman_cohen.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Fay09
+  type: chapter
+  author:
+  - family: Fay
+    given: Dan
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Part 1 - introduction
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '3-4'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_overview.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Wilbanks09
+  type: chapter
+  author:
+  - family: Wilbanks
+    given: John
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: I have seen the paradigm shift, and it is us
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '209-214'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_wilbanks.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/HuntBI09
+  type: chapter
+  author:
+  - family: Hunt
+    given: James R.
+  - family: Baldocchi
+    given: Dennis D.
+  - family: Ingen
+    given: Catharine
+    dropping-particle: van
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Redefining ecological science using data
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '21-26'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_van_ingen.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/LarusG09
+  type: chapter
+  author:
+  - family: Larus
+    given: James R.
+  - family: Gannon
+    given: Dennis
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Multicore computing and scientific discovery
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '125-129'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_larus_gannon.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Dirks09
+  type: chapter
+  author:
+  - family: Dirks
+    given: Lee
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Part 4 - introduction
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '175-176'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_overview.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Lynch09
+  type: chapter
+  author:
+  - family: Lynch
+    given: Clifford A.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Jim gray’s fourth paradigm and the construction of the scientific record
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '177-183'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_lynch.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Mundie09
+  type: chapter
+  author:
+  - family: Mundie
+    given: Craig J.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: The way forward
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '223-226'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_craig_mundie_afterword.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/FitzgeraldFP09
+  type: chapter
+  author:
+  - family: Fitzgerald
+    given: Anne
+  - family: Fitzgerald
+    given: Brian
+  - family: Pappalardo
+    given: Kylie
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: The future of data policy
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '201-208'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_fitzgerald.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/RobertsonDTH09
+  type: chapter
+  author:
+  - family: Robertson
+    given: Joel
+  - family: DeHart
+    given: Del
+  - family: Tolle
+    given: Kristin M.
+  - family: Heckerman
+    given: David
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Healthcare delivery in developing countries: Challenges and potential
+    solutions'
+  title-short: Healthcare delivery in developing countries
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '65-73'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_robertson_heckerman.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Green09
+  type: chapter
+  author:
+  - family: Green
+    given: Daron
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Part 3 - introduction
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '109-110'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_overview.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/FoxH09
+  type: chapter
+  author:
+  - family: Fox
+    given: Peter
+  - family: Hendler
+    given: James A.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Semantic escience: Encoding meaning in next-generation digitally enhanced
+    science'
+  title-short: Semantic escience
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '147-152'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_fox_hendler.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/HeyTT09
+  type: chapter
+  author:
+  - family: Hey
+    given: Tony
+  - family: Tansley
+    given: Stewart
+  - family: Tolle
+    given: Kristin M.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Jim gray on eScience: A transformed scientific method'
+  title-short: Jim gray on eScience
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_jim_gray_transcript.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/LehningDBPNZ09
+  type: chapter
+  author:
+  - family: Lehning
+    given: Michael
+  - family: Dawes
+    given: Nicholas
+  - family: Bavay
+    given: Mathias
+  - family: Parlange
+    given: Marc
+  - family: Nath
+    given: Suman
+  - family: Zhao
+    given: Feng
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Instrumenting the earth: Next-generation sensor networks and environmental
+    science'
+  title-short: Instrumenting the earth
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '45-51'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_lehning.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Abbott09
+  type: chapter
+  author:
+  - family: Abbott
+    given: Mark R.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: A new path for science?
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '111-116'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_abbott.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Mercer09
+  type: chapter
+  author:
+  - family: Mercer
+    given: Simon
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Part 2 - introduction
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '55-56'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_overview.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Bell09
+  type: chapter
+  author:
+  - family: Bell
+    given: Gordon
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Foreword
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_gordon_bell_foreword.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/HansenJPS09
+  type: chapter
+  author:
+  - family: Hansen
+    given: Charles D.
+  - family: Johnson
+    given: Chris R.
+  - family: Pascucci
+    given: Valerio
+  - family: Silva
+    given: Cláudio T.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Visualization for data-intensive science
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '153-163'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_hansen_johnson.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/SouthanC09
+  type: chapter
+  author:
+  - family: Southan
+    given: Christopher
+  - family: Cameron
+    given: Graham
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Beyond the tsunami: Developing the infrastructure to deal with life sciences
+    data'
+  title-short: Beyond the tsunami
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '117-123'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_southan_cameron.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/DozierG09
+  type: chapter
+  author:
+  - family: Dozier
+    given: Jeff
+  - family: Gail
+    given: William B.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: The emerging science of environmental applications
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '13-19'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_dozier_gail.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/GillamFHMSPSD09
+  type: chapter
+  author:
+  - family: Gillam
+    given: Michael
+  - family: Feied
+    given: Craig
+  - family: Handler
+    given: Jonathan
+  - family: Moody
+    given: Eliza
+  - family: Shneiderman
+    given: Ben
+  - family: Plaisant
+    given: Catherine
+  - family: Smith
+    given: Mark S.
+  - family: Dickason
+    given: John
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: The healthcare singularity and the age of semantic medicine
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '57-64'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_gillam.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Parastatidis09
+  type: chapter
+  author:
+  - family: Parastatidis
+    given: Savas
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'A platform for all that we know: Creating a knowledge-driven research
+    infrastructure'
+  title-short: A platform for all that we know
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '165-172'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_parastatidis.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/CardelliP09
+  type: chapter
+  author:
+  - family: Cardelli
+    given: Luca
+  - family: Priami
+    given: Corrado
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Visualization in process algebra models of biological systems
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '99-105'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_cardelli_priami.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/DelaneyB09
+  type: chapter
+  author:
+  - family: Delaney
+    given: John R.
+  - family: Barga
+    given: Roger S.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: A 2020 vision for ocean science
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '27-38'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_delaney_barga.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/SzalayB09
+  type: chapter
+  author:
+  - family: Szalay
+    given: Alexander S.
+  - family: Blakeley
+    given: José A.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'Gray’s laws: Database-centric computing in science'
+  title-short: Gray’s laws
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '5-11'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_szalay.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/BuchanWB09
+  type: chapter
+  author:
+  - family: Buchan
+    given: Iain E.
+  - family: Winn
+    given: John M.
+  - family: Bishop
+    given: Christopher M.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: A unified modeling approach to data-intensive healthcare
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '91-97'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_buchan.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/GobleR09
+  type: chapter
+  author:
+  - family: Goble
+    given: Carole A.
+  - family: Roure
+    given: David De
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: The impact of workflow tools on data-centric research
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '137-145'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_goble_deroure.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/Ginsparg09
+  type: chapter
+  author:
+  - family: Ginsparg
+    given: Paul
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Text in a data-centric world
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '185-191'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_ginsparg.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/HorvitzK09
+  type: chapter
+  author:
+  - family: Horvitz
+    given: Eric
+  - family: Jr.
+    given: William B. Kristan
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Toward a computational microscope for neurobiology
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '83-89'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part2_horvitz_kristan.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/SompelL09
+  type: chapter
+  author:
+  - family: Sompel
+    given: Herbert Van
+    dropping-particle: de
+  - family: Lagoze
+    given: Carl
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: 'All aboard: Toward a machine-friendly scholarly communication system'
+  title-short: All aboard
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '193-199'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part4_sompel_lagoze.pdf
+  ISBN: '978-0982544204'
+
+- id: books/ms/4paradigm2009/GannonR09
+  type: chapter
+  author:
+  - family: Gannon
+    given: Dennis
+  - family: Reed
+    given: Daniel A.
+  editor:
+  - family: Hey
+    given: Tony
+  issued:
+  - year: '2009'
+  title: Parallelism and the cloud
+  container-title: The fourth paradigm
+  publisher: Microsoft Research
+  page: '131-135'
+  URL: http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_gannon_reed.pdf
+  ISBN: '978-0982544204'
+...

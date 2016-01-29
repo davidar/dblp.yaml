@@ -1,0 +1,774 @@
+---
+references:
+- id: conf/sofl/Yang14
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Xiaoxiao
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Combining separation logic and projection temporal logic to reason about
+    non-blocking concurrency
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-144'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_9
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/LingSK12
+  type: paper-conference
+  author:
+  - family: Ling
+    given: Chung-Ling
+  - family: Shen
+    given: Wuwei
+  - family: Kountanis
+    given: Dionysios
+  issued:
+  - year: '2012'
+  title: Applying sOFL to a generic insulin pump software design
+  container-title: SOFL
+  page: '116-132'
+  DOI: 10.1007/978-3-642-39277-1_9
+
+- id: conf/sofl/WangL12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xi
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2012'
+  title: Development of a supporting tool for formalizing software requirements
+  container-title: SOFL
+  page: '56-70'
+  DOI: 10.1007/978-3-642-39277-1_5
+
+- id: conf/sofl/ZhangL14
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Jinghua
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Development of a software tool to support traceability-based inspection of
+    sOFL specifications
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-46'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_3
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/Chen13
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Yuting
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: 'Checking internal consistency of sOFL specification: A hybrid approach'
+  title-short: Checking internal consistency of sOFL specification
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-191'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_13
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/ZhouSS14
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Yuqin
+  - family: Sugihara
+    given: Taku
+  - family: Sato
+    given: Yuji
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Applying gA with tabu list for automatically generating test cases based
+    on formal specification
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-31'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_2
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/LiuM13
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Pan
+  - family: Miao
+    given: Huaikou
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Theory of test modeling based on regular expressions
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-31'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_2
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/ChenSM14
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Yuting
+  - family: Shi
+    given: Qiuwei
+  - family: Miao
+    given: Weikai
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Incremental points-to analysis for java via edit propagation
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '164-178'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_11
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/YouXHH14
+  type: paper-conference
+  author:
+  - family: You
+    given: Zhen
+  - family: Xue
+    given: Jinyun
+  - family: Hu
+    given: Qimin
+  - family: Hong
+    given: Yi
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Formal semantics of orc based on tLA+
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-163'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_10
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/YanLFFH13
+  type: paper-conference
+  author:
+  - family: Yan
+    given: Lu
+  - family: Li
+    given: Xiaohong
+  - family: Feng
+    given: Ruitao
+  - family: Feng
+    given: Zhiyong
+  - family: Hu
+    given: Jing
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Detection method of the second-order sQL injection in web applications
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-165'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_11
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/2012
+  type: book
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Structured object-oriented formal language and method - second international
+    workshop, sOFL 2012, kyoto, japan, november 13, 2012. revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7787'
+  DOI: 10.1007/978-3-642-39277-1
+  ISBN: '978-3-642-39276-4'
+
+- id: conf/sofl/YangDT14
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Kai
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: A memory management mechanism for mSVL
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-188'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_12
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/LiL14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mo
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Adopting variable dependency in animation for presenting the behaviour of
+    process
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-93'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_6
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/YuDTY12
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Yan
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  - family: Yang
+    given: Mengfei
+  issued:
+  - year: '2012'
+  title: Model checking c programs with mSVL
+  container-title: SOFL
+  page: '87-103'
+  DOI: 10.1007/978-3-642-39277-1_7
+
+- id: conf/sofl/Wen0Y14
+  type: paper-conference
+  author:
+  - family: Wen
+    given: Yunqing
+  - family: '0001'
+    given: Guoqiang Li
+  - family: Yuen
+    given: Shoji
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: An over-approximation forward analysis for nested timed automata
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-80'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_5
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/LiLLN12
+  type: paper-conference
+  author:
+  - family: Li
+    given: Cencen
+  - family: Li
+    given: Mo
+  - family: Liu
+    given: Shaoying
+  - family: Nakajima
+    given: Shin
+  issued:
+  - year: '2012'
+  title: Applying “functional scenario-based” test case generation method in unit
+    testing and integration testing
+  container-title: SOFL
+  page: '1-11'
+  DOI: 10.1007/978-3-642-39277-1_1
+
+- id: conf/sofl/MiaoL13
+  type: paper-conference
+  author:
+  - family: Miao
+    given: Weikai
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Prototype tool for supporting a formal engineering approach to service-based
+    software modeling
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-103'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_7
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/LiuDTL13
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yao
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  - family: Liu
+    given: Bo
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Present-future form of linear time $$\mu$$ -calculus
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-85'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_6
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/WangDZ13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xiaobing
+  - family: Duan
+    given: Zhenhua
+  - family: Zhao
+    given: Liang
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Formalizing and implementing types in mSVL
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-75'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_5
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/ShiDTY13
+  type: paper-conference
+  author:
+  - family: Shi
+    given: Ya
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  - family: Yang
+    given: Hua
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Improved net reductions for lTL $$\setminus$$  x model checking
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-61'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_4
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/NagoyaK12
+  type: paper-conference
+  author:
+  - family: Nagoya
+    given: Fumiko
+  - family: Kitagawa
+    given: Tetsuo
+  issued:
+  - year: '2012'
+  title: An application of sOFL for rapid prototyping
+  container-title: SOFL
+  page: '104-115'
+  DOI: 10.1007/978-3-642-39277-1_8
+
+- id: conf/sofl/ZhuL13
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Shenghua
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: A supporting tool for syntactic analysis of sOFL formal specifications and
+    automatic generation of functional scenarios
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-117'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_8
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/ZhangL12
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Weihang
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2012'
+  title: Supporting tool for automatic specification-based test case generation
+  container-title: SOFL
+  page: '12-25'
+  DOI: 10.1007/978-3-642-39277-1_2
+
+- id: conf/sofl/YuDT14
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Bin
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Unified bounded model checking for mSVL
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-61'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_4
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/MiaoL12
+  type: paper-conference
+  author:
+  - family: Miao
+    given: Weikai
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2012'
+  title: A formal specification-based integration testing approach
+  container-title: SOFL
+  page: '26-43'
+  DOI: 10.1007/978-3-642-39277-1_3
+
+- id: conf/sofl/LiL13
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mo
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: SOFL specification animation with tool support
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-131'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_9
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/TianLD12
+  type: paper-conference
+  author:
+  - family: Tian
+    given: Cong
+  - family: Liu
+    given: Shaoying
+  - family: Duan
+    given: Zhenhua
+  issued:
+  - year: '2012'
+  title: Abstract model checking with sOFL hierarchy
+  container-title: SOFL
+  page: '71-86'
+  DOI: 10.1007/978-3-642-39277-1_6
+
+- id: conf/sofl/Nakajima14
+  type: paper-conference
+  author:
+  - family: Nakajima
+    given: Shin
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Using alloy in introductory courses of formal methods
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-110'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_7
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/LiuN13
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Shaoying
+  - family: Nakajima
+    given: Shin
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Combining specification-based testing, correctness proof, and inspection
+    for program verification in practice
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-16'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_1
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/SulistionoL13
+  type: paper-conference
+  author:
+  - family: Sulistiono
+    given: Wahyu Eko
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Applying sOFL to constructing a smart traffic light specification
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-174'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_12
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/ChangML14
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Longhui
+  - family: Miao
+    given: Huaikou
+  - family: Lu
+    given: Gongzheng
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: An implementation framework for optimizing test case generation using model
+    checking
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-16'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_1
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/WangL13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xi
+  - family: Liu
+    given: Shaoying
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: An approach to declaring data types for formal specifications
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-153'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_10
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/2013
+  type: book
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Structured object-oriented formal language and method - third international
+    workshop, sOFL+MSVL 2013, queenstown, new zealand, october 29, 2013, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/LuDTL13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Xu
+  - family: Duan
+    given: Zhenhua
+  - family: Tian
+    given: Cong
+  - family: Liu
+    given: Hongjin
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2013'
+  title: Integrating separation logic with pPTL
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-47'
+  volume: '8332'
+  DOI: 10.1007/978-3-319-04915-1_3
+  ISBN: '978-3-319-04914-4'
+
+- id: conf/sofl/XieLLLFF14
+  type: paper-conference
+  author:
+  - family: Xie
+    given: Xiaofei
+  - family: Li
+    given: Xiaohong
+  - family: Liu
+    given: Yang
+  - family: Li
+    given: Li
+  - family: Feng
+    given: Ruitao
+  - family: Feng
+    given: Zhiyong
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2014'
+  title: Automatic verification for later-correspondence of security protocols
+  container-title: SOFL+MSVL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-126'
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4_8
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/2014
+  type: book
+  editor:
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2015'
+  title: Structured object-oriented formal language and method - 4th international
+    workshop, sOFL+MSVL 2014, luxembourg, luxembourg, november 6, 2014, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8979'
+  DOI: 10.1007/978-3-319-17404-4
+  ISBN: '978-3-319-17403-7'
+
+- id: conf/sofl/WangC12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yisheng
+  - family: Chen
+    given: Haopeng
+  issued:
+  - year: '2012'
+  title: Extension on transactional remote services in sOFL
+  container-title: SOFL
+  page: '133-147'
+  DOI: 10.1007/978-3-642-39277-1_10
+
+- id: conf/sofl/LiL12
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mo
+  - family: Liu
+    given: Shaoying
+  issued:
+  - year: '2012'
+  title: Design and implementation of a tool for specifying specification in sOFL
+  container-title: SOFL
+  page: '44-55'
+  DOI: 10.1007/978-3-642-39277-1_4
+...

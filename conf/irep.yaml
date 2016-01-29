@@ -1,0 +1,261 @@
+---
+references:
+- id: conf/irep/BroustautFFIF95
+  type: paper-conference
+  author:
+  - family: Broustaut
+    given: Frédéric
+  - family: Fabre
+    given: Christian
+  - family: Ferrière
+    given: François
+    dropping-particle: de
+  - family: Ivanov
+    given: Éric
+  - family: Fiorentini
+    given: Mauro
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Verification of aNDF components
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '103-110'
+  URL: http://doi.acm.org/10.1145/202529.202540
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/BersonGS95
+  type: paper-conference
+  author:
+  - family: Berson
+    given: David A.
+  - family: Gupta
+    given: Rajiv
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: 'GURRR: A global unified resource requirements representation'
+  title-short: GURRR
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '23-34'
+  URL: http://doi.acm.org/10.1145/202529.202533
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/AubryG95
+  type: paper-conference
+  author:
+  - family: Aubry
+    given: Pascal
+  - family: Gautier
+    given: Thierry
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: 'GC: The data-flow graph format of synchronous programming'
+  title-short: GC
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '83-93'
+  URL: http://doi.acm.org/10.1145/202529.202538
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/LewisDG95
+  type: paper-conference
+  author:
+  - family: Lewis
+    given: Brian T.
+  - family: Deutsch
+    given: L. Peter
+  - family: Goldstein
+    given: Theodore C.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: 'Clarity mCode: A retargetable intermediate representation for compilation'
+  title-short: Clarity mCode
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '119-128'
+  URL: http://doi.acm.org/10.1145/202529.202542
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/OBrienOHSU95
+  type: paper-conference
+  author:
+  - family: O’Brien
+    given: Kevin
+  - family: O’Brien
+    given: Kathryn M.
+  - family: Hopkins
+    given: Martin
+  - family: Shepherd
+    given: Arvin
+  - family: Unrau
+    given: Ronald C.
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: 'XIL and yIL: The intermediate languages of tOBEY'
+  title-short: XIL and yIL
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/202529.202537
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/Steensgaard95
+  type: paper-conference
+  author:
+  - family: Steensgaard
+    given: Bjarne
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Sparse functional stores for imperative programs
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '62-70'
+  URL: http://doi.acm.org/10.1145/202529.202536
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/Gosling95
+  type: paper-conference
+  author:
+  - family: Gosling
+    given: James
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Java intermediate bytecode
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '111-118'
+  URL: http://doi.acm.org/10.1145/202529.202541
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/SreedharGL95
+  type: paper-conference
+  author:
+  - family: Sreedhar
+    given: Vugranam C.
+  - family: Gao
+    given: Guang R.
+  - family: Lee
+    given: Yong-Fong
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Incremental computation of dominator trees
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/202529.202531
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/ClickP95
+  type: paper-conference
+  author:
+  - family: Click
+    given: Cliff
+  - family: Paleczny
+    given: Michael
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: A simple graph-based intermediate representation
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '35-49'
+  URL: http://doi.acm.org/10.1145/202529.202534
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/Kelsey95
+  type: paper-conference
+  author:
+  - family: Kelsey
+    given: Richard
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: A correspondence between continuation passing style and static single assignment
+    form
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '13-23'
+  URL: http://doi.acm.org/10.1145/202529.202532
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/1995
+  type: book
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Proceedings aCM sIGPLAN workshop on intermediate representations (iR’95),
+    san francisco, cA, uSA, january 22, 1995
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=202529
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/ChitnisSO95
+  type: paper-conference
+  author:
+  - family: Chitnis
+    given: Sachin V.
+  - family: Satpathy
+    given: Manoranjan
+  - family: Oberoi
+    given: Sundeep
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Rationalized three instruction machine
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '94-102'
+  URL: http://doi.acm.org/10.1145/202529.202539
+  ISBN: '0-89791-754-5'
+
+- id: conf/irep/Ruf95
+  type: paper-conference
+  author:
+  - family: Ruf
+    given: Erik
+  editor:
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '1995'
+  title: Optimizing sparse representations for dataflow analysis
+  container-title: Intermediate representations workshop
+  publisher: ACM
+  page: '50-61'
+  URL: http://doi.acm.org/10.1145/202529.202535
+  ISBN: '0-89791-754-5'
+...

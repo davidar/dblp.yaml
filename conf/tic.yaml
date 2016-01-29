@@ -1,0 +1,523 @@
+---
+references:
+- id: conf/tic/MorrisettCGW98
+  type: paper-conference
+  author:
+  - family: Morrisett
+    given: J. Gregory
+  - family: Crary
+    given: Karl
+  - family: Glew
+    given: Neal
+  - family: Walker
+    given: David
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Stack-based typed assembly language
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-52'
+  volume: '1473'
+  DOI: 10.1007/BFb0055511
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/GrossmanM00
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Dan
+  - family: Morrisett
+    given: J. Gregory
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Scalable certification for typed assembly language
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-146'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_5
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/DimockWMTWC00
+  type: paper-conference
+  author:
+  - family: Dimock
+    given: Allyn
+  - family: Westmacott
+    given: Ian
+  - family: Muller
+    given: Robert
+  - family: Turbak
+    given: Franklyn A.
+  - family: Wells
+    given: J. B.
+  - family: Considine
+    given: Jeffrey
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Program representation size in an intermediate language with intersection
+    and union types
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-52'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_2
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/1998
+  type: book
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Types in compilation, second international workshop, tIC ’98, kyoto, japan,
+    march 25-27, 1998, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1473'
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Tolmach98
+  type: paper-conference
+  author:
+  - family: Tolmach
+    given: Andrew P.
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Optimizing mL using a hierarchy of monadic types
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-115'
+  volume: '1473'
+  DOI: 10.1007/BFb0055514
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Drossopoulou00
+  type: paper-conference
+  author:
+  - family: Drossopoulou
+    given: Sophia
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: An abstract model of java dynamic linking and loading
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-84'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_3
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/Duggan00
+  type: paper-conference
+  author:
+  - family: Duggan
+    given: Dominic
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Sharing in typed module assembly language
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-116'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_4
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/Fujinami98
+  type: paper-conference
+  author:
+  - family: Fujinami
+    given: Nobuhisa
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Determination of dynamic method dispatches using run-time code generation
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-271'
+  volume: '1473'
+  DOI: 10.1007/BFb0055522
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/AikenFFS98
+  type: paper-conference
+  author:
+  - family: Aiken
+    given: Alexander
+  - family: Fähndrich
+    given: Manuel
+  - family: Foster
+    given: Jeffrey S.
+  - family: Su
+    given: Zhendong
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: A toolkit for constructing type- and constraint-based program analyses
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-96'
+  volume: '1473'
+  DOI: 10.1007/BFb0055513
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/WrightJUH98
+  type: paper-conference
+  author:
+  - family: Wright
+    given: Andrew K.
+  - family: Jagannathan
+    given: Suresh
+  - family: Ungureanu
+    given: Cristian
+  - family: Hertzmann
+    given: Aaron
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: 'Compiling java to a typed lambda-calculus: A preliminary report'
+  title-short: Compiling java to a typed lambda-calculus
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-27'
+  volume: '1473'
+  DOI: 10.1007/BFb0055510
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Elsman98
+  type: paper-conference
+  author:
+  - family: Elsman
+    given: Martin
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Polymorphic equality - no tags required
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-155'
+  volume: '1473'
+  DOI: 10.1007/BFb0055516
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/HosoyaY98
+  type: paper-conference
+  author:
+  - family: Hosoya
+    given: Haruo
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Garbage collection via dynamic type inference - a fomal treatment
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-239'
+  volume: '1473'
+  DOI: 10.1007/BFb0055520
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Crary00
+  type: paper-conference
+  author:
+  - family: Crary
+    given: Karl
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Sound and complete elimination of singleton kinds
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-26'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_1
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/Leroy98
+  type: paper-conference
+  author:
+  - family: Leroy
+    given: Xavier
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Introduction
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '1473'
+  DOI: 10.1007/BFb0055509
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/BalatD98
+  type: paper-conference
+  author:
+  - family: Balat
+    given: Vincent
+  - family: Danvy
+    given: Olivier
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Strong normalization by type-directed partial evaluation and run-time code
+    generation
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '240-252'
+  volume: '1473'
+  DOI: 10.1007/BFb0055521
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/HicksWC00
+  type: paper-conference
+  author:
+  - family: Hicks
+    given: Michael W.
+  - family: Weirich
+    given: Stephanie
+  - family: Crary
+    given: Karl
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Safe and flexible dynamic linking of native code
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-176'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_6
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/ShaoT98
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Zhong
+  - family: Trifonov
+    given: Valery
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Type-directed continuation allocation
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '116-135'
+  volume: '1473'
+  DOI: 10.1007/BFb0055515
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/BernardHL98
+  type: paper-conference
+  author:
+  - family: Bernard
+    given: Andrew
+  - family: Harper
+    given: Robert
+  - family: '0001'
+    given: Peter Lee
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: How generic is a generic black end? Using mLRISC as a black end for the tIL
+    compiler
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-77'
+  volume: '1473'
+  DOI: 10.1007/BFb0055512
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Duggan98
+  type: paper-conference
+  author:
+  - family: Duggan
+    given: Dominic
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: A type-based semantics for user-defined marshalling in polymorphic languages
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-297'
+  volume: '1473'
+  DOI: 10.1007/BFb0055524
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/2000
+  type: book
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2001'
+  title: Types in compilation, third international workshop, tIC 2000, montreal, canada,
+    september 21, 2000, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2071'
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/SahaS98
+  type: paper-conference
+  author:
+  - family: Saha
+    given: Bratin
+  - family: Shao
+    given: Zhong
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Optimal type lifting
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-177'
+  volume: '1473'
+  DOI: 10.1007/BFb0055517
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/WalkerM00
+  type: paper-conference
+  author:
+  - family: Walker
+    given: David
+  - family: Morrisett
+    given: J. Gregory
+  editor:
+  - family: Harper
+    given: Robert
+  issued:
+  - year: '2000'
+  title: Alias types for recursive data structures
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-206'
+  volume: '2071'
+  DOI: 10.1007/3-540-45332-6_7
+  ISBN: '3-540-42196-3'
+
+- id: conf/tic/Thiemann98
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Formalizing resourve allocation in a compiler
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-193'
+  volume: '1473'
+  DOI: 10.1007/BFb0055518
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/GeniusTZ98
+  type: paper-conference
+  author:
+  - family: Genius
+    given: Daniela
+  - family: Trapp
+    given: Martin
+  - family: Zimmermann
+    given: Wolf
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: An approach to improve locality using sandwich types
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-214'
+  volume: '1473'
+  DOI: 10.1007/BFb0055519
+  ISBN: '3-540-64925-5'
+
+- id: conf/tic/Kobayashi98
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Leroy
+    given: Xavier
+  issued:
+  - year: '1998'
+  title: Type-based analysis of concurrent programs
+  container-title: Types in compilation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272'
+  volume: '1473'
+  DOI: 10.1007/BFb0055523
+  ISBN: '3-540-64925-5'
+...

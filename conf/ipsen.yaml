@@ -1,0 +1,591 @@
+---
+references:
+- id: conf/ipsen/96
+  type: book
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Building tightly integrated software development environments: The iPSEN
+    approach'
+  title-short: Building tightly integrated software development environments
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Nagl96
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Overview: Introduction, classification, and global approach'
+  title-short: Overview
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-168'
+  volume: '1170'
+  DOI: 10.1007/BFb0035685
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/HeimannW96
+  type: paper-conference
+  author:
+  - family: Heimann
+    given: Peter
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Realizing management environments and embedding technical environments
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '482-493'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/SchurrWZ96
+  type: paper-conference
+  author:
+  - family: Schürr
+    given: Andy
+  - family: Winter
+    given: Andreas J.
+  - family: Zündorf
+    given: Albert
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Developing tools with the pROGRES environment
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '356-369'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Klein96a
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Peter Klein
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Reuse in the central part: The structure of logical and representation
+    documents, parser, and unparser'
+  title-short: Reuse in the central part
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '426-439'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Westfechtel96
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Document type independent tools: Common services for manipulation, layout,
+    and user support'
+  title-short: Document type independent tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-221'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Lefering96
+  type: paper-conference
+  author:
+  - family: Lefering
+    given: Martin
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Realization of incremental integration tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '469-481'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/BehleDKN96
+  type: paper-conference
+  author:
+  - family: Behle
+    given: Anita
+  - family: Deparade
+    given: A.
+  - family: '0002'
+    given: Peter Klein
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specific application environments
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '592-605'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/LeferingKJ96
+  type: paper-conference
+  author:
+  - family: Lefering
+    given: Martin
+  - family: Kohring
+    given: Christine
+  - family: Janning
+    given: Thorsten
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Integration of different perspectives: The requirements engineering environment'
+  title-short: Integration of different perspectives
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-194'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/HeimannKNW96
+  type: paper-conference
+  author:
+  - family: Heimann
+    given: Peter
+  - family: Krapp
+    given: Carl-Arndt
+  - family: Nagl
+    given: Manfred
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: An adaptable and reactive project management environment
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '504-534'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/NaglS96
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Summary and specification lessons learned
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '370-377'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Schurr96
+  type: paper-conference
+  author:
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Introduction to the specification language pROGRES
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '248-279'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Nagl96d
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Conclusion: Summary, evaluation, and vision'
+  title-short: Conclusion
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '619-652'
+  volume: '1170'
+  DOI: 10.1007/BFb0035690
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Nagl96c
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Summary and synergy
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '606-617'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Westfechtel96a
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Integration on coarse-grained level: Tools for managing products, processes,
+    and resources'
+  title-short: Integration on coarse-grained level
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-241'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/LeferingJ96
+  type: paper-conference
+  author:
+  - family: Lefering
+    given: Martin
+  - family: Janning
+    given: Thorsten
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Transition between different working areas: Vertical integration tools'
+  title-short: Transition between different working areas
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-207'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/KleinSZ96
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Peter Klein
+  - family: Schürr
+    given: Andy
+  - family: Zündorf
+    given: Albert
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Generating single document processing tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '440-456'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/EngelsNSW96
+  type: paper-conference
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Nagl
+    given: Manfred
+  - family: Schäfer
+    given: Wilhelm
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Tight integration on one document: The programming environment'
+  title-short: Tight integration on one document
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-177'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/NaglSW96
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  - family: Schürr
+    given: Andy
+  - family: Winter
+    given: Andreas J.
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specification in the large for graph grammars
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '535-555'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/LeferingS96
+  type: paper-conference
+  author:
+  - family: Lefering
+    given: Martin
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specification of integration tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-334'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/SchurrZ96
+  type: paper-conference
+  author:
+  - family: Schürr
+    given: Andy
+  - family: Zündorf
+    given: Albert
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specification of logical documents and tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '297-323'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/BaumannCKR96
+  type: paper-conference
+  author:
+  - family: Baumann
+    given: Roland
+  - family: Cremer
+    given: Katja
+  - family: '0002'
+    given: Peter Klein
+  - family: Radermacher
+    given: Ansgar
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Distributed aspects of integrated systems
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '556-591'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Klein96
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Peter Klein
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'The framework revisited: A more detailed view on the iPSEN architecture'
+  title-short: The framework revisited
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '380-396'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/KieselSW96
+  type: paper-conference
+  author:
+  - family: Kiesel
+    given: Norbert
+  - family: Schürr
+    given: Andy
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'GRAS: A graph-oriented software engineering database system'
+  title-short: GRAS
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '397-425'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Schurr96a
+  type: paper-conference
+  author:
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: The formal background of pROGRES
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '280-296'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Nagl96a
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: 'Summary of tools: Variety, uI characteristics, and flexibility'
+  title-short: Summary of tools
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '242-245'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Nagl96b
+  type: paper-conference
+  author:
+  - family: Nagl
+    given: Manfred
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Summary and reuse
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '494-501'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Westfechtel96b
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specification of the management of products, processes, and reseources
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '335-355'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+
+- id: conf/ipsen/Kohring96
+  type: paper-conference
+  author:
+  - family: Kohring
+    given: Christine
+  editor:
+  - family: Nagl
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Execution tools within environments
+  container-title: IPSEN book
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '457-468'
+  volume: '1170'
+  ISBN: '3-540-61985-2'
+...

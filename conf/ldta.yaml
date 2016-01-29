@@ -1,0 +1,765 @@
+---
+references:
+- id: conf/ldta/LinckeS12
+  type: paper-conference
+  author:
+  - family: Lincke
+    given: Daniel
+  - family: Schupp
+    given: Sibylle
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: 'From hOT to cOOL: Transforming higher-order typed languages to concept-constrained
+    object-oriented languages'
+  title-short: From hOT to cOOL
+  container-title: LDTA
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2427048.2427051
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/HoldermansH10
+  type: paper-conference
+  author:
+  - family: Holdermans
+    given: Stefan
+  - family: Hage
+    given: Jurriaan
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: On the rôle of minimal typing derivations in type-driven program transformation
+  container-title: LDTA
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1868281.1868283
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/JongeV12
+  type: paper-conference
+  author:
+  - family: Jonge
+    given: Maartje
+    dropping-particle: de
+  - family: Visser
+    given: Eelco
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: A language generic solution for name binding preservation in refactorings
+  container-title: LDTA
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2427048.2427050
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/BrabrandW11
+  type: paper-conference
+  author:
+  - family: Brabrand
+    given: Claus
+  - family: Wyk
+    given: Eric Van
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Preface
+  container-title: LDTA
+  publisher: ACM
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/EconomopoulosF11
+  type: paper-conference
+  author:
+  - family: Economopoulos
+    given: Giorgios Rob
+  - family: '0002'
+    given: Bernd Fischer
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Higher-order transformations with nested concrete syntax
+  container-title: LDTA
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1988783.1988787
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/Bagge10
+  type: paper-conference
+  author:
+  - family: Bagge
+    given: Anya Helene
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Language description for front end implementation
+  container-title: LDTA
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/1868281.1868290
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/Freudenthal10
+  type: paper-conference
+  author:
+  - family: Freudenthal
+    given: Margus
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Using dSLs for developing enterprise systems
+  container-title: LDTA
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/1868281.1868292
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/JansenPKA10
+  type: paper-conference
+  author:
+  - family: Jansen
+    given: Jan Martin
+  - family: Plasmeijer
+    given: Rinus
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Embedding a web-based workflow management system in a functional language
+  container-title: LDTA
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/1868281.1868288
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/Giavitto10
+  type: paper-conference
+  author:
+  - family: Giavitto
+    given: Jean-Louis
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: A domain specific language for complex natural and artificial systems simulations
+  container-title: LDTA
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1868281.1868282
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/JohnstoneSB11
+  type: paper-conference
+  author:
+  - family: Johnstone
+    given: Adrian
+  - family: Scott
+    given: Elizabeth
+  - family: Brand
+    given: Mark
+    dropping-particle: van den
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: 'LDT: A language definition technique'
+  title-short: LDT
+  container-title: LDTA
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/1988783.1988792
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/Winther12
+  type: paper-conference
+  author:
+  - family: Winther
+    given: Johnni
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Improving precision of generated aSTs
+  container-title: LDTA
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2427048.2427058
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/KlintSV10
+  type: paper-conference
+  author:
+  - family: Klint
+    given: Paul
+  - family: Storm
+    given: Tijs
+    dropping-particle: van der
+  - family: Vinju
+    given: Jurgen J.
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: On the impact of dSL tools on the maintainability of language implementations
+  container-title: LDTA
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/1868281.1868291
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/2012
+  type: book
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: International workshop on language descriptions, tools, and applications,
+    lDTA ’12, tallinn, estonia, march 31 - april 1, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2427048
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/CruzHP10
+  type: paper-conference
+  author:
+  - family: Cruz
+    given: Daniela Carneiro
+    dropping-particle: da
+  - family: Henriques
+    given: Pedro Rangel
+  - family: Pinto
+    given: Jorge Sousa
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: 'GamaSlicer: An online laboratory for program verification and analysis'
+  title-short: GamaSlicer
+  container-title: LDTA
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1868281.1868284
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/2011
+  type: book
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Language descriptions, tools and applications, lDTA 2011, saarbrücken, germany,
+    march 26-27, 2011. proceeding
+  publisher: ACM
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/Zaytsev12
+  type: paper-conference
+  author:
+  - family: Zaytsev
+    given: Vadim
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Notation-parametric grammar recovery
+  container-title: LDTA
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2427048.2427057
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/JorgensenEF11
+  type: paper-conference
+  author:
+  - family: Jorgensen
+    given: Alisdair
+  - family: Economopoulos
+    given: Giorgios Rob
+  - family: '0002'
+    given: Bernd Fischer
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: 'VLex: Visualizing a lexical analyzer generator - tool demonstration'
+  title-short: VLex
+  container-title: LDTA
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/1988783.1988795
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/GiegerichS11
+  type: paper-conference
+  author:
+  - family: Giegerich
+    given: Robert
+  - family: Sauthoff
+    given: Georg
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Yield grammar analysis in the bellman’s gAP compiler
+  container-title: LDTA
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/1988783.1988790
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/GiorgettiMTK10
+  type: paper-conference
+  author:
+  - family: Giorgetti
+    given: Alain
+  - family: Marché
+    given: Claude
+  - family: Tushkanova
+    given: Elena
+  - family: Kouchnarenko
+    given: Olga
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: 'Specifying generic java programs: Two case studies'
+  title-short: Specifying generic java programs
+  container-title: LDTA
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/1868281.1868289
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/JimM11
+  type: paper-conference
+  author:
+  - family: Jim
+    given: Trevor
+  - family: Mandelbaum
+    given: Yitzhak
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Delayed semantic actions in yakker
+  container-title: LDTA
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/1988783.1988791
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/SergeyC11
+  type: paper-conference
+  author:
+  - family: Sergey
+    given: Ilya
+  - family: Clarke
+    given: Dave
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: From type checking by recursive descent to type checking with an abstract
+    machine
+  container-title: LDTA
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1988783.1988785
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/BrandMSH10
+  type: paper-conference
+  author:
+  - family: Brand
+    given: Mark
+    dropping-particle: van den
+  - family: Meer
+    given: A. P.
+    dropping-particle: van der
+  - family: Serebrenik
+    given: Alexander
+  - family: Hofkamp
+    given: Albert T.
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: 'Formally specified type checkers for domain specific languages: Experience
+    report'
+  title-short: Formally specified type checkers for domain specific languages
+  container-title: LDTA
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/1868281.1868293
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/Voigtlander12
+  type: paper-conference
+  author:
+  - family: Voigtländer
+    given: Janis
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Programming language approaches to bidirectional transformation
+  container-title: LDTA
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2427048.2427049
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/MametjanovWL11
+  type: paper-conference
+  author:
+  - family: Mametjanov
+    given: Azamatbek
+  - family: Winter
+    given: Victor L.
+  - family: Lämmel
+    given: Ralf
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: More precise typing of rewrite strategies
+  container-title: LDTA
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1988783.1988786
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/BastenV10
+  type: paper-conference
+  author:
+  - family: Basten
+    given: Hendrikus J. S.
+  - family: Vinju
+    given: Jurgen J.
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Faster ambiguity detection by grammar filtering
+  container-title: LDTA
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1868281.1868286
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/MiddelkoopDS11
+  type: paper-conference
+  author:
+  - family: Middelkoop
+    given: Arie
+  - family: Dijkstra
+    given: Atze
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Stepwise evaluation of attribute grammars
+  container-title: LDTA
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1988783.1988788
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/SoderbergH11
+  type: paper-conference
+  author:
+  - family: Söderberg
+    given: Emma
+  - family: Hedin
+    given: Görel
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: 'Building semantic editors using jastAdd: Tool demonstration'
+  title-short: Building semantic editors using jastAdd
+  container-title: LDTA
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/1988783.1988794
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/StansiferW11
+  type: paper-conference
+  author:
+  - family: Stansifer
+    given: Paul
+  - family: Wand
+    given: Mitchell
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Parsing reflective grammars
+  container-title: LDTA
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/1988783.1988793
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/JohnstoneS10
+  type: paper-conference
+  author:
+  - family: Johnstone
+    given: Adrian
+  - family: Scott
+    given: Elizabeth
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Tear-insert-fold grammars
+  container-title: LDTA
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1868281.1868287
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/PlasmeijerLAM11
+  type: paper-conference
+  author:
+  - family: Plasmeijer
+    given: Rinus
+  - family: Lijnse
+    given: Bas
+  - family: Achten
+    given: Peter
+  - family: Michels
+    given: Steffen
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Getting a grip on tasks that coordinate tasks
+  container-title: LDTA
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1988783.1988784
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/ErdwegGR12
+  type: paper-conference
+  author:
+  - family: Erdweg
+    given: Sebastian
+  - family: Giarrusso
+    given: Paolo G.
+  - family: Rendel
+    given: Tillmann
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Language composition untangled
+  container-title: LDTA
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2427048.2427055
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/BachCMP12
+  type: paper-conference
+  author:
+  - family: Bach
+    given: Jean-Christophe
+  - family: Crégut
+    given: Xavier
+  - family: Moreau
+    given: Pierre-Etienne
+  - family: Pantel
+    given: Marc
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Model transformations with tom
+  container-title: LDTA
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2427048.2427052
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/VieraSD12
+  type: paper-conference
+  author:
+  - family: Viera
+    given: Marcos
+  - family: Swierstra
+    given: S. Doaitse
+  - family: Dijkstra
+    given: Atze
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Grammar fragments fly first-class
+  container-title: LDTA
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2427048.2427053
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/BrabrandM10
+  type: paper-conference
+  author:
+  - family: Brabrand
+    given: Claus
+  - family: Moreau
+    given: Pierre-Etienne
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Preface
+  container-title: LDTA
+  publisher: ACM
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/VieraSM12
+  type: paper-conference
+  author:
+  - family: Viera
+    given: Marcos
+  - family: Swierstra
+    given: S. Doaitse
+  - family: Middelkoop
+    given: Arie
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: 'UUAG meets aspectAG: How to make attribute grammars first-class'
+  title-short: UUAG meets aspectAG
+  container-title: LDTA
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2427048.2427054
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/DominguezP11
+  type: paper-conference
+  author:
+  - family: Domínguez
+    given: Facundo
+  - family: Pardo
+    given: Alberto
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2011'
+  title: Exploiting algebra/coalgebra duality for program fusion extensions
+  container-title: LDTA
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1988783.1988789
+  ISBN: '978-1-4503-0665-2'
+
+- id: conf/ldta/VollebregtKV12
+  type: paper-conference
+  author:
+  - family: Vollebregt
+    given: Tobi
+  - family: Kats
+    given: Lennart C. L.
+  - family: Visser
+    given: Eelco
+  editor:
+  - family: Sloane
+    given: Anthony
+  issued:
+  - year: '2012'
+  title: Declarative specification of template-based textual editors
+  container-title: LDTA
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2427048.2427056
+  ISBN: '978-1-4503-1536-4'
+
+- id: conf/ldta/2010
+  type: book
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Proceedings of the of the tenth workshop on language descriptions, tools
+    and applications, lDTA 2010, paphos, cyprus, march 28-29, 2010 - satellite event
+    of eTAPS
+  publisher: ACM
+  ISBN: '978-1-4503-0063-6'
+
+- id: conf/ldta/CortesiH10
+  type: paper-conference
+  author:
+  - family: Cortesi
+    given: Agostino
+  - family: Halder
+    given: Raju
+  editor:
+  - family: Brabrand
+    given: Claus
+  issued:
+  - year: '2010'
+  title: Dependence condition graph for semantics-based abstract program slicing
+  container-title: LDTA
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1868281.1868285
+  ISBN: '978-1-4503-0063-6'
+...

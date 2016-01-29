@@ -1,0 +1,902 @@
+---
+references:
+- id: conf/safeprocess/ChantheryPRT15
+  type: paper-conference
+  author:
+  - family: Chanthery
+    given: Elodie
+  - family: Pencolé
+    given: Yannick
+  - family: Ribot
+    given: Pauline
+  - family: Travé-Massuyès
+    given: Louise
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'HyDiag: Extended diagnosis and prognosis for hybrid systems'
+  title-short: HyDiag
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '281-284'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper37.pdf
+
+- id: conf/safeprocess/ZhouBFZG15
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Gan
+  - family: Biswas
+    given: Gautam
+  - family: Feng
+    given: Wenquan
+  - family: Zhao
+    given: Hongbo
+  - family: Guan
+    given: XiuMei
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A bayesian framework for fault diagnosis of hybrid linear systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '27-34'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper4.pdf
+
+- id: conf/safeprocess/2015dx
+  type: book
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Proceedings of the 26th international workshop on principles of diagnosis
+    (dX-2015) co-located with 9th iFAC symposium on fault detection, supervision and
+    safety for technical processes (safeprocess 2015), paris, france, august 31 -
+    september 3, 2015
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507
+
+- id: conf/safeprocess/Trave-MassuyesP15
+  type: paper-conference
+  author:
+  - family: Travé-Massuyès
+    given: Louise
+  - family: Pons
+    given: Renaud
+  - family: Ribot
+    given: Pauline
+  - family: Pencolé
+    given: Yannick
+  - family: Jauberthie
+    given: Carine
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Condition-based monitoring and prognosis in an error-bounded framework
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '83-90'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper11.pdf
+
+- id: conf/safeprocess/EickmeyerLGPN15
+  type: paper-conference
+  author:
+  - family: Eickmeyer
+    given: Jens
+  - family: Li
+    given: Peng
+  - family: Givehchi
+    given: Omid
+  - family: Pethig
+    given: Florian
+  - family: Niggemann
+    given: Oliver
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Data driven modeling for system-level condition monitoring on wind power
+    plants
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '43-50'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper6.pdf
+
+- id: conf/safeprocess/MaierNE15
+  type: paper-conference
+  author:
+  - family: Maier
+    given: Alexander
+  - family: Niggemann
+    given: Oliver
+  - family: Eickmeyer
+    given: Jens
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: On the learning of timing behavior for anomaly detection in cyber-physical
+    production systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '217-224'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper28.pdf
+
+- id: conf/safeprocess/NiggemannBKKVB15
+  type: paper-conference
+  author:
+  - family: Niggemann
+    given: Oliver
+  - family: Biswas
+    given: Gautam
+  - family: Kinnebrew
+    given: John S.
+  - family: Khorasgani
+    given: Hamed
+  - family: Volgmann
+    given: Sören
+  - family: Bunte
+    given: Andreas
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Data-driven monitoring of cyber-physical systems leveraging on big data and
+    the internet-of-things for diagnosis and control
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '185-192'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper24.pdf
+
+- id: conf/safeprocess/ShchekotykhinJS15
+  type: paper-conference
+  author:
+  - family: Shchekotykhin
+    given: Kostyantyn M.
+  - family: Jannach
+    given: Dietmar
+  - family: Schmitz
+    given: Thomas
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A divide-and-conquer-method for computing multiple conflicts for diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '3-10'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper1.pdf
+
+- id: conf/safeprocess/FourlasKK15
+  type: paper-conference
+  author:
+  - family: Fourlas
+    given: George
+  - family: Karras
+    given: George C.
+  - family: Kyriakopoulos
+    given: Kostas J.
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Fault tolerant control for a 4-wheel skid steering mobile robot
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '177-184'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper23.pdf
+
+- id: conf/safeprocess/SternKS15
+  type: paper-conference
+  author:
+  - family: Stern
+    given: Roni
+  - family: Kalech
+    given: Meir
+  - family: Shinitzky
+    given: Hilla
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Implementing troubleshooting with batch repair
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '113-118'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper15.pdf
+
+- id: conf/safeprocess/VasquezTSJA15
+  type: paper-conference
+  author:
+  - family: Vasquez
+    given: John William
+  - family: Travé-Massuyès
+    given: Louise
+  - family: Subias
+    given: Audine
+  - family: Jiménez
+    given: Fernando
+  - family: Agudelo
+    given: Carlos
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Chronicle based alarm management in startup and shutdown stages
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '241-246'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper31.pdf
+
+- id: conf/safeprocess/SimonMS15
+  type: paper-conference
+  author:
+  - family: Simón
+    given: Jorge Santos
+  - family: Mühlbacher
+    given: Clemens
+  - family: Steinbauer
+    given: Gerald
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Automatic model generation to diagnose autonomous systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '153-158'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper20.pdf
+
+- id: conf/safeprocess/CosseBPDG15
+  type: paper-conference
+  author:
+  - family: Cossé
+    given: Ronan
+  - family: Berdjag
+    given: Denis
+  - family: Piechowiak
+    given: Sylvain
+  - family: Duvivier
+    given: David
+  - family: Gaurel
+    given: Christian
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Methodology and application of meta-diagnosis on avionics test benches
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '159-166'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper21.pdf
+
+- id: conf/safeprocess/KrokavecFLS15
+  type: paper-conference
+  author:
+  - family: Krokavec
+    given: Dusan
+  - family: Filasová
+    given: Anna
+  - family: Liscinsky
+    given: Pavol
+  - family: Serbák
+    given: Vladimír
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Design of pD observer-based fault estimator using a descriptor approach
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '235-240'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper30.pdf
+
+- id: conf/safeprocess/ElmishaliSK15
+  type: paper-conference
+  author:
+  - family: Elmishali
+    given: Amir
+  - family: Stern
+    given: Roni
+  - family: Kalech
+    given: Meir
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Data-augmented software diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '247-252'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper32.pdf
+
+- id: conf/safeprocess/RouxTL15
+  type: paper-conference
+  author:
+  - family: Roux
+    given: Elisa
+  - family: Travé-Massuyès
+    given: Louise
+  - family: Lann
+    given: Marie-Véronique Le
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Applied multi-layer clustering to the diagnosis of complex agro-systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '19-26'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper3.pdf
+
+- id: conf/safeprocess/Grastien15
+  type: paper-conference
+  author:
+  - family: Grastien
+    given: Alban
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Self-healing as a combination of consistency checks and conformant planning
+    problems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '105-112'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper14.pdf
+
+- id: conf/safeprocess/ZhangDCL15
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Mei
+  - family: Dahhou
+    given: Boutaïeb
+  - family: Cabassud
+    given: Michel
+  - family: Li
+    given: Zetao
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Faults isolation and identification of heat-exchanger/ reactor with parameter
+    uncertainties
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '253-260'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper33.pdf
+
+- id: conf/safeprocess/ChristopherG15
+  type: paper-conference
+  author:
+  - family: Christopher
+    given: Cody James
+  - family: Grastien
+    given: Alban
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Formulating event-based critical observations in diagnostic problems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '119-126'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper16.pdf
+
+- id: conf/safeprocess/WangHZL15
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Jiongqi
+  - family: He
+    given: Zhangming
+  - family: Zhou
+    given: Haiyin
+  - family: Li
+    given: Shuxing
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'A general process model: Application to unanticipated fault diagnosis'
+  title-short: A general process model
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '137-144'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper18.pdf
+
+- id: conf/safeprocess/Pencole15
+  type: paper-conference
+  author:
+  - family: Pencolé
+    given: Yannick
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Random generator of k-diagnosable discrete event systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '277-280'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper36.pdf
+
+- id: conf/safeprocess/HerpsonCF15
+  type: paper-conference
+  author:
+  - family: Herpson
+    given: Cédric
+  - family: Corruble
+    given: Vincent
+  - family: Fallah-Seghrouchni
+    given: Amal El
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'ADS2 : Anytime distributed supervision of distributed systems that face
+    unreliable or costly communication'
+  title-short: ADS2
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '35-42'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper5.pdf
+
+- id: conf/safeprocess/BlesaGJT15
+  type: paper-conference
+  author:
+  - family: Blesa
+    given: Joaquim
+  - family: Gall
+    given: Françoise Le
+  - family: Jauberthie
+    given: Carine
+  - family: Travé-Massuyès
+    given: Louise
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: State estimation and fault detection using box particle filtering with stochastic
+    measurements
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '67-74'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper9.pdf
+
+- id: conf/safeprocess/KoitzW15
+  type: paper-conference
+  author:
+  - family: Koitz
+    given: Roxane
+  - family: Wotawa
+    given: Franz
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: SAT-based abductive diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '167-176'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper22.pdf
+
+- id: conf/safeprocess/IbrahimDS15
+  type: paper-conference
+  author:
+  - family: Ibrahim
+    given: Hassan
+  - family: Dague
+    given: Philippe
+  - family: Simon
+    given: Laurent
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Using incremental sAT for testing diagnosability of distributed dES
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '51-58'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper7.pdf
+
+- id: conf/safeprocess/TraxlerGG15
+  type: paper-conference
+  author:
+  - family: Traxler
+    given: Patrick
+  - family: Gómez
+    given: Pablo
+  - family: Grill
+    given: Tanja
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A robust alternative to correlation networks for identifying faulty systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '11-18'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper2.pdf
+
+- id: conf/safeprocess/DaigleBR15
+  type: paper-conference
+  author:
+  - family: Daigle
+    given: Matthew J.
+  - family: Bregón
+    given: Aníbal
+  - family: Roychoudhury
+    given: Indranil
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A structural model decomposition framework for hybrid systems diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '201-208'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper26.pdf
+
+- id: conf/safeprocess/CarreraVC15
+  type: paper-conference
+  author:
+  - family: Carrera
+    given: Rolando
+  - family: Verde
+    given: Cristina
+  - family: Cayetano
+    given: Raúl
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A sCADA expansion for leak detection in a pipeline
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '145-152'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper19.pdf
+
+- id: conf/safeprocess/MonrousseauTL15
+  type: paper-conference
+  author:
+  - family: Monrousseau
+    given: Thomas
+  - family: Travé-Massuyès
+    given: Louise
+  - family: Lann
+    given: Marie-Véronique Le
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Processing measure uncertainty into fuzzy classifier
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '269-274'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper35.pdf
+
+- id: conf/safeprocess/MateiGHK15
+  type: paper-conference
+  author:
+  - family: Matei
+    given: Ion
+  - family: Ganguli
+    given: Anurag
+  - family: Honda
+    given: Tomonori
+  - family: Kleer
+    given: Johan
+    dropping-particle: de
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'The case for a hybrid approach to diagnosis: A railway switch'
+  title-short: The case for a hybrid approach to diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '225-234'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper29.pdf
+
+- id: conf/safeprocess/ProvanF15
+  type: paper-conference
+  author:
+  - family: Provan
+    given: Gregory M.
+  - family: Feldman
+    given: Alexander
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: A framework for assessing diagnostics model fidelity
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '127-134'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper17.pdf
+
+- id: conf/safeprocess/ChouirefBAPA15
+  type: paper-conference
+  author:
+  - family: Chouiref
+    given: Houda
+  - family: Boussaid
+    given: Boumedyen
+  - family: Abdelkrim
+    given: Mohamed Naceur
+  - family: Puig
+    given: Vicenç
+  - family: Aubrun
+    given: Christophe
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'LPV subspace identification for robust fault detection using a set-membership
+    approach: Application to the wind turbine benchmark'
+  title-short: LPV subspace identification for robust fault detection using a set-membership
+    approach
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '261-268'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper34.pdf
+
+- id: conf/safeprocess/HondaLESAPI15
+  type: paper-conference
+  author:
+  - family: Honda
+    given: Tomonori
+  - family: Liao
+    given: Linxia
+  - family: Eldardiry
+    given: Hoda
+  - family: Saha
+    given: Bhaskar
+  - family: Abreu
+    given: Rui
+  - family: Pavel
+    given: Radu
+  - family: Iverson
+    given: Jonathan
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Device health estimation by combining contextual control information with
+    sensor data
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '209-216'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper27.pdf
+
+- id: conf/safeprocess/BregonGP15
+  type: paper-conference
+  author:
+  - family: Bregón
+    given: Aníbal
+  - family: González
+    given: Carlos Alonso
+  - family: Pulido
+    given: Belarmino
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Improving fault isolation and identification for hybrid systems with hybrid
+    possible conflicts
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '59-66'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper8.pdf
+
+- id: conf/safeprocess/PuigO15
+  type: paper-conference
+  author:
+  - family: Puig
+    given: Vicenç
+  - family: Ocampo-Martinez
+    given: Carlos
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'Decentralised fault diagnosis of large-scale systems: Application to water
+    transport networks'
+  title-short: Decentralised fault diagnosis of large-scale systems
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '99-104'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper13.pdf
+
+- id: conf/safeprocess/AbreuBEFHHKPAB15
+  type: paper-conference
+  author:
+  - family: Abreu
+    given: Rui
+  - family: Bobrow
+    given: Daniel G.
+  - family: Eldardiry
+    given: Hoda
+  - family: Feldman
+    given: Alexander
+  - family: Hanley
+    given: John
+  - family: Honda
+    given: Tomonori
+  - family: Kleer
+    given: Johan
+    dropping-particle: de
+  - family: Perez
+    given: Alexandre
+  - family: Archer
+    given: Dave
+  - family: Burke
+    given: David
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'Diagnosing advanced persistent threats: A position paper'
+  title-short: Diagnosing advanced persistent threats
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '193-200'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper25.pdf
+
+- id: conf/safeprocess/GrigoleitS15
+  type: paper-conference
+  author:
+  - family: Grigoleit
+    given: Florian
+  - family: Struss
+    given: Peter
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: 'Configuration as diagnosis: Generating configurations with conflict-directed
+    a\* - an application to training plan generation -'
+  title-short: Configuration as diagnosis
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '91-98'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper12.pdf
+
+- id: conf/safeprocess/KhorasganiBJ15
+  type: paper-conference
+  author:
+  - family: Khorasgani
+    given: Hamed
+  - family: Biswas
+    given: Gautam
+  - family: Jung
+    given: Daniel E.
+  editor:
+  - family: Pencolé
+    given: Yannick
+  issued:
+  - year: '2015'
+  title: Minimal structurally overdetermined sets selection for distributed fault
+    detection
+  container-title: DX@Safeprocess
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  page: '75-82'
+  volume: '1507'
+  URL: http://ceur-ws.org/Vol-1507/dx15paper10.pdf
+...

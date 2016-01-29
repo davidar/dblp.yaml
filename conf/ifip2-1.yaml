@@ -1,0 +1,530 @@
+---
+references:
+- id: conf/ifip2-1/GregorS02
+  type: paper-conference
+  author:
+  - family: Gregor
+    given: Douglas
+  - family: Schupp
+    given: Sibylle
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Making the usage of sTL safe
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '127-140'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/X02
+  type: paper-conference
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: 'Discussion: The role of types in generic programming'
+  title-short: Discussion
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '121-126'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/PettorossiP93
+  type: paper-conference
+  author:
+  - family: Pettorossi
+    given: Alberto
+  - family: Proietti
+    given: Maurizio
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Rules and strategies for program transformation
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-304'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_23
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/ClarkeL02
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: Dave
+  - family: Löh
+    given: Andres
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Generic haskell, specifically
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '21-47'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/SwierstraM93
+  type: paper-conference
+  author:
+  - family: Swierstra
+    given: S. Doaitse
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Virtual data structures
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355-371'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_26
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/SengGS02
+  type: paper-conference
+  author:
+  - family: Seng
+    given: Olaf
+  - family: Genssler
+    given: Thomas
+  - family: Schulz
+    given: Benedikt
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Adaptive extensions of object-oriented systems
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '171-186'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/AllenCS02
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Eric E.
+  - family: Cartwright
+    given: Robert
+  - family: Stoler
+    given: Brian
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Efficient implementation of run-time generic types for java
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '207-236'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/Pardo02
+  type: paper-conference
+  author:
+  - family: Pardo
+    given: Alberto
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Generic accumulations
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '49-78'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/1993
+  type: book
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Formal program development - iFIP tC2/WG 2.1 state-of-the-art report
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '755'
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/MollerPS93
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  - family: Partsch
+    given: Helmuth
+  - family: Schuman
+    given: Stephen A.
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Introduction
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-6'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_14
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/KlostermeyerMS02
+  type: paper-conference
+  author:
+  - family: Klostermeyer
+    given: William
+  - family: Musser
+    given: David R.
+  - family: Sánchez-Ruíz
+    given: Arturo J.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Complete traversals as general iteration patterns
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '187-206'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/X02a
+  type: paper-conference
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: 'Discussion: Views of genericity'
+  title-short: Discussion
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '237-242'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/AltenkirchM02
+  type: paper-conference
+  author:
+  - family: Altenkirch
+    given: Thorsten
+  - family: McBride
+    given: Conor
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Generic programming within dependently typed programming
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '1-20'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/Pepper93
+  type: paper-conference
+  author:
+  - family: Pepper
+    given: Peter
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Program development in an algebraic setting
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '225-262'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_22
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/BurtonGMH02
+  type: paper-conference
+  author:
+  - family: Burton
+    given: Michael C.
+  - family: Griswold
+    given: William G.
+  - family: McCulloch
+    given: Andrew D.
+  - family: Huber
+    given: Gary A.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Static data structures
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '141-169'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/Morgan93
+  type: paper-conference
+  author:
+  - family: Morgan
+    given: Carroll
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: The refinement calculus, and literate development
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-182'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_20
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Partsch93
+  type: paper-conference
+  author:
+  - family: Partsch
+    given: Helmuth
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Formal problem specification on an algebraic basis
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-224'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_21
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Smith93
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Douglas R.
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Automating the design of algorithm
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-354'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_25
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/2002
+  type: book
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2003'
+  title: Generic programming, iFIP tC2/WG2.1 working conference on generic programming,
+    july 11-12, 2002, dagstuhl, germany
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/Sintzoff93
+  type: paper-conference
+  author:
+  - family: Sintzoff
+    given: Michel
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Endomorphic typing
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-323'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_24
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/BackhouseH93
+  type: paper-conference
+  author:
+  - family: Backhouse
+    given: Roland Carl
+  - family: Hoogendijk
+    given: Paul F.
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Elements of a relational theory of datatypes
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '7-42'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_15
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/BoyleH93
+  type: paper-conference
+  author:
+  - family: Boyle
+    given: James M.
+  - family: Harmer
+    given: Terence J.
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: 'Practical transformation of functional programs for efficient execution:
+    A case study'
+  title-short: Practical transformation of functional programs for efficient execution
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-88'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_17
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Feather93
+  type: paper-conference
+  author:
+  - family: Feather
+    given: Martin S.
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Behavior-oriented specification in gist
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-122'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_18
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Moller93
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: Derivation of graph and pointer algorithms
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-160'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_19
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Boute02
+  type: paper-conference
+  author:
+  - family: Boute
+    given: Raymond T.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: Concrete generic functionals
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '89-119'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+
+- id: conf/ifip2-1/BirdM93
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Richard S.
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  editor:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1993'
+  title: From dynamic programming to greedy algorithms
+  container-title: Formal program development
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-61'
+  volume: '755'
+  DOI: 10.1007/3-540-57499-9_16
+  ISBN: '3-540-57499-9'
+
+- id: conf/ifip2-1/Curtis02
+  type: paper-conference
+  author:
+  - family: Curtis
+    given: Sharon A.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2002'
+  title: A generic algorithm for minimum chain partitioning
+  container-title: Generic programming
+  collection-title: IFIP conference proceedings
+  publisher: Kluwer
+  page: '79-88'
+  volume: '243'
+  ISBN: '1-4020-7374-7'
+...

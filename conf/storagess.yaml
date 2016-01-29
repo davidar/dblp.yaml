@@ -1,0 +1,988 @@
+---
+references:
+- id: conf/storagess/TraegerTZ07
+  type: paper-conference
+  author:
+  - family: Traeger
+    given: Avishay
+  - family: Thangavelu
+    given: Kumar
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: Round-trip privacy with nfsv4
+  container-title: StorageSS
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/1314313.1314315
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/CurtmolaKB08
+  type: paper-conference
+  author:
+  - family: Curtmola
+    given: Reza
+  - family: Khan
+    given: Osama
+  - family: Burns
+    given: Randal C.
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Robust remote data checking
+  container-title: StorageSS
+  publisher: ACM
+  page: '63-68'
+  URL: http://doi.acm.org/10.1145/1456469.1456481
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/StorerGLM08
+  type: paper-conference
+  author:
+  - family: Storer
+    given: Mark W.
+  - family: Greenan
+    given: Kevin M.
+  - family: Long
+    given: Darrell D. E.
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Secure data deduplication
+  container-title: StorageSS
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1456469.1456471
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/Wilcox-OHearnW08
+  type: paper-conference
+  author:
+  - family: Wilcox-O’Hearn
+    given: Zooko
+  - family: Warner
+    given: Brian
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: 'Tahoe: The least-authority filesystem'
+  title-short: Tahoe
+  container-title: StorageSS
+  publisher: ACM
+  page: '21-26'
+  URL: http://doi.acm.org/10.1145/1456469.1456474
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/GreenanMSL07
+  type: paper-conference
+  author:
+  - family: Greenan
+    given: Kevin M.
+  - family: Miller
+    given: Ethan L.
+  - family: Schwarz
+    given: Thomas J. E.
+  - family: Long
+    given: Darrell D. E.
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: 'Disaster recovery codes: Increasing reliability with large-stripe erasure
+    correcting codes'
+  title-short: Disaster recovery codes
+  container-title: StorageSS
+  publisher: ACM
+  page: '31-36'
+  URL: http://doi.acm.org/10.1145/1314313.1314322
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/VijayasankarSSZ07
+  type: paper-conference
+  author:
+  - family: Vijayasankar
+    given: Kiron
+  - family: Sivathanu
+    given: Gopalan
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: Exploiting type-awareness in a self-recovering disk
+  container-title: StorageSS
+  publisher: ACM
+  page: '25-30'
+  URL: http://doi.acm.org/10.1145/1314313.1314321
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/SivathanuWZ05
+  type: paper-conference
+  author:
+  - family: Sivathanu
+    given: Gopalan
+  - family: Wright
+    given: Charles P.
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'Ensuring data integrity in storage: Techniques and applications'
+  title-short: Ensuring data integrity in storage
+  container-title: StorageSS
+  publisher: ACM
+  page: '26-36'
+  URL: http://doi.acm.org/10.1145/1103780.1103784
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/HasanYM05
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Ragib
+  - family: Yurcik
+    given: William
+  - family: Myagmar
+    given: Suvda
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'The evolution of storage service providers: Techniques and challenges
+    to outsourcing storage'
+  title-short: The evolution of storage service providers
+  container-title: StorageSS
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1103780.1103782
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/WozniakBT06
+  type: paper-conference
+  author:
+  - family: Wozniak
+    given: Justin M.
+  - family: Brenner
+    given: Paul
+  - family: Thain
+    given: Douglas
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Access control for a replica management database
+  container-title: StorageSS
+  publisher: ACM
+  page: '41-46'
+  URL: http://doi.acm.org/10.1145/1179559.1179567
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/Crescenzo05
+  type: paper-conference
+  author:
+  - family: Crescenzo
+    given: Giovanni Di
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Security of erasable memories against adaptive adversaries
+  container-title: StorageSS
+  publisher: ACM
+  page: '115-122'
+  URL: http://doi.acm.org/10.1145/1103780.1103798
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/LiuNSRM06
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Xiaotao
+  - family: Niv
+    given: Gal
+  - family: Shenoy
+    given: Prashant J.
+  - family: Ramakrishnan
+    given: K. K.
+  - family: Merwe
+    given: Jacobus E.
+    dropping-particle: van der
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: The case for semantic aware remote replication
+  container-title: StorageSS
+  publisher: ACM
+  page: '79-84'
+  URL: http://doi.acm.org/10.1145/1179559.1179575
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/MitraW06
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Soumyadeb
+  - family: Winslett
+    given: Marianne
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Secure deletion from inverted indexes on compliance storage
+  container-title: StorageSS
+  publisher: ACM
+  page: '67-72'
+  URL: http://doi.acm.org/10.1145/1179559.1179572
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/HasanMLY05
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Ragib
+  - family: Myagmar
+    given: Suvda
+  - family: Lee
+    given: Adam J.
+  - family: Yurcik
+    given: William
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Toward a threat model for storage systems
+  container-title: StorageSS
+  publisher: ACM
+  page: '94-102'
+  URL: http://doi.acm.org/10.1145/1103780.1103795
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/JoukovKSZ05
+  type: paper-conference
+  author:
+  - family: Joukov
+    given: Nikolai
+  - family: Kashyap
+    given: Aditya
+  - family: Sivathanu
+    given: Gopalan
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: An electric fence for kernel buffers
+  container-title: StorageSS
+  publisher: ACM
+  page: '37-43'
+  URL: http://doi.acm.org/10.1145/1103780.1103786
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/TroncosoCP08
+  type: paper-conference
+  author:
+  - family: Troncoso
+    given: Carmela
+  - family: Cock
+    given: Danny De
+  - family: Preneel
+    given: Bart
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Improving secure long-term archival of digitally signed documents
+  container-title: StorageSS
+  publisher: ACM
+  page: '27-36'
+  URL: http://doi.acm.org/10.1145/1456469.1456476
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/JoukovPZ06
+  type: paper-conference
+  author:
+  - family: Joukov
+    given: Nikolai
+  - family: Papaxenopoulos
+    given: Harry
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Secure deletion myths, issues, and solutions
+  container-title: StorageSS
+  publisher: ACM
+  page: '61-66'
+  URL: http://doi.acm.org/10.1145/1179559.1179571
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/2008
+  type: book
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Proceedings of the 2008 aCM workshop on storage security and survivability,
+    storageSS 2008, alexandria, vA, uSA, october 31, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/DiesburgMLW08
+  type: paper-conference
+  author:
+  - family: Diesburg
+    given: Sarah M.
+  - family: Meyers
+    given: Christopher R.
+  - family: Lary
+    given: David M.
+  - family: Wang
+    given: An-I Andy
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: When cryptography meets storage
+  container-title: StorageSS
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1456469.1456472
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/TraegerJSZ06
+  type: paper-conference
+  author:
+  - family: Traeger
+    given: Avishay
+  - family: Joukov
+    given: Nikolai
+  - family: Sipek
+    given: Josef
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Using free web storage for data backup
+  container-title: StorageSS
+  publisher: ACM
+  page: '73-78'
+  URL: http://doi.acm.org/10.1145/1179559.1179574
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/JammalamadakaMV05
+  type: paper-conference
+  author:
+  - family: Jammalamadaka
+    given: Ravi Chandra
+  - family: Mehrotra
+    given: Sharad
+  - family: Venkatasubramanian
+    given: Nalini
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'Pvault: A client server system providing mobile access to personal data'
+  title-short: Pvault
+  container-title: StorageSS
+  publisher: ACM
+  page: '123-129'
+  URL: http://doi.acm.org/10.1145/1103780.1103799
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/2005
+  type: book
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Proceedings of the 2005 aCM workshop on storage security and survivability,
+    storageSS 2005, fairfax, vA, uSA, november 11, 2005
+  publisher: ACM
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/GolleCS08
+  type: paper-conference
+  author:
+  - family: Golle
+    given: Philippe
+  - family: Chow
+    given: Richard
+  - family: Staddon
+    given: Jessica
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Testable commitments
+  container-title: StorageSS
+  publisher: ACM
+  page: '37-42'
+  URL: http://doi.acm.org/10.1145/1456469.1456477
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/BurnsPAB05
+  type: paper-conference
+  author:
+  - family: Burns
+    given: Randal C.
+  - family: Peterson
+    given: Zachary N. J.
+  - family: Ateniese
+    given: Giuseppe
+  - family: Bono
+    given: Stephen
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Verifiable audit trails for a versioning file system
+  container-title: StorageSS
+  publisher: ACM
+  page: '44-50'
+  URL: http://doi.acm.org/10.1145/1103780.1103787
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/HeitzmannPPT08
+  type: paper-conference
+  author:
+  - family: Heitzmann
+    given: Alexander
+  - family: Palazzi
+    given: Bernardo
+  - family: Papamanthou
+    given: Charalampos
+  - family: Tamassia
+    given: Roberto
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Efficient integrity checking of untrusted network storage
+  container-title: StorageSS
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/1456469.1456479
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/HasanSW07
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Ragib
+  - family: Sion
+    given: Radu
+  - family: Winslett
+    given: Marianne
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: 'Introducing secure provenance: Problems and challenges'
+  title-short: Introducing secure provenance
+  container-title: StorageSS
+  publisher: ACM
+  page: '13-18'
+  URL: http://doi.acm.org/10.1145/1314313.1314318
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/HasanY06
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Ragib
+  - family: Yurcik
+    given: William
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: A statistical analysis of disclosed storage security breaches
+  container-title: StorageSS
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1179559.1179561
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/ChaitanyaBSMV06
+  type: paper-conference
+  author:
+  - family: Chaitanya
+    given: Shiva
+  - family: Butler
+    given: Kevin R. B.
+  - family: Sivasubramaniam
+    given: Anand
+  - family: McDaniel
+    given: Patrick
+  - family: Vilayannur
+    given: Murali
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Design, implementation and evaluation of security in iSCSI-based network
+    storage systems
+  container-title: StorageSS
+  publisher: ACM
+  page: '17-28'
+  URL: http://doi.acm.org/10.1145/1179559.1179564
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/Xu05
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Lihao
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'Hydra: A platform for survivable and secure data storage systems'
+  title-short: Hydra
+  container-title: StorageSS
+  publisher: ACM
+  page: '108-114'
+  URL: http://doi.acm.org/10.1145/1103780.1103797
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/GharaibehAR08
+  type: paper-conference
+  author:
+  - family: Gharaibeh
+    given: Abdullah
+  - family: Al-Kiswany
+    given: Samer
+  - family: Ripeanu
+    given: Matei
+  editor:
+  - family: Kim
+    given: Yongdae
+  issued:
+  - year: '2008'
+  title: Configurable security for scavenged storage systems
+  container-title: StorageSS
+  publisher: ACM
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/1456469.1456480
+  ISBN: '978-1-60558-299-3'
+
+- id: conf/storagess/SwaminathanMSGVHWO07
+  type: paper-conference
+  author:
+  - family: Swaminathan
+    given: Ashwin
+  - family: Mao
+    given: Yinian
+  - family: Su
+    given: Guan-Ming
+  - family: Gou
+    given: Hongmei
+  - family: Varna
+    given: Avinash L.
+  - family: '0002'
+    given: Shan He
+  - family: '0001'
+    given: Min Wu
+  - family: Oard
+    given: Douglas W.
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: Confidentiality-preserving rank-ordered search
+  container-title: StorageSS
+  publisher: ACM
+  page: '7-12'
+  URL: http://doi.acm.org/10.1145/1314313.1314316
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/SchnitzerJH05
+  type: paper-conference
+  author:
+  - family: Schnitzer
+    given: Sabre A.
+  - family: Johnson
+    given: Robert A.
+  - family: Hoyt
+    given: Henry
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Secured storage using secureParserTM
+  container-title: StorageSS
+  publisher: ACM
+  page: '135-140'
+  URL: http://doi.acm.org/10.1145/1103780.1103801
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/BairavasundaramRAA06
+  type: paper-conference
+  author:
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Rungta
+    given: Meenali
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Limiting trust in the storage stack
+  container-title: StorageSS
+  publisher: ACM
+  page: '53-60'
+  URL: http://doi.acm.org/10.1145/1179559.1179569
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/StorerGM06
+  type: paper-conference
+  author:
+  - family: Storer
+    given: Mark W.
+  - family: Greenan
+    given: Kevin M.
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Long-term threats to secure archives
+  container-title: StorageSS
+  publisher: ACM
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/1179559.1179562
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/ParisL06
+  type: paper-conference
+  author:
+  - family: Pâris
+    given: Jehan-François
+  - family: Long
+    given: Darrell D. E.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Using device diversity to protect data against batch-correlated disk failures
+  container-title: StorageSS
+  publisher: ACM
+  page: '47-52'
+  URL: http://doi.acm.org/10.1145/1179559.1179568
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/LeungM06
+  type: paper-conference
+  author:
+  - family: Leung
+    given: Andrew W.
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Scalable security for large, high performance storage systems
+  container-title: StorageSS
+  publisher: ACM
+  page: '29-40'
+  URL: http://doi.acm.org/10.1145/1179559.1179565
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/2006
+  type: book
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2006'
+  title: Proceedings of the 2006 aCM workshop on storage security and survivability,
+    storageSS 2006, alexandria, vA, uSA, october 30, 2006
+  publisher: ACM
+  ISBN: '1-59593-552-5'
+
+- id: conf/storagess/KherK05
+  type: paper-conference
+  author:
+  - family: Kher
+    given: Vishal
+  - family: Kim
+    given: Yongdae
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'Securing distributed storage: Challenges, techniques, and systems'
+  title-short: Securing distributed storage
+  container-title: StorageSS
+  publisher: ACM
+  page: '9-25'
+  URL: http://doi.acm.org/10.1145/1103780.1103783
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/RybczynskiLA05
+  type: paper-conference
+  author:
+  - family: Rybczynski
+    given: Jeffrey P.
+  - family: Long
+    given: Darrell D. E.
+  - family: Amer
+    given: Ahmed
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: 'Expecting the unexpected: Adaptation for predictive energy conservation'
+  title-short: Expecting the unexpected
+  container-title: StorageSS
+  publisher: ACM
+  page: '130-134'
+  URL: http://doi.acm.org/10.1145/1103780.1103800
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/OlsonM05
+  type: paper-conference
+  author:
+  - family: Olson
+    given: Christopher
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Secure capabilities for a petabyte-scale object-based distributed file system
+  container-title: StorageSS
+  publisher: ACM
+  page: '64-73'
+  URL: http://doi.acm.org/10.1145/1103780.1103791
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/2007
+  type: book
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: Proceedings of the 2007 aCM workshop on storage security and survivability,
+    storageSS 2007, alexandria, vA, uSA, october 29, 2007
+  publisher: ACM
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/NaorSW05
+  type: paper-conference
+  author:
+  - family: Naor
+    given: Dalit
+  - family: Shenhav
+    given: Amir
+  - family: Wool
+    given: Avishai
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Toward securing untrusted storage without public-key operations
+  container-title: StorageSS
+  publisher: ACM
+  page: '51-56'
+  URL: http://doi.acm.org/10.1145/1103780.1103788
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/BhatnagarM07
+  type: paper-conference
+  author:
+  - family: Bhatnagar
+    given: Neerja
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: Designing a secure reliable file system for sensor networks
+  container-title: StorageSS
+  publisher: ACM
+  page: '19-24'
+  URL: http://doi.acm.org/10.1145/1314313.1314319
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/DamianiVFJPS05
+  type: paper-conference
+  author:
+  - family: Damiani
+    given: Ernesto
+  - family: Vimercati
+    given: Sabrina De Capitani
+    dropping-particle: di
+  - family: Foresti
+    given: Sara
+  - family: Jajodia
+    given: Sushil
+  - family: Paraboschi
+    given: Stefano
+  - family: Samarati
+    given: Pierangela
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Key management for multi-user encrypted databases
+  container-title: StorageSS
+  publisher: ACM
+  page: '74-83'
+  URL: http://doi.acm.org/10.1145/1103780.1103792
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/ZhengW05
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Yuliang
+  - family: Wang
+    given: Yongge
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Efficient and provably secure ciphers for storage device block level encryption
+  container-title: StorageSS
+  publisher: ACM
+  page: '103-107'
+  URL: http://doi.acm.org/10.1145/1103780.1103796
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/KrishnanRAAM07
+  type: paper-conference
+  author:
+  - family: Krishnan
+    given: Swetha
+  - family: Ravipati
+    given: Giridhar
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Miller
+    given: Barton P.
+  editor:
+  - family: Henson
+    given: Valerie
+  issued:
+  - year: '2007'
+  title: The effects of metadata corruption on nfs
+  container-title: StorageSS
+  publisher: ACM
+  page: '37-41'
+  URL: http://doi.acm.org/10.1145/1314313.1314324
+  ISBN: '978-1-59593-891-6'
+
+- id: conf/storagess/BanikazemiPA05
+  type: paper-conference
+  author:
+  - family: Banikazemi
+    given: Mohammad
+  - family: Poff
+    given: Dan E.
+  - family: Abali
+    given: Bülent
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: Storage-based file system integrity checker
+  container-title: StorageSS
+  publisher: ACM
+  page: '57-63'
+  URL: http://doi.acm.org/10.1145/1103780.1103789
+  ISBN: 1-59593-233-X
+
+- id: conf/storagess/SubbiahB05
+  type: paper-conference
+  author:
+  - family: Subbiah
+    given: Arun
+  - family: Blough
+    given: Douglas M.
+  editor:
+  - family: Atluri
+    given: Vijay
+  issued:
+  - year: '2005'
+  title: An approach for fault tolerant and secure data storage in collaborative work
+    environments
+  container-title: StorageSS
+  publisher: ACM
+  page: '84-93'
+  URL: http://doi.acm.org/10.1145/1103780.1103793
+  ISBN: 1-59593-233-X
+...

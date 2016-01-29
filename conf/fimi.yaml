@@ -1,0 +1,601 @@
+---
+references:
+- id: conf/fimi/GrahneZ03
+  type: paper-conference
+  author:
+  - family: Grahne
+    given: Gösta
+  - family: Zhu
+    given: Jianfei
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Efficiently using prefix-trees in mining frequent itemsets
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/grahne.pdf
+
+- id: conf/fimi/LiuLYWX03
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Guimei
+  - family: Lu
+    given: Hongjun
+  - family: Yu
+    given: Jeffrey Xu
+  - family: '0011'
+    given: Wei Wang
+  - family: Xiao
+    given: Xiangye
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'AFOPT: An efficient implementation of pattern growth approach'
+  title-short: AFOPT
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/liu.pdf
+
+- id: conf/fimi/UnoKA04
+  type: paper-conference
+  author:
+  - family: Uno
+    given: Takeaki
+  - family: Kiyomi
+    given: Masashi
+  - family: Arimura
+    given: Hiroki
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'LCM ver. 2: Efficient mining algorithms for frequent/Closed/Maximal itemsets'
+  title-short: LCM ver. 2
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/uno.pdf
+
+- id: conf/fimi/PudiH03
+  type: paper-conference
+  author:
+  - family: Pudi
+    given: Vikram
+  - family: Haritsa
+    given: Jayant R.
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'ARMOR: Association rule mining based on oRacle'
+  title-short: ARMOR
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/pudi.pdf
+
+- id: conf/fimi/Racz04
+  type: paper-conference
+  author:
+  - family: Rácz
+    given: Balázs
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'Nonordfp: An fP-growth variation without rebuilding the fP-tree'
+  title-short: Nonordfp
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/racz.pdf
+
+- id: conf/fimi/2003
+  type: book
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: FIMI ’03, frequent itemset mining implementations, proceedings of the iCDM
+    2003 workshop on frequent itemset mining implementations, 19 december 2003, melbourne,
+    florida, uSA
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+
+- id: conf/fimi/LuccheseOPS04
+  type: paper-conference
+  author:
+  - family: Lucchese
+    given: Claudio
+  - family: Orlando
+    given: Salvatore
+  - family: Perego
+    given: Raffaele
+  - family: Silvestri
+    given: Fabrizio
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'WebDocs: A real-life huge transactional dataset'
+  title-short: WebDocs
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/webdocs.pdf
+
+- id: conf/fimi/Schmidt-Thieme04
+  type: paper-conference
+  author:
+  - family: Schmidt-Thieme
+    given: Lars
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: Algorithmic features of eclat
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/schmidtthieme.pdf
+
+- id: conf/fimi/Shporer04
+  type: paper-conference
+  author:
+  - family: Shporer
+    given: Sagi
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'AIM2: Improved implementation of aIM'
+  title-short: AIM2
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/shporer.pdf
+
+- id: conf/fimi/KostersP03
+  type: paper-conference
+  author:
+  - family: Kosters
+    given: Walter A.
+  - family: Pijls
+    given: Wim
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Apriori, a depth first implementation
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/kosters.pdf
+
+- id: conf/fimi/FiatS03
+  type: paper-conference
+  author:
+  - family: Fiat
+    given: Amos
+  - family: Shporer
+    given: Sagi
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'AIM: Another itemset miner'
+  title-short: AIM
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/shporer.pdf
+
+- id: conf/fimi/SucahyoG04
+  type: paper-conference
+  author:
+  - family: Sucahyo
+    given: Yudho Giri
+  - family: Gopalan
+    given: Raj P.
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'CT-pRO: A bottom-up non recursive frequent itemset mining algorithm using
+    compressed fP-tree data structure'
+  title-short: CT-pRO
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/sucahyo.pdf
+
+- id: conf/fimi/UnoAUA03
+  type: paper-conference
+  author:
+  - family: Uno
+    given: Takeaki
+  - family: Asai
+    given: Tatsuya
+  - family: Uchida
+    given: Yuzo
+  - family: Arimura
+    given: Hiroki
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'LCM: An efficient algorithm for enumerating frequent closed item sets'
+  title-short: LCM
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/uno.pdf
+
+- id: conf/fimi/Mielikainen03
+  type: paper-conference
+  author:
+  - family: Mielikäinen
+    given: Taneli
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Intersecting data to closed sets with constraints
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/mielikainen.pdf
+
+- id: conf/fimi/LuccheseOP04a
+  type: paper-conference
+  author:
+  - family: Lucchese
+    given: Claudio
+  - family: Orlando
+    given: Salvatore
+  - family: Perego
+    given: Raffaele
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'KDCI: On using direct count up to the third iteration'
+  title-short: KDCI
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/kdci.pdf
+
+- id: conf/fimi/LuccheseOP04
+  type: paper-conference
+  author:
+  - family: Lucchese
+    given: Claudio
+  - family: Orlando
+    given: Salvatore
+  - family: Perego
+    given: Raffaele
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'DCI closed: A fast and memory efficient algorithm to mine frequent closed
+    itemsets'
+  title-short: DCI closed
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/lucchese.pdf
+
+- id: conf/fimi/BurdickCFGY03
+  type: paper-conference
+  author:
+  - family: Burdick
+    given: Douglas
+  - family: Calimlim
+    given: Manuel
+  - family: Flannick
+    given: Jason
+  - family: Gehrke
+    given: Johannes
+  - family: Yiu
+    given: Tomi
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'MAFIA: A performance study of mining maximal frequent itemsets'
+  title-short: MAFIA
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/burdick.pdf
+
+- id: conf/fimi/GyeneseiT03
+  type: paper-conference
+  author:
+  - family: Gyenesei
+    given: Attila
+  - family: Teuhola
+    given: Jukka
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Probabilistic iterative expansion of candidates in mining frequent itemsets
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/gyenesei.pdf
+
+- id: conf/fimi/OrlandoLPPS03
+  type: paper-conference
+  author:
+  - family: Orlando
+    given: Salvatore
+  - family: Lucchese
+    given: Claudio
+  - family: Palmerini
+    given: Paolo
+  - family: Perego
+    given: Raffaele
+  - family: Silvestri
+    given: Fabrizio
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'KDCI: A multi-strategy algorithm for mining frequent sets'
+  title-short: KDCI
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/palmerini.pdf
+
+- id: conf/fimi/OzkuralA04
+  type: paper-conference
+  author:
+  - family: Özkural
+    given: Eray
+  - family: Aykanat
+    given: Cevdet
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: A space optimization for fP-growth
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/ozkural.pdf
+
+- id: conf/fimi/GoethalsZ03
+  type: paper-conference
+  author:
+  - family: Goethals
+    given: Bart
+  - family: Zaki
+    given: Mohammed Javeed
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'Advances in frequent itemset mining implementations: Introduction to fIMI03'
+  title-short: Advances in frequent itemset mining implementations
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/intro.pdf
+
+- id: conf/fimi/Bodon04
+  type: paper-conference
+  author:
+  - family: Bodon
+    given: Ferenc
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: Surprising results of trie-based fIM algorithms
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/bodon.pdf
+
+- id: conf/fimi/UnoS03
+  type: paper-conference
+  author:
+  - family: Uno
+    given: Takeaki
+  - family: Satoh
+    given: Ken
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Detailed description of an algorithm for enumeration of maximal frequent
+    sets with irredundant dualization
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/satoh.pdf
+
+- id: conf/fimi/Bodon03
+  type: paper-conference
+  author:
+  - family: Bodon
+    given: Ferenc
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: A fast aPRIORI implementation
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/bodon.pdf
+
+- id: conf/fimi/Borgelt04
+  type: paper-conference
+  author:
+  - family: Borgelt
+    given: Christian
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: Recursion pruning for the apriori algorithm
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/borgelt.pdf
+
+- id: conf/fimi/PietracaprinaZ03
+  type: paper-conference
+  author:
+  - family: Pietracaprina
+    given: Andrea
+  - family: Zandolin
+    given: Dario
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: Mining frequent itemsets using patricia tries
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/pietracaprina.pdf
+
+- id: conf/fimi/ZaianeE03
+  type: paper-conference
+  author:
+  - family: Zaïane
+    given: Osmar R.
+  - family: El-Hajj
+    given: Mohammad
+  editor:
+  - family: Goethals
+    given: Bart
+  issued:
+  - year: '2003'
+  title: 'COFI-tree mining: A new approach to pattern growth with reduced candidacy
+    generation'
+  title-short: COFI-tree mining
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '90'
+  URL: http://SunSITE.Informatik.RWTH-Aachen.de/Publications/CEUR-WS/Vol-90/elhajj.pdf
+
+- id: conf/fimi/ZhuG04
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Jianfei
+  - family: Grahne
+    given: Gösta
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: Reducing the main memory consumptions of fPmax\* and fPclose
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/zhu.pdf
+
+- id: conf/fimi/2004
+  type: book
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2005'
+  title: FIMI ’04, proceedings of the iEEE iCDM workshop on frequent itemset mining
+    implementations, brighton, uK, november 1, 2004
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+
+- id: conf/fimi/FlouvatMP04
+  type: paper-conference
+  author:
+  - family: Flouvat
+    given: Frédéric
+  - family: Marchi
+    given: Fabien De
+  - family: Petit
+    given: Jean-Marc
+  editor:
+  - family: Jr.
+    given: Roberto J. Bayardo
+  issued:
+  - year: '2004'
+  title: 'ABS: Adaptive borders search of frequent itemsets'
+  title-short: ABS
+  container-title: FIMI
+  collection-title: CEUR workshop proceedings
+  publisher: CEUR-WS.org
+  volume: '126'
+  URL: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-126/flouvat.pdf
+...

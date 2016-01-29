@@ -1,0 +1,661 @@
+---
+references:
+- id: journals/loplas/Stansifer93
+  type: article-journal
+  author:
+  - family: Beaven
+    given: Mike
+  - family: Stansifer
+    given: Ryan
+  issued:
+  - year: '1993'
+  title: Explaining type errors in polimorphic languages
+  container-title: LOPLAS
+  page: '17-30'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176460
+
+- id: journals/loplas/CooperHT92
+  type: article-journal
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Hall
+    given: Mary W.
+  - family: Torczon
+    given: Linda
+  issued:
+  - year: '1992'
+  title: 'Unexpected side effects of inline substitution: A case study'
+  title-short: Unexpected side effects of inline substitution
+  container-title: LOPLAS
+  page: '22-32'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/BriggsCT92
+  type: article-journal
+  author:
+  - family: Briggs
+    given: Preston
+  - family: Cooper
+    given: Keith D.
+  - family: Torczon
+    given: Linda
+  issued:
+  - year: '1992'
+  title: Coloring register pairs
+  container-title: LOPLAS
+  page: '3-13'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/DanvyH92
+  type: article-journal
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Hatcliff
+    given: John
+  issued:
+  - year: '1992'
+  title: CPS-transformation after strictness analysis
+  container-title: LOPLAS
+  page: '195-212'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/Pugh92
+  type: article-journal
+  author:
+  - family: Pugh
+    given: William
+  issued:
+  - year: '1992'
+  title: Definitions of dependence distance
+  container-title: LOPLAS
+  page: '261-265'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/Johnson92
+  type: article-journal
+  author:
+  - family: Johnson
+    given: Ralph E.
+  issued:
+  - year: '1992'
+  title: Reducing the latency of a real-time garbage collector
+  container-title: LOPLAS
+  page: '46-58'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Eyre-Todd93
+  type: article-journal
+  author:
+  - family: Eyre-Todd
+    given: Richard A.
+  issued:
+  - year: '1993'
+  title: The detection of dangling references in c++ programs
+  container-title: LOPLAS
+  page: '127-134'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176504
+
+- id: journals/loplas/KaserRP93
+  type: article-journal
+  author:
+  - family: Kaser
+    given: Owen
+  - family: Ramakrishnan
+    given: C. R.
+  - family: Pawagi
+    given: Shaunak
+  issued:
+  - year: '1993'
+  title: On the conversion of indirect to direct recursion
+  container-title: LOPLAS
+  page: '151-164'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176510
+
+- id: journals/loplas/McConnellJ92
+  type: article-journal
+  author:
+  - family: McConnell
+    given: Carl
+  - family: Johnson
+    given: Ralph E.
+  issued:
+  - year: '1992'
+  title: Using static single assignment form in a code optimizer
+  container-title: LOPLAS
+  page: '152-160'
+  volume: '1'
+  issue: '2'
+
+- id: journals/loplas/Goldberg92
+  type: article-journal
+  author:
+  - family: Goldberg
+    given: David
+  issued:
+  - year: '1992'
+  title: The design of floating-point data types
+  container-title: LOPLAS
+  page: '138-151'
+  volume: '1'
+  issue: '2'
+
+- id: journals/loplas/BurkeC92
+  type: article-journal
+  author:
+  - family: Burke
+    given: Michael G.
+  - family: Choi
+    given: Jong-Deok
+  issued:
+  - year: '1992'
+  title: Precise and efficient integration of interprocedural alias information into
+    data-flow analysis
+  container-title: LOPLAS
+  page: '14-21'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Asuru92
+  type: article-journal
+  author:
+  - family: Asuru
+    given: Johnathan M.
+  issued:
+  - year: '1992'
+  title: Optimization of array subscript range checks
+  container-title: LOPLAS
+  page: '109-118'
+  volume: '1'
+  issue: '2'
+
+- id: journals/loplas/Landi92
+  type: article-journal
+  author:
+  - family: Landi
+    given: William
+  issued:
+  - year: '1992'
+  title: Undecidability of static analysis
+  container-title: LOPLAS
+  page: '323-337'
+  volume: '1'
+  issue: '4'
+
+- id: journals/loplas/MetzgerS93
+  type: article-journal
+  author:
+  - family: Metzger
+    given: Robert
+  - family: Stroud
+    given: Sean
+  issued:
+  - year: '1993'
+  title: 'Interprocedural constant propagation: An empirical study'
+  title-short: Interprocedural constant propagation
+  container-title: LOPLAS
+  page: '213-232'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176526
+
+- id: journals/loplas/BoehmDU93
+  type: article-journal
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  - family: Demers
+    given: Alan J.
+  - family: Uhler
+    given: Christ
+  issued:
+  - year: '1993'
+  title: Implementing multiple locks using lamport’s mutual exclusion algorithm
+  container-title: LOPLAS
+  page: '46-58'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176479
+
+- id: journals/loplas/Weiss92
+  type: article-journal
+  author:
+  - family: Weiss
+    given: Michael
+  issued:
+  - year: '1992'
+  title: 'The transitive closure of control dependence: The iterated join'
+  title-short: The transitive closure of control dependence
+  container-title: LOPLAS
+  page: '178-190'
+  volume: '1'
+  issue: '2'
+
+- id: journals/loplas/Cameron93
+  type: article-journal
+  author:
+  - family: Cameron
+    given: Robert D.
+  issued:
+  - year: '1993'
+  title: Extending context-free grammars with permutation phrases
+  container-title: LOPLAS
+  page: '85-94'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176490
+
+- id: journals/loplas/DayLMM93
+  type: article-journal
+  author:
+  - family: Day
+    given: Mark
+  - family: Liskov
+    given: Barbara
+  - family: Maheshwari
+    given: Umesh
+  - family: Myers
+    given: Andrew C.
+  issued:
+  - year: '1993'
+  title: References to remote mobile objects in thor
+  container-title: LOPLAS
+  page: '115-126'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176500
+
+- id: journals/loplas/FraserHP92
+  type: article-journal
+  author:
+  - family: Fraser
+    given: Christopher W.
+  - family: Hanson
+    given: David R.
+  - family: Proebsting
+    given: Todd A.
+  issued:
+  - year: '1992'
+  title: Engineering a simple, efficient code-generator generator
+  container-title: LOPLAS
+  page: '213-226'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/WalkerG92
+  type: article-journal
+  author:
+  - family: Walker
+    given: Kenneth
+  - family: Griswold
+    given: Ralph E.
+  issued:
+  - year: '1992'
+  title: The maintenance of intermediate values in goal-directed evaluation
+  container-title: LOPLAS
+  page: '284-298'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/HummelHN92
+  type: article-journal
+  author:
+  - family: Hummel
+    given: Joseph
+  - family: Hendren
+    given: Laurie J.
+  - family: Nicolau
+    given: Alexandru
+  issued:
+  - year: '1992'
+  title: 'Abstract description of pointer data structures: An approach for improving
+    the analysis and optimization of imperative programs'
+  title-short: Abstract description of pointer data structures
+  container-title: LOPLAS
+  page: '243-260'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/DornicJG92
+  type: article-journal
+  author:
+  - family: Dornic
+    given: Vincent
+  - family: Jouvelot
+    given: Pierre
+  - family: Gifford
+    given: David K.
+  issued:
+  - year: '1992'
+  title: Polymorphic time systems for estimating program complexity
+  container-title: LOPLAS
+  page: '33-45'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Gupta93
+  type: article-journal
+  author:
+  - family: Gupta
+    given: Rajiv
+  issued:
+  - year: '1993'
+  title: Optimizing array bound checks using flow analysis
+  container-title: LOPLAS
+  page: '135-150'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176507
+
+- id: journals/loplas/Binkley93
+  type: article-journal
+  author:
+  - family: Binkley
+    given: David
+  issued:
+  - year: '1993'
+  title: Precise executable interprocedural slices
+  container-title: LOPLAS
+  page: '31-45'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176473
+
+- id: journals/loplas/FritzonSKG92
+  type: article-journal
+  author:
+  - family: Fritzson
+    given: Peter
+  - family: Shahmehri
+    given: Nahid
+  - family: Kamkar
+    given: Mariam
+  - family: Gyimóthy
+    given: Tibor
+  issued:
+  - year: '1992'
+  title: Generalized algorithmic debugging and testing
+  container-title: LOPLAS
+  page: '303-322'
+  volume: '1'
+  issue: '4'
+
+- id: journals/loplas/NilsenS92
+  type: article-journal
+  author:
+  - family: Nilsen
+    given: Kelvin D.
+  - family: Schmidt
+    given: William J.
+  issued:
+  - year: '1992'
+  title: Cost-effective object space management for hardware-assisted real-time garbage
+    collection
+  container-title: LOPLAS
+  page: '338-354'
+  volume: '1'
+  issue: '4'
+
+- id: journals/loplas/HallK92
+  type: article-journal
+  author:
+  - family: Hall
+    given: Mary W.
+  - family: Kennedy
+    given: Ken
+  issued:
+  - year: '1992'
+  title: Efficient call graph analysis
+  container-title: LOPLAS
+  page: '227-242'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/Ramkumar92
+  type: article-journal
+  author:
+  - family: Ramkumar
+    given: Balkrishna
+  issued:
+  - year: '1992'
+  title: Distributed last call optimization for portable parallel logic programming
+  container-title: LOPLAS
+  page: '266-283'
+  volume: '1'
+  issue: '3'
+
+- id: journals/loplas/Larus93
+  type: article-journal
+  author:
+  - family: Larus
+    given: James R.
+  issued:
+  - year: '1993'
+  title: Compiling for shared-memory and message-passing computers
+  container-title: LOPLAS
+  page: '165-180'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176514
+
+- id: journals/loplas/BumbulisC93
+  type: article-journal
+  author:
+  - family: Bumbulis
+    given: Peter
+  - family: Cowan
+    given: Donald D.
+  issued:
+  - year: '1993'
+  title: 'RE2C: A more versatile scanner generator'
+  title-short: RE2C
+  container-title: LOPLAS
+  page: '70-84'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176487
+
+- id: journals/loplas/QianG93
+  type: article-journal
+  author:
+  - family: Qian
+    given: Xiaolei
+  - family: Goldberg
+    given: Allen
+  issued:
+  - year: '1993'
+  title: Referential opacity in nondeterministic data refinement
+  container-title: LOPLAS
+  page: '233-241'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176578
+
+- id: journals/loplas/Dietrich92
+  type: article-journal
+  author:
+  - family: Dietrich
+    given: Suzanne W.
+  issued:
+  - year: '1992'
+  title: Shortest path by approximation in logic programs
+  container-title: LOPLAS
+  page: '119-137'
+  volume: '1'
+  issue: '2'
+
+- id: journals/loplas/NetzerM92
+  type: article-journal
+  author:
+  - family: Netzer
+    given: Robert H. B.
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1992'
+  title: What are race conditions? Some issues and formalizations
+  container-title: LOPLAS
+  page: '74-88'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Ball93
+  type: article-journal
+  author:
+  - family: Ball
+    given: Thomas
+  issued:
+  - year: '1993'
+  title: What’s in a region? Or computing control dependence regions in near-linear
+    time for reducible control flow
+  container-title: LOPLAS
+  page: '1-16'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176456
+
+- id: journals/loplas/MarriottS93a
+  type: article-journal
+  author:
+  - family: Marriott
+    given: Kim
+  - family: Stuckey
+    given: Peter J.
+  issued:
+  - year: '1993'
+  title: Semantics of constraint logic programs with optimization
+  container-title: LOPLAS
+  page: '197-212'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176522
+
+- id: journals/loplas/MarriottS93
+  type: article-journal
+  author:
+  - family: Marriott
+    given: Kim
+  - family: Søndergaard
+    given: Harald
+  issued:
+  - year: '1993'
+  title: Precise and efficient groundness analysis for logic programs
+  container-title: LOPLAS
+  page: '181-196'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176519
+
+- id: journals/loplas/McKenneyS92
+  type: article-journal
+  author:
+  - family: McKenney
+    given: Bruce
+  - family: Szymanski
+    given: Boleslaw K.
+  issued:
+  - year: '1992'
+  title: Generating parallel code for sIMD machines
+  container-title: LOPLAS
+  page: '59-73'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Singh92
+  type: article-journal
+  author:
+  - family: Singh
+    given: Ambuj K.
+  issued:
+  - year: '1992'
+  title: On reasoning with the global time assumption
+  container-title: LOPLAS
+  page: '89-103'
+  volume: '1'
+  issue: '1'
+
+- id: journals/loplas/Srivastava92
+  type: article-journal
+  author:
+  - family: Srivastava
+    given: Amitabh
+  issued:
+  - year: '1992'
+  title: Unreachable procedures in object-oriented programming
+  container-title: LOPLAS
+  page: '355-364'
+  volume: '1'
+  issue: '4'
+
+- id: journals/loplas/ChoudharyFHKKRT93
+  type: article-journal
+  author:
+  - family: Choudhary
+    given: Alok N.
+  - family: Fox
+    given: Geoffrey
+  - family: Hiranandani
+    given: Seema
+  - family: Kennedy
+    given: Ken
+  - family: Koelbel
+    given: Charles
+  - family: Ranka
+    given: Sanjay
+  - family: Tseng
+    given: Chau-Wen
+  issued:
+  - year: '1993'
+  title: Unified compilation of fortran 77D and 90D
+  container-title: LOPLAS
+  page: '95-114'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176495
+
+- id: journals/loplas/BriggsT93
+  type: article-journal
+  author:
+  - family: Briggs
+    given: Preston
+  - family: Torczon
+    given: Linda
+  issued:
+  - year: '1993'
+  title: An efficient representation for sparse sets
+  container-title: LOPLAS
+  page: '59-69'
+  volume: '2'
+  issue: '1-4'
+  URL: http://doi.acm.org/10.1145/176454.176484
+
+- id: journals/loplas/TarditiLA92
+  type: article-journal
+  author:
+  - family: Tarditi
+    given: David
+  - family: '0001'
+    given: Peter Lee
+  - family: Acharya
+    given: Anurag
+  issued:
+  - year: '1992'
+  title: 'No assembly required: Compiling standard mL to c'
+  title-short: No assembly required
+  container-title: LOPLAS
+  page: '161-177'
+  volume: '1'
+  issue: '2'
+...

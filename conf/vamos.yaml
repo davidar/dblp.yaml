@@ -1,0 +1,4537 @@
+---
+references:
+- id: conf/vamos/StoiberG10
+  type: paper-conference
+  author:
+  - family: Stoiber
+    given: Reinhard
+  - family: Glinz
+    given: Martin
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Supporting stepwise, incremental product derivation in product line requirements
+    engineering
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '77-84'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/Patel14
+  type: paper-conference
+  author:
+  - family: Patel
+    given: Sachin
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Practical problems with modeling variability in test cases: An industrial
+    perspective'
+  title-short: Practical problems with modeling variability in test cases
+  container-title: VaMoS
+  publisher: ACM
+  page: 12:1-12:8
+  URL: http://doi.acm.org/10.1145/2556624.2556626
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/BrownGSKGB07
+  type: paper-conference
+  author:
+  - family: Brown
+    given: T. John
+  - family: Gawley
+    given: Rachel
+  - family: Spence
+    given: Ivor T. A.
+  - family: Kilpatrick
+    given: Peter
+  - family: Gillan
+    given: Charles
+  - family: Bashroush
+    given: Rabih
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Requirements modelling and design notations for software product lines
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '27-35'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/SeidlSA14
+  type: paper-conference
+  author:
+  - family: Seidl
+    given: Christoph
+  - family: Schaefer
+    given: Ina
+  - family: Aßmann
+    given: Uwe
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Capturing variability in space and time with hyper feature models
+  container-title: VaMoS
+  publisher: ACM
+  page: 6:1-6:8
+  URL: http://doi.acm.org/10.1145/2556624.2556625
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/VierhauserDHRE10
+  type: paper-conference
+  author:
+  - family: Vierhauser
+    given: Michael
+  - family: Dhungana
+    given: Deepak
+  - family: Heider
+    given: Wolfgang
+  - family: Rabiser
+    given: Rick
+  - family: Egyed
+    given: Alexander
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Tool support for incremental consistency checking on variability models
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '171-174'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/BrummermannKS12
+  type: paper-conference
+  author:
+  - family: Brummermann
+    given: Hendrik
+  - family: Keunecke
+    given: Markus
+  - family: Schmid
+    given: Klaus
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Formalizing distributed evolution of variability in information system ecosystems
+  container-title: VaMoS
+  publisher: ACM
+  page: '11-19'
+  URL: http://doi.acm.org/10.1145/2110147.2110149
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/BenavidesSTC07
+  type: paper-conference
+  author:
+  - family: Benavides
+    given: David
+  - family: Segura
+    given: Sergio
+  - family: Trinidad
+    given: Pablo
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'FAMA: Tooling a framework for the automated analysis of feature models'
+  title-short: FAMA
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '129-134'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/DhunganaHR10
+  type: paper-conference
+  author:
+  - family: Dhungana
+    given: Deepak
+  - family: Heymans
+    given: Patrick
+  - family: Rabiser
+    given: Rick
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A formal semantics for decision-oriented variability modeling with dOPLER
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '29-35'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/SchubanzPBL12
+  type: paper-conference
+  author:
+  - family: Schubanz
+    given: Mathias
+  - family: Pleuss
+    given: Andreas
+  - family: Botterweck
+    given: Goetz
+  - family: Lewerentz
+    given: Claus
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Modeling rationale over time to support product line evolution planning
+  container-title: VaMoS
+  publisher: ACM
+  page: '193-199'
+  URL: http://doi.acm.org/10.1145/2110147.2110169
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/BenavidesG14
+  type: paper-conference
+  author:
+  - family: Benavides
+    given: David
+  - family: Galindo
+    given: José A.
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Variability management in an unaware software product line company: An
+    experience report'
+  title-short: Variability management in an unaware software product line company
+  container-title: VaMoS
+  publisher: ACM
+  page: 5:1-5:6
+  URL: http://doi.acm.org/10.1145/2556624.2556633
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/ReiserKW07
+  type: paper-conference
+  author:
+  - family: Reiser
+    given: Mark-Oliver
+  - family: Kolagari
+    given: Ramin Tavakoli
+  - family: Weber
+    given: Matthias
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Unified feature modeling as a basis for managing complex system families
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '79-86'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/Savolainen14
+  type: paper-conference
+  author:
+  - family: Savolainen
+    given: Juha
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Past, present and future of product line engineering in industry: Reflecting
+    on 15 years of variability management in real projects'
+  title-short: Past, present and future of product line engineering in industry
+  container-title: VaMoS
+  publisher: ACM
+  page: 1:1
+  URL: http://doi.acm.org/10.1145/2556624.2557789
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/FenskeTS14
+  type: paper-conference
+  author:
+  - family: Fenske
+    given: Wolfram
+  - family: Thüm
+    given: Thomas
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: A taxonomy of software product line reengineering
+  container-title: VaMoS
+  publisher: ACM
+  page: 4:1-4:8
+  URL: http://doi.acm.org/10.1145/2556624.2556643
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/FenskeS15
+  type: paper-conference
+  author:
+  - family: Fenske
+    given: Wolfram
+  - family: Schulze
+    given: Sandro
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: 'Code smells revisited: A variability perspective'
+  title-short: Code smells revisited
+  container-title: VaMoS
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2701319.2701321
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/SeguraC09
+  type: paper-conference
+  author:
+  - family: Segura
+    given: Sergio
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: 'Benchmarking on the automated analyses of feature models: A preliminary
+    roadmap'
+  title-short: Benchmarking on the automated analyses of feature models
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '137-143'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/JuergensP07
+  type: paper-conference
+  author:
+  - family: Jürgens
+    given: Elmar
+  - family: Pizka
+    given: Markus
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Variability models must not be invariant!
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '171-176'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/ApelLLKC10
+  type: paper-conference
+  author:
+  - family: Apel
+    given: Sven
+  - family: Liebig
+    given: Jörg
+  - family: Lengauer
+    given: Christian
+  - family: Kästner
+    given: Christian
+  - family: Cook
+    given: William R.
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Semistructured merge in revision control systems
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '13-19'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/WeberKP15
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Jens H.
+  - family: Katahoire
+    given: Anita
+  - family: Price
+    given: Morgan
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Uncovering variability models for software ecosystems from multi-repository
+    structures
+  container-title: VaMoS
+  publisher: ACM
+  page: '103'
+  URL: http://doi.acm.org/10.1145/2701319.2701333
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/NohrerBE12
+  type: paper-conference
+  author:
+  - family: Nöhrer
+    given: Alexander
+  - family: Biere
+    given: Armin
+  - family: Egyed
+    given: Alexander
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Managing sAT inconsistencies with hUMUS
+  container-title: VaMoS
+  publisher: ACM
+  page: '83-91'
+  URL: http://doi.acm.org/10.1145/2110147.2110157
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/KeuneckeBS14
+  type: paper-conference
+  author:
+  - family: Keunecke
+    given: Markus
+  - family: Brummermann
+    given: Hendrik
+  - family: Schmid
+    given: Klaus
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'The feature pack approach: Systematically managing implementations in
+    software ecosystems'
+  title-short: The feature pack approach
+  container-title: VaMoS
+  publisher: ACM
+  page: 20:1-20:7
+  URL: http://doi.acm.org/10.1145/2556624.2556639
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/WeilandM14
+  type: paper-conference
+  author:
+  - family: Weiland
+    given: Jens
+  - family: Manhart
+    given: Peter
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: A classification of modeling variability in simulink
+  container-title: VaMoS
+  publisher: ACM
+  page: 7:1-7:8
+  URL: http://doi.acm.org/10.1145/2556624.2556632
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/CapillaHD15
+  type: paper-conference
+  author:
+  - family: Capilla
+    given: Rafael
+  - family: Hinchey
+    given: Mike
+  - family: Díaz
+    given: Francisco J.
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Collaborative context features for critical systems
+  container-title: VaMoS
+  publisher: ACM
+  page: '43'
+  URL: http://doi.acm.org/10.1145/2701319.2701322
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/TrinidadC09
+  type: paper-conference
+  author:
+  - family: Trinidad
+    given: Pablo
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: 'Abductive reasoning and automated analysis of feature models: How are
+    they connected?'
+  title-short: Abductive reasoning and automated analysis of feature models
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '145-153'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/ZaidKT11
+  type: paper-conference
+  author:
+  - family: Zaid
+    given: Lamia Abo
+  - family: Kleinermann
+    given: Frederic
+  - family: Troyer
+    given: Olga De
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'Feature assembly framework: Towards scalable and reusable feature models'
+  title-short: Feature assembly framework
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/1944892.1944893
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/LisboaGMA10
+  type: paper-conference
+  author:
+  - family: Lisboa
+    given: Liana Barachisio
+  - family: Garcia
+    given: Vinicius Cardoso
+  - family: Lemos Meira
+    given: Silvio Romero
+    dropping-particle: de
+  - family: Almeida
+    given: Eduardo Santana
+    dropping-particle: de
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A support tool for domain analysis
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '175-178'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/SannierBANB14
+  type: paper-conference
+  author:
+  - family: Sannier
+    given: Nicolas
+  - family: Bécan
+    given: Guillaume
+  - family: Acher
+    given: Mathieu
+  - family: Nasr
+    given: Sana Ben
+  - family: Baudry
+    given: Benoit
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Comparing or configuring products: Are we getting the right ones?'
+  title-short: Comparing or configuring products
+  container-title: VaMoS
+  publisher: ACM
+  page: 9:1-9:7
+  URL: http://doi.acm.org/10.1145/2556624.2556636
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/DintznerDP14
+  type: paper-conference
+  author:
+  - family: Dintzner
+    given: Nicolas
+  - family: Deursen
+    given: Arie
+    dropping-particle: van
+  - family: Pinzger
+    given: Martin
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Extracting feature model changes from the linux kernel using fMDiff
+  container-title: VaMoS
+  publisher: ACM
+  page: 22:1-22:8
+  URL: http://doi.acm.org/10.1145/2556624.2556631
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/BencomoBFS08
+  type: paper-conference
+  author:
+  - family: Bencomo
+    given: Nelly
+  - family: Blair
+    given: Gordon S.
+  - family: Flores-Cortés
+    given: Carlos A.
+  - family: Sawyer
+    given: Peter
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Reflective component-based technologies to support dynamic variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '141-150'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/Muller10
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Johannes
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Modeling variability of augmented software product lines
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '143-146'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/AcherCPHVCL12
+  type: paper-conference
+  author:
+  - family: Acher
+    given: Mathieu
+  - family: Cleve
+    given: Anthony
+  - family: Perrouin
+    given: Gilles
+  - family: Heymans
+    given: Patrick
+  - family: Vanbeneden
+    given: Charles
+  - family: Collet
+    given: Philippe
+  - family: Lahire
+    given: Philippe
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: On extracting feature models from product descriptions
+  container-title: VaMoS
+  publisher: ACM
+  page: '45-54'
+  URL: http://doi.acm.org/10.1145/2110147.2110153
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/BucchiaroneMP13
+  type: paper-conference
+  author:
+  - family: Bucchiarone
+    given: Antonio
+  - family: Mezzina
+    given: Claudio Antares
+  - family: Pistore
+    given: Marco
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'CAptLang: A language for context-aware and adaptable business processes'
+  title-short: CAptLang
+  container-title: VaMoS
+  publisher: ACM
+  page: 12:1-12:5
+  URL: http://doi.acm.org/10.1145/2430502.2430519
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/GillanKSBBG07
+  type: paper-conference
+  author:
+  - family: Gillan
+    given: Charles
+  - family: Kilpatrick
+    given: Peter
+  - family: Spence
+    given: Ivor T. A.
+  - family: Brown
+    given: T. John
+  - family: Bashroush
+    given: Rabih
+  - family: Gawley
+    given: Rachel
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Challenges in the application of feature modelling in fixed line telecommunications
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '141-148'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/2009
+  type: book
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Third international workshop on variability modelling of software-intensive
+    systems, seville, spain, january 28-30, 2009. proceedings
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  volume: '29'
+
+- id: conf/vamos/LittleB07
+  type: paper-conference
+  author:
+  - family: Little
+    given: Reed
+  - family: Blohm
+    given: Randy
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: A plea for help with variability, in two acts
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '167-169'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/MachadoSCTSA14
+  type: paper-conference
+  author:
+  - family: Carmo Machado
+    given: Ivan
+    dropping-particle: do
+  - family: Santos
+    given: Alcemir Rodrigues
+  - family: Cavalcanti
+    given: Yguaratã Cerqueira
+  - family: Trzan
+    given: Eduardo Gomes
+  - family: Souza
+    given: Marcio Magalhães
+    dropping-particle: de
+  - family: Almeida
+    given: Eduardo Santana
+    dropping-particle: de
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Low-level variability support for web-based software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: 15:1-15:8
+  URL: http://doi.acm.org/10.1145/2556624.2556637
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/Schaefer10
+  type: paper-conference
+  author:
+  - family: Schaefer
+    given: Ina
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Variability modelling for model-driven development of software product lines
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '85-92'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/CawleyNPBT08
+  type: paper-conference
+  author:
+  - family: Cawley
+    given: Ciarán
+  - family: Nestor
+    given: Daren
+  - family: Preußner
+    given: André
+  - family: Botterweck
+    given: Goetz
+  - family: Thiel
+    given: Steffen
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Interactive visualisation to support product configuration in software product
+    lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '7-16'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/CodenieGDBKS09
+  type: paper-conference
+  author:
+  - family: Codenie
+    given: Wim
+  - family: González-Deleito
+    given: Nicolás
+  - family: Deleu
+    given: Jeroen
+  - family: Blagojevic
+    given: Vladimir
+  - family: Kuvaja
+    given: Pasi
+  - family: Similä
+    given: Jouni
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: A model for trading off flexibility and variability in software intensive
+    product development
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '61-70'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/AcherLR14
+  type: paper-conference
+  author:
+  - family: Acher
+    given: Mathieu
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Rabiser
+    given: Rick
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: A survey on teaching of software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: 3:1-3:8
+  URL: http://doi.acm.org/10.1145/2556624.2556629
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/Lopez-HerrejonT08
+  type: paper-conference
+  author:
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Trujillo
+    given: Salvador
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: How complex is my product line? The case for variation point metrics
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '97-100'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/RabiserVG15
+  type: paper-conference
+  author:
+  - family: Rabiser
+    given: Rick
+  - family: Vierhauser
+    given: Michael
+  - family: Grünbacher
+    given: Paul
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Variability management for a runtime monitoring infrastructure
+  container-title: VaMoS
+  publisher: ACM
+  page: '35'
+  URL: http://doi.acm.org/10.1145/2701319.2701330
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/HubauxXC12
+  type: paper-conference
+  author:
+  - family: Hubaux
+    given: Arnaud
+  - family: Xiong
+    given: Yingfei
+  - family: Czarnecki
+    given: Krzysztof
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: A user survey of configuration challenges in linux and eCos
+  container-title: VaMoS
+  publisher: ACM
+  page: '149-155'
+  URL: http://doi.acm.org/10.1145/2110147.2110164
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/SalifuNRT07
+  type: paper-conference
+  author:
+  - family: Salifu
+    given: Mohammed
+  - family: Nuseibeh
+    given: Bashar
+  - family: Rapanotti
+    given: Lucia
+  - family: Tun
+    given: Thein Than
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Using problem descriptions to represent variabilities for context-aware applications
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '149-156'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/LiaskosJLWYLM07
+  type: paper-conference
+  author:
+  - family: Liaskos
+    given: Sotirios
+  - family: Jiang
+    given: Lei
+  - family: Lapouchnian
+    given: Alexei
+  - family: Wang
+    given: Yiqiao
+  - family: Yu
+    given: Yijun
+  - family: Prado Leite
+    given: Julio Cesar Sampaio
+    dropping-particle: do
+  - family: Mylopoulos
+    given: John
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'Exploring the dimensions of variability: A requirements engineering perspective'
+  title-short: Exploring the dimensions of variability
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '17-26'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/NohrerE10
+  type: paper-conference
+  author:
+  - family: Nöhrer
+    given: Alexander
+  - family: Egyed
+    given: Alexander
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Conflict resolution strategies during product configuration
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '107-114'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/MichelCHB11
+  type: paper-conference
+  author:
+  - family: Michel
+    given: Raphaël
+  - family: Classen
+    given: Andreas
+  - family: Hubaux
+    given: Arnaud
+  - family: Boucher
+    given: Quentin
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: A formal semantics for feature cardinalities in feature diagrams
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '82-89'
+  URL: http://doi.acm.org/10.1145/1944892.1944902
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/SchulzeTKS12
+  type: paper-conference
+  author:
+  - family: Schulze
+    given: Sandro
+  - family: Thüm
+    given: Thomas
+  - family: Kuhlemann
+    given: Martin
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Variant-preserving refactoring in feature-oriented software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: '73-81'
+  URL: http://doi.acm.org/10.1145/2110147.2110156
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/DesmetVCH07
+  type: paper-conference
+  author:
+  - family: Desmet
+    given: Brecht
+  - family: Vallejos
+    given: Jorge
+  - family: Costanza
+    given: Pascal
+  - family: Hirschfeld
+    given: Robert
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Layered design approach for context-aware systems
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '157-165'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/MengiA09
+  type: paper-conference
+  author:
+  - family: Mengi
+    given: Cem
+  - family: Armaç
+    given: Ibrahim
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Functional variant modeling for adaptable functional networks
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '83-92'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/NobauerSDS12
+  type: paper-conference
+  author:
+  - family: Nöbauer
+    given: Markus
+  - family: Seyff
+    given: Norbert
+  - family: Dhungana
+    given: Deepak
+  - family: Stoiber
+    given: Reinhard
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Managing variability of eRP ecosystems: Research issues and solution ideas
+    from microsoft dynamics aX'
+  title-short: Managing variability of eRP ecosystems
+  container-title: VaMoS
+  publisher: ACM
+  page: '21-26'
+  URL: http://doi.acm.org/10.1145/2110147.2110150
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/BucholdtL15
+  type: paper-conference
+  author:
+  - family: Bucholdt
+    given: Christian
+  - family: Lillack
+    given: Max
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Documentation of recovered architecture for variability in legacy generator
+    systems
+  container-title: VaMoS
+  publisher: ACM
+  page: '19'
+  URL: http://doi.acm.org/10.1145/2701319.2701323
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/AdelsbergerSN14
+  type: paper-conference
+  author:
+  - family: Adelsberger
+    given: Stephan
+  - family: Sobernig
+    given: Stefan
+  - family: Neumann
+    given: Gustaf
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Towards assessing the complexity of object migration in dynamic, feature-oriented
+    software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: 17:1-17:8
+  URL: http://doi.acm.org/10.1145/2556624.2556645
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/Kang10
+  type: paper-conference
+  author:
+  - family: Kang
+    given: Kyo Chul
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: 'FODA: Twenty years of perspective on feature modeling'
+  title-short: FODA
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '9'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/Grimm08
+  type: paper-conference
+  author:
+  - family: Grimm
+    given: Frank
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Increasing the reliability of model-driven software family engineering and
+    product configuration for automotive controller software
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '33-41'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/2012
+  type: book
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Sixth international workshop on variability modelling of software-intensive
+    systems, leipzig, germany, january 25-27, 2012. proceedings
+  publisher: ACM
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/Gonzalez-BaixauliLL07
+  type: paper-conference
+  author:
+  - family: González-Baixauli
+    given: Bruno
+  - family: Laguna
+    given: Miguel A.
+  - family: Prado Leite
+    given: Julio Cesar Sampaio
+    dropping-particle: do
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Using goal-models to analyze variability
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '101-107'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/Krzanik07
+  type: paper-conference
+  author:
+  - family: Krzanik
+    given: Lech
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Specifying variability of an extensive mobile system for feasible stakeholder
+    communication and optimized delivered product architecture
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '135-139'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/KuhlemannSA10
+  type: paper-conference
+  author:
+  - family: Kuhlemann
+    given: Martin
+  - family: Siegmund
+    given: Norbert
+  - family: Apel
+    given: Sven
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Using collaborations to encapsulate features? An explorative study
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '139-142'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/RaatikainenNMM08
+  type: paper-conference
+  author:
+  - family: Raatikainen
+    given: Mikko
+  - family: Niemelä
+    given: Eila
+  - family: Myllärniemi
+    given: Varvana
+  - family: Männistö
+    given: Tomi
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Svamp - an integrated approach for modeling functional and quality variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '89-96'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/RheinAKTS13
+  type: paper-conference
+  author:
+  - family: Rhein
+    given: Alexander
+    dropping-particle: von
+  - family: Apel
+    given: Sven
+  - family: Kästner
+    given: Christian
+  - family: Thüm
+    given: Thomas
+  - family: Schaefer
+    given: Ina
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'The pLA model: On the combination of product-line analyses'
+  title-short: The pLA model
+  container-title: VaMoS
+  publisher: ACM
+  page: 14:1-14:8
+  URL: http://doi.acm.org/10.1145/2430502.2430522
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/2011
+  type: book
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Fifth international workshop on variability modelling of software-intensive
+    systems, namur, belgium, january 27-29, 2011. proceedings
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/FelfernigRST15a
+  type: paper-conference
+  author:
+  - family: Felfernig
+    given: Alexander
+  - family: Reiterer
+    given: Stefan
+  - family: Stettinger
+    given: Martin
+  - family: Tiihonen
+    given: Juha
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Towards understanding cognitive aspects of configuration knowledge formalization
+  container-title: VaMoS
+  publisher: ACM
+  page: '117'
+  URL: http://doi.acm.org/10.1145/2701319.2701327
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/BecanAJM15
+  type: paper-conference
+  author:
+  - family: Bécan
+    given: Guillaume
+  - family: Acher
+    given: Mathieu
+  - family: Jézéquel
+    given: Jean-Marc
+  - family: Menguy
+    given: Thomas
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: On the variability secrets of an online video generator
+  container-title: VaMoS
+  publisher: ACM
+  page: '96'
+  URL: http://doi.acm.org/10.1145/2701319.2701328
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/Batory09
+  type: paper-conference
+  author:
+  - family: Batory
+    given: Don S.
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Dimensions of variability in software product lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '7'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/MannR11
+  type: paper-conference
+  author:
+  - family: Mann
+    given: Stefan
+  - family: Rock
+    given: Georg
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Control variant-rich models by variability measures
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '29-38'
+  URL: http://doi.acm.org/10.1145/1944892.1944896
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/BotterweckJS09
+  type: paper-conference
+  author:
+  - family: Botterweck
+    given: Goetz
+  - family: Janota
+    given: Mikolás
+  - family: Schneeweiss
+    given: Denny
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: A design of a configurable feature model configurator
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '165-168'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/Lora-MichielsSM10
+  type: paper-conference
+  author:
+  - family: Lora-Michiels
+    given: Alberto
+  - family: Salinesi
+    given: Camille
+  - family: Mazo
+    given: Raúl
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A method based on association rules to construct product line models
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '147-150'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/LancelotiMGO13
+  type: paper-conference
+  author:
+  - family: Lanceloti
+    given: Leandro A.
+  - family: Maldonado
+    given: José Carlos
+  - family: Souza Gimenes
+    given: Itana Maria
+    dropping-particle: de
+  - family: Jr.
+    given: Edson A. Oliveira
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'SMartyParser: A xMI parser for uML-based software product line variability
+    models'
+  title-short: SMartyParser
+  container-title: VaMoS
+  publisher: ACM
+  page: 10:1-10:5
+  URL: http://doi.acm.org/10.1145/2430502.2430516
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/LiebigDA13
+  type: paper-conference
+  author:
+  - family: Liebig
+    given: Jörg
+  - family: Daniel
+    given: Rolf
+  - family: Apel
+    given: Sven
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'Feature-oriented language families: A case study'
+  title-short: Feature-oriented language families
+  container-title: VaMoS
+  publisher: ACM
+  page: 11:1-11:8
+  URL: http://doi.acm.org/10.1145/2430502.2430518
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/LengauerBAGM14
+  type: paper-conference
+  author:
+  - family: Lengauer
+    given: Philipp
+  - family: Bitto
+    given: Verena
+  - family: Angerer
+    given: Florian
+  - family: Grünbacher
+    given: Paul
+  - family: Mössenböck
+    given: Hanspeter
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Where has all my memory gone?: Determining memory characteristics of product
+    variants using virtual-machine-level monitoring'
+  title-short: Where has all my memory gone?
+  container-title: VaMoS
+  publisher: ACM
+  page: 13:1-13:8
+  URL: http://doi.acm.org/10.1145/2556624.2556628
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/DhunganaSBRGBG13
+  type: paper-conference
+  author:
+  - family: Dhungana
+    given: Deepak
+  - family: Seichter
+    given: Dominik
+  - family: Botterweck
+    given: Goetz
+  - family: Rabiser
+    given: Rick
+  - family: Grünbacher
+    given: Paul
+  - family: Benavides
+    given: David
+  - family: Galindo
+    given: José A.
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Integrating heterogeneous variability modeling approaches with invar
+  container-title: VaMoS
+  publisher: ACM
+  page: 8:1-8:5
+  URL: http://doi.acm.org/10.1145/2430502.2430514
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/2008
+  type: book
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Second international workshop on variability modelling of software-intensive
+    systems, universität duisburg-essen, germany, january 16-18, 2008, proceedings
+  collection-title: ICB research report
+
+- id: conf/vamos/MorinBJ08
+  type: paper-conference
+  author:
+  - family: Morin
+    given: Brice
+  - family: Barais
+    given: Olivier
+  - family: Jézéquel
+    given: Jean-Marc
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Weaving aspect configurations for managing system variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '53-62'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/SteffensOLF12
+  type: paper-conference
+  author:
+  - family: Steffens
+    given: Michaela
+  - family: Oster
+    given: Sebastian
+  - family: Lochau
+    given: Malte
+  - family: Fogdal
+    given: Thomas
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Industrial evaluation of pairwise sPL testing with moSo-poLiTe
+  container-title: VaMoS
+  publisher: ACM
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/2110147.2110154
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/Selic14
+  type: paper-conference
+  author:
+  - family: Selic
+    given: Bran
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: A retrospective on an industrial product-line project
+  container-title: VaMoS
+  publisher: ACM
+  page: 2:1
+  URL: http://doi.acm.org/10.1145/2556624.2557788
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/NguyenCTH11
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Tuan
+  - family: Colman
+    given: Alan W.
+  - family: Talib
+    given: Muhammad Adeel
+  - family: Han
+    given: Jun
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'Managing service variability: State of the art and open issues'
+  title-short: Managing service variability
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '165-173'
+  URL: http://doi.acm.org/10.1145/1944892.1944913
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/HollVHGR11
+  type: paper-conference
+  author:
+  - family: Holl
+    given: Gerald
+  - family: Vierhauser
+    given: Michael
+  - family: Heider
+    given: Wolfgang
+  - family: Grünbacher
+    given: Paul
+  - family: Rabiser
+    given: Rick
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Product line bundles for tool support in multi product lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '21-27'
+  URL: http://doi.acm.org/10.1145/1944892.1944895
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/HaslingerLE13
+  type: paper-conference
+  author:
+  - family: Haslinger
+    given: Evelyn Nicole
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Egyed
+    given: Alexander
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Using feature model knowledge to speed up the generation of covering arrays
+  container-title: VaMoS
+  publisher: ACM
+  page: 16:1-16:6
+  URL: http://doi.acm.org/10.1145/2430502.2430524
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/SchmidE08
+  type: paper-conference
+  author:
+  - family: Schmid
+    given: Klaus
+  - family: Eichelberger
+    given: Holger
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: 'Model-based implementation of meta-variability constructs: A case study
+    using aspects'
+  title-short: Model-based implementation of meta-variability constructs
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '63-71'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/ClassenHLNT07
+  type: paper-conference
+  author:
+  - family: Classen
+    given: Andreas
+  - family: Heymans
+    given: Patrick
+  - family: Laney
+    given: Robin C.
+  - family: Nuseibeh
+    given: Bashar
+  - family: Tun
+    given: Thein Than
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'On the structure of problem variability: From feature diagrams to problem
+    frames'
+  title-short: On the structure of problem variability
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '109-117'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/GuntherCJ12
+  type: paper-conference
+  author:
+  - family: Günther
+    given: Sebastian
+  - family: Cleenewerck
+    given: Thomas
+  - family: Jonckers
+    given: Viviane
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Software variability: The design space of configuration languages'
+  title-short: Software variability
+  container-title: VaMoS
+  publisher: ACM
+  page: '157-164'
+  URL: http://doi.acm.org/10.1145/2110147.2110165
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/BenduhnTLLS15
+  type: paper-conference
+  author:
+  - family: Benduhn
+    given: Fabian
+  - family: Thüm
+    given: Thomas
+  - family: Lochau
+    given: Malte
+  - family: Leich
+    given: Thomas
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: A survey on modeling techniques for formal behavioral verification of software
+    product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: '80'
+  URL: http://doi.acm.org/10.1145/2701319.2701332
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/BoucherCFH10
+  type: paper-conference
+  author:
+  - family: Boucher
+    given: Quentin
+  - family: Classen
+    given: Andreas
+  - family: Faber
+    given: Paul
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Introducing tVL, a text-based feature modelling
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '159-162'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/Parnas07
+  type: paper-conference
+  author:
+  - family: Parnas
+    given: David Lorge
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'Software product-lines: What to do when enumaration won’t work'
+  title-short: Software product-lines
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '9-14'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/LienhardtC12
+  type: paper-conference
+  author:
+  - family: Lienhardt
+    given: Michael
+  - family: Clarke
+    given: Dave
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Row types for delta-oriented programming
+  container-title: VaMoS
+  publisher: ACM
+  page: '121-128'
+  URL: http://doi.acm.org/10.1145/2110147.2110161
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/MyllarniemiRM07
+  type: paper-conference
+  author:
+  - family: Myllärniemi
+    given: Varvana
+  - family: Raatikainen
+    given: Mikko
+  - family: Männistö
+    given: Tomi
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'KumbangSec: An approach for modelling functional and security variability
+    in software architectures'
+  title-short: KumbangSec
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '61-70'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/MosserPDB12
+  type: paper-conference
+  author:
+  - family: Mosser
+    given: Sébastien
+  - family: Parra
+    given: Carlos Andres
+  - family: Duchien
+    given: Laurence
+  - family: Blay-Fornarino
+    given: Mireille
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Using domain features to handle feature interactions
+  container-title: VaMoS
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/2110147.2110159
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/Haugen13
+  type: paper-conference
+  author:
+  - family: Haugen
+    given: Øystein
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'CVL: Common variability language or chaos, vanity and limitations?'
+  title-short: CVL
+  container-title: VaMoS
+  publisher: ACM
+  page: 1:1
+  URL: http://doi.acm.org/10.1145/2430502.2430504
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/KimMY07
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Youngbong
+  - family: Moon
+    given: Mikyeong
+  - family: Yeom
+    given: Keunhyuk
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: An aspect-oriented approach for representing variability in product line
+    architecture
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '37-44'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/MerschenPBK11
+  type: paper-conference
+  author:
+  - family: Merschen
+    given: Daniel
+  - family: Polzer
+    given: Andreas
+  - family: Botterweck
+    given: Goetz
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Experiences of applying model-based analysis to support the development of
+    automotive software product lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/1944892.1944910
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/KastnerGO11
+  type: paper-conference
+  author:
+  - family: Kästner
+    given: Christian
+  - family: Giarrusso
+    given: Paolo G.
+  - family: Ostermann
+    given: Klaus
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Partial preprocessing c code for variability analysis
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '127-136'
+  URL: http://doi.acm.org/10.1145/1944892.1944908
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/GomezR10
+  type: paper-conference
+  author:
+  - family: Gómez
+    given: Abel
+  - family: Ramos
+    given: Isidro
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: 'Cardinality-based feature modeling and model-driven engineering: Fitting
+    them together'
+  title-short: Cardinality-based feature modeling and model-driven engineering
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '61-68'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/BergerRNABCW13
+  type: paper-conference
+  author:
+  - family: Berger
+    given: Thorsten
+  - family: Rublack
+    given: Ralf
+  - family: Nair
+    given: Divya
+  - family: Atlee
+    given: Joanne M.
+  - family: '0002'
+    given: Martin Becker
+  - family: Czarnecki
+    given: Krzysztof
+  - family: Wasowski
+    given: Andrzej
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: A survey of variability modeling in industrial practice
+  container-title: VaMoS
+  publisher: ACM
+  page: 7:1-7:8
+  URL: http://doi.acm.org/10.1145/2430502.2430513
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/CardozoMMGO14
+  type: paper-conference
+  author:
+  - family: Cardozo
+    given: Nicolás
+  - family: Meuter
+    given: Wolfgang De
+  - family: Mens
+    given: Kim
+  - family: González
+    given: Sebastián
+  - family: Orban
+    given: Pierre-Yves
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Features on demand
+  container-title: VaMoS
+  publisher: ACM
+  page: 18:1-18:8
+  URL: http://doi.acm.org/10.1145/2556624.2556630
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/SeguraGBPC12
+  type: paper-conference
+  author:
+  - family: Segura
+    given: Sergio
+  - family: Galindo
+    given: José A.
+  - family: Benavides
+    given: David
+  - family: Parejo
+    given: José Antonio
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'BeTTy: Benchmarking and testing on the automated analysis of feature models'
+  title-short: BeTTy
+  container-title: VaMoS
+  publisher: ACM
+  page: '63-71'
+  URL: http://doi.acm.org/10.1145/2110147.2110155
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/PerezCVF09
+  type: paper-conference
+  author:
+  - family: Pérez
+    given: Francisca
+  - family: Cetina
+    given: Carlos
+  - family: Valderas
+    given: Pedro
+  - family: Fons
+    given: Joan
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Towards end-user development of smart homes by means of variability engineering
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '103-110'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/Garcia-GalanTC11
+  type: paper-conference
+  author:
+  - family: García-Galán
+    given: Jesús
+  - family: Trinidad
+    given: Pablo
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'ISA packager: A tool for sPL deployment'
+  title-short: ISA packager
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '115-118'
+  URL: http://doi.acm.org/10.1145/1944892.1944906
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/GalsterA11
+  type: paper-conference
+  author:
+  - family: Galster
+    given: Matthias
+  - family: Avgeriou
+    given: Paris
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'The notion of variability in software architecture: Results from a preliminary
+    exploratory study'
+  title-short: The notion of variability in software architecture
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '59-67'
+  URL: http://doi.acm.org/10.1145/1944892.1944899
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/KrieterSFS15
+  type: paper-conference
+  author:
+  - family: Krieter
+    given: Sebastian
+  - family: Schröter
+    given: Reimar
+  - family: Fenske
+    given: Wolfram
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Use-case-specific source-code documentation for feature-oriented programming
+  container-title: VaMoS
+  publisher: ACM
+  page: '27'
+  URL: http://doi.acm.org/10.1145/2701319.2701329
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/ClotetDFGLMS08
+  type: paper-conference
+  author:
+  - family: Clotet
+    given: Roger
+  - family: Dhungana
+    given: Deepak
+  - family: Franch
+    given: Xavier
+  - family: Grünbacher
+    given: Paul
+  - family: López
+    given: Lidia
+  - family: Marco
+    given: Jordi
+  - family: Seyff
+    given: Norbert
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Dealing with changes in service-oriented computing through integrated goal
+    and variability modelling
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '43-52'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/AsirelliBGF10
+  type: paper-conference
+  author:
+  - family: Asirelli
+    given: Patrizia
+  - family: Beek
+    given: Maurice H.
+    dropping-particle: ter
+  - family: Gnesi
+    given: Stefania
+  - family: Fantechi
+    given: Alessandro
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A deontic logical framework for modelling product families
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '37-44'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/ForsterMP08
+  type: paper-conference
+  author:
+  - family: Forster
+    given: Thomas
+  - family: Muthig
+    given: Dirk
+  - family: Pech
+    given: Daniel
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Understanding decision models - visualization and complexity reduction of
+    software variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '111-119'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/NestorOQST07
+  type: paper-conference
+  author:
+  - family: Nestor
+    given: Daren
+  - family: O’Malley
+    given: Luke
+  - family: Quigley
+    given: Aaron J.
+  - family: Sikora
+    given: Ernst
+  - family: Thiel
+    given: Steffen
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Visualisation of variability in software product line engineering
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '71-78'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/SchroeterCGWA12
+  type: paper-conference
+  author:
+  - family: Schroeter
+    given: Julia
+  - family: Cech
+    given: Sebastian
+  - family: Götz
+    given: Sebastian
+  - family: Wilke
+    given: Claas
+  - family: Aßmann
+    given: Uwe
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Towards modeling a variable architecture for multi-tenant saaS-applications
+  container-title: VaMoS
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/2110147.2110160
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/NoppenBWR09
+  type: paper-conference
+  author:
+  - family: Noppen
+    given: Joost
+  - family: Broek
+    given: Pim
+    dropping-particle: van den
+  - family: Weston
+    given: Nathan
+  - family: Rashid
+    given: Awais
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Modelling imperfect product line requirements with fuzzy feature diagrams
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '93-102'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/BergerG14
+  type: paper-conference
+  author:
+  - family: Berger
+    given: Thorsten
+  - family: Guo
+    given: Jianmei
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Towards system analysis with variability model metrics
+  container-title: VaMoS
+  publisher: ACM
+  page: 23:1-23:8
+  URL: http://doi.acm.org/10.1145/2556624.2556641
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/WnukRAN09
+  type: paper-conference
+  author:
+  - family: Wnuk
+    given: Krzysztof
+  - family: Regnell
+    given: Björn
+  - family: Andersson
+    given: Jonas
+  - family: Nygren
+    given: Samuel
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: An industrial case study on large-scale variability management for product
+    configuration in the mobile handset domain
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '155-164'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/Lopez-HerrejonE12
+  type: paper-conference
+  author:
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Egyed
+    given: Alexander
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Towards fixing inconsistencies in models with variability
+  container-title: VaMoS
+  publisher: ACM
+  page: '93-100'
+  URL: http://doi.acm.org/10.1145/2110147.2110158
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/SoaresMA15
+  type: paper-conference
+  author:
+  - family: Soares
+    given: Larissa Rocha
+  - family: Carmo Machado
+    given: Ivan
+    dropping-particle: do
+  - family: Almeida
+    given: Eduardo Santana
+    dropping-particle: de
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: 'Non-functional properties in software product lines: A reuse approach'
+  title-short: Non-functional properties in software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: '67'
+  URL: http://doi.acm.org/10.1145/2701319.2701326
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/SzaszV08
+  type: paper-conference
+  author:
+  - family: Szasz
+    given: Nora
+  - family: Vilanova
+    given: Pedro
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Statecharts and variabilities
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '131-140'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/AlferezKMAA08
+  type: paper-conference
+  author:
+  - family: Alférez
+    given: Mauricio
+  - family: Kulesza
+    given: Uirá
+  - family: Moreira
+    given: Ana
+  - family: '0001'
+    given: João Araújo
+  - family: Amaral
+    given: Vasco
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: 'Tracing from features to use cases: A model-driven approach'
+  title-short: Tracing from features to use cases
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '81-87'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/JohnS11
+  type: paper-conference
+  author:
+  - family: John
+    given: Isabel
+  - family: Silva
+    given: Adeline
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Evaluating variability instantiation strategies for product lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '105-113'
+  URL: http://doi.acm.org/10.1145/1944892.1944905
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/CordyCSHL12
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: Maxime
+  - family: Classen
+    given: Andreas
+  - family: Schobbens
+    given: Pierre-Yves
+  - family: Heymans
+    given: Patrick
+  - family: Legay
+    given: Axel
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Managing evolution in software product lines: A model-checking perspective'
+  title-short: Managing evolution in software product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: '183-191'
+  URL: http://doi.acm.org/10.1145/2110147.2110168
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/ClassenHH09
+  type: paper-conference
+  author:
+  - family: Classen
+    given: Andreas
+  - family: Hubaux
+    given: Arnaud
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: A formal semantics for multi-level staged configuration
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '51-60'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/GilsonE11
+  type: paper-conference
+  author:
+  - family: Gilson
+    given: Fabian
+  - family: Englebert
+    given: Vincent
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Towards handling architecture design, variability and evolution with model
+    transformations
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '39-48'
+  URL: http://doi.acm.org/10.1145/1944892.1944897
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/Maersk-MollerJ12
+  type: paper-conference
+  author:
+  - family: Mærsk-Møller
+    given: Hans Martin
+  - family: Jørgensen
+    given: Bo Nørregaard
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Cardinality-dependent variability in orthogonal variability models
+  container-title: VaMoS
+  publisher: ACM
+  page: '165-172'
+  URL: http://doi.acm.org/10.1145/2110147.2110166
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/SchmidRG11
+  type: paper-conference
+  author:
+  - family: Schmid
+    given: Klaus
+  - family: Rabiser
+    given: Rick
+  - family: Grünbacher
+    given: Paul
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: A comparison of decision modeling approaches in product lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '119-126'
+  URL: http://doi.acm.org/10.1145/1944892.1944907
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/BoucherPH12
+  type: paper-conference
+  author:
+  - family: Boucher
+    given: Quentin
+  - family: Perrouin
+    given: Gilles
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Deriving configuration interfaces from feature models: A vision paper'
+  title-short: Deriving configuration interfaces from feature models
+  container-title: VaMoS
+  publisher: ACM
+  page: '37-44'
+  URL: http://doi.acm.org/10.1145/2110147.2110152
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/JanotaBM14
+  type: paper-conference
+  author:
+  - family: Janota
+    given: Mikolás
+  - family: Botterweck
+    given: Goetz
+  - family: Marques-Silva
+    given: João
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: On lazy and eager interactive reconfiguration
+  container-title: VaMoS
+  publisher: ACM
+  page: 8:1-8:8
+  URL: http://doi.acm.org/10.1145/2556624.2556644
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/RabiserDGB08
+  type: paper-conference
+  author:
+  - family: Rabiser
+    given: Rick
+  - family: Dhungana
+    given: Deepak
+  - family: Grünbacher
+    given: Paul
+  - family: Burgstaller
+    given: Benedikt
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: 'Value-based elicitation of product line variability: An experience report'
+  title-short: Value-based elicitation of product line variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '73-79'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/BergerRR10
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Christian Berger
+  - family: Rendel
+    given: Holger
+  - family: Rumpe
+    given: Bernhard
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Measuring the ability to form a product line from existing products
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '151-154'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/GrunbacherRDL09
+  type: paper-conference
+  author:
+  - family: Grünbacher
+    given: Paul
+  - family: Rabiser
+    given: Rick
+  - family: Dhungana
+    given: Deepak
+  - family: Lehofer
+    given: Martin
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: 'Structuring the product line modeling space: Strategies and examples'
+  title-short: Structuring the product line modeling space
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '77-82'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/GamezHF15
+  type: paper-conference
+  author:
+  - family: Gámez
+    given: Nadia
+  - family: Haddad
+    given: Joyce El
+  - family: Fuentes
+    given: Lidia
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Managing the variability in the transactional services selection
+  container-title: VaMoS
+  publisher: ACM
+  page: '88'
+  URL: http://doi.acm.org/10.1145/2701319.2701335
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/AlvesSBBG09
+  type: paper-conference
+  author:
+  - family: Alves
+    given: Vander
+  - family: Schneider
+    given: Daniel
+  - family: '0002'
+    given: Martin Becker
+  - family: Bencomo
+    given: Nelly
+  - family: Grace
+    given: Paul
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Comparitive study of variability management in software product lines and
+    runtime adaptable systems
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '9-17'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/HollTGE12
+  type: paper-conference
+  author:
+  - family: Holl
+    given: Gerald
+  - family: Thaller
+    given: Daniel
+  - family: Grünbacher
+    given: Paul
+  - family: Elsner
+    given: Christoph
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Managing emerging configuration dependencies in multi product lines
+  container-title: VaMoS
+  publisher: ACM
+  page: '3-10'
+  URL: http://doi.acm.org/10.1145/2110147.2110148
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/DjebbiS08
+  type: paper-conference
+  author:
+  - family: Djebbi
+    given: Olfa
+  - family: Salinesi
+    given: Camille
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Towards an automatic pL requirements configuration through constraints reasoning
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '17-23'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/BroekG09
+  type: paper-conference
+  author:
+  - family: Broek
+    given: Pim
+    dropping-particle: van den
+  - family: Galvão
+    given: Ismênia
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Analysis of feature models using generalised feature trees
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '29-35'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/ChaeH10
+  type: paper-conference
+  author:
+  - family: Chae
+    given: Wonseok
+  - family: Hinrichs
+    given: Timothy L.
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: 'SMARTFORM: A web-based feature configuration tool'
+  title-short: SMARTFORM
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '183-186'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/MannR09
+  type: paper-conference
+  author:
+  - family: Mann
+    given: Stefan
+  - family: Rock
+    given: Georg
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Dealing with variability in architecture descriptions to support automotive
+    product lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '111-120'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/Helvensteijn12
+  type: paper-conference
+  author:
+  - family: Helvensteijn
+    given: Michiel
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Delta modeling workflow
+  container-title: VaMoS
+  publisher: ACM
+  page: '129-137'
+  URL: http://doi.acm.org/10.1145/2110147.2110162
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/SheLBWC10
+  type: paper-conference
+  author:
+  - family: She
+    given: Steven
+  - family: Lotufo
+    given: Rafael
+  - family: Berger
+    given: Thorsten
+  - family: Wasowski
+    given: Andrzej
+  - family: Czarnecki
+    given: Krzysztof
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: The variability model of the linux kernel
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '45-51'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/PichlerEH12
+  type: paper-conference
+  author:
+  - family: Pichler
+    given: Christian
+  - family: Engel
+    given: Robert
+  - family: Huemer
+    given: Christian
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: Validation of business document types based on feature models
+  container-title: VaMoS
+  publisher: ACM
+  page: '27-36'
+  URL: http://doi.acm.org/10.1145/2110147.2110151
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/JohnLM07
+  type: paper-conference
+  author:
+  - family: John
+    given: Isabel
+  - family: Lee
+    given: Jaejoon
+  - family: Muthig
+    given: Dirk
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Separation of variability dimension and development dimension
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '45-49'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/LytraETLSZ14
+  type: paper-conference
+  author:
+  - family: Lytra
+    given: Ioanna
+  - family: Eichelberger
+    given: Holger
+  - family: Tran
+    given: Huy
+  - family: Leyh
+    given: Georg
+  - family: Schmid
+    given: Klaus
+  - family: Zdun
+    given: Uwe
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: On the interdependence and integration of variability and architectural decisions
+  container-title: VaMoS
+  publisher: ACM
+  page: 19:1-19:8
+  URL: http://doi.acm.org/10.1145/2556624.2556634
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/MonteroPC08
+  type: paper-conference
+  author:
+  - family: Montero
+    given: Ildefonso
+  - family: Peña
+    given: Joaquín
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Towards visualisation and analysis of runtime variability in execution time
+    of business information systems based on product lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '151-160'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/TessierSG08
+  type: paper-conference
+  author:
+  - family: Tessier
+    given: Patrick
+  - family: Servat
+    given: David
+  - family: Gérard
+    given: Sébastien
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Variability management on behavioral models
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '121-130'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/Roos-Frantz09
+  type: paper-conference
+  author:
+  - family: Roos-Frantz
+    given: Fabricia
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: A preliminary comparison of formal properties on orthogonal variability model
+    and feature models
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '121-126'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/SchroterTSS13
+  type: paper-conference
+  author:
+  - family: Schröter
+    given: Reimar
+  - family: Thüm
+    given: Thomas
+  - family: Siegmund
+    given: Norbert
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Automated analysis of dependent feature models
+  container-title: VaMoS
+  publisher: ACM
+  page: 9:1-9:5
+  URL: http://doi.acm.org/10.1145/2430502.2430515
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/BurdekLLBGS14
+  type: paper-conference
+  author:
+  - family: Bürdek
+    given: Johannes
+  - family: Lity
+    given: Sascha
+  - family: Lochau
+    given: Malte
+  - family: Berens
+    given: Markus
+  - family: Goltz
+    given: Ursula
+  - family: Schürr
+    given: Andy
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Staged configuration of dynamic software product lines with complex binding
+    time constraints
+  container-title: VaMoS
+  publisher: ACM
+  page: 16:1-16:8
+  URL: http://doi.acm.org/10.1145/2556624.2556627
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/AcherBHCH13
+  type: paper-conference
+  author:
+  - family: Acher
+    given: Mathieu
+  - family: Baudry
+    given: Benoit
+  - family: Heymans
+    given: Patrick
+  - family: Cleve
+    given: Anthony
+  - family: Hainaut
+    given: Jean-Luc
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Support for reverse engineering and maintaining feature models
+  container-title: VaMoS
+  publisher: ACM
+  page: 20:1-20:8
+  URL: http://doi.acm.org/10.1145/2430502.2430530
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/EtxeberriaMB07
+  type: paper-conference
+  author:
+  - family: Etxeberria
+    given: Leire
+  - family: Mendieta
+    given: Goiuria Sagardui
+  - family: Belategi
+    given: Lorea
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Modelling variation in quality attributes
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '51-59'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/OmmenR15
+  type: paper-conference
+  author:
+  - family: Ommen
+    given: Jürgen
+  - family: Rock
+    given: Georg
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Visualization of variability in complex development structures
+  container-title: VaMoS
+  publisher: ACM
+  page: '109'
+  URL: http://doi.acm.org/10.1145/2701319.2701324
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/PassosCAWKG13
+  type: paper-conference
+  author:
+  - family: Passos
+    given: Leonardo Teixeira
+  - family: Czarnecki
+    given: Krzysztof
+  - family: Apel
+    given: Sven
+  - family: Wasowski
+    given: Andrzej
+  - family: Kästner
+    given: Christian
+  - family: Guo
+    given: Jianmei
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Feature-oriented software evolution
+  container-title: VaMoS
+  publisher: ACM
+  page: 17:1-17:8
+  URL: http://doi.acm.org/10.1145/2430502.2430526
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/2007
+  type: book
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: First international workshop on variability modelling of software-intensive
+    systems, vaMoS 2007, limerick, ireland, january 16-18, 2007. proceedings
+  collection-title: Lero technical report
+  volume: '2007-01'
+
+- id: conf/vamos/HubauxCMH10
+  type: paper-conference
+  author:
+  - family: Hubaux
+    given: Arnaud
+  - family: Classen
+    given: Andreas
+  - family: Mendonça
+    given: Marcílio
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A preliminary review on the application of feature diagrams in practice
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '53-59'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/LettnerG15
+  type: paper-conference
+  author:
+  - family: Lettner
+    given: Daniela
+  - family: Grünbacher
+    given: Paul
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Using feature feeds to improve developer awareness in software ecosystem
+    evolution
+  container-title: VaMoS
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2701319.2701331
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/SchusterSS14
+  type: paper-conference
+  author:
+  - family: Schuster
+    given: Sven
+  - family: Schulze
+    given: Sandro
+  - family: Schaefer
+    given: Ina
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'Structural feature interaction patterns: Case studies and guidelines'
+  title-short: Structural feature interaction patterns
+  container-title: VaMoS
+  publisher: ACM
+  page: 14:1-14:8
+  URL: http://doi.acm.org/10.1145/2556624.2556640
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/SilvaS11
+  type: paper-conference
+  author:
+  - family: Silva
+    given: Rui C.
+  - family: Sobral
+    given: João L.
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Optimizing molecular dynamics simulations with product lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '151-157'
+  URL: http://doi.acm.org/10.1145/1944892.1944911
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/BashroushSKBG08
+  type: paper-conference
+  author:
+  - family: Bashroush
+    given: Rabih
+  - family: Spence
+    given: Ivor T. A.
+  - family: Kilpatrick
+    given: Peter
+  - family: Brown
+    given: Thomas
+  - family: Gillan
+    given: Charles
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: A multiple views model for variability management in software product lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '101-110'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+
+- id: conf/vamos/HaberKMNRS13
+  type: paper-conference
+  author:
+  - family: Haber
+    given: Arne
+  - family: Kolassa
+    given: Carsten
+  - family: Manhart
+    given: Peter
+  - family: Nazari
+    given: Pedram Mir Seyed
+  - family: Rumpe
+    given: Bernhard
+  - family: Schaefer
+    given: Ina
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: First-class variability modeling in matlab/Simulink
+  container-title: VaMoS
+  publisher: ACM
+  page: 4:1-4:8
+  URL: http://doi.acm.org/10.1145/2430502.2430508
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/RosenmullerS10
+  type: paper-conference
+  author:
+  - family: Rosenmüller
+    given: Marko
+  - family: Siegmund
+    given: Norbert
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Automating the configuration of multi software product lines
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '123-130'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/FelfernigRST15
+  type: paper-conference
+  author:
+  - family: Felfernig
+    given: Alexander
+  - family: Reiterer
+    given: Stefan
+  - family: Stettinger
+    given: Martin
+  - family: Tiihonen
+    given: Juha
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Intelligent techniques for configuration knowledge evolution
+  container-title: VaMoS
+  publisher: ACM
+  page: '51'
+  URL: http://doi.acm.org/10.1145/2701319.2701320
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/MatzlerWM15
+  type: paper-conference
+  author:
+  - family: Mätzler
+    given: Emanuel
+  - family: Wally
+    given: Bernhard
+  - family: Mazak
+    given: Alexandra
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: 'A common home for features and requirements: Retrofitting the house of
+    quality with feature models'
+  title-short: A common home for features and requirements
+  container-title: VaMoS
+  publisher: ACM
+  page: '75'
+  URL: http://doi.acm.org/10.1145/2701319.2701334
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/HeuerP14
+  type: paper-conference
+  author:
+  - family: Heuer
+    given: André
+  - family: Pohl
+    given: Klaus
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Structuring variability in the context of embedded systems during software
+    engineering
+  container-title: VaMoS
+  publisher: ACM
+  page: 21:1-21:8
+  URL: http://doi.acm.org/10.1145/2556624.2556642
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/PillatBOW13
+  type: paper-conference
+  author:
+  - family: Pillat
+    given: Raquel M.
+  - family: Basso
+    given: Fabio Paulo
+  - family: Oliveira
+    given: Toacy C.
+  - family: Werner
+    given: Cláudia Maria Lima
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Ensuring consistency of feature-based decisions with a business rule system
+  container-title: VaMoS
+  publisher: ACM
+  page: 15:1-15:8
+  URL: http://doi.acm.org/10.1145/2430502.2430523
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/ZhangB13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Bo
+  - family: '0002'
+    given: Martin Becker
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Mining complex feature correlations from software product line configurations
+  container-title: VaMoS
+  publisher: ACM
+  page: 19:1-19:7
+  URL: http://doi.acm.org/10.1145/2430502.2430529
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/SemmakGL09
+  type: paper-conference
+  author:
+  - family: Semmak
+    given: Farida
+  - family: Gnaho
+    given: Christophe
+  - family: Laleau
+    given: Régine
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: A tool for modelling variability at goal level
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '177-180'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/BrummermannKS11
+  type: paper-conference
+  author:
+  - family: Brummermann
+    given: Hendrik
+  - family: Keunecke
+    given: Markus
+  - family: Schmid
+    given: Klaus
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Variability issues in the evolution of information system ecosystems
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '159-164'
+  URL: http://doi.acm.org/10.1145/1944892.1944912
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/ChastekM09
+  type: paper-conference
+  author:
+  - family: Chastek
+    given: Gary J.
+  - family: McGregor
+    given: John D.
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Modeling variation in production planning artifacts
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '45-50'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/HeiderR10
+  type: paper-conference
+  author:
+  - family: Heider
+    given: Wolfgang
+  - family: Rabiser
+    given: Rick
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Tool support for evolution of product lines through rapid feedback from application
+    engineering
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '167-170'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/IstoanBK11
+  type: paper-conference
+  author:
+  - family: Istoan
+    given: Paul
+  - family: Biri
+    given: Nicolas
+  - family: Klein
+    given: Jacques
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Issues in model-driven behavioural product derivation
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '69-78'
+  URL: http://doi.acm.org/10.1145/1944892.1944900
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/AsirelliBGF09
+  type: paper-conference
+  author:
+  - family: Asirelli
+    given: Patrizia
+  - family: Beek
+    given: Maurice H.
+    dropping-particle: ter
+  - family: Gnesi
+    given: Stefania
+  - family: Fantechi
+    given: Alessandro
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Deontic logics for modeling behavioural variability
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '71-76'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/SanchezSC14
+  type: paper-conference
+  author:
+  - family: Sánchez
+    given: Ana B.
+  - family: Segura
+    given: Sergio
+  - family: Cortés
+    given: Antonio Ruiz
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: 'The drupal framework: A case study to evaluate variability testing techniques'
+  title-short: The drupal framework
+  container-title: VaMoS
+  publisher: ACM
+  page: 11:1-11:8
+  URL: http://doi.acm.org/10.1145/2556624.2556638
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/AcherCLF11
+  type: paper-conference
+  author:
+  - family: Acher
+    given: Mathieu
+  - family: Collet
+    given: Philippe
+  - family: Lahire
+    given: Philippe
+  - family: France
+    given: Robert B.
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'Managing feature models with familiar: A demonstration of the language
+    and its tool support'
+  title-short: Managing feature models with familiar
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '91-96'
+  URL: http://doi.acm.org/10.1145/1944892.1944903
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/DhunganaGR07
+  type: paper-conference
+  author:
+  - family: Dhungana
+    given: Deepak
+  - family: Grünbacher
+    given: Paul
+  - family: Rabiser
+    given: Rick
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'DecisionKing: A flexible and extensible tool for integrated variability
+    modeling'
+  title-short: DecisionKing
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '119-127'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/Czarnecki10
+  type: paper-conference
+  author:
+  - family: Czarnecki
+    given: Krzysztof
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: 'Variability modeling: State of the art and future directions'
+  title-short: Variability modeling
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '11'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/SalinesiRM09
+  type: paper-conference
+  author:
+  - family: Salinesi
+    given: Camille
+  - family: Rolland
+    given: Colette
+  - family: Mazo
+    given: Raúl
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: 'VMWare: Tool support for automatic verification of structural and semantic
+    correctness in product line models'
+  title-short: VMWare
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '173-176'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/DevroeyPLSH15
+  type: paper-conference
+  author:
+  - family: Devroey
+    given: Xavier
+  - family: Perrouin
+    given: Gilles
+  - family: Legay
+    given: Axel
+  - family: Schobbens
+    given: Pierre-Yves
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: 'Covering sPL behaviour with sampled configurations: An initial assessment'
+  title-short: Covering sPL behaviour with sampled configurations
+  container-title: VaMoS
+  publisher: ACM
+  page: '59'
+  URL: http://doi.acm.org/10.1145/2701319.2701325
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/DiasTRGL10
+  type: paper-conference
+  author:
+  - family: Dias
+    given: Marcelo Oliveira
+  - family: Tizzei
+    given: Leonardo P.
+  - family: Rubira
+    given: Cecília M. F.
+  - family: Garcia
+    given: Alessandro F.
+  - family: Lee
+    given: Jaejoon
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Leveraging aspect-connectors to improve stability of product-line variabilities
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '21-28'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/SavalPHM09
+  type: paper-conference
+  author:
+  - family: Saval
+    given: Germain
+  - family: Puissant
+    given: Jorge Pinna
+  - family: Heymans
+    given: Patrick
+  - family: Mens
+    given: Tom
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Some challenges of feature-based merging of class diagrams
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '127-136'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/AnastasopoulosOMAM09
+  type: paper-conference
+  author:
+  - family: Anastasopoulos
+    given: Michalis
+  - family: Oliveira
+    given: Thiago Henrique Burgos
+    dropping-particle: de
+  - family: Muthig
+    given: Dirk
+  - family: Almeida
+    given: Eduardo Santana
+    dropping-particle: de
+  - family: Lemos Meira
+    given: Silvio Romero
+    dropping-particle: de
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: 'Evolving a software product line reuse infrastructure: A configuration
+    management solution'
+  title-short: Evolving a software product line reuse infrastructure
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '19-28'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/CawleyHBT10
+  type: paper-conference
+  author:
+  - family: Cawley
+    given: Ciarán
+  - family: Healy
+    given: Patrick
+  - family: Botterweck
+    given: Goetz
+  - family: Thiel
+    given: Steffen
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Research tool to support feature configuration in software product lines
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '179-182'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/DevroeyPCSLH14
+  type: paper-conference
+  author:
+  - family: Devroey
+    given: Xavier
+  - family: Perrouin
+    given: Gilles
+  - family: Cordy
+    given: Maxime
+  - family: Schobbens
+    given: Pierre-Yves
+  - family: Legay
+    given: Axel
+  - family: Heymans
+    given: Patrick
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: Towards statistical prioritization for software product lines testing
+  container-title: VaMoS
+  publisher: ACM
+  page: 10:1-10:7
+  URL: http://doi.acm.org/10.1145/2556624.2556635
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/Inverardi13
+  type: paper-conference
+  author:
+  - family: Inverardi
+    given: Paola
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'Taming the uncertainty: Variability as a means for predictable system
+    evolution'
+  title-short: Taming the uncertainty
+  container-title: VaMoS
+  publisher: ACM
+  page: 2:1
+  URL: http://doi.acm.org/10.1145/2430502.2430505
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/PleussBD10
+  type: paper-conference
+  author:
+  - family: Pleuss
+    given: Andreas
+  - family: Botterweck
+    given: Goetz
+  - family: Dhungana
+    given: Deepak
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Integrating automated product derivation and individual user interface design
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '69-76'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/2013
+  type: book
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: The seventh international workshop on variability modelling of software-intensive
+    systems, vaMoS ’13, pisa , italy, january 23 - 25, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2430502
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/KliemannelRM10
+  type: paper-conference
+  author:
+  - family: Kliemannel
+    given: Fabian
+  - family: Rock
+    given: Georg
+  - family: Mann
+    given: Stefan
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: A custom approach for variability management in automotive applications
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '155-158'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/CavalcantiMNLAM11
+  type: paper-conference
+  author:
+  - family: Cavalcanti
+    given: Yguaratã Cerqueira
+  - family: Carmo Machado
+    given: Ivan
+    dropping-particle: do
+  - family: Mota Silveira Neto
+    given: Paulo Anselmo
+    dropping-particle: da
+  - family: Lobato
+    given: Luanna Lopes
+  - family: Almeida
+    given: Eduardo Santana
+    dropping-particle: de
+  - family: Lemos Meira
+    given: Silvio Romero
+    dropping-particle: de
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Towards metamodel support for variability and traceability in software product
+    lines
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '49-57'
+  URL: http://doi.acm.org/10.1145/1944892.1944898
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/GauthierCBHSM10
+  type: paper-conference
+  author:
+  - family: Gauthier
+    given: Christophe
+  - family: Classen
+    given: Andreas
+  - family: Boucher
+    given: Quentin
+  - family: Heymans
+    given: Patrick
+  - family: Storey
+    given: Margaret-Anne D.
+  - family: Mendonça
+    given: Marcílio
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: XToF - a tool for tag-based product line implementation
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '163-166'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/HelvensteijnMW12
+  type: paper-conference
+  author:
+  - family: Helvensteijn
+    given: Michiel
+  - family: Muschevici
+    given: Radu
+  - family: Wong
+    given: Peter Y. H.
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Delta modeling in practice: A fredhopper case study'
+  title-short: Delta modeling in practice
+  container-title: VaMoS
+  publisher: ACM
+  page: '139-148'
+  URL: http://doi.acm.org/10.1145/2110147.2110163
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/SeidlA13
+  type: paper-conference
+  author:
+  - family: Seidl
+    given: Christoph
+  - family: Aßmann
+    given: Uwe
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Towards modeling and analyzing variability in evolving software ecosystems
+  container-title: VaMoS
+  publisher: ACM
+  page: 3:1-3:8
+  URL: http://doi.acm.org/10.1145/2430502.2430507
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/ElfakiPH09
+  type: paper-conference
+  author:
+  - family: Elfaki
+    given: Abdelrahman Osman
+  - family: Phon-Amnuaisuk
+    given: Somnuk
+  - family: Ho
+    given: Chin Kuan
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Using first order logic to validate feature model
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '169-172'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/Wulf-HadashR13
+  type: paper-conference
+  author:
+  - family: Wulf-Hadash
+    given: Ora
+  - family: Reinhartz-Berger
+    given: Iris
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Cross product line analysis
+  container-title: VaMoS
+  publisher: ACM
+  page: 21:1-21:8
+  URL: http://doi.acm.org/10.1145/2430502.2430531
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/MazoGHRSD11
+  type: paper-conference
+  author:
+  - family: Mazo
+    given: Raúl
+  - family: Grünbacher
+    given: Paul
+  - family: Heider
+    given: Wolfgang
+  - family: Rabiser
+    given: Rick
+  - family: Salinesi
+    given: Camille
+  - family: Diaz
+    given: Daniel
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Using constraint programming to verify dOPLER variability models
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '97-103'
+  URL: http://doi.acm.org/10.1145/1944892.1944904
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/2014
+  type: book
+  editor:
+  - family: Collet
+    given: Philippe
+  issued:
+  - year: '2014'
+  title: The eighth international workshop on variability modelling of software-intensive
+    systems, vaMoS ’14, sophia antipolis, france, january 22-24, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2556624
+  ISBN: '978-1-4503-2556-1'
+
+- id: conf/vamos/2015
+  type: book
+  editor:
+  - family: Schmid
+    given: Klaus
+  issued:
+  - year: '2015'
+  title: Proceedings of the ninth international workshop on variability modelling
+    of software-intensive systems, vaMoS ’15, hildesheim, germany, january 21-23,
+    2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2701319
+  ISBN: '978-1-4503-3273-6'
+
+- id: conf/vamos/AbelePSTW10
+  type: paper-conference
+  author:
+  - family: Abele
+    given: Andreas
+  - family: Papadopoulos
+    given: Yiannis
+  - family: Servat
+    given: David
+  - family: Törngren
+    given: Martin
+  - family: Weber
+    given: Matthias
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: The cVM framework - a prototype tool for compositional variability management
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '101-105'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/ErwigORW13
+  type: paper-conference
+  author:
+  - family: Erwig
+    given: Martin
+  - family: Ostermann
+    given: Klaus
+  - family: Rendel
+    given: Tillmann
+  - family: Walkingshaw
+    given: Eric
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Adding configuration to the choice calculus
+  container-title: VaMoS
+  publisher: ACM
+  page: 13:1-13:8
+  URL: http://doi.acm.org/10.1145/2430502.2430520
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/Lopez-Herrejon07
+  type: paper-conference
+  author:
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: 'Language and uML support for features: Two research challenges'
+  title-short: Language and uML support for features
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '97-100'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/ThomasDH11
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Jacques
+  - family: Dziobek
+    given: Christian
+  - family: Hedenetz
+    given: Bernd
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Variability management in the aUTOSAR-based development of applications for
+    in-vehicle systems
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '137-140'
+  URL: http://doi.acm.org/10.1145/1944892.1944909
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/CzarneckiGRSW12
+  type: paper-conference
+  author:
+  - family: Czarnecki
+    given: Krzysztof
+  - family: Grünbacher
+    given: Paul
+  - family: Rabiser
+    given: Rick
+  - family: Schmid
+    given: Klaus
+  - family: Wasowski
+    given: Andrzej
+  editor:
+  - family: Eisenecker
+    given: Ulrich W.
+  issued:
+  - year: '2012'
+  title: 'Cool features and tough decisions: A comparison of variability modeling
+    approaches'
+  title-short: Cool features and tough decisions
+  container-title: VaMoS
+  publisher: ACM
+  page: '173-182'
+  URL: http://doi.acm.org/10.1145/2110147.2110167
+  ISBN: '978-1-4503-1058-1'
+
+- id: conf/vamos/2010
+  type: book
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Fourth international workshop on variability modelling of software-intensive
+    systems, linz, austria, january 27-29, 2010. proceedings
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  volume: '37'
+
+- id: conf/vamos/OsterZML11
+  type: paper-conference
+  author:
+  - family: Oster
+    given: Sebastian
+  - family: Zorcic
+    given: Ivan
+  - family: Markert
+    given: Florian
+  - family: Lochau
+    given: Malte
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: 'MoSo-poLiTe: Tool support for pairwise and model-based software product
+    line testing'
+  title-short: MoSo-poLiTe
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '79-82'
+  URL: http://doi.acm.org/10.1145/1944892.1944901
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/SiegmundKPA10
+  type: paper-conference
+  author:
+  - family: Siegmund
+    given: Norbert
+  - family: Kuhlemann
+    given: Martin
+  - family: Pukall
+    given: Mario
+  - family: Apel
+    given: Sven
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Optimizing non-functional properties of software product lines by means of
+    refactorings
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '115-122'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/FuentesG07
+  type: paper-conference
+  author:
+  - family: Fuentes
+    given: Lidia
+  - family: Gámez
+    given: Nadia
+  editor:
+  - family: Pohl
+    given: Klaus
+  issued:
+  - year: '2007'
+  title: Adding aspects to xADL 2.0 for software product line architectures
+  container-title: VaMoS
+  collection-title: Lero technical report
+  page: '87-96'
+  volume: '2007-01'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2007_Proceedings.pdf
+
+- id: conf/vamos/LeeK13
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Hyesun
+  - family: Kang
+    given: Kyo Chul
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: 'A design feature-based approach to deriving program code from features:
+    A step towards feature-oriented software development'
+  title-short: A design feature-based approach to deriving program code from features
+  container-title: VaMoS
+  publisher: ACM
+  page: 5:1-5:6
+  URL: http://doi.acm.org/10.1145/2430502.2430510
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/ElsnerBLS10
+  type: paper-conference
+  author:
+  - family: Elsner
+    given: Christoph
+  - family: Botterweck
+    given: Goetz
+  - family: Lohmann
+    given: Daniel
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Variability in time - product line variability and evolution revisited
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '131-137'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/SchubanzPPBT13
+  type: paper-conference
+  author:
+  - family: Schubanz
+    given: Mathias
+  - family: Pleuss
+    given: Andreas
+  - family: Pradhan
+    given: Ligaj
+  - family: Botterweck
+    given: Goetz
+  - family: Thurimella
+    given: Anil Kumar
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Model-driven planning and monitoring of long-term software product line evolution
+  container-title: VaMoS
+  publisher: ACM
+  page: 18:1-18:5
+  URL: http://doi.acm.org/10.1145/2430502.2430527
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/KolesnikovASSKS13
+  type: paper-conference
+  author:
+  - family: Kolesnikov
+    given: Sergiy S.
+  - family: Apel
+    given: Sven
+  - family: Siegmund
+    given: Norbert
+  - family: Sobernig
+    given: Stefan
+  - family: Kästner
+    given: Christian
+  - family: Senkaya
+    given: Semah
+  editor:
+  - family: Gnesi
+    given: Stefania
+  issued:
+  - year: '2013'
+  title: Predicting quality attributes of software product lines using software and
+    network measures and sampling
+  container-title: VaMoS
+  publisher: ACM
+  page: 6:1-6:5
+  URL: http://doi.acm.org/10.1145/2430502.2430511
+  ISBN: '978-1-4503-1541-8'
+
+- id: conf/vamos/Lopez-HerrejonETSA10
+  type: paper-conference
+  author:
+  - family: Lopez-Herrejon
+    given: Roberto E.
+  - family: Egyed
+    given: Alexander
+  - family: Trujillo
+    given: Salvador
+  - family: Sosa
+    given: Josune De
+  - family: Azanza
+    given: Maider
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2010'
+  title: Using incremental consistency management for conformance checking in feature-oriented
+    model-driven engineering
+  container-title: VaMoS
+  collection-title: ICB-research report
+  publisher: Universität Duisburg-Essen
+  page: '93-100'
+  volume: '37'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf
+
+- id: conf/vamos/CawleyTBN09
+  type: paper-conference
+  author:
+  - family: Cawley
+    given: Ciarán
+  - family: Thiel
+    given: Steffen
+  - family: Botterweck
+    given: Goetz
+  - family: Nestor
+    given: Daren
+  editor:
+  - family: Benavides
+    given: David
+  issued:
+  - year: '2009'
+  title: Visualising inter-model relationships in software product lines
+  container-title: VaMoS
+  collection-title: ICB research report
+  publisher: Universität Duisburg-Essen
+  page: '37-44'
+  volume: '29'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2009_Proceedings.pdf
+
+- id: conf/vamos/RosenmullerSTS11
+  type: paper-conference
+  author:
+  - family: Rosenmüller
+    given: Marko
+  - family: Siegmund
+    given: Norbert
+  - family: Thüm
+    given: Thomas
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2011'
+  title: Multi-dimensional variability modeling
+  container-title: VaMoS
+  collection-title: ACM international conference proceedings series
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1944892.1944894
+  ISBN: '978-1-4503-0570-9'
+
+- id: conf/vamos/SiegmundKRKS08
+  type: paper-conference
+  author:
+  - family: Siegmund
+    given: Norbert
+  - family: Kuhlemann
+    given: Martin
+  - family: Rosenmüller
+    given: Marko
+  - family: Kästner
+    given: Christian
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Heymans
+    given: Patrick
+  issued:
+  - year: '2008'
+  title: Integrated product line model for semi-automated product derivation using
+    non-functional properties
+  container-title: VaMoS
+  collection-title: ICB research report
+  page: '25-32'
+  URL: http://www.vamos-workshop.net/proceedings/VaMoS_2008_Proceedings.pdf
+...

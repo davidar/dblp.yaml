@@ -1,0 +1,418 @@
+---
+references:
+- id: books/bc/KumarGGK94
+  type: book
+  author:
+  - family: Kumar
+    given: Vipin
+  - family: Grama
+    given: Ananth
+  - family: Gupta
+    given: Anshul
+  - family: Karypis
+    given: George
+  issued:
+  - year: '1994'
+  title: Introduction to parallel computing
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-3170-0'
+
+- id: books/bc/ElmasriN94
+  type: book
+  author:
+  - family: Elmasri
+    given: Ramez
+  - family: Navathe
+    given: Shamkant B.
+  issued:
+  - year: '1994'
+  title: Fundamentals of database systems, 2nd edition
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-1748-1'
+
+- id: books/bc/MaierW88
+  type: book
+  author:
+  - family: Maier
+    given: David
+  - family: Warren
+    given: David Scott
+  issued:
+  - year: '1988'
+  title: 'Computing with logic: Logic programming with prolog'
+  title-short: Computing with logic
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-6681-4'
+
+- id: books/bc/ElmasriN89
+  type: book
+  author:
+  - family: Elmasri
+    given: Ramez
+  - family: Navathe
+    given: Shamkant B.
+  issued:
+  - year: '1989'
+  title: Fundamentals of database systems
+  publisher: Benjamin/Cummings
+
+- id: books/bc/AtzeniA93
+  type: book
+  author:
+  - family: Atzeni
+    given: Paolo
+  - family: Antonellis
+    given: Valeria De
+  issued:
+  - year: '1993'
+  title: Relational database theory
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-0249-2'
+
+- id: books/bc/TanselCGJSS93
+  type: book
+  editor:
+  - family: Tansel
+    given: Abdullah Uz
+  issued:
+  - year: '1993'
+  title: 'Temporal databases: Theory, design, and implementation'
+  title-short: Temporal databases
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-2413-5'
+
+- id: books/bc/tanselCGSS93/WiederholdJL93
+  type: chapter
+  author:
+  - family: Wiederhold
+    given: Gio
+  - family: Jajodia
+    given: Sushil
+  - family: Litwin
+    given: Witold
+  issued:
+  - year: '1993'
+  title: Integrating temporal data in a heterogeneous environment
+  container-title: Temporal databases
+  page: '563-579'
+
+- id: books/bc/tanselCGSS93/CliffordC93
+  type: chapter
+  author:
+  - family: Clifford
+    given: James
+  - family: Croker
+    given: Albert
+  issued:
+  - year: '1993'
+  title: The historical relational data model (hRDM) revisited
+  container-title: Temporal databases
+  page: '6-27'
+
+- id: books/bc/tanselCGSS93/CliffordCT93
+  type: chapter
+  author:
+  - family: Clifford
+    given: James
+  - family: Croker
+    given: Albert
+  - family: Tuzhilin
+    given: Alexander
+  issued:
+  - year: '1993'
+  title: On the completeness of query languages for grouped and ungrouped historical
+    data models
+  container-title: Temporal databases
+  page: '496-533'
+
+- id: books/bc/tanselCGSS93/WuuD93
+  type: chapter
+  author:
+  - family: Wuu
+    given: Gene T. J.
+  - family: Dayal
+    given: Umeshwar
+  issued:
+  - year: '1993'
+  title: A uniform model for temporal and versioned object-oriented databases
+  container-title: Temporal databases
+  page: '230-247'
+
+- id: books/bc/tanselCGSS93/Ginsburg93
+  type: chapter
+  author:
+  - family: Ginsburg
+    given: Seymour
+  issued:
+  - year: '1993'
+  title: Object and spreadsheet histories
+  container-title: Temporal databases
+  page: '271-293'
+
+- id: books/bc/tanselCGSS93/ElmasriWK93a
+  type: chapter
+  author:
+  - family: Elmasri
+    given: Ramez
+  - family: Wuu
+    given: Gene T. J.
+  - family: Kouramajian
+    given: Vram
+  issued:
+  - year: '1993'
+  title: The time index and the monotonic b+-tree
+  container-title: Temporal databases
+  page: '433-456'
+
+- id: books/bc/tanselCGSS93/SegevS93
+  type: chapter
+  author:
+  - family: Segev
+    given: Arie
+  - family: Shoshani
+    given: Arie
+  issued:
+  - year: '1993'
+  title: A temporal data model based on time sequences
+  container-title: Temporal databases
+  page: '248-270'
+
+- id: books/bc/tanselCGSS93/Sadra93
+  type: chapter
+  author:
+  - family: Sarda
+    given: Nandlal L.
+  issued:
+  - year: '1993'
+  title: 'HSQL: A historical query language'
+  title-short: HSQL
+  container-title: Temporal databases
+  page: '110-140'
+
+- id: books/bc/tanselCGSS93/Tuzhilin93
+  type: chapter
+  author:
+  - family: Tuzhilin
+    given: Alexander
+  issued:
+  - year: '1993'
+  title: Applications of temporal databases to knowledge-based simulations
+  container-title: Temporal databases
+  page: '580-593'
+
+- id: books/bc/tanselCGSS93/LometS93
+  type: chapter
+  author:
+  - family: Lomet
+    given: David B.
+  - family: Salzberg
+    given: Betty
+  issued:
+  - year: '1993'
+  title: Transaction-time databases
+  container-title: Temporal databases
+  page: '388-417'
+
+- id: books/bc/tanselCGSS93/Gadia93
+  type: chapter
+  author:
+  - family: Gadia
+    given: Shashi K.
+  issued:
+  - year: '1993'
+  title: Ben-zvi’s pioneering work in relational temporal databases
+  container-title: Temporal databases
+  page: '202-207'
+
+- id: books/bc/tanselCGSS93/Segev93
+  type: chapter
+  author:
+  - family: Segev
+    given: Arie
+  issued:
+  - year: '1993'
+  title: Join processing and optimization in temporal relational databases
+  container-title: Temporal databases
+  page: '356-387'
+
+- id: books/bc/tanselCGSS93/Lorentzos93
+  type: chapter
+  author:
+  - family: Lorentzos
+    given: Nikos A.
+  issued:
+  - year: '1993'
+  title: The interval-extended relational model and its applications to valid-time
+    databases
+  container-title: Temporal databases
+  page: '67-91'
+
+- id: books/bc/tanselCGSS93/Tansel93
+  type: chapter
+  author:
+  - family: Tansel
+    given: Abdullah Uz
+  issued:
+  - year: '1993'
+  title: A generalized relational framework for modeling temporal data
+  container-title: Temporal databases
+  page: '183-201'
+
+- id: books/bc/tanselCGSS93/JensenM93
+  type: chapter
+  author:
+  - family: Jensen
+    given: Christian S.
+  - family: Mark
+    given: Leo
+  issued:
+  - year: '1993'
+  title: Differential query processing in transaction-time databases
+  container-title: Temporal databases
+  page: '457-491'
+
+- id: books/bc/tanselCGSS93/ElmasriWK93
+  type: chapter
+  author:
+  - family: Elmasri
+    given: Ramez
+  - family: Wuu
+    given: Gene T. J.
+  - family: Kouramajian
+    given: Vram
+  issued:
+  - year: '1993'
+  title: A temporal model and query language for eER databases
+  container-title: Temporal databases
+  page: '212-229'
+
+- id: books/bc/tanselCGSS93/MontanariP93
+  type: chapter
+  author:
+  - family: Montanari
+    given: Angelo
+  - family: Pernici
+    given: Barbara
+  issued:
+  - year: '1993'
+  title: Temporal reasoning
+  container-title: Temporal databases
+  page: '534-562'
+
+- id: books/bc/tanselCGSS93/LeungM93
+  type: chapter
+  author:
+  - family: Leung
+    given: T. Y. Cliff
+  - family: Muntz
+    given: Richard R.
+  issued:
+  - year: '1993'
+  title: 'Stream processing: Temporal query processing and optimization'
+  title-short: Stream processing
+  container-title: Temporal databases
+  page: '329-355'
+
+- id: books/bc/tanselCGSS93/Kolovson93
+  type: chapter
+  author:
+  - family: Kolovson
+    given: Curtis P.
+  issued:
+  - year: '1993'
+  title: Indexing techniques for historical databases
+  container-title: Temporal databases
+  page: '418-432'
+
+- id: books/bc/tanselCGSS93/NavatheA93
+  type: chapter
+  author:
+  - family: Navathe
+    given: Shamkant B.
+  - family: Ahmed
+    given: Rafi
+  issued:
+  - year: '1993'
+  title: Temporal extensions to the relational model and sQL
+  container-title: Temporal databases
+  page: '92-109'
+
+- id: books/bc/tanselCGSS93/GadiaN93
+  type: chapter
+  author:
+  - family: Gadia
+    given: Shashi K.
+  - family: Nair
+    given: Sunil S.
+  issued:
+  - year: '1993'
+  title: 'Temporal databases: A prelude to parametric data'
+  title-short: Temporal databases
+  container-title: Temporal databases
+  page: '28-66'
+
+- id: books/bc/tanselCGSS93/BaudinetCW93
+  type: chapter
+  author:
+  - family: Baudinet
+    given: Marianne
+  - family: Chomicki
+    given: Jan
+  - family: Wolper
+    given: Pierre
+  issued:
+  - year: '1993'
+  title: Temporal deductive databases
+  container-title: Temporal databases
+  page: '294-320'
+
+- id: books/bc/tanselCGSS93/Snodgrass93
+  type: chapter
+  author:
+  - family: Snodgrass
+    given: Richard T.
+  issued:
+  - year: '1993'
+  title: An overview of tQuel
+  container-title: Temporal databases
+  page: '141-182'
+
+- id: books/bc/FischerL1991
+  type: book
+  author:
+  - family: Fischer
+    given: Charles N.
+  - family: LeBlanc
+    given: Richard J.
+  issued:
+  - year: '1991'
+  title: Crafting a compiler with c
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-2166-7'
+
+- id: books/bc/Booch90
+  type: book
+  author:
+  - family: Booch
+    given: Grady
+  issued:
+  - year: '1990'
+  title: Object-oriented design with applications
+  publisher: Benjamin/Cummings
+
+- id: books/bc/BatiniCN92
+  type: book
+  author:
+  - family: Batini
+    given: Carlo
+  - family: Ceri
+    given: Stefano
+  - family: Navathe
+    given: Shamkant B.
+  issued:
+  - year: '1992'
+  title: 'Conceptual database design: An entity-relationship approach'
+  title-short: Conceptual database design
+  publisher: Benjamin/Cummings
+  ISBN: '0-8053-0244-1'
+...

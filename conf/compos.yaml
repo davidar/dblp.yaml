@@ -1,0 +1,576 @@
+---
+references:
+- id: conf/compos/Lamport97
+  type: paper-conference
+  author:
+  - family: Lamport
+    given: Leslie
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: 'Composition: A way to make proofs harder'
+  title-short: Composition
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '402-423'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_15
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/BerezinCC97
+  type: paper-conference
+  author:
+  - family: Berezin
+    given: Sergey
+  - family: Campos
+    given: Sérgio Vale Aguiar
+  - family: Clarke
+    given: Edmund M.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional reasoning in model checking
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-102'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_4
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Broy97
+  type: paper-conference
+  author:
+  - family: Broy
+    given: Manfred
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional refinement of interactive systems modelled by relations
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-149'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_6
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Hooman97
+  type: paper-conference
+  author:
+  - family: Hooman
+    given: Jozef
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional verification of real-time applications
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '276-300'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_10
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Moszkowski97
+  type: paper-conference
+  author:
+  - family: Moszkowski
+    given: Ben C.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional reasoning using interval temporal logic and tempura
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '439-464'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_17
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/DammJHP97
+  type: paper-conference
+  author:
+  - family: Damm
+    given: Werner
+  - family: Josko
+    given: Bernhard
+  - family: Hungar
+    given: Hardi
+  - family: Pnueli
+    given: Amir
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: A compositional real-time semantics of sTATEMATE designs
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-238'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_8
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Segala97
+  type: paper-conference
+  author:
+  - family: Segala
+    given: Roberto
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional verification of randomized distributed algorithms
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '515-540'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_20
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/DamFG97
+  type: paper-conference
+  author:
+  - family: Dam
+    given: Mads
+  - family: Fredlund
+    given: Lars-Åke
+  - family: Gurov
+    given: Dilian
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Toward parametric verification of open distributed systems
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-185'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_7
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/JamesS97
+  type: paper-conference
+  author:
+  - family: James
+    given: Jerry
+  - family: Singh
+    given: Ambuj K.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional proofs for concurrent objects
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-326'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_11
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/FinkbeinerMS97
+  type: paper-conference
+  author:
+  - family: Finkbeiner
+    given: Bernd
+  - family: Manna
+    given: Zohar
+  - family: Sipma
+    given: Henny
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Deductive verification of modular systems
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '239-275'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_9
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/ChaochenH97
+  type: paper-conference
+  author:
+  - family: Chaochen
+    given: Zhou
+  - family: Hansen
+    given: Michael R.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: An adequate first order interval logic
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '584-608'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_23
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Shankar97
+  type: paper-conference
+  author:
+  - family: Shankar
+    given: Natarajan
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Lazy compositional verification
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '541-564'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_21
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/MaraninchiR97
+  type: paper-conference
+  author:
+  - family: Maraninchi
+    given: Florence
+  - family: Rémond
+    given: Yann
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositionality criteria for defining mixed-styles synchronous languages
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '424-438'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_16
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/AlurHK97
+  type: paper-conference
+  author:
+  - family: Alur
+    given: Rajeev
+  - family: Henzinger
+    given: Thomas A.
+  - family: Kupferman
+    given: Orna
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Alternating-time temporal logic
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-60'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_2
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/PoigneH97
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  - family: Holenderski
+    given: Leszek
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: On the combination of synchronous languages
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '490-514'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_19
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/BenvenisteGA97
+  type: paper-conference
+  author:
+  - family: Benveniste
+    given: Albert
+  - family: Guernic
+    given: Paul Le
+  - family: Aubry
+    given: Pascal
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: 'Compositionality in dataflow synchronous languages: Specification and
+    code generation'
+  title-short: Compositionality in dataflow synchronous languages
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-80'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_3
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Roever97
+  type: paper-conference
+  author:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: 'The need for compositional proof systems: A survey'
+  title-short: The need for compositional proof systems
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-22'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_1
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Zwiers97
+  type: paper-conference
+  author:
+  - family: Zwiers
+    given: Job
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional transformational design for concurrent programs
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '609-631'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_24
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/KupfermanV97
+  type: paper-conference
+  author:
+  - family: Kupferman
+    given: Orna
+  - family: Vardi
+    given: Moshe Y.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Modular model checking
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '381-401'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_14
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/BoerR97
+  type: paper-conference
+  author:
+  - family: Boer
+    given: Frank S.
+    dropping-particle: de
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: 'Compositional proof methods for concurrency: A semantic approach'
+  title-short: Compositional proof methods for concurrency
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '632-646'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_25
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/JonkerT97
+  type: paper-conference
+  author:
+  - family: Jonker
+    given: Catholijn M.
+  - family: Treur
+    given: Jan
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: 'Compositional verification of multi-agent systems: A formal analysis of
+    pro-activeness and reactiveness'
+  title-short: Compositional verification of multi-agent systems
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '350-380'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_13
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/OlderogD97
+  type: paper-conference
+  author:
+  - family: Olderog
+    given: Ernst-Rüdiger
+  - family: Dierks
+    given: Henning
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Decomposing real-time specifications
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '465-489'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_18
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/XuS97
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Qiwen
+  - family: Mohalik
+    given: Swarup
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Compositional reasoning using the assumption-commitment paradigm
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '565-583'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_22
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/BornotST97
+  type: paper-conference
+  author:
+  - family: Bornot
+    given: Sébastien
+  - family: Sifakis
+    given: Joseph
+  - family: Tripakis
+    given: Stavros
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: Modeling urgency in timed systems
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-129'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_5
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/Janssen97
+  type: paper-conference
+  author:
+  - family: Janssen
+    given: Theo M. V.
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1997'
+  title: An overview of compositional translations
+  container-title: COMPOS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '327-349'
+  volume: '1536'
+  DOI: 10.1007/3-540-49213-5_12
+  ISBN: '3-540-65493-3'
+
+- id: conf/compos/1997
+  type: book
+  editor:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  issued:
+  - year: '1998'
+  title: 'Compositionality: The significant difference, international symposium,
+    cOMPOS’97, bad malente, germany, september 8-12, 1997. revised lectures'
+  title-short: Compositionality
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1536'
+  ISBN: '3-540-65493-3'
+...

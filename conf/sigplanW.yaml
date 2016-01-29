@@ -1,0 +1,451 @@
+---
+references:
+- id: conf/sigplanW/Smith92
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Sharon L.
+  issued:
+  - year: '1992'
+  title: Dynamic scheduling of irregularly structured parallel computations in heterogeneous
+    distributed systems
+  container-title: SIGPLAN workshop
+  page: '86'
+  URL: http://doi.acm.org/10.1145/156668.156708
+
+- id: conf/sigplanW/Steele92
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Guy L. Steele
+  issued:
+  - year: '1992'
+  title: 'High performance fortran: Status report'
+  title-short: High performance fortran
+  container-title: SIGPLAN workshop
+  page: '1-4'
+  URL: http://doi.acm.org/10.1145/156668.156670
+
+- id: conf/sigplanW/Snyder92
+  type: paper-conference
+  author:
+  - family: Snyder
+    given: Lawrence
+  issued:
+  - year: '1992'
+  title: Synopsis of orca, asimple language implementation of phase abstracttions
+  container-title: SIGPLAN workshop
+  page: '40-43'
+  URL: http://doi.acm.org/10.1145/156668.160914
+
+- id: conf/sigplanW/ChpmanMZ92
+  type: paper-conference
+  author:
+  - family: Chapman
+    given: Barbara M.
+  - family: Mehrotra
+    given: Piyush
+  - family: Zima
+    given: Hans P.
+  issued:
+  - year: '1992'
+  title: User defined mappings in vienna fortran
+  container-title: SIGPLAN workshop
+  page: '72-75'
+  URL: http://doi.acm.org/10.1145/156668.156694
+
+- id: conf/sigplanW/Zenith92
+  type: paper-conference
+  author:
+  - family: Zenith
+    given: Steven Ericsson
+  issued:
+  - year: '1992'
+  title: Ease; the model and its implementation
+  container-title: SIGPLAN workshop
+  page: '87'
+  URL: http://doi.acm.org/10.1145/156668.156710
+
+- id: conf/sigplanW/MajumdarC92
+  type: paper-conference
+  author:
+  - family: Majumdar
+    given: Aloke
+  - family: Chen
+    given: Marina C.
+  issued:
+  - year: '1992'
+  title: Efficient sPMD constructs for asynchronous message passing architectures
+  container-title: SIGPLAN workshop
+  page: '85'
+  URL: http://doi.acm.org/10.1145/156668.156706
+
+- id: conf/sigplanW/ManiattySS92
+  type: paper-conference
+  author:
+  - family: Maniatty
+    given: William
+  - family: Szymanski
+    given: Boleslaw K.
+  - family: Sinharoy
+    given: Balaram
+  issued:
+  - year: '1992'
+  title: Efficiency of data alignment on maspar
+  container-title: SIGPLAN workshop
+  page: '48-51'
+  URL: http://doi.acm.org/10.1145/156668.156686
+
+- id: conf/sigplanW/LemkeQ92
+  type: paper-conference
+  author:
+  - family: Lemke
+    given: Max
+  - family: Quinlan
+    given: Daniel J.
+  issued:
+  - year: '1992'
+  title: P++, a parallel c++ array class library for architecture-independent development
+    of structured grid applications
+  container-title: SIGPLAN workshop
+  page: '21-23'
+  URL: http://doi.acm.org/10.1145/156668.159163
+
+- id: conf/sigplanW/IkeiW92
+  type: paper-conference
+  author:
+  - family: Ikei
+    given: Mitsuru
+  - family: Wolfe
+    given: Michael
+  issued:
+  - year: '1992'
+  title: Functional compiler techniques for an imperative language
+  container-title: SIGPLAN workshop
+  page: '83'
+  URL: http://doi.acm.org/10.1145/156668.156704
+
+- id: conf/sigplanW/FeldmanLR92
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Jerome A.
+  - family: Lim
+    given: Chu-Cheow
+  - family: Rauber
+    given: Thomas
+  issued:
+  - year: '1992'
+  title: The shared-memory language pSather on a distributed-memory multiprocessor
+  container-title: SIGPLAN workshop
+  page: '17-20'
+  URL: http://doi.acm.org/10.1145/156668.156677
+
+- id: conf/sigplanW/GrossHOSS92
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Thomas R.
+  - family: Hinrichs
+    given: Susan
+  - family: O’Hallaron
+    given: David R.
+  - family: Stichnoth
+    given: James M.
+  - family: Subhlok
+    given: Jaspal
+  issued:
+  - year: '1992'
+  title: Compiling task and data parallel programs for iWrap (extended abstract)
+  container-title: SIGPLAN workshop
+  page: '32-35'
+  URL: http://doi.acm.org/10.1145/156668.156682
+
+- id: conf/sigplanW/Pratt92
+  type: paper-conference
+  author:
+  - family: Pratt
+    given: Terrence W.
+  issued:
+  - year: '1992'
+  title: 'Kernel-control parallel versus data parallel: A technical comparison'
+  title-short: Kernel-control parallel versus data parallel
+  container-title: SIGPLAN workshop
+  page: '5-8'
+  URL: http://doi.acm.org/10.1145/156668.156671
+
+- id: conf/sigplanW/RosingSW92
+  type: paper-conference
+  author:
+  - family: Rosing
+    given: Matthew
+  - family: Schnabel
+    given: Robert B.
+  - family: Weaver
+    given: Robert P.
+  issued:
+  - year: '1992'
+  title: A programmable preprocessor approach to efficient parallel language design
+  container-title: SIGPLAN workshop
+  page: '76-79'
+  URL: http://doi.acm.org/10.1145/156668.156696
+
+- id: conf/sigplanW/BrewerCHWW92
+  type: paper-conference
+  author:
+  - family: Brewer
+    given: Eric A.
+  - family: Colbrook
+    given: Adrian
+  - family: Hsieh
+    given: Wilson C.
+  - family: Wang
+    given: Paul
+  - family: Weihl
+    given: William E.
+  issued:
+  - year: '1992'
+  title: 'Pipes: Linguistic support for ordered asynchronous invocations'
+  title-short: Pipes
+  container-title: SIGPLAN workshop
+  page: '80'
+  URL: http://doi.acm.org/10.1145/156668.156698
+
+- id: conf/sigplanW/TuP92
+  type: paper-conference
+  author:
+  - family: Tu
+    given: Peng
+  - family: Padua
+    given: David A.
+  issued:
+  - year: '1992'
+  title: Array privatization for shared and distributed memory machines (extended
+    abstract)
+  container-title: SIGPLAN workshop
+  page: '64-67'
+  URL: http://doi.acm.org/10.1145/156668.156692
+
+- id: conf/sigplanW/LiP92
+  type: paper-conference
+  author:
+  - family: '0015'
+    given: Wei Li
+  - family: Pingali
+    given: Keshav
+  issued:
+  - year: '1992'
+  title: Loop transformations for nUMA machines
+  container-title: SIGPLAN workshop
+  page: '9-12'
+  URL: http://doi.acm.org/10.1145/156668.156674
+
+- id: conf/sigplanW/CoxHKLT92
+  type: paper-conference
+  author:
+  - family: Cox
+    given: Stuart
+  - family: Huang
+    given: Shell-Ying
+  - family: Kelly
+    given: Paul
+  - family: Liu
+    given: Junxian
+  - family: Taylor
+    given: Frank
+  issued:
+  - year: '1992'
+  title: Program transformations for static process networks
+  container-title: SIGPLAN workshop
+  page: '60-63'
+  URL: http://doi.acm.org/10.1145/156668.156690
+
+- id: conf/sigplanW/KranzLJKA92
+  type: paper-conference
+  author:
+  - family: Kranz
+    given: David A.
+  - family: Lim
+    given: Beng-Hong
+  - family: Johnson
+    given: Kirk L.
+  - family: Kubiatowicz
+    given: John
+  - family: Agarwal
+    given: Anant
+  issued:
+  - year: '1992'
+  title: 'Integrating message-passing and shared-memory: Early experience'
+  title-short: Integrating message-passing and shared-memory
+  container-title: SIGPLAN workshop
+  page: '84'
+  URL: http://doi.acm.org/10.1145/156668.156705
+
+- id: conf/sigplanW/PonnusamySDKC92
+  type: paper-conference
+  author:
+  - family: Ponnusamy
+    given: Ravi
+  - family: Saltz
+    given: Joel H.
+  - family: Das
+    given: Raja
+  - family: Koelbel
+    given: Charles
+  - family: Choudhary
+    given: Alok N.
+  issued:
+  - year: '1992'
+  title: Embedding data mappers with distributed memory machine compilers
+  container-title: SIGPLAN workshop
+  page: '52-55'
+  URL: http://doi.acm.org/10.1145/156668.156687
+
+- id: conf/sigplanW/Yelick92
+  type: paper-conference
+  author:
+  - family: Yelick
+    given: Katherine A.
+  issued:
+  - year: '1992'
+  title: Programming models for irregular applications
+  container-title: SIGPLAN workshop
+  page: '28-31'
+  URL: http://doi.acm.org/10.1145/156668.156680
+
+- id: conf/sigplanW/BadenK92
+  type: paper-conference
+  author:
+  - family: Baden
+    given: Scott B.
+  - family: Kohn
+    given: Scott R.
+  issued:
+  - year: '1992'
+  title: 'Lattice parallelism: A parallel programming model for manipulating non-uniform
+    structured scientific data structures'
+  title-short: Lattice parallelism
+  container-title: SIGPLAN workshop
+  page: '24-27'
+  URL: http://doi.acm.org/10.1145/156668.156679
+
+- id: conf/sigplanW/BalaF92
+  type: paper-conference
+  author:
+  - family: Bala
+    given: Vasanth
+  - family: Ferrante
+    given: Jeanne
+  issued:
+  - year: '1992'
+  title: 'Explicit data placement (xDP): A methodology for explicit compile-time
+    representation and optimization of data movement (extended abstract)'
+  title-short: Explicit data placement (xDP)
+  container-title: SIGPLAN workshop
+  page: '36-39'
+  URL: http://doi.acm.org/10.1145/156668.159162
+
+- id: conf/sigplanW/ChatterjeeGST92
+  type: paper-conference
+  author:
+  - family: Chatterjee
+    given: Siddhartha
+  - family: Gilbert
+    given: John R.
+  - family: Schneider
+    given: Robert
+  - family: Teng
+    given: Shang-Hua
+  issued:
+  - year: '1992'
+  title: Optimal evaluation of array expressions on massively parallel machines (extended
+    abstract)
+  container-title: SIGPLAN workshop
+  page: '68-71'
+  URL: http://doi.acm.org/10.1145/156668.156693
+
+- id: conf/sigplanW/CarrKS92
+  type: paper-conference
+  author:
+  - family: Carr
+    given: Harold
+  - family: Kessler
+    given: Robert R.
+  - family: Swanson
+    given: Mark R.
+  issued:
+  - year: '1992'
+  title: Distributed c++
+  container-title: SIGPLAN workshop
+  page: '81'
+  URL: http://doi.acm.org/10.1145/156668.156702
+
+- id: conf/sigplanW/BaileyN92
+  type: paper-conference
+  author:
+  - family: Bailey
+    given: Peter R.
+  - family: Newey
+    given: Malcolm C.
+  issued:
+  - year: '1992'
+  title: Implementing mL on distributed memory multiprocessors
+  container-title: SIGPLAN workshop
+  page: '56-59'
+  URL: http://doi.acm.org/10.1145/156668.156688
+
+- id: conf/sigplanW/SeeversQH92
+  type: paper-conference
+  author:
+  - family: Seevers
+    given: Bradley K.
+  - family: Quinn
+    given: Michael J.
+  - family: Hatcher
+    given: Philip J.
+  issued:
+  - year: '1992'
+  title: A parallel programming environment supporting multiple data-parallel modules
+  container-title: SIGPLAN workshop
+  page: '44-47'
+  URL: http://doi.acm.org/10.1145/156668.156684
+
+- id: conf/sigplanW/GuptaHHJJS92
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Sandeep K. S.
+  - family: Kaushik
+    given: S. D.
+  - family: Huang
+    given: Chua-Huang
+  - family: Johnson
+    given: John R.
+  - family: Johnson
+    given: Rodney W.
+  - family: Sadayappan
+    given: P.
+  issued:
+  - year: '1992'
+  title: On the automatic generation of data distributions
+  container-title: SIGPLAN workshop
+  page: '82'
+  URL: http://doi.acm.org/10.1145/156668.156703
+
+- id: conf/sigplanW/SharmaHS92
+  type: paper-conference
+  author:
+  - family: Sharma
+    given: Sanjay
+  - family: Huang
+    given: Chua-Huang
+  - family: Sadayappan
+    given: P.
+  issued:
+  - year: '1992'
+  title: On data dependence analysis for compiling programs on distributed-memory
+    machines (extended abstract)
+  container-title: SIGPLAN workshop
+  page: '13-16'
+  URL: http://doi.acm.org/10.1145/156668.156676
+...

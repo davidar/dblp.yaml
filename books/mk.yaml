@@ -1,0 +1,3136 @@
+---
+references:
+- id: books/mk/KhoshafianCWW92
+  type: book
+  author:
+  - family: Khoshafian
+    given: Setrag
+  - family: Chan
+    given: Arvola
+  - family: Wong
+    given: Anna
+  - family: Wong
+    given: Harry K. T.
+  issued:
+  - year: '1992'
+  title: A guide to developing client/Server sQL applications
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-147-3'
+
+- id: books/mk/FreytagMV91
+  type: book
+  editor:
+  - family: Freytag
+    given: Johann Christoph
+  issued:
+  - year: '1994'
+  title: Query processing for advanced database systems, selected contributions from
+    a workshop on “query processing in object-oriented, complex-object and nested
+    relation databases”, interationales begegnungs- und forschungszentrum für informatik,
+    schloss dagstuhl, germany, june 1991
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-271-2'
+
+- id: books/mk/Minker88
+  type: book
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Foundations of deductive databases and logic programming
+  publisher: Morgan Kaufmann
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/WeikumV2002
+  type: book
+  author:
+  - family: Weikum
+    given: Gerhard
+  - family: Vossen
+    given: Gottfried
+  issued:
+  - year: '2002'
+  title: 'Transactional information systems: Theory, algorithms, and the practice
+    of concurrency control and recovery'
+  title-short: Transactional information systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-508-8'
+
+- id: books/mk/KhoshafianD98
+  type: book
+  author:
+  - family: Khoshafian
+    given: Setrag
+  - family: Dasananda
+    given: Surapol
+  issued:
+  - year: '1998'
+  title: 'The jasmine object database: Multimedia applications for the web'
+  title-short: The jasmine object database
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-494-4'
+
+- id: books/mk/Quinlan93
+  type: book
+  author:
+  - family: Quinlan
+    given: J. Ross
+  issued:
+  - year: '1993'
+  title: 'C4.5: Programs for machine learning'
+  title-short: C4.5
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-238-0'
+
+- id: books/mk/Ginsberg93
+  type: book
+  author:
+  - family: Ginsberg
+    given: Matthew L.
+  issued:
+  - year: '1993'
+  title: Essentials of artificial intelligence
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-221-6'
+
+- id: books/mk/Celko99
+  type: book
+  author:
+  - family: Celko
+    given: Joe
+  issued:
+  - year: '1999'
+  title: 'SQL for smarties: Advanced sQL programming, second edition'
+  title-short: SQL for smarties
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-576-2'
+
+- id: books/mk/BancilhonDK92
+  type: book
+  editor:
+  - family: Bancilhon
+    given: François
+  issued:
+  - year: '1992'
+  title: Building an object-oriented database system, the story of o2
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-169-4'
+
+- id: books/mk/minker88/Gelder88
+  type: chapter
+  author:
+  - family: Gelder
+    given: Allen Van
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Negation as failure using tight derivations for general logic programs
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '149-176'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/BancilhonR88
+  type: chapter
+  author:
+  - family: Bancilhon
+    given: François
+  - family: Ramakrishnan
+    given: Raghu
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Performance evaluation of data intensive logic programs
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '439-517'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/ThomRN88
+  type: chapter
+  author:
+  - family: Thom
+    given: James A.
+  - family: Ramamohanarao
+    given: Kotagiri
+  - family: Naish
+    given: Lee
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: A superjoin algorithm for deductive databases
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '519-543'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Sagiv88
+  type: chapter
+  author:
+  - family: Sagiv
+    given: Yehoshua
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Optimizing datalog programs
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '659-698'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Minker88
+  type: chapter
+  author:
+  - family: Minker
+    given: Jack
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Introduction
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '1-16'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Przymusinski88
+  type: chapter
+  author:
+  - family: Przymusinski
+    given: Teodor C.
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: On the declarative semantics of deductive databases and logic programs
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '193-216'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Imielinski88
+  type: chapter
+  author:
+  - family: Imielinski
+    given: Tomasz
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Intelligent query answering in rule based systems
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '275-312'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/ChakravarthyGM88
+  type: chapter
+  author:
+  - family: Chakravarthy
+    given: Upen S.
+  - family: Grant
+    given: John
+  - family: Minker
+    given: Jack
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Foundations of semantic query optimization for deductive databases
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '243-273'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/AptBW88
+  type: chapter
+  author:
+  - family: Apt
+    given: Krzysztof R.
+  - family: Blair
+    given: Howard A.
+  - family: Walker
+    given: Adrian
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Towards a theory of declarative knowledge
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '89-148'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/LassezMM88
+  type: chapter
+  author:
+  - family: Lassez
+    given: Jean-Louis
+  - family: Maher
+    given: Michael J.
+  - family: Marriott
+    given: Kim
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Unification revisited
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '587-625'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/ManchandraW88
+  type: chapter
+  author:
+  - family: Manchanda
+    given: Sanjay
+  - family: Warren
+    given: David Scott
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: A logic-based language for database updates
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '363-394'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/ToporS88
+  type: chapter
+  author:
+  - family: Topor
+    given: Rodney W.
+  - family: Sonenberg
+    given: Liz
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: On domain independent databases
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '217-240'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/SadriK88
+  type: chapter
+  author:
+  - family: Sadri
+    given: Fariba
+  - family: Kowalski
+    given: Robert A.
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: A theorem-proving approach to database integrity
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '313-362'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/EmdenS88
+  type: chapter
+  author:
+  - family: Emden
+    given: Maarten H.
+    dropping-particle: van
+  - family: Szeredi
+    given: Péter
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Converting aND-control to oR-control by program transformation
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '699-709'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Kanellakis88
+  type: chapter
+  author:
+  - family: Kanellakis
+    given: Paris C.
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Logic programming and parallel complexity
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '547-585'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Maher88
+  type: chapter
+  author:
+  - family: Maher
+    given: Michael J.
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Equivalences of logic programs
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '627-658'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/HenschenP88
+  type: chapter
+  author:
+  - family: Henschen
+    given: Lawrence J.
+  - family: Park
+    given: Hyung-Sik
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Compiling the gCWA in indefinite deductive databases
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '395-438'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Shepherdson88
+  type: chapter
+  author:
+  - family: Shepherdson
+    given: John C.
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: Negation in logic programming
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '19-88'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/minker88/Lifschitz88
+  type: chapter
+  author:
+  - family: Lifschitz
+    given: Vladimir
+  editor:
+  - family: Minker
+    given: Jack
+  issued:
+  - year: '1988'
+  title: On the declarative semantics of logic programs with negation
+  container-title: Foundations of deductive databases and logic programming.
+  publisher: Morgan Kaufmann
+  page: '177-192'
+  ISBN: '0-934613-40-0'
+
+- id: books/mk/WittenGN06
+  type: book
+  author:
+  - family: Witten
+    given: Ian H.
+  - family: Gori
+    given: Marco
+  - family: Numerico
+    given: Teresa
+  issued:
+  - year: '2006'
+  title: 'Web dragons: Inside the myths of search engine technology'
+  title-short: Web dragons
+  publisher: Morgan Kaufmann
+  ISBN: '0-12-370609-2'
+
+- id: books/mk/StonebrakerBM98
+  type: book
+  author:
+  - family: Stonebraker
+    given: Michael
+  - family: Brown
+    given: Paul
+  - family: Moore
+    given: Dorothy
+  issued:
+  - year: '1998'
+  title: Object-relational dBMSs, second edition
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-452-9'
+
+- id: books/mk/BrodieS95
+  type: book
+  author:
+  - family: Brodie
+    given: Michael L.
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1995'
+  title: 'Migrating legacy systems: Gateways, interfaces, and the incremental approach'
+  title-short: Migrating legacy systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-330-1'
+
+- id: books/mk/Stonebraker88
+  type: book
+  editor:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1988'
+  title: Readings in database systems, first edition
+  publisher: Morgan Kaufmann
+  ISBN: '0-934613-65-6'
+
+- id: books/mk/Subrahmanian98
+  type: book
+  author:
+  - family: Subrahmanian
+    given: V. S.
+  issued:
+  - year: '1998'
+  title: Principles of multimedia database systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-466-9'
+
+- id: books/mk/Natarajan91
+  type: book
+  author:
+  - family: Natarajan
+    given: Balas K.
+  issued:
+  - year: '1991'
+  title: 'Machine learning: A theoretical approach'
+  title-short: Machine learning
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-148-1'
+
+- id: books/mk/Cattell96
+  type: book
+  author:
+  - family: Cattell
+    given: R. G. G.
+  issued:
+  - year: '1996'
+  title: 'The object database standard: ODMG-93 (release 1.2)'
+  title-short: The object database standard
+  publisher: Morgan Kaufmann
+
+- id: books/mk/PattersonH94
+  type: book
+  author:
+  - family: Patterson
+    given: David A.
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1994'
+  title: 'Computer organization & design: The hardware/Software interface'
+  title-short: Computer organization & design
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-282-8'
+
+- id: books/mk/Celko95
+  type: book
+  author:
+  - family: Celko
+    given: Joe
+  issued:
+  - year: '1995'
+  title: 'SQL for smarties: Advanced sQL programming'
+  title-short: SQL for smarties
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-323-9'
+
+- id: books/mk/Lightstone2007
+  type: book
+  author:
+  - family: Lightstone
+    given: Sam
+  - family: Teorey
+    given: Toby J.
+  - family: Nadeau
+    given: Thomas P.
+  issued:
+  - year: '2007'
+  title: 'Physical database design: The database professional’s guide to exploiting
+    indexes, views, storage, and more'
+  title-short: Physical database design
+  publisher: Morgan Kaufmann
+  ISBN: '0123693896'
+
+- id: books/mk/Pyle99
+  type: book
+  author:
+  - family: Pyle
+    given: Dorian
+  issued:
+  - year: '1999'
+  title: Data preparation for data mining
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-529-0'
+
+- id: books/mk/HanK2000
+  type: book
+  author:
+  - family: Han
+    given: Jiawei
+  - family: Kamber
+    given: Micheline
+  issued:
+  - year: '2000'
+  title: 'Data mining: Concepts and techniques'
+  title-short: Data mining
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-489-8'
+
+- id: books/mk/Teory98
+  type: book
+  author:
+  - family: Teorey
+    given: Toby J.
+  issued:
+  - year: '1998'
+  title: Database modeling & design, third edition
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-500-2'
+
+- id: books/mk/Chamberlin98
+  type: book
+  author:
+  - family: Chamberlin
+    given: Donald D.
+  issued:
+  - year: '1998'
+  title: A complete guide to dB2 universal database
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-482-0'
+
+- id: books/mk/Celko97
+  type: book
+  author:
+  - family: Celko
+    given: Joe
+  issued:
+  - year: '1997'
+  title: Joe celko’s sQL puzzles & answers
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-453-7'
+
+- id: books/mk/gray93/ONeil93
+  type: chapter
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: The set query benchmark
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Dixit93
+  type: chapter
+  author:
+  - family: Dixit
+    given: Kaivalya M.
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Overview of the sPEC benchmarks
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Ballinger93
+  type: chapter
+  author:
+  - family: Ballinger
+    given: Carrie
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: 'TPC-d: Benchmarking for decision support'
+  title-short: TPC-d
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/X93a
+  type: chapter
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: 'TPC benchmarkTM a: Standard specification'
+  title-short: TPC benchmarkTM a
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Serlin93
+  type: chapter
+  author:
+  - family: Serlin
+    given: Omri
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: The history of debitCredit and the tPC
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/X93
+  type: chapter
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: 'The neal nelson database benchmarkTM: A benchmark based on the realities
+    of business'
+  title-short: The neal nelson database benchmarkTM
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/DeWitt93
+  type: chapter
+  author:
+  - family: DeWitt
+    given: David J.
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: 'The wisconsin benchmark: Past, present, and future'
+  title-short: The wisconsin benchmark
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Raab93
+  type: chapter
+  author:
+  - family: Raab
+    given: Francois
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: TPC-c - the standard benchmark for online transaction processing (oLTP)
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Gray93
+  type: chapter
+  author:
+  - family: Gray
+    given: Jim
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Database and transaction processing performance handbook
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Cattell93
+  type: chapter
+  author:
+  - family: Cattell
+    given: R. G. G.
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: The engineering database benchmark
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/X93b
+  type: chapter
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: 'TPC benchmarkTM b: Standard specification'
+  title-short: TPC benchmarkTM b
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/DeFazio93
+  type: chapter
+  author:
+  - family: DeFazio
+    given: Samuel
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Overview of the full-text document retrieval benchmark
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/Sawyer93
+  type: chapter
+  author:
+  - family: Sawyer
+    given: Tom
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: Doing your own benchmark
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/gray93/TurbyfillOB93
+  type: chapter
+  author:
+  - family: Turbyfill
+    given: Carolyn
+  - family: Orji
+    given: Cyril U.
+  - family: Bitton
+    given: Dina
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: AS3AP - an aNSI sQL standard scaleable and portable benchmark for relational
+    database systems
+  container-title: The benchmark handbook
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/EppingerMS91
+  type: book
+  author:
+  - family: Eppinger
+    given: Jeffrey L.
+  - family: Mummert
+    given: Lily B.
+  - family: Spector
+    given: Alfred Z.
+  issued:
+  - year: '1991'
+  title: 'Camelot and avalon: A distributed transaction facility'
+  title-short: Camelot and avalon
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-185-6'
+
+- id: books/mk/Melton98
+  type: book
+  author:
+  - family: Melton
+    given: Jim
+  issued:
+  - year: '1998'
+  title: 'Understanding sQL stored procedures: A complete guide to sQL/PSM'
+  title-short: Understanding sQL stored procedures
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-461-8'
+
+- id: books/mk/Melton00
+  type: book
+  author:
+  - family: Melton
+    given: Jim
+  issued:
+  - year: '2000'
+  title: 'Understanding sQL and java together: A guide to sGLJ, jDBC, and related
+    technologies'
+  title-short: Understanding sQL and java together
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-562-2'
+
+- id: books/mk/Cattell00
+  type: book
+  author:
+  - family: Cattell
+    given: R. G. G.
+  - family: Barry
+    given: Douglas K.
+  issued:
+  - year: '2000'
+  title: 'The object data standard: ODMG 3.0'
+  title-short: The object data standard
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-647-5'
+
+- id: books/mk/LynchMWF93
+  type: book
+  author:
+  - family: Lynch
+    given: Nancy A.
+  - family: Merritt
+    given: Michael
+  - family: Weihl
+    given: William E.
+  - family: Fekete
+    given: Alan
+  issued:
+  - year: '1993'
+  title: Atomic transactions
+  publisher: Morgan Kaufmann
+  ISBN: 1-55860-104-X
+
+- id: books/mk/PuderR00
+  type: book
+  author:
+  - family: Puder
+    given: Arno
+  - family: Römer
+    given: Kay
+  issued:
+  - year: '2000'
+  title: 'MICO: An open source cORBA implementation'
+  title-short: MICO
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-666-1'
+
+- id: books/mk/Hvasshovd99
+  type: book
+  author:
+  - family: Hvasshovd
+    given: Svein-Olaf
+  issued:
+  - year: '1999'
+  title: Recovery in parallel database systems, second edition
+  publisher: Morgan Kaufmann
+  ISBN: 3-52-815411-X
+
+- id: books/mk/Cox00
+  type: book
+  author:
+  - family: Cox
+    given: Earl
+  issued:
+  - year: '2000'
+  title: 'Fuzzy modeling tools for data mining and knowledge discovery: Knowledge
+    discovery, fuzzy rule induction, and autonomous agents for databases and spreadsheets'
+  title-short: Fuzzy modeling tools for data mining and knowledge discovery
+  publisher: Morgan Kaufmann
+  ISBN: '0-12-194275-9'
+
+- id: books/mk/bancilhonDK92/AtkinsonBDDMZ92
+  type: chapter
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Bancilhon
+    given: François
+  - family: DeWitt
+    given: David J.
+  - family: Dittrich
+    given: Klaus R.
+  - family: Maier
+    given: David
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1992'
+  title: The object-oriented database system manifesto
+  container-title: Building an object-oriented database system, the story of o2
+  page: '3-20'
+  note: 'reprinted from DOOD 1989: 223-240'
+
+- id: books/mk/bancilhonDK92/Deux92
+  type: chapter
+  author:
+  - family: Deux
+    given: O.
+  issued:
+  - year: '1992'
+  title: The story of o2
+  container-title: Building an object-oriented database system, the story of o2
+  page: '21-57'
+  note: 'reprinted from IEEE Trans. Knowl. Data Eng. 2(1): 91-108 (1990)'
+
+- id: books/mk/bancilhonDK92/CluetDLR92
+  type: chapter
+  author:
+  - family: Cluet
+    given: Sophie
+  - family: Delobel
+    given: Claude
+  - family: Lécluse
+    given: Christophe
+  - family: Richard
+    given: Philippe
+  issued:
+  - year: '1992'
+  title: Reloop, an algebra based query language for an object-oriented database system
+  container-title: Building an object-oriented database system, the story of o2
+  page: '256-277'
+  note: 'reprint from: DOOD 1989: 313-332'
+
+- id: books/mk/bancilhonDK92/BorrasDPT92
+  type: chapter
+  author:
+  - family: Borras
+    given: Patrick
+  - family: Doucet
+    given: Anne
+  - family: Pfeffer
+    given: Patrick
+  - family: Tallot
+    given: Didier
+  issued:
+  - year: '1992'
+  title: The o2 programming environment
+  container-title: Building an object-oriented database system, the story of o2
+  page: '508-522'
+
+- id: books/mk/bancilhonDK92/Barbedette92
+  type: chapter
+  author:
+  - family: Barbedette
+    given: Gilles
+  issued:
+  - year: '1992'
+  title: 'LISP o2: A persistent object-oriented lisp'
+  title-short: LISP o2
+  container-title: Building an object-oriented database system, the story of o2
+  page: '215-233'
+  note: 'reprint from: EDBT 1990: 332-347'
+
+- id: books/mk/bancilhonDK92/AbiteboulKW92
+  type: chapter
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Kanellakis
+    given: Paris C.
+  - family: Waller
+    given: Emmanuel
+  issued:
+  - year: '1992'
+  title: Method schemas
+  container-title: Building an object-oriented database system, the story of o2
+  page: '128-147'
+  note: 'reprint from: PODS 1990: 16-27'
+
+- id: books/mk/bancilhonDK92/DoucetP92
+  type: chapter
+  author:
+  - family: Doucet
+    given: Anne
+  - family: Pfeffer
+    given: Patrick
+  issued:
+  - year: '1992'
+  title: Using a database system to implement a debugger
+  container-title: Building an object-oriented database system, the story of o2
+  page: '523-540'
+
+- id: books/mk/bancilhonDK92/Arango92
+  type: chapter
+  author:
+  - family: Arango
+    given: Gustavo
+  issued:
+  - year: '1992'
+  title: Self-explained toolboxes
+  container-title: Building an object-oriented database system, the story of o2
+  page: '555-568'
+
+- id: books/mk/bancilhonDK92/BancilhonM92
+  type: chapter
+  author:
+  - family: Bancilhon
+    given: François
+  - family: Maier
+    given: David
+  issued:
+  - year: '1992'
+  title: Introduction to languages
+  container-title: Building an object-oriented database system, the story of o2
+  page: '185-194'
+
+- id: books/mk/bancilhonDK92/DelobelKP92
+  type: chapter
+  author:
+  - family: Delobel
+    given: Claude
+  - family: Kanellakis
+    given: Paris C.
+  - family: Plateau
+    given: Didier
+  issued:
+  - year: '1992'
+  title: Introduction to the programming environment
+  container-title: Building an object-oriented database system, the story of o2
+  page: '489-495'
+
+- id: books/mk/bancilhonDK92/PlateauBLMT92
+  type: chapter
+  author:
+  - family: Plateau
+    given: Didier
+  - family: Borras
+    given: Patrick
+  - family: Lévêque
+    given: Didier
+  - family: Mamou
+    given: Jean-Claude
+  - family: Tallot
+    given: Didier
+  issued:
+  - year: '1992'
+  title: Building user interfaces with looks
+  container-title: Building an object-oriented database system, the story of o2
+  page: '496-507'
+
+- id: books/mk/bancilhonDK92/CellaryJ92
+  type: chapter
+  author:
+  - family: Cellary
+    given: Wojciech
+  - family: Jomier
+    given: Geneviève
+  issued:
+  - year: '1992'
+  title: Consistency of versions in object-oriented databases
+  container-title: Building an object-oriented database system, the story of o2
+  page: '447-462'
+
+- id: books/mk/bancilhonDK92/KanellakisLR92
+  type: chapter
+  author:
+  - family: Kanellakis
+    given: Paris C.
+  - family: Lécluse
+    given: Christophe
+  - family: Richard
+    given: Philippe
+  issued:
+  - year: '1992'
+  title: Introduction to the data model
+  container-title: Building an object-oriented database system, the story of o2
+  page: '61-76'
+
+- id: books/mk/bancilhonDK92/GamermanLV92
+  type: chapter
+  author:
+  - family: Gamerman
+    given: Sophie
+  - family: Lanquette
+    given: Catherine
+  - family: Vélez
+    given: Fernando
+  issued:
+  - year: '1992'
+  title: Using database applications to compare programming languages
+  container-title: Building an object-oriented database system, the story of o2
+  page: '278-324'
+
+- id: books/mk/bancilhonDK92/Larcheveque92
+  type: chapter
+  author:
+  - family: Larchevêque
+    given: Jean-Marie
+  issued:
+  - year: '1992'
+  title: Incremental compilation in o2
+  container-title: Building an object-oriented database system, the story of o2
+  page: '541-554'
+
+- id: books/mk/bancilhonDK92/BernardS92
+  type: chapter
+  author:
+  - family: Bernard
+    given: Guy
+  - family: Stève
+    given: Dominique
+  issued:
+  - year: '1992'
+  title: Handling distribution in the o2 system
+  container-title: Building an object-oriented database system, the story of o2
+  page: '369-384'
+
+- id: books/mk/bancilhonDK92/LecluseRV92
+  type: chapter
+  author:
+  - family: Lécluse
+    given: Christophe
+  - family: Richard
+    given: Philippe
+  - family: Vélez
+    given: Fernando
+  issued:
+  - year: '1992'
+  title: O2, an object-oriented data model
+  container-title: Building an object-oriented database system, the story of o2
+  page: '77-97'
+  note: 'reprinted from SIGMOD Conference 1988: 424-433'
+
+- id: books/mk/bancilhonDK92/SchollV92
+  type: chapter
+  author:
+  - family: Scholl
+    given: Michel
+  - family: Voisard
+    given: Agnès
+  issued:
+  - year: '1992'
+  title: 'Geographic applications: An experience with o2'
+  title-short: Geographic applications
+  container-title: Building an object-oriented database system, the story of o2
+  page: '585-618'
+
+- id: books/mk/bancilhonDK92/BenzakenDH92
+  type: chapter
+  author:
+  - family: Benzaken
+    given: Véronique
+  - family: Delobel
+    given: Claude
+  - family: Harrus
+    given: Gilbert
+  issued:
+  - year: '1992'
+  title: 'Clustering strategies in o2: An overview'
+  title-short: Clustering strategies in o2
+  container-title: Building an object-oriented database system, the story of o2
+  page: '385-410'
+
+- id: books/mk/bancilhonDK92/Zicari92
+  type: chapter
+  author:
+  - family: Zicari
+    given: Roberto
+  issued:
+  - year: '1992'
+  title: A framework for schema updates in an object-oriented database system
+  container-title: Building an object-oriented database system, the story of o2
+  page: '146-182'
+  note: 'reprint from: ICDE 1991: 2-13'
+
+- id: books/mk/bancilhonDK92/VelezBD92
+  type: chapter
+  author:
+  - family: Vélez
+    given: Fernando
+  - family: Bernard
+    given: Guy
+  - family: Darnis
+    given: Vineeta
+  issued:
+  - year: '1992'
+  title: 'The o2 object manager: An overview'
+  title-short: The o2 object manager
+  container-title: Building an object-oriented database system, the story of o2
+  page: '343-368'
+
+- id: books/mk/bancilhonDK92/DeWittFMV92
+  type: chapter
+  author:
+  - family: DeWitt
+    given: David J.
+  - family: Futtersack
+    given: Philippe
+  - family: Maier
+    given: David
+  - family: Vélez
+    given: Fernando
+  issued:
+  - year: '1992'
+  title: Three alternative workstation-server architectures
+  container-title: Building an object-oriented database system, the story of o2
+  page: '411-446'
+
+- id: books/mk/bancilhonDK92/BancilhonCD92
+  type: chapter
+  author:
+  - family: Bancilhon
+    given: François
+  - family: Cluet
+    given: Sophie
+  - family: Delobel
+    given: Claude
+  issued:
+  - year: '1992'
+  title: A query language for o2
+  container-title: Building an object-oriented database system, the story of o2
+  page: '234-255'
+
+- id: books/mk/bancilhonDK92/LecluseR92
+  type: chapter
+  author:
+  - family: Lécluse
+    given: Christophe
+  - family: Richard
+    given: Philippe
+  issued:
+  - year: '1992'
+  title: The o2 database programming language
+  container-title: Building an object-oriented database system, the story of o2
+  page: '195-214'
+
+- id: books/mk/bancilhonDK92/GrosselinJ92
+  type: chapter
+  author:
+  - family: Grosselin
+    given: Constance
+  - family: James
+    given: T. Mark
+  issued:
+  - year: '1992'
+  title: A guided tour of an o2 applications
+  container-title: Building an object-oriented database system, the story of o2
+  page: '571-584'
+
+- id: books/mk/bancilhonDK92/CartF92
+  type: chapter
+  author:
+  - family: Cart
+    given: Michèle
+  - family: Ferrié
+    given: Jean
+  issued:
+  - year: '1992'
+  title: Integrating concurrency control into an object-oriented database system
+  container-title: Building an object-oriented database system, the story of o2
+  page: '463-485'
+  note: 'reprint from: EDBT 1990: 363-377'
+
+- id: books/mk/bancilhonDK92/DelobelV92
+  type: chapter
+  author:
+  - family: Delobel
+    given: Claude
+  - family: Vélez
+    given: Fernando
+  issued:
+  - year: '1992'
+  title: Introduction to the system
+  container-title: Building an object-oriented database system, the story of o2
+  page: '327-342'
+
+- id: books/mk/bancilhonDK92/AbiteboulK92
+  type: chapter
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Kanellakis
+    given: Paris C.
+  issued:
+  - year: '1992'
+  title: Object identity as a query language primitive
+  container-title: Building an object-oriented database system, the story of o2
+  page: '97-127'
+  note: 'reprinted from SIGMOD Conference 1989: 159-173'
+
+- id: books/mk/Melton00a
+  type: book
+  author:
+  - family: Melton
+    given: Jim
+  issued:
+  - year: '2000'
+  title: 'Understanding the new sQL: A complete guide, second edition, volume i'
+  title-short: Understanding the new sQL
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-456-1'
+
+- id: books/mk/AllenK2001
+  type: book
+  author:
+  - family: Allen
+    given: Randy
+  - family: Kennedy
+    given: Ken
+  issued:
+  - year: '2001'
+  title: 'Optimizing compilers for modern architectures: A dependence-based approach'
+  title-short: Optimizing compilers for modern architectures
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-286-0'
+
+- id: books/mk/WittenF99
+  type: book
+  author:
+  - family: Witten
+    given: Ian H.
+  - family: Frank
+    given: Eibe
+  issued:
+  - year: '1999'
+  title: 'Data mining: Practical machine learning tools and techniques with java
+    implementations'
+  title-short: Data mining
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-552-5'
+
+- id: books/mk/Langley94
+  type: book
+  author:
+  - family: Langley
+    given: Pat
+  issued:
+  - year: '1994'
+  title: Elements of machine learning
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-301-8'
+
+- id: books/mk/HoosS2004
+  type: book
+  author:
+  - family: Hoos
+    given: Holger H.
+  - family: Stützle
+    given: Thomas
+  issued:
+  - year: '2004'
+  title: 'Stochastic local search: Foundations & applications'
+  title-short: Stochastic local search
+  publisher: Elsevier / Morgan Kaufmann
+  ISBN: '1-55860-872-9'
+
+- id: books/mk/freytagMV91/MitschangP91
+  type: chapter
+  author:
+  - family: Mitschang
+    given: Bernhard
+  - family: Pirahesh
+    given: Hamid
+  issued:
+  - year: '1991'
+  title: 'Integration of composite objects into relational query processing: The
+    sQL/XNF approach'
+  title-short: Integration of composite objects into relational query processing
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '35-62'
+
+- id: books/mk/freytagMV91/LausenM91
+  type: chapter
+  author:
+  - family: Lausen
+    given: Georg
+  - family: Marx
+    given: Beate
+  issued:
+  - year: '1991'
+  title: Evaluation aspects of an object-oriented deductive database language
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '177-200'
+
+- id: books/mk/freytagMV91/CluetD91
+  type: chapter
+  author:
+  - family: Cluet
+    given: Sophie
+  - family: Delobel
+    given: Claude
+  issued:
+  - year: '1991'
+  title: Towards a unification of rewrite-based optimization techniques for object-oriented
+    queries
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '245-272'
+
+- id: books/mk/freytagMV91/MaierDKVGM91
+  type: chapter
+  author:
+  - family: Maier
+    given: David
+  - family: Daniels
+    given: Scott
+  - family: '0005'
+    given: Thomas Keller
+  - family: Vance
+    given: Bennet
+  - family: Graefe
+    given: Goetz
+  - family: McKenna
+    given: William J.
+  issued:
+  - year: '1991'
+  title: Challenges for query processing in object-oriented databases
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '337-380'
+
+- id: books/mk/freytagMV91/BergK91
+  type: chapter
+  author:
+  - family: Berg
+    given: Carel A.
+    dropping-particle: van den
+  - family: Kersten
+    given: Martin L.
+  issued:
+  - year: '1991'
+  title: An analysis of a dynamic query optimization scheme for different data distributions
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '449-472'
+
+- id: books/mk/freytagMV91/Schoning91
+  type: chapter
+  author:
+  - family: Schöning
+    given: Harald
+  issued:
+  - year: '1991'
+  title: Optimization of complex-object queries in pRIMA - statement of problems
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '99-119'
+
+- id: books/mk/freytagMV91/DemuthGG91
+  type: chapter
+  author:
+  - family: Demuth
+    given: Birgit
+  - family: Geppert
+    given: Andreas
+  - family: Gorchs
+    given: Thorsten
+  issued:
+  - year: '1991'
+  title: Algebraic query optimization in the coOMS structurally object-oriented database
+    system
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '121-142'
+
+- id: books/mk/freytagMV91/GyssensSG91
+  type: chapter
+  author:
+  - family: Gyssens
+    given: Marc
+  - family: Saxton
+    given: Lawrence V.
+  - family: Gucht
+    given: Dirk Van
+  issued:
+  - year: '1991'
+  title: Tagging as an alternative to object creation
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '201-242'
+
+- id: books/mk/freytagMV91/Bertino91
+  type: chapter
+  author:
+  - family: Bertino
+    given: Elisa
+  issued:
+  - year: '1991'
+  title: A survey of indexing techniques for object-oriented database management systems
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '383-418'
+
+- id: books/mk/freytagMV91/KemperM91
+  type: chapter
+  author:
+  - family: Kemper
+    given: Alfons
+  - family: Moerkotte
+    given: Guido
+  issued:
+  - year: '1991'
+  title: 'Query optimization in object bases: Exploiting relational techniques'
+  title-short: Query optimization in object bases
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '63-98'
+
+- id: books/mk/freytagMV91/JeusfeldS91
+  type: chapter
+  author:
+  - family: Jeusfeld
+    given: Manfred A.
+  - family: Staudt
+    given: Martin
+  issued:
+  - year: '1991'
+  title: Query optimization in deductive object bases
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '145-176'
+
+- id: books/mk/freytagMV91/GraefeCDMW91
+  type: chapter
+  author:
+  - family: Graefe
+    given: Goetz
+  - family: Cole
+    given: Richard L.
+  - family: Davison
+    given: Diane L.
+  - family: McKenna
+    given: William J.
+  - family: Wolniewicz
+    given: Richard H.
+  issued:
+  - year: '1991'
+  title: Extensible query optimization and parallel execution in volcano
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '305-335'
+
+- id: books/mk/freytagMV91/Scholl91
+  type: chapter
+  author:
+  - family: Scholl
+    given: Marc H.
+  issued:
+  - year: '1991'
+  title: Physical database design for an object-oriented database system
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '419-447'
+
+- id: books/mk/freytagMV91/KulkarniBDKM91
+  type: chapter
+  author:
+  - family: Kulkarni
+    given: Krishna G.
+  - family: Bauer
+    given: Jonathan
+  - family: Dayal
+    given: Umeshwar
+  - family: Kelley
+    given: Mike
+  - family: Melton
+    given: Jim
+  issued:
+  - year: '1991'
+  title: ADT-based type system for sQL
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '3-33'
+
+- id: books/mk/freytagMV91/SteenhagenA91
+  type: chapter
+  author:
+  - family: Steenhagen
+    given: Hennie J.
+  - family: Apers
+    given: Peter M. G.
+  issued:
+  - year: '1991'
+  title: Implementation of the object-oriented data model tM
+  container-title: Query processing for advanced database systems, dagstuhl
+  publisher: Morgan Kaufmann
+  page: '273-303'
+
+- id: books/mk/Stonebraker94
+  type: book
+  editor:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1994'
+  title: Readings in database systems, second edition
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-252-6'
+
+- id: books/mk/GutingS2005
+  type: book
+  author:
+  - family: Güting
+    given: Ralf Hartmut
+  - family: '0001'
+    given: Markus Schneider
+  issued:
+  - year: '2005'
+  title: Moving objects databases
+  publisher: Morgan Kaufmann
+  ISBN: '0-12-088799-1'
+
+- id: books/mk/WittenB03
+  type: book
+  author:
+  - family: Witten
+    given: Ian H.
+  - family: Bainbridge
+    given: David
+  issued:
+  - year: '2003'
+  title: How to build a digital libary
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-790-0'
+
+- id: books/mk/WeissK90
+  type: book
+  author:
+  - family: Weiss
+    given: Sholom M.
+  - family: Kulikowski
+    given: Casimir A.
+  issued:
+  - year: '1990'
+  title: 'Computer systems that learn: Classification and prediction methods from
+    statistics, neural nets, machine learning and expert systems'
+  title-short: Computer systems that learn
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-065-5'
+
+- id: books/mk/BunemanSA99
+  type: book
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Buneman
+    given: Peter
+  - family: Suciu
+    given: Dan
+  issued:
+  - year: '1999'
+  title: 'Data on the web: From relations to semistructured data and xML'
+  title-short: Data on the web
+  publisher: Morgan Kaufmann
+  ISBN: 1-55860-622-X
+
+- id: books/mk/ONeilN00
+  type: book
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  - family: O’Neil
+    given: Elizabeth J.
+  issued:
+  - year: '2000'
+  title: 'Database: Principles, programming, and performance, second edition'
+  title-short: Database
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-438-3'
+
+- id: books/mk/widomC96/WidomC96b
+  type: chapter
+  author:
+  - family: Widom
+    given: Jennifer
+  - family: Ceri
+    given: Stefano
+  issued:
+  - year: '1996'
+  title: Applications of active databases
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '259-291'
+
+- id: books/mk/widomC96/Hanson96
+  type: chapter
+  author:
+  - family: Hanson
+    given: Eric N.
+  issued:
+  - year: '1996'
+  title: The ariel project
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '63-86'
+
+- id: books/mk/widomC96/Widom96
+  type: chapter
+  author:
+  - family: Widom
+    given: Jennifer
+  issued:
+  - year: '1996'
+  title: The starburst rule system
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '87-109'
+
+- id: books/mk/widomC96/WidomC96c
+  type: chapter
+  author:
+  - family: Widom
+    given: Jennifer
+  - family: Ceri
+    given: Stefano
+  issued:
+  - year: '1996'
+  title: Conclusions and future directions
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '293-302'
+
+- id: books/mk/widomC96/SimonK96
+  type: chapter
+  author:
+  - family: Simon
+    given: Eric
+  - family: Kiernan
+    given: Jerry
+  issued:
+  - year: '1996'
+  title: The a-rDL system
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '111-149'
+
+- id: books/mk/widomC96/CeriFPT96
+  type: chapter
+  author:
+  - family: Ceri
+    given: Stefano
+  - family: Fraternali
+    given: Piero
+  - family: Paraboschi
+    given: Stefano
+  - family: Tanca
+    given: Letizia
+  issued:
+  - year: '1996'
+  title: Active rule management in chimera
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '151-176'
+
+- id: books/mk/widomC96/GehaniJ96
+  type: chapter
+  author:
+  - family: Gehani
+    given: Narain H.
+  - family: Jagadish
+    given: H. V.
+  issued:
+  - year: '1996'
+  title: Active database facilities in ode
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '207-232'
+
+- id: books/mk/widomC96/PotamianosS96
+  type: chapter
+  author:
+  - family: Potamianos
+    given: Spyros
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1996'
+  title: The pOSTGRES rules system
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '43-61'
+
+- id: books/mk/widomC96/WidomC96a
+  type: chapter
+  author:
+  - family: Widom
+    given: Jennifer
+  - family: Ceri
+    given: Stefano
+  issued:
+  - year: '1996'
+  title: Standards and commercial systems
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '233-258'
+
+- id: books/mk/widomC96/WidomC96
+  type: chapter
+  author:
+  - family: Widom
+    given: Jennifer
+  - family: Ceri
+    given: Stefano
+  issued:
+  - year: '1996'
+  title: Introduction to active database systems
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '1-41'
+
+- id: books/mk/widomC96/DayalBC96
+  type: chapter
+  author:
+  - family: Dayal
+    given: Umeshwar
+  - family: Buchmann
+    given: Alejandro P.
+  - family: Chakravarthy
+    given: Sharma
+  issued:
+  - year: '1996'
+  title: The hiPAC project
+  container-title: 'Active database systems: Triggers and rules for advanced database
+    processing'
+  publisher: Morgan Kaufmann
+  page: '177-206'
+
+- id: books/mk/GrayR93
+  type: book
+  author:
+  - family: Gray
+    given: Jim
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1993'
+  title: 'Transaction processing: Concepts and techniques'
+  title-short: Transaction processing
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-190-2'
+
+- id: books/mk/Saracco98
+  type: book
+  author:
+  - family: Saracco
+    given: Cynthia Maro
+  issued:
+  - year: '1998'
+  title: 'Universal database management: A guide to object/Relational technology'
+  title-short: Universal database management
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-519-3'
+
+- id: books/mk/Stonebraker96
+  type: book
+  author:
+  - family: Stonebraker
+    given: Michael
+  - family: Moore
+    given: Dorothy
+  issued:
+  - year: '1996'
+  title: 'Object-relational dBMSs: The next great wave'
+  title-short: Object-relational dBMSs
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-397-2'
+
+- id: books/mk/HennessyP96
+  type: book
+  author:
+  - family: Hennessy
+    given: John L.
+  - family: Patterson
+    given: David A.
+  issued:
+  - year: '1996'
+  title: 'Computer architecture: A quantitative approach, 2nd edition'
+  title-short: Computer architecture
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-329-8'
+
+- id: books/mk/Stonebraker98
+  type: book
+  editor:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1998'
+  title: Readings in database systems, third edition
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-523-1'
+
+- id: books/mk/gray91/Franklin91
+  type: chapter
+  author:
+  - family: Franklin
+    given: Michael J.
+  issued:
+  - year: '1991'
+  title: 'Benchmark software distribution: Release 1.0'
+  title-short: Benchmark software distribution
+  container-title: The benchmark handbook
+  page: '321-324'
+
+- id: books/mk/gray91/Sawyer91
+  type: chapter
+  author:
+  - family: Sawyer
+    given: Tom
+  issued:
+  - year: '1991'
+  title: Doing your own benchmark
+  container-title: The benchmark handbook
+  page: '301-329'
+
+- id: books/mk/gray91/Cattell91
+  type: chapter
+  author:
+  - family: Cattell
+    given: R. G. G.
+  issued:
+  - year: '1991'
+  title: An engineering database benchmark
+  container-title: The benchmark handbook
+  page: '247-281'
+
+- id: books/mk/gray91/DeWitt91
+  type: chapter
+  author:
+  - family: DeWitt
+    given: David J.
+  issued:
+  - year: '1991'
+  title: 'The wisconsin benchmark: Past, present, and future'
+  title-short: The wisconsin benchmark
+  container-title: The benchmark handbook
+  page: '119-165'
+
+- id: books/mk/gray91/TurbyfillOB91
+  type: chapter
+  author:
+  - family: Turbyfill
+    given: Carolyn
+  - family: Orji
+    given: Cyril U.
+  - family: Bitton
+    given: Dina
+  issued:
+  - year: '1991'
+  title: 'AS3AP: An aNSI sQL standard scaleable and portable benchmark for relational
+    database systems'
+  title-short: AS3AP
+  container-title: The benchmark handbook
+  page: '167-207'
+
+- id: books/mk/gray91/Serlin91
+  type: chapter
+  author:
+  - family: Serlin
+    given: Omri
+  issued:
+  - year: '1991'
+  title: The history of debitCredit and the tPC
+  container-title: The benchmark handbook
+  page: '19-38'
+
+- id: books/mk/gray91/TCP91a
+  type: chapter
+  issued:
+  - year: '1991'
+  title: 'TPC benchmarkTM b: Standard specification'
+  title-short: TPC benchmarkTM b
+  container-title: The benchmark handbook
+  page: '79-117'
+
+- id: books/mk/gray91/ONeil91
+  type: chapter
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  issued:
+  - year: '1991'
+  title: The set query benchmark
+  container-title: The benchmark handbook
+  page: '209-245'
+
+- id: books/mk/gray91/Gray91
+  type: chapter
+  author:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1991'
+  title: Introduction
+  container-title: The benchmark handbook
+  page: '1-17'
+
+- id: books/mk/gray91/Nelson91
+  type: chapter
+  author:
+  - family: Nelson
+    given: Neal
+  issued:
+  - year: '1991'
+  title: 'The neal nelson database benchmarkTM: A benchmark based on the realities
+    of business'
+  title-short: The neal nelson database benchmarkTM
+  container-title: The benchmark handbook
+  page: '283-299'
+
+- id: books/mk/gray91/TCP91
+  type: chapter
+  issued:
+  - year: '1991'
+  title: 'TPC benchmarkTM a: Standard specification'
+  title-short: TPC benchmarkTM a
+  container-title: The benchmark handbook
+  page: '39-78'
+
+- id: books/mk/Gray93
+  type: book
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1993'
+  title: The benchmark handbook for database and transaction systems (2nd edition)
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-292-5'
+
+- id: books/mk/Lynch96
+  type: book
+  author:
+  - family: Lynch
+    given: Nancy A.
+  issued:
+  - year: '1996'
+  title: Distributed algorithms
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-348-4'
+
+- id: books/mk/dittrichG01/GeppertD01
+  type: chapter
+  author:
+  - family: Geppert
+    given: Andreas
+  - family: Dittrich
+    given: Klaus R.
+  issued:
+  - year: '2001'
+  title: 'Component database systems: Introduction, foundations, and overview'
+  title-short: Component database systems
+  container-title: Compontent database systems
+  page: '1-28'
+
+- id: books/mk/dittrichG01/RothSH01
+  type: chapter
+  author:
+  - family: Roth
+    given: Mary Tork
+  - family: Schwarz
+    given: Peter M.
+  - family: Haas
+    given: Laura M.
+  issued:
+  - year: '2001'
+  title: An architecture for transparent access to diverse data sources
+  container-title: Compontent database systems
+  page: '175-206'
+
+- id: books/mk/dittrichG01/OzsuY01
+  type: chapter
+  author:
+  - family: Özsu
+    given: M. Tamer
+  - family: Yao
+    given: Benjamin Bin
+  issued:
+  - year: '2001'
+  title: Building component database systems using cORBA
+  container-title: Compontent database systems
+  page: '207-236'
+
+- id: books/mk/dittrichG01/BanerjeeKM01
+  type: chapter
+  author:
+  - family: Banerjee
+    given: Sandeepan
+  - family: Krishnamurthy
+    given: Vishu
+  - family: Murthy
+    given: Ravi
+  issued:
+  - year: '2001'
+  title: 'All your data: The oracle extensibility architecture'
+  title-short: All your data
+  container-title: Compontent database systems
+  page: '71-104'
+
+- id: books/mk/dittrichG01/Lockemann01
+  type: chapter
+  author:
+  - family: Lockemann
+    given: Peter C.
+  issued:
+  - year: '2001'
+  title: Foreword
+  container-title: Compontent database systems
+  page: v-vi
+
+- id: books/mk/dittrichG01/Brown01
+  type: chapter
+  author:
+  - family: Brown
+    given: Paul
+  issued:
+  - year: '2001'
+  title: Distributed component database management systems
+  container-title: Compontent database systems
+  page: '29-70'
+
+- id: books/mk/dittrichG01/DesslochCCFGJMNTW01
+  type: chapter
+  author:
+  - family: Deßloch
+    given: Stefan
+  - family: Chen
+    given: Weidong
+  - family: Chow
+    given: Jyh-Herng
+  - family: Fuh
+    given: You-Chin
+  - family: Grandbois
+    given: Jean
+  - family: Jou
+    given: Michelle
+  - family: Mattos
+    given: Nelson Mendonça
+  - family: Nitzsche
+    given: Raiko
+  - family: Tran
+    given: Brian T.
+  - family: Wang
+    given: Yun
+  issued:
+  - year: '2001'
+  title: Extensible indexing support in dB2 universal database
+  container-title: Compontent database systems
+  page: '105-138'
+
+- id: books/mk/dittrichG01/GeppertD01a
+  type: chapter
+  author:
+  - family: Geppert
+    given: Andreas
+  - family: Dittrich
+    given: Klaus R.
+  issued:
+  - year: '2001'
+  title: Conclusions and perspectives
+  container-title: Compontent database systems
+  page: '253-261'
+
+- id: books/mk/dittrichG01/Bobzin01
+  type: chapter
+  author:
+  - family: Bobzin
+    given: Heiko
+  issued:
+  - year: '2001'
+  title: The architecture of a database system for mobile and embedded devices
+  container-title: Compontent database systems
+  page: '237-251'
+
+- id: books/mk/dittrichG01/BlakeleyP01
+  type: chapter
+  author:
+  - family: Blakeley
+    given: José A.
+  - family: Pizzo
+    given: Michael
+  issued:
+  - year: '2001'
+  title: Enabling component databases with oLE dB
+  container-title: Compontent database systems
+  page: '139-173'
+
+- id: books/mk/WittenMB99
+  type: book
+  author:
+  - family: Witten
+    given: Ian H.
+  - family: Moffat
+    given: Alistair
+  - family: Bell
+    given: Timothy C.
+  issued:
+  - year: '1999'
+  title: 'Managing gigabytes: Compressing and indexing documents and images, second
+    edition'
+  title-short: Managing gigabytes
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-570-3'
+
+- id: books/mk/FayyadGW2001
+  type: book
+  editor:
+  - family: Fayyad
+    given: Usama M.
+  issued:
+  - year: '2001'
+  title: Information visualization in data mining and knowledge discovery
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-689-0'
+
+- id: books/mk/Cattell97
+  type: book
+  editor:
+  - family: Cattell
+    given: R. G. G.
+  issued:
+  - year: '1997'
+  title: 'The object database standard: ODMG 2.0'
+  title-short: The object database standard
+  publisher: Morgan Kaufmann
+
+- id: books/mk/Touretzky86
+  type: book
+  author:
+  - family: Touretzky
+    given: David S.
+  issued:
+  - year: '1986'
+  title: The mathematics of inheritance systems
+  publisher: Morgan Kaufmann
+  ISBN: '0-934613-06-0'
+
+- id: books/mk/VossenH2007
+  type: book
+  author:
+  - family: Vossen
+    given: Gottfried
+  - family: Hagemann
+    given: Stephan
+  issued:
+  - year: '2007'
+  title: 'Unleashing web 2.0: From concepts to creativity'
+  title-short: Unleashing web 2.0
+  publisher: Morgan Kaufmann
+  ISBN: '978-0-12-374034-2'
+
+- id: books/mk/MeltonS93
+  type: book
+  author:
+  - family: Melton
+    given: Jim
+  - family: Simon
+    given: Alan R.
+  issued:
+  - year: '1993'
+  title: 'Understanding the new sQL: A complete guide'
+  title-short: Understanding the new sQL
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-245-3'
+
+- id: books/mk/Cattell93
+  type: book
+  author:
+  - family: Cattell
+    given: R. G. G.
+  issued:
+  - year: '1993'
+  title: 'The object database standard: ODMG-93'
+  title-short: The object database standard
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-302-6'
+
+- id: books/mk/PattersonH97
+  type: book
+  author:
+  - family: Patterson
+    given: David A.
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1997'
+  title: 'Computer organization & design: The hardware/Software interface, second
+    edition'
+  title-short: Computer organization & design
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-428-6'
+
+- id: books/mk/Westman00
+  type: book
+  author:
+  - family: Westerman
+    given: Paul
+  issued:
+  - year: '2000'
+  title: 'Data warehousing: Using the wal-mart model'
+  title-short: Data warehousing
+  publisher: Morgan Kaufmann
+  ISBN: 1-55860-684-X
+
+- id: books/mk/ONeil94
+  type: book
+  author:
+  - family: O’Neil
+    given: Patrick E.
+  issued:
+  - year: '1994'
+  title: Database principles, programming, performance
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-219-4'
+
+- id: books/mk/PattersonH90
+  type: book
+  author:
+  - family: Patterson
+    given: David A.
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1990'
+  title: 'Computer architecture: A quantitative approach'
+  title-short: Computer architecture
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-188-0'
+
+- id: books/mk/elmagarmid92/ChrysanthisR92
+  type: chapter
+  author:
+  - family: Chrysanthis
+    given: Panos K.
+  - family: Ramamritham
+    given: Krithi
+  issued:
+  - year: '1992'
+  title: 'ACTA: The sAGA continues'
+  title-short: ACTA
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '349-397'
+
+- id: books/mk/elmagarmid92/KaiserP92
+  type: chapter
+  author:
+  - family: Kaiser
+    given: Gail E.
+  - family: Pu
+    given: Calton
+  issued:
+  - year: '1992'
+  title: Dynamic restructuring of transactions
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '265-295'
+
+- id: books/mk/elmagarmid92/MuthRKN92
+  type: chapter
+  author:
+  - family: Muth
+    given: Peter
+  - family: Rakow
+    given: Thomas C.
+  - family: Klas
+    given: Wolfgang
+  - family: Neuhold
+    given: Erich J.
+  issued:
+  - year: '1992'
+  title: A transaction model for an open publication environment
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '159-218'
+
+- id: books/mk/elmagarmid92/WeikumS92
+  type: chapter
+  author:
+  - family: Weikum
+    given: Gerhard
+  - family: Schek
+    given: Hans-Jörg
+  issued:
+  - year: '1992'
+  title: Concepts and applications of multilevel transactions and open nested transactions
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '515-553'
+
+- id: books/mk/elmagarmid92/HeilerHZBR92
+  type: chapter
+  author:
+  - family: Heiler
+    given: Sandra
+  - family: Haradhvala
+    given: Sara
+  - family: Zdonik
+    given: Stanley B.
+  - family: Blaustein
+    given: Barbara T.
+  - family: Rosenthal
+    given: Arnon
+  issued:
+  - year: '1992'
+  title: A flexible framework for transaction management in engineering environments
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '87-121'
+
+- id: books/mk/elmagarmid92/UnlandS92
+  type: chapter
+  author:
+  - family: Unland
+    given: Rainer
+  - family: Schlageter
+    given: Gunter
+  issued:
+  - year: '1992'
+  title: Facility for non standard database systems
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '399-466'
+
+- id: books/mk/elmagarmid92/VeijalainenEH92
+  type: chapter
+  author:
+  - family: Veijalainen
+    given: Jari
+  - family: Eliassen
+    given: Frank
+  - family: Holtkamp
+    given: Bernhard
+  issued:
+  - year: '1992'
+  title: The s-transaction model
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '467-513'
+
+- id: books/mk/elmagarmid92/WachterR92
+  type: chapter
+  author:
+  - family: Wächter
+    given: Helmut
+  - family: '0001'
+    given: Andreas Reuter
+  issued:
+  - year: '1992'
+  title: The conTract model
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '219-263'
+
+- id: books/mk/elmagarmid92/BuchmannOGM92
+  type: chapter
+  author:
+  - family: Buchmann
+    given: Alejandro P.
+  - family: Özsu
+    given: M. Tamer
+  - family: Georgakopoulos
+    given: Dimitrios
+  - family: Manola
+    given: Frank
+  issued:
+  - year: '1992'
+  title: A transaction model for active distributed object systems
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '123-158'
+
+- id: books/mk/elmagarmid92/ElmagarmidLMB92
+  type: chapter
+  author:
+  - family: Elmagarmid
+    given: Ahmed K.
+  - family: Leu
+    given: Yungho
+  - family: Mullen
+    given: James G.
+  - family: Bukhres
+    given: Omran A.
+  issued:
+  - year: '1992'
+  title: Introduction to advanced transaction models
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '33-52'
+
+- id: books/mk/elmagarmid92/NodineRZ92
+  type: chapter
+  author:
+  - family: Nodine
+    given: Marian H.
+  - family: Ramaswamy
+    given: Sridhar
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1992'
+  title: A cooperative transaction model for design databases
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '53-85'
+
+- id: books/mk/elmagarmid92/KuhnPE92
+  type: chapter
+  author:
+  - family: Kühn
+    dropping-particle: eva
+  - family: Puntigam
+    given: Franz
+  - family: Elmagarmid
+    given: Ahmed K.
+  issued:
+  - year: '1992'
+  title: Multidatabase transaction and query processing in logic
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '297-348'
+
+- id: books/mk/elmagarmid92/AgrawalA92
+  type: chapter
+  author:
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  issued:
+  - year: '1992'
+  title: Transaction management in database systems
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '1-31'
+
+- id: books/mk/elmagarmid92/ShethRK92
+  type: chapter
+  author:
+  - family: Sheth
+    given: Amit P.
+  - family: Rusinkiewicz
+    given: Marek
+  - family: Karabatis
+    given: George
+  issued:
+  - year: '1992'
+  title: Using polytransactions to manage interdependent data
+  container-title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  page: '555-581'
+
+- id: books/mk/BernsteinN96
+  type: book
+  author:
+  - family: Bernstein
+    given: Philip A.
+  - family: Newcomer
+    given: Eric
+  issued:
+  - year: '1996'
+  title: Principles of transaction processing for systems professionals
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-415-4'
+
+- id: books/mk/ZanioloCFSSZ97
+  type: book
+  author:
+  - family: Zaniolo
+    given: Carlo
+  - family: Ceri
+    given: Stefano
+  - family: Faloutsos
+    given: Christos
+  - family: Snodgrass
+    given: Richard T.
+  - family: Subrahmanian
+    given: V. S.
+  - family: Zicari
+    given: Roberto
+  issued:
+  - year: '1997'
+  title: Advanced database systems
+  publisher: Morgan Kaufmann
+  ISBN: 1-55860-443-X
+
+- id: books/mk/WidomC96
+  type: book
+  editor:
+  - family: Widom
+    given: Jennifer
+  issued:
+  - year: '1996'
+  title: 'Active database systems: Triggers and rules for advanced database processing'
+  title-short: Active database systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-304-2'
+
+- id: books/mk/Gray91
+  type: book
+  editor:
+  - family: Gray
+    given: Jim
+  issued:
+  - year: '1991'
+  title: The benchmark handbook for database and transaction systems (1st edition)
+  publisher: Morgan Kaufmann
+
+- id: books/mk/Olson03
+  type: book
+  author:
+  - family: Olson
+    given: Jack E.
+  issued:
+  - year: '2003'
+  title: 'Data quality: The accuracy dimension'
+  title-short: Data quality
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-891-5'
+
+- id: books/mk/Sayood96
+  type: book
+  author:
+  - family: Sayood
+    given: Khalid
+  issued:
+  - year: '1996'
+  title: Introduction to data compression
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-346-8'
+
+- id: books/mk/Lesk97
+  type: book
+  author:
+  - family: Lesk
+    given: Michael
+  issued:
+  - year: '1997'
+  title: 'Practical digital libraries: Books, bytes, and bucks'
+  title-short: Practical digital libraries
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-459-6'
+
+- id: books/mk/Mueller2006
+  type: book
+  author:
+  - family: Mueller
+    given: Erik T.
+  issued:
+  - year: '2006'
+  title: Commonsense reasoning
+  publisher: Morgan Kaufmann
+  ISBN: '0-12-369388-8'
+
+- id: books/mk/DittrichG00
+  type: book
+  author:
+  - family: Dittrich
+    given: Klaus R.
+  - family: Geppert
+    given: Andreas
+  issued:
+  - year: '2000'
+  title: Component database systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-642-4'
+
+- id: books/mk/YuM97
+  type: book
+  author:
+  - family: Yu
+    given: Clement T.
+  - family: Meng
+    given: Weiyi
+  issued:
+  - year: '1997'
+  title: Priniples of database query processing for advanced applications
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-434-0'
+
+- id: books/mk/Elmagarmid92
+  type: book
+  editor:
+  - family: Elmagarmid
+    given: Ahmed K.
+  issued:
+  - year: '1992'
+  title: Database transaction models for advanced applications
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-214-3'
+
+- id: books/mk/Giampaolo99
+  type: book
+  author:
+  - family: Giampaolo
+    given: Dominic
+  issued:
+  - year: '1999'
+  title: Practical file system design with the be file system
+  publisher: Morgan Kaufmann
+  URL: http://www.nobius.org/~dbg/practical-file-system-design.pdf
+  ISBN: '1-55860-497-9'
+
+- id: books/mk/ZdonikM90
+  type: book
+  editor:
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1990'
+  title: Readings in object-oriented database systems
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-000-0'
+
+- id: books/mk/Herlihy2013
+  type: book
+  author:
+  - family: Herlihy
+    given: Maurice
+  - family: Kozlov
+    given: Dmitry N.
+  - family: Rajsbaum
+    given: Sergio
+  issued:
+  - year: '2013'
+  title: Distributed computing through combinatorial topology
+  publisher: Morgan Kaufmann
+  URL: https://store.elsevier.com/product.jsp?isbn=9780124045781
+  ISBN: '978-0-12-404578-1'
+
+- id: books/mk/CooperT2004
+  type: book
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Torczon
+    given: Linda
+  issued:
+  - year: '2004'
+  title: Engineering a compiler
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-699-8'
+
+- id: books/mk/Chamberlin96
+  type: book
+  author:
+  - family: Chamberlin
+    given: Donald D.
+  issued:
+  - year: '1996'
+  title: 'Using the new dB2: IBM’s object-relational database system'
+  title-short: Using the new dB2
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-373-5'
+
+- id: books/mk/JacobNW2008
+  type: book
+  author:
+  - family: Jacob
+    given: Bruce L.
+  - family: Ng
+    given: Spencer W.
+  - family: Wang
+    given: David T.
+  issued:
+  - year: '2008'
+  title: 'Memory systems: Cache, dRAM, disk'
+  title-short: Memory systems
+  publisher: Morgan Kaufmann
+  ISBN: '978-0-12-379751-3'
+
+- id: books/mk/SchillerV2004
+  type: book
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Location-based services
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/Walther87
+  type: book
+  author:
+  - family: Walther
+    given: Christoph
+  issued:
+  - year: '1987'
+  title: A many-sorted calculus based on resolution and paramodulation
+  publisher: Pitman / Morgan Kaufmann
+  ISBN: '0-273-08718-5'
+
+- id: books/mk/Hackathorn98
+  type: book
+  author:
+  - family: Hackathorn
+    given: Richard D.
+  issued:
+  - year: '1998'
+  title: Web farming for the data warehouse
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-503-7'
+
+- id: books/mk/Feiler99
+  type: book
+  author:
+  - family: Feiler
+    given: Jesse
+  issued:
+  - year: '1999'
+  title: Database-driven web sites
+  publisher: Morgan Kaufmann
+  ISBN: '0-12-251336-3'
+
+- id: books/mk/Muchnick1997
+  type: book
+  author:
+  - family: Muchnick
+    given: Steven S.
+  issued:
+  - year: '1997'
+  title: Advanced compiler design and implementation
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-320-4'
+
+- id: books/mk/schillerV04/Spiekermann04
+  type: chapter
+  author:
+  - family: Spiekermann
+    given: Sarah
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: General aspects of location based services
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '9-26'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/StrassmanC04
+  type: chapter
+  author:
+  - family: Strassman
+    given: Mark
+  - family: Collier
+    given: Clay
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: 'Case study: The development of the find friends application'
+  title-short: Case study
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '27-40'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/Karl04
+  type: chapter
+  author:
+  - family: Karl
+    given: Holger
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Data transmission in mobile communication systems
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '207-244'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/McKee04
+  type: chapter
+  author:
+  - family: McKee
+    given: Lance
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: LBS interoperability through standards
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '149-174'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/Jacobsen04
+  type: chapter
+  author:
+  - family: Jacobsen
+    given: Hans-Arno
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Middleware for location-based services
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '83-114'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/Roth04
+  type: chapter
+  author:
+  - family: Roth
+    given: Jörg
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Data collection
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '175-206'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/Jensen04
+  type: chapter
+  author:
+  - family: Jensen
+    given: Christian S.
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Database aspects of location-based services
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '115-148'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/SchillerV04
+  type: chapter
+  author:
+  - family: Schiller
+    given: Jochen H.
+  - family: Voisard
+    given: Agnès
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: Introduction
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '1-8'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/schillerV04/ShekharVMY04
+  type: chapter
+  author:
+  - family: Shekhar
+    given: Shashi
+  - family: Vatsavai
+    given: Ranga Raju
+  - family: Ma
+    given: Xiaobin
+  - family: Yoo
+    given: Jin Soung
+  editor:
+  - family: Schiller
+    given: Jochen H.
+  issued:
+  - year: '2004'
+  title: 'Navigation systems: A spatial database perspective'
+  title-short: Navigation systems
+  container-title: Location-based services
+  publisher: Morgan Kaufmann
+  page: '41-82'
+  ISBN: '1-55860-929-6'
+
+- id: books/mk/Celko99a
+  type: book
+  author:
+  - family: Celko
+    given: Joe
+  issued:
+  - year: '1999'
+  title: 'Joe celko’s data and databases: Concepts in practice'
+  title-short: Joe celko’s data and databases
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-432-4'
+
+- id: books/mk/Muller99
+  type: book
+  author:
+  - family: Muller
+    given: Robert J.
+  issued:
+  - year: '1999'
+  title: 'Database design for smarties: Using uML for data modeling'
+  title-short: Database design for smarties
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-515-0'
+
+- id: books/mk/Cattell94
+  type: book
+  author:
+  - family: Cattell
+    given: R. G. G.
+  issued:
+  - year: '1994'
+  title: 'The object database standard: ODMG-93 (release 1.1)'
+  title-short: The object database standard
+  publisher: Morgan Kaufmann
+
+- id: books/mk/Snodgrass99
+  type: book
+  author:
+  - family: Snodgrass
+    given: Richard T.
+  issued:
+  - year: '1999'
+  title: Developing time-oriented database applications in sQL
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-436-7'
+
+- id: books/mk/Simon95
+  type: book
+  author:
+  - family: Simon
+    given: Alan R.
+  issued:
+  - year: '1995'
+  title: 'Strategic database technology: Management for the year 2000'
+  title-short: Strategic database technology
+  publisher: Morgan Kaufmann
+  ISBN: 1-55860-264-X
+...

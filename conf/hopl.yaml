@@ -1,0 +1,516 @@
+---
+references:
+- id: conf/hopl/Wirth07
+  type: paper-conference
+  author:
+  - family: Wirth
+    given: Niklaus
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: Modula-2 and oberon
+  container-title: HOPL
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1238844.1238847
+
+- id: conf/hopl/Cook07
+  type: paper-conference
+  author:
+  - family: Cook
+    given: William R.
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: AppleScript
+  container-title: HOPL
+  publisher: ACM
+  page: '1-21'
+  URL: http://doi.acm.org/10.1145/1238844.1238845
+
+- id: conf/hopl/Sammet93
+  type: paper-conference
+  author:
+  - family: Sammet
+    given: Jean E.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The beginning and development of fORMAC (fORmula mAnipulation compiler)
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '209-230'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155372
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/KennedyKZ07
+  type: paper-conference
+  author:
+  - family: Kennedy
+    given: Ken
+  - family: Koelbel
+    given: Charles
+  - family: Zima
+    given: Hans P.
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: 'The rise and fall of high performance fortran: An historical object lesson'
+  title-short: The rise and fall of high performance fortran
+  container-title: HOPL
+  publisher: ACM
+  page: '1-22'
+  URL: http://doi.acm.org/10.1145/1238844.1238851
+
+- id: conf/hopl/1993
+  type: book
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: History of programming languages conference (hOPL-iI), preprints, cambridge,
+    massachusetts, uSA, april 20-23, 1993
+  publisher: ACM
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://dl.acm.org/citation.cfm?id=154766
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Lindsey93
+  type: paper-conference
+  author:
+  - family: Lindsey
+    given: C. H.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: A history of aLGOL 68
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '97-132'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155365
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/KristensenMM07
+  type: paper-conference
+  author:
+  - family: Kristensen
+    given: Bent Bruun
+  - family: Madsen
+    given: Ole Lehrmann
+  - family: Møller-Pedersen
+    given: Birger
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: The when, why and why not of the bETA programming language
+  container-title: HOPL
+  publisher: ACM
+  page: '1-57'
+  URL: http://doi.acm.org/10.1145/1238844.1238854
+
+- id: conf/hopl/GriswoldG93
+  type: paper-conference
+  author:
+  - family: Griswold
+    given: Ralph E.
+  - family: Griswold
+    given: Madge T.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: History of the icon programming language
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '53-68'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155363
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/IerusalimschyFF07
+  type: paper-conference
+  author:
+  - family: Ierusalimschy
+    given: Roberto
+  - family: Figueiredo
+    given: Luiz Henrique
+    dropping-particle: de
+  - family: Filho
+    given: Waldemar Celes
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: The evolution of lua
+  container-title: HOPL
+  publisher: ACM
+  page: '1-26'
+  URL: http://doi.acm.org/10.1145/1238844.1238846
+
+- id: conf/hopl/SteeleG93
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Guy L. Steele
+  - family: Gabriel
+    given: Richard P.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The evolution of lisp
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '231-270'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155373
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Liskov93
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: A history of cLU
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '133-147'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155367
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/UngarS07
+  type: paper-conference
+  author:
+  - family: Ungar
+    given: David
+  - family: Smith
+    given: Randall B.
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: Self
+  container-title: HOPL
+  publisher: ACM
+  page: '1-50'
+  URL: http://doi.acm.org/10.1145/1238844.1238853
+
+- id: conf/hopl/Snyder07
+  type: paper-conference
+  author:
+  - family: Snyder
+    given: Lawrence
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: The design and development of zPL
+  container-title: HOPL
+  publisher: ACM
+  page: '1-37'
+  URL: http://doi.acm.org/10.1145/1238844.1238852
+
+- id: conf/hopl/Kay93
+  type: paper-conference
+  author:
+  - family: Kay
+    given: Alan C.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The early history of smalltalk
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '69-95'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155364
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Nance93
+  type: paper-conference
+  author:
+  - family: Nance
+    given: Richard E.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: A history of discrete event simulation programming languages
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '149-175'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155368
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Stroustrup07
+  type: paper-conference
+  author:
+  - family: Stroustrup
+    given: Bjarne
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: 'Evolving a language in and for the real world: C++ 1991-2006'
+  title-short: Evolving a language in and for the real world
+  container-title: HOPL
+  publisher: ACM
+  page: '1-59'
+  URL: http://doi.acm.org/10.1145/1238844.1238848
+
+- id: conf/hopl/RatherCM93
+  type: paper-conference
+  author:
+  - family: Rather
+    given: Elizabeth D.
+  - family: Colburn
+    given: Donald R.
+  - family: Moore
+    given: Charles H.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The evolution of forth
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '177-199'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155369
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Armstrong07
+  type: paper-conference
+  author:
+  - family: Armstrong
+    given: Joe
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: A history of erlang
+  container-title: HOPL
+  publisher: ACM
+  page: '1-26'
+  URL: http://doi.acm.org/10.1145/1238844.1238850
+
+- id: conf/hopl/Whitaker93
+  type: paper-conference
+  author:
+  - family: Whitaker
+    given: Williaam A.
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: 'Ada - the project: The doD high order language working group'
+  title-short: Ada - the project
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '299-331'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155376
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Ritchie93
+  type: paper-conference
+  author:
+  - family: Ritchie
+    given: Dennis
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The development of the c language
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '201-208'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155580
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/2007
+  type: book
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: Proceedings of the third aCM sIGPLAN history of programming languages conference
+    (hOPL-iII), san diego, california, uSA, 9-10 june 2007
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1238844
+
+- id: conf/hopl/BlackHJL07
+  type: paper-conference
+  author:
+  - family: Black
+    given: Andrew P.
+  - family: Hutchinson
+    given: Norman C.
+  - family: Jul
+    given: Eric
+  - family: Levy
+    given: Henry M.
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: The development of the emerald programming language
+  container-title: HOPL
+  publisher: ACM
+  page: '1-51'
+  URL: http://doi.acm.org/10.1145/1238844.1238855
+
+- id: conf/hopl/HudakHJW07
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Hughes
+    given: John
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: 'A history of haskell: Being lazy with class'
+  title-short: A history of haskell
+  container-title: HOPL
+  publisher: ACM
+  page: '1-55'
+  URL: http://doi.acm.org/10.1145/1238844.1238856
+
+- id: conf/hopl/Wirth93
+  type: paper-conference
+  author:
+  - family: Wirth
+    given: Niklaus
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: Recollections about the development of pascal
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '333-342'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155378
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Hansen93
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Per Brinch
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: 'Monitors and concurrent pascal: A personal history'
+  title-short: Monitors and concurrent pascal
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '1-35'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155361
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/ColmerauerR93
+  type: paper-conference
+  author:
+  - family: Colmerauer
+    given: Alain
+  - family: Roussel
+    given: Philippe
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: The birth of prolog
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '37-52'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155362
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Stroustrup93
+  type: paper-conference
+  author:
+  - family: Stroustrup
+    given: Bjarne
+  editor:
+  - family: Lee
+    given: John A. N.
+  issued:
+  - year: '1993'
+  title: 'A history of c++: 1979-1991'
+  title-short: A history of c++
+  container-title: HOPL preprints
+  publisher: ACM
+  page: '271-297'
+  note: SIGPLAN Notices 28(3), March 1993
+  URL: http://doi.acm.org/10.1145/154766.155375
+  ISBN: '0-89791-570-4'
+
+- id: conf/hopl/Harel07
+  type: paper-conference
+  author:
+  - family: Harel
+    given: David
+  editor:
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2007'
+  title: 'Statecharts in the making: A personal account'
+  title-short: Statecharts in the making
+  container-title: HOPL
+  publisher: ACM
+  page: '1-43'
+  URL: http://doi.acm.org/10.1145/1238844.1238849
+...

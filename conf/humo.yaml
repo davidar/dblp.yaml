@@ -1,0 +1,880 @@
+---
+references:
+- id: conf/humo/MichoudGB07
+  type: paper-conference
+  author:
+  - family: Michoud
+    given: Brice
+  - family: Guillou
+    given: Erwan
+  - family: Bouakaz
+    given: Saïda
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Real-time and markerless 3D human motion capture using multiple views
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-103'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_7
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/MikicHT00
+  type: paper-conference
+  author:
+  - family: Mikic
+    given: Ivana
+  - family: Huang
+    given: Kohsia S.
+  - family: Trivedi
+    given: Mohan M.
+  issued:
+  - year: '2000'
+  title: Activity monitoring and summarization for an intelligent meeting room
+  container-title: Workshop on human motion
+  page: '107-112'
+  URL: http://computer.org/proceedings/humo/0939/09390107abs.htm
+
+- id: conf/humo/AguiarTSS07
+  type: paper-conference
+  author:
+  - family: Aguiar
+    given: Edilson
+    dropping-particle: de
+  - family: Theobalt
+    given: Christian
+  - family: Stoll
+    given: Carsten
+  - family: Seidel
+    given: Hans-Peter
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Marker-less 3D feature tracking for mesh-based human motion capture
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_1
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/StuartA00
+  type: paper-conference
+  author:
+  - family: Stuart
+    given: Bradley
+  - family: Aloimonos
+    given: Yiannis
+  issued:
+  - year: '2000'
+  title: Ray carving with gradients and motion
+  container-title: Workshop on human motion
+  page: '81-87'
+  URL: http://computer.org/proceedings/humo/0939/09390081abs.htm
+
+- id: conf/humo/YonemotoAT00
+  type: paper-conference
+  author:
+  - family: Yonemoto
+    given: Satoshi
+  - family: Arita
+    given: Daisaku
+  - family: Taniguchi
+    given: Rin-ichiro
+  issued:
+  - year: '2000'
+  title: Real-time human motion analysis and iK-based human figure control
+  container-title: Workshop on human motion
+  page: '149-154'
+  URL: http://computer.org/proceedings/humo/0939/09390149abs.htm
+
+- id: conf/humo/NiWK07
+  type: paper-conference
+  author:
+  - family: Ni
+    given: Bingbing
+  - family: Winkler
+    given: Stefan
+  - family: Kassim
+    given: Ashraf A.
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Articulated object registration using simulated physical force/Moment for
+    3D human motion tracking
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-224'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_15
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/GilbertB07
+  type: paper-conference
+  author:
+  - family: Gilbert
+    given: Andrew
+  - family: Bowden
+    given: Richard
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Multi person tracking within crowded scenes
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-179'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_12
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/SiddiquiM07
+  type: paper-conference
+  author:
+  - family: Siddiqui
+    given: Matheen
+  - family: Medioni
+    given: Gérard G.
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Efficient upper body pose estimation from a single image or a sequence
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-87'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_6
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/JaeggliKG07
+  type: paper-conference
+  author:
+  - family: Jaeggli
+    given: Tobias
+  - family: Koller-Meier
+    given: Esther
+  - family: Gool
+    given: Luc J. Van
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Multi-activity tracking in lLE body pose space
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-57'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_4
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/YangGSK07
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Changjiang
+  - family: Guo
+    given: Yanlin
+  - family: Sawhney
+    given: Harpreet S.
+  - family: '0001'
+    given: Rakesh Kumar
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Learning actions using robust string kernels
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-327'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_22
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/DockstaderT00
+  type: paper-conference
+  author:
+  - family: Dockstader
+    given: Shiloh L.
+  - family: Tekalp
+    given: A. Murat
+  issued:
+  - year: '2000'
+  title: Tracking multiple objects in the presence of articulated and occluded motion
+  container-title: Workshop on human motion
+  page: '88-'
+  URL: http://computer.org/proceedings/humo/0939/09390088abs.htm
+
+- id: conf/humo/BarronK00
+  type: paper-conference
+  author:
+  - family: Barron
+    given: Carlos
+  - family: Kakadiaris
+    given: Ioannis A.
+  issued:
+  - year: '2000'
+  title: On the improvement of anthropometry and pose estimation from a single uncalibrated
+    image
+  container-title: Workshop on human motion
+  page: '53-60'
+  URL: http://computer.org/proceedings/humo/0939/09390053abs.htm
+
+- id: conf/humo/HamadaSS00
+  type: paper-conference
+  author:
+  - family: Hamada
+    given: Yasushi
+  - family: Shimada
+    given: Nobutaka
+  - family: Shirai
+    given: Yoshiaki
+  issued:
+  - year: '2000'
+  title: Hand shape estimation using image transition network
+  container-title: Workshop on human motion
+  page: '161-166'
+  URL: http://computer.org/proceedings/humo/0939/09390161abs.htm
+
+- id: conf/humo/NeumannA00
+  type: paper-conference
+  author:
+  - family: Neumann
+    given: Jan
+  - family: Aloimonos
+    given: Yiannis
+  issued:
+  - year: '2000'
+  title: 'TALKING hEADS: Introducing the tool of 3D motion fields in the study of
+    action'
+  title-short: TALKING hEADS
+  container-title: Workshop on human motion
+  page: '25-'
+  URL: http://dlib.computer.org/conferen/humo/0939/pdf/09390025.pdf
+
+- id: conf/humo/HaradaSM00
+  type: paper-conference
+  author:
+  - family: Harada
+    given: Tatsuya
+  - family: Sato
+    given: Tomomasa
+  - family: Mori
+    given: Taketoshi
+  issued:
+  - year: '2000'
+  title: Human motion tracking system based on skeleton and surface integration model
+    using pressure sensors distribution bed
+  container-title: Workshop on human motion
+  page: '99-106'
+  URL: http://computer.org/proceedings/humo/0939/09390099abs.htm
+
+- id: conf/humo/LiuZ00
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Zicheng
+  - family: Zhang
+    given: Zhengyou
+  issued:
+  - year: '2000'
+  title: Robust head motion computation by taking advantage of physical properties
+  container-title: Workshop on human motion
+  page: '73-'
+  URL: http://computer.org/proceedings/humo/0939/09390073abs.htm
+
+- id: conf/humo/WangM07
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Yang Wang
+  - family: Mori
+    given: Greg
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Boosted multiple deformable trees for parsing human poses
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-27'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_2
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/WangSM07
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Yang Wang
+  - family: Sabzmeydani
+    given: Payam
+  - family: Mori
+    given: Greg
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: 'Semi-latent dirichlet allocation: A hierarchical model for human action
+    recognition'
+  title-short: Semi-latent dirichlet allocation
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '240-254'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_17
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/VoglerSM00
+  type: paper-conference
+  author:
+  - family: Vogler
+    given: Christian
+  - family: Sun
+    given: Harold C.
+  - family: Metaxas
+    given: Dimitris N.
+  issued:
+  - year: '2000'
+  title: A framework for motion recognition with applications to american sign language
+    and gait recognition
+  container-title: Workshop on human motion
+  page: '33-38'
+  URL: http://computer.org/proceedings/humo/0939/09390033abs.htm
+
+- id: conf/humo/Beymer00
+  type: paper-conference
+  author:
+  - family: Beymer
+    given: David
+  issued:
+  - year: '2000'
+  title: Person counting using stereo
+  container-title: Workshop on human motion
+  page: '127-'
+  URL: http://computer.org/proceedings/humo/0939/09390127abs.htm
+
+- id: conf/humo/BroxRCS07
+  type: paper-conference
+  author:
+  - family: Brox
+    given: Thomas
+  - family: Rosenhahn
+    given: Bodo
+  - family: Cremers
+    given: Daniel
+  - family: Seidel
+    given: Hans-Peter
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Nonparametric density estimation with adaptive, anisotropic kernels for human
+    motion tracking
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-165'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_11
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/SongP00
+  type: paper-conference
+  author:
+  - family: Song
+    given: Yang
+  - family: Perona
+    given: Pietro
+  issued:
+  - year: '2000'
+  title: A computational model for motion detection and direction discrimination in
+    humans
+  container-title: Workshop on human motion
+  page: '11-'
+  URL: http://computer.org/proceedings/humo/0939/09390011abs.htm
+
+- id: conf/humo/LimD07
+  type: paper-conference
+  author:
+  - family: Lim
+    given: Ser-Nam
+  - family: Davis
+    given: Larry S.
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: An ease-of-use stereo-based particle filter for tracking under occlusion
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '225-239'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_16
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/JavedKRS00
+  type: paper-conference
+  author:
+  - family: Javed
+    given: Omar
+  - family: Khan
+    given: Sohaib
+  - family: Rasheed
+    given: Zeeshan
+  - family: Shah
+    given: Mubarak
+  issued:
+  - year: '2000'
+  title: 'Camera handoff: Tracking in multiple uncalibrated stationary cameras'
+  title-short: Camera handoff
+  container-title: Workshop on human motion
+  page: '113-'
+  URL: http://computer.org/proceedings/humo/0939/09390113abs.htm
+
+- id: conf/humo/CuzzolinMBH07
+  type: paper-conference
+  author:
+  - family: Cuzzolin
+    given: Fabio
+  - family: Mateus
+    given: Diana
+  - family: Boyer
+    given: Edmond
+  - family: Horaud
+    given: Radu
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Robust spectral 3D-bodypart segmentation along time
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-211'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_14
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/TancoH00
+  type: paper-conference
+  author:
+  - family: Tanco
+    given: L. M.
+  - family: Hilton
+    given: Adrian
+  issued:
+  - year: '2000'
+  title: Realistic synthesis of novel human movements from a database of motion capture
+    examples
+  container-title: Workshop on human motion
+  page: '137-142'
+  URL: http://computer.org/proceedings/humo/0939/09390137abs.htm
+
+- id: conf/humo/UrtasunFL07
+  type: paper-conference
+  author:
+  - family: Urtasun
+    given: Raquel
+  - family: Fleet
+    given: David J.
+  - family: Lawrence
+    given: Neil D.
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Modeling human locomotion with topologically constrained latent variable
+    models
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-118'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_8
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/SunkelRS07
+  type: paper-conference
+  author:
+  - family: Sunkel
+    given: Martin
+  - family: Rosenhahn
+    given: Bodo
+  - family: Seidel
+    given: Hans-Peter
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Silhouette based generic model adaptation for marker-less motion capturing
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-135'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_9
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/RogezRRO07
+  type: paper-conference
+  author:
+  - family: Rogez
+    given: Grégory
+  - family: Rius
+    given: Ignasi
+  - family: Rincón
+    given: Jesús Martínez
+    dropping-particle: del
+  - family: Orrite
+    given: Carlos
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Exploiting spatio-temporal constraints for robust 2D pose tracking
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-73'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_5
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/WilhelmsGAL00
+  type: paper-conference
+  author:
+  - family: Wilhelms
+    given: Jane
+  - family: Gelder
+    given: Allen Van
+  - family: Atkinson-Derman
+    given: L.
+  - family: Luo
+    given: A.
+  issued:
+  - year: '2000'
+  title: Human motion from active contours
+  container-title: Workshop on human motion
+  page: '155-160'
+  URL: http://computer.org/proceedings/humo/0939/09390155abs.htm
+
+- id: conf/humo/BlackburnR07
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Jaron
+  - family: Ribeiro
+    given: Eraldo
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Human motion recognition using isomap and dynamic time warping
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-298'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_20
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/Thurau07
+  type: paper-conference
+  author:
+  - family: Thurau
+    given: Christian
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Behavior histograms for action recognition and human detection
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '299-312'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_21
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/ChikTS07
+  type: paper-conference
+  author:
+  - family: Chik
+    given: Desmond
+  - family: Trumpf
+    given: Jochen
+  - family: Schraudolph
+    given: Nicol N.
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: 3D hand tracking in a stochastic approximation setting
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-151'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_10
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/RosalesS00
+  type: paper-conference
+  author:
+  - family: Rosales
+    given: Rómer
+  - family: Sclaroff
+    given: Stan
+  issued:
+  - year: '2000'
+  title: Specialized mappings and the estimation of human body pose from a single
+    image
+  container-title: Workshop on human motion
+  page: '19-24'
+  URL: http://computer.org/proceedings/humo/0939/09390019abs.htm
+
+- id: conf/humo/HeD00
+  type: paper-conference
+  author:
+  - family: He
+    given: Qiang
+  - family: Debrunner
+    given: Christian
+  issued:
+  - year: '2000'
+  title: Individual recognition from periodic activity using hidden markov models
+  container-title: Workshop on human motion
+  page: '47-52'
+  URL: http://computer.org/proceedings/humo/0939/09390047abs.htm
+
+- id: conf/humo/OzerWA00
+  type: paper-conference
+  author:
+  - family: Özer
+    given: I. Burak
+  - family: Wolf
+    given: Wayne
+  - family: Akansu
+    given: Ali N.
+  issued:
+  - year: '2000'
+  title: Human activity detection in mPEG sequences
+  container-title: Workshop on human motion
+  page: '61-66'
+  URL: http://computer.org/proceedings/humo/0939/09390061abs.htm
+
+- id: conf/humo/BoltzDB07
+  type: paper-conference
+  author:
+  - family: Boltz
+    given: Sylvain
+  - family: Debreuve
+    given: Eric
+  - family: Barlaud
+    given: Michel
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Joint appearance and deformable shape for nonparametric segmentation
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-195'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_13
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/HowellB00
+  type: paper-conference
+  author:
+  - family: Howell
+    given: A. Jonathan
+  - family: Buxton
+    given: Hilary
+  issued:
+  - year: '2000'
+  title: Face detection and attentional frames for visually mediated interaction
+  container-title: Workshop on human motion
+  page: '143-148'
+  URL: http://computer.org/proceedings/humo/0939/09390143abs.htm
+
+- id: conf/humo/ShaoLXL00
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Hui
+  - family: Li
+    given: Liyuan
+  - family: Xiao
+    given: Ping
+  - family: Leung
+    given: Maylor K. H.
+  issued:
+  - year: '2000'
+  title: 'ELEVIEW: An active elevator video surveillance system'
+  title-short: ELEVIEW
+  container-title: Workshop on human motion
+  page: '67-72'
+  URL: http://computer.org/proceedings/humo/0939/09390067abs.htm
+
+- id: conf/humo/BoydL00
+  type: paper-conference
+  author:
+  - family: Boyd
+    given: Jeffrey E.
+  - family: Little
+    given: James J.
+  issued:
+  - year: '2000'
+  title: Phase in model-free perception of gait
+  container-title: Workshop on human motion
+  page: '3-10'
+  URL: http://computer.org/proceedings/humo/0939/09390003abs.htm
+
+- id: conf/humo/2007
+  type: book
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Human motion - understanding, modeling, capture and animation, second workshop,
+    human motion 2007, rio de janeiro, brazil, october 20, 2007, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4814'
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/BiswasTF07
+  type: paper-conference
+  author:
+  - family: Biswas
+    given: Rahul
+  - family: Thrun
+    given: Sebastian
+  - family: Fujimura
+    given: Kikuo
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Recognizing activities with multiple cues
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-270'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_18
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/LinWH00
+  type: paper-conference
+  author:
+  - family: Lin
+    given: John Y.
+  - family: Wu
+    given: Ying
+  - family: Huang
+    given: Thomas S.
+  issued:
+  - year: '2000'
+  title: Modeling the constraints of human hand motion
+  container-title: Workshop on human motion
+  page: '121-126'
+  URL: http://computer.org/proceedings/humo/0939/09390121abs.htm
+
+- id: conf/humo/GrestK07
+  type: paper-conference
+  author:
+  - family: Grest
+    given: Daniel
+  - family: Krüger
+    given: Volker
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Gradient-enhanced particle filter for vision-based motion capture
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-41'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_3
+  ISBN: '978-3-540-75702-3'
+
+- id: conf/humo/WalterPG00
+  type: paper-conference
+  author:
+  - family: Walter
+    given: Michael
+  - family: Psarrou
+    given: Alexandra
+  - family: Gong
+    given: Shaogang
+  issued:
+  - year: '2000'
+  title: An incremental approach towards automatic model acquisition for human gesture
+    recognition
+  container-title: Workshop on human motion
+  page: '39-'
+  URL: http://computer.org/proceedings/humo/0939/09390039abs.htm
+
+- id: conf/humo/IkizlerD07
+  type: paper-conference
+  author:
+  - family: Ikizler
+    given: Nazli
+  - family: Duygulu
+    given: Pinar
+  editor:
+  - family: Elgammal
+    given: Ahmed M.
+  issued:
+  - year: '2007'
+  title: Human action recognition using distribution of oriented rectangular patches
+  container-title: Workshop on human motion
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-284'
+  volume: '4814'
+  DOI: 10.1007/978-3-540-75703-0_19
+  ISBN: '978-3-540-75702-3'
+...

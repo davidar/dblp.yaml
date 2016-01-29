@@ -1,0 +1,4423 @@
+---
+references:
+- id: conf/scm/Seiwald96
+  type: paper-conference
+  author:
+  - family: Seiwald
+    given: Christopher
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Inter-file branching - a practical method for representing variants
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-75'
+  volume: '1167'
+  DOI: 10.1007/BFb0023081
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Chu-CarrollW01
+  type: paper-conference
+  author:
+  - family: Chu-Carroll
+    given: Mark
+  - family: Wright
+    given: James L.
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2001'
+  title: Supporting distributed collaboration through multidimensional software configuration
+    management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-53'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_4
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/ChoiS89
+  type: paper-conference
+  author:
+  - family: Choi
+    given: Song C.
+  - family: Scacchi
+    given: Walt
+  issued:
+  - year: '1989'
+  title: Assuring the correctness of configured software descriptions
+  container-title: SCM
+  page: '66-75'
+
+- id: conf/scm/Wiebe88
+  type: paper-conference
+  author:
+  - family: Wiebe
+    given: Douglas
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Specifying and verifying semantic properties of software configurations
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '409-412'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/LeoniTV99
+  type: paper-conference
+  author:
+  - family: Leoni
+    given: Matteo
+  - family: Trainotti
+    given: Michele
+  - family: Valerio
+    given: Andrea
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'Applying software configuration management in web sites development: A
+    case study'
+  title-short: Applying software configuration management in web sites development
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-37'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_3
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Ommering01
+  type: paper-conference
+  author:
+  - family: Ommering
+    given: Rob C.
+    dropping-particle: van
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2001'
+  title: Configuration management in component based product populations
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-23'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_2
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Kolvik96
+  type: paper-conference
+  author:
+  - family: Kolvik
+    given: Sissel
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Introducing configuration management in an organisation
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-230'
+  volume: '1167'
+  DOI: 10.1007/BFb0023092
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/1988
+  type: book
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Proceedings of the international workshop on software version and configuration
+    control, january 27-29, 1988, grassau, germany
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Lewerentz88
+  type: paper-conference
+  author:
+  - family: Lewerentz
+    given: Claus
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Variant and revision control within an incremental programming environment
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '426-429'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Westfechtel89
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '1989'
+  title: Revision control in an integrated software development environment
+  container-title: SCM
+  page: '96-105'
+
+- id: conf/scm/HallHW98
+  type: paper-conference
+  author:
+  - family: Hall
+    given: Richard S.
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Requirements for software deployment languages and schema
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-203'
+  volume: '1439'
+  DOI: 10.1007/BFb0053890
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/FeilerS88
+  type: paper-conference
+  author:
+  - family: Feiler
+    given: Peter H.
+  - family: Smeaton
+    given: Roger
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Managing development of very large systems: Implications on integrated
+    environments'
+  title-short: Managing development of very large systems
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '62-82'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Estublier95
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Process session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-137'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_10
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/HeimbignerW96
+  type: paper-conference
+  author:
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Post-deployment configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272-276'
+  volume: '1167'
+  DOI: 10.1007/BFb0023098
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/BerradaLM91
+  type: paper-conference
+  author:
+  - family: Berrada
+    given: Karima
+  - family: Lopez
+    given: F.
+  - family: Minot
+    given: Régis
+  issued:
+  - year: '1991'
+  title: VMCM, a pCTE based version and configuration management system
+  container-title: SCM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/111062.111067
+
+- id: conf/scm/Storm05
+  type: paper-conference
+  author:
+  - family: Storm
+    given: Tijs
+    dropping-particle: van der
+  issued:
+  - year: '2005'
+  title: Continuous release and upgrade of component-based software
+  container-title: SCM
+  publisher: ACM
+  page: '43-57'
+  URL: http://doi.acm.org/10.1145/1109128.1109132
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/BehringerS88
+  type: paper-conference
+  author:
+  - family: Behringer
+    given: 'E.'
+  - family: Steinbauer
+    given: Dieter
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: An information system for configuration management in a software house (project-report)
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '344-362'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/LarsenR98
+  type: paper-conference
+  author:
+  - family: Larsen
+    given: Jens-Otto
+  - family: Roald
+    given: Helge M.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Introducing clearCase as a process improvement experiment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '1439'
+  DOI: 10.1007/BFb0053873
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Crnkovic99
+  type: paper-conference
+  author:
+  - family: Crnkovic
+    given: Ivica
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: Why do some mature organizations not use mature cM tools?
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-65'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_5
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/RosenblumK91
+  type: paper-conference
+  author:
+  - family: Rosenblum
+    given: David S.
+  - family: Krishnamurthy
+    given: Balachander
+  issued:
+  - year: '1991'
+  title: An event-based model of software configuration management
+  container-title: SCM
+  page: '94-97'
+  URL: http://doi.acm.org/10.1145/111062.111074
+
+- id: conf/scm/LeblangCS88
+  type: paper-conference
+  author:
+  - family: Leblang
+    given: David B.
+  - family: Jr.
+    given: Robert P. Chase
+  - family: Spilke
+    given: Howard
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Increasing productivity with a parallel configuration manager
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '21-37'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/RepsHP88
+  type: paper-conference
+  author:
+  - family: Reps
+    given: Thomas W.
+  - family: Horwitz
+    given: Susan
+  - family: Prins
+    given: Jan
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Support for integrating program variants in an environment for programming
+    in the large
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '197-216'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/HuntVT96
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Vo
+    given: Kiem-Phong
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: An empirical study of delta algorithms
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-66'
+  volume: '1167'
+  DOI: 10.1007/BFb0023080
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/CiPT97
+  type: paper-conference
+  author:
+  - family: Ci
+    given: James X.
+  - family: Poonawala
+    given: Mustafa H.
+  - family: Tsai
+    given: Wei-Tek
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: 'ScmEngine: A distributed software management environment on x.500'
+  title-short: ScmEngine
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-127'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Wienberg03
+  type: paper-conference
+  author:
+  - family: Wienberg
+    given: Axel
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Merging collection data structures in a content management system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-147'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_10
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/EstublierDA97
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Dami
+    given: Samir
+  - family: Amiour
+    given: Mahfoud
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: High level process modeling for sCM systems
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-97'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/TosicMP01
+  type: paper-conference
+  author:
+  - family: Tosic
+    given: Vladimir
+  - family: Mennie
+    given: David
+  - family: Pagurek
+    given: Bernard
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2001'
+  title: Software configuration management related to the management of distributed
+    systems and service-oriented architectures
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-69'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_5
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/KorelWMND91
+  type: paper-conference
+  author:
+  - family: Korel
+    given: Bogdan
+  - family: Wedde
+    given: Horst
+  - family: Magaraj
+    given: Srinivas
+  - family: Nawaz
+    given: Kalique
+  - family: Dayana
+    given: Venugopal
+  issued:
+  - year: '1991'
+  title: Version management in distributed network environment
+  container-title: SCM
+  page: '161-166'
+  URL: http://doi.acm.org/10.1145/111062.111083
+
+- id: conf/scm/Clemm95
+  type: paper-conference
+  author:
+  - family: Clemm
+    given: Geoffrey
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: The odin system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-262'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_21
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/1999
+  type: book
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: System configuration management, 9th international symposium, sCM-9, toulouse,
+    france, september 5-7, 1999, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1675'
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/ConradiL05
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Li
+    given: Jingyue
+  issued:
+  - year: '2005'
+  title: Observations on versioning of off-the-shelf components in industrial projects
+    (short paper)
+  container-title: SCM
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/1109128.1109131
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/BielikovaN98
+  type: paper-conference
+  author:
+  - family: Bieliková
+    given: Mária
+  - family: Návrat
+    given: Pavol
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Modelling versioned hypertext documents
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-197'
+  volume: '1439'
+  DOI: 10.1007/BFb0053889
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Conradi95
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Versioning models
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80'
+  volume: '1005'
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/ChristensenE95
+  type: paper-conference
+  author:
+  - family: Christensen
+    given: Anders
+  - family: Egge
+    given: Tor
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Store - a system for handling third-party applications in a heterogeneous
+    computer environment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-276'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_22
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/BelangerKR96
+  type: paper-conference
+  author:
+  - family: Belanger
+    given: Dave
+  - family: Korn
+    given: David G.
+  - family: Rao
+    given: Herman C.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Infrastructure for wide-area software development
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-165'
+  volume: '1167'
+  DOI: 10.1007/BFb0023087
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Vanter98
+  type: paper-conference
+  author:
+  - family: Vanter
+    given: Michael L. Van
+    dropping-particle: de
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Coordinated editing of versioned packages in the jP programming environment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-173'
+  volume: '1439'
+  DOI: 10.1007/BFb0053887
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Persson95
+  type: paper-conference
+  author:
+  - family: Persson
+    given: Annita
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Experiences of customization and introduction of a cM model
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-303'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_28
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Leblang97
+  type: paper-conference
+  author:
+  - family: Leblang
+    given: David B.
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Managing the software development process with clearGuide
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-80'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/BendixLNP98
+  type: paper-conference
+  author:
+  - family: Bendix
+    given: Lars
+  - family: Larsen
+    given: Per Nygaard
+  - family: Nielsen
+    given: Anders Ingemann
+  - family: Petersen
+    given: Jesper Lai Søndergaard
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: CoEd - a tool for versioning of hierarchical documents
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-187'
+  volume: '1439'
+  DOI: 10.1007/BFb0053888
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/AsklundB03
+  type: paper-conference
+  author:
+  - family: Asklund
+    given: Ulf
+  - family: Bendix
+    given: Lars
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: A software configuration management course
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '245-258'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_18
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/1998
+  type: book
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: System configuration management, eCOOP’98 sCM-8 symposium, brussels, belgium,
+    july 20-21, 1998, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1439'
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/SchmerlM97
+  type: paper-conference
+  author:
+  - family: Schmerl
+    given: Bradley R.
+  - family: Marlin
+    given: Chris D.
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Versioning and consistency for dynamically composed configurations
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-65'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/LangeS91
+  type: paper-conference
+  author:
+  - family: Lange
+    given: Ronald
+  - family: Schwanke
+    given: Robert W.
+  issued:
+  - year: '1991'
+  title: 'Software architecture analysis: A case study'
+  title-short: Software architecture analysis
+  container-title: SCM
+  page: '19-28'
+  URL: http://doi.acm.org/10.1145/111062.111064
+
+- id: conf/scm/HoekHW95
+  type: paper-conference
+  author:
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Does configuration management research have a future?
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-309'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_30
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Dart96
+  type: paper-conference
+  author:
+  - family: Dart
+    given: Susan A.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Best practice for a configuration management solution
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '239-255'
+  volume: '1167'
+  DOI: 10.1007/BFb0023094
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/EstublierC95
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Casallas
+    given: Rubby
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Three dimensional versioning
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-135'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_9
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/WingerdS98
+  type: paper-conference
+  author:
+  - family: Wingerd
+    given: Laura
+  - family: Seiwald
+    given: Christopher
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: High-level best practices in software configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-66'
+  volume: '1439'
+  DOI: 10.1007/BFb0053878
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Thomas89
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Ian
+  issued:
+  - year: '1989'
+  title: Version and configuration management on a software engineering database
+  container-title: SCM
+  page: '23-25'
+
+- id: conf/scm/Molli97
+  type: paper-conference
+  author:
+  - family: Molli
+    given: Pascal
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: 'COO-transactions: Supporting cooperative work'
+  title-short: COO-transactions
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-141'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Weber99
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Darcy Wiborg
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: CM strategies for rAD
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-216'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_14
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/El-khoury05
+  type: paper-conference
+  author:
+  - family: El-khoury
+    given: Jad
+  issued:
+  - year: '2005'
+  title: 'Model data management: Towards a common solution for pDM/SCM systems'
+  title-short: Model data management
+  container-title: SCM
+  publisher: ACM
+  page: '17-32'
+  URL: http://doi.acm.org/10.1145/1109128.1109130
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/ReuterHHT96
+  type: paper-conference
+  author:
+  - family: Reuter
+    given: Jürgen
+  - family: Hänßgen
+    given: Stefan U.
+  - family: Hunt
+    given: James J.
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Distributed revision control via the world wide web
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-174'
+  volume: '1167'
+  DOI: 10.1007/BFb0023088
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/AsirelliI88
+  type: paper-conference
+  author:
+  - family: Asirelli
+    given: Patrizia
+  - family: Inverardi
+    given: Paola
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'EDBLOG: A kernel for configuration environments'
+  title-short: EDBLOG
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '422-425'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/WagnerF88
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Mary Pfreundschuh
+  - family: Ford
+    given: Ray
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Using attribute grammars to control incremental, concurrent builds of modular
+    systems
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '285-304'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/2003
+  type: book
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Software configuration management, iCSE workshops sCM 2001 and sCM 2003 toronto,
+    canada, may 14-15, 2001 and portland, oR, uSA, may 9-10, 2003. selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2649'
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Kirby88
+  type: paper-conference
+  author:
+  - family: Kirby
+    given: Martin
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Perspective kernel - an open-ended project support environment
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '391-400'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Whitehead99
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: E. James Whitehead
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: Goals for a configuration management network protocol
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-203'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_13
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Schroeder89
+  type: paper-conference
+  author:
+  - family: Schroeder
+    given: U.
+  issued:
+  - year: '1989'
+  title: Incremental variant control
+  container-title: SCM
+  page: '145-148'
+
+- id: conf/scm/Weber97
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Darcy Wiborg
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: 'Change sets versus change packages: Comparing implementations of change-based
+    sCM'
+  title-short: Change sets versus change packages
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-35'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Ray95
+  type: paper-conference
+  author:
+  - family: Ray
+    given: Randy J.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Experiences with a script-based software configuration management system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '282-287'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_25
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/RichS91
+  type: paper-conference
+  author:
+  - family: Rich
+    given: Anthony
+  - family: Solomon
+    given: Marvin H.
+  issued:
+  - year: '1991'
+  title: A logic-based approach to system modelling
+  container-title: SCM
+  page: '84-93'
+  URL: http://doi.acm.org/10.1145/111062.111073
+
+- id: conf/scm/Gustavsson89
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: A.
+  issued:
+  - year: '1989'
+  title: Maintaining the evolution of software objects in an integrated enviornment
+  container-title: SCM
+  page: '114-117'
+
+- id: conf/scm/Bendix96
+  type: paper-conference
+  author:
+  - family: Bendix
+    given: Lars
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Fully supported recursive workspaces
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '256-261'
+  volume: '1167'
+  DOI: 10.1007/BFb0023095
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/BendixV99
+  type: paper-conference
+  author:
+  - family: Bendix
+    given: Lars
+  - family: Vitali
+    given: Fabio
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: VTML for fine-grained change tracking in editing structured documents
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-156'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_10
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/DinsartHPT89
+  type: paper-conference
+  author:
+  - family: Dinsart
+    given: A.
+  - family: Hucq
+    given: B.
+  - family: Piperakis
+    given: N.
+  - family: Thollembeck
+    given: P. J.
+  issued:
+  - year: '1989'
+  title: Object derivation and validation from a data base definition
+  container-title: SCM
+  page: '170-178'
+
+- id: conf/scm/ConradiW97
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Towards a uniform version model for software configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Dart89
+  type: paper-conference
+  author:
+  - family: Dart
+    given: Susan A.
+  issued:
+  - year: '1989'
+  title: Tool configuration assistant
+  container-title: SCM
+  page: '110-113'
+
+- id: conf/scm/GullaG96
+  type: paper-conference
+  author:
+  - family: Gulla
+    given: Bjørn
+  - family: Gorman
+    given: Joe
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Experiences with the use of a configuration language
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-219'
+  volume: '1167'
+  DOI: 10.1007/BFb0023091
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Feiler88
+  type: paper-conference
+  author:
+  - family: Feiler
+    given: Peter H.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Plenary discussion: Life cycle oriented cM'
+  title-short: Plenary discussion
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '305-309'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Perry96
+  type: paper-conference
+  author:
+  - family: Perry
+    given: Dewayne E.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: System compositions and shared dependencies
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-153'
+  volume: '1167'
+  DOI: 10.1007/BFb0023086
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/LieCDK89
+  type: paper-conference
+  author:
+  - family: Lie
+    given: Anund
+  - family: Conradi
+    given: Reidar
+  - family: Didriksen
+    given: Tor
+  - family: Karlsson
+    given: Even-André
+  issued:
+  - year: '1989'
+  title: Change oriented versioning in a software engineering database
+  container-title: SCM
+  page: '56-65'
+
+- id: conf/scm/WhiteheadG03
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: E. James Whitehead
+  - family: Gordon
+    given: Dorrit
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Uniform comparison of configuration management data models
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-85'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_6
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/NguyenTM05
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Tien Nhut
+  - family: Thao
+    given: Cheng
+  - family: Munson
+    given: Ethan V.
+  issued:
+  - year: '2005'
+  title: On product versioning for hypertexts
+  container-title: SCM
+  publisher: ACM
+  page: '113-132'
+  URL: http://doi.acm.org/10.1145/1109128.1109137
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/Demleitner88
+  type: paper-conference
+  author:
+  - family: Demleitner
+    given: Norbert
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: PAPICS - a practical approach to configuration management
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '381-390'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Simmonds91
+  type: paper-conference
+  author:
+  - family: Simmonds
+    given: Ian
+  issued:
+  - year: '1991'
+  title: 'Duplicates’: A convention for defining configurations in pCTE-based environments'
+  title-short: Duplicates’
+  container-title: SCM
+  page: '58-61'
+  URL: http://doi.acm.org/10.1145/111062.111069
+
+- id: conf/scm/Sommerville96
+  type: paper-conference
+  author:
+  - family: Sommerville
+    given: Ian
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Intoduction to sCM-6
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-7'
+  volume: '1167'
+  DOI: 10.1007/BFb0023077
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/SimonicGR99
+  type: paper-conference
+  author:
+  - family: Simonic
+    given: Marjan
+  - family: Györkös
+    given: József
+  - family: Rozman
+    given: Ivan
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: Software configuration management risk analysis before relocating the porting
+    of product’s family
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-49'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_4
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/MicallefC96
+  type: paper-conference
+  author:
+  - family: Micallef
+    given: Josephine
+  - family: Clemm
+    given: Geoffrey
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: 'The asgard system: Activity-based configuration management'
+  title-short: The asgard system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-186'
+  volume: '1167'
+  DOI: 10.1007/BFb0023089
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/HayaseMI05
+  type: paper-conference
+  author:
+  - family: Hayase
+    given: Yasuhiro
+  - family: Matsushita
+    given: Makoto
+  - family: Inoue
+    given: Katsuro
+  issued:
+  - year: '2005'
+  title: Revision control system using delta script of syntax tree
+  container-title: SCM
+  publisher: ACM
+  page: '133-149'
+  URL: http://doi.acm.org/10.1145/1109128.1109138
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/Winkler88
+  type: paper-conference
+  author:
+  - family: Winkler
+    given: Jürgen F. H.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Program-variations-in-the-small
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '175-196'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Eilfeld96
+  type: paper-conference
+  author:
+  - family: Eilfeld
+    given: Peter
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Configuration management as “glueware” for development of client/Server-
+    applications in heterogeneous and distributed environments
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '264-271'
+  volume: '1167'
+  DOI: 10.1007/BFb0023097
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/MacDonaldHS98
+  type: paper-conference
+  author:
+  - family: MacDonald
+    given: Josh
+  - family: Hilfinger
+    given: Paul N.
+  - family: Semenzato
+    given: Luigi
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: 'PRCS: The project revision control system'
+  title-short: PRCS
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-45'
+  volume: '1439'
+  DOI: 10.1007/BFb0053876
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/LacroixE95
+  type: paper-conference
+  author:
+  - family: Lacroix
+    given: Michel
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: SCM systems session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_19
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Nicklin91
+  type: paper-conference
+  author:
+  - family: Nicklin
+    given: Peter J.
+  issued:
+  - year: '1991'
+  title: Managing multi-variant software configuration
+  container-title: SCM
+  page: '53-57'
+  URL: http://doi.acm.org/10.1145/111062.111068
+
+- id: conf/scm/LarssonC99
+  type: paper-conference
+  author:
+  - family: Larsson
+    given: Magnus
+  - family: Crnkovic
+    given: Ivica
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: New challenges for configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '232-243'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_17
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Black88
+  type: paper-conference
+  author:
+  - family: Black
+    given: Paul E.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'GDIST: A distributed configuration control system'
+  title-short: GDIST
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '276-284'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Viskari95
+  type: paper-conference
+  author:
+  - family: Viskari
+    given: Juha
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: A rationale for automated configuration status accounting
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-144'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_11
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Clemm89
+  type: paper-conference
+  author:
+  - family: Clemm
+    given: Geoffrey
+  issued:
+  - year: '1989'
+  title: Replacing version-control with job-control
+  container-title: SCM
+  page: '162-169'
+
+- id: conf/scm/Dart99
+  type: paper-conference
+  author:
+  - family: Dart
+    given: Susan A.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'Content change management: Problems for web systems'
+  title-short: Content change management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_1
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/HuntLRT97
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Lamers
+    given: Frank
+  - family: Reuter
+    given: Jürgen
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Distributed configuration management via java and the world wide web
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-174'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Estublier95d
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Future session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_29
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Estublier95b
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Distribution session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_16
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/VanterM99
+  type: paper-conference
+  author:
+  - family: Vanter
+    given: Michael L. Van
+    dropping-particle: de
+  - family: Murer
+    given: Tobias
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'Global names: Support for managing software in a world of virtual organizations'
+  title-short: Global names
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-171'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_11
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/DixRS96
+  type: paper-conference
+  author:
+  - family: Dix
+    given: Alan J.
+  - family: Rodden
+    given: Tom
+  - family: Sommerville
+    given: Ian
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Modeling the sharing of versions
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '282-290'
+  volume: '1167'
+  DOI: 10.1007/BFb0023100
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Munch96
+  type: paper-conference
+  author:
+  - family: Munch
+    given: Bjørn P.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: 'HiCoV: Managing the version space'
+  title-short: HiCoV
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '110-126'
+  volume: '1167'
+  DOI: 10.1007/BFb0023084
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/LacroixL89
+  type: paper-conference
+  author:
+  - family: Lacroix
+    given: M.
+  - family: Lavency
+    given: Pierre
+  issued:
+  - year: '1989'
+  title: The change request process
+  container-title: SCM
+  page: '122-125'
+
+- id: conf/scm/GodartCCM95
+  type: paper-conference
+  author:
+  - family: Godart
+    given: Claude
+  - family: Canals
+    given: Gérôme
+  - family: Charoy
+    given: François
+  - family: Molli
+    given: Pascal
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: 'About some relationships between configuration management, software process
+    and cooperative work: The cOO environment'
+  title-short: About some relationships between configuration management, software
+    process and cooperative work
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-178'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_15
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/DolstraBV05
+  type: paper-conference
+  author:
+  - family: Dolstra
+    given: Eelco
+  - family: Bravenboer
+    given: Martin
+  - family: Visser
+    given: Eelco
+  issued:
+  - year: '2005'
+  title: Service configuration management
+  container-title: SCM
+  publisher: ACM
+  page: '83-98'
+  URL: http://doi.acm.org/10.1145/1109128.1109135
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/Feldman88
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Stuart I.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Evolution of mAKE
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '413-416'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/AsklundMP99
+  type: paper-conference
+  author:
+  - family: Asklund
+    given: Ulf
+  - family: Magnusson
+    given: Boris
+  - family: Persson
+    given: Annita
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'Experiences: Distributed development and software configuration management'
+  title-short: Experiences
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-33'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_2
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/BreretonS95
+  type: paper-conference
+  author:
+  - family: Brereton
+    given: Pearl
+  - family: Singleton
+    given: Paul
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Deductive software building
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-87'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_6
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Gallagher91
+  type: paper-conference
+  author:
+  - family: Gallagher
+    given: Keith
+  issued:
+  - year: '1991'
+  title: Conditions to assure semantically consistent software merges in linear time
+  container-title: SCM
+  page: '80-83'
+  URL: http://doi.acm.org/10.1145/111062.111072
+
+- id: conf/scm/Weber03
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Darcy Wiborg
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Data topology and process patterns for distributed development
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '206-216'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_15
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/SarnakBK88
+  type: paper-conference
+  author:
+  - family: Sarnak
+    given: Neil
+  - family: Bernstein
+    given: Robert L.
+  - family: Kruskal
+    given: V.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Creation and maintenance of multiple versions
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '264-275'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/MahlerL88
+  type: paper-conference
+  author:
+  - family: Mahler
+    given: Axel
+  - family: Lampen
+    given: Andreas
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Shape - a software configuration management tool
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '228-243'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Dart98
+  type: paper-conference
+  author:
+  - family: Dart
+    given: Susan A.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: The agony and ecstasy of configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-205'
+  volume: '1439'
+  DOI: 10.1007/BFb0053891
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Westfechtel91
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '1991'
+  title: Structure-oriented merging of revisions of software documents
+  container-title: SCM
+  page: '68-79'
+  URL: http://doi.acm.org/10.1145/111062.111071
+
+- id: conf/scm/AsklundBCM99
+  type: paper-conference
+  author:
+  - family: Asklund
+    given: Ulf
+  - family: Bendix
+    given: Lars
+  - family: Christensen
+    given: Henrik Bærbak
+  - family: Magnusson
+    given: Boris
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: The unified extensional versioning model
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-122'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_8
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/2005
+  type: book
+  issued:
+  - year: '2005'
+  title: Proceedings of the 12th international workshop on software configuration
+    management, sCM 2005, lisbon, portugal, september 5-6, 2005
+  publisher: ACM
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/Kaiser89
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: G. W.
+  issued:
+  - year: '1989'
+  title: Modeling configuration as transactions
+  container-title: SCM
+  page: '133-136'
+
+- id: conf/scm/Dolstra03
+  type: paper-conference
+  author:
+  - family: Dolstra
+    given: Eelco
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Integrating software construction and software deployment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-117'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_8
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Zeller96
+  type: paper-conference
+  author:
+  - family: Zeller
+    given: Andreas
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Smooth operatons with square operators - the version set model in iCE
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '8-30'
+  volume: '1167'
+  DOI: 10.1007/BFb0023078
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/LeblangL95
+  type: paper-conference
+  author:
+  - family: Leblang
+    given: David B.
+  - family: Levine
+    given: Paul H.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: 'Software configuration management: Why is it needed and what should it
+    do?'
+  title-short: Software configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-60'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_3
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/BaalbergenVT89
+  type: paper-conference
+  author:
+  - family: Baalbergen
+    given: Erik H.
+  - family: Verstoep
+    given: Kees
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1989'
+  title: On the design of the amoeba configuration manager
+  container-title: SCM
+  page: '15-22'
+
+- id: conf/scm/ConradiM91
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Malm
+    given: Carl Chr.
+  issued:
+  - year: '1991'
+  title: Cooperating transactions against the ePOS database
+  container-title: SCM
+  page: '98-101'
+  URL: http://doi.acm.org/10.1145/111062.111075
+
+- id: conf/scm/Tibrook96
+  type: paper-conference
+  author:
+  - family: Tibrook
+    given: David
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: An architecture for a construction system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-87'
+  volume: '1167'
+  DOI: 10.1007/BFb0023082
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/LacroixRW91
+  type: paper-conference
+  author:
+  - family: Lacroix
+    given: Shem M. J.
+  - family: Roelants
+    given: Dominique
+  - family: Waroquier
+    given: J. E.
+  issued:
+  - year: '1991'
+  title: Flexible support for cooperation in software development
+  container-title: SCM
+  page: '102-108'
+  URL: http://doi.acm.org/10.1145/111062.111076
+
+- id: conf/scm/RenderC91
+  type: paper-conference
+  author:
+  - family: Render
+    given: Hal
+  - family: Campbell
+    given: Roy H.
+  issued:
+  - year: '1991'
+  title: An object-oriented model of software configuration management
+  container-title: SCM
+  page: '127-139'
+  URL: http://doi.acm.org/10.1145/111062.111079
+
+- id: conf/scm/Barkstrom03
+  type: paper-conference
+  author:
+  - family: Barkstrom
+    given: Bruce R.
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Data product configuration management and versioning in large-scale production
+    of satellite scientific data
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-133'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_9
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Hansen99
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Wilfred J.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: Deployment descriptions in a world of cOTS and open source
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-138'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_9
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/RepsB89
+  type: paper-conference
+  author:
+  - family: Reps
+    given: Thomas W.
+  - family: Bricker
+    given: T.
+  issued:
+  - year: '1989'
+  title: Illustrating interference in interfering versions of programs
+  container-title: SCM
+  page: '46-55'
+
+- id: conf/scm/WingerdS97
+  type: paper-conference
+  author:
+  - family: Wingerd
+    given: Laura
+  - family: Seiwald
+    given: Christopher
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Constructing a large product with jam
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-48'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/SowrirajanH03
+  type: paper-conference
+  author:
+  - family: Sowrirajan
+    given: Sundararajan
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Managing the evolution of distributed and interrelated components
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-230'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_16
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/EstublierCV01
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Cárdenas-García
+    given: Sergio
+  - family: Vega
+    given: Germán
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2001'
+  title: Defining and supporting concurrent engineering policies in sCM
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_1
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Reichberger89
+  type: paper-conference
+  author:
+  - family: Reichberger
+    given: C.
+  issued:
+  - year: '1989'
+  title: Orthogonal version management
+  container-title: SCM
+  page: '137-140'
+
+- id: conf/scm/Miller89
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Terrence C.
+  issued:
+  - year: '1989'
+  title: A schema for configuration management
+  container-title: SCM
+  page: '26-29'
+
+- id: conf/scm/Freese03
+  type: paper-conference
+  author:
+  - family: Freese
+    given: Tammo
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Towards software configuration management for test-driven development
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '267-273'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_20
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Buffenbarger97
+  type: paper-conference
+  author:
+  - family: Buffenbarger
+    given: Jim
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: What have you done for me lateley? (Branches, merges, and change logs)
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-24'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Milewski97
+  type: paper-conference
+  author:
+  - family: Milewski
+    given: Bartosz
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Distributed source control system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-107'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Christensen98
+  type: paper-conference
+  author:
+  - family: Christensen
+    given: Henrik Bærbak
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Experiences with architectural software configuration management in ragnarok
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-74'
+  volume: '1439'
+  DOI: 10.1007/BFb0053879
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Cagan95
+  type: paper-conference
+  author:
+  - family: Cagan
+    given: Martin
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Untangling configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-52'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_2
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/AsklundM97
+  type: paper-conference
+  author:
+  - family: Asklund
+    given: Ulf
+  - family: Magnusson
+    given: Boris
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: A case-study of configuration management with clearCase in an industrial
+    environment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '201-221'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/BuffenbargerG99
+  type: paper-conference
+  author:
+  - family: Buffenbarger
+    given: Jim
+  - family: Gruell
+    given: Kirk
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: A branching/Merging strategy for parallel software development
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-99'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_7
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Jordan89
+  type: paper-conference
+  author:
+  - family: Jordan
+    given: Mick J.
+  issued:
+  - year: '1989'
+  title: Experiences in configuration management for modula-2
+  container-title: SCM
+  page: '126-128'
+
+- id: conf/scm/EstublierG05
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Garcia
+    given: Sergio
+  issued:
+  - year: '2005'
+  title: Process model and awareness in sCM
+  container-title: SCM
+  publisher: ACM
+  page: '59-74'
+  URL: http://doi.acm.org/10.1145/1109128.1109133
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/BilosF88
+  type: paper-conference
+  author:
+  - family: Bilos
+    given: Rober
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Experience from a token sequence representation of programs, documents, and
+    their deltas
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '430-433'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/HedinOM98
+  type: paper-conference
+  author:
+  - family: Hedin
+    given: Görel
+  - family: Ohlsson
+    given: Lennart
+  - family: McKenna
+    given: John
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Product configuration using object oriented grammars
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-126'
+  volume: '1439'
+  DOI: 10.1007/BFb0053882
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Reichenberger91
+  type: paper-conference
+  author:
+  - family: Reichenberger
+    given: Christoph
+  issued:
+  - year: '1991'
+  title: Delta storage for arbitrary non-text files
+  container-title: SCM
+  page: '144-152'
+  URL: http://doi.acm.org/10.1145/111062.111081
+
+- id: conf/scm/ShillingS88
+  type: paper-conference
+  author:
+  - family: Shilling
+    given: John J.
+  - family: Sweeney
+    given: Peter F.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Maintaining versions in a structure-based environment
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '457-460'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Perry91
+  type: paper-conference
+  author:
+  - family: Perry
+    given: Dewayne E.
+  issued:
+  - year: '1991'
+  title: Dimensions of consistency in source versions and system compositions
+  container-title: SCM
+  page: '29-32'
+  URL: http://doi.acm.org/10.1145/111062.111065
+
+- id: conf/scm/GentlemanMS89
+  type: paper-conference
+  author:
+  - family: Gentleman
+    given: W. Morven
+  - family: MacKay
+    given: A.
+  - family: Stewart
+    given: Darlene A.
+  issued:
+  - year: '1989'
+  title: Commercial realtime software needs different configuation management
+  container-title: SCM
+  page: '152-161'
+
+- id: conf/scm/Faltenbacher88
+  type: paper-conference
+  author:
+  - family: Faltenbacher
+    given: Wolfgang
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Aspects of computer-aided configuration management with kMS
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '369-380'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/NollS97
+  type: paper-conference
+  author:
+  - family: Noll
+    given: John
+  - family: Scacchi
+    given: Walt
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Supporting distributed configuration management in virtual enterprises
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-160'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Mack-CraneP89
+  type: paper-conference
+  author:
+  - family: Mack-Crane
+    given: B.
+  - family: Pal
+    given: A.
+  issued:
+  - year: '1989'
+  title: Conflict management in a source version management system
+  container-title: SCM
+  page: '149-151'
+
+- id: conf/scm/Crnkovic96
+  type: paper-conference
+  author:
+  - family: Crnkovic
+    given: Ivica
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Experience of using a simple sCM tool in a complex development environment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '262-263'
+  volume: '1167'
+  DOI: 10.1007/BFb0023096
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Kramer91
+  type: paper-conference
+  author:
+  - family: Kramer
+    given: Scott A.
+  issued:
+  - year: '1991'
+  title: History management system
+  container-title: SCM
+  page: '140-143'
+  URL: http://doi.acm.org/10.1145/111062.111080
+
+- id: conf/scm/Adams95
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Chris
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Why can‘
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '278-281'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_24
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/SchmerlM95
+  type: paper-conference
+  author:
+  - family: Schmerl
+    given: Bradley R.
+  - family: Marlin
+    given: Chris D.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Designing configuration management facilities for dynamically bound systems
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-100'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_7
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/ConradiW96
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Configuring versioned software products
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-109'
+  volume: '1167'
+  DOI: 10.1007/BFb0023083
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Newbery89
+  type: paper-conference
+  author:
+  - family: Newbery
+    given: Frances J.
+  issued:
+  - year: '1989'
+  title: 'Edge concentration: A method for clustering directed graphs'
+  title-short: Edge concentration
+  container-title: SCM
+  page: '76-85'
+
+- id: conf/scm/Chase88
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Robert P. Chase
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Plenary discussion: System modelling'
+  title-short: Plenary discussion
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '172-174'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/LagoC95
+  type: paper-conference
+  author:
+  - family: Lago
+    given: Patricia
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Transaction planning to support coordination
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-151'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_12
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Abu-ShakraF98
+  type: paper-conference
+  author:
+  - family: Abu-Shakra
+    given: Makram
+  - family: Fisher
+    given: Gene L.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Multi-grain version control in the historian system
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-56'
+  volume: '1439'
+  DOI: 10.1007/BFb0053877
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/LacroixE95a
+  type: paper-conference
+  author:
+  - family: Lacroix
+    given: Michel
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Experience session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_26
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/MicallefK88
+  type: paper-conference
+  author:
+  - family: Micallef
+    given: Josephine
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Version and configuration control in distributed language-based environments
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '119-143'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/MagnussonA96
+  type: paper-conference
+  author:
+  - family: Magnusson
+    given: Boris
+  - family: Asklund
+    given: Ulf
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Fine grained version control of configurations in cOOP/Orm
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-48'
+  volume: '1167'
+  DOI: 10.1007/BFb0023079
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/RohrbachS88
+  type: paper-conference
+  author:
+  - family: Rohrbach
+    given: Roger
+  - family: Setwald
+    given: Christopher
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Galileo: A software maintenance environment'
+  title-short: Galileo
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '444-456'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/PloederederF89
+  type: paper-conference
+  author:
+  - family: Plödereder
+    given: Erhard
+  - family: Fergany
+    given: A.
+  issued:
+  - year: '1989'
+  title: The data model of the configuration management assistant (cMA)
+  container-title: SCM
+  page: '5-14'
+
+- id: conf/scm/Sheedy91
+  type: paper-conference
+  author:
+  - family: Sheedy
+    given: Chris
+  issued:
+  - year: '1991'
+  title: 'Sorceress: A database approach to software configuration management'
+  title-short: Sorceress
+  container-title: SCM
+  page: '121-126'
+  URL: http://doi.acm.org/10.1145/111062.111078
+
+- id: conf/scm/HoekHW98
+  type: paper-conference
+  author:
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: System modeling resurrected
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-145'
+  volume: '1439'
+  DOI: 10.1007/BFb0053885
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Buffenbarger95
+  type: paper-conference
+  author:
+  - family: Buffenbarger
+    given: Jim
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Syntactic software merging
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-172'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_14
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/OchuodhoB91
+  type: paper-conference
+  author:
+  - family: Ochuodho
+    given: Shem J.
+  - family: Brown
+    given: Alan W.
+  issued:
+  - year: '1991'
+  title: A process-oriented version and configuration management model for communications
+    software
+  container-title: SCM
+  page: '109-120'
+  URL: http://doi.acm.org/10.1145/111062.111077
+
+- id: conf/scm/FrohlichN97
+  type: paper-conference
+  author:
+  - family: Fröhlich
+    given: Peter
+  - family: Nejdl
+    given: Wolfgang
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: 'WebRC: Configuration management for a cooperation tool'
+  title-short: WebRC
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-185'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/MillerSK89
+  type: paper-conference
+  author:
+  - family: Miller
+    given: D. B.
+  - family: Stockton
+    given: R. G.
+  - family: Krueger
+    given: Charles W.
+  issued:
+  - year: '1989'
+  title: An inverted approach to configuration management
+  container-title: SCM
+  page: '1-4'
+
+- id: conf/scm/OliveiraMW05
+  type: paper-conference
+  author:
+  - family: Oliveira
+    given: Hamilton L. R.
+  - family: Murta
+    given: Leonardo Gresta Paulino
+  - family: Werner
+    given: Cláudia
+  issued:
+  - year: '2005'
+  title: 'Odyssey-vCS: A flexible version control system for uML model elements'
+  title-short: Odyssey-vCS
+  container-title: SCM
+  publisher: ACM
+  page: '1-16'
+  URL: http://doi.acm.org/10.1145/1109128.1109129
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/Estublier88
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Configuration management
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '38-61'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Pakstas89
+  type: paper-conference
+  author:
+  - family: Pakstas
+    given: A.
+  issued:
+  - year: '1989'
+  title: 'Aladdin/Lamp: Configuration management tools for distributed computer
+    control systems'
+  title-short: Aladdin/Lamp
+  container-title: SCM
+  page: '141-144'
+
+- id: conf/scm/CrnkovicW98
+  type: paper-conference
+  author:
+  - family: Crnkovic
+    given: Ivica
+  - family: Willför
+    given: Per
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Change measurements in an sCM process
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-32'
+  volume: '1439'
+  DOI: 10.1007/BFb0053875
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/AmbriolaB89
+  type: paper-conference
+  author:
+  - family: Ambriola
+    given: Vincenzo
+  - family: Bendix
+    given: Lars
+  issued:
+  - year: '1989'
+  title: Object-oriented configuration control
+  container-title: SCM
+  page: '133-136'
+
+- id: conf/scm/Tichy88a
+  type: paper-conference
+  author:
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Plenary discussion: “What is configuration?”'
+  title-short: Plenary discussion
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '169-171'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Parker95
+  type: paper-conference
+  author:
+  - family: Parker
+    given: Karen
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Customization of a commercial cM system to provide better management mechanisms
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-292'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_27
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/AdamsS95
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Paul
+  - family: Solomon
+    given: Marvin H.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: An overview of the cAPITL software development environment
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-34'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_1
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Fickas88
+  type: paper-conference
+  author:
+  - family: Fickas
+    given: Stephen
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Knowledge-based version control: An automated design perspective'
+  title-short: Knowledge-based version control
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '461-465'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/LingenH03
+  type: paper-conference
+  author:
+  - family: Lingen
+    given: Ronald
+    dropping-particle: van der
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Dissecting configuration management policies
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-190'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_13
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/AquilinoAIM91
+  type: paper-conference
+  author:
+  - family: Aquilino
+    given: Domenico
+  - family: Asirelli
+    given: Patrizia
+  - family: Inverardi
+    given: Paola
+  - family: Malara
+    given: P.
+  issued:
+  - year: '1991'
+  title: 'Supporting reuse and configuration: A port based sCM model'
+  title-short: Supporting reuse and configuration
+  container-title: SCM
+  page: '62-67'
+  URL: http://doi.acm.org/10.1145/111062.111070
+
+- id: conf/scm/Marzullo88
+  type: paper-conference
+  author:
+  - family: Marzullo
+    given: Keith
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Configuration management for modular system
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '405-408'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Dart91
+  type: paper-conference
+  author:
+  - family: Dart
+    given: Susan A.
+  issued:
+  - year: '1991'
+  title: Concepts in configuration management systems
+  container-title: SCM
+  page: '1-18'
+  URL: http://doi.acm.org/10.1145/111062.111063
+
+- id: conf/scm/MacKay95
+  type: paper-conference
+  author:
+  - family: MacKay
+    given: Stephen A.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: The state of the art in concurrent, distributed configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-193'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_17
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/SchwankeK88
+  type: paper-conference
+  author:
+  - family: Schwanke
+    given: Robert W.
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Living with inconsistency in large systems
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '98-118'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/LindsayT98
+  type: paper-conference
+  author:
+  - family: Lindsay
+    given: Peter A.
+  - family: Traynor
+    given: Owen
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Supporting fine-grained traceability in software development environments
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-139'
+  volume: '1439'
+  DOI: 10.1007/BFb0053884
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/NistorEHH05
+  type: paper-conference
+  author:
+  - family: Nistor
+    given: Eugen C.
+  - family: Erenkrantz
+    given: Justin R.
+  - family: Hendrickson
+    given: Scott A.
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  issued:
+  - year: '2005'
+  title: 'ArchEvol: Versioning architectural-implementation relationships'
+  title-short: ArchEvol
+  container-title: SCM
+  publisher: ACM
+  page: '99-111'
+  URL: http://doi.acm.org/10.1145/1109128.1109136
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/BendixB05
+  type: paper-conference
+  author:
+  - family: Bendix
+    given: Lars
+  - family: Borracci
+    given: Lorenzo
+  issued:
+  - year: '2005'
+  title: Towards a suite of software configuration management metrics
+  container-title: SCM
+  publisher: ACM
+  page: '75-82'
+  URL: http://doi.acm.org/10.1145/1109128.1109134
+  ISBN: '1-59593-310-7'
+
+- id: conf/scm/MontesH88
+  type: paper-conference
+  author:
+  - family: Montes
+    given: Juan
+  - family: Haque
+    given: Tani
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: A configuration management system and more!
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '217-227'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Kilpi97
+  type: paper-conference
+  author:
+  - family: Kilpi
+    given: Tapani
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Product management requirements for sCM discipline
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-200'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/Juhl88
+  type: paper-conference
+  author:
+  - family: Juhl
+    given: Peter
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Version/Variant control integrated with syntax directed editing
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '434-437'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/TryggesethGC95
+  type: paper-conference
+  author:
+  - family: Tryggeseth
+    given: Eirik
+  - family: Gulla
+    given: Bjørn
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Modelling systems with variability using the pROTEUS configuration language
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-240'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_20
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Conradi88
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Plenary discussion: CM for distributed and heterogenous systems'
+  title-short: Plenary discussion
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '310-312'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/WaiteHK88
+  type: paper-conference
+  author:
+  - family: Waite
+    given: William M.
+  - family: Heuring
+    given: Vincent P.
+  - family: Kastens
+    given: Uwe
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Configuration control in compiler construction
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '159-168'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/1995
+  type: book
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Software configuration management, iCSE sCM-4 and sCM-5 workshops, selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1005'
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/OReillyMB03
+  type: paper-conference
+  author:
+  - family: O’Reilly
+    given: Ciaran
+  - family: Morrow
+    given: Philip J.
+  - family: Bustard
+    given: David W.
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Improving conflict detection in optimistic concurrency control models
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-205'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_14
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/GargS88
+  type: paper-conference
+  author:
+  - family: Garg
+    given: Pankaj K.
+  - family: Scacchi
+    given: Walt
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: A software hypertext environment for configured software descriptions
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '326-343'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Falkerngerg89
+  type: paper-conference
+  author:
+  - family: Falkerngerg
+    given: B.
+  issued:
+  - year: '1989'
+  title: Configuration management for a large (sW) development
+  container-title: SCM
+  page: '34-37'
+
+- id: conf/scm/Estublier95c
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Evaluation session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_23
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/Clemm88
+  type: paper-conference
+  author:
+  - family: Clemm
+    given: Geoffrey
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: The oDIN specifation language
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '144-158'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/ReghabiW88
+  type: paper-conference
+  author:
+  - family: Reghabi
+    given: Saeed
+  - family: Wright
+    given: David G.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Software engineering release system (sERS)
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '244-263'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Wolf88
+  type: paper-conference
+  author:
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Configuration management = interface control + version control + analysis
+    control
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '401-404'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/KojoMS03
+  type: paper-conference
+  author:
+  - family: Kojo
+    given: Tero
+  - family: Männistö
+    given: Tomi
+  - family: Soininen
+    given: Timo
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Towards intelligent support for managing evolution of configurable software
+    product families
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-101'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_7
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/KimballL91
+  type: paper-conference
+  author:
+  - family: Kimball
+    given: John
+  - family: Larson
+    given: Aaron
+  issued:
+  - year: '1991'
+  title: Epochs, configuration schema, and version cursors in the kBSA framework cCM
+    model
+  container-title: SCM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/111062.111066
+
+- id: conf/scm/Simmonds89
+  type: paper-conference
+  author:
+  - family: Simmonds
+    given: Ian
+  issued:
+  - year: '1989'
+  title: Configuration management in the pACT software engineering environment
+  container-title: SCM
+  page: '118-121'
+
+- id: conf/scm/EstublierFM98
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Favre
+    given: Jean-Marie
+  - family: Morat
+    given: Philippe
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Toward sCM / pDM integration?
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-94'
+  volume: '1439'
+  DOI: 10.1007/BFb0053880
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/MacKay96
+  type: paper-conference
+  author:
+  - family: MacKay
+    given: Stephen A.
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Change sets revisited and configuration management of complex documents
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-281'
+  volume: '1167'
+  DOI: 10.1007/BFb0023099
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/KraneH88
+  type: paper-conference
+  author:
+  - family: Krane
+    given: Steven
+  - family: Heimbigner
+    given: Dennis
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Towards a graph transform model for configuration management environments
+    (an extended abstract)
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '438-443'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Narayanaswamy89
+  type: paper-conference
+  author:
+  - family: Narayanaswamy
+    given: K.
+  issued:
+  - year: '1989'
+  title: A text-based representation for program variants
+  container-title: SCM
+  page: '30-33'
+
+- id: conf/scm/Moreira99
+  type: paper-conference
+  author:
+  - family: Moreira
+    given: Mario E.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: The 3 software configuration management implementation levels
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '244-254'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_18
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Narayanaswamy88
+  type: paper-conference
+  author:
+  - family: Narayanaswamy
+    given: K.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Version control in the common lisp framework
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '83-97'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Estublier95a
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Cooperation session
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_13
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/BanziMBC99
+  type: paper-conference
+  author:
+  - family: Banzi
+    given: M.
+  - family: Macugli
+    given: F.
+  - family: Borion
+    given: S.
+  - family: Commare
+    given: Giuseppe La
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: An experience in configuration management in sODALIA
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-85'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_6
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/Lundholm89
+  type: paper-conference
+  author:
+  - family: Lundholm
+    given: P.
+  issued:
+  - year: '1989'
+  title: Design management in base/OPEN
+  container-title: SCM
+  page: '38-41'
+
+- id: conf/scm/RahikkalaTV98
+  type: paper-conference
+  author:
+  - family: Rahikkala
+    given: Tua
+  - family: Taramaa
+    given: Jorma
+  - family: Välimäki
+    given: Antti
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Industrial experiences from sCM current state analysis
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-25'
+  volume: '1439'
+  DOI: 10.1007/BFb0053874
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Estublier99
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: Distributed objects for concurrent engineering
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '172-185'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_12
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/FruhaufY99
+  type: paper-conference
+  author:
+  - family: Frühauf
+    given: Karol
+  - family: Yeller
+    given: Andreas
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'Software configuration management: State of the art, state of the practice'
+  title-short: Software configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-227'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_15
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/EstublierLV03
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Le
+    given: Anh-Tuyet
+  - family: Villalobos
+    given: Jorge
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Using federations for flexible sCM systems
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-176'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_12
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Tichy88
+  type: paper-conference
+  author:
+  - family: Tichy
+    given: Walter F.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Tools for software configuration management
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '1-20'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/Zeller98
+  type: paper-conference
+  author:
+  - family: Zeller
+    given: Andreas
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: Versioning system models through description logic
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-132'
+  volume: '1439'
+  DOI: 10.1007/BFb0053883
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Crnkovic97
+  type: paper-conference
+  author:
+  - family: Crnkovic
+    given: Ivica
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: Experience with change-oriented sCM tools
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-234'
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/WestfechtelC01
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2001'
+  title: Software architecture and software configuration management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '24-39'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_3
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/LinR95
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yi-Jing
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: Configuration management in terms of modules
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-117'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_8
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/ThomsonS89
+  type: paper-conference
+  author:
+  - family: Thomson
+    given: Ronny
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1989'
+  title: Configuration management using sySL
+  container-title: SCM
+  page: '106-109'
+
+- id: conf/scm/WestfechtelC98
+  type: paper-conference
+  author:
+  - family: Westfechtel
+    given: Bernhard
+  - family: Conradi
+    given: Reidar
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: 'Software configuration management and engineering data management: Differences
+    and similarities'
+  title-short: Software configuration management and engineering data management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-106'
+  volume: '1439'
+  DOI: 10.1007/BFb0053881
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Reichenberger95
+  type: paper-conference
+  author:
+  - family: Reichenberger
+    given: Christoph
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: VOODOO - a tool for orthogonal version management
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-79'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_4
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/ConradiW99
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Westfechtel
+    given: Bernhard
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1999'
+  title: 'SCM: Status and future challenges'
+  title-short: SCM
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '228-231'
+  volume: '1675'
+  DOI: 10.1007/3-540-48253-9_16
+  ISBN: 3-540-66484-X
+
+- id: conf/scm/DuiE03
+  type: paper-conference
+  author:
+  - family: Dui
+    given: Daniel
+  - family: Emmerich
+    given: Wolfgang
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Compatibility of xML language versions
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-162'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_11
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Atkins98
+  type: paper-conference
+  author:
+  - family: Atkins
+    given: David L.
+  editor:
+  - family: Magnusson
+    given: Boris
+  issued:
+  - year: '1998'
+  title: 'Version sensitive editing: Change history as a programming tool'
+  title-short: Version sensitive editing
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-157'
+  volume: '1439'
+  DOI: 10.1007/BFb0053886
+  ISBN: '3-540-64733-3'
+
+- id: conf/scm/Heimbigner03
+  type: paper-conference
+  author:
+  - family: Heimbigner
+    given: Dennis
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: Applications of configuration information to security
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-266'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_19
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Estublier96
+  type: paper-conference
+  author:
+  - family: Estublier
+    given: Jacky
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Work space management in software engineering environments
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-138'
+  volume: '1167'
+  DOI: 10.1007/BFb0023085
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/1996
+  type: book
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: System configuration management, iCSE’96 sCM-6 workshop, berlin, germany,
+    march 25-26, 1996, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1167'
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/1997
+  type: book
+  editor:
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '1997'
+  title: System configuration management, iCSE’97 sCM-7 workshop, boston, mA, uSA,
+    may 18-19, 1997, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1235'
+  ISBN: '3-540-63014-7'
+
+- id: conf/scm/BaumannK88
+  type: paper-conference
+  author:
+  - family: Baumann
+    given: Peter
+  - family: Köhler
+    given: Dagmar
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Archiving versions and configurations in a database system for system engineering
+    environments
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '313-325'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/SchwankeP89
+  type: paper-conference
+  author:
+  - family: Schwanke
+    given: Robert W.
+  - family: Platoff
+    given: Michael A.
+  issued:
+  - year: '1989'
+  title: Cross references are features
+  container-title: SCM
+  page: '86-95'
+
+- id: conf/scm/AuerT96
+  type: paper-conference
+  author:
+  - family: Auer
+    given: Antti
+  - family: Taramaa
+    given: Jorma
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: Experience report on the maturity of configuration management for embedded
+    software
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-197'
+  volume: '1167'
+  DOI: 10.1007/BFb0023090
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/EidnesHW89
+  type: paper-conference
+  author:
+  - family: Eidnes
+    given: H.
+  - family: Hallsteinsen
+    given: D. O.
+  - family: Wanvik
+    given: Dag H.
+  issued:
+  - year: '1989'
+  title: Separate compilation in cHIPSY
+  container-title: SCM
+  page: '42-45'
+
+- id: conf/scm/CastaldiCIW03
+  type: paper-conference
+  author:
+  - family: Castaldi
+    given: Marco
+  - family: Carzaniga
+    given: Antonio
+  - family: Inverardi
+    given: Paola
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Westfechtel
+    given: Bernhard
+  issued:
+  - year: '2003'
+  title: A lightweight infrastructure for reconfiguring applications
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-244'
+  volume: '2649'
+  DOI: 10.1007/3-540-39195-9_17
+  ISBN: '3-540-14036-0'
+
+- id: conf/scm/Lubkin91
+  type: paper-conference
+  author:
+  - family: Lubkin
+    given: David
+  issued:
+  - year: '1991'
+  title: Heterogeneous configuration management with dSEE
+  container-title: SCM
+  page: '153-160'
+  URL: http://doi.acm.org/10.1145/111062.111082
+
+- id: conf/scm/LeeTL96
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Taek
+  - family: Thomas
+    given: Peggy
+  - family: Lowen
+    given: Vivienne
+  editor:
+  - family: Sommerville
+    given: Ian
+  issued:
+  - year: '1996'
+  title: 'An odyssey towards best sCM practices: The big picture'
+  title-short: An odyssey towards best sCM practices
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-238'
+  volume: '1167'
+  DOI: 10.1007/BFb0023093
+  ISBN: 3-540-61964-X
+
+- id: conf/scm/Scacchi88
+  type: paper-conference
+  author:
+  - family: Scacchi
+    given: Walt
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: 'Plenary discussion: CM for non-textual representations'
+  title-short: Plenary discussion
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '363-368'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+
+- id: conf/scm/AllenFKLMP95
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Larry
+  - family: Fernandez
+    given: Gary
+  - family: Kane
+    given: Kenneth
+  - family: Leblang
+    given: David B.
+  - family: Minard
+    given: Debra
+  - family: Posner
+    given: John
+  editor:
+  - family: Estublier
+    given: Jacky
+  issued:
+  - year: '1995'
+  title: 'ClearCase multiSite: Supporting geographically-distributed software development'
+  title-short: ClearCase multiSite
+  container-title: SCM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-214'
+  volume: '1005'
+  DOI: 10.1007/3-540-60578-9_18
+  ISBN: '3-540-60578-9'
+
+- id: conf/scm/RichardRDK88
+  type: paper-conference
+  author:
+  - family: Richard
+    given: F.
+  - family: Robin
+    given: V.
+  - family: Dinsenmeyer
+    given: I.
+  - family: Kerboul
+    given: R.
+  editor:
+  - family: Winkler
+    given: Jürgen F. H.
+  issued:
+  - year: '1988'
+  title: Rule-based adaptive configuration control in distributed systems
+  container-title: SCM
+  collection-title: Berichte des german chapter of the aCM
+  publisher: Teubner
+  page: '417-421'
+  volume: '30'
+  ISBN: '3-519-02671-6'
+...

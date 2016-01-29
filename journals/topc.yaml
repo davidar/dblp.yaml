@@ -1,0 +1,714 @@
+---
+references:
+- id: journals/topc/Herlihy15
+  type: article-journal
+  author:
+  - family: Herlihy
+    given: Maurice
+  issued:
+  - year: '2015'
+  title: Guest editor introduction
+  container-title: TOPC
+  page: '1'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2716306
+
+- id: journals/topc/GilbertZ15
+  type: article-journal
+  author:
+  - family: Gilbert
+    given: Seth
+  - family: Zheng
+    given: Chaodong
+  issued:
+  - year: '2015'
+  title: 'SybilCast: Broadcast on the open airwaves'
+  title-short: SybilCast
+  container-title: TOPC
+  page: '16'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809810
+
+- id: journals/topc/KumarMVV15
+  type: article-journal
+  author:
+  - family: Kumar
+    given: Ravi
+  - family: Moseley
+    given: Benjamin
+  - family: Vassilvitskii
+    given: Sergei
+  - family: Vattani
+    given: Andrea
+  issued:
+  - year: '2015'
+  title: Fast greedy algorithms in mapReduce and streaming
+  container-title: TOPC
+  page: '14'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809814
+
+- id: journals/topc/KestorUCT15
+  type: article-journal
+  author:
+  - family: Kestor
+    given: Gokcen
+  - family: Unsal
+    given: Osman S.
+  - family: Cristal
+    given: Adrián
+  - family: Tasiran
+    given: Serdar
+  issued:
+  - year: '2015'
+  title: 'TRADE: Precise dynamic race detection for scalable transactional memory
+    systems'
+  title-short: TRADE
+  container-title: TOPC
+  page: '11'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2786021
+
+- id: journals/topc/HoeflerDTBBGU15
+  type: article-journal
+  author:
+  - family: Hoefler
+    given: Torsten
+  - family: Dinan
+    given: James
+  - family: Thakur
+    given: Rajeev
+  - family: Barrett
+    given: Brian
+  - family: Balaji
+    given: Pavan
+  - family: Gropp
+    given: William
+  - family: Underwood
+    given: Keith D.
+  issued:
+  - year: '2015'
+  title: Remote memory access programming in mPI-3
+  container-title: TOPC
+  page: '9'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2780584
+
+- id: journals/topc/ShunB14
+  type: article-journal
+  author:
+  - family: Shun
+    given: Julian
+  - family: Blelloch
+    given: Guy E.
+  issued:
+  - year: '2014'
+  title: A simple parallel cartesian tree algorithm and its application to parallel
+    suffix tree construction
+  container-title: TOPC
+  page: '8'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2661653
+
+- id: journals/topc/TotoniJK15
+  type: article-journal
+  author:
+  - family: Totoni
+    given: Ehsan
+  - family: Jain
+    given: Nikhil
+  - family: Kalé
+    given: Laxmikant V.
+  issued:
+  - year: '2015'
+  title: Power management of extreme-scale networks with on/Off links in runtime systems
+  container-title: TOPC
+  page: '16'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2687001
+
+- id: journals/topc/BallardDK15
+  type: article-journal
+  author:
+  - family: Ballard
+    given: Grey
+  - family: Demmel
+    given: James
+  - family: Knight
+    given: Nicholas
+  issued:
+  - year: '2015'
+  title: Avoiding communication in successive band reduction
+  container-title: TOPC
+  page: '11'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2686877
+
+- id: journals/topc/RavishankarEPRR14
+  type: article-journal
+  author:
+  - family: Ravishankar
+    given: Mahesh
+  - family: Eisenlohr
+    given: John
+  - family: Pouchet
+    given: Louis-Noël
+  - family: Ramanujam
+    given: J.
+  - family: Rountev
+    given: Atanas
+  - family: Sadayappan
+    given: P.
+  issued:
+  - year: '2014'
+  title: Automatic parallelization of a class of irregular loops for distributed memory
+    systems
+  container-title: TOPC
+  page: '7'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2660251
+
+- id: journals/topc/DinitzH15
+  type: article-journal
+  author:
+  - family: Dinitz
+    given: Michael
+  - family: Hoefler
+    given: Torsten
+  issued:
+  - year: '2015'
+  title: Introduction to the special issue on sPAA 2013
+  container-title: TOPC
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809923
+
+- id: journals/topc/Gibbons14
+  type: article-journal
+  author:
+  - family: Gibbons
+    given: Phillip B.
+  issued:
+  - year: '2014'
+  title: 'ACM transactions on parallel computing: An introduction'
+  title-short: ACM transactions on parallel computing
+  container-title: TOPC
+  page: '1'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2661651
+
+- id: journals/topc/SandersSS15
+  type: article-journal
+  author:
+  - family: Sanders
+    given: Peter
+  - family: Speck
+    given: Jochen
+  - family: Steffen
+    given: Raoul
+  issued:
+  - year: '2015'
+  title: Work-efficient matrix inversion in polylogarithmic time
+  container-title: TOPC
+  page: '15'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809812
+
+- id: journals/topc/DuttaPRR15
+  type: article-journal
+  author:
+  - family: Dutta
+    given: Chinmoy
+  - family: Pandurangan
+    given: Gopal
+  - family: Rajaraman
+    given: Rajmohan
+  - family: Roche
+    given: Scott T.
+  issued:
+  - year: '2015'
+  title: Coalescing-branching random walks on graphs
+  container-title: TOPC
+  page: '20'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2817830
+
+- id: journals/topc/JainMNY15
+  type: article-journal
+  author:
+  - family: Jain
+    given: Navendu
+  - family: Menache
+    given: Ishai
+  - family: Naor
+    given: Joseph
+  - family: Yaniv
+    given: Jonathan
+  issued:
+  - year: '2015'
+  title: Near-optimal scheduling mechanisms for deadline-sensitive jobs in large computing
+    clusters
+  container-title: TOPC
+  page: '3'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742343
+
+- id: journals/topc/BouteillerHBDD15
+  type: article-journal
+  author:
+  - family: Bouteiller
+    given: Aurelien
+  - family: Hérault
+    given: Thomas
+  - family: Bosilca
+    given: George
+  - family: Du
+    given: Peng
+  - family: Dongarra
+    given: Jack
+  issued:
+  - year: '2015'
+  title: Algorithm-based fault tolerance for dense matrix factorizations, multiple
+    failures and accuracy
+  container-title: TOPC
+  page: '10'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2686892
+
+- id: journals/topc/XuZZ015
+  type: article-journal
+  author:
+  - family: Xu
+    given: Yi
+  - family: Zhao
+    given: Bo
+  - family: Zhang
+    given: Youtao
+  - family: '0002'
+    given: Jun Yang
+  issued:
+  - year: '2015'
+  title: Simple virtual channel allocation for high-throughput and high-frequency
+    on-chip routers
+  container-title: TOPC
+  page: '6'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742349
+
+- id: journals/topc/JimenezCGBBOM14
+  type: article-journal
+  author:
+  - family: Jiménez
+    given: Víctor
+  - family: Cazorla
+    given: Francisco J.
+  - family: Gioiosa
+    given: Roberto
+  - family: Buyuktosunoglu
+    given: Alper
+  - family: Bose
+    given: Pradip
+  - family: O’Connell
+    given: Francis P.
+  - family: Mealey
+    given: Bruce G.
+  issued:
+  - year: '2014'
+  title: 'Adaptive prefetching on pOWER7: Improving performance and power consumption'
+  title-short: Adaptive prefetching on pOWER7
+  container-title: TOPC
+  page: '4'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2588889
+
+- id: journals/topc/Eyraud-DuboisMS15
+  type: article-journal
+  author:
+  - family: Eyraud-Dubois
+    given: Lionel
+  - family: Marchal
+    given: Loris
+  - family: Sinnen
+    given: Oliver
+  - family: Vivien
+    given: Frédéric
+  issued:
+  - year: '2015'
+  title: Parallel scheduling of task trees with limited memory
+  container-title: TOPC
+  page: '13'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2779052
+
+- id: journals/topc/WuMP14
+  type: article-journal
+  author:
+  - family: Wu
+    given: Xing
+  - family: Mueller
+    given: Frank
+  - family: Pakin
+    given: Scott
+  issued:
+  - year: '2014'
+  title: A methodology for automatic generation of executable communication specifications
+    from parallel mPI applications
+  container-title: TOPC
+  page: '6'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2660249
+
+- id: journals/topc/MaldonadoMFLMR15
+  type: article-journal
+  author:
+  - family: Maldonado
+    given: Walther
+  - family: Marlier
+    given: Patrick
+  - family: Felber
+    given: Pascal
+  - family: Lawall
+    given: Julia
+  - family: Muller
+    given: Gilles
+  - family: Rivière
+    given: Etienne
+  issued:
+  - year: '2015'
+  title: Supporting time-based qoS requirements in software transactional memory
+  container-title: TOPC
+  page: '10'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2779621
+
+- id: journals/topc/RaneB14
+  type: article-journal
+  author:
+  - family: Rane
+    given: Ashay
+  - family: Browne
+    given: James C.
+  issued:
+  - year: '2014'
+  title: Enhancing performance optimization of multicore/Multichip nodes with data
+    structure metrics
+  container-title: TOPC
+  page: '3'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2588788
+
+- id: journals/topc/LeeLSZS15
+  type: article-journal
+  author:
+  - family: Lee
+    given: I-Ting Angelina
+  - family: Leiserson
+    given: Charles E.
+  - family: Schardl
+    given: Tao B.
+  - family: Zhang
+    given: Zhunping
+  - family: Sukha
+    given: Jim
+  issued:
+  - year: '2015'
+  title: On-the-fly pipeline parallelism
+  container-title: TOPC
+  page: '17'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809808
+
+- id: journals/topc/SackG15
+  type: article-journal
+  author:
+  - family: Sack
+    given: Paul
+  - family: Gropp
+    given: William
+  issued:
+  - year: '2015'
+  title: Collective algorithms for multiported torus networks
+  container-title: TOPC
+  page: '12'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2686882
+
+- id: journals/topc/EikelS15
+  type: article-journal
+  author:
+  - family: Eikel
+    given: Martina
+  - family: Scheideler
+    given: Christian
+  issued:
+  - year: '2015'
+  title: 'IRIS: A robust information system against insider doS attacks'
+  title-short: IRIS
+  container-title: TOPC
+  page: '18'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809806
+
+- id: journals/topc/DegenerKKH15
+  type: article-journal
+  author:
+  - family: Degener
+    given: Bastian
+  - family: Kempkes
+    given: Barbara
+  - family: Kling
+    given: Peter
+  - family: Heide
+    given: Friedhelm Meyer
+    dropping-particle: auf der
+  issued:
+  - year: '2015'
+  title: Linear and competitive strategies for continuous robot formation problems
+  container-title: TOPC
+  page: '2'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742341
+
+- id: journals/topc/Lilja14
+  type: article-journal
+  author:
+  - family: Lilja
+    given: David J.
+  issued:
+  - year: '2014'
+  title: Introduction
+  container-title: TOPC
+  page: '2'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2609798
+
+- id: journals/topc/KramerH15
+  type: article-journal
+  author:
+  - family: Kramer
+    given: Stephan C.
+  - family: Hagemann
+    given: Johannes
+  issued:
+  - year: '2015'
+  title: 'SciPAL: Expression templates and composition closure objects for high
+    performance computational physics with cUDA and openMP'
+  title-short: SciPAL
+  container-title: TOPC
+  page: '15'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2686886
+
+- id: journals/topc/DieguesR15
+  type: article-journal
+  author:
+  - family: Diegues
+    given: Nuno
+  - family: Romano
+    given: Paolo
+  issued:
+  - year: '2015'
+  title: 'Time-warp: Efficient abort reduction in transactional memory'
+  title-short: Time-warp
+  container-title: TOPC
+  page: '12'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2775435
+
+- id: journals/topc/McCreeshP15
+  type: article-journal
+  author:
+  - family: McCreesh
+    given: Ciaran
+  - family: Prosser
+    given: Patrick
+  issued:
+  - year: '2015'
+  title: The shape of the search tree for the maximum clique problem and the implications
+    for parallel branch and bound
+  container-title: TOPC
+  page: '8'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742359
+
+- id: journals/topc/DiceMS15
+  type: article-journal
+  author:
+  - family: Dice
+    given: David
+  - family: Marathe
+    given: Virendra J.
+  - family: Shavit
+    given: Nir
+  issued:
+  - year: '2015'
+  title: 'Lock cohorting: A general technique for designing nUMA locks'
+  title-short: Lock cohorting
+  container-title: TOPC
+  page: '13'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2686884
+
+- id: journals/topc/HammoudaSS15
+  type: article-journal
+  author:
+  - family: Hammouda
+    given: Adam
+  - family: Siegel
+    given: Andrew R.
+  - family: Siegel
+    given: Stephen F.
+  issued:
+  - year: '2015'
+  title: Noise-tolerant explicit stencil computations for nonuniform process execution
+    rates
+  container-title: TOPC
+  page: '7'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742351
+
+- id: journals/topc/PingaliRS15
+  type: article-journal
+  author:
+  - family: Pingali
+    given: Keshav
+  - family: Ramanujam
+    given: J.
+  - family: Sadayappan
+    given: P.
+  issued:
+  - year: '2015'
+  title: Introduction to the special issue on pPoPP’12
+  container-title: TOPC
+  page: '9'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2716343
+
+- id: journals/topc/HeilKLTV14
+  type: article-journal
+  author:
+  - family: Heil
+    given: Timothy
+  - family: Krishna
+    given: Anil
+  - family: Lindberg
+    given: Nicholas
+  - family: Toussi
+    given: Farnaz
+  - family: VanderWiel
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Architecture and performance of the hardware accelerators in iBM’s powerEN
+    processor
+  container-title: TOPC
+  page: '5'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2588888
+
+- id: journals/topc/JahnPKCH15
+  type: article-journal
+  author:
+  - family: Jahn
+    given: Janmartin
+  - family: Pagani
+    given: Santiago
+  - family: Kobbe
+    given: Sebastian
+  - family: Chen
+    given: Jian-Jia
+  - family: Henkel
+    given: Jörg
+  issued:
+  - year: '2015'
+  title: Runtime resource allocation for software pipelines
+  container-title: TOPC
+  page: '5'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742347
+
+- id: journals/topc/MerrillGG15
+  type: article-journal
+  author:
+  - family: Merrill
+    given: Duane
+  - family: Garland
+    given: Michael
+  - family: Grimshaw
+    given: Andrew S.
+  issued:
+  - year: '2015'
+  title: High-performance and scalable gPU graph traversal
+  container-title: TOPC
+  page: '14'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2717511
+
+- id: journals/topc/Kling015
+  type: article-journal
+  author:
+  - family: Kling
+    given: Peter
+  - family: '0001'
+    given: Peter Pietrzyk
+  issued:
+  - year: '2015'
+  title: Profitable scheduling on multiple speed-scalable processors
+  container-title: TOPC
+  page: '19'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2809872
+
+- id: journals/topc/FeldmanLN15
+  type: article-journal
+  author:
+  - family: Feldman
+    given: Moran
+  - family: Lewin-Eytan
+    given: Liane
+  - family: Naor
+    given: Joseph
+  issued:
+  - year: '2015'
+  title: Hedonic clustering games
+  container-title: TOPC
+  page: '4'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2742345
+...

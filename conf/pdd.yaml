@@ -1,0 +1,1236 @@
+---
+references:
+- id: conf/pdd/RubinRZ88
+  type: paper-conference
+  author:
+  - family: Rubin
+    given: Robert V.
+  - family: Rudolph
+    given: Larry
+  - family: Zernik
+    given: Dror
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Debugging parallel programs in parallel
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '216-225'
+  URL: http://doi.acm.org/10.1145/68210.69236
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/1988
+  type: book
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Proceedings of the aCM sIGPLAN and sIGOPS workshop on parallel and distributed
+    debugging, university of wisconsin, madison, wisconsin, uSA, may 5-6, 1988
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=68210
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/FrancioniAJ91
+  type: paper-conference
+  author:
+  - family: Francioni
+    given: Joan M.
+  - family: Albright
+    given: Larry
+  - family: Jackson
+    given: Jay Alan
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Debugging parallel programs using sound
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '68-75'
+  URL: http://doi.acm.org/10.1145/122759.122765
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/RoverW93
+  type: paper-conference
+  author:
+  - family: Rover
+    given: Diane T.
+  - family: Waheed
+    given: Abdul
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Multiple-domain analysis methods
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '53-63'
+  URL: http://doi.acm.org/10.1145/174266.174273
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/Kunz93
+  type: paper-conference
+  author:
+  - family: Kunz
+    given: Thomas
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Process clustering for distributed debugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '75-84'
+  URL: http://doi.acm.org/10.1145/174266.174275
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/PancakeN93
+  type: paper-conference
+  author:
+  - family: Pancake
+    given: Cherri M.
+  - family: Netzer
+    given: Robert H. B.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: A bibliography of parallel debuggers, 1993 eddition
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '169-186'
+  URL: http://doi.acm.org/10.1145/174266.168238
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/CallahanS88
+  type: paper-conference
+  author:
+  - family: Callahan
+    given: David
+  - family: Subhlok
+    given: Jaspal
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Static analysis of low-level synchronization
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '100-111'
+  URL: http://doi.acm.org/10.1145/68210.69225
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/ZernikR91
+  type: paper-conference
+  author:
+  - family: Zernik
+    given: Dror
+  - family: Rudolph
+    given: Larry
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Animating work and time for debugging parallel programs - foudations and
+    experience
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '46-56'
+  URL: http://doi.acm.org/10.1145/122759.122763
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/FowlerLM88
+  type: paper-conference
+  author:
+  - family: Fowler
+    given: Robert J.
+  - family: LeBlanc
+    given: Thomas J.
+  - family: Mellor-Crummey
+    given: John M.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: An integrated approach to parallel program debugging and performance analysis
+    of large-scal multiprocessors
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '163-173'
+  URL: http://doi.acm.org/10.1145/68210.69231
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/MalonyR91
+  type: paper-conference
+  author:
+  - family: Malony
+    given: Allen D.
+  - family: Reed
+    given: Daniel A.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Models for performance perturbation analysis
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '15-25'
+  URL: http://doi.acm.org/10.1145/122759.122760
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Redell88
+  type: paper-conference
+  author:
+  - family: Redell
+    given: David D.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Experience with topaz teleDebugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '35-44'
+  URL: http://doi.acm.org/10.1145/68210.69219
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/HelmboldM91
+  type: paper-conference
+  author:
+  - family: Helmbold
+    given: David P.
+  - family: McDowell
+    given: Charles E.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Computing reachable states of parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '76-84'
+  URL: http://doi.acm.org/10.1145/122759.122766
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/1993
+  type: book
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Proceedings of the aCM/ONR workshop on parallel and distributed debugging,
+    san diego, california, uSA, may 17-18, 1993
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=174266
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/1991
+  type: book
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Proceedings of the aCM/ONR workshop on parallel and distributed debugging,
+    santa cruz, california, uSA, may 20-21, 1991
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=122759
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/LinL88
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Chu-Chung
+  - family: LeBlanc
+    given: Richard J.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Event-based debugging of object/Action programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '23-34'
+  URL: http://doi.acm.org/10.1145/68210.69218
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/CooperM91
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Robert
+  - family: Marzullo
+    given: Keith
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Consistent detection of global predicates
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '167-174'
+  URL: http://doi.acm.org/10.1145/122759.122774
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Forin88
+  type: paper-conference
+  author:
+  - family: Forin
+    given: Alessandro
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Debugging of heterogeneous parallel systems
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '130-140'
+  URL: http://doi.acm.org/10.1145/68210.69228
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/FeldmanB88
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Stuart I.
+  - family: Brown
+    given: Channing B.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: 'Igor: A system for program debugging via reversible execution'
+  title-short: Igor
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '112-123'
+  URL: http://doi.acm.org/10.1145/68210.69226
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Wittie88
+  type: paper-conference
+  author:
+  - family: Wittie
+    given: Larry D.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Debugging distributed c programs by real time replay
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '57-67'
+  URL: http://doi.acm.org/10.1145/68210.69221
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/CrovellaL93
+  type: paper-conference
+  author:
+  - family: Crovella
+    given: Mark
+  - family: LeBlanc
+    given: Thomas J.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Performance debugging using parallel performance predicates
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '140-150'
+  URL: http://doi.acm.org/10.1145/174266.171276
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/AralG88
+  type: paper-conference
+  author:
+  - family: Aral
+    given: Ziya
+  - family: Gertner
+    given: Ilya
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: High-level debugging in parasight
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '151-162'
+  URL: http://doi.acm.org/10.1145/68210.69230
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/TomlinsonG93
+  type: paper-conference
+  author:
+  - family: Tomlinson
+    given: Alexander I.
+  - family: Garg
+    given: Vijay K.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Detecting relational global predicates in distributed systems
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '21-31'
+  URL: http://doi.acm.org/10.1145/174266.174270
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/PanL88
+  type: paper-conference
+  author:
+  - family: Pan
+    given: Douglas Z.
+  - family: Linton
+    given: Mark A.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Supporting reverse execution of parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '124-129'
+  URL: http://doi.acm.org/10.1145/68210.69227
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/BrewerW93
+  type: paper-conference
+  author:
+  - family: Brewer
+    given: Eric A.
+  - family: Weihl
+    given: William E.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Developing parallel applications using high-performance simulation
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '158-168'
+  URL: http://doi.acm.org/10.1145/174266.168848
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/Bruegge91
+  type: paper-conference
+  author:
+  - family: Bruegge
+    given: Bernd
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: A portable platform for distributed event environments
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '184-193'
+  URL: http://doi.acm.org/10.1145/122759.122776
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/MillerM91
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Barton P.
+  - family: McDowell
+    given: Charles E.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Summary of aCM/ONR workshop on parallel and distributed debugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '1-14'
+  URL: http://dl.acm.org/citation.cfm?id=122759
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Fidge88
+  type: paper-conference
+  author:
+  - family: Fidge
+    given: Colin J.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Partial orders for parallel debugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '183-194'
+  URL: http://doi.acm.org/10.1145/68210.69233
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/BrueggeG88
+  type: paper-conference
+  author:
+  - family: Bruegge
+    given: Bernd
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: 'A program debugger for a systolic array: Design and implementation'
+  title-short: A program debugger for a systolic array
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '174-182'
+  URL: http://doi.acm.org/10.1145/68210.69232
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/JunK93
+  type: paper-conference
+  author:
+  - family: Jun
+    given: Yong-Kee
+  - family: Koh
+    given: Kern
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: On-the-fly detection of access anomalies in nested parallel loops
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '107-117'
+  URL: http://doi.acm.org/10.1145/174266.174278
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/GoldbergGLS91
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Arthur P.
+  - family: Gopal
+    given: Ajei S.
+  - family: Lowry
+    given: Andy
+  - family: Strom
+    given: Robert E.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Restoring global states of distributed computations
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '144-154'
+  URL: http://doi.acm.org/10.1145/122759.122772
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/TolmachA91
+  type: paper-conference
+  author:
+  - family: Tolmach
+    given: Andrew P.
+  - family: Appel
+    given: Andrew W.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Debuggable concurrency extensions for standard mL
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '120-131'
+  URL: http://doi.acm.org/10.1145/122759.122770
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Netzer93
+  type: paper-conference
+  author:
+  - family: Netzer
+    given: Robert H. B.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Optimal tracing and replay for debugging shared-memory parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/174266.174268
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/KimelmanZ93
+  type: paper-conference
+  author:
+  - family: Kimelman
+    given: Doug
+  - family: Zernik
+    given: Dror
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: On-the-fly topological sort - a basis for interactive debugging and live
+    visualization of parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '12-20'
+  URL: http://doi.acm.org/10.1145/174266.174269
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/HseushK88
+  type: paper-conference
+  author:
+  - family: Hseush
+    given: Wenwey
+  - family: Kaiser
+    given: Gail E.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: 'Data path debugging: Data-oriented debugging for a concurrent programming
+    language'
+  title-short: Data path debugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '236-247'
+  URL: http://doi.acm.org/10.1145/68210.69238
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Valot93
+  type: paper-conference
+  author:
+  - family: Valot
+    given: Celine
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Characterizing the accuracy of distributed timestamps
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/174266.174272
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/PineoS91
+  type: paper-conference
+  author:
+  - family: Pineo
+    given: Patricia Prather
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Debugging parallelized code using code liberation techniques
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '108-119'
+  URL: http://doi.acm.org/10.1145/122759.122769
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/AppelbeM88
+  type: paper-conference
+  author:
+  - family: Appelbe
+    given: William F.
+  - family: McDowell
+    given: Charles E.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Integrating tools for debugging and developing multitask programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '78-88'
+  URL: http://doi.acm.org/10.1145/68210.69223
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/MasticolaR91
+  type: paper-conference
+  author:
+  - family: Masticola
+    given: Stephen P.
+  - family: Ryder
+    given: Barbara G.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: A model of ada programs for static deadlock detection in polynomial time
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '97-107'
+  URL: http://doi.acm.org/10.1145/122759.122768
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Stone88
+  type: paper-conference
+  author:
+  - family: Stone
+    given: Janice M.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: A graphical representation of concurrent processes
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '226-235'
+  URL: http://doi.acm.org/10.1145/68210.69237
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Griswold91
+  type: paper-conference
+  author:
+  - family: Griswold
+    given: Victor Jon
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Core algorithms for autonomous monitoring of distributed systems
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '36-45'
+  URL: http://doi.acm.org/10.1145/122759.122762
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/DinningS91
+  type: paper-conference
+  author:
+  - family: Dinning
+    given: Anne
+  - family: Schonberg
+    given: Edith
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Detecting access anomalies in programs with critical sections
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '85-96'
+  URL: http://doi.acm.org/10.1145/122759.122767
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/BlackGHTS88
+  type: paper-conference
+  author:
+  - family: Black
+    given: David L.
+  - family: Golub
+    given: David B.
+  - family: Hauth
+    given: Karl
+  - family: Tevanian
+    given: Avadis
+  - family: Sanzi
+    given: Richard
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: The mach exception handling facilty
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '45-56'
+  URL: http://doi.acm.org/10.1145/68210.69220
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/CunyFHKLSS93
+  type: paper-conference
+  author:
+  - family: Cuny
+    given: Janice E.
+  - family: Forman
+    given: George
+  - family: Hough
+    given: Alfred
+  - family: Kundu
+    given: Joydip
+  - family: Lin
+    given: Calvin
+  - family: Snyder
+    given: Lawrence
+  - family: Stemple
+    given: David W.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: 'The ariadne debugger: Scalable application of event-based abstraction'
+  title-short: The ariadne debugger
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '85-95'
+  URL: http://doi.acm.org/10.1145/174266.174276
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/EmrathP88
+  type: paper-conference
+  author:
+  - family: Emrath
+    given: Perry A.
+  - family: Padua
+    given: David A.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Automatic detection of nondeterminacy in parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '89-99'
+  URL: http://doi.acm.org/10.1145/68210.69224
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/LichtensteinS88
+  type: paper-conference
+  author:
+  - family: Lichtenstein
+    given: Yossi
+  - family: Shapiro
+    given: Ehud Y.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Concurrent algorithmic debugging
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '248-260'
+  URL: http://doi.acm.org/10.1145/68210.69239
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Elshoff88
+  type: paper-conference
+  author:
+  - family: Elshoff
+    given: I. J. P.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: A distributed debugger for amoeba
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/68210.69216
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/TimmermanGL93
+  type: paper-conference
+  author:
+  - family: Timmerman
+    given: M.
+  - family: Gielen
+    given: Frank
+  - family: Lambrix
+    given: Patrick
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: High level tools for the debugging of real-time multiprocessor systems
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '151-157'
+  URL: http://doi.acm.org/10.1145/174266.170489
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/Pancake93
+  type: paper-conference
+  author:
+  - family: Pancake
+    given: Cherri M.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Customizable portrayals of program structure
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '64-74'
+  URL: http://doi.acm.org/10.1145/174266.174274
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/KilpatrickS91
+  type: paper-conference
+  author:
+  - family: Kilpatrick
+    given: Carol
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: ChaosMON - application-specific monitoring and display of performance information
+    for parallel and distributed systems
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '57-67'
+  URL: http://doi.acm.org/10.1145/122759.122764
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/MillerC88
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Barton P.
+  - family: Choi
+    given: Jong-Deok
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: A mechanism for efficient debugging of parallel programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/68210.69229
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/CameronC88
+  type: paper-conference
+  author:
+  - family: Cameron
+    given: E. Jane
+  - family: Cohen
+    given: David M.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: The iC\* system for debugging parallel programs via interactive monitoring
+    and control
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '261-270'
+  URL: http://doi.acm.org/10.1145/68210.69240
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/MayB93
+  type: paper-conference
+  author:
+  - family: May
+    given: John
+  - family: Berman
+    given: Francine
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: 'Panorama: A portable, extensible parallel debugger'
+  title-short: Panorama
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '96-106'
+  URL: http://doi.acm.org/10.1145/174266.174277
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/GoldszmidtKY88
+  type: paper-conference
+  author:
+  - family: Goldszmidt
+    given: Germán S.
+  - family: Katz
+    given: Shmuel
+  - family: Yemini
+    given: Shaula
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Interactive blackbox debugging for concurrent languages
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '271-282'
+  URL: http://doi.acm.org/10.1145/68210.69241
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/ChoiS91
+  type: paper-conference
+  author:
+  - family: Choi
+    given: Jong-Deok
+  - family: Stone
+    given: Janice M.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Balancing runtime and replay costs in a trace-and-replay system
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '26-35'
+  URL: http://doi.acm.org/10.1145/122759.122761
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/SochaBN88
+  type: paper-conference
+  author:
+  - family: Socha
+    given: David
+  - family: Bailey
+    given: Mary L.
+  - family: Notkin
+    given: David
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: 'Voyeur: Graphical views of parallel programs'
+  title-short: Voyeur
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '206-216'
+  URL: http://doi.acm.org/10.1145/68210.69235
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/BaconG91
+  type: paper-conference
+  author:
+  - family: Bacon
+    given: David F.
+  - family: Goldstein
+    given: Seth Copen
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Hardware-assisted replay of multiprocessor programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '194-206'
+  URL: http://doi.acm.org/10.1145/122759.122777
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/Cohn91
+  type: paper-conference
+  author:
+  - family: Cohn
+    given: Robert
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: Source level debugging of automatically parallelized code
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '132-143'
+  URL: http://doi.acm.org/10.1145/122759.122771
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/HurfinPR93
+  type: paper-conference
+  author:
+  - family: Hurfin
+    given: Michel
+  - family: Plouzeau
+    given: Noël
+  - family: Raynal
+    given: Michel
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Detecting atomic sequences of predicates in distributed computations
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '32-42'
+  URL: http://doi.acm.org/10.1145/174266.174271
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/TokudaKM88
+  type: paper-conference
+  author:
+  - family: Tokuda
+    given: Hideyuki
+  - family: Kotera
+    given: Makoto
+  - family: Mercer
+    given: Clifford W.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: A real-time monitor for a distributed real-time operating system
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '68-77'
+  URL: http://doi.acm.org/10.1145/68210.69222
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Spezialetti91
+  type: paper-conference
+  author:
+  - family: Spezialetti
+    given: Madalene
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: An approach to reducing delays in recognizing distributed event occurrences
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '155-166'
+  URL: http://doi.acm.org/10.1145/122759.122773
+  ISBN: '0-89791-457-0'
+
+- id: conf/pdd/HoughC88
+  type: paper-conference
+  author:
+  - family: Hough
+    given: Alfred
+  - family: Cuny
+    given: Janice E.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Initial experiences with a pattern-oriented parallel debugger
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '195-205'
+  URL: http://doi.acm.org/10.1145/68210.69234
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Damodaran-KamalF93
+  type: paper-conference
+  author:
+  - family: Damodaran-Kamal
+    given: Suresh K.
+  - family: Francioni
+    given: Joan M.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: 'Nondeterminacy: Testing and debugging in message passing parallel programs'
+  title-short: Nondeterminacy
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '118-128'
+  URL: http://doi.acm.org/10.1145/174266.166789
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/Mellor-Crummey93
+  type: paper-conference
+  author:
+  - family: Mellor-Crummey
+    given: John M.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1993'
+  title: Compile-time support for efficient data race detection in shared-memory parallel
+    programs
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '129-139'
+  URL: http://doi.acm.org/10.1145/174266.171370
+  ISBN: '0-89791-633-6'
+
+- id: conf/pdd/Bates88
+  type: paper-conference
+  author:
+  - family: Bates
+    given: Peter C.
+  editor:
+  - family: Wexelblat
+    given: Richard L.
+  issued:
+  - year: '1988'
+  title: Debugging heterogeneous distributed systems using event-based models of behavior
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '11-22'
+  URL: http://doi.acm.org/10.1145/68210.69217
+  ISBN: '0-89791-296-9'
+
+- id: conf/pdd/Gorlick91
+  type: paper-conference
+  author:
+  - family: Gorlick
+    given: Michael M.
+  editor:
+  - family: Miller
+    given: Barton P.
+  issued:
+  - year: '1991'
+  title: 'The flight recorder: An architectural aid for system monitoring'
+  title-short: The flight recorder
+  container-title: Workshop on parallel and distributed debugging
+  publisher: ACM
+  page: '175-183'
+  URL: http://doi.acm.org/10.1145/122759.122775
+  ISBN: '0-89791-457-0'
+...

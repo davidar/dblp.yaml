@@ -1,0 +1,562 @@
+---
+references:
+- id: conf/sruti/BenderSLB07
+  type: paper-conference
+  author:
+  - family: Bender
+    given: Adam
+  - family: Spring
+    given: Neil
+  - family: Levin
+    given: Dave
+  - family: Bhattacharjee
+    given: Bobby
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: Accountability as a service
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-07/accountability-service
+
+- id: conf/sruti/ZamboniRY07
+  type: paper-conference
+  author:
+  - family: Zamboni
+    given: Diego
+  - family: Riordan
+    given: James
+  - family: Yates
+    given: Milton
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: Boundary detection and containment of local worm infections
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-07/boundary-detection-and-containment-local-worm-infections
+
+- id: conf/sruti/XuZB05
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Kuai
+  - family: Zhang
+    given: Zhi-Li
+  - family: Bhattacharyya
+    given: Supratik
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Reducing unwanted traffic in a backbone network
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/reducing-unwanted-traffic-backbone-network
+
+- id: conf/sruti/DuanG05
+  type: paper-conference
+  author:
+  - family: Duan
+    given: Zhenhai
+  - family: Gopalan
+    given: Kartik
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: 'Push vs. pull: Implications of protocol design on controlling unwanted
+    traffic'
+  title-short: Push vs. pull
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/push-vs-pull-implications-protocol-design-controlling-unwanted-traffic
+
+- id: conf/sruti/AndreoliniBCM05
+  type: paper-conference
+  author:
+  - family: Andreolini
+    given: Mauro
+  - family: Bulgarelli
+    given: Alessandro
+  - family: Colajanni
+    given: Michele
+  - family: Mazzoni
+    given: Francesca
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: 'HoneySpam: Honeypots fighting spam at the source'
+  title-short: HoneySpam
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/honeyspam-honeypots-fighting-spam-source
+
+- id: conf/sruti/TrivediJK07
+  type: paper-conference
+  author:
+  - family: Trivedi
+    given: Aarjav J.
+  - family: Judge
+    given: Paul
+  - family: Krasser
+    given: Sven
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: Analyzing network and content characteristics of spim using honeypots
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-07/analyzing-network-and-content-characteristics-spim-using-honeypots
+
+- id: conf/sruti/LiuYWA06
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Xin
+  - family: Yang
+    given: Xiaowei
+  - family: Wetherall
+    given: David
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: Efficient and secure source authentication with packet passports
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/efficient-and-secure-source-authentication-packet-passports
+
+- id: conf/sruti/CookeJ05
+  type: paper-conference
+  author:
+  - family: Cooke
+    given: Evan
+  - family: Jahanian
+    given: Farnam
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: 'The zombie roundup: Understanding, detecting, and disrupting botnets'
+  title-short: The zombie roundup
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/zombie-roundup-understanding-detecting-and-disrupting-botnets
+
+- id: conf/sruti/Clayton06
+  type: paper-conference
+  author:
+  - family: Clayton
+    given: Richard
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: 'The rising tide: DDoS from defective designs and defaults'
+  title-short: The rising tide
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/rising-tide-ddos-defective-designs-and-defaults
+
+- id: conf/sruti/BinkleyS06
+  type: paper-conference
+  author:
+  - family: Binkley
+    given: James R.
+  - family: Singh
+    given: Suresh
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: An algorithm for anomaly-based botnet detection
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/algorithm-anomaly-based-botnet-detection
+
+- id: conf/sruti/CasadoACPS06
+  type: paper-conference
+  author:
+  - family: Casado
+    given: Martín
+  - family: Akella
+    given: Aditya
+  - family: Cao
+    given: Pei
+  - family: Provos
+    given: Niels
+  - family: Shenker
+    given: Scott
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: 'Cookies along trust-boundaries (cAT): Accurate and deployable flood protection'
+  title-short: Cookies along trust-boundaries (cAT)
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/cookies-along-trust-boundaries-cat-accurate-and-deployable-flood-protection
+
+- id: conf/sruti/RamachandranFD06
+  type: paper-conference
+  author:
+  - family: Ramachandran
+    given: Anirudh
+  - family: Feamster
+    given: Nick
+  - family: Dagon
+    given: David
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: Revealing botnet membership using dNSBL counter-intelligence
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/revealing-botnet-membership-using-dnsbl-counter-intelligence
+
+- id: conf/sruti/DefrawyG07
+  type: paper-conference
+  author:
+  - family: Defrawy
+    given: Karim El
+  - family: Gjoka
+    given: Minas
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: 'BotTorrent: Misusing bitTorrent to launch dDoS attacks'
+  title-short: BotTorrent
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-07/bottorrent-misusing-bittorrent-launch-ddos-attacks
+
+- id: conf/sruti/KannanSSK05
+  type: paper-conference
+  author:
+  - family: Kannan
+    given: Jayanthkumar
+  - family: Subramanian
+    given: Lakshminarayanan
+  - family: Stoica
+    given: Ion
+  - family: Katz
+    given: Randy H.
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Analyzing cooperative containment of fast scanning worms
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/analyzing-cooperative-containment-fast-scanning-worms
+
+- id: conf/sruti/2005
+  type: book
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Steps to reducing unwanted traffic on the internet workshop, sRUTI’05, cambridge,
+    mA, uSA, july 7, 2005
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A159
+
+- id: conf/sruti/WangBWVD06
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yi-Min
+  - family: Beck
+    given: Doug
+  - family: Wang
+    given: Jeffrey
+  - family: Verbowski
+    given: Chad
+  - family: Daniels
+    given: Brad
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: 'Strider typo-patrol: Discovery and analysis of systematic typo-squatting'
+  title-short: Strider typo-patrol
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/strider-typo-patrol-discovery-and-analysis-systematic-typo-squatting
+
+- id: conf/sruti/GomesCAAAB05
+  type: paper-conference
+  author:
+  - family: Gomes
+    given: Luíz Henrique
+  - family: Castro
+    given: Fernando D. O.
+  - family: Almeida
+    given: Virgílio A. F.
+  - family: Almeida
+    given: Jussara M.
+  - family: Almeida
+    given: Rodrigo B.
+  - family: Bettencourt
+    given: Luís M. A.
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Improving spam detection based on structural similarity
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/improving-spam-detection-based-structural-similarity
+
+- id: conf/sruti/BeverlyB05
+  type: paper-conference
+  author:
+  - family: Beverly
+    given: Robert
+  - family: Bauer
+    given: Steven
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: 'The spoofer project: Inferring the extent of internet source address filtering
+    on the internet'
+  title-short: The spoofer project
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/spoofer-project-inferring-extent-internet-source-address-filtering-internet
+
+- id: conf/sruti/AllmanB05
+  type: paper-conference
+  author:
+  - family: Allman
+    given: Mark
+  - family: Blanton
+    given: Ethan
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: An architecture for developing behavioral history
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/architecture-developing-behavioral-history
+
+- id: conf/sruti/ZouTG05
+  type: paper-conference
+  author:
+  - family: Zou
+    given: Cliff C.
+  - family: Towsley
+    given: Don
+  - family: Gong
+    given: Weibo
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Adaptive defense against various network attacks
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/adaptive-defense-against-various-network-attacks
+
+- id: conf/sruti/DantuK05
+  type: paper-conference
+  author:
+  - family: Dantu
+    given: Ram
+  - family: Kolan
+    given: Prakash
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Detecting spam in voIP networks
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/detecting-spam-voip-networks
+
+- id: conf/sruti/2006
+  type: book
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: 2nd workshop on steps to reducing unwanted traffic on the internet, sRUTI’06,
+    san jose, cA, uSA, july 7, 2006
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A144
+
+- id: conf/sruti/Duffield05
+  type: paper-conference
+  author:
+  - family: Duffield
+    given: Nick G.
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Stress testing traffic to infer its legitimacy
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/stress-testing-traffic-infer-its-legitimacy
+
+- id: conf/sruti/2007
+  type: book
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: 3rd workshop on steps to reducing unwanted traffic on the internet, sRUTI’07,
+    santa clara, cA, uSA, june 18, 2007
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A117
+
+- id: conf/sruti/AdidaHR05
+  type: paper-conference
+  author:
+  - family: Adida
+    given: Ben
+  - family: Hohenberger
+    given: Susan
+  - family: Rivest
+    given: Ronald L.
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Lightweight encryption for email
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/lightweight-encryption-email
+
+- id: conf/sruti/ShinGHE06
+  type: paper-conference
+  author:
+  - family: Shin
+    given: Youngsang
+  - family: Gupta
+    given: Minaxi
+  - family: Henderson
+    given: Rob
+  - family: Emigh
+    given: Aaron
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: 'Separating wheat from the chaff: A deployable approach to counter spam'
+  title-short: Separating wheat from the chaff
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/separating-wheat-chaff-deployable-approach-counter-spam
+
+- id: conf/sruti/Shaw06
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: Marianne
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: Leveraging good intentions to reduce malicious network traffic
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/leveraging-good-intentions-reduce-malicious-network-traffic
+
+- id: conf/sruti/0004PU07
+  type: paper-conference
+  author:
+  - family: '0004'
+    given: Jian Zhang
+  - family: Porras
+    given: Phillip A.
+  - family: Ullrich
+    given: Johannes
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2007'
+  title: A new service for increasing the effectiveness of network address blacklists
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-07/new-service-increasing-effectiveness-network-address-blacklists
+
+- id: conf/sruti/AllmanBKW06
+  type: paper-conference
+  author:
+  - family: Allman
+    given: Mark
+  - family: Barford
+    given: Paul
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Wang
+    given: Jia
+  editor:
+  - family: Bellovin
+    given: Steven M.
+  issued:
+  - year: '2006'
+  title: Tracking the role of adversaries in measuring unwanted traffic
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-06/tracking-role-adversaries-measuring-unwanted-traffic
+
+- id: conf/sruti/GreenhalghHH05
+  type: paper-conference
+  author:
+  - family: Greenhalgh
+    given: Adam
+  - family: Handley
+    given: Mark
+  - family: Huici
+    given: Felipe
+  editor:
+  - family: Katabi
+    given: Dina
+  issued:
+  - year: '2005'
+  title: Using routing and tunneling to combat doS attacks
+  container-title: SRUTI
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sruti-05/using-routing-and-tunneling-combat-dos-attacks
+...

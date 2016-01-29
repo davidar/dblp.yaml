@@ -1,0 +1,598 @@
+---
+references:
+- id: conf/ddb/Kuss82
+  type: paper-conference
+  author:
+  - family: Kuss
+    given: Herbert
+  issued:
+  - year: '1982'
+  title: On totally ordering checkpoints in distributed data bases (abstract)
+  container-title: DDB
+  page: '21'
+
+- id: conf/ddb/DecitreA80
+  type: paper-conference
+  author:
+  - family: Decitre
+    given: Paul
+  - family: André
+    given: Edouard
+  issued:
+  - year: '1980'
+  title: 'POLYPHEME project: The dEM distributed execution monitor'
+  title-short: POLYPHEME project
+  container-title: DDB
+  page: '85-98'
+
+- id: conf/ddb/OzkarahanTS82
+  type: paper-conference
+  author:
+  - family: Ozkarahan
+    given: Esen A.
+  - family: Tansel
+    given: Abdullah Uz
+  - family: Smith
+    given: Kenneth C.
+  issued:
+  - year: '1982'
+  title: Database machine/Computer based distributed databases
+  container-title: DDB
+  page: '61-80'
+
+- id: conf/ddb/TanenbaumM82
+  type: paper-conference
+  author:
+  - family: Tanenbaum
+    given: Andrew S.
+  - family: Mullender
+    given: Sape J.
+  issued:
+  - year: '1982'
+  title: Operating system requirements for distributed data base systems
+  container-title: DDB
+  page: '105-114'
+
+- id: conf/ddb/NievergeltS82
+  type: paper-conference
+  author:
+  - family: Nievergelt
+    given: Jürg
+  - family: Staunstrup
+    given: Jørgen
+  issued:
+  - year: '1982'
+  title: What is a correct behaviour of a file under concorrent access?
+  container-title: DDB
+  page: '93-103'
+
+- id: conf/ddb/DecitreA80a
+  type: paper-conference
+  author:
+  - family: Decitre
+    given: Paul
+  - family: André
+    given: Edouard
+  issued:
+  - year: '1980'
+  title: Technical outline of the pOLYPHENE demonstration prototype
+  container-title: DDB
+  page: '357-360'
+
+- id: conf/ddb/ChouL80
+  type: paper-conference
+  author:
+  - family: Chou
+    given: Chuen-Pu
+  - family: Liu
+    given: Ming T.
+  issued:
+  - year: '1980'
+  title: A concurrency control mechanism and crash recovery for a distributed database
+    system (dLDBS)
+  container-title: DDB
+  page: '201-214'
+
+- id: conf/ddb/Karmouch80
+  type: paper-conference
+  author:
+  - family: Karmouch
+    given: Ahmed
+  issued:
+  - year: '1980'
+  title: 'SYSIDORE: Systeme de selection d’information documentaire repartie'
+  title-short: SYSIDORE
+  container-title: DDB
+  page: '365-367'
+
+- id: conf/ddb/LandersR82
+  type: paper-conference
+  author:
+  - family: Landers
+    given: Terry A.
+  - family: Rosenberg
+    given: Ronni
+  issued:
+  - year: '1982'
+  title: An overview of mULTIBASE
+  container-title: DDB
+  page: '153-184'
+
+- id: conf/ddb/Munz80
+  type: paper-conference
+  author:
+  - family: Munz
+    given: Rudolf
+  issued:
+  - year: '1980'
+  title: Realization, synchronization and restart of update transactions in a distributed
+    database system
+  container-title: DDB
+  page: '173-182'
+
+- id: conf/ddb/Badal82
+  type: paper-conference
+  author:
+  - family: Badal
+    given: Dushan Z.
+  issued:
+  - year: '1982'
+  title: The effects of concurrency control on centralized dBMS and distributed dBMS
+    based on long haul and local networks
+  container-title: DDB
+  page: '81-91'
+
+- id: conf/ddb/KerteszP80
+  type: paper-conference
+  author:
+  - family: Kertesz
+    given: Eszter
+  - family: Polgar
+    given: Judit
+  issued:
+  - year: '1980'
+  title: Problems of developing large registration systems based on distributed data
+    base
+  container-title: DDB
+  page: '321-334'
+
+- id: conf/ddb/Valduriez82
+  type: paper-conference
+  author:
+  - family: Valduriez
+    given: Patrick
+  issued:
+  - year: '1982'
+  title: Semi-join algorithms for distributed database machines
+  container-title: DDB
+  page: '23-37'
+
+- id: conf/ddb/Badal80
+  type: paper-conference
+  author:
+  - family: Badal
+    given: Dushan Z.
+  issued:
+  - year: '1980'
+  title: On the degree of concurrency provided by concurrency control mechanisms for
+    distributed databases
+  container-title: DDB
+  page: '35-48'
+
+- id: conf/ddb/Walter80
+  type: paper-conference
+  author:
+  - family: Walter
+    given: Bernd
+  issued:
+  - year: '1980'
+  title: Concepts for a robust distributed data base system
+  container-title: DDB
+  page: '161-171'
+
+- id: conf/ddb/Akoka80
+  type: paper-conference
+  author:
+  - family: Akoka
+    given: Jacky
+  issued:
+  - year: '1980'
+  title: Design of optimal distributed database systems
+  container-title: DDB
+  page: '229-246'
+
+- id: conf/ddb/DargentG80
+  type: paper-conference
+  author:
+  - family: Dargent
+    given: L.
+  - family: Godart
+    given: Claude
+  issued:
+  - year: '1980'
+  title: The eTOILE project
+  container-title: DDB
+  page: '353-355'
+
+- id: conf/ddb/BreitwieserL82
+  type: paper-conference
+  author:
+  - family: Breitwieser
+    given: H.
+  - family: Leszak
+    given: M.
+  issued:
+  - year: '1982'
+  title: Improving availability of partially redundant databases by majority consensus
+    protocols
+  container-title: DDB
+  page: '131-151'
+
+- id: conf/ddb/Forker82
+  type: paper-conference
+  author:
+  - family: Forker
+    given: H. J.
+  issued:
+  - year: '1982'
+  title: Algebraical and operational methods for the optimization of query processing
+    in distributed relational database systems
+  container-title: DDB
+  page: '39-59'
+
+- id: conf/ddb/Thomas80
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: R. A. C.
+  issued:
+  - year: '1980'
+  title: Process structure alternatives towards a distributed ingres
+  container-title: DDB
+  page: '215-227'
+
+- id: conf/ddb/BayerEHR82
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: Rudolf
+  - family: Elhardt
+    given: Klaus
+  - family: Heigert
+    given: Johannes
+  - family: Reiser
+    given: Angelika
+  issued:
+  - year: '1982'
+  title: Dynamic timestamp allocation for transactions in database systems
+  container-title: DDB
+  page: '9-20'
+
+- id: conf/ddb/Tillman82
+  type: paper-conference
+  author:
+  - family: Tillman
+    given: Peter R.
+  issued:
+  - year: '1982'
+  title: ADDAM - the aSWE distributed database management system
+  container-title: DDB
+  page: '185-196'
+
+- id: conf/ddb/Wilms80
+  type: paper-conference
+  author:
+  - family: Wilms
+    given: Paul F.
+  issued:
+  - year: '1980'
+  title: Qualitative and quantitative comparison of update algorithms in distributed
+    databases
+  container-title: DDB
+  page: '275-294'
+
+- id: conf/ddb/Popescu-ZeletinW80
+  type: paper-conference
+  author:
+  - family: Popescu-Zeletin
+    given: Radu
+  - family: Weber
+    given: Herbert
+  issued:
+  - year: '1980'
+  title: Some considerations about distributed data bases on public networks
+  container-title: DDB
+  page: '1-15'
+
+- id: conf/ddb/Schneider80
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Fred B.
+  issued:
+  - year: '1980'
+  title: Ensuring consistency in a distributed database system by use of distributed
+    semaphores
+  container-title: DDB
+  page: '183-189'
+
+- id: conf/ddb/Gardarin80
+  type: paper-conference
+  author:
+  - family: Gardarin
+    given: Georges
+  issued:
+  - year: '1980'
+  title: Integrity, consistency, concurrency, reliability in distributed database
+    management systems
+  container-title: DDB
+  page: '335-351'
+
+- id: conf/ddb/MartellaS80
+  type: paper-conference
+  author:
+  - family: Martella
+    given: Giancarlo
+  - family: Schreiber
+    given: Fabio A.
+  issued:
+  - year: '1980'
+  title: A data dictionary for distributed databases
+  container-title: DDB
+  page: '17-33'
+
+- id: conf/ddb/Steel82
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Thomas B. Steel
+  issued:
+  - year: '1982'
+  title: International standardization and distributed data bases
+  container-title: DDB
+  page: '1-7'
+
+- id: conf/ddb/Drew82
+  type: paper-conference
+  author:
+  - family: Drew
+    given: Maxwell S.
+  issued:
+  - year: '1982'
+  title: Scheduling parallel distributed relational data base query computations on
+    a local computer network
+  container-title: DDB
+  page: '217-237'
+
+- id: conf/ddb/Bosc80
+  type: paper-conference
+  author:
+  - family: Bosc
+    given: Patrick
+  issued:
+  - year: '1980'
+  title: The distributed interrogation system fRERES
+  container-title: DDB
+  page: '361-363'
+
+- id: conf/ddb/BaczkoS80
+  type: paper-conference
+  author:
+  - family: Baczko
+    given: A.
+  - family: Seredynski
+    given: Franciszek
+  issued:
+  - year: '1980'
+  title: Automata models of computer networks
+  container-title: DDB
+  page: '295-320'
+
+- id: conf/ddb/BihanELT80
+  type: paper-conference
+  author:
+  - family: Bihan
+    given: Jean Le
+  - family: Esculier
+    given: Christian
+  - family: Lann
+    given: Gérard Le
+  - family: Treille
+    given: L.
+  issued:
+  - year: '1980'
+  title: 'SIRIUS-dELTA: Un prototype de systeme de gestion de bases de donnees reparties'
+  title-short: SIRIUS-dELTA
+  container-title: DDB
+  page: '137-159'
+
+- id: conf/ddb/DolevS82
+  type: paper-conference
+  author:
+  - family: Dolev
+    given: Danny
+  - family: Strong
+    given: H. Raymond
+  issued:
+  - year: '1982'
+  title: Requirements for agreement in a distributed system
+  container-title: DDB
+  page: '115-129'
+
+- id: conf/ddb/CellaryM80
+  type: paper-conference
+  author:
+  - family: Cellary
+    given: Wojciech
+  - family: Meyer
+    given: Daniel
+  issued:
+  - year: '1980'
+  title: A multi-query approach to distributed processing in a relational distributed
+    data base management system
+  container-title: DDB
+  page: '99-119'
+
+- id: conf/ddb/SchlageterD80
+  type: paper-conference
+  author:
+  - family: Schlageter
+    given: Gunter
+  - family: Dadam
+    given: Peter
+  issued:
+  - year: '1980'
+  title: Reconstruction of consistent global states in distributed databases
+  container-title: DDB
+  page: '191-200'
+
+- id: conf/ddb/LitwinBEFGCKMRS82
+  type: paper-conference
+  author:
+  - family: Litwin
+    given: Witold
+  - family: Boudenant
+    given: J.
+  - family: Esculier
+    given: Christian
+  - family: Ferrier
+    given: Arlette
+  - family: Glorieux
+    given: A. M.
+  - family: Chimia
+    given: J. La
+  - family: Kabbaj
+    given: K.
+  - family: Moulinoux
+    given: Catherine
+  - family: Rolin
+    given: P.
+  - family: Stangret
+    given: Christine
+  issued:
+  - year: '1982'
+  title: SIRIUS system for distributed data management
+  container-title: DDB
+  page: '311-366'
+
+- id: conf/ddb/Milenkovic80
+  type: paper-conference
+  author:
+  - family: Milenkovic
+    given: Milan
+  issued:
+  - year: '1980'
+  title: Synchronization of concurrent updates in redundant distributed databases
+  container-title: DDB
+  page: '49-65'
+
+- id: conf/ddb/AdibaADFT80
+  type: paper-conference
+  author:
+  - family: Adiba
+    given: Michel E.
+  - family: Andrade
+    given: Juan M.
+  - family: Decitre
+    given: Paul
+  - family: Fernandez
+    given: F.
+  - family: Nguyen
+    given: Gia Toan
+  issued:
+  - year: '1980'
+  title: 'POLYPHEME: An experience in distributed database system design and implementation'
+  title-short: POLYPHEME
+  container-title: DDB
+  page: '67-84'
+
+- id: conf/ddb/DanielsSHLMWW82
+  type: paper-conference
+  author:
+  - family: Daniels
+    given: Dean
+  - family: Selinger
+    given: Patricia G.
+  - family: Haas
+    given: Laura M.
+  - family: '0001'
+    given: Bruce G. Lindsay
+  - family: Mohan
+    given: C.
+  - family: Walker
+    given: Adrian
+  - family: Wilms
+    given: Paul F.
+  issued:
+  - year: '1982'
+  title: An introduction to distributed query compilation in r\*
+  container-title: DDB
+  page: '291-309'
+
+- id: conf/ddb/Miranda80
+  type: paper-conference
+  author:
+  - family: Miranda
+    given: Serge
+  issued:
+  - year: '1980'
+  title: Specification and validation of two ring-structured synchronization protocols
+    for distributed data systems
+  container-title: DDB
+  page: '247-274'
+
+- id: conf/ddb/CarlesiRTP80
+  type: paper-conference
+  author:
+  - family: Carlesi
+    given: Carlo
+  - family: Ricciardi
+    given: 'E.'
+  - family: Thanos
+    given: Costantino
+  - family: Petacchi
+    given: C.
+  issued:
+  - year: '1980'
+  title: Data distribution criteria and query processing strategy in a small distributed
+    environment
+  container-title: DDB
+  page: '121-136'
+
+- id: conf/ddb/RollandR82
+  type: paper-conference
+  author:
+  - family: Rolland
+    given: Colette
+  - family: Richard
+    given: Christian
+  issued:
+  - year: '1982'
+  title: Transactions modeling in distributed environments
+  container-title: DDB
+  page: '197-216'
+
+- id: conf/ddb/Deen82
+  type: paper-conference
+  author:
+  - family: Deen
+    given: S. Misbah
+  issued:
+  - year: '1982'
+  title: Distributed databases - an introduction
+  container-title: DDB
+  page: '239-246'
+
+- id: conf/ddb/NeuholdW82
+  type: paper-conference
+  author:
+  - family: Neuhold
+    given: Erich J.
+  - family: Walter
+    given: Bernd
+  issued:
+  - year: '1982'
+  title: An overview of the architecture of the distributed data base system “pOREL”
+  container-title: DDB
+  page: '247-290'
+...

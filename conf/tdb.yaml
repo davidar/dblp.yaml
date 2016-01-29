@@ -1,0 +1,745 @@
+---
+references:
+- id: conf/tdb/MotakisZ95
+  type: paper-conference
+  author:
+  - family: Motakis
+    given: Iakovos
+  - family: Zaniolo
+    given: Carlo
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: 'Composite temporal events in active databases: A formal semantics'
+  title-short: Composite temporal events in active databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '332-351'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/BlankenI87
+  type: paper-conference
+  author:
+  - family: Blanken
+    given: Henk M.
+  - family: IJbema
+    given: Alle
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Language concepts for versioned hierarchical objects
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '187-201'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/CliffordCGT95
+  type: paper-conference
+  author:
+  - family: Clifford
+    given: James
+  - family: Croker
+    given: Albert
+  - family: Grandi
+    given: Fabio
+  - family: Tuzhilin
+    given: Alexander
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: On temporal grouping
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '194-213'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/SnodgrassCDS95
+  type: paper-conference
+  author:
+  - family: Snodgrass
+    given: Richard T.
+  - family: Clifford
+    given: James
+  - family: Dayal
+    given: Umeshwar
+  - family: Segev
+    given: Arie
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: 'Panel: Whither tSQL3?'
+  title-short: Panel
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '355'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/BrusoniCTP95
+  type: paper-conference
+  author:
+  - family: Brusoni
+    given: Vittorio
+  - family: Console
+    given: Luca
+  - family: Terenziani
+    given: Paolo
+  - family: Pernici
+    given: Barbara
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Extending temporal relational databases to deal with imprecise and qualitative
+    temporal information
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '3-22'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/OberweisL87
+  type: paper-conference
+  author:
+  - family: Oberweis
+    given: Andreas
+  - family: Lausen
+    given: Georg
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: On the representation of temporal knowledge in office systems
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '125-139'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/HjelsvoldMS95
+  type: paper-conference
+  author:
+  - family: Hjelsvold
+    given: Rune
+  - family: Midtstraum
+    given: Roger
+  - family: Sandstå
+    given: Olav
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: A temporal foundation of video databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '295-314'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/AdibaQ87
+  type: paper-conference
+  author:
+  - family: Adiba
+    given: Michel E.
+  - family: Quang
+    given: N. Bui
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Dynamic database snapshots, albums and movies
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '203-215'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/Wijsen95
+  type: paper-conference
+  author:
+  - family: Wijsen
+    given: Jef
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Design of temporal relational databases based on dynamic and temporal functional
+    dependencies
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '61-76'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/Ariav87
+  type: paper-conference
+  author:
+  - family: Ariav
+    given: Gad
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Design requirements for temporally oriented information systems
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '3-16'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/SchmidtDDM95
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Duri
+  - family: Dittrich
+    given: Angelika Kotz
+  - family: Dreyer
+    given: Werner
+  - family: Marti
+    given: Robert W.
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Time series, a neglected issue in temporal database research?
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '214-232'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/DaviesLHC95
+  type: paper-conference
+  author:
+  - family: Davies
+    given: Christina
+  - family: Lazell
+    given: Brian
+  - family: Hughes
+    given: Martin
+  - family: Cooper
+    given: Leslie
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Time is just another attribute - or at least, just another dimension
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '175-193'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/GarnickCS87
+  type: paper-conference
+  author:
+  - family: Garnick
+    given: David K.
+  - family: Cohen
+    given: A. Toni
+  - family: Sowizrai
+    given: H. A.
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Timestamping in virtual time systems
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '221-234'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/CliffordR87
+  type: paper-conference
+  author:
+  - family: Clifford
+    given: James
+  - family: Rao
+    given: A.
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: A simple, general structure for temporal domains
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '17-28'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/SegevS87
+  type: paper-conference
+  author:
+  - family: Segev
+    given: Arie
+  - family: Shoshani
+    given: Arie
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Modeling temporal semantics
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '47-57'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/CarmoS87
+  type: paper-conference
+  author:
+  - family: Carmo
+    given: José
+  - family: Sernadas
+    given: Amílcar
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: A temporal logic framework for a layered approach to systems specification
+    and verification
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '31-46'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/95
+  type: book
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Recent advances in temporal databases, proceedings of the international workshop
+    on temporal databases, zürich, switzerland, 17-18 september 1995
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/LorentzosJ87
+  type: paper-conference
+  author:
+  - family: Lorentzos
+    given: Nikos A.
+  - family: Johnson
+    given: Roger G.
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: 'TRA: A model for a temporal relational algebra'
+  title-short: TRA
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '95-108'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/HarrisG95
+  type: paper-conference
+  author:
+  - family: Harris
+    given: W.
+  - family: Gray
+    given: W. A.
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Using temporal constructs in temporal databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '133-152'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/CastroGS95
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Cristina De
+  - family: Grandi
+    given: Fabio
+  - family: Scalas
+    given: Maria Rita
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: On schema versioning in temporal databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '272-291'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/Koubarakis95
+  type: paper-conference
+  author:
+  - family: Koubarakis
+    given: Manolis
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: 'Databases and temporal constraints: Semantics and complexity'
+  title-short: Databases and temporal constraints
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '93-109'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/LeungP95
+  type: paper-conference
+  author:
+  - family: Leung
+    given: T. Y. Cliff
+  - family: Pirahesh
+    given: Hamid
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Querying historical data in iBM dB2 c/S dBMS using recursive sQL
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '315-331'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/NavatheA87
+  type: paper-conference
+  author:
+  - family: Navathe
+    given: Shamkant B.
+  - family: Ahmed
+    given: Rafi
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: 'TSQL: A language interface for history databases'
+  title-short: TSQL
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '109-122'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/CliffordJSBDS95
+  type: paper-conference
+  author:
+  - family: Clifford
+    given: James
+  - family: Jensen
+    given: Christian S.
+  - family: Snodgrass
+    given: Richard T.
+  - family: Böhlen
+    given: Michael H.
+  - family: Dewan
+    given: Hasan
+  - family: Schmidt
+    given: Duri
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: 'Panel: The state-of-the-art in temporal data management: Perspectives
+    from the research and financial applications communities'
+  title-short: Panel
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '356-357'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/GertzL95
+  type: paper-conference
+  author:
+  - family: Gertz
+    given: Michael
+  - family: Lipeck
+    given: Udo W.
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: “Temporal” integrity constraints in temporal databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '77-92'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/FiadeiroS87
+  type: paper-conference
+  author:
+  - family: Fiadeiro
+    given: José Luiz
+  - family: Sernadas
+    given: Amílcar
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Behavioural aspects of intelligent knowledge-based information systems
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '77-92'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/AndroutsopoulosRT95
+  type: paper-conference
+  author:
+  - family: Androutsopoulos
+    given: Ion
+  - family: Ritchie
+    given: Graeme D.
+  - family: Thanisch
+    given: Peter
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Experience using tSQL2 in a natural language interface
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '113-132'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/VassilakisLG95
+  type: paper-conference
+  author:
+  - family: Vassilakis
+    given: Costas
+  - family: Lorentzos
+    given: Nikos A.
+  - family: Georgiadis
+    given: Panagiotis
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Transaction support in a temporal dBMS
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '255-271'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/BohlenJS95
+  type: paper-conference
+  author:
+  - family: Böhlen
+    given: Michael H.
+  - family: Jensen
+    given: Christian S.
+  - family: Snodgrass
+    given: Richard T.
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Evaluating the completeness of tSQL2
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '153-172'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/SaakeL87
+  type: paper-conference
+  author:
+  - family: Saake
+    given: Gunter
+  - family: Lipeck
+    given: Udo W.
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Foundations of temporal integrity monitoring
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '235-249'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/PapeS87
+  type: paper-conference
+  author:
+  - family: Pape
+    given: Claude Le
+  - family: Smith
+    given: Stephen F.
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Management of temporal constraints for factory scheduling
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '159-170'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/ClaramuntT95
+  type: paper-conference
+  author:
+  - family: Claramunt
+    given: Christophe
+  - family: Thériault
+    given: Marius
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: 'Managing time in gIS: An event-oriented approach'
+  title-short: Managing time in gIS
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '23-42'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/DietzH87
+  type: paper-conference
+  author:
+  - family: Dietz
+    given: Jan L. G.
+  - family: Hee
+    given: Kees M.
+    dropping-particle: van
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: A framework for the conceptual modeling of discrete dynamic systems
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '61-75'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/87
+  type: book
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1988'
+  title: Temporal aspects in information systems, proceedings of the iFIP tC 8/WG
+    8.1 working conference on temporal aspects in information systems, sophia-antipolis,
+    france, 13-15 may, 1987
+  publisher: North-Holland / Elsevier
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/AbiteboulHB95
+  type: paper-conference
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Herr
+    given: Laurent
+  - family: Bussche
+    given: Jan Van
+    dropping-particle: den
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Temporal connectives versus explicit timestamps in temporal query languages
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '43-57'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/KumarTF95
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Anil
+  - family: Tsotras
+    given: Vassilis J.
+  - family: Faloutsos
+    given: Christos
+  editor:
+  - family: Clifford
+    given: James
+  issued:
+  - year: '1995'
+  title: Access methods for bi-temporal databases
+  container-title: Temporal databases
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '235-254'
+  ISBN: '3-540-19945-4'
+
+- id: conf/tdb/BarbicM87
+  type: paper-conference
+  author:
+  - family: Barbic
+    given: Federico
+  - family: Maiocchi
+    given: Roberto
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Planning in time
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '141-156'
+  ISBN: 0-444-70373-X
+
+- id: conf/tdb/Moens87
+  type: paper-conference
+  author:
+  - family: Moens
+    given: Marc
+  editor:
+  - family: Rolland
+    given: Colette
+  issued:
+  - year: '1987'
+  title: Temporal databases and natural language
+  container-title: Temporal aspects in information systems
+  publisher: North-Holland / Elsevier
+  page: '171-183'
+  ISBN: 0-444-70373-X
+...

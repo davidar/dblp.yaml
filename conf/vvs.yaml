@@ -1,0 +1,1936 @@
+---
+references:
+- id: conf/vvs/DanskinH92
+  type: paper-conference
+  author:
+  - family: Danskin
+    given: John M.
+  - family: Hanrahan
+    given: Pat
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Fast algorithms for volume ray tracing
+  container-title: VVS
+  publisher: ACM
+  page: '91-98'
+  URL: http://doi.acm.org/10.1145/147130.147155
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/Pfister04
+  type: paper-conference
+  author:
+  - family: Pfister
+    given: Hanspeter
+  issued:
+  - year: '2004'
+  title: Quo vadis, volVis?
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.9
+  DOI: 10.1109/SVVG.2004.9
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/Foley98
+  type: paper-conference
+  author:
+  - family: Foley
+    given: James D.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Volume visualization - a sleeping giant about to awaken
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '6'
+  URL: http://doi.acm.org/10.1145/288126.288135
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/MoraJC00
+  type: paper-conference
+  author:
+  - family: Mora
+    given: Benjamin
+  - family: Jessel
+    given: Jean-Pierre
+  - family: Caubet
+    given: René
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Accelerating volume rendering with quantized voxels
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '63-70'
+  URL: http://doi.acm.org/10.1145/353888.353900
+  DOI: 10.1109/VV.2000.10011
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/SobierajskiK95
+  type: paper-conference
+  author:
+  - family: Sobierajski
+    given: Lisa M.
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Volumetric ray tracing
+  container-title: VVS
+  publisher: ACM
+  page: '11-18'
+  URL: http://doi.acm.org/10.1145/197938.197949
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/PfisterKC95
+  type: paper-conference
+  author:
+  - family: Pfister
+    given: Hanspeter
+  - family: Kaufman
+    given: Arie E.
+  - family: Chiueh
+    given: Tzi-cker
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: 'Cube-3: A real-time architecture for high-resolution volume visualization'
+  title-short: Cube-3
+  container-title: VVS
+  publisher: ACM
+  page: '75-82'
+  URL: http://doi.acm.org/10.1145/197938.197969
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/LjungLYM04
+  type: paper-conference
+  author:
+  - family: Ljung
+    given: Patric
+  - family: Lundström
+    given: Claes
+  - family: Ynnerman
+    given: Anders
+  - family: Museth
+    given: Ken
+  issued:
+  - year: '2004'
+  title: Transfer function based adaptive decompression for volume rendering of large
+    medical data sets
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '25-32'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.14
+  DOI: 10.1109/SVVG.2004.14
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/BajajPS96
+  type: paper-conference
+  author:
+  - family: Bajaj
+    given: Chandrajit L.
+  - family: Pascucci
+    given: Valerio
+  - family: Schikore
+    given: Daniel
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Fast isocontouring for improved interactivity
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '39-46'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558041
+  DOI: 10.1109/SVV.1996.558041
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/1998
+  type: book
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Proceeding of the 1998 iEEE symposium on volume visualization, vVS 1998,
+    research triangle park, nC, uSA, october 19-20, 1998
+  publisher: ACM / IEEE Computer Society
+  URL: http://doi.acm.org/10.1145/288126
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/NonakaKSHWLOKK04
+  type: paper-conference
+  author:
+  - family: Nonaka
+    given: Jorji
+  - family: Kukimoto
+    given: Nobuyuki
+  - family: Sakamoto
+    given: Naohisa
+  - family: Hazama
+    given: Hiroshi
+  - family: Watashiba
+    given: Yasuhiro
+  - family: Liu
+    given: Xuezhen
+  - family: Ogata
+    given: Masato
+  - family: Kanazawa
+    given: Masanori
+  - family: Koyamada
+    given: Koji
+  issued:
+  - year: '2004'
+  title: Hybrid hardware-accelerated image composition for sort-last parallel rendering
+    on graphics clusters with commodity image compositor
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '17-24'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.4
+  DOI: 10.1109/SVVG.2004.4
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/CrawfisM92
+  type: paper-conference
+  author:
+  - family: Crawfis
+    given: Roger
+  - family: Max
+    given: Nelson L.
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Direct volume visualization of three-dimensional vector fields
+  container-title: VVS
+  publisher: ACM
+  page: '55-60'
+  URL: http://doi.acm.org/10.1145/147130.147150
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/HuangYFK98
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Jian
+  - family: Yagel
+    given: Roni
+  - family: Filippov
+    given: Vassily
+  - family: Kurzion
+    given: Yair
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: An accurate method for voxelizing polygon meshes
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '119-126'
+  URL: http://doi.acm.org/10.1145/288126.288181
+  DOI: 10.1109/SVV.1998.729593
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/VandermeulenPRSM92
+  type: paper-conference
+  author:
+  - family: Vandermeulen
+    given: Dirk
+  - family: Plets
+    given: Peter
+  - family: Ramkers
+    given: Steven
+  - family: Suetens
+    given: Paul
+  - family: Marchal
+    given: Guy
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Integrated visualization of brain anatomy and cerebral blood vessels
+  container-title: VVS
+  publisher: ACM
+  page: '39-46'
+  URL: http://doi.acm.org/10.1145/147130.147146
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/IslamDSC04
+  type: paper-conference
+  author:
+  - family: Islam
+    given: Shoukat
+  - family: Dipankar
+    given: Swapnil
+  - family: Silver
+    given: Deborah
+  - family: Chen
+    given: Min
+  issued:
+  - year: '2004'
+  title: Spatial and temporal splitting of scalar fields in volume graphics
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '87-94'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.11
+  DOI: 10.1109/SVVG.2004.11
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/WilliamsM92
+  type: paper-conference
+  author:
+  - family: Williams
+    given: Peter L.
+  - family: Max
+    given: Nelson L.
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: A volume density optical model
+  container-title: VVS
+  publisher: ACM
+  page: '61-68'
+  URL: http://doi.acm.org/10.1145/147130.147151
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/WittenbrinkMG98
+  type: paper-conference
+  author:
+  - family: Wittenbrink
+    given: Craig M.
+  - family: Malzbender
+    given: Thomas
+  - family: Goss
+    given: Michael E.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Opacity-weighted color interpolation, for volume sampling
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '135-142'
+  URL: http://doi.acm.org/10.1145/288126.288186
+  DOI: 10.1109/SVV.1998.729595
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/KindlmannD98
+  type: paper-conference
+  author:
+  - family: Kindlmann
+    given: Gordon L.
+  - family: Durkin
+    given: James W.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Semi-automatic generation of transfer functions for direct volume rendering
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '79-86'
+  URL: http://doi.acm.org/10.1145/288126.288167
+  DOI: 10.1109/SVV.1998.729588
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/SramekK98
+  type: paper-conference
+  author:
+  - family: Srámek
+    given: Milos
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Object voxeliztion by filtering
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '111-118'
+  URL: http://doi.acm.org/10.1145/288126.288178
+  DOI: 10.1109/SVV.1998.729592
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/MollerMKMY98
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Torsten
+  - family: Mueller
+    given: Klaus
+  - family: Kurzion
+    given: Yair
+  - family: Machiraju
+    given: Raghu
+  - family: Yagel
+    given: Roni
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Design of accurate and smooth filters for function and derivative reconstruction
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '143-151'
+  URL: http://doi.acm.org/10.1145/288126.288189
+  DOI: 10.1109/SVV.1998.729596
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/FangL00
+  type: paper-conference
+  author:
+  - family: Fang
+    given: Shiaofen
+  - family: Liao
+    given: Duoduo
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Fast cSG voxelization by frame buffer pixel mapping
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '43-48'
+  URL: http://doi.acm.org/10.1145/353888.353896
+  DOI: 10.1109/VV.2000.10005
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/Volz00
+  type: paper-conference
+  author:
+  - family: Volz
+    given: William R.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Gigabyte volume viewing using split software/hardware interpolation
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '15-22'
+  URL: http://doi.acm.org/10.1145/353888.353891
+  DOI: 10.1109/VV.2000.10003
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/MaRV96
+  type: paper-conference
+  author:
+  - family: Ma
+    given: Kwan-Liu
+  - family: Rosendale
+    given: John Van
+  - family: Vermeer
+    given: Willem
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: 3D shock wave visualization on unstructured grids
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '87-'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558049
+  DOI: 10.1109/SVV.1996.558049
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/WilhelmsG95
+  type: paper-conference
+  author:
+  - family: Wilhelms
+    given: Jane
+  - family: Gelder
+    given: Allen Van
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Multi-dimensional trees for controlled volume rendering and compression
+  container-title: VVS
+  publisher: ACM
+  page: '27-34'
+  URL: http://doi.acm.org/10.1145/197938.197956
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/StanderH95
+  type: paper-conference
+  author:
+  - family: Stander
+    given: Barton T.
+  - family: Hart
+    given: John C.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: A lipschitz method for accelerated volume rendering
+  container-title: VVS
+  publisher: ACM
+  page: '107-114'
+  URL: http://doi.acm.org/10.1145/197938.197976
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/ShiboletC98
+  type: paper-conference
+  author:
+  - family: Shibolet
+    given: Omer
+  - family: Cohen-Or
+    given: Daniel
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Coloring voxel-based objects for virtual endoscopy
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '15-22'
+  URL: http://doi.acm.org/10.1145/288126.288140
+  DOI: 10.1109/SVV.1998.729580
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/WeilerWHZE00
+  type: paper-conference
+  author:
+  - family: Weiler
+    given: Manfred
+  - family: Westermann
+    given: Rüdiger
+  - family: Hansen
+    given: Charles D.
+  - family: Zimmerman
+    given: Kurt
+  - family: Ertl
+    given: Thomas
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Level-of-detail volume rendering via 3D textures
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '7-13'
+  URL: http://doi.acm.org/10.1145/353888.353889
+  DOI: 10.1109/VV.2000.10010
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/NingH92
+  type: paper-conference
+  author:
+  - family: Ning
+    given: Paul
+  - family: Hesselink
+    given: Lambertus
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Vector quantization for volume rendering
+  container-title: VVS
+  publisher: ACM
+  page: '69-74'
+  URL: http://doi.acm.org/10.1145/147130.147152
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/KanedaDYY96
+  type: paper-conference
+  author:
+  - family: Kaneda
+    given: Kazufumi
+  - family: Dobashi
+    given: Yoshinori
+  - family: Yamamoto
+    given: Kazunori
+  - family: Yamashita
+    given: Hideo
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Fast volume rendering with adjustable color maps
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '7-14'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558037
+  DOI: 10.1109/SVV.1996.558037
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/CabralCF95
+  type: paper-conference
+  author:
+  - family: Cabral
+    given: Brian
+  - family: Cam
+    given: Nancy
+  - family: Foran
+    given: Jim
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Accelerated volume rendering and tomographic reconstruction using texture
+    mapping hardware
+  container-title: VVS
+  publisher: ACM
+  page: '91-98'
+  URL: http://doi.acm.org/10.1145/197938.197972
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/Whitaker00
+  type: paper-conference
+  author:
+  - family: Whitaker
+    given: Ross T.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Reducing aliasing artifacts in iso-surfaces of binary volumes
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/353888.353893
+  DOI: 10.1109/VV.2000.10004
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/YenNR96
+  type: paper-conference
+  author:
+  - family: Yen
+    given: Shin Yi
+  - family: Napel
+    given: Sandy
+  - family: Rubin
+    given: Geoffrey D.
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Fast sliding thin slab volume visualization
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '79-86'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558048
+  DOI: 10.1109/SVV.1996.558048
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/WeigleB98
+  type: paper-conference
+  author:
+  - family: Weigle
+    given: Chris
+  - family: Banks
+    given: David C.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Extracting iSO-valued features in 4-dimensional scalar fields
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '103-110'
+  URL: http://doi.acm.org/10.1145/288126.288175
+  DOI: 10.1109/SVV.1998.729591
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/AnagnostouAW00
+  type: paper-conference
+  author:
+  - family: Anagnostou
+    given: Kostas
+  - family: Atherton
+    given: Tim J.
+  - family: Waterfall
+    given: Andrew E.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: 4D volume rendering with the shear warp factorisation
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '129-137'
+  URL: http://doi.acm.org/10.1145/353888.353909
+  DOI: 10.1109/VV.2000.10007
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/ZuiderveldV95
+  type: paper-conference
+  author:
+  - family: Zuiderveld
+    given: Karel J.
+  - family: Viergever
+    given: Max A.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Multi-modal volume visualization using object-oriented methods
+  container-title: VVS
+  publisher: ACM
+  page: '59-66'
+  URL: http://doi.acm.org/10.1145/197938.197966
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/QuZSKM04
+  type: paper-conference
+  author:
+  - family: Qu
+    given: Huamin
+  - family: '0011'
+    given: Nan Zhang
+  - family: Shao
+    given: Ran
+  - family: Kaufman
+    given: Arie E.
+  - family: Mueller
+    given: Klaus
+  issued:
+  - year: '2004'
+  title: Feature preserving distance fields
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '39-46'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.3
+  DOI: 10.1109/SVVG.2004.3
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/AdelsonH95
+  type: paper-conference
+  author:
+  - family: Adelson
+    given: Stephen J.
+  - family: Hansen
+    given: Charles D.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Fast stereoscopic images with ray-traced volume rendering
+  container-title: VVS
+  publisher: ACM
+  page: '3-9'
+  URL: http://doi.acm.org/10.1145/197938.197945
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/GrimmBKG04
+  type: paper-conference
+  author:
+  - family: Grimm
+    given: Sören
+  - family: Bruckner
+    given: Stefan
+  - family: Kanitsar
+    given: Armin
+  - family: Gröller
+    given: Eduard
+  issued:
+  - year: '2004'
+  title: Memory efficient acceleration structures and techniques for cPU-based volume
+    raycasting of large data
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '1-8'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.8
+  DOI: 10.1109/SVVG.2004.8
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/ReedYLSS96
+  type: paper-conference
+  author:
+  - family: Reed
+    given: David M.
+  - family: Yagel
+    given: Roni
+  - family: Law
+    given: Asish
+  - family: Shin
+    given: Po-Wen
+  - family: Shareef
+    given: Naeem
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Hardware assisted volume rendering of unstructured grids by incremental slicing
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '55-62'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558043
+  DOI: 10.1109/SVV.1996.558043
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/CignoniMPS96
+  type: paper-conference
+  author:
+  - family: Cignoni
+    given: Paolo
+  - family: Montani
+    given: Claudio
+  - family: Puppo
+    given: Enrico
+  - family: Scopigno
+    given: Roberto
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Optimal isosurface extraction from irregular volume data
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '31-38'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558040
+  DOI: 10.1109/SVV.1996.558040
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/MaWTTXT98
+  type: paper-conference
+  author:
+  - family: Ma
+    given: Feng
+  - family: Wang
+    given: Wenping
+  - family: Tsang
+    given: Wai Wan
+  - family: Tang
+    given: Zesheng
+  - family: Xia
+    given: Shaowei
+  - family: Tong
+    given: Xin
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Probabilistic segmentation of volume data for visualization using sOM-pNN
+    classifier
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '71-78'
+  URL: http://doi.acm.org/10.1145/288126.288162
+  DOI: 10.1109/SVV.1998.729587
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/1994
+  type: book
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Proceedings of the 1994 symposium on volume visualization, vVS 1994, washington,
+    dC, uSA, october 17-18, 1994
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=197938
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/PascucciB00
+  type: paper-conference
+  author:
+  - family: Pascucci
+    given: Valerio
+  - family: Bajaj
+    given: Chandrajit L.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Time critical isosurface refinement and smoothing
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/353888.353894
+  DOI: 10.1109/VV.2000.10013
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/Csebfalvi04
+  type: paper-conference
+  author:
+  - family: Csébfalvi
+    given: Balázs
+  issued:
+  - year: '2004'
+  title: Interactive transfer function control for monte carlo volume rendering
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '33-38'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.6
+  DOI: 10.1109/SVVG.2004.6
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/BreenMW98
+  type: paper-conference
+  author:
+  - family: Breen
+    given: David E.
+  - family: Mauch
+    given: Sean
+  - family: Whitaker
+    given: Ross T.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: 3D scan conversion of cSG models into distance volumes
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '7-14'
+  URL: http://doi.acm.org/10.1145/288126.288137
+  DOI: 10.1109/SVV.1998.729579
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/MorelandA04
+  type: paper-conference
+  author:
+  - family: Moreland
+    given: Kenneth
+  - family: Angel
+    given: Edward
+  issued:
+  - year: '2004'
+  title: A fast high accuracy volume renderer for unstructured data
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '9-16'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.2
+  DOI: 10.1109/SVVG.2004.2
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/OgataOLP98
+  type: paper-conference
+  author:
+  - family: Ogata
+    given: Masato
+  - family: Ohkami
+    given: TakaHide
+  - family: Lauer
+    given: Hugh C.
+  - family: Pfister
+    given: Hanspeter
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: A real-time volume rendering architecture using an adaptive resampling scheme
+    for parallel and perspective projections
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '31-38'
+  URL: http://doi.acm.org/10.1145/288126.288146
+  DOI: 10.1109/SVV.1998.729582
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/KreegerBDCK98
+  type: paper-conference
+  author:
+  - family: Kreeger
+    given: Kevin
+  - family: Bitter
+    given: Ingmar
+  - family: Dachille
+    given: Frank
+  - family: Chen
+    given: Baoquan
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Adaptive perspective ray casting
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/288126.288154
+  DOI: 10.1109/SVV.1998.729585
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/GelderK96
+  type: paper-conference
+  author:
+  - family: Gelder
+    given: Allen Van
+  - family: Kim
+    given: Kwansik
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Direct volume rendering with shading via three-dimensional textures
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '23-30'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558039
+  DOI: 10.1109/SVV.1996.558039
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/EllsworthCS00
+  type: paper-conference
+  author:
+  - family: Ellsworth
+    given: David
+  - family: Chiang
+    given: Ling-Jen
+  - family: Shen
+    given: Han-Wei
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Accelerating time-varying hardware volume rendering using tSP trees and color-based
+    error metrics
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '119-128'
+  URL: http://doi.acm.org/10.1145/353888.353908
+  DOI: 10.1109/VV.2000.10000
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/Westermann95
+  type: paper-conference
+  author:
+  - family: Westermann
+    given: Rüdiger
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: A multiresolution framework for volume rendering
+  container-title: VVS
+  publisher: ACM
+  page: '51-58'
+  URL: http://doi.acm.org/10.1145/197938.197963
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/MeissnerHBMC00
+  type: paper-conference
+  author:
+  - family: Meißner
+    given: Michael
+  - family: Huang
+    given: Jian
+  - family: Bartz
+    given: Dirk
+  - family: Mueller
+    given: Klaus
+  - family: Crawfis
+    given: Roger
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: A practical evaluation of popular volume rendering algorithms
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/353888.353903
+  DOI: 10.1109/VV.2000.10009
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/HelgelandAORWG04
+  type: paper-conference
+  author:
+  - family: Helgeland
+    given: Anders
+  - family: Andreassen
+    given: Øyvind
+  - family: Ommundsen
+    given: Atle
+  - family: Reif
+    given: Bjørn Anders Pettersson
+  - family: Werne
+    given: Joe
+  - family: Gaarder
+    given: Trond
+  issued:
+  - year: '2004'
+  title: Visualization of the energy-containing turbulent scales
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '103-109'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.15
+  DOI: 10.1109/SVVG.2004.15
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/WeilerMKE04
+  type: paper-conference
+  author:
+  - family: Weiler
+    given: Manfred
+  - family: Mallón
+    given: Paula N.
+  - family: Kraus
+    given: Martin
+  - family: Ertl
+    given: Thomas
+  issued:
+  - year: '2004'
+  title: Texture-encoded tetrahedral strips
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '71-78'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.13
+  DOI: 10.1109/SVVG.2004.13
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/ZhangQHK04
+  type: paper-conference
+  author:
+  - family: '0011'
+    given: Nan Zhang
+  - family: Qu
+    given: Huamin
+  - family: Hong
+    given: Wei
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '2004'
+  title: 'SHIC: A view-dependent rendering framework for isosurfaces'
+  title-short: SHIC
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '63-70'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.10
+  DOI: 10.1109/SVVG.2004.10
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/MontaniPS92
+  type: paper-conference
+  author:
+  - family: Montani
+    given: Claudio
+  - family: Perego
+    given: Raffaele
+  - family: Scopigno
+    given: Roberto
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Parallel volume visualization on a hypercube architecture
+  container-title: VVS
+  publisher: ACM
+  page: '9-16'
+  URL: http://doi.acm.org/10.1145/147130.147139
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/Gibson98
+  type: paper-conference
+  author:
+  - family: Gibson
+    given: Sarah F. Frisken
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Using distance maps for accurate surface representation in sampled volumes
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '23-30'
+  URL: http://doi.acm.org/10.1145/288126.288142
+  DOI: 10.1109/SVV.1998.729581
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/NovinsA92
+  type: paper-conference
+  author:
+  - family: Novins
+    given: Kevin
+  - family: Arvo
+    given: James
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Controlled precision volume integration
+  container-title: VVS
+  publisher: ACM
+  page: '83-89'
+  URL: http://doi.acm.org/10.1145/147130.147154
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/SilvaMK96
+  type: paper-conference
+  author:
+  - family: Silva
+    given: Cláudio T.
+  - family: Mitchell
+    given: Joseph S. B.
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Fast rendering of irregular grids
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '15-22'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558038
+  DOI: 10.1109/SVV.1996.558038
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/BajajPRS98
+  type: paper-conference
+  author:
+  - family: Bajaj
+    given: Chandrajit L.
+  - family: Pascucci
+    given: Valerio
+  - family: Rabbiolo
+    given: G.
+  - family: Schikorc
+    given: D.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: 'Hypervolume visualization: A challenge in simplicity'
+  title-short: Hypervolume visualization
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '95-102'
+  URL: http://doi.acm.org/10.1145/288126.288173
+  DOI: 10.1109/SVV.1998.729590
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/GelderW92
+  type: paper-conference
+  author:
+  - family: Gelder
+    given: Allen Van
+  - family: Wilhelms
+    given: Jane
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Interactive visualization of flow fields
+  container-title: VVS
+  publisher: ACM
+  page: '47-54'
+  URL: http://doi.acm.org/10.1145/147130.147149
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/BehrensR98
+  type: paper-conference
+  author:
+  - family: Behrens
+    given: Uwe
+  - family: Ratering
+    given: Ralf
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Adding shadows to a texture-based volume renderer
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '39-46'
+  URL: http://doi.acm.org/10.1145/288126.288149
+  DOI: 10.1109/SVV.1998.729583
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/GagvaniKS98
+  type: paper-conference
+  author:
+  - family: Gagvani
+    given: Nikhil
+  - family: Kenchammana-Hosekote
+    given: Deepak R.
+  - family: Silver
+    given: Deborah
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Volume animation using the skeleton tree
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '47-53'
+  URL: http://doi.acm.org/10.1145/288126.288152
+  DOI: 10.1109/SVV.1998.729584
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/2000
+  type: book
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Proceeding of the 2000 volume visualization and graphics symposium, vVS 2000,
+    salt lake city, utah, uSA, october 9-10, 2000
+  publisher: ACM / IEEE Computer Society
+  URL: http://doi.acm.org/10.1145/353888
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/Saito95
+  type: paper-conference
+  author:
+  - family: Saito
+    given: Takafumi
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Real-time previewing for volume visualization
+  container-title: VVS
+  publisher: ACM
+  page: '99-106'
+  URL: http://doi.acm.org/10.1145/197938.197974
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/GagvaniS00
+  type: paper-conference
+  author:
+  - family: Gagvani
+    given: Nikhil
+  - family: Silver
+    given: Deborah
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Shape-based volumetric collision detection
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '57-61'
+  URL: http://doi.acm.org/10.1145/353888.353899
+  DOI: 10.1109/VV.2000.10008
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/VezinaFR92
+  type: paper-conference
+  author:
+  - family: Vézina
+    given: Guy
+  - family: Fletcher
+    given: Peter A.
+  - family: Robertson
+    given: Philip K.
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Volume rendering on the masPar mP-1
+  container-title: VVS
+  publisher: ACM
+  page: '3-8'
+  URL: http://doi.acm.org/10.1145/147130.147138
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/EdelsbrunnerM92
+  type: paper-conference
+  author:
+  - family: Edelsbrunner
+    given: Herbert
+  - family: Mücke
+    given: Ernst P.
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Three-dimensional alpha shapes
+  container-title: VVS
+  publisher: ACM
+  page: '75-82'
+  URL: http://doi.acm.org/10.1145/147130.147153
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/KnittelS95
+  type: paper-conference
+  author:
+  - family: Knittel
+    given: Günter
+  - family: Straßer
+    given: Wolfgang
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: A compact volume rendering accelerator
+  container-title: VVS
+  publisher: ACM
+  page: '67-74'
+  URL: http://doi.acm.org/10.1145/197938.197968
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/SinghS04
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Vikas
+  - family: Silver
+    given: Deborah
+  issued:
+  - year: '2004'
+  title: Interactive volume manipulation with selective rendering for improved visualization
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '95-102'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.7
+  DOI: 10.1109/SVVG.2004.7
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/Muraki95
+  type: paper-conference
+  author:
+  - family: Muraki
+    given: Shigeru
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Multiscale 3D edge representation of volume data by a dOG wavelet
+  container-title: VVS
+  publisher: ACM
+  page: '35-42'
+  URL: http://doi.acm.org/10.1145/197938.197959
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/NiehL92
+  type: paper-conference
+  author:
+  - family: Nieh
+    given: Jason
+  - family: Levoy
+    given: Marc
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Volume rendering on scalable shared-memory mIMD architectures
+  container-title: VVS
+  publisher: ACM
+  page: '17-24'
+  URL: http://doi.acm.org/10.1145/147130.147141
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/HuangCS98
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Jian
+  - family: Crawfis
+    given: Roger
+  - family: Stredney
+    given: Don
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Edge preservation in volume rendering using splatting
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '63-69'
+  URL: http://doi.acm.org/10.1145/288126.288158
+  DOI: 10.1109/SVV.1998.729586
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/SchroderS92
+  type: paper-conference
+  author:
+  - family: Schröder
+    given: Peter
+  - family: Stoll
+    given: Gordon
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Data parallel volume rendering as line drawing
+  container-title: VVS
+  publisher: ACM
+  page: '25-32'
+  URL: http://doi.acm.org/10.1145/147130.147142
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/Knittel00
+  type: paper-conference
+  author:
+  - family: Knittel
+    given: Günter
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: The uLTRAVIS system
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '71-79'
+  URL: http://doi.acm.org/10.1145/353888.353901
+  DOI: 10.1109/VV.2000.10014
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/FowlerY95
+  type: paper-conference
+  author:
+  - family: Fowler
+    given: James E.
+  - family: Yagel
+    given: Roni
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Lossless compression of volume data
+  container-title: VVS
+  publisher: ACM
+  page: '43-50'
+  URL: http://doi.acm.org/10.1145/197938.197961
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/StredneyYMT92
+  type: paper-conference
+  author:
+  - family: Stredney
+    given: Don
+  - family: Yagel
+    given: Roni
+  - family: May
+    given: Stephen F.
+  - family: Torello
+    given: Michael
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Supercomputer assisted brain visualization with an extended ray tracer
+  container-title: VVS
+  publisher: ACM
+  page: '33-38'
+  URL: http://doi.acm.org/10.1145/147130.147144
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/SilvaMW98
+  type: paper-conference
+  author:
+  - family: Silva
+    given: Cláudio T.
+  - family: Mitchell
+    given: Joseph S. B.
+  - family: Williams
+    given: Peter L.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: An exact interactive time visibility ordering algorithm for polyhedral cell
+    complexes
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '87-94'
+  URL: http://doi.acm.org/10.1145/288126.288170
+  DOI: 10.1109/SVV.1998.729589
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/SanchezC98
+  type: paper-conference
+  author:
+  - family: Sánchez
+    given: Ricardo
+  - family: Carvajal
+    given: Marcelo
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1998'
+  title: Wavelet based adaptive interpolation for volume rendering
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '127-134'
+  URL: http://doi.acm.org/10.1145/288126.288183
+  DOI: 10.1109/SVV.1998.729594
+  ISBN: '1-58113-105-4'
+
+- id: conf/vvs/ArvoN95
+  type: paper-conference
+  author:
+  - family: Arvo
+    given: James
+  - family: Novins
+    given: Kevin
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Iso-contour volume rendering
+  container-title: VVS
+  publisher: ACM
+  page: '115-122'
+  URL: http://doi.acm.org/10.1145/197938.197977
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/Nadeau00
+  type: paper-conference
+  author:
+  - family: Nadeau
+    given: David R.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Volume scene graphs
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '49-56'
+  URL: http://doi.acm.org/10.1145/353888.353898
+  DOI: 10.1109/VV.2000.10006
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/ShenJM96
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Han-Wei
+  - family: Johnson
+    given: Christopher R.
+  - family: Ma
+    given: Kwan-Liu
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Visualizing vector fields using line integral convolution and dye advection
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '63-70'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558044
+  DOI: 10.1109/SVV.1996.558044
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/TheusslHG00
+  type: paper-conference
+  author:
+  - family: Theußl
+    given: Thomas
+  - family: Hauser
+    given: Helwig
+  - family: Gröller
+    given: Eduard
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: 'Mastering windows: Improving reconstruction'
+  title-short: Mastering windows
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '101-108'
+  URL: http://doi.acm.org/10.1145/353888.353906
+  DOI: 10.1109/VV.2000.10002
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/DachilleMK00
+  type: paper-conference
+  author:
+  - family: Dachille
+    given: Frank
+  - family: Mueller
+    given: Klaus
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: Volumetric backprojection
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '109-117'
+  URL: http://doi.acm.org/10.1145/353888.353907
+  DOI: 10.1109/VV.2000.10012
+  ISBN: '1-58113-308-1'
+
+- id: conf/vvs/MarchesinDM04
+  type: paper-conference
+  author:
+  - family: Marchesin
+    given: Stéphane
+  - family: Dischler
+    given: Jean-Michel
+  - family: Mongenet
+    given: Catherine
+  issued:
+  - year: '2004'
+  title: 3D rOAM for scalable volume visualization
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '79-86'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.1
+  DOI: 10.1109/SVVG.2004.1
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/BhaniramkaZXCW04
+  type: paper-conference
+  author:
+  - family: Bhaniramka
+    given: Praveen
+  - family: Zhang
+    given: Caixia
+  - family: Xue
+    given: Daqing
+  - family: Crawfis
+    given: Roger
+  - family: Wenger
+    given: Rephael
+  issued:
+  - year: '2004'
+  title: Volume interval segmentation and rendering
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '55-62'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.16
+  DOI: 10.1109/SVVG.2004.16
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/1992
+  type: book
+  editor:
+  - family: Gelberg
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Proceedings of the 1992 workshop on volume visualization, vVS 1992, boston,
+    mA, uSA, october 19-20, 1992
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=147130
+  ISBN: '0-89791-527-5'
+
+- id: conf/vvs/1996
+  type: book
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Proceeding of the 1996 symposium on volume visualization, vVS 1996, san francisco,
+    california, uSA, october 28-29, 1996
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4135
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/2004
+  type: book
+  issued:
+  - year: '2004'
+  title: 2004 iEEE symposium on volume visualization and graphics, volVis 2004, austin,
+    tX, uSA, october 10-12, 2004
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9461
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/SteinBM95
+  type: paper-conference
+  author:
+  - family: Stein
+    given: Clifford M.
+  - family: Becker
+    given: Barry G.
+  - family: Max
+    given: Nelson L.
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Sorting and hardware assisted rendering for volume visualization
+  container-title: VVS
+  publisher: ACM
+  page: '83-89'
+  URL: http://doi.acm.org/10.1145/197938.197971
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/MollerMMY96
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Torsten
+  - family: Machiraju
+    given: Raghu
+  - family: Mueller
+    given: Klaus
+  - family: Yagel
+    given: Roni
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Classification and local error estimation of interpolation and derivative
+    filters for volume rendering
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '71-78'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558045
+  DOI: 10.1109/SVV.1996.558045
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/CignoniFMPS95
+  type: paper-conference
+  author:
+  - family: Cignoni
+    given: Paolo
+  - family: Floriani
+    given: Leila De
+  - family: Montani
+    given: Claudio
+  - family: Puppo
+    given: Enrico
+  - family: Scopigno
+    given: Roberto
+  editor:
+  - family: Kaufman
+    given: Arie E.
+  issued:
+  - year: '1995'
+  title: Multiresolution modeling and visualization of volume data based on simplicial
+    complexes
+  container-title: VVS
+  publisher: ACM
+  page: '19-26'
+  URL: http://doi.acm.org/10.1145/197938.197952
+  ISBN: '0-89791-741-3'
+
+- id: conf/vvs/PescoLPS04
+  type: paper-conference
+  author:
+  - family: Pesco
+    given: Sinésio
+  - family: Lindstrom
+    given: Peter
+  - family: Pascucci
+    given: Valerio
+  - family: Silva
+    given: Cláudio T.
+  issued:
+  - year: '2004'
+  title: Implicit occluders
+  container-title: VolVis
+  publisher: IEEE Computer Society
+  page: '47-54'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVVG.2004.5
+  DOI: 10.1109/SVVG.2004.5
+  ISBN: '0-7803-8781-3'
+
+- id: conf/vvs/PfisterK96
+  type: paper-conference
+  author:
+  - family: Pfister
+    given: Hanspeter
+  - family: Kaufman
+    given: Arie E.
+  editor:
+  - family: Crawfis
+    given: Roger
+  issued:
+  - year: '1996'
+  title: Cube-4 - a scalable architecture for real-time volume rendering
+  container-title: VVS
+  publisher: IEEE Computer Society
+  page: '47-54'
+  URL: http://doi.ieeecomputersociety.org/10.1109/SVV.1996.558042
+  DOI: 10.1109/SVV.1996.558042
+  ISBN: '0-7803-3708-5'
+
+- id: conf/vvs/FariasMS00
+  type: paper-conference
+  author:
+  - family: Farias
+    given: Ricardo C.
+  - family: Mitchell
+    given: Joseph S. B.
+  - family: Silva
+    given: Cláudio T.
+  editor:
+  - family: Lorensen
+    given: William E.
+  issued:
+  - year: '2000'
+  title: 'ZSWEEP: An efficient and exact projection algorithm for unstructured volume
+    rendering'
+  title-short: ZSWEEP
+  container-title: VVS
+  publisher: ACM / IEEE Computer Society
+  page: '91-99'
+  URL: http://doi.acm.org/10.1145/353888.353905
+  DOI: 10.1109/VV.2000.10001
+  ISBN: '1-58113-308-1'
+...

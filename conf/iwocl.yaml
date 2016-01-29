@@ -1,0 +1,786 @@
+---
+references:
+- id: conf/iwocl/VanderbruggenC14
+  type: paper-conference
+  author:
+  - family: Vanderbruggen
+    given: Tristan
+  - family: Cavazos
+    given: John
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: Generating openCL c kernels from openACC
+  container-title: IWOCL
+  publisher: ACM
+  page: 9:1-9:10
+  URL: http://doi.acm.org/10.1145/2664666.2664675
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/Martinez-Vallina15a
+  type: paper-conference
+  author:
+  - family: Martinez-Vallina
+    given: Fernando
+  - family: Varma
+    given: Devadas
+  - family: Singh
+    given: Vinay
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Developing optimized libraries for scalable openCL acceleration on fPGAs
+  container-title: IWOCL
+  publisher: ACM
+  page: 23:1-23:95
+  URL: http://doi.acm.org/10.1145/2791321.2791344
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/PriceM15
+  type: paper-conference
+  author:
+  - family: Price
+    given: James
+  - family: McIntosh-Smith
+    given: Simon
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Oclgrind: An extensible openCL device simulator'
+  title-short: Oclgrind
+  container-title: IWOCL
+  publisher: ACM
+  page: 12:1-12:7
+  URL: http://doi.acm.org/10.1145/2791321.2791333
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/Baratault15
+  type: paper-conference
+  author:
+  - family: Baratault
+    given: J. C.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: The rise of open programming frameworks
+  container-title: IWOCL
+  publisher: ACM
+  page: 14:1-14:22
+  URL: http://doi.acm.org/10.1145/2791321.2791335
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/BottlesonKABMSJ15
+  type: paper-conference
+  author:
+  - family: Bottleson
+    given: Jeremy
+  - family: Kim
+    given: SungYe
+  - family: Andrews
+    given: Jeff
+  - family: Bindu
+    given: Preeti
+  - family: Murthy
+    given: Deepak N.
+  - family: Spisak
+    given: Joseph S.
+  - family: Jin
+    given: Jingyi
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: OpenCL accelerated deep learning for visual understanding
+  container-title: IWOCL
+  publisher: ACM
+  page: 21:1
+  URL: http://doi.acm.org/10.1145/2791321.2791342
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/MukherjeeGYMUDP15
+  type: paper-conference
+  author:
+  - family: Mukherjee
+    given: Saoni
+  - family: Gong
+    given: Xiang
+  - family: Yu
+    given: Leiming
+  - family: McCardwell
+    given: Carter
+  - family: Ukidave
+    given: Yash
+  - family: Dao
+    given: Tuan
+  - family: Paravecino
+    given: Fanny Nina
+  - family: Kaeli
+    given: David R.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Exploring the features of openCL 2.0
+  container-title: IWOCL
+  publisher: ACM
+  page: 5:1-5:5
+  URL: http://doi.acm.org/10.1145/2791321.2791326
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/AshbaughLR15
+  type: paper-conference
+  author:
+  - family: Ashbaugh
+    given: Ben
+  - family: Lake
+    given: Adam
+  - family: Rovatsou
+    given: Maria
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Khronos™ group
+  container-title: IWOCL
+  publisher: ACM
+  page: 16:1-16:23
+  URL: http://doi.acm.org/10.1145/2791321.2791337
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/Ashbaugh15
+  type: paper-conference
+  author:
+  - family: Ashbaugh
+    given: Ben
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Accelerating sGEMM with subgroups
+  container-title: IWOCL
+  publisher: ACM
+  page: 18:1
+  URL: http://doi.acm.org/10.1145/2791321.2791339
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/Gaster15
+  type: paper-conference
+  author:
+  - family: Gaster
+    given: Benedict R.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: A look at the openCL 2.0 execution model
+  container-title: IWOCL
+  publisher: ACM
+  page: 2:1
+  URL: http://doi.acm.org/10.1145/2791321.2791323
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/NduNL15
+  type: paper-conference
+  author:
+  - family: Ndu
+    given: Geoffrey
+  - family: Navaridas
+    given: Javier
+  - family: Luján
+    given: Mikel
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'CHO: Towards a benchmark suite for openCL fPGA accelerators'
+  title-short: CHO
+  container-title: IWOCL
+  publisher: ACM
+  page: 10:1-10:10
+  URL: http://doi.acm.org/10.1145/2791321.2791331
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/CaoDDGLT14
+  type: paper-conference
+  author:
+  - family: Cao
+    given: Chongxiao
+  - family: Dongarra
+    given: Jack J.
+  - family: Du
+    given: Peng
+  - family: Gates
+    given: Mark
+  - family: Luszczek
+    given: Piotr
+  - family: Tomov
+    given: Stanimire
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: 'ClMAGMA: High performance dense linear algebra with openCL'
+  title-short: ClMAGMA
+  container-title: IWOCL
+  publisher: ACM
+  page: 1:1-1:9
+  URL: http://doi.acm.org/10.1145/2664666.2664667
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/Martinez-Vallina15
+  type: paper-conference
+  author:
+  - family: Martinez-Vallina
+    given: Fernando
+  - family: Gilliland
+    given: Spenser
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Performance optimization for a sHA-1 cryptographic workload expressed in
+    openCL for fPGA execution
+  container-title: IWOCL
+  publisher: ACM
+  page: 7:1
+  URL: http://doi.acm.org/10.1145/2791321.2791328
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/BinduBKJ15
+  type: paper-conference
+  author:
+  - family: Bindu
+    given: Preeti
+  - family: Bottleson
+    given: Jeremy
+  - family: Kim
+    given: SungYe
+  - family: Jin
+    given: Jingyi
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: A compute model for augmented reality with integrated-gPU acceleration
+  container-title: IWOCL
+  publisher: ACM
+  page: 17:1
+  URL: http://doi.acm.org/10.1145/2791321.2791338
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/ZiabariTSK15
+  type: paper-conference
+  author:
+  - family: Ziabari
+    given: Amir Kavyan
+  - family: Tena
+    given: Rafael Ubal
+  - family: Schaa
+    given: Dana
+  - family: Kaeli
+    given: David R.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'A framework for visualization of openCL applications execution: A tutorial'
+  title-short: A framework for visualization of openCL applications execution
+  container-title: IWOCL
+  publisher: ACM
+  page: 22:1-22:2
+  URL: http://doi.acm.org/10.1145/2791321.2791343
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/BardsleyDW14
+  type: paper-conference
+  author:
+  - family: Bardsley
+    given: Ethel
+  - family: Donaldson
+    given: Alastair F.
+  - family: Wickerson
+    given: John
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: 'KernelInterceptor: Automating gPU kernel verification by intercepting
+    kernels and their parameters'
+  title-short: KernelInterceptor
+  container-title: IWOCL
+  publisher: ACM
+  page: 7:1-7:5
+  URL: http://doi.acm.org/10.1145/2664666.2664673
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/KrigeMMS14
+  type: paper-conference
+  author:
+  - family: Krige
+    given: Simon
+  - family: Mackey
+    given: Mark
+  - family: McIntosh-Smith
+    given: Simon
+  - family: Sessions
+    given: Richard B.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: 'Porting a commercial application to openCL: A case study'
+  title-short: Porting a commercial application to openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 3:1-3:10
+  URL: http://doi.acm.org/10.1145/2664666.2664669
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/KeryellRH15
+  type: paper-conference
+  author:
+  - family: Keryell
+    given: Ronan
+  - family: Reyes
+    given: Ruyman
+  - family: Howes
+    given: Lee
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Khronos sYCL for openCL: A tutorial'
+  title-short: Khronos sYCL for openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 24:1
+  URL: http://doi.acm.org/10.1145/2791321.2791345
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/HarveyHV14
+  type: paper-conference
+  author:
+  - family: Harvey
+    given: Paul
+  - family: Hameed
+    given: Saji
+  - family: Vanderbauwhede
+    given: Wim
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: Accelerating lagrangian particle dispersion in the atmosphere with openCL
+    across multiple platforms
+  container-title: IWOCL
+  publisher: ACM
+  page: 6:1-6:8
+  URL: http://doi.acm.org/10.1145/2664666.2664672
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/Ward15
+  type: paper-conference
+  author:
+  - family: Ward
+    given: Alan
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'The great beyond: Higher productivity, parallel processors and the extraordinary
+    search for a theory of expression'
+  title-short: The great beyond
+  container-title: IWOCL
+  publisher: ACM
+  page: 8:1
+  URL: http://doi.acm.org/10.1145/2791321.2791329
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/PotterKBM15
+  type: paper-conference
+  author:
+  - family: Potter
+    given: Ralph
+  - family: Keir
+    given: Paul
+  - family: Bradford
+    given: Russell J.
+  - family: Murray
+    given: Alastair
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Kernel composition in sYCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 11:1-11:7
+  URL: http://doi.acm.org/10.1145/2791321.2791332
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/ChungDR15
+  type: paper-conference
+  author:
+  - family: Chung
+    given: Jack
+  - family: Davis
+    given: Curtis
+  - family: Ramachandran
+    given: Jayram
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Mapping c++ aMP to openCL / hSA
+  container-title: IWOCL
+  publisher: ACM
+  page: 6:1
+  URL: http://doi.acm.org/10.1145/2791321.2791327
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/AragonJMRB14
+  type: paper-conference
+  author:
+  - family: Aragon
+    given: Elena
+  - family: Jiménez
+    given: Juan M.
+  - family: Maghazeh
+    given: Arian
+  - family: Rasmusson
+    given: Jim
+  - family: Bordoloi
+    given: Unmesh D.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: 'Pattern matching in openCL: GPU vs cPU energy consumption on two mobile
+    chipsets'
+  title-short: Pattern matching in openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 5:1-5:7
+  URL: http://doi.acm.org/10.1145/2664666.2664671
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/HelluySMR15
+  type: paper-conference
+  author:
+  - family: Helluy
+    given: Philippe
+  - family: Strub
+    given: Thomas
+  - family: Massaro
+    given: Michel
+  - family: Roberts
+    given: Malcolm
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Asynchronous openCL/MPI numerical simulations of conservation laws
+  container-title: IWOCL
+  publisher: ACM
+  page: 4:1
+  URL: http://doi.acm.org/10.1145/2791321.2791325
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/McIntosh-SmithC14
+  type: paper-conference
+  author:
+  - family: McIntosh-Smith
+    given: Simon
+  - family: Curran
+    given: Dan
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: Evaluation of a performance portable lattice boltzmann code using openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 2:1-2:12
+  URL: http://doi.acm.org/10.1145/2664666.2664668
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/Dominicis15
+  type: paper-conference
+  author:
+  - family: Dominicis
+    given: Salvatore De
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Imagination: Leveraging openCL to create differentiation'
+  title-short: Imagination
+  container-title: IWOCL
+  publisher: ACM
+  page: 15:1-15:23
+  URL: http://doi.acm.org/10.1145/2791321.2791336
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/Demers15
+  type: paper-conference
+  author:
+  - family: Demers
+    given: Eric
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Adreno gPU compute: IWOCL 2015'
+  title-short: Adreno gPU compute
+  container-title: IWOCL
+  publisher: ACM
+  page: 13:1-13:10
+  URL: http://doi.acm.org/10.1145/2791321.2791334
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/McIntosh-Smith15
+  type: paper-conference
+  author:
+  - family: McIntosh-Smith
+    given: Simon
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'IWOCL: International workshop on openCL'
+  title-short: IWOCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 1:1-1:12
+  URL: http://doi.acm.org/10.1145/2791321.2791322
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/Richards15
+  type: paper-conference
+  author:
+  - family: Richards
+    given: Andrew
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Update on the sYCL for openCL open standard to enable c++ meta programming
+    on top of openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 9:1
+  URL: http://doi.acm.org/10.1145/2791321.2791330
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/RuppTRWGJ14
+  type: paper-conference
+  author:
+  - family: Rupp
+    given: Karl
+  - family: Tillet
+    given: Philippe
+  - family: Rudolf
+    given: Florian
+  - family: Weinbub
+    given: Josef
+  - family: Grasser
+    given: Tibor
+  - family: Jüngel
+    given: Ansgar
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: Performance portability study of linear algebra kernels in openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 8:1-8:11
+  URL: http://doi.acm.org/10.1145/2664666.2664674
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/KohOVSB15
+  type: paper-conference
+  author:
+  - family: Koh
+    given: Jaehan
+  - family: Oberoi
+    given: Anuradha
+  - family: Velappan
+    given: Raghavan
+  - family: Sharma
+    given: Prashant
+  - family: Bucur
+    given: Adrian
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: High dynamic range imaging by heterogeneous computing in mobile devices
+  container-title: IWOCL
+  publisher: ACM
+  page: 19:1
+  URL: http://doi.acm.org/10.1145/2791321.2791340
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/2014
+  type: book
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: Proceedings of the international workshop on openCL, iWOCL 2013 & 2014, may
+    13-14, 2013, georgia tech, atlanta, gA, uSA / bristol, uK, may 12-13, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2664666
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/AbdelfattahHS14
+  type: paper-conference
+  author:
+  - family: Abdelfattah
+    given: Mohamed S.
+  - family: Hagiescu
+    given: Andrei
+  - family: Singh
+    given: Deshanand
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2014'
+  title: 'Gzip on a chip: High performance lossless data compression on fPGAs using
+    openCL'
+  title-short: Gzip on a chip
+  container-title: IWOCL
+  publisher: ACM
+  page: 4:1-4:9
+  URL: http://doi.acm.org/10.1145/2664666.2664670
+  ISBN: '978-1-4503-3007-7'
+
+- id: conf/iwocl/2015
+  type: book
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Proceedings of the 3rd international workshop on openCL, iWOCL 2015, palo
+    alto, california, uSA, may 12-13, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2791321
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/IoffeSS15
+  type: paper-conference
+  author:
+  - family: Ioffe
+    given: Robert
+  - family: Sharma
+    given: Sonal
+  - family: Stoner
+    given: Michael
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: Achieving performance with openCL 2.0 on intel® processor graphics
+  container-title: IWOCL
+  publisher: ACM
+  page: 3:1
+  URL: http://doi.acm.org/10.1145/2791321.2791324
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/BanerjeeFLKSSI15
+  type: paper-conference
+  author:
+  - family: Banerjee
+    given: Anita
+  - family: Fedorova
+    given: Julia
+  - family: Levy
+    given: Uri
+  - family: Kurylev
+    given: Alexandr
+  - family: Sharma
+    given: Sonal
+  - family: Stoner
+    given: Michael
+  - family: Ioffe
+    given: Robert
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Propel with openCL: A deep dive workshop to create, debug, analyze and
+    optimize openCL applications using intel tools: A tutorial'
+  title-short: Propel with openCL
+  container-title: IWOCL
+  publisher: ACM
+  page: 25:1-25:2
+  URL: http://doi.acm.org/10.1145/2791321.2791346
+  ISBN: '978-1-4503-3484-6'
+
+- id: conf/iwocl/OConnorTSMG15
+  type: paper-conference
+  author:
+  - family: O’Connor
+    given: M.
+  - family: Tew
+    given: P.
+  - family: Sage
+    given: B.
+  - family: McIntosh-Smith
+    given: Simon
+  - family: Glowacki
+    given: D. R.
+  editor:
+  - family: McIntosh-Smith
+    given: Simon
+  issued:
+  - year: '2015'
+  title: 'Nano simbox: An openCL-accelerated framework for interactive molecular
+    dynamics'
+  title-short: Nano simbox
+  container-title: IWOCL
+  publisher: ACM
+  page: 20:1
+  URL: http://doi.acm.org/10.1145/2791321.2791341
+  ISBN: '978-1-4503-3484-6'
+...

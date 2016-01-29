@@ -1,0 +1,1163 @@
+---
+references:
+- id: conf/hotdep/DuYJDZ10
+  type: paper-conference
+  author:
+  - family: Du
+    given: Yuyang
+  - family: Yu
+    given: Hongliang
+  - family: Jiang
+    given: Yunhong
+  - family: Dong
+    given: Yaozu
+  - family: Zheng
+    given: Weimin
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: 'A rising tide lifts all boats: How memory error prediction and prevention
+    can help with virtualized system longevity'
+  title-short: A rising tide lifts all boats
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/rising-tide-lifts-all-boats-how-memory-error-prediction-and-prevention-can-help
+
+- id: conf/hotdep/BrennerWK14
+  type: paper-conference
+  author:
+  - family: Brenner
+    given: Stefan
+  - family: Wulf
+    given: Colin
+  - family: Kapitza
+    given: Rüdiger
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Running zooKeeper coordination services in untrusted clouds
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/brenner
+
+- id: conf/hotdep/MurrayH08
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Derek Gordon
+  - family: Hand
+    given: Steven
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Spread-spectrum computation
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/murray/murray.pdf
+
+- id: conf/hotdep/YoshimuraYK12
+  type: paper-conference
+  author:
+  - family: Yoshimura
+    given: Takeshi
+  - family: Yamada
+    given: Hiroshi
+  - family: Kono
+    given: Kenji
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Is linux kernel oops useful or not?
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/yoshimura
+
+- id: conf/hotdep/CoppelC08
+  type: paper-conference
+  author:
+  - family: Coppel
+    given: Yohann
+  - family: Candea
+    given: George
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Deprogramming large software systems
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/coppel/coppel.pdf
+
+- id: conf/hotdep/SantosL14
+  type: paper-conference
+  author:
+  - family: Santos
+    given: Nuno
+  - family: Lopes
+    given: Nuno P.
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Leveraging trusted computing and model checking to build dependable virtual
+    machines
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/santos
+
+- id: conf/hotdep/WangKL06
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yin
+  - family: Kelly
+    given: Terence
+  - family: Lafortune
+    given: Stéphane
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Discrete control for dependable iT automation
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/discrete-control-dependable-it-automation
+
+- id: conf/hotdep/FeinerBG10
+  type: paper-conference
+  author:
+  - family: Feiner
+    given: Peter
+  - family: Brown
+    given: Angela Demke
+  - family: Goel
+    given: Ashvin
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: A design for comprehensive kernel instrumentation
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/design-comprehensive-kernel-instrumentation
+
+- id: conf/hotdep/ShafiquePG06
+  type: paper-conference
+  author:
+  - family: Shafique
+    given: Fareha
+  - family: Po
+    given: Kenneth
+  - family: Goel
+    given: Ashvin
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Correlating multi-session attacks via replay
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/correlating-multi-session-attacks-replay
+
+- id: conf/hotdep/OlinerILT12
+  type: paper-conference
+  author:
+  - family: Oliner
+    given: Adam J.
+  - family: Iyer
+    given: Anand P.
+  - family: Lagerspetz
+    given: Eemil
+  - family: Tarkoma
+    given: Sasu
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Collaborative energy debugging for mobile devices
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/oliner
+
+- id: conf/hotdep/TapusH06
+  type: paper-conference
+  author:
+  - family: Tapus
+    given: Cristian
+  - family: Hickey
+    given: Jason
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'Speculations: Providing fault-tolerance and recoverability in distributed
+    environments'
+  title-short: Speculations
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/speculations-providing-fault-tolerance-and-recoverability-distributed
+
+- id: conf/hotdep/TartlerKHRRDKSL12
+  type: paper-conference
+  author:
+  - family: Tartler
+    given: Reinhard
+  - family: Kurmus
+    given: Anil
+  - family: Heinloth
+    given: Bernhard
+  - family: Rothberg
+    given: Valentin
+  - family: Ruprecht
+    given: Andreas
+  - family: Dorneanu
+    given: Daniela
+  - family: Kapitza
+    given: Rüdiger
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  - family: Lohmann
+    given: Daniel
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Automatic oS kernel tCB reduction by leveraging compile-time configurability
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/tartler
+
+- id: conf/hotdep/KasikciZC12
+  type: paper-conference
+  author:
+  - family: Kasikci
+    given: Baris
+  - family: Zamfir
+    given: Cristian
+  - family: Candea
+    given: George
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'CORD: A collaborative framework for distributed data race detection'
+  title-short: CORD
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/kasikci
+
+- id: conf/hotdep/SlemberN06
+  type: paper-conference
+  author:
+  - family: Slember
+    given: Joseph G.
+  - family: Narasimhan
+    given: Priya
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'Static analysis meets distributed fault-tolerance: Enabling state-machine
+    replication with nondeterminism'
+  title-short: Static analysis meets distributed fault-tolerance
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/static-analysis-meets-distributed-fault-tolerance-enabling-state-machine
+
+- id: conf/hotdep/DobelH12
+  type: paper-conference
+  author:
+  - family: Döbel
+    given: Björn
+  - family: Härtig
+    given: Hermann
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Who watches the watchmen? Protecting operating system reliability mechanisms
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/d%C3%B6bel
+
+- id: conf/hotdep/ChipounovC08
+  type: paper-conference
+  author:
+  - family: Chipounov
+    given: Vitaly
+  - family: Candea
+    given: George
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Reverse-engineering drivers for safety and portability
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/chipounov/chipounov.pdf
+
+- id: conf/hotdep/TucekLHXZ06
+  type: paper-conference
+  author:
+  - family: Tucek
+    given: Joseph
+  - family: Lu
+    given: Shan
+  - family: Huang
+    given: Chengdu
+  - family: Xanthos
+    given: Spiros
+  - family: Zhou
+    given: Yuanyuan
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Automatic on-line failure diagnosis at the end-user site
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/automatic-line-failure-diagnosis-end-user-site
+
+- id: conf/hotdep/ChuangSKK12
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Wei-Chiu
+  - family: Sang
+    given: Bo
+  - family: Killian
+    given: Charles Edwin
+  - family: Kulkarni
+    given: Milind
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Programming model support for dependable, elastic cloud applications
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/chuang
+
+- id: conf/hotdep/2012
+  type: book
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Proceedings of the eighth workshop on hot topics in system dependability,
+    hotDep 2012, hollywood, cA, uSA, october 7, 2012
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A356
+
+- id: conf/hotdep/JafferCU14
+  type: paper-conference
+  author:
+  - family: Jaffer
+    given: Shehbaz
+  - family: Chitnis
+    given: Mangesh
+  - family: Usgaonkar
+    given: Ameya
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Providing high availability in cloud storage by decreasing virtual machine
+    reboot time
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/jaffer
+
+- id: conf/hotdep/2008
+  type: book
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Proceedings of the fourth workshop on hot topics in system dependability,
+    hotDep 2008, san diego, cA, uSA, december 7, 2008
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A77
+
+- id: conf/hotdep/ZhouKB12
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Bowen
+  - family: Kulkarni
+    given: Milind
+  - family: Bagchi
+    given: Saurabh
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'ABHRANTA: Locating bugs that manifest at large system scales'
+  title-short: ABHRANTA
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/zhou
+
+- id: conf/hotdep/PreguicaRHL08
+  type: paper-conference
+  author:
+  - family: Preguiça
+    given: Nuno M.
+  - family: Rodrigues
+    given: Rodrigo
+  - family: Honorato
+    given: Cristóvão
+  - family: Lourenço
+    given: João
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: 'Byzantium: Byzantine-fault-tolerant database replication providing snapshot
+    isolation'
+  title-short: Byzantium
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/preguica/preguica.pdf
+
+- id: conf/hotdep/WeberWFLB12
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Ingo
+  - family: Wada
+    given: Hiroshi
+  - family: Fekete
+    given: Alan
+  - family: Liu
+    given: Anna
+  - family: Bass
+    given: Len
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Automatic undo for cloud management via aI planning
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/weber
+
+- id: conf/hotdep/GiuffridaCT10
+  type: paper-conference
+  author:
+  - family: Giuffrida
+    given: Cristiano
+  - family: Cavallaro
+    given: Lorenzo
+  - family: Tanenbaum
+    given: Andrew S.
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: We crashed, now what?
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/we-crashed-now-what
+
+- id: conf/hotdep/MurtyW06
+  type: paper-conference
+  author:
+  - family: Murty
+    given: Rohan Narayana
+  - family: Welsh
+    given: Matt
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Towards a dependable architecture for internet-scale sensing
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/towards-dependable-architecture-internet-scale-sensing
+
+- id: conf/hotdep/HaeberlenRGD08
+  type: paper-conference
+  author:
+  - family: Haeberlen
+    given: Andreas
+  - family: Rodrigues
+    given: Rodrigo
+  - family: Gummadi
+    given: P. Krishna
+  - family: Druschel
+    given: Peter
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Pretty good packet authentication
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/haeberlen/haeberlen.pdf
+
+- id: conf/hotdep/CabralM06
+  type: paper-conference
+  author:
+  - family: Cabral
+    given: Bruno
+  - family: Marques
+    given: Paulo
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Making exception handling work
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/making-exception-handling-work
+
+- id: conf/hotdep/YinCBR08
+  type: paper-conference
+  author:
+  - family: Yin
+    given: Qin
+  - family: Cappos
+    given: Justin
+  - family: Baumann
+    given: Andrew
+  - family: Roscoe
+    given: Timothy
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Dependable self-hosting distributed systems using constraints
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/yin/yin.pdf
+
+- id: conf/hotdep/MaceBFM14
+  type: paper-conference
+  author:
+  - family: Mace
+    given: Jonathan
+  - family: Bodík
+    given: Peter
+  - family: Fonseca
+    given: Rodrigo
+  - family: Musuvathi
+    given: Madanlal
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Towards general-purpose resource management in shared cloud services
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/mace
+
+- id: conf/hotdep/AndersonLSTW10
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Eric
+  - family: Li
+    given: Xiaozhou
+  - family: Shah
+    given: Mehul A.
+  - family: Tucek
+    given: Joseph
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: What consistency does your key-value store actually provide?
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/what-consistency-does-your-key-value-store-actually-provide
+
+- id: conf/hotdep/HensonVGB06
+  type: paper-conference
+  author:
+  - family: Henson
+    given: Val
+  - family: Ven
+    given: Arjan
+    dropping-particle: van de
+  - family: Gud
+    given: Amit
+  - family: Brown
+    given: Zach
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'Chunkfs: Using divide-and-conquer to improve file system reliability and
+    repair'
+  title-short: Chunkfs
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/chunkfs-using-divide-and-conquer-improve-file-system-reliability-and-repair
+
+- id: conf/hotdep/JannottiP06
+  type: paper-conference
+  author:
+  - family: Jannotti
+    given: John
+  - family: Pamnany
+    given: Kiran
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'Safe at any speed: Fast, safe parallelism in servers'
+  title-short: Safe at any speed
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/safe-any-speed-fast-safe-parallelism-servers
+
+- id: conf/hotdep/MaiGLWV08
+  type: paper-conference
+  author:
+  - family: Mai
+    given: Haohui
+  - family: Gao
+    given: Chongnan
+  - family: Liu
+    given: Xuezheng
+  - family: Wang
+    given: Xi
+  - family: Voelker
+    given: Geoffrey M.
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Towards automatic inference of task hierarchies in complex systems
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/mai/mai.pdf
+
+- id: conf/hotdep/AltekarS10
+  type: paper-conference
+  author:
+  - family: Altekar
+    given: Gautam
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Focus replay debugging effort on the control plane
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/focus-replay-debugging-effort-control-plane
+
+- id: conf/hotdep/HaeberlenKD06
+  type: paper-conference
+  author:
+  - family: Haeberlen
+    given: Andreas
+  - family: Kouznetsov
+    given: Petr
+  - family: Druschel
+    given: Peter
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: The case for byzantine fault detection
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/case-byzantine-fault-detection
+
+- id: conf/hotdep/NarayanPH14
+  type: paper-conference
+  author:
+  - family: Narayan
+    given: Arjun
+  - family: Papadimitriou
+    given: Antonis
+  - family: Haeberlen
+    given: Andreas
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: 'Compute globally, act locally: Protecting federated systems from systemic
+    threats'
+  title-short: Compute globally, act locally
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/narayan
+
+- id: conf/hotdep/AiyerALSW08
+  type: paper-conference
+  author:
+  - family: Aiyer
+    given: Amitanand S.
+  - family: Anderson
+    given: Eric
+  - family: Li
+    given: Xiaozhou
+  - family: Shah
+    given: Mehul A.
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: 'Consistability: Describing usually consistent systems'
+  title-short: Consistability
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/aiyer/aiyer.pdf
+
+- id: conf/hotdep/YoshimuraK14
+  type: paper-conference
+  author:
+  - family: Yoshimura
+    given: Takeshi
+  - family: Kono
+    given: Kenji
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Who writes what checkers? - learning from bug repositories
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/yoshimura
+
+- id: conf/hotdep/SchiperRRBC12
+  type: paper-conference
+  author:
+  - family: Schiper
+    given: Nicolas
+  - family: Rahli
+    given: Vincent
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Bickford
+    given: Mark
+  - family: Constable
+    given: Robert L.
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'ShadowDB: A replicated database on a synthesized consensus core'
+  title-short: ShadowDB
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/schiper
+
+- id: conf/hotdep/Candea08
+  type: paper-conference
+  author:
+  - family: Candea
+    given: George
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: Toward quantifying system manageability
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/candea/candea.pdf
+
+- id: conf/hotdep/StewartZSO06
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: Christopher
+  - family: Zhong
+    given: Ming
+  - family: Shen
+    given: Kai
+  - family: O’Neill
+    given: Thomas
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Comprehensive depiction of configuration-dependent performance anomalies
+    in distributed server systems
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/comprehensive-depiction-configuration-dependent-performance-anomalies
+
+- id: conf/hotdep/KapritsosJ10
+  type: paper-conference
+  author:
+  - family: Kapritsos
+    given: Manos
+  - family: Junqueira
+    given: Flavio Paiva
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: 'Scalable agreement: Toward ordering as a service'
+  title-short: Scalable agreement
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/scalable-agreement-toward-ordering-service
+
+- id: conf/hotdep/KapitzaSCSD10
+  type: paper-conference
+  author:
+  - family: Kapitza
+    given: Rüdiger
+  - family: Schunter
+    given: Matthias
+  - family: Cachin
+    given: Christian
+  - family: Stengel
+    given: Klaus
+  - family: Distler
+    given: Tobias
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: 'Storyboard: Optimistic deterministic multithreading'
+  title-short: Storyboard
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/storyboard-optimistic-deterministic-multithreading
+
+- id: conf/hotdep/KasickGN10
+  type: paper-conference
+  author:
+  - family: Kasick
+    given: Michael P.
+  - family: Gandhi
+    given: Rajeev
+  - family: Narasimhan
+    given: Priya
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Behavior-based problem localization for parallel file systems
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/behavior-based-problem-localization-parallel-file-systems
+
+- id: conf/hotdep/2006
+  type: book
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: Proceedings of the second workshop on hot topics in system dependability,
+    hotDep 2006, seattle, wA, uSA, november 8, 2006
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A136
+
+- id: conf/hotdep/DepoutovitchS08
+  type: paper-conference
+  author:
+  - family: Depoutovitch
+    given: Alex
+  - family: Stumm
+    given: Michael
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: '“Otherworld”: Giving applications a chance to survive oS kernel crashes'
+  title-short: “Otherworld”
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/depoutovitch/depoutovitch.pdf
+
+- id: conf/hotdep/Ramadan06
+  type: paper-conference
+  author:
+  - family: Ramadan
+    given: Hany E.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'Abort, retry, litigate: Dependable systems and contract law'
+  title-short: Abort, retry, litigate
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/abort-retry-litigate-dependable-systems-and-contract-law
+
+- id: conf/hotdep/BehlDK14
+  type: paper-conference
+  author:
+  - family: Behl
+    given: Johannes
+  - family: Distler
+    given: Tobias
+  - family: Kapitza
+    given: Rüdiger
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: 'Scalable bFT for multi-cores: Actor-based decomposition and consensus-oriented
+    parallelization'
+  title-short: Scalable bFT for multi-cores
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/behl
+
+- id: conf/hotdep/GreenanLMSW08
+  type: paper-conference
+  author:
+  - family: Greenan
+    given: Kevin M.
+  - family: Long
+    given: Darrell D. E.
+  - family: Miller
+    given: Ethan L.
+  - family: Schwarz
+    given: Thomas J. E.
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Alvisi
+    given: Lorenzo
+  issued:
+  - year: '2008'
+  title: 'A spin-up saved is energy earned: Achieving power-efficient, erasure-coded
+    storage'
+  title-short: A spin-up saved is energy earned
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotdep08/tech/full_papers/greenan/greenan.pdf
+
+- id: conf/hotdep/2014
+  type: book
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: 10th workshop on hot topics in system dependability, hotDep ’14, broomfield,
+    cO, uSA, october 5, 2014
+  publisher: USENIX Association
+  URL: http://blogs.usenix.org/conference/hotdep14
+
+- id: conf/hotdep/CullyW06
+  type: paper-conference
+  author:
+  - family: Cully
+    given: Brendan
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2006'
+  title: 'SecondSite: Disaster protection for the common server'
+  title-short: SecondSite
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep-06/secondsite-disaster-protection-common-server
+
+- id: conf/hotdep/RahmanGAKW12
+  type: paper-conference
+  author:
+  - family: Rahman
+    given: Muntasir Raihan
+  - family: Golab
+    given: Wojciech M.
+  - family: AuYoung
+    given: Alvin
+  - family: Keeton
+    given: Kimberly
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Freedman
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Toward a principled framework for benchmarking consistency
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep12/workshop-program/presentation/rahman
+
+- id: conf/hotdep/2010
+  type: book
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Proceedings of the sixth workshop on hot topics in system dependability,
+    hotDep 2010, vancouver, bC, canada, october 3, 2010
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A23
+
+- id: conf/hotdep/BessaniSC10
+  type: paper-conference
+  author:
+  - family: Bessani
+    given: Alysson Neves
+  - family: Sousa
+    given: Paulo
+  - family: Correia
+    given: Miguel
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Active quorum systems
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/active-quorum-systems
+
+- id: conf/hotdep/XuH14
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Xin
+  - family: Huang
+    given: H. Howie
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Understanding reliability implication of hardware error in virtualization
+    infrastructure
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/xu
+
+- id: conf/hotdep/RyzhykKMRVH10
+  type: paper-conference
+  author:
+  - family: Ryzhyk
+    given: Leonid
+  - family: Keys
+    given: John
+  - family: Mirla
+    given: Balachandra
+  - family: Raghunath
+    given: Arun
+  - family: Vij
+    given: Mona
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Improved device driver reliability through verification reuse
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/improved-device-driver-reliability-through-verification-reuse
+
+- id: conf/hotdep/MiyamaeNS14
+  type: paper-conference
+  author:
+  - family: Miyamae
+    given: Takeshi
+  - family: Nakao
+    given: Takanori
+  - family: Shiozawa
+    given: Kensuke
+  editor:
+  - family: Junqueira
+    given: Flavio
+  issued:
+  - year: '2014'
+  title: Erasure code with shingled local parity groups for efficient recovery from
+    multiple disk failures
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep14/workshop-program/presentation/miyamae
+
+- id: conf/hotdep/GunawiDJHAAS10
+  type: paper-conference
+  author:
+  - family: Gunawi
+    given: Haryadi S.
+  - family: Do
+    given: Thanh
+  - family: Joshi
+    given: Pallavi
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Sen
+    given: Koushik
+  editor:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '2010'
+  title: Towards automatically checking thousands of failures with micro-specifications
+  container-title: HotDep
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotdep10/towards-automatically-checking-thousands-failures-micro-specifications
+...

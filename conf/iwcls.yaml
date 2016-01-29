@@ -1,0 +1,831 @@
+---
+references:
+- id: conf/iwcls/KurahashiT07
+  type: paper-conference
+  author:
+  - family: Kurahashi
+    given: Setsuya
+  - family: Terano
+    given: Takao
+  issued:
+  - year: '2007'
+  title: Technology extraction of expert operator skills from process time series
+    data
+  container-title: IWLCS
+  page: '269-285'
+  DOI: 10.1007/978-3-540-88138-4_16
+
+- id: conf/iwcls/Stolzmann99
+  type: paper-conference
+  author:
+  - family: Stolzmann
+    given: Wolfgang
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: An introduction to anticipatory classifier systems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '175-194'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_9
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/StolzmannB99
+  type: paper-conference
+  author:
+  - family: Stolzmann
+    given: Wolfgang
+  - family: Butz
+    given: Martin V.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Latent learning and action planning in robots with anticipatory classifier
+    systems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-320'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_16
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/HowardBL09
+  type: paper-conference
+  author:
+  - family: Howard
+    given: Gerard David
+  - family: Bull
+    given: Larry
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '2009'
+  title: Use of a connection-selection scheme in neural xCSF
+  container-title: IWLCS
+  page: '87-106'
+  DOI: 10.1007/978-3-642-17508-4_7
+
+- id: conf/iwcls/LoiaconoL09
+  type: paper-conference
+  author:
+  - family: Loiacono
+    given: Daniele
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '2009'
+  title: Recursive least squares and quadratic prediction in continuous multistep
+    problems
+  container-title: IWLCS
+  page: '70-86'
+  DOI: 10.1007/978-3-642-17508-4_6
+
+- id: conf/iwcls/1999
+  type: book
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '2000'
+  title: Learning classifier systems, from foundations to applications
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1813'
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Booker99
+  type: paper-conference
+  author:
+  - family: Booker
+    given: Lashon B.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Do we really need to estimate rule utilities in classifier systems?
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-142'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_6
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/HollandBCDGFRSLSW99
+  type: paper-conference
+  author:
+  - family: Holland
+    given: John H.
+  - family: Booker
+    given: Lashon B.
+  - family: Colombetti
+    given: Marco
+  - family: Dorigo
+    given: Marco
+  - family: Goldberg
+    given: David E.
+  - family: Forrest
+    given: Stephanie
+  - family: Riolo
+    given: Rick L.
+  - family: Smith
+    given: Robert E.
+  - family: Lanzi
+    given: Pier Luca
+  - family: Stolzmann
+    given: Wolfgang
+  - family: Wilson
+    given: Stewart W.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: What is a learning classifier system?
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-32'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_1
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/FrancoMG09
+  type: paper-conference
+  author:
+  - family: Franco
+    given: María A.
+  - family: Martínez
+    given: Ivette C.
+  - family: Gorrin
+    given: Celso
+  issued:
+  - year: '2009'
+  title: Supply chain management sales using xCSR
+  container-title: IWLCS
+  page: '145-165'
+  DOI: 10.1007/978-3-642-17508-4_10
+
+- id: conf/iwcls/Wilson09
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Stewart W.
+  issued:
+  - year: '2009'
+  title: Coevolution of pattern generators and recognizers
+  container-title: IWLCS
+  page: '38-46'
+  DOI: 10.1007/978-3-642-17508-4_3
+
+- id: conf/iwcls/StalphB09a
+  type: paper-conference
+  author:
+  - family: Stalph
+    given: Patrick O.
+  - family: Butz
+    given: Martin V.
+  issued:
+  - year: '2009'
+  title: Current xCSF capabilities and challenges
+  container-title: IWLCS
+  page: '57-69'
+  DOI: 10.1007/978-3-642-17508-4_5
+
+- id: conf/iwcls/LanziL09
+  type: paper-conference
+  author:
+  - family: Lanzi
+    given: Pier Luca
+  - family: Loiacono
+    given: Daniele
+  issued:
+  - year: '2009'
+  title: Speeding up matching in learning classifier systems using cUDA
+  container-title: IWLCS
+  page: '1-20'
+  DOI: 10.1007/978-3-642-17508-4_1
+
+- id: conf/iwcls/Lattaud99
+  type: paper-conference
+  author:
+  - family: Lattaud
+    given: Claude
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Non-homogeneous classifier systems in a macro-evolution process
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-174'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_8
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/SmithDREM99
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Robert E.
+  - family: Dike
+    given: Bruce A.
+  - family: Ravichandran
+    given: B.
+  - family: El-Fallah
+    given: Adel
+  - family: Mehra
+    given: Raman K.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: 'The fighter aircraft lCS: A case of different lCS goals and techniques'
+  title-short: The fighter aircraft lCS
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-300'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_15
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Wilson99a
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Stewart W.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Get real! XCS with continuous-valued inputs
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '209-222'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_11
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/BacarditK07
+  type: paper-conference
+  author:
+  - family: Bacardit
+    given: Jaume
+  - family: Krasnogor
+    given: Natalio
+  issued:
+  - year: '2007'
+  title: Empirical evaluation of ensemble techniques for a pittsburgh learning classifier
+    system
+  container-title: IWLCS
+  page: '255-268'
+  DOI: 10.1007/978-3-540-88138-4_15
+
+- id: conf/iwcls/GillesM09
+  type: paper-conference
+  author:
+  - family: Énée
+    given: Gilles
+  - family: Péroumalnaïk
+    given: Mathias
+  issued:
+  - year: '2009'
+  title: Building accurate strategies in non markovian environments without memory
+  container-title: IWLCS
+  page: '107-126'
+  DOI: 10.1007/978-3-642-17508-4_8
+
+- id: conf/iwcls/SaxonB99
+  type: paper-conference
+  author:
+  - family: Saxon
+    given: Shaun
+  - family: Barry
+    given: Alwyn
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: XCS and the monk’s problems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-242'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_12
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Orriols-PuigC09
+  type: paper-conference
+  author:
+  - family: Orriols-Puig
+    given: Albert
+  - family: Casillas
+    given: Jorge
+  issued:
+  - year: '2009'
+  title: Evolution of interesting association rules online with learning classifier
+    systems
+  container-title: IWLCS
+  page: '21-37'
+  DOI: 10.1007/978-3-642-17508-4_2
+
+- id: conf/iwcls/TanwaniF09
+  type: paper-conference
+  author:
+  - family: Tanwani
+    given: Ajay Kumar
+  - family: Farooq
+    given: Muddassar
+  issued:
+  - year: '2009'
+  title: 'Classification potential vs. classification accuracy: A comprehensive
+    study of evolutionary algorithms with biomedical datasets'
+  title-short: Classification potential vs. classification accuracy
+  container-title: IWLCS
+  page: '127-144'
+  DOI: 10.1007/978-3-642-17508-4_9
+
+- id: conf/iwcls/Wilson07
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Stewart W.
+  issued:
+  - year: '2007'
+  title: Classifier conditions using gene expression programming
+  container-title: IWLCS
+  page: '206-217'
+  DOI: 10.1007/978-3-540-88138-4_12
+
+- id: conf/iwcls/Mellor07
+  type: paper-conference
+  author:
+  - family: Mellor
+    given: Drew
+  issued:
+  - year: '2007'
+  title: A learning classifier system approach to relational reinforcement learning
+  container-title: IWLCS
+  page: '169-188'
+  DOI: 10.1007/978-3-540-88138-4_10
+
+- id: conf/iwcls/StalphB09
+  type: paper-conference
+  author:
+  - family: Stalph
+    given: Patrick O.
+  - family: Butz
+    given: Martin V.
+  issued:
+  - year: '2009'
+  title: 'How fitness estimates interact with reproduction rates: Towards variable
+    offspring set sizes in xCSF'
+  title-short: How fitness estimates interact with reproduction rates
+  container-title: IWLCS
+  page: '47-56'
+  DOI: 10.1007/978-3-642-17508-4_4
+
+- id: conf/iwcls/LanziR99
+  type: paper-conference
+  author:
+  - family: Lanzi
+    given: Pier Luca
+  - family: Riolo
+    given: Rick L.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: A roadmap to the last decade of learning classifier system research
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-62'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_2
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/LoiaconoDBL07
+  type: paper-conference
+  author:
+  - family: Loiacono
+    given: Daniele
+  - family: Drugowitsch
+    given: Jan
+  - family: Barry
+    given: Alwyn
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '2007'
+  title: Analysis and improvements of the classifier error estimate in xCSF
+  container-title: IWLCS
+  page: '117-135'
+  DOI: 10.1007/978-3-540-88138-4_7
+
+- id: conf/iwcls/MoioliVZ07
+  type: paper-conference
+  author:
+  - family: Moioli
+    given: Renan C.
+  - family: Vargas
+    given: Patrícia Amâncio
+  - family: Zuben
+    given: Fernando J. Von
+  issued:
+  - year: '2007'
+  title: Analysing learning classifier systems in reactive and non-reactive robotic
+    tasks
+  container-title: IWLCS
+  page: '286-305'
+  DOI: 10.1007/978-3-540-88138-4_17
+
+- id: conf/iwcls/Bull07
+  type: paper-conference
+  author:
+  - family: Bull
+    given: Larry
+  issued:
+  - year: '2007'
+  title: On lookahead and latent learning in simple lCS
+  container-title: IWLCS
+  page: '154-168'
+  DOI: 10.1007/978-3-540-88138-4_9
+
+- id: conf/iwcls/SmithJ07
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Robert Elliott
+  - family: Jiang
+    given: Max Kun
+  issued:
+  - year: '2007'
+  title: A learning classifier system with mutual-information-based fitness
+  container-title: IWLCS
+  page: '136-153'
+  DOI: 10.1007/978-3-540-88138-4_8
+
+- id: conf/iwcls/LanziRSS07
+  type: paper-conference
+  author:
+  - family: Lanzi
+    given: Pier Luca
+  - family: Rocca
+    given: Stefano
+  - family: Sastry
+    given: Kumara
+  - family: Solari
+    given: Stefania
+  issued:
+  - year: '2007'
+  title: Analysis of population evolution in classifier systems using symbolic representations
+  container-title: IWLCS
+  page: '22-45'
+  DOI: 10.1007/978-3-540-88138-4_2
+
+- id: conf/iwcls/SchulenburgR99
+  type: paper-conference
+  author:
+  - family: Schulenburg
+    given: Sonia
+  - family: Ross
+    given: Peter
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: An adaptive agent based economic model
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-282'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_14
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/KovacsL99
+  type: paper-conference
+  author:
+  - family: Kovacs
+    given: Tim
+  - family: Lanzi
+    given: Pier Luca
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: A learning classifier systems bibliography
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '321-348'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_17
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/LanziLZ07
+  type: paper-conference
+  author:
+  - family: Lanzi
+    given: Pier Luca
+  - family: Loiacono
+    given: Daniele
+  - family: Zanini
+    given: Matteo
+  issued:
+  - year: '2007'
+  title: Evolving classifiers ensembles with heterogeneous predictors
+  container-title: IWLCS
+  page: '218-234'
+  DOI: 10.1007/978-3-540-88138-4_13
+
+- id: conf/iwcls/BacarditBB07
+  type: paper-conference
+  author:
+  - family: Bacardit
+    given: Jaume
+  - family: Bernadó-Mansilla
+    given: Ester
+  - family: Butz
+    given: Martin V.
+  issued:
+  - year: '2007'
+  title: 'Learning classifier systems: Looking back and glimpsing ahead'
+  title-short: Learning classifier systems
+  container-title: IWLCS
+  page: '1-21'
+  DOI: 10.1007/978-3-540-88138-4_1
+
+- id: conf/iwcls/LloraSLLG07
+  type: paper-conference
+  author:
+  - family: Llorà
+    given: Xavier
+  - family: Sastry
+    given: Kumara
+  - family: Lima
+    given: Cláudio F.
+  - family: Lobo
+    given: Fernando G.
+  - family: Goldberg
+    given: David E.
+  issued:
+  - year: '2007'
+  title: Linkage learning, rule representation, and the x-ary extended compact classifier
+    system
+  container-title: IWLCS
+  page: '189-205'
+  DOI: 10.1007/978-3-540-88138-4_11
+
+- id: conf/iwcls/DrugowitschB07
+  type: paper-conference
+  author:
+  - family: Drugowitsch
+    given: Jan
+  - family: Barry
+    given: Alwyn
+  issued:
+  - year: '2007'
+  title: A principled foundation for lCS
+  container-title: IWLCS
+  page: '77-95'
+  DOI: 10.1007/978-3-540-88138-4_5
+
+- id: conf/iwcls/Bonarini99
+  type: paper-conference
+  author:
+  - family: Bonarini
+    given: Andrea
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: An introduction to learning fuzzy classifier systems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-106'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_4
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Kovacs99
+  type: paper-conference
+  author:
+  - family: Kovacs
+    given: Tim
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Strength or accuracy? Fitness calculation in learning classifier systems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-160'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_7
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Preen09
+  type: paper-conference
+  author:
+  - family: Preen
+    given: Richard
+  issued:
+  - year: '2009'
+  title: Identifying trade entry and exit timing using mathematical technical indicators
+    in xCS
+  container-title: IWLCS
+  page: '166-184'
+  DOI: 10.1007/978-3-642-17508-4_11
+
+- id: conf/iwcls/Orriols-PuigB07
+  type: paper-conference
+  author:
+  - family: Orriols-Puig
+    given: Albert
+  - family: Bernadó-Mansilla
+    given: Ester
+  issued:
+  - year: '2007'
+  title: 'Revisiting uCS: Description, fitness sharing, and comparison with xCS'
+  title-short: Revisiting uCS
+  container-title: IWLCS
+  page: '96-116'
+  DOI: 10.1007/978-3-540-88138-4_6
+
+- id: conf/iwcls/Wilson99
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Stewart W.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: State of xCS classifier system research
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-82'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_3
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Moreno-TorresLGB09
+  type: paper-conference
+  author:
+  - family: Moreno-Torres
+    given: Jose Garcia
+  - family: Llorà
+    given: Xavier
+  - family: Goldberg
+    given: David E.
+  - family: Bhargava
+    given: Rohit
+  issued:
+  - year: '2009'
+  title: On the homogenization of data from two laboratories using genetic programming
+  container-title: IWLCS
+  page: '185-197'
+  DOI: 10.1007/978-3-642-17508-4_12
+
+- id: conf/iwcls/Holmes99
+  type: paper-conference
+  author:
+  - family: Holmes
+    given: John H.
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Learning classifier systems applied to knowledge discovery in clinical research
+    databases
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-262'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_13
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/Orriols-PuigCB07
+  type: paper-conference
+  author:
+  - family: Orriols-Puig
+    given: Albert
+  - family: Casillas
+    given: Jorge
+  - family: Bernadó-Mansilla
+    given: Ester
+  issued:
+  - year: '2007'
+  title: 'Evolving fuzzy rules with uCS: Preliminary results'
+  title-short: Evolving fuzzy rules with uCS
+  container-title: IWLCS
+  page: '57-76'
+  DOI: 10.1007/978-3-540-88138-4_4
+
+- id: conf/iwcls/Orriols-PuigSGB07
+  type: paper-conference
+  author:
+  - family: Orriols-Puig
+    given: Albert
+  - family: Sastry
+    given: Kumara
+  - family: Goldberg
+    given: David E.
+  - family: Bernadó-Mansilla
+    given: Ester
+  issued:
+  - year: '2007'
+  title: Substructural surrogates for learning decomposable classification problems
+  container-title: IWLCS
+  page: '235-254'
+  DOI: 10.1007/978-3-540-88138-4_14
+
+- id: conf/iwcls/IoannidesB07
+  type: paper-conference
+  author:
+  - family: Ioannides
+    given: Charalambos
+  - family: Browne
+    given: Will N.
+  issued:
+  - year: '2007'
+  title: Investigating scaling of an abstracted lCS utilising ternary and s-expression
+    alphabets
+  container-title: IWLCS
+  page: '46-56'
+  DOI: 10.1007/978-3-540-88138-4_3
+
+- id: conf/iwcls/BonariniBM99
+  type: paper-conference
+  author:
+  - family: Bonarini
+    given: Andrea
+  - family: Bonacina
+    given: Claudio
+  - family: Matteucci
+    given: Matteo
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: Fuzzy and crisp representations of real-valued input for learning classifier
+    systems
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-124'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_5
+  ISBN: '3-540-67729-1'
+
+- id: conf/iwcls/TomlinsonB99
+  type: paper-conference
+  author:
+  - family: Tomlinson
+    given: Andy
+  - family: Bull
+    given: Larry
+  editor:
+  - family: Lanzi
+    given: Pier Luca
+  issued:
+  - year: '1999'
+  title: A corporate xCS
+  container-title: Learning classifier systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-208'
+  volume: '1813'
+  DOI: 10.1007/3-540-45027-0_10
+  ISBN: '3-540-67729-1'
+...

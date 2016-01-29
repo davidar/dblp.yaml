@@ -1,0 +1,2333 @@
+---
+references:
+- id: series/lncse/Mueller03
+  type: book
+  author:
+  - family: Müller
+    given: Siegfried
+  issued:
+  - year: '2003'
+  title: Adaptive multiscale schemes for conservation laws
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XIV, 1-187
+  volume: '27'
+  DOI: 10.1007/978-3-642-18164-1
+  ISBN: '978-3-540-44325-4'
+
+- id: series/lncse/SanduS13
+  type: chapter
+  author:
+  - family: Sandu
+    given: Adrian
+  - family: St.-Cyr
+    given: Amik
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Stability analysis of the matrix-free linearly implicit euler method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '403-410'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_47
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Rodriguez13
+  type: chapter
+  author:
+  - family: Rodríguez
+    given: Ana Alonso
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Heterogeneous domain decomposition methods for eddy current problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '95-102'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_9
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/HolstSZ13
+  type: chapter
+  author:
+  - family: Holst
+    given: Michael
+  - family: Szypowski
+    given: Ryan
+  - family: Zhu
+    given: Yunrong
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Adaptive finite element methods with inexact solvers for the nonlinear poisson-boltzmann
+    equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '167-174'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_18
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Krzyzanowski13
+  type: chapter
+  author:
+  - family: Krzyzanowski
+    given: Piotr
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: On block preconditioners for generalized saddle point problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '593-598'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_70
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Iske04
+  type: book
+  author:
+  - family: Iske
+    given: Armin
+  issued:
+  - year: '2004'
+  title: Multiresolution methods in scattered data modelling
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XII, 1-188
+  volume: '37'
+  DOI: 10.1007/978-3-642-18754-4
+  ISBN: '978-3-540-20479-4'
+
+- id: series/lncse/WangHHS13
+  type: chapter
+  author:
+  - family: Wang
+    given: Cheng
+  - family: He
+    given: Mingyan
+  - family: Huang
+    given: Ziping
+  - family: Sun
+    given: Pengtao
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: An overlapping domain decomposition method for a 3D pEMFC model
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '119-126'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_12
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Oh13
+  type: chapter
+  author:
+  - family: Oh
+    given: Duk-Soon
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: An alternative coarse space method for overlapping schwarz preconditioners
+    for raviart-thomas vector fields
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '361-367'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_42
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/WitteveenI13
+  type: chapter
+  author:
+  - family: Witteveen
+    given: Jeroen A. S.
+  - family: Iaccarino
+    given: Gianluca
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Essentially non-oscillatory stencil selection and subcell resolution in uncertainty
+    quantification
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '295-333'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_7
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/YangC13a
+  type: chapter
+  author:
+  - family: Yang
+    given: Chao
+  - family: Cai
+    given: Xiao-Chuan
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A fully implicit compressible euler solver for atmospheric flows
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '679-686'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_81
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/JaphetO13
+  type: chapter
+  author:
+  - family: Japhet
+    given: Caroline
+  - family: Omnes
+    given: Pascal
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Optimized schwarz waveform relaxation for porous media applications
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '585-592'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_69
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Lang01
+  type: book
+  author:
+  - family: '0001'
+    given: Jens Lang
+  issued:
+  - year: '2001'
+  title: Adaptive multilevel solution of nonlinear parabolic pDE systems - theory,
+    algorithm, and applications
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XII, 1-162
+  volume: '16'
+  DOI: 10.1007/978-3-662-04484-1
+  ISBN: '978-3-642-08747-9'
+
+- id: series/lncse/Langtangen99
+  type: book
+  author:
+  - family: Langtangen
+    given: Hans Petter
+  issued:
+  - year: '1999'
+  title: Computational partial differential equations - numerical methods and diffpack
+    programming
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XXIII, 1-685
+  volume: '2'
+  DOI: 10.1007/978-3-662-01170-6
+  ISBN: '978-3-662-01172-0'
+
+- id: series/lncse/Yserentant13
+  type: chapter
+  author:
+  - family: Yserentant
+    given: Harry
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Multi-level decompositions of electronic wave functions
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '63-72'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_6
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderH13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Halpern
+    given: Laurence
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Techniques for locally adaptive time stepping developed over the last two
+    decades
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '377-385'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_44
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BrennerGS13
+  type: chapter
+  author:
+  - family: Brenner
+    given: Susanne C.
+  - family: Gu
+    given: Shiyuan
+  - family: Sung
+    given: Li-Yeng
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Multigrid methods for the biharmonic problem with cahn-hilliard boundary
+    conditions
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '127-134'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_13
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Barth13
+  type: chapter
+  author:
+  - family: Barth
+    given: Timothy J.
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Non-intrusive uncertainty propagation with error bounds for conservation
+    laws containing discontinuities
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '1-57'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_1
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/FarhatTT13
+  type: chapter
+  author:
+  - family: Farhat
+    given: Charbel
+  - family: Tezaur
+    given: Radek
+  - family: Toivanen
+    given: Jari
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A domain decomposition solver for the discontinuous enrichment method for
+    the helmholtz equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '207-214'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_23
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/KimnS13
+  type: chapter
+  author:
+  - family: Kimn
+    given: Jung-Han
+  - family: Sarkis
+    given: Marcus
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Shifted laplacian rAS solvers for the helmholtz equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '151-158'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_16
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Lee13
+  type: chapter
+  author:
+  - family: Lee
+    given: Jungho
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Domain decomposition methods for auxiliary linear problems of an elliptic
+    variational inequality
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '305-312'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_35
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BankN13
+  type: chapter
+  author:
+  - family: Bank
+    given: Randolph E.
+  - family: Nguyen
+    given: Hieu
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Mesh regularization in bank-holst parallel hp-adaptive meshing
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '103-110'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_10
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/ChenC13
+  type: chapter
+  author:
+  - family: Chen
+    given: Rongliang
+  - family: Cai
+    given: Xiao-Chuan
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: One-shot domain decomposition methods for shape optimization problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '535-542'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_63
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderM13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Martin
+    given: Véronique
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: An asymptotic approach to compare coupling mechanisms for different partial
+    differential equations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '435-442'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_51
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderHH13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Haynes
+    given: Ronald D.
+  - family: Howse
+    given: Alexander J. M.
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Alternating and linearized alternating schwarz methods for equidistributing
+    grids
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '395-402'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_46
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BlancoGQ13
+  type: chapter
+  author:
+  - family: Blanco
+    given: Pablo J.
+  - family: Gervasio
+    given: Paola
+  - family: Quarteroni
+    given: Alfio
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Mortar coupling for heterogeneous partial differential equations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '419-426'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_49
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BeuchlerPZ13
+  type: chapter
+  author:
+  - family: Beuchler
+    given: Sven
+  - family: Pillwein
+    given: Veronika
+  - family: Zaglmayr
+    given: Sabine
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Fast summation techniques for sparse shape functions in tetrahedral hp-fEM
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '511-518'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_60
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DoleanNSS13
+  type: chapter
+  author:
+  - family: Dolean
+    given: Victorita
+  - family: Nataf
+    given: Frédéric
+  - family: Scheichl
+    given: Robert
+  - family: Spillane
+    given: Nicole
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A two-level schwarz preconditioner for heterogeneous problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '87-94'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_8
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/SubberS13
+  type: chapter
+  author:
+  - family: Subber
+    given: Waad
+  - family: Sarkar
+    given: Abhijit
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Domain decomposition methods of stochastic pDEs
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '191-198'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_21
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Behrens06
+  type: book
+  author:
+  - family: Behrens
+    given: Jörn
+  issued:
+  - year: '2006'
+  title: Adaptive atmospheric modeling - key techniques in grid generation, data structures,
+    and numerical operations with applications
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XVIII, 1-213
+  volume: '54'
+  DOI: 10.1007/3-540-33383-5
+  ISBN: '978-3-540-33382-1'
+
+- id: series/lncse/KozubekDBMV13
+  type: chapter
+  author:
+  - family: Kozubek
+    given: Tomás
+  - family: Dostál
+    given: Zdenek
+  - family: Brzobohatý
+    given: Tomás
+  - family: Markopoulos
+    given: Alexandros
+  - family: Vlach
+    given: Oldrich
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: TFETI scalable solvers for transient contact problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '329-336'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_38
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GuddatiT13
+  type: chapter
+  author:
+  - family: Guddati
+    given: Murthy N.
+  - family: Thirunavukkarasu
+    given: Senganal
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Improving the convergence of schwarz methods for helmholtz equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '199-206'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_22
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Scheichl13
+  type: chapter
+  author:
+  - family: Scheichl
+    given: Robert
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Robust coarsening in multiscale pDEs
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '51-62'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_5
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/SchmidtS05
+  type: book
+  author:
+  - family: Schmidt
+    given: Alfred
+  - family: Siebert
+    given: Kunibert G.
+  issued:
+  - year: '2005'
+  title: Design of adaptive finite element software - the finite element toolbox aLBERTA
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XII, 1-322
+  volume: '42'
+  DOI: 10.1007/b138692
+  ISBN: '978-3-540-22842-4'
+
+- id: series/lncse/AntoniettiH13
+  type: chapter
+  author:
+  - family: Antonietti
+    given: Paola F.
+  - family: Houston
+    given: Paul
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Preconditioning high-order discontinuous galerkin discretizations of elliptic
+    problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '231-238'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_26
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Marcinkowski13
+  type: chapter
+  author:
+  - family: Marcinkowski
+    given: Leszek
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A neumann-dirichlet preconditioner for fETI-dP method for mortar discretization
+    of a fourth order problems in 2D
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '615-622'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_73
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GippertKR13
+  type: chapter
+  author:
+  - family: Gippert
+    given: Sabrina
+  - family: Klawonn
+    given: Axel
+  - family: Rheinbach
+    given: Oliver
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: FETI-dP for elasticity with almost incompressible material components
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '353-360'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_41
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/WuC13
+  type: chapter
+  author:
+  - family: Wu
+    given: Yuqi
+  - family: Cai
+    given: Xiao-Chuan
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A parallel monolithic domain decomposition method for blood flow simulations
+    in 3D
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '671-678'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_80
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/KolmbauerL13
+  type: chapter
+  author:
+  - family: Kolmbauer
+    given: Michael
+  - family: Langer
+    given: Ulrich
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A robust fEM-bEM solver for time-harmonic eddy current problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '297-304'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_34
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/VeigaCLPS13
+  type: chapter
+  author:
+  - family: Veiga
+    given: Lourenço Beirão
+    dropping-particle: da
+  - family: Chinosi
+    given: C.
+  - family: Lovadina
+    given: Carlo
+  - family: Pavarino
+    given: Luca F.
+  - family: Schöberl
+    given: Joachim
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Quasi-optimality of bDDC methods for mITC reissner-mindlin problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '639-646'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_76
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/HuSZ13
+  type: chapter
+  author:
+  - family: Hu
+    given: Qiya
+  - family: Shu
+    given: Shi
+  - family: Zou
+    given: Jun
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A substructuring preconditioner for three-dimensional maxwell’s equations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '73-84'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_7
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderHR13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Halpern
+    given: Laurence
+  - family: Repiquet
+    given: Kévin Santugini
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: 'Non shape regular domain decompositions: An analysis using a stable decomposition
+    in'
+  title-short: Non shape regular domain decompositions
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '485-492'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_57
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/John04
+  type: book
+  author:
+  - family: John
+    given: Volker
+  issued:
+  - year: '2004'
+  title: Large eddy simulation of turbulent incompressible flows - analytical and
+    numerical results for a class of lES models
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XII, 1-267
+  volume: '34'
+  DOI: 10.1007/978-3-642-18682-0
+  ISBN: '978-3-540-40643-3'
+
+- id: series/lncse/Rienen01
+  type: book
+  author:
+  - family: Rienen
+    given: Ursula
+    dropping-particle: van
+  issued:
+  - year: '2001'
+  title: Numerical methods in computational electrodynamics - linear systems in practical
+    applications
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XIII, 1-379
+  volume: '12'
+  DOI: 10.1007/978-3-642-56802-2
+  ISBN: '978-3-540-67629-4'
+
+- id: series/lncse/BrannickCKZ13
+  type: chapter
+  author:
+  - family: Brannick
+    given: James J.
+  - family: Chen
+    given: Yao
+  - family: Kraus
+    given: Johannes
+  - family: Zikatanov
+    given: Ludmil
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: An algebraic multigrid method based on matching in graphs
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '143-150'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_15
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BoseBEKRS13
+  type: chapter
+  author:
+  - family: Böse
+    given: Dirk
+  - family: Brinkhues
+    given: Sarah
+  - family: Erbel
+    given: Raimund
+  - family: Klawonn
+    given: Axel
+  - family: Rheinbach
+    given: Oliver
+  - family: Schröder
+    given: Jörg
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A simultaneous augmented lagrange approach for the simulation of soft biological
+    tissue
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '369-376'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_43
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/LacorDHS13
+  type: chapter
+  author:
+  - family: Lacor
+    given: Chris
+  - family: Dinescu
+    given: Cristian
+  - family: Hirsch
+    given: Charles
+  - family: Smirnov
+    given: Sergey
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Implementation of intrusive polynomial chaos in cFD codes and application
+    to 3D navier-stokes
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '193-223'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_5
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/BacutaCX13
+  type: chapter
+  author:
+  - family: Bacuta
+    given: Constantin
+  - family: Chen
+    given: Long
+  - family: Xu
+    given: Jinchao
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Equidistribution and optimal approximation class
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '3-14'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_1
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DufaudT13
+  type: chapter
+  author:
+  - family: Dufaud
+    given: Thomas
+  - family: Tromeur-Dervout
+    given: Damien
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: ARAS2 preconditioning technique for cFD industrial cases
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '569-575'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_67
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Funaro97
+  type: book
+  author:
+  - family: Funaro
+    given: Daniele
+  issued:
+  - year: '1997'
+  title: Spectral elements for transport-dominated equations
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: i-x, 1-215
+  volume: '1'
+  DOI: 10.1007/978-3-642-59185-3
+  ISBN: '978-3-540-62649-7'
+
+- id: series/lncse/BarkerBPS13
+  type: chapter
+  author:
+  - family: Barker
+    given: Andrew T.
+  - family: Brenner
+    given: Susanne C.
+  - family: Park
+    given: Eun-Hee
+  - family: Sung
+    given: Li-Yeng
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A nonoverlapping dD preconditioner for a weakly over-penalized symmetric
+    interior penalty method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '247-254'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_28
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DohrmannW13
+  type: chapter
+  author:
+  - family: Dohrmann
+    given: Clark R.
+  - family: Widlund
+    given: Olof B.
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Some recent tools and a bDDC algorithm for 3D problems in h(curl)
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '15-25'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_2
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderJL13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Jiang
+    given: Yao-Lin
+  - family: Li
+    given: Rong-Jian
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Parareal schwarz waveform relaxation methods
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '451-458'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_53
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DruryL13
+  type: chapter
+  author:
+  - family: Drury
+    given: Stephen W.
+  - family: Loisel
+    given: Sébastien
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Sharp condition number estimates for the symmetric 2-lagrange multiplier
+    method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '255-261'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_29
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/VeraCG13
+  type: chapter
+  author:
+  - family: Vera
+    given: Eliseo Chacón
+  - family: Coronil
+    given: Daniel Franco
+  - family: Martínez-Gavara
+    given: Anna
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: 'A continuous approach to fETI-dP mortar methods: Application to dirichlet
+    and stokes problem'
+  title-short: A continuous approach to fETI-dP mortar methods
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '527-534'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_62
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/EggerW13
+  type: chapter
+  author:
+  - family: Egger
+    given: Herbert
+  - family: Waluga
+    given: Christian
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A hybrid discontinuous galerkin method for darcy-stokes problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '663-670'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_79
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DwightWB13
+  type: chapter
+  author:
+  - family: Dwight
+    given: Richard P.
+  - family: Witteveen
+    given: Jeroen A. S.
+  - family: Bijl
+    given: Hester
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Adaptive uncertainty quantification for computational fluid dynamics
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '151-191'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_4
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/CourvoisierG13
+  type: chapter
+  author:
+  - family: Courvoisier
+    given: Yves
+  - family: Gander
+    given: Martin J.
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Time domain maxwell equations solved with schwarz waveform relaxation methods
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '263-270'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_30
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderZ13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Zhang
+    given: Hui
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: 'Domain decomposition methods for the helmholtz equation: A numerical investigation'
+  title-short: Domain decomposition methods for the helmholtz equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '215-222'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_24
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/HuberPS13
+  type: chapter
+  author:
+  - family: Huber
+    given: Martin
+  - family: Pechstein
+    given: A.
+  - family: Schöberl
+    given: Joachim
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Hybrid domain decomposition solvers for the helmholtz and the time harmonic
+    maxwell’s equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '279-287'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_32
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Turek99
+  type: book
+  author:
+  - family: Turek
+    given: Stefan
+  issued:
+  - year: '1999'
+  title: Efficient solvers for incompressible flow problems - an algorithmic and computational
+    approach
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XV, 1-358
+  volume: '6'
+  DOI: 10.1007/978-3-642-58393-3
+  ISBN: '978-3-642-63573-1'
+
+- id: series/lncse/DostalKBMSV13
+  type: chapter
+  author:
+  - family: Dostál
+    given: Zdenek
+  - family: Kozubek
+    given: Tomás
+  - family: Brzobohatý
+    given: Tomás
+  - family: Markopoulos
+    given: Alexandros
+  - family: Sadowská
+    given: Marie
+  - family: Vondrák
+    given: Vít
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: 'Scalable domain decomposition algorithms for contact problems: Theory,
+    numerical experiments, and real world problems'
+  title-short: Scalable domain decomposition algorithms for contact problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '39-49'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_4
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Bebendorf08
+  type: book
+  author:
+  - family: Bebendorf
+    given: Mario
+  issued:
+  - year: '2008'
+  title: Hierarchical matrices - a means to efficiently solve elliptic boundary value
+    problems
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: i-xvi, 1-296
+  volume: '63'
+  DOI: 10.1007/978-3-540-77147-0
+  ISBN: '978-3-540-77146-3'
+
+- id: series/lncse/GdouraKS13
+  type: chapter
+  author:
+  - family: Gdoura
+    given: Mohamed Khaled
+  - family: Koko
+    given: Jonas
+  - family: Sassi
+    given: Taoufik
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Domain decomposition method for stokes problem with tresca friction
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '655-662'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_78
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/EfendievGLMR13
+  type: chapter
+  author:
+  - family: Efendiev
+    given: Yalchin
+  - family: Galvis
+    given: Juan
+  - family: Lazarov
+    given: Raytcho D.
+  - family: Margenov
+    given: Svetozar
+  - family: Ren
+    given: Jun
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Multiscale domain decomposition preconditioners for anisotropic high-contrast
+    problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '289-296'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_33
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DiosadyD13
+  type: chapter
+  author:
+  - family: Diosady
+    given: Laslo T.
+  - family: Darmofal
+    given: David L.
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: BDDC for higher-order discontinuous galerkin discretizations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '559-567'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_66
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/KarerKZ13
+  type: chapter
+  author:
+  - family: Karer
+    given: Erwin
+  - family: Kraus
+    given: Johannes K.
+  - family: Zikatanov
+    given: Ludmil
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A subspace correction method for nearly singular linear elasticity problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '159-166'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_17
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DaoNM13
+  type: chapter
+  author:
+  - family: Dao
+    given: Thu-Huyen
+  - family: Ndjinga
+    given: Michael
+  - family: Magoulès
+    given: Frédéric
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A schur complement method for compressible navier-stokes equations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '543-550'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_64
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/PechsteinSS13
+  type: chapter
+  author:
+  - family: Pechstein
+    given: Clemens
+  - family: Sarkis
+    given: Marcus
+  - family: Scheichl
+    given: Robert
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: New theoretical coefficient robustness results for fETI-dP
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '313-320'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_36
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/LemarieDB13
+  type: chapter
+  author:
+  - family: Lemarié
+    given: Florian
+  - family: Debreu
+    given: Laurent
+  - family: Blayo
+    given: Eric
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Optimal control of the convergence rate of schwarz waveform relaxation algorithms
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '599-606'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_71
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GoncalvesS13
+  type: chapter
+  author:
+  - family: Gonçalves
+    given: Etereldes
+  - family: Sarkis
+    given: Marcus
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Robust parameter-free multilevel methods for neumann boundary control problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '111-118'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_11
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/AugustinS13
+  type: chapter
+  author:
+  - family: Augustin
+    given: Christoph
+  - family: Steinbach
+    given: Olaf
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: FETI methods for the simulation of biological tissues
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '503-510'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_59
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/HaeberleinHM13
+  type: chapter
+  author:
+  - family: Haeberlein
+    given: Florian
+  - family: Halpern
+    given: Laurence
+  - family: Michel
+    given: Anthony
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Newton-schwarz optimised waveform relaxation krylov accelerators for nonlinear
+    reactive transport
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '387-394'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_45
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Urban02
+  type: book
+  author:
+  - family: Urban
+    given: Karsten
+  issued:
+  - year: '2002'
+  title: Wavelets in numerical simulation - problem adapted construction and applications
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XV, 1-186
+  volume: '22'
+  DOI: 10.1007/978-3-642-56002-6
+  ISBN: '978-3-540-43055-1'
+
+- id: series/lncse/DickopfK13a
+  type: chapter
+  author:
+  - family: Dickopf
+    given: Thomas
+  - family: Krause
+    given: Rolf
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Numerical study of the almost nested case in a multilevel method based on
+    non-nested meshes
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '551-558'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_65
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Schweitzer03
+  type: book
+  author:
+  - family: Schweitzer
+    given: Marc Alexander
+  issued:
+  - year: '2003'
+  title: A parallel multilevel partition of unity method for elliptic partial differential
+    equations
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: i-v, 1-199
+  volume: '29'
+  DOI: 10.1007/978-3-642-59325-3
+  ISBN: '978-3-540-00351-9'
+
+- id: series/lncse/BeranS13
+  type: chapter
+  author:
+  - family: Beran
+    given: Philip S.
+  - family: Stanford
+    given: Bret
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Uncertainty quantification in aeroelasticity
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '59-103'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_2
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/WakamEG13
+  type: chapter
+  author:
+  - family: Wakam
+    given: Désiré Nuentsa
+  - family: Erhel
+    given: Jocelyne
+  - family: Gropp
+    given: William
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Parallel adaptive deflated gMRES
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '631-638'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_75
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BerningerKS13
+  type: chapter
+  author:
+  - family: Berninger
+    given: Heiko
+  - family: Kornhuber
+    given: Ralf
+  - family: Sander
+    given: Oliver
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Heterogeneous substructuring methods for coupled surface and subsurface flow
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '427-434'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_50
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Discacciati13
+  type: chapter
+  author:
+  - family: Discacciati
+    given: Marco
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Augmented interface systems for the darcy-stokes problem
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '411-418'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_48
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/SteinbachW13
+  type: chapter
+  author:
+  - family: Steinbach
+    given: Olaf
+  - family: Windisch
+    given: Markus
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Stable bETI methods in electromagnetics
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '223-230'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_25
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/KhoromskijW04
+  type: book
+  author:
+  - family: Khoromskij
+    given: Boris N.
+  - family: Wittum
+    given: Gabriel
+  issued:
+  - year: '2004'
+  title: Numerical solution of elliptic differential equations by reduction to the
+    interface
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XI, 1-299
+  volume: '36'
+  DOI: 10.1007/978-3-642-18777-3
+  ISBN: '978-3-540-20406-0'
+
+- id: series/lncse/Sander13
+  type: chapter
+  author:
+  - family: Sander
+    given: Oliver
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Coupling geometrically exact cosserat rods and linear elastic continua
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '443-450'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_52
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/GanderK13
+  type: chapter
+  author:
+  - family: Gander
+    given: Martin J.
+  - family: Kwok
+    given: Felix
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: On the applicability of lions’ energy estimates in the analysis of discrete
+    optimized schwarz methods with cross points
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '475-483'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_56
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Holtz11
+  type: book
+  author:
+  - family: Holtz
+    given: Markus
+  issued:
+  - year: '2011'
+  title: Sparse grid quadrature in high dimensions with applications in finance and
+    insurance
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: i-viii, 1-189
+  volume: '77'
+  DOI: 10.1007/978-3-642-16004-2
+  ISBN: '978-3-642-16003-5'
+
+- id: series/lncse/Kressner05
+  type: book
+  author:
+  - family: Kressner
+    given: Daniel
+  issued:
+  - year: '2005'
+  title: Numerical methods for general and structured eigenvalue problems
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XIV, 1-264
+  volume: '46'
+  DOI: 10.1007/3-540-28502-4
+  ISBN: '978-3-540-24546-9'
+
+- id: series/lncse/92
+  type: book
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/Wohlmuth01
+  type: book
+  author:
+  - family: Wohlmuth
+    given: Barbara I.
+  issued:
+  - year: '2001'
+  title: Discretization methods and iterative solvers based on domain decomposition
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-X, 1-202
+  volume: '17'
+  DOI: 10.1007/978-3-642-56767-4
+  ISBN: '978-3-540-41083-6'
+
+- id: series/lncse/91
+  type: book
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Mathew08
+  type: book
+  author:
+  - family: Mathew
+    given: Tarek P.
+  issued:
+  - year: '2008'
+  title: Domain decomposition methods for the numerical solution of partial differential
+    equations
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: I-XIII, 1-764
+  volume: '61'
+  DOI: 10.1007/978-3-540-77209-5
+  ISBN: '978-3-540-77205-7'
+
+- id: series/lncse/EguzkitzaHAP13
+  type: chapter
+  author:
+  - family: Eguzkitza
+    given: Beatriz
+  - family: Houzeaux
+    given: Guillaume
+  - family: Aubry
+    given: Romain
+  - family: Peredo
+    given: Oscar
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: An implicit and parallel chimera type domain decomposition method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '577-584'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_68
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/LeskinenP13
+  type: chapter
+  author:
+  - family: Leskinen
+    given: Jyri
+  - family: Périaux
+    given: Jacques
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A new distributed optimization approach for solving cFD design problems using
+    nash game coalition and evolutionary algorithms
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '607-614'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_72
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/YangC13
+  type: chapter
+  author:
+  - family: Yang
+    given: Haijian
+  - family: Cai
+    given: Xiao-Chuan
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Two-grid lNKSz for distributed control of unsteady incompressible flows
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '467-474'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_55
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/CluzeauDNQ13
+  type: chapter
+  author:
+  - family: Cluzeau
+    given: Thomas
+  - family: Dolean
+    given: Victorita
+  - family: Nataf
+    given: Frédéric
+  - family: Quadrat
+    given: Alban
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Symbolic techniques for domain decomposition methods
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '27-38'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_3
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DespresPL13
+  type: chapter
+  author:
+  - family: Després
+    given: Bruno
+  - family: Poëtte
+    given: Gaël
+  - family: Lucor
+    given: Didier
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Robust uncertainty propagation in systems of conservation laws with the entropy
+    closure method
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '105-149'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_3
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/KruisZG13
+  type: chapter
+  author:
+  - family: Kruis
+    given: Jaroslav
+  - family: Zeman
+    given: Jan
+  - family: Gruber
+    given: Pavel
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Model of imperfect interfaces in composite materials and its numerical solution
+    by fETI method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '337-344'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_39
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/ProkopyshynDMP13
+  type: chapter
+  author:
+  - family: Prokopyshyn
+    given: Ihor I.
+  - family: Dyyak
+    given: Ivan I.
+  - family: Martynyak
+    given: Rostyslav M.
+  - family: Prokopyshyn
+    given: Ivan A.
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Penalty robin-robin domain decomposition schemes for contact problems of
+    nonlinear elasticity
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '647-654'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_77
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Guttel13
+  type: chapter
+  author:
+  - family: Güttel
+    given: Stefan
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A parallel overlapping time-domain decomposition method for oDEs
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '459-466'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_54
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Tran13
+  type: chapter
+  author:
+  - family: Tran
+    given: Minh-Binh
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: 'Overlapping domain decomposition: Convergence proofs'
+  title-short: Overlapping domain decomposition
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '493-500'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_58
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/WildeyX13
+  type: chapter
+  author:
+  - family: Wildey
+    given: Tim
+  - family: Xue
+    given: Guangri
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Preconditioning for mixed finite element formulations of elliptic problems
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '175-182'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_19
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Schwerin99
+  type: book
+  author:
+  - family: Schwerin
+    given: Reinhold
+    dropping-particle: von
+  issued:
+  - year: '1999'
+  title: MultiBody system sIMulation - numerical methods, algorithms, and software
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: i-xx, 1-341
+  volume: '7'
+  DOI: 10.1007/978-3-642-58515-9
+  ISBN: '978-3-540-65662-3'
+
+- id: series/lncse/BouajajiDGL13
+  type: chapter
+  author:
+  - family: Bouajaji
+    given: Mohamed El
+  - family: Dolean
+    given: Victorita
+  - family: Gander
+    given: Martin J.
+  - family: Lanteri
+    given: Stéphane
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Comparison of a one and two parameter family of transmission conditions for
+    maxwell’s equations with damping
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '271-278'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_31
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/BoubendirAG13
+  type: chapter
+  author:
+  - family: Boubendir
+    given: Yassine
+  - family: Antoine
+    given: Xavier
+  - family: Geuzaine
+    given: Christophe
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A non-overlapping quasi-optimal optimized schwarz domain decomposition algorithm
+    for the helmholtz equation
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '519-526'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_61
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/Wang13
+  type: chapter
+  author:
+  - family: Wang
+    given: Kening
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A two-level additive schwarz preconditioner for c 0 interior penalty methods
+    for cahn-hilliard equations
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '135-142'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_14
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DiosLPZ13
+  type: chapter
+  author:
+  - family: Dios
+    given: Blanca Ayuso
+    dropping-particle: de
+  - family: Lombardi
+    given: Ariel L.
+  - family: Pietra
+    given: Paola
+  - family: Zikatanov
+    given: Ludmil
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A block solver for the exponentially fitted iIPG-0 method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '239-246'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_27
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/LukasSKMB13
+  type: chapter
+  author:
+  - family: Lukás
+    given: D.
+  - family: Sadowská
+    given: Marie
+  - family: Kozubek
+    given: Tomás
+  - family: Markopoulos
+    given: Alexandros
+  - family: Brzobohatý
+    given: Tomás
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A comparison of tFETI and tBETI for numerical solution of engineering problems
+    of contact mechanics
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '345-352'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_40
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DickopfK13
+  type: chapter
+  author:
+  - family: Dickopf
+    given: Thomas
+  - family: Krause
+    given: Rolf
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Monotone multigrid methods based on parametric finite elements
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '321-328'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_37
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/DiosHZZ13
+  type: chapter
+  author:
+  - family: Dios
+    given: Blanca Ayuso
+    dropping-particle: de
+  - family: Holst
+    given: Michael
+  - family: Zhu
+    given: Yunrong
+  - family: Zikatanov
+    given: Ludmil
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: Multigrid preconditioner for nonconforming discretization of elliptic problems
+    with jump coefficients
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '183-190'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_20
+  ISBN: '978-3-642-35274-4'
+
+- id: series/lncse/MishraSS13
+  type: chapter
+  author:
+  - family: Mishra
+    given: Siddhartha
+  - family: Schwab
+    given: Christoph
+  - family: Sukys
+    given: Jonas
+  editor:
+  - family: Bijl
+    given: Hester
+  issued:
+  - year: '2013'
+  title: Multi-level monte carlo finite volume methods for uncertainty quantification
+    in nonlinear systems of balance laws
+  container-title: Uncertainty quantification in computational fluid dynamics
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '225-294'
+  volume: '92'
+  DOI: 10.1007/978-3-319-00885-1_6
+  ISBN: '978-3-319-00884-4'
+
+- id: series/lncse/NeumullerS13
+  type: chapter
+  author:
+  - family: Neumüller
+    given: Martin
+  - family: Steinbach
+    given: Olaf
+  editor:
+  - family: Bank
+    given: Randolph E.
+  issued:
+  - year: '2013'
+  title: A dG space-time domain decomposition method
+  container-title: Domain decomposition methods in science and engineering xX
+  collection-title: Lecture notes in computational science and engineering
+  publisher: Springer
+  page: '623-630'
+  volume: '91'
+  DOI: 10.1007/978-3-642-35275-1_74
+  ISBN: '978-3-642-35274-4'
+...

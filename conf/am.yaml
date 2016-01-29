@@ -1,0 +1,690 @@
+---
+references:
+- id: conf/am/1987
+  type: book
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1989'
+  title: 'Algebraic methods: Theory, tools and applications \[papers from a workshop
+    in passau, germany, june 9-11, 1987\]'
+  title-short: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '394'
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/HussmannR87
+  type: paper-conference
+  author:
+  - family: Hußmann
+    given: Heinrich
+  - family: Rank
+    given: Christian
+  issued:
+  - year: '1987'
+  title: Specification and prototyping of a compiler for a small applicative language
+  container-title: Algebraic methods
+  page: '403-418'
+  DOI: 10.1007/BFb0015046
+
+- id: conf/am/GlabbeekV87
+  type: paper-conference
+  author:
+  - family: Glabbeek
+    given: Rob J.
+    dropping-particle: van
+  - family: Vaandrager
+    given: Frits W.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: Modular specifications in process algebra with curious queues
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '465-506'
+  volume: '394'
+  DOI: 10.1007/BFb0015049
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Geser87
+  type: paper-conference
+  author:
+  - family: Geser
+    given: Alfons
+  issued:
+  - year: '1987'
+  title: 'A specification of the intel 8085 microprocessor: A case study'
+  title-short: A specification of the intel 8085 microprocessor
+  container-title: Algebraic methods
+  page: '347-401'
+  DOI: 10.1007/BFb0015045
+
+- id: conf/am/BidoitGM87
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  - family: Gaudel
+    given: Marie-Claude
+  - family: Mauboussin
+    given: A.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: How to make algebraic specifications more understandable?
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-67'
+  volume: '394'
+  DOI: 10.1007/BFb0015035
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Bergstra89
+  type: paper-conference
+  author:
+  - family: Baeten
+    given: Jos C. M.
+  - family: Bergstra
+    given: Jan A.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Design of a specification language by abstract syntax engineering
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '363-394'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_29
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Jonkers89
+  type: paper-conference
+  author:
+  - family: Jonkers
+    given: H. B. M.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Inheritance in cOLD
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-301'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_26
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Reichel87
+  type: paper-conference
+  author:
+  - family: Reichel
+    given: Horst
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: Software specification by behavioural canons
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-138'
+  volume: '394'
+  DOI: 10.1007/BFb0015038
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/1989
+  type: book
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1991'
+  title: 'Algebraic methods iI: Theory, tools and applications \[papers from a workshop
+    in mierlo, the netherlands, september 1989\]'
+  title-short: Algebraic methods iI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '490'
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Jonkers87a
+  type: paper-conference
+  author:
+  - family: Jonkers
+    given: H. B. M.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: Description algebra
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-306'
+  volume: '394'
+  DOI: 10.1007/BFb0015042
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Klint89
+  type: paper-conference
+  author:
+  - family: Klint
+    given: Paul
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: A meta-environment for generating programming environments
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-124'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_20
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/MauboussinPBGH89
+  type: paper-conference
+  author:
+  - family: Mauboussin
+    given: A.
+  - family: Perdrix
+    given: H.
+  - family: Bidoit
+    given: Michel
+  - family: Gaudel
+    given: Marie-Claude
+  - family: Hagelstein
+    given: Jacques
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: 'From an eRAE requirements specification to a pLUSS algebraic specificatiaon:
+    A case study'
+  title-short: From an eRAE requirements specification to a pLUSS algebraic specificatiaon
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '395-431'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_30
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/HussmannG87
+  type: paper-conference
+  author:
+  - family: Hußmann
+    given: Heinrich
+  - family: Geser
+    given: Alfons
+  issued:
+  - year: '1987'
+  title: The rAP system as a tool for testing cOLD specifications
+  container-title: Algebraic methods
+  page: '331-345'
+  DOI: 10.1007/BFb0015044
+
+- id: conf/am/HagelsteinP89
+  type: paper-conference
+  author:
+  - family: Hagelstein
+    given: Jacques
+  - family: Ponsaert
+    given: Frank
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Introducing formal requirements into industry
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-141'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_21
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/DiepenP89
+  type: paper-conference
+  author:
+  - family: Diepen
+    given: N. W. P.
+    dropping-particle: van
+  - family: Partsch
+    given: Helmuth
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Formalizing informal reuqirments. some aspects
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '7-27'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_16
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Partsch87
+  type: paper-conference
+  author:
+  - family: Partsch
+    given: Helmuth
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: 'Algebraic specification: A step towards future software engineering'
+  title-short: Algebraic specification
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '7-30'
+  volume: '394'
+  DOI: 10.1007/BFb0015034
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/FinkelsteinGKN89
+  type: paper-conference
+  author:
+  - family: Finkelstein
+    given: Anthony
+  - family: Goedicke
+    given: Michael
+  - family: Kramer
+    given: Jeff
+  - family: Niskier
+    given: Celso
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: 'Viewpoint oriented software development: Mehtods and viewpoints in requirements
+    engineering'
+  title-short: Viewpoint oriented software development
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-54'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_17
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/AstesianoGRZ87
+  type: paper-conference
+  author:
+  - family: Astesiano
+    given: Egidio
+  - family: Giovini
+    given: Alessandro
+  - family: Reggio
+    given: Gianna
+  - family: Zucca
+    given: Elena
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: An integrated algebraic approach to the specification of data types, processes
+    and objects
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-116'
+  volume: '394'
+  DOI: 10.1007/BFb0015037
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Feijs89a
+  type: paper-conference
+  author:
+  - family: Feijs
+    given: Loe M. G.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Norman’s database modularised in cOLD-k
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-231'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_24
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/BaatsFG87
+  type: paper-conference
+  author:
+  - family: Baats
+    given: W. E.
+  - family: Feijs
+    given: Loe M. G.
+  - family: Gelissen
+    given: J. H. A.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: A formal specifications of iNGRES
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-245'
+  volume: '394'
+  DOI: 10.1007/BFb0015040
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/BaetenBMV89
+  type: paper-conference
+  author:
+  - family: Baeten
+    given: Jos C. M.
+  - family: Bergstra
+    given: Jan A.
+  - family: Mauw
+    given: Sjouke
+  - family: Veltink
+    given: Gert J.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: A process specification formalism based on static cOLD
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-335'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_27
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/LavazzaC87
+  type: paper-conference
+  author:
+  - family: Lavazza
+    given: Luigi
+  - family: Crespi-Reghizzi
+    given: Stefano
+  issued:
+  - year: '1987'
+  title: Algebraic aDT specifications of an extended relational algebra and their
+    conversion into a working prototype
+  container-title: Algebraic methods
+  page: '419-446'
+  DOI: 10.1007/BFb0015047
+
+- id: conf/am/BergstraK87
+  type: paper-conference
+  author:
+  - family: Bergstra
+    given: Jan A.
+  - family: Klop
+    given: Jan Willem
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: 'ACTtau: A universal axiom system for process specification'
+  title-short: ACTtau
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '447-463'
+  volume: '394'
+  DOI: 10.1007/BFb0015048
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Weber89
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Rainer
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Where can i get gas round here? - an application of a design methodology
+    for distributed systems
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-166'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_22
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/KlaerenI87
+  type: paper-conference
+  author:
+  - family: Klaeren
+    given: Herbert
+  - family: Indermark
+    given: Klaus
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: Efficient implementation of an algebraic specification language
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-90'
+  volume: '394'
+  DOI: 10.1007/BFb0015036
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Middelburg89
+  type: paper-conference
+  author:
+  - family: Middelburg
+    given: C. A.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Experiences with combining formalisms in vVSL
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-103'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_19
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/KoymannsL87
+  type: paper-conference
+  author:
+  - family: Koymanns
+    given: C. P. J.
+  - family: Lavalette
+    given: Gerard R. Renardel
+    dropping-particle: de
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: The logic mPLomega
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-282'
+  volume: '394'
+  DOI: 10.1007/BFb0015041
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/OlderogA89
+  type: paper-conference
+  author:
+  - family: Olderog
+    given: Ernst-Rüdiger
+  - family: Apt
+    given: Krzysztof R.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Using transformation to verify parallel programs
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-81'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_18
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Jonkers87
+  type: paper-conference
+  author:
+  - family: Jonkers
+    given: H. B. M.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: An introduction to cOLD-k
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-205'
+  volume: '394'
+  DOI: 10.1007/BFb0015039
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/Feijs89
+  type: paper-conference
+  author:
+  - family: Feijs
+    given: Loe M. G.
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Transformations of designs
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-199'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_23
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Feijs87
+  type: paper-conference
+  author:
+  - family: Feijs
+    given: Loe M. G.
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: The calculus lambda-pi
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '307-330'
+  volume: '394'
+  DOI: 10.1007/BFb0015043
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/BosFO89
+  type: paper-conference
+  author:
+  - family: Bos
+    given: R. D.
+    dropping-particle: van den
+  - family: Feijs
+    given: Loe M. G.
+  - family: Ommering
+    given: Rob C.
+    dropping-particle: van
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: 'POLAR: A picture-oriented language for abstract representations'
+  title-short: POLAR
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '233-276'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_25
+  ISBN: '3-540-53912-3'
+
+- id: conf/am/Mauw87
+  type: paper-conference
+  author:
+  - family: Mauw
+    given: Sjouke
+  editor:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1987'
+  title: An algebraic specification of process algebra, including two examples
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '507-554'
+  volume: '394'
+  DOI: 10.1007/BFb0015050
+  ISBN: '3-540-51698-0'
+
+- id: conf/am/MauwW89
+  type: paper-conference
+  author:
+  - family: Mauw
+    given: Sjouke
+  - family: Wiedijk
+    given: Freek
+  editor:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1989'
+  title: Specification of the transit node in pSFd
+  container-title: Algebraic methods
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341-361'
+  volume: '490'
+  DOI: 10.1007/3-540-53912-3_28
+  ISBN: '3-540-53912-3'
+...

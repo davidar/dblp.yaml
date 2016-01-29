@@ -1,0 +1,618 @@
+---
+references:
+- id: conf/ximep/Kay06
+  type: paper-conference
+  author:
+  - family: Kay
+    given: Michael H.
+  issued:
+  - year: '2006'
+  title: Positional grouping in xQuery
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Kay.pdf
+
+- id: conf/ximep/VyasFS04
+  type: paper-conference
+  author:
+  - family: Vyas
+    given: Avinash
+  - family: Fernández
+    given: Mary F.
+  - family: Siméon
+    given: Jérôme
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: The simplest xML storage manager ever
+  container-title: XIME-p
+  page: '37-42'
+
+- id: conf/ximep/FernandezJMOS07
+  type: paper-conference
+  author:
+  - family: Fernández
+    given: Mary F.
+  - family: Jim
+    given: Trevor
+  - family: Morton
+    given: Kristi
+  - family: Onose
+    given: Nicola
+  - family: Siméon
+    given: Jérôme
+  issued:
+  - year: '2007'
+  title: 'DXQ: A distributed xQuery scripting language'
+  title-short: DXQ
+  container-title: XIME-p
+  URL: http://doi.acm.org/10.1145/1328158.1328161
+
+- id: conf/ximep/GrustK04
+  type: paper-conference
+  author:
+  - family: Grust
+    given: Torsten
+  - family: Klinger
+    given: Stefan
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: Schema validation and type annotation for encoded trees
+  container-title: XIME-p
+  page: '55-60'
+
+- id: conf/ximep/BartaCM04
+  type: paper-conference
+  author:
+  - family: Barta
+    given: Attila
+  - family: Consens
+    given: Mariano P.
+  - family: Mendelzon
+    given: Alberto O.
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: XML query optimization using path indexes
+  container-title: XIME-p
+  page: '43-48'
+
+- id: conf/ximep/MayHKM04
+  type: paper-conference
+  author:
+  - family: May
+    given: Norman
+  - family: Helmer
+    given: Sven
+  - family: Kanne
+    given: Carl-Christian
+  - family: Moerkotte
+    given: Guido
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: XQuery processing in natix with an emphasis on join ordering
+  container-title: XIME-p
+  page: '49-54'
+
+- id: conf/ximep/DudaK05
+  type: paper-conference
+  author:
+  - family: Duda
+    given: Cristian
+  - family: Kossmann
+    given: Donald
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Adaptive xML storage or the importance of being lazy
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/AdaptiveXMLStorageDuda.pdf
+
+- id: conf/ximep/Fegaras04
+  type: paper-conference
+  author:
+  - family: Fegaras
+    given: Leonidas
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: The joy of sAX
+  container-title: XIME-p
+  page: '61-66'
+
+- id: conf/ximep/Berlea07
+  type: paper-conference
+  author:
+  - family: Berlea
+    given: Alexandru
+  issued:
+  - year: '2007'
+  title: On-the-fly tuple selection for xQuery
+  container-title: XIME-p
+  URL: http://doi.acm.org/10.1145/1328158.1328160
+
+- id: conf/ximep/CurtmolaABF05
+  type: paper-conference
+  author:
+  - family: Curtmola
+    given: Emiran
+  - family: Amer-Yahia
+    given: Sihem
+  - family: Brown
+    given: Philip
+  - family: Fernández
+    given: Mary F.
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: 'GalaTex: A conformant implementation of the xQuery full-text language'
+  title-short: GalaTex
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/GalaTexCurtmola.pdf
+
+- id: conf/ximep/Zhang05
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Guogen
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Building a scalable native xML database engine on infrastructure for a relational
+    database
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/BuildingScalableNativeXMLDbZhang.pdf
+
+- id: conf/ximep/IacobD06
+  type: paper-conference
+  author:
+  - family: Iacob
+    given: Ionut Emil
+  - family: Dekhtyar
+    given: Alex
+  issued:
+  - year: '2006'
+  title: Multihierarchical xQuery for document-centric xML
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Iacob-Dekhtyar.pdf
+
+- id: conf/ximep/KochOS06
+  type: paper-conference
+  author:
+  - family: Koch
+    given: Christoph
+  - family: Olteanu
+    given: Dan
+  - family: Scherzinger
+    given: Stefanie
+  issued:
+  - year: '2006'
+  title: Building a native xML-dBMS as a term project in a database systems course
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Koch-Olteanu.pdf
+
+- id: conf/ximep/Grust05
+  type: paper-conference
+  author:
+  - family: Grust
+    given: Torsten
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Purely relational fLWORs
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/PurelyRelationalFLWORsGrust.pdf
+
+- id: conf/ximep/BeyerCCOP04
+  type: paper-conference
+  author:
+  - family: Beyer
+    given: Kevin S.
+  - family: Cochrane
+    given: Roberta
+  - family: Colby
+    given: Latha S.
+  - family: Ozcan
+    given: Fatma
+  - family: Pirahesh
+    given: Hamid
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: 'XQery for analytics: Challenges and requirements'
+  title-short: XQery for analytics
+  container-title: XIME-p
+  page: '3-8'
+
+- id: conf/ximep/2005
+  type: book
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Proceedings of the second international workshop on xQuery implementation,
+    experience and perspectives &lt;XIME-p/&gt;, in cooperation with aCM sIGMOD, june
+    16-17, 2005, baltimore, maryland, uSA
+
+- id: conf/ximep/Hlousek05
+  type: paper-conference
+  author:
+  - family: Hlousek
+    given: Pavel
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: 'XPath 2.0: It can sort!'
+  title-short: XPath 2.0
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/XPathCanSortHlousek.pdf
+
+- id: conf/ximep/AlinkBVB06
+  type: paper-conference
+  author:
+  - family: Alink
+    given: Wouter
+  - family: Bhoedjang
+    given: R. A. F.
+  - family: Vries
+    given: Arjen P.
+    dropping-particle: de
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2006'
+  title: Efficient xQuery support for stand-off annotation
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Alink-Boncz.pdf
+
+- id: conf/ximep/KanneM06
+  type: paper-conference
+  author:
+  - family: Kanne
+    given: Carl-Christian
+  - family: Moerkotte
+    given: Guido
+  issued:
+  - year: '2006'
+  title: Template folding for xPath
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Kanne-Moerkotte.pdf
+
+- id: conf/ximep/HundlingSW05
+  type: paper-conference
+  author:
+  - family: Hündling
+    given: Jens
+  - family: Sievers
+    given: Jan
+  - family: Weske
+    given: Mathias
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: NaXDB - realizing pipelined xQuery processing in a native xML database system
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/NaXDBHuendling.pdf
+
+- id: conf/ximep/Bloom05
+  type: paper-conference
+  author:
+  - family: Bloom
+    given: Bard
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: 'Lopsided little languages: Experience with xQuery'
+  title-short: Lopsided little languages
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/LopsidedLittleLanguagesBloom.doc
+
+- id: conf/ximep/BashirB05
+  type: paper-conference
+  author:
+  - family: Bashir
+    given: Engie
+  - family: Boulos
+    given: Jihad
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Trading precision for throughput in xPath processing
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/TradingPrecisionForThroughputInXPathBOULOS.pdf
+
+- id: conf/ximep/Chamberlin06
+  type: paper-conference
+  author:
+  - family: Chamberlin
+    given: Donald D.
+  issued:
+  - year: '2006'
+  title: 'XQuery: Where do we go from here?'
+  title-short: XQuery
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/Keynote-Chamberlin.pdf
+
+- id: conf/ximep/LiSA04
+  type: paper-conference
+  author:
+  - family: Li
+    given: Xiaogang
+  - family: Sahoo
+    given: Swarup Kumar
+  - family: Agrawal
+    given: Gagan
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: 'XQuery perspective: Using xML/XQuery for scientific applications and applying
+    scientific compilation techniques'
+  title-short: XQuery perspective
+  container-title: XIME-p
+  page: '25-30'
+
+- id: conf/ximep/2006
+  type: book
+  issued:
+  - year: '2006'
+  title: Proceedings of the 3rd international workshop on xQuery implementation, experience
+    and perspectives, in cooperation with aCM sIGMOD, june 30, 2006, chicago, uSA.
+    2006
+
+- id: conf/ximep/LuoLLL05
+  type: paper-conference
+  author:
+  - family: Luo
+    given: Bo
+  - family: Lee
+    given: Dongwon
+  - family: Lee
+    given: Wang-Chien
+  - family: '0005'
+    given: Peng Liu
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Deep set operators for xQuery
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/DeepSetOperatorsForXQuery.pdf
+
+- id: conf/ximep/ArionBM05
+  type: paper-conference
+  author:
+  - family: Arion
+    given: Andrei
+  - family: Benzaken
+    given: Véronique
+  - family: Manolescu
+    given: Ioana
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: 'XML access modules: Towards physical data independence in xML databases'
+  title-short: XML access modules
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/XMLAccessModulesManolescu.pdf
+
+- id: conf/ximep/2007
+  type: book
+  editor:
+  - family: Shanmugasundaram
+    given: Jayavel
+  issued:
+  - year: '2007'
+  title: Proceedings of the 4th international workshop on xQuery implementation, experience
+    and perspectives, in cooperation with aCM sIGMOD, june 15, 2007, beijing, china
+  ISBN: '978-1-59593-800-8'
+
+- id: conf/ximep/Bothner04
+  type: paper-conference
+  author:
+  - family: Bothner
+    given: Per
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: Compiling xQuery to java bytecodes
+  container-title: XIME-p
+  page: '31-36'
+
+- id: conf/ximep/GrustRT07
+  type: paper-conference
+  author:
+  - family: Grust
+    given: Torsten
+  - family: Rittinger
+    given: Jan
+  - family: Teubner
+    given: Jens
+  issued:
+  - year: '2007'
+  title: Data-intensive xQuery debugging with instant replay
+  container-title: XIME-p
+  URL: http://doi.acm.org/10.1145/1328158.1328162
+
+- id: conf/ximep/FiebigS04
+  type: paper-conference
+  author:
+  - family: Fiebig
+    given: Thorsten
+  - family: Schöning
+    given: Harald
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: Software aG’s tamino xQuery processor
+  container-title: XIME-p
+  page: '19-24'
+
+- id: conf/ximep/BlakeFM05
+  type: paper-conference
+  author:
+  - family: Blake
+    given: M. Brian
+  - family: Fado
+    given: David H.
+  - family: Mack
+    given: Gregory A.
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Combining a publish and subscribe collaboration architecture with xQuery
+    approaches
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/CombiningPublishSubscribeCollabBlake.pdf
+
+- id: conf/ximep/DunkleyP04
+  type: paper-conference
+  author:
+  - family: Dunkley
+    given: Dominic
+  - family: Pinaud
+    given: François
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: The scalability of xyleme zone server
+  container-title: XIME-p
+  page: '9-18'
+
+- id: conf/ximep/ChamberlinCFKR06
+  type: paper-conference
+  author:
+  - family: Chamberlin
+    given: Donald D.
+  - family: Carey
+    given: Michael J.
+  - family: Florescu
+    given: Daniela
+  - family: Kossmann
+    given: Donald
+  - family: Robie
+    given: Jonathan
+  issued:
+  - year: '2006'
+  title: Programming with xQuery
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Chamberlin-Carey.pdf
+
+- id: conf/ximep/FegarasDW06
+  type: paper-conference
+  author:
+  - family: Fegaras
+    given: Leonidas
+  - family: Dash
+    given: Ranjan K.
+  - family: Wang
+    given: YingHui
+  issued:
+  - year: '2006'
+  title: A fully pipelined xQuery processor
+  container-title: XIME-p
+  URL: http://www.ximep-2006.org/papers/Paper-Fegaras-Dash.pdf
+
+- id: conf/ximep/2004
+  type: book
+  editor:
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2004'
+  title: Proceedings of the first international workshop on xQuery implementation,
+    experience and perspectives &lt;XIME-p/&gt;, in cooperation with aCM sIGMOD, june
+    17-18, 2004, maison de la chimie, paris, france
+
+- id: conf/ximep/BenediktBFV05
+  type: paper-conference
+  author:
+  - family: Benedikt
+    given: Michael
+  - family: Bonifati
+    given: Angela
+  - family: Flesca
+    given: Sergio
+  - family: Vyas
+    given: Avinash
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: 'Adding updates to xQuery: Semantics, optimization, and static analysis'
+  title-short: Adding updates to xQuery
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/AddingUpdatesToXQueryBenedikt.pdf
+
+- id: conf/ximep/Scherzinger07
+  type: paper-conference
+  author:
+  - family: Scherzinger
+    given: Stefanie
+  issued:
+  - year: '2007'
+  title: Bulk data in main memory-based xQuery evaluation
+  container-title: XIME-p
+  URL: http://doi.acm.org/10.1145/1328158.1328159
+
+- id: conf/ximep/BonczMR05
+  type: paper-conference
+  author:
+  - family: Boncz
+    given: Peter A.
+  - family: Manegold
+    given: Stefan
+  - family: Rittinger
+    given: Jan
+  editor:
+  - family: Florescu
+    given: Daniela
+  issued:
+  - year: '2005'
+  title: Updating the pre/Post plane in monetDB/XQuery
+  container-title: XIME-p
+  URL: http://www.ximeco.org/Xime/UpdatingPrePostPlaneManegold.pdf
+...

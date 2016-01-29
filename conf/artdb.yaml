@@ -1,0 +1,677 @@
+---
+references:
+- id: conf/artdb/Roncancio97
+  type: paper-conference
+  author:
+  - family: Roncancio
+    given: Claudia
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Toward duration-based, constrained and dynamic event types
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-193'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_10
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/Son95
+  type: paper-conference
+  author:
+  - family: Son
+    given: Sang Hyuk
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: System issues in supporting active real-time databases
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '261-263'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/SivasankaranRST95
+  type: paper-conference
+  author:
+  - family: Sivasankaran
+    given: Rajendran M.
+  - family: Ramamritham
+    given: Krithi
+  - family: Stankovic
+    given: John A.
+  - family: Towsley
+    given: Donald F.
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Data placement, logging and recovery in real-time active databases
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '226-241'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/DengSW95
+  type: paper-conference
+  author:
+  - family: Deng
+    given: Minglin
+  - family: Sistla
+    given: A. Prasad
+  - family: Wolfson
+    given: Ouri
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Temporal conditons with retroactive and proactive updates
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '122-141'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/Ulusoy97
+  type: paper-conference
+  author:
+  - family: Ulusoy
+    given: Özgür
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Performance issues in processing active real-time transactions
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-118'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_6
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/JaegerO97
+  type: paper-conference
+  author:
+  - family: Jaeger
+    given: Ulrike
+  - family: Obermaier
+    given: Johann K.
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'Parallel event detection in active database systems: The heart of the
+    matter'
+  title-short: Parallel event detection in active database systems
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-175'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_9
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/PerkusichPS95
+  type: paper-conference
+  author:
+  - family: Perkusich
+    given: Maria Ligia B.
+  - family: Perkusich
+    given: Angelo
+  - family: Schiel
+    given: Ulrich
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Object oriented real-time database design and hierarchical control systems
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '104-121'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/StankovicDKA97
+  type: paper-conference
+  author:
+  - family: Stankovic
+    given: John A.
+  - family: Datta
+    given: Anindya
+  - family: Kersten
+    given: Martin L.
+  - family: Andler
+    given: Sten
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'Panel session: Practical and industrial experience in active real-time
+    databases'
+  title-short: Panel session
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-244'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_14
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/Ramamritham95
+  type: paper-conference
+  author:
+  - family: Ramamritham
+    given: Krithi
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: The origin of tCs
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '50-62'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/LamLH95
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Kwok-Wa
+  - family: Lam
+    given: Kam-yiu
+  - family: Hung
+    given: Sheung-lun
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: An efficient real-time optimistic concurrency control protocol
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '209-225'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/Buchmann95
+  type: paper-conference
+  author:
+  - family: Buchmann
+    given: Alejandro P.
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Wrap-up statement
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '264-266'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/LlirbatS95
+  type: paper-conference
+  author:
+  - family: Llirbat
+    given: François
+  - family: Simon
+    given: Eric
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: 'Optimizing active database transactions: A new perspective'
+  title-short: Optimizing active database transactions
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '23-45'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/95
+  type: book
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1996'
+  title: Active and real-time database systems (aRTDB-95), proceedings of the first
+    international workshop on active and real-time database systems, skövde, sweden,
+    9-11 june 1995
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/BerndtssonH95
+  type: paper-conference
+  author:
+  - family: Berndtsson
+    given: Mikael
+  - family: Hansson
+    given: Jörgen
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Issues in active real-time databases
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '142-157'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/Ulusoy95
+  type: paper-conference
+  author:
+  - family: Ulusoy
+    given: Özgür
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: An evaluation of network access protocols for distributed real-time database
+    systems
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '242-258'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/Mellin97
+  type: paper-conference
+  author:
+  - family: Mellin
+    given: Jonas
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Supporting system-level testing of applications by active real-time database
+    systems
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-211'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_11
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/StankovicSL97
+  type: paper-conference
+  author:
+  - family: Stankovic
+    given: John A.
+  - family: Son
+    given: Sang Hyuk
+  - family: Liebeherr
+    given: Jörg
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'BeeHive: Global multimedia database support for dependable, real-time
+    applications'
+  title-short: BeeHive
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-69'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_4
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/WeikH95
+  type: paper-conference
+  author:
+  - family: Weik
+    given: Thomas
+  - family: Heuer
+    given: Andreas
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: An algorithm for the analysis of termination of large trigger sets in an
+    oODBMS
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '170-189'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/StoyenkoM95
+  type: paper-conference
+  author:
+  - family: Stoyenko
+    given: Alexander D.
+  - family: Marlowe
+    given: Thomas J.
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: A case for better language and compiler support for real-time database systems
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '46-49'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/ChittaroC97
+  type: paper-conference
+  author:
+  - family: Chittaro
+    given: Luca
+  - family: Combi
+    given: Carlo
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'Temporal indeterminancy in deductive databases: An approach based on event
+    calculus'
+  title-short: Temporal indeterminancy in deductive databases
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-227'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_12
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/MokSUHLL97
+  type: paper-conference
+  author:
+  - family: Mok
+    given: Aloysius K.
+  - family: Stankovic
+    given: John A.
+  - family: Ulusoy
+    given: Özgür
+  - family: Hansson
+    given: Jörgen
+  - family: Lam
+    given: Kam-yiu
+  - family: Lin
+    given: Kwei-Jay
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'Panel session: Predictability in active real-time/Temporal databases'
+  title-short: Panel session
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-237'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_13
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/Eriksson97
+  type: paper-conference
+  author:
+  - family: Eriksson
+    given: Joakim
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: 'Real-time and active databases: A survey'
+  title-short: Real-time and active databases
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-23'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_1
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/ChenM97
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Deji
+  - family: Mok
+    given: Aloysius K.
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Design of a real-time sQL engine in the distributed environment
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-38'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_2
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/BrandingB95
+  type: paper-conference
+  author:
+  - family: Branding
+    given: Holger
+  - family: Buchmann
+    given: Alejandro P.
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: On providing soft and hard real-time capabilities in an active dBMS
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '158-169'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/LamLL97
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Kam-yiu
+  - family: Law
+    given: Gary C. K.
+  - family: Lee
+    given: Victor C. S.
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Scheduling of triggered transactions in distributed real-time active databases
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-140'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_7
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/ColletM95
+  type: paper-conference
+  author:
+  - family: Collet
+    given: Christine
+  - family: Machado
+    given: Javam
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Optimization of active rules with parallelism
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '82-103'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/ComaiFPT95
+  type: paper-conference
+  author:
+  - family: Comai
+    given: Sara
+  - family: Fraternali
+    given: Piero
+  - family: Psaila
+    given: Giuseppe
+  - family: Tanca
+    given: Letizia
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: A uniform model to express the behaviour of rules with different semantics
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '190-208'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/Dayal95
+  type: paper-conference
+  author:
+  - family: Dayal
+    given: Umeshwar
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: 'Ten years of activity in active database systems: What have we accomplished?'
+  title-short: Ten years of activity in active database systems
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '3-22'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/LinPN97
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Kwei-Jay
+  - family: Peng
+    given: Ching-Sang
+  - family: Ng
+    given: Tony P.
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: An active real-time database model for air traffic control systems
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-97'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_5
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/ViguierD97
+  type: paper-conference
+  author:
+  - family: Viguier
+    given: Igor R.
+  - family: Datta
+    given: Anindya
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: Buffer management in active, real-time database systems - concepts and an
+    algorithm
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-158'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_8
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/Kersten97
+  type: paper-conference
+  author:
+  - family: Kersten
+    given: Martin L.
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1997'
+  title: A cellular database system for the 21st century
+  container-title: ARTDB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-50'
+  volume: '1553'
+  DOI: 10.1007/3-540-49151-1_3
+  ISBN: '3-540-65649-9'
+
+- id: conf/artdb/JasperZB95
+  type: paper-conference
+  author:
+  - family: Jasper
+    given: Heinrich
+  - family: Zukunft
+    given: Olaf
+  - family: Behrends
+    given: Helge
+  editor:
+  - family: Berndtsson
+    given: Mikael
+  issued:
+  - year: '1995'
+  title: Time issues in advanced workflow management applications of active databases
+  container-title: ARTDB
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '65-81'
+  ISBN: '3-540-19983-7'
+
+- id: conf/artdb/1997
+  type: book
+  editor:
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1998'
+  title: Active, real-time, and temporal database systems, second international workshop,
+    aRTDB-97, como, italy, september 8-9, 1997, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1553'
+  ISBN: '3-540-65649-9'
+...

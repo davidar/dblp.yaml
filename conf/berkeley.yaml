@@ -1,0 +1,1783 @@
+---
+references:
+- id: conf/berkeley/Danforth79
+  type: paper-conference
+  author:
+  - family: Danforth
+    given: Scott
+  issued:
+  - year: '1979'
+  title: A distributed file manager for the tRW experimental development system
+  container-title: Berkeley workshop
+  page: '322-'
+
+- id: conf/berkeley/Hendrix77
+  type: paper-conference
+  author:
+  - family: Hendrix
+    given: Gary G.
+  issued:
+  - year: '1977'
+  title: 'Lifer: A natural language interface facility'
+  title-short: Lifer
+  container-title: Berkeley workshop
+  page: '196-'
+
+- id: conf/berkeley/Richards76
+  type: paper-conference
+  author:
+  - family: Richards
+    given: David
+  issued:
+  - year: '1976'
+  title: Representation of hierarchically structured data in the proposed eRDA exchange
+    standard
+  container-title: Berkeley workshop
+  page: '221-'
+
+- id: conf/berkeley/RamirezS79
+  type: paper-conference
+  author:
+  - family: Ramírez
+    given: Raúl J.
+  - family: Santoro
+    given: Nicola
+  issued:
+  - year: '1979'
+  title: 'Distributed control of updates in multiple-copy databases: A time optimal
+    algorithm'
+  title-short: Distributed control of updates in multiple-copy databases
+  container-title: Berkeley workshop
+  page: '191-'
+
+- id: conf/berkeley/Garcia-Molina79
+  type: paper-conference
+  author:
+  - family: Garcia-Molina
+    given: Hector
+  issued:
+  - year: '1979'
+  title: A concurrency control mechanism for distributed databases which users centralized
+    locking controllers
+  container-title: Berkeley workshop
+  page: '113-'
+
+- id: conf/berkeley/RoweB79
+  type: paper-conference
+  author:
+  - family: Rowe
+    given: Lawrence A.
+  - family: Birman
+    given: Kenneth P.
+  issued:
+  - year: '1979'
+  title: Network support for a distributed data base system
+  container-title: Berkeley workshop
+  page: '337-'
+
+- id: conf/berkeley/Walker76
+  type: paper-conference
+  author:
+  - family: Walker
+    given: Steve
+  issued:
+  - year: '1976'
+  title: The future of the aRPA network
+  container-title: Berkeley workshop
+  page: '16'
+
+- id: conf/berkeley/Feinler76
+  type: paper-conference
+  author:
+  - family: Feinler
+    given: Elizabeth
+  issued:
+  - year: '1976'
+  title: NIC/QUERY, a novice user interface program
+  container-title: Berkeley workshop
+  page: '311-'
+
+- id: conf/berkeley/CeriO82
+  type: paper-conference
+  author:
+  - family: Ceri
+    given: Stefano
+  - family: Owicki
+    given: Susan S.
+  issued:
+  - year: '1982'
+  title: On the use of optimistic methods for concurrency control in distributed databases
+  container-title: Berkeley workshop
+  page: '117-129'
+
+- id: conf/berkeley/RicartA78
+  type: paper-conference
+  author:
+  - family: Ricart
+    given: Glenn
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1978'
+  title: Dynamic management of packet radio slots
+  container-title: Berkeley workshop
+  page: '169-177'
+
+- id: conf/berkeley/GrayHKO81
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Jim
+  - family: Homan
+    given: Pete
+  - family: Korth
+    given: Henry F.
+  - family: Obermarck
+    given: Ron
+  issued:
+  - year: '1981'
+  title: A straw man analysis of the probability of waiting and deadlock in a database
+    system
+  container-title: Berkeley workshop
+  page: '125'
+
+- id: conf/berkeley/Padlipsky78
+  type: paper-conference
+  author:
+  - family: Padlipsky
+    given: M. A.
+  issued:
+  - year: '1978'
+  title: An architecture for secure packet-switched networks
+  container-title: Berkeley workshop
+  page: '54-65'
+
+- id: conf/berkeley/Lantz81
+  type: paper-conference
+  author:
+  - family: Lantz
+    given: Keith A.
+  issued:
+  - year: '1981'
+  title: 'RIG, an architecture for distributed systems: A summary'
+  title-short: RIG, an architecture for distributed systems
+  container-title: Berkeley workshop
+  page: '301'
+
+- id: conf/berkeley/DonnelleyY78
+  type: paper-conference
+  author:
+  - family: Donnelley
+    given: James E.
+  - family: Yeh
+    given: Jeffry W.
+  issued:
+  - year: '1978'
+  title: Interaction between protocol levels in a prioritized cSMA broadcast network
+  container-title: Berkeley workshop
+  page: '123-143'
+
+- id: conf/berkeley/GelenbeGM78
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  - family: Grangé
+    given: Jean-Louis
+  - family: Mussard
+    given: Patrice
+  issued:
+  - year: '1978'
+  title: 'Performance limits of the tMM protocol: Modelling and measurement'
+  title-short: Performance limits of the tMM protocol
+  container-title: Berkeley workshop
+  page: '340-357'
+
+- id: conf/berkeley/Strom81
+  type: paper-conference
+  author:
+  - family: Strom
+    given: B. Ivan
+  issued:
+  - year: '1981'
+  title: Consistency of redundant databases in a weak coupled distributed computer
+    conferencing system
+  container-title: Berkeley workshop
+  page: '143-153'
+
+- id: conf/berkeley/Holmes76
+  type: paper-conference
+  author:
+  - family: Holmes
+    given: Harvard
+  issued:
+  - year: '1976'
+  title: A simple implementation strategy for the aRPA network graphics protocol
+  container-title: Berkeley workshop
+  page: '31-'
+
+- id: conf/berkeley/AttarBG82
+  type: paper-conference
+  author:
+  - family: Attar
+    given: Rony
+  - family: Bernstein
+    given: Philip A.
+  - family: Goodman
+    given: Nathan
+  issued:
+  - year: '1982'
+  title: Site initialization, recovery, and back-up in a distributed database system
+  container-title: Berkeley workshop
+  page: '185-202'
+  note: 'journal version: IEEE Trans. Software Eng. 10(6): 645-650(1984)'
+
+- id: conf/berkeley/GoudaBW79
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Body
+    given: D.
+  - family: Wood
+    given: W.
+  issued:
+  - year: '1979'
+  title: Global and local models for the specification and verification of distributed
+    systems
+  container-title: Berkeley workshop
+  page: '155-'
+
+- id: conf/berkeley/Vines81
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Donald H. Vines
+  issued:
+  - year: '1981'
+  title: A dataflow solution for implementing distributed queries
+  container-title: Berkeley workshop
+  page: '14-37'
+
+- id: conf/berkeley/MorrisS77
+  type: paper-conference
+  author:
+  - family: Morris
+    given: P.
+  - family: Sagalowicz
+    given: Daniel
+  issued:
+  - year: '1977'
+  title: Managing network access to a distributed database
+  container-title: Berkeley workshop
+  page: '58-67'
+
+- id: conf/berkeley/Lam79
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Simon S.
+  issued:
+  - year: '1979'
+  title: A study of the cSMA protocol in local networks
+  container-title: Berkeley workshop
+  page: '141-'
+
+- id: conf/berkeley/Lin79
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Wen-Te K.
+  issued:
+  - year: '1979'
+  title: Concurrency control in a multiple copy distributed database system
+  container-title: Berkeley workshop
+  page: '207-220'
+
+- id: conf/berkeley/Melici82
+  type: paper-conference
+  author:
+  - family: Melici
+    given: J. A.
+  issued:
+  - year: '1982'
+  title: The bX.25 certfication facility
+  container-title: Berkeley workshop
+  page: '283-310'
+
+- id: conf/berkeley/Nardi76
+  type: paper-conference
+  author:
+  - family: Nardi
+    given: Joseph
+  issued:
+  - year: '1976'
+  title: A machine interpretable design for physical and logical description of sequentially
+    archived data
+  container-title: Berkeley workshop
+  page: '165-'
+
+- id: conf/berkeley/Denoia81
+  type: paper-conference
+  author:
+  - family: Denoia
+    given: Lynn A.
+  issued:
+  - year: '1981'
+  title: An approach to the cost/Performance comparison of distributed systems
+  container-title: Berkeley workshop
+  page: '38-64'
+
+- id: conf/berkeley/Shoch78
+  type: paper-conference
+  author:
+  - family: Shoch
+    given: John F.
+  issued:
+  - year: '1978'
+  title: Inter-network fragmentation and the tCP
+  container-title: Berkeley workshop
+  page: '161-168'
+
+- id: conf/berkeley/Wong77
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Eugene
+  issued:
+  - year: '1977'
+  title: 'Retrieving dispersed data from sDD-1: A system for distributed databases'
+  title-short: Retrieving dispersed data from sDD-1
+  container-title: Berkeley workshop
+  page: '217-235'
+
+- id: conf/berkeley/BadalP78
+  type: paper-conference
+  author:
+  - family: Badal
+    given: Dushan Z.
+  - family: Popek
+    given: Gerald J.
+  issued:
+  - year: '1978'
+  title: A proposal for distributed concurrency control for partially redundant distributed
+    data base systems
+  container-title: Berkeley workshop
+  page: '273-285'
+
+- id: conf/berkeley/Grossman76
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Gary
+  issued:
+  - year: '1976'
+  title: An alternative front end architecture
+  container-title: Berkeley workshop
+  page: '71-'
+
+- id: conf/berkeley/PassafiumeW77
+  type: paper-conference
+  author:
+  - family: Passafiume
+    given: Joseph J.
+  - family: Wecker
+    given: Stuart
+  issued:
+  - year: '1977'
+  title: Distributed file access in dECnet
+  container-title: Berkeley workshop
+  page: '114-'
+
+- id: conf/berkeley/Garcia-Molina78
+  type: paper-conference
+  author:
+  - family: Garcia-Molina
+    given: Hector
+  issued:
+  - year: '1978'
+  title: Performance comparison of two update algorithms for distributed databases
+  container-title: Berkeley workshop
+  page: '108-119'
+
+- id: conf/berkeley/Lidinsky76
+  type: paper-conference
+  author:
+  - family: Lidinsky
+    given: William
+  issued:
+  - year: '1976'
+  title: The argonne intra-laboratory network
+  container-title: Berkeley workshop
+  page: '263-'
+
+- id: conf/berkeley/BernsteinGL81
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Philip A.
+  - family: Goodman
+    given: Nathan
+  - family: Lai
+    given: Ming-Yee
+  issued:
+  - year: '1981'
+  title: Two part proof schema for database concurrency control
+  container-title: Berkeley workshop
+  page: '71-84'
+
+- id: conf/berkeley/White76
+  type: paper-conference
+  author:
+  - family: White
+    given: James
+  issued:
+  - year: '1976'
+  title: A network-wide virtual programming environment
+  container-title: Berkeley workshop
+  page: '119-'
+
+- id: conf/berkeley/Killeen76
+  type: paper-conference
+  author:
+  - family: Killeen
+    given: John
+  issued:
+  - year: '1976'
+  title: The cTR computer network
+  container-title: Berkeley workshop
+  page: '6-'
+
+- id: conf/berkeley/WeberBP79
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Herbert
+  - family: Baum
+    given: Dieter
+  - family: Popescu-Zeletin
+    given: Radu
+  issued:
+  - year: '1979'
+  title: An evolutionary system architecture for a distributed data base management
+    system
+  container-title: Berkeley workshop
+  page: '376-'
+
+- id: conf/berkeley/StonebrakerN77
+  type: paper-conference
+  author:
+  - family: Stonebraker
+    given: Michael
+  - family: Neuhold
+    given: Erich J.
+  issued:
+  - year: '1977'
+  title: A distributed database version of iNGRES
+  container-title: Berkeley workshop
+  page: '19-36'
+
+- id: conf/berkeley/Nessett79
+  type: paper-conference
+  author:
+  - family: Nessett
+    given: Dan M.
+  issued:
+  - year: '1979'
+  title: A protocol for buffer space negotiation
+  container-title: Berkeley workshop
+  page: '284-'
+
+- id: conf/berkeley/Amiot76
+  type: paper-conference
+  author:
+  - family: Amiot
+    given: Lawrence
+  issued:
+  - year: '1976'
+  title: Front-ending at argonne national laboratory
+  container-title: Berkeley workshop
+  page: '43-'
+
+- id: conf/berkeley/Sproull76
+  type: paper-conference
+  author:
+  - family: Sproull
+    given: Robert F.
+  issued:
+  - year: '1976'
+  title: Network graphics isn’t networking
+  container-title: Berkeley workshop
+  page: '38-'
+
+- id: conf/berkeley/LiHG82
+  type: paper-conference
+  author:
+  - family: Li
+    given: Liang
+  - family: Hughes
+    given: Herman D.
+  - family: Greenberg
+    given: Lewis H.
+  issued:
+  - year: '1982'
+  title: Performance analysis of a shortest-delay protocol
+  container-title: Berkeley workshop
+  page: '259-281'
+
+- id: conf/berkeley/Ries79
+  type: paper-conference
+  author:
+  - family: Ries
+    given: Daniel R.
+  issued:
+  - year: '1979'
+  title: The effects of concurrency control on the performance of a distributed data
+    management system
+  container-title: Berkeley workshop
+  page: '75-112'
+
+- id: conf/berkeley/Michener76
+  type: paper-conference
+  author:
+  - family: Michener
+    given: James C.
+  issued:
+  - year: '1976'
+  title: The design of the aRPA network graphics protocol
+  container-title: Berkeley workshop
+  page: '21-'
+
+- id: conf/berkeley/PlinerMS77
+  type: paper-conference
+  author:
+  - family: Pliner
+    given: Michael
+  - family: McGowan
+    given: Larry
+  - family: Spalding
+    given: Ken
+  issued:
+  - year: '1977'
+  title: A distributed data management system for real-time applications
+  container-title: Berkeley workshop
+  page: '68-88'
+
+- id: conf/berkeley/PeacockMW79
+  type: paper-conference
+  author:
+  - family: Peacock
+    given: J. Kent
+  - family: Manning
+    given: Eric G.
+  - family: Wong
+    given: Johnny W.
+  issued:
+  - year: '1979'
+  title: Synchronization of distributed simulation using braodcast algorithms
+  container-title: Berkeley workshop
+  page: '237-'
+
+- id: conf/berkeley/Tymes76
+  type: paper-conference
+  author:
+  - family: Tymes
+    given: LaRoy
+  issued:
+  - year: '1976'
+  title: TYMNET
+  container-title: Berkeley workshop
+  page: '15'
+
+- id: conf/berkeley/Alsberg76a
+  type: paper-conference
+  author:
+  - family: Alsberg
+    given: Peter
+  issued:
+  - year: '1976'
+  title: Synchronization and resiliency in network data access
+  container-title: Berkeley workshop
+  page: '291-'
+
+- id: conf/berkeley/Minoura79
+  type: paper-conference
+  author:
+  - family: Minoura
+    given: Toshimi
+  issued:
+  - year: '1979'
+  title: A new concurrency control algorithm for distributed database systems
+  container-title: Berkeley workshop
+  page: '221-'
+
+- id: conf/berkeley/Sollins81
+  type: paper-conference
+  author:
+  - family: Sollins
+    given: Karen R.
+  issued:
+  - year: '1981'
+  title: Copying structured objects in a distributed system
+  container-title: Berkeley workshop
+  page: '284-297'
+
+- id: conf/berkeley/Farrell76
+  type: paper-conference
+  author:
+  - family: Farrell
+    given: Jerry
+  issued:
+  - year: '1976'
+  title: The datacomputer - a network data utility
+  container-title: Berkeley workshop
+  page: '352-364'
+
+- id: conf/berkeley/Greif81
+  type: paper-conference
+  author:
+  - family: Greif
+    given: Irene
+  issued:
+  - year: '1981'
+  title: Distributed data bases in a callendar system
+  container-title: Berkeley workshop
+  page: '67'
+
+- id: conf/berkeley/Wong81
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Eugene
+  issued:
+  - year: '1981'
+  title: 'Dynamic re-materialization: Processing distributed queries using redundant
+    data'
+  title-short: Dynamic re-materialization
+  container-title: Berkeley workshop
+  page: '3-13'
+
+- id: conf/berkeley/Stonebraker76a
+  type: paper-conference
+  author:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1976'
+  title: The data base management system iNGRES
+  container-title: Berkeley workshop
+  page: '336'
+
+- id: conf/berkeley/Traiger76
+  type: paper-conference
+  author:
+  - family: Traiger
+    given: Irving L.
+  issued:
+  - year: '1976'
+  title: 'System r: A relational approach to data base management'
+  title-short: System r
+  container-title: Berkeley workshop
+  page: '334'
+
+- id: conf/berkeley/CohenHHW82
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Neil B.
+  - family: Haley
+    given: Charles B.
+  - family: Henderson
+    given: Scott
+  - family: Won
+    given: Chak
+  issued:
+  - year: '1982'
+  title: Gemini - a reliable local network
+  container-title: Berkeley workshop
+  page: '1-22'
+
+- id: conf/berkeley/Postel76
+  type: paper-conference
+  author:
+  - family: Postel
+    given: Jonathan B.
+  issued:
+  - year: '1976'
+  title: Consistent access to programs
+  container-title: Berkeley workshop
+  page: '98-'
+
+- id: conf/berkeley/OpderbeckHS78
+  type: paper-conference
+  author:
+  - family: Opderbeck
+    given: Holger
+  - family: Hoffmeier
+    given: Jay H.
+  - family: Spitzer
+    given: Roy L.
+  issued:
+  - year: '1978'
+  title: Software architecture for a microprocessor-based packet network
+  container-title: Berkeley workshop
+  page: '21-35'
+
+- id: conf/berkeley/Bachman78
+  type: paper-conference
+  author:
+  - family: Bachman
+    given: Charles W.
+  issued:
+  - year: '1978'
+  title: Provisional model of open system architecture
+  container-title: Berkeley workshop
+  page: '1-18'
+
+- id: conf/berkeley/Franklin76
+  type: paper-conference
+  author:
+  - family: Franklin
+    given: Gene
+  issued:
+  - year: '1976'
+  title: EDUCOM
+  container-title: Berkeley workshop
+  page: '5'
+
+- id: conf/berkeley/SkeenS81
+  type: paper-conference
+  author:
+  - family: Skeen
+    given: Dale
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1981'
+  title: A formal model of crash recovery in a distributed system
+  container-title: Berkeley workshop
+  page: '129-142'
+
+- id: conf/berkeley/GelenbeS78
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  - family: Sevcik
+    given: Kenneth C.
+  issued:
+  - year: '1978'
+  title: Analysis of update synchronization for multiple copy data-bases
+  container-title: Berkeley workshop
+  page: '69-90'
+
+- id: conf/berkeley/Donnelley76
+  type: paper-conference
+  author:
+  - family: Donnelley
+    given: James E.
+  issued:
+  - year: '1976'
+  title: Extendable information formats
+  container-title: Berkeley workshop
+  page: '107-'
+
+- id: conf/berkeley/Apers81
+  type: paper-conference
+  author:
+  - family: Apers
+    given: Peter M. G.
+  issued:
+  - year: '1981'
+  title: Redundant allocation of relations in a communication network
+  container-title: Berkeley workshop
+  page: '245-258'
+
+- id: conf/berkeley/Richards76a
+  type: paper-conference
+  author:
+  - family: Richards
+    given: David
+  issued:
+  - year: '1976'
+  title: The berkeley data-base management system
+  container-title: Berkeley workshop
+  page: '335'
+
+- id: conf/berkeley/FauserN79
+  type: paper-conference
+  author:
+  - family: Fauser
+    given: U.
+  - family: Neuhold
+    given: Erich J.
+  issued:
+  - year: '1979'
+  title: Transaction processing in the distributed dBMS-pOREL
+  container-title: Berkeley workshop
+  page: '353-'
+
+- id: conf/berkeley/Dodds76
+  type: paper-conference
+  author:
+  - family: Dodds
+    given: Doug
+  issued:
+  - year: '1976'
+  title: Notes on the development of message technology
+  container-title: Berkeley workshop
+  page: '144-'
+
+- id: conf/berkeley/Schuster76
+  type: paper-conference
+  author:
+  - family: Schuster
+    given: Stewart A.
+  issued:
+  - year: '1976'
+  title: The case for a parallel-associative approach to data base machine architectures
+  container-title: Berkeley workshop
+  page: '365-'
+
+- id: conf/berkeley/FosterDA81
+  type: paper-conference
+  author:
+  - family: Foster
+    given: Derrell V.
+  - family: Dowdy
+    given: Lawrence W.
+  - family: IV
+    given: James E. Ames
+  issued:
+  - year: '1981'
+  title: File assignment in a computer network
+  container-title: Berkeley workshop
+  page: '259-238'
+
+- id: conf/berkeley/Lindsay81
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Bruce G. Lindsay
+  issued:
+  - year: '1981'
+  title: 'Site autonomy issues in r\*: A distributed database management system'
+  title-short: Site autonomy issues in r\*
+  container-title: Berkeley workshop
+  page: '68'
+
+- id: conf/berkeley/Heller77
+  type: paper-conference
+  author:
+  - family: Heller
+    given: J.
+  issued:
+  - year: '1977'
+  title: The design and data model of the bNL archive and dissemination system
+  container-title: Berkeley workshop
+  page: '161-'
+
+- id: conf/berkeley/BaruaBD81
+  type: paper-conference
+  author:
+  - family: Barua
+    given: Gautam
+  - family: Bruno
+    given: John L.
+  - family: Downey
+    given: Peter J.
+  issued:
+  - year: '1981'
+  title: Performance analysis of a distributed file cache
+  container-title: Berkeley workshop
+  page: '240'
+
+- id: conf/berkeley/Stonebraker76
+  type: paper-conference
+  author:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1976'
+  title: Proposal for a network iNGRES
+  container-title: Berkeley workshop
+  page: '132-'
+
+- id: conf/berkeley/Baskin76
+  type: paper-conference
+  author:
+  - family: Baskin
+    given: Herbert
+  issued:
+  - year: '1976'
+  title: The architecture of data base oriented systems
+  container-title: Berkeley workshop
+  page: '339-'
+
+- id: conf/berkeley/Badal79
+  type: paper-conference
+  author:
+  - family: Badal
+    given: Dushan Z.
+  issued:
+  - year: '1979'
+  title: On efficient monitoring of database assertions in distributed databases
+  container-title: Berkeley workshop
+  page: '125-'
+
+- id: conf/berkeley/PickensFM79
+  type: paper-conference
+  author:
+  - family: Pickens
+    given: J. R.
+  - family: Feinler
+    given: Elizabeth
+  - family: Mathis
+    given: J. E.
+  issued:
+  - year: '1979'
+  title: The nIC name server - a datagram based information utility
+  container-title: Berkeley workshop
+  page: '275-'
+
+- id: conf/berkeley/Shoshani76
+  type: paper-conference
+  author:
+  - family: Shoshani
+    given: Arie
+  issued:
+  - year: '1976'
+  title: On the importance of common standards for logical structures, data formats,
+    and query languages
+  container-title: Berkeley workshop
+  page: '183-'
+
+- id: conf/berkeley/Brooks76
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Al
+  issued:
+  - year: '1976'
+  title: An extension of the aNSI z39.2 standard to general information exchange
+  container-title: Berkeley workshop
+  page: '157-'
+
+- id: conf/berkeley/Dalal76
+  type: paper-conference
+  author:
+  - family: Dalal
+    given: Yogen K.
+  issued:
+  - year: '1976'
+  title: Distributed file systems
+  container-title: Berkeley workshop
+  page: '296-'
+
+- id: conf/berkeley/Korth81
+  type: paper-conference
+  author:
+  - family: Korth
+    given: Henry F.
+  issued:
+  - year: '1981'
+  title: A deadlock-free, variable granularity locking protocol
+  container-title: Berkeley workshop
+  page: '105-121'
+
+- id: conf/berkeley/Popescu-ZeletinHHJM81
+  type: paper-conference
+  author:
+  - family: Popescu-Zeletin
+    given: Radu
+  - family: Henckel
+    given: Lutz
+  - family: Heinze
+    given: W.
+  - family: Jacobsen
+    given: K.
+  - family: Maiß
+    given: Gisela
+  issued:
+  - year: '1981'
+  title: 'Network data management: The virtual file system'
+  title-short: Network data management
+  container-title: Berkeley workshop
+  page: '239'
+
+- id: conf/berkeley/Stonebraker78
+  type: paper-conference
+  author:
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1978'
+  title: Concurrency control and consistency of multiple copies of data in distributed
+    iNGRES
+  container-title: Berkeley workshop
+  page: '235-258'
+  note: 'journal version: IEEE Trans. Software Eng. 5(3): 188-194(1979)'
+
+- id: conf/berkeley/WatsonF79
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Richard W.
+  - family: Fletcher
+    given: John G.
+  issued:
+  - year: '1979'
+  title: An architecture for support of network operating system services
+  container-title: Berkeley workshop
+  page: '18-'
+
+- id: conf/berkeley/Bochmann78
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  issued:
+  - year: '1978'
+  title: Synchronization in distributed system modules
+  container-title: Berkeley workshop
+  page: '322-339'
+
+- id: conf/berkeley/LinN82
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Wen-Te K.
+  - family: Nolte
+    given: Jerry
+  issued:
+  - year: '1982'
+  title: Performance of two phase locking
+  container-title: Berkeley workshop
+  page: '131-160'
+
+- id: conf/berkeley/GerhardsteinSB78
+  type: paper-conference
+  author:
+  - family: Gerhardstein
+    given: L. H.
+  - family: Schroeder
+    given: James O.
+  - family: Boland
+    given: A. J.
+  issued:
+  - year: '1978'
+  title: The pacific northwest laboratory minicomputer network
+  container-title: Berkeley workshop
+  page: '144-158'
+
+- id: conf/berkeley/KimbletonWF79
+  type: paper-conference
+  author:
+  - family: Kimbleton
+    given: Stephen R.
+  - family: Wang
+    given: P.
+  - family: Fong
+    given: Elizabeth N.
+  issued:
+  - year: '1979'
+  title: 'XNDM: An experimental network data manager'
+  title-short: XNDM
+  container-title: Berkeley workshop
+  page: '3-17'
+
+- id: conf/berkeley/MartellaRS81
+  type: paper-conference
+  author:
+  - family: Martella
+    given: Giancarlo
+  - family: Ronchetti
+    given: B.
+  - family: Schreiber
+    given: Fabio A.
+  issued:
+  - year: '1981'
+  title: On evaluating availability in distributed database systems
+  container-title: Berkeley workshop
+  page: '154-171'
+
+- id: conf/berkeley/Lyle76
+  type: paper-conference
+  author:
+  - family: Lyle
+    given: Michael
+  issued:
+  - year: '1976'
+  title: Transmission system tradeoffs in ring-structured digital systems
+  container-title: Berkeley workshop
+  page: '231-'
+
+- id: conf/berkeley/DayalH82
+  type: paper-conference
+  author:
+  - family: Dayal
+    given: Umeshwar
+  - family: Hwang
+    given: Hai-Yann
+  issued:
+  - year: '1982'
+  title: 'View definition and generalization for database integration in multibase:
+    A system for heterogeneous distributed databases'
+  title-short: View definition and generalization for database integration in multibase
+  container-title: Berkeley workshop
+  page: '203-238'
+
+- id: conf/berkeley/Walter82
+  type: paper-conference
+  author:
+  - family: Walter
+    given: Bernd
+  issued:
+  - year: '1982'
+  title: A robust and efficient protocol for checking the availability of remote sites
+  container-title: Berkeley workshop
+  page: '45-67'
+
+- id: conf/berkeley/Badal81
+  type: paper-conference
+  author:
+  - family: Badal
+    given: Dushan Z.
+  issued:
+  - year: '1981'
+  title: Concurrency control overhead or closer look at blocking vs. nonblocking concurrency
+    control mechanisms
+  container-title: Berkeley workshop
+  page: '85-104'
+
+- id: conf/berkeley/Franceschini76
+  type: paper-conference
+  author:
+  - family: Franceschini
+    given: Ed
+  issued:
+  - year: '1976'
+  title: An aRPANET front-end for large computers
+  container-title: Berkeley workshop
+  page: '57-'
+
+- id: conf/berkeley/DuBourdieu82
+  type: paper-conference
+  author:
+  - family: DuBourdieux
+    given: Deborah
+  issued:
+  - year: '1982'
+  title: Implementation of distributed transactions
+  container-title: Berkeley workshop
+  page: '81-94'
+
+- id: conf/berkeley/Ellis77
+  type: paper-conference
+  author:
+  - family: Ellis
+    given: Clarence A.
+  issued:
+  - year: '1977'
+  title: A robust algorithm for updating duplicate databases
+  container-title: Berkeley workshop
+  page: '146-158'
+
+- id: conf/berkeley/ParkerR82
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Douglas Stott Parker
+  - family: Ramos
+    given: Raimundo A.
+  issued:
+  - year: '1982'
+  title: A distributed file system architecture supporting high availability
+  container-title: Berkeley workshop
+  page: '161-183'
+
+- id: conf/berkeley/ParkerPRSWWCEKK81
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Douglas Stott Parker
+  - family: Popek
+    given: Gerald J.
+  - family: Rudisin
+    given: Gerard
+  - family: Stoughton
+    given: Allen
+  - family: Walker
+    given: Bruce J.
+  - family: Walton
+    given: Evelyn
+  - family: Chow
+    given: Johanna M.
+  - family: Edwards
+    given: David A.
+  - family: Kiser
+    given: Stephen
+  - family: Kline
+    given: Charles S.
+  issued:
+  - year: '1981'
+  title: Detection of mutual inconsitency in distributed systems
+  container-title: Berkeley workshop
+  page: '172-184'
+
+- id: conf/berkeley/Pool76
+  type: paper-conference
+  author:
+  - family: Pool
+    given: James
+  issued:
+  - year: '1976'
+  title: Mathematical software in the network environment
+  container-title: Berkeley workshop
+  page: '79-'
+
+- id: conf/berkeley/GlasserU81
+  type: paper-conference
+  author:
+  - family: Glasser
+    given: Alan L.
+  - family: Ungar
+    given: David M.
+  issued:
+  - year: '1981'
+  title: A distributed uNIX system
+  container-title: Berkeley workshop
+  page: '241'
+
+- id: conf/berkeley/Blauman79
+  type: paper-conference
+  author:
+  - family: Blauman
+    given: Sheldon R.
+  issued:
+  - year: '1979'
+  title: 'Labeled slot multiplexing: A technique for a high speed, fiber optic based,
+    loop network'
+  title-short: Labeled slot multiplexing
+  container-title: Berkeley workshop
+  page: '309-'
+
+- id: conf/berkeley/Marill76
+  type: paper-conference
+  author:
+  - family: Marill
+    given: Thomas
+  issued:
+  - year: '1976'
+  title: TDA message system
+  container-title: Berkeley workshop
+  page: '143'
+
+- id: conf/berkeley/Shu76
+  type: paper-conference
+  author:
+  - family: Shu
+    given: Nan C.
+  issued:
+  - year: '1976'
+  title: An approach to data migration in computer networks
+  container-title: Berkeley workshop
+  page: '197-'
+
+- id: conf/berkeley/Wall82
+  type: paper-conference
+  author:
+  - family: Wall
+    given: David W.
+  issued:
+  - year: '1982'
+  title: Selective broadcast in packet-switched networks
+  container-title: Berkeley workshop
+  page: '239-258'
+
+- id: conf/berkeley/GarlickRP77
+  type: paper-conference
+  author:
+  - family: Garlick
+    given: Lawrence L.
+  - family: Rom
+    given: Raphael
+  - family: Postel
+    given: Jonathan B.
+  issued:
+  - year: '1977'
+  title: Issues in reliable host-to-host protocols
+  container-title: Berkeley workshop
+  page: '89-'
+
+- id: conf/berkeley/Sunshine76
+  type: paper-conference
+  author:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1976'
+  title: Alternatives for computer network interconnection
+  container-title: Berkeley workshop
+  page: '276-'
+
+- id: conf/berkeley/Barua82
+  type: paper-conference
+  author:
+  - family: Barua
+    given: Gautam
+  issued:
+  - year: '1982'
+  title: Mutual consistency of copies of files based on request characteristics
+  container-title: Berkeley workshop
+  page: '95-115'
+
+- id: conf/berkeley/NaffahZ78
+  type: paper-conference
+  author:
+  - family: Naffah
+    given: Najah
+  - family: Zimmermann
+    given: Hubert
+  issued:
+  - year: '1978'
+  title: Protocol converters and user interface in the cyclades network
+  container-title: Berkeley workshop
+  page: '36-53'
+
+- id: conf/berkeley/KrishnamurthyD82
+  type: paper-conference
+  author:
+  - family: Krishnamurthy
+    given: Ravi
+  - family: Dayal
+    given: Umeshwar
+  issued:
+  - year: '1982'
+  title: On the correct and efficient scheduling of transactions in a highly parallel
+    database machine
+  container-title: Berkeley workshop
+  page: '329-361'
+
+- id: conf/berkeley/Selinger81
+  type: paper-conference
+  author:
+  - family: Selinger
+    given: Patricia G.
+  issued:
+  - year: '1981'
+  title: 'An architectural overview of r\*: A distributed database management system'
+  title-short: An architectural overview of r\*
+  container-title: Berkeley workshop
+  page: '187'
+
+- id: conf/berkeley/Greiman76
+  type: paper-conference
+  author:
+  - family: Greiman
+    given: William
+  issued:
+  - year: '1976'
+  title: 'MICROBUS: A multiple microprocessor i/O system'
+  title-short: MICROBUS
+  container-title: Berkeley workshop
+  page: '249-'
+
+- id: conf/berkeley/MenasceM78
+  type: paper-conference
+  author:
+  - family: Menascé
+    given: Daniel A.
+  - family: Muntz
+    given: Richard R.
+  issued:
+  - year: '1978'
+  title: Locking and deadlock detection in distributed databases
+  container-title: Berkeley workshop
+  page: '215-232'
+
+- id: conf/berkeley/Minoura78
+  type: paper-conference
+  author:
+  - family: Minoura
+    given: Toshimi
+  issued:
+  - year: '1978'
+  title: Maximally concurrent transaction processing
+  container-title: Berkeley workshop
+  page: '206-214'
+
+- id: conf/berkeley/SolomonLN82
+  type: paper-conference
+  author:
+  - family: Solomon
+    given: Marvin H.
+  - family: Landweber
+    given: Lawrence H.
+  - family: Neuhengen
+    given: Donald
+  issued:
+  - year: '1982'
+  title: The design of the cSNET name server
+  container-title: Berkeley workshop
+  page: '311-327'
+
+- id: conf/berkeley/HevnerY78
+  type: paper-conference
+  author:
+  - family: Hevner
+    given: Alan R.
+  - family: Yao
+    given: S. Bing
+  issued:
+  - year: '1978'
+  title: Query processing on a distributed database
+  container-title: Berkeley workshop
+  page: '91-107'
+  note: 'journal version: IEEE Trans. Software Eng. 5(3): 177-187(1979)'
+
+- id: conf/berkeley/Skeen82
+  type: paper-conference
+  author:
+  - family: Skeen
+    given: Dale
+  issued:
+  - year: '1982'
+  title: A quorum-based commit protocol
+  container-title: Berkeley workshop
+  page: '69-80'
+
+- id: conf/berkeley/Metcalfe76
+  type: paper-conference
+  author:
+  - family: Metcalfe
+    given: Robert
+  issued:
+  - year: '1976'
+  title: 'Ethernet: Distributed packet switching for local computer networks'
+  title-short: Ethernet
+  container-title: Berkeley workshop
+  page: '238'
+
+- id: conf/berkeley/Retz76
+  type: paper-conference
+  author:
+  - family: Retz
+    given: David
+  issued:
+  - year: '1976'
+  title: Packet radio network protocol structures
+  container-title: Berkeley workshop
+  page: '239-'
+
+- id: conf/berkeley/Lai81
+  type: paper-conference
+  author:
+  - family: Lai
+    given: Wai Sum
+  issued:
+  - year: '1981'
+  title: An analysis of piggybacking in packet networks
+  container-title: Berkeley workshop
+  page: '199-216'
+
+- id: conf/berkeley/YuLCC82
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Clement T.
+  - family: Lam
+    given: K.
+  - family: Chang
+    given: C. C.
+  - family: Chang
+    given: S. K.
+  issued:
+  - year: '1982'
+  title: Promising approach to distributed query processing
+  container-title: Berkeley workshop
+  page: '363-390'
+
+- id: conf/berkeley/PeacockWM78
+  type: paper-conference
+  author:
+  - family: Peacock
+    given: J. Kent
+  - family: Wong
+    given: Johnny W.
+  - family: Manning
+    given: Eric G.
+  issued:
+  - year: '1978'
+  title: Distributed simulation using a network of microcomputers
+  container-title: Berkeley workshop
+  page: '358-371'
+
+- id: conf/berkeley/Postel76a
+  type: paper-conference
+  author:
+  - family: Postel
+    given: Jonathan B.
+  issued:
+  - year: '1976'
+  title: Frontend-backend split programs
+  container-title: Berkeley workshop
+  page: '115-'
+
+- id: conf/berkeley/Grossman76a
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Gary
+  issued:
+  - year: '1976'
+  title: A host-front end protocol
+  container-title: Berkeley workshop
+  page: '114'
+
+- id: conf/berkeley/Spira77
+  type: paper-conference
+  author:
+  - family: Spira
+    given: Philip M.
+  issued:
+  - year: '1977'
+  title: Communication complexity of distributed minimum spanning tree algorithms
+  container-title: Berkeley workshop
+  page: '236-'
+
+- id: conf/berkeley/BernsteinS78
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Philip A.
+  - family: Shipman
+    given: David W.
+  issued:
+  - year: '1978'
+  title: A formal model of concurrency control mechanisms for database systems
+  container-title: Berkeley workshop
+  page: '189-205'
+
+- id: conf/berkeley/Lann78
+  type: paper-conference
+  author:
+  - family: Lann
+    given: Gérard Le
+  issued:
+  - year: '1978'
+  title: Algorithms for distributed data-sharing systems which use tickets
+  container-title: Berkeley workshop
+  page: '259-272'
+
+- id: conf/berkeley/Segall78
+  type: paper-conference
+  author:
+  - family: Segall
+    given: Adrian
+  issued:
+  - year: '1978'
+  title: Failsafe distributed algorithms for routing in communication networks
+  container-title: Berkeley workshop
+  page: '178-185'
+
+- id: conf/berkeley/RothnieG77
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: James B. Rothnie
+  - family: Goodman
+    given: Nathan
+  issued:
+  - year: '1977'
+  title: 'An overview of the preliminary design of sDD-1: A system for distributed
+    databases'
+  title-short: An overview of the preliminary design of sDD-1
+  container-title: Berkeley workshop
+  page: '39-57'
+
+- id: conf/berkeley/Cotton77
+  type: paper-conference
+  author:
+  - family: Cotton
+    given: Ira W.
+  issued:
+  - year: '1977'
+  title: Computer network interconnection
+  container-title: Berkeley workshop
+  page: '3-'
+
+- id: conf/berkeley/Weiner77
+  type: paper-conference
+  author:
+  - family: Weiner
+    given: James L.
+  issued:
+  - year: '1977'
+  title: Deriving data base specifications from user queries
+  container-title: Berkeley workshop
+  page: '182-'
+
+- id: conf/berkeley/Rosen79
+  type: paper-conference
+  author:
+  - family: Rosen
+    given: Eric C.
+  issued:
+  - year: '1979'
+  title: 'The updating protocol of the aRPANET’s new routing algorithm: A case study
+    in maintaining identical copies of a changing distributed data base'
+  title-short: The updating protocol of the aRPANET’s new routing algorithm
+  container-title: Berkeley workshop
+  page: '260-'
+
+- id: conf/berkeley/Burger77
+  type: paper-conference
+  author:
+  - family: Burger
+    given: John F.
+  issued:
+  - year: '1977'
+  title: Data base semantics in the eUFID system
+  container-title: Berkeley workshop
+  page: '202-'
+
+- id: conf/berkeley/CohenY79
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: D.
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1979'
+  title: Protocols for dating coordination
+  container-title: Berkeley workshop
+  page: '179-'
+
+- id: conf/berkeley/Gray76
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Terry
+  issued:
+  - year: '1976'
+  title: Job control in a network computing environment
+  container-title: Berkeley workshop
+  page: '75-'
+
+- id: conf/berkeley/ChengB82
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Wing Kai
+  - family: Belford
+    given: Geneva G.
+  issued:
+  - year: '1982'
+  title: The resiliency of fully replicated distributed databases
+  container-title: Berkeley workshop
+  page: '23-44'
+
+- id: conf/berkeley/RosenkrantzSL77
+  type: paper-conference
+  author:
+  - family: Rosenkrantz
+    given: Daniel J.
+  - family: Stearns
+    given: Richard Edwin
+  - family: II
+    given: Philip M. Lewis
+  issued:
+  - year: '1977'
+  title: A system level concurrency control for distributed database systems
+  container-title: Berkeley workshop
+  page: '132-145'
+
+- id: conf/berkeley/DAmbrosio77
+  type: paper-conference
+  author:
+  - family: D’Ambrosio
+    given: B. D.
+  issued:
+  - year: '1977'
+  title: Design studies for an on-line u.C. libray catalog network
+  container-title: Berkeley workshop
+  page: '257-'
+
+- id: conf/berkeley/YehC78
+  type: paper-conference
+  author:
+  - family: Yeh
+    given: Randolph T.
+  - family: Chandy
+    given: K. Mani
+  issued:
+  - year: '1978'
+  title: On the design of elementary distributed systems
+  container-title: Berkeley workshop
+  page: '289-321'
+
+- id: conf/berkeley/Alsberg76
+  type: paper-conference
+  author:
+  - family: Alsberg
+    given: Peter
+  issued:
+  - year: '1976'
+  title: Data distribution strategies
+  container-title: Berkeley workshop
+  page: '127-'
+
+- id: conf/berkeley/ChesleyH81
+  type: paper-conference
+  author:
+  - family: Chesley
+    given: Harry R.
+  - family: Hunt
+    given: V. Bruce
+  issued:
+  - year: '1981'
+  title: Squire - a communications-oriented operating system
+  container-title: Berkeley workshop
+  page: '191-198'
+
+- id: conf/berkeley/BachGK79
+  type: paper-conference
+  author:
+  - family: Bach
+    given: Maurice J.
+  - family: Goguen
+    given: Nancy H.
+  - family: Kaplan
+    given: Michael M.
+  issued:
+  - year: '1979'
+  title: The aDAPT data translation system and applications
+  container-title: Berkeley workshop
+  page: '51-'
+
+- id: conf/berkeley/Kimbleton77
+  type: paper-conference
+  author:
+  - family: Kimbleton
+    given: Stephen R.
+  issued:
+  - year: '1977'
+  title: A fast approach to network data assignment
+  container-title: Berkeley workshop
+  page: '245-'
+
+- id: conf/berkeley/Attar81
+  type: paper-conference
+  author:
+  - family: Attar
+    given: Rony
+  issued:
+  - year: '1981'
+  title: A distributed adaptive multi-path routing-consistent and conflicting decision
+    making
+  container-title: Berkeley workshop
+  page: '217-236'
+...

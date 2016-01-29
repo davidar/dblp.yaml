@@ -1,0 +1,681 @@
+---
+references:
+- id: conf/ccl/BachmairG94
+  type: paper-conference
+  author:
+  - family: Bachmair
+    given: Leo
+  - family: Ganzinger
+    given: Harald
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: 'Buchberger’s algorithm: A constraint-based completion procedure'
+  title-short: Buchberger’s algorithm
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-301'
+  volume: '845'
+  DOI: 10.1007/BFb0016860
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Barth94
+  type: paper-conference
+  author:
+  - family: Barth
+    given: Peter
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Simplifying clausal satisfiability problems
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-33'
+  volume: '845'
+  DOI: 10.1007/BFb0016842
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/QianW94
+  type: paper-conference
+  author:
+  - family: Qian
+    given: Zhenyu
+  - family: Wang
+    given: Kang
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Modular aC unification of higher-order patterns
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-120'
+  volume: '845'
+  DOI: 10.1007/BFb0016847
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/1999
+  type: book
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '2001'
+  title: 'Constraints in computational logics: Theory and applications, international
+    summer school, cCL’99 gif-sur-yvette, france, september 5-8, 1999, revised lectures'
+  title-short: Constraints in computational logics
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2002'
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/BaaderS99
+  type: paper-conference
+  author:
+  - family: Baader
+    given: Franz
+  - family: Schulz
+    given: Klaus U.
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: Combining constraint solving
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-158'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_3
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/BackofenT94
+  type: paper-conference
+  author:
+  - family: Backofen
+    given: Rolf
+  - family: Treinen
+    given: Ralf
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: How to win a game with features
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '320-335'
+  volume: '845'
+  DOI: 10.1007/BFb0016863
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/NielsonN94
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Flemming
+  - family: Nielson
+    given: Hanne Riis
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Constraints for polymorphic behaviours of concurrent mL
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-88'
+  volume: '845'
+  DOI: 10.1007/BFb0016845
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Simonis99
+  type: paper-conference
+  author:
+  - family: Simonis
+    given: Helmut
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: Building industrial applications with constraint programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-309'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_6
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/ComonK99
+  type: paper-conference
+  author:
+  - family: Comon
+    given: Hubert
+  - family: Kirchner
+    given: Claude
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: Constraint solving on terms
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-103'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_2
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/Prehofer94
+  type: paper-conference
+  author:
+  - family: Prehofer
+    given: Christian
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: On modularity in term rewriting and narrowing
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-268'
+  volume: '845'
+  DOI: 10.1007/BFb0016858
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/JouannaudT99
+  type: paper-conference
+  author:
+  - family: Jouannaud
+    given: Jean-Pierre
+  - family: Treinen
+    given: Ralf
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: 'Constraints and constraint solving: An introduction'
+  title-short: Constraints and constraint solving
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-46'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_1
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/AvenhausL94
+  type: paper-conference
+  author:
+  - family: Avenhaus
+    given: Jürgen
+  - family: Loría-Sáenz
+    given: Carlos
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Higher order conditional rewriting and narrowing
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '269-284'
+  volume: '845'
+  DOI: 10.1007/BFb0016859
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Snyder94
+  type: paper-conference
+  author:
+  - family: Snyder
+    given: Wayne
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Automated deduction with constraints
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-2'
+  volume: '845'
+  DOI: 10.1007/BFb0016840
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Tsutsumi94
+  type: paper-conference
+  author:
+  - family: Tsutsumi
+    given: Fujio
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: An efficient algorithm of logic programming with constraint hierarchy
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-182'
+  volume: '845'
+  DOI: 10.1007/BFb0016852
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Lugiez94
+  type: paper-conference
+  author:
+  - family: Lugiez
+    given: Denis
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: 'Higher order disunification: Some decidable cases'
+  title-short: Higher order disunification
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-135'
+  volume: '845'
+  DOI: 10.1007/BFb0016848
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Simonis94
+  type: paper-conference
+  author:
+  - family: Simonis
+    given: Helmut
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Applications of constraint logic programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-153'
+  volume: '845'
+  DOI: 10.1007/BFb0016850
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Charatonik94
+  type: paper-conference
+  author:
+  - family: Charatonik
+    given: Witold
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Set constraints in some equational theories
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304-319'
+  volume: '845'
+  DOI: 10.1007/BFb0016862
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Michaylov94
+  type: paper-conference
+  author:
+  - family: Michaylov
+    given: Spiro
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Repeated redundant inequalities in constraint logic programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-169'
+  volume: '845'
+  DOI: 10.1007/BFb0016851
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/JohannS94
+  type: paper-conference
+  author:
+  - family: Johann
+    given: Patricia
+  - family: Socher-Ambrosius
+    given: Rolf
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Solving simplification ordering constraints
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '352-367'
+  volume: '845'
+  DOI: 10.1007/BFb0016865
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/1994
+  type: book
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Constraints in computational logics, first international conference, cCL’94,
+    munich, germant, september 7-9, 1994
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '845'
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/GanzingerN99
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  - family: Nieuwenhuis
+    given: Robert
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: Constraints and theorem proving
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-201'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_4
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/HenseS94
+  type: paper-conference
+  author:
+  - family: Hense
+    given: Andreas V.
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: A record calculus with principal types
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-236'
+  volume: '845'
+  DOI: 10.1007/BFb0016856
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/GilleronTT94
+  type: paper-conference
+  author:
+  - family: Gilleron
+    given: Rémi
+  - family: Tison
+    given: Sophie
+  - family: Tommasi
+    given: Marc
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Some new decidability results on positive and negative set constraints
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '336-351'
+  volume: '845'
+  DOI: 10.1007/BFb0016864
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/BoudedC94
+  type: paper-conference
+  author:
+  - family: Boudet
+    given: Alexandre
+  - family: Contejean
+    given: Evelyne
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: “Syntactic” aC-unification
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-151'
+  volume: '845'
+  DOI: 10.1007/BFb0016849
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Dauchet94
+  type: paper-conference
+  author:
+  - family: Dauchet
+    given: Max
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Symbolic constraints and tree automata
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-218'
+  volume: '845'
+  DOI: 10.1007/BFb0016855
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/CodognetN94
+  type: paper-conference
+  author:
+  - family: Codognet
+    given: Philippe
+  - family: Nardiello
+    given: Giuseppe
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Path consistency in clp(FD)
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '201-216'
+  volume: '845'
+  DOI: 10.1007/BFb0016854
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Haberstrau94
+  type: paper-conference
+  author:
+  - family: Haberstrau
+    given: Marianne
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: 'ECOLOG: An environment for cOnstraint lOGics'
+  title-short: ECOLOG
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-252'
+  volume: '845'
+  DOI: 10.1007/BFb0016857
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Kozen94
+  type: paper-conference
+  author:
+  - family: Kozen
+    given: Dexter
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Set constraints and logic programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '302-303'
+  volume: '845'
+  DOI: 10.1007/BFb0016861
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/NiehrenS94
+  type: paper-conference
+  author:
+  - family: Niehren
+    given: Joachim
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: A confluent relational calculus for higher-order programming with constraints
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-104'
+  volume: '845'
+  DOI: 10.1007/BFb0016846
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/UribeS94
+  type: paper-conference
+  author:
+  - family: Uribe
+    given: Tomás E.
+  - family: Stickel
+    given: Mark E.
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Ordered binary decision diagrams and the davis-putnam procedure
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-49'
+  volume: '845'
+  DOI: 10.1007/BFb0016843
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Lynch94
+  type: paper-conference
+  author:
+  - family: Lynch
+    given: Christopher
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Local simplification
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-18'
+  volume: '845'
+  DOI: 10.1007/BFb0016841
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/BeckmannBM94
+  type: paper-conference
+  author:
+  - family: Beckmann
+    given: Renate
+  - family: Bieker
+    given: Ulrich
+  - family: Markhof
+    given: Ingolf
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: Application of constraint logic programming for vLSI cAD tools
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-200'
+  volume: '845'
+  DOI: 10.1007/BFb0016853
+  ISBN: 3-540-58403-X
+
+- id: conf/ccl/Rodriguez-Artalejo99
+  type: paper-conference
+  author:
+  - family: Rodríguez-Artalejo
+    given: Mario
+  editor:
+  - family: Comon
+    given: Hubert
+  issued:
+  - year: '1999'
+  title: Functional and constraint logic programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-270'
+  volume: '2002'
+  DOI: 10.1007/3-540-45406-3_5
+  ISBN: '3-540-41950-0'
+
+- id: conf/ccl/Smolka94
+  type: paper-conference
+  author:
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1994'
+  title: A foundation for higher-order concurrent constraint programming
+  container-title: CCL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-72'
+  volume: '845'
+  DOI: 10.1007/BFb0016844
+  ISBN: 3-540-58403-X
+...

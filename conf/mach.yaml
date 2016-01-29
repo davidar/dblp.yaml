@@ -1,0 +1,854 @@
+---
+references:
+- id: conf/mach/BryantCCR91
+  type: paper-conference
+  author:
+  - family: Bryant
+    given: Ray
+  - family: Carini
+    given: Paul R.
+  - family: Chang
+    given: Hung-Yang
+  - family: Rosenburg
+    given: Bryan S.
+  issued:
+  - year: '1991'
+  title: Supporting structured shared virtual memory under mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '59-76'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/supporting-structured-shared-virtual-memory-under-mach
+
+- id: conf/mach/Mitchell91
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: David W.
+  issued:
+  - year: '1991'
+  title: Mach resource control in oSF/1
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '123-130'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/mach-resource-control-osf1
+
+- id: conf/mach/GolubD91
+  type: paper-conference
+  author:
+  - family: Golub
+    given: David B.
+  - family: Draves
+    given: Richard
+  issued:
+  - year: '1991'
+  title: Moving the default memory manager out of the mach kernel
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '177-188'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/moving-default-memory-manager-out-mach-kernl
+
+- id: conf/mach/ForinGB91
+  type: paper-conference
+  author:
+  - family: Forin
+    given: Alessandro
+  - family: Golub
+    given: David B.
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1991'
+  title: An i/O system for mach 3.0
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '163-176'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/io-system-mach-30
+
+- id: conf/mach/Vaughan90
+  type: paper-conference
+  author:
+  - family: Vaughan
+    given: Francis
+  issued:
+  - year: '1990'
+  title: A persistent distributed architecure supported by the mach operating system
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '123-140'
+
+- id: conf/mach/1993
+  type: book
+  issued:
+  - year: '1993'
+  title: USENIX mACH iII symposium, santa fe, new mexico, uSA, april 19-21, 1993
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/GolubMR93
+  type: paper-conference
+  author:
+  - family: Golub
+    given: David B.
+  - family: Manikundalam
+    given: Ravi
+  - family: III
+    given: Freeman L. Rawson
+  issued:
+  - year: '1993'
+  title: MVM - an environment for running multiple dOS, windows and dPMI programs
+    on the microkernel
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '173-190'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/1991
+  type: book
+  issued:
+  - year: '1991'
+  title: USENIX mACH symposium, monterey, cA, uSA, november 20-22, 1991
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A270
+
+- id: conf/mach/Boyer91
+  type: paper-conference
+  author:
+  - family: Boyer
+    given: Fabienne
+  issued:
+  - year: '1991'
+  title: A causal distributed shared memory based on external pagers
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '41-58'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/causal-distributed-shared-memory-based-external-pagers
+
+- id: conf/mach/GinsbergBB93
+  type: paper-conference
+  author:
+  - family: Ginsberg
+    given: Michael
+  - family: Baron
+    given: Robert V.
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1993'
+  title: Using the mach communication primitives in x11
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '103-110'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/ginsberg.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/BanatreMHR91
+  type: paper-conference
+  author:
+  - family: Banâtre
+    given: Michel
+  - family: Muller
+    given: Gilles
+  - family: Heng
+    given: Pack
+  - family: Rochat
+    given: Bruno
+  issued:
+  - year: '1991'
+  title: How to design reliable servers using fault tolerant micro-kernel mechanisms
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '223-232'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/how-design-reliable-servers-using-fault-tolerant-micro-kernel
+
+- id: conf/mach/Goldberg90
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Arthur P.
+  issued:
+  - year: '1990'
+  title: Transparent recovery of mach applications
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '169-184'
+
+- id: conf/mach/Subramanian91
+  type: paper-conference
+  author:
+  - family: Subramanian
+    given: Indira
+  issued:
+  - year: '1991'
+  title: Managing discardable pages with an external pager
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '77-86'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/managing-discardable-pages-external-pager
+
+- id: conf/mach/ChaoMS90
+  type: paper-conference
+  author:
+  - family: Chao
+    given: Chia
+  - family: Mackey
+    given: Milon
+  - family: Sears
+    given: Bart
+  issued:
+  - year: '1990'
+  title: Mach on a virtually addressed cache architecture
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '31-52'
+
+- id: conf/mach/JulinCSGNR91
+  type: paper-conference
+  author:
+  - family: Julin
+    given: Daniel P.
+  - family: Chew
+    given: Jonathan
+  - family: Stevenson
+    given: J. Mark
+  - family: Guedes
+    given: Paulo
+  - family: Neves
+    given: Paul
+  - family: Roy
+    given: Paul
+  issued:
+  - year: '1991'
+  title: 'Generalized emulation services for mach 3.0: Overview, experiences and
+    current status'
+  title-short: Generalized emulation services for mach 3.0
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '13-26'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/generalized-emulation-services-mach-30%E2%80%94overview-experiences-and
+
+- id: conf/mach/SongC93
+  type: paper-conference
+  author:
+  - family: Song
+    given: Inshik
+  - family: Cho
+    given: Yookun
+  issued:
+  - year: '1993'
+  title: Page prefetching based on fault history
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '203-214'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/1990
+  type: book
+  issued:
+  - year: '1990'
+  title: USENIX mACH symposium, burlington, vT, uSA, 4-5 october 1990
+  publisher: USENIX
+
+- id: conf/mach/Koontz93
+  type: paper-conference
+  author:
+  - family: Koontz
+    given: Kenneth W.
+  issued:
+  - year: '1993'
+  title: 'Port buffers: A mach iPC optimization for handling large volumes of small
+    messages'
+  title-short: Port buffers
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '89-102'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/McNameeA90
+  type: paper-conference
+  author:
+  - family: McNamee
+    given: Dylan
+  - family: Armstrong
+    given: Katherine
+  issued:
+  - year: '1990'
+  title: Extending the mach external pager interface to accomodate user-level page
+    replacement policies
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '17-30'
+
+- id: conf/mach/SavageT93
+  type: paper-conference
+  author:
+  - family: Savage
+    given: Stefan
+  - family: Tokuda
+    given: Hideyuki
+  issued:
+  - year: '1993'
+  title: 'Real time - mach timers: Exporting time to the user'
+  title-short: Real time - mach timers
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '111-118'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/RashidMGB91
+  type: paper-conference
+  author:
+  - family: Rashid
+    given: Richard F.
+  - family: Malan
+    given: Gerald R.
+  - family: Golub
+    given: David B.
+  - family: Baron
+    given: Robert V.
+  issued:
+  - year: '1991'
+  title: DOS as a mach 3.0 application
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '27-40'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/dos-mach-30-application
+
+- id: conf/mach/TokudaNR90
+  type: paper-conference
+  author:
+  - family: Tokuda
+    given: Hideyuki
+  - family: Nakajima
+    given: Tatsuo
+  - family: Rao
+    given: Prithvi
+  issued:
+  - year: '1990'
+  title: 'Real-time mach: Towards a predictable real-time system'
+  title-short: Real-time mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '73-82'
+
+- id: conf/mach/TokudaN91
+  type: paper-conference
+  author:
+  - family: Tokuda
+    given: Hideyuki
+  - family: Nakajima
+    given: Tatsuo
+  issued:
+  - year: '1991'
+  title: Evaluation of real-time synchronization in real-time mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '213-222'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/evaluation-real-time-synchronization-real-time-mach
+
+- id: conf/mach/Welch91
+  type: paper-conference
+  author:
+  - family: Welch
+    given: Brent B.
+  issued:
+  - year: '1991'
+  title: The file system belongs in the kernel
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '233-250'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/file-system-belongs-kernel
+
+- id: conf/mach/PhelanAO93
+  type: paper-conference
+  author:
+  - family: Phelan
+    given: James M.
+  - family: Arendt
+    given: James
+  - family: Ormsby
+    given: Gary R.
+  issued:
+  - year: '1993'
+  title: An oS/2 personality on mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '191-202'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Barton-DavisMVL93
+  type: paper-conference
+  author:
+  - family: Barton-Davis
+    given: Paul
+  - family: McNamee
+    given: Dylan
+  - family: Vaswani
+    given: Raj
+  - family: Lazowska
+    given: Edward D.
+  issued:
+  - year: '1993'
+  title: Adding scheduler activations to mach 3.0
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '119-136'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Black90
+  type: paper-conference
+  author:
+  - family: Black
+    given: David L.
+  issued:
+  - year: '1990'
+  title: 'The mach timing facility: An implementation of accurate low-overhead usage
+    timing'
+  title-short: The mach timing facility
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '53-72'
+
+- id: conf/mach/Dean93
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Randall W.
+  issued:
+  - year: '1993'
+  title: Using continuations to build a user-level threads library
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '137-152'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/dean.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/ReynoldsH91
+  type: paper-conference
+  author:
+  - family: Reynolds
+    given: Franklin
+  - family: Heller
+    given: Jeffrey
+  issued:
+  - year: '1991'
+  title: Kernel support for network protocol servers
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '149-162'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/kernel-support-network-protocol-servers
+
+- id: conf/mach/MilojicicZDG93
+  type: paper-conference
+  author:
+  - family: Milojicic
+    given: Dejan S.
+  - family: Zint
+    given: Wolfgang
+  - family: Dangel
+    given: Andreas
+  - family: Giese
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Task migration on the top of the mach microkernel
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '273-290'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Draves91
+  type: paper-conference
+  author:
+  - family: Draves
+    given: Richard
+  issued:
+  - year: '1991'
+  title: Page replacement and reference bit emulation in mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '201-212'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/page-replacement-and-reference-bit-emulation-mach
+
+- id: conf/mach/BolingerM91
+  type: paper-conference
+  author:
+  - family: Bolinger
+    given: Don
+  - family: Mangalat
+    given: Shashi
+  issued:
+  - year: '1991'
+  title: Parallelizing signal handling and process management in oSF/1
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '105-122'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/parallelizing-signal-handling-and-process-management-osf1
+
+- id: conf/mach/NakajimaKT93
+  type: paper-conference
+  author:
+  - family: Nakajima
+    given: Tatsuo
+  - family: Kitayama
+    given: Takuro
+  - family: Tokuda
+    given: Hideyuki
+  issued:
+  - year: '1993'
+  title: Experiments with real-time servers in real-time mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '1-20'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/ChewRRS93
+  type: paper-conference
+  author:
+  - family: Chew
+    given: Kien-Mien
+  - family: Reddy
+    given: Jyothy
+  - family: Romer
+    given: Theodore H.
+  - family: Silberschatz
+    given: Abraham
+  issued:
+  - year: '1993'
+  title: Kernel support for recoverable-persistent virtual memory
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '215-234'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/CastroNTS93
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Miguel
+  - family: Neves
+    given: Nuno
+  - family: Trancuso
+    given: Pedro
+  - family: Sousa
+    given: Pedro Manuel Antunes
+  issued:
+  - year: '1993'
+  title: 'MIKE: A distributed object-oriented programming platform on top of the
+    mach micro-kernel'
+  title-short: MIKE
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '253-272'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/castro.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/ChenN90
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Rong
+  - family: Ng
+    given: Tony P.
+  issued:
+  - year: '1990'
+  title: Building a fault-tolerant system based on mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '157-168'
+
+- id: conf/mach/Hoven91
+  type: paper-conference
+  author:
+  - family: Hoven
+    given: Rand
+  issued:
+  - year: '1991'
+  title: Mach interfaces to support guest o.S. debugging
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '131-148'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/mach-interfaces-support-guest-os-debugging
+
+- id: conf/mach/GolubSR93
+  type: paper-conference
+  author:
+  - family: Golub
+    given: David B.
+  - family: Sotomayor
+    given: Guy G.
+  - family: III
+    given: Freeman L. Rawson
+  issued:
+  - year: '1993'
+  title: An architecture for device drivers executing as user-level tasks
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '153-172'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Finkel90
+  type: paper-conference
+  author:
+  - family: Finkel
+    given: David
+  issued:
+  - year: '1990'
+  title: Developing benchmarks to measure the performance of the mach operating system
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '83-100'
+
+- id: conf/mach/BernadatB93
+  type: paper-conference
+  author:
+  - family: Bernadat
+    given: Philippe
+  - family: Black
+    given: David L.
+  issued:
+  - year: '1993'
+  title: Real memory mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '235-252'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/bernadat.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/BlackCFMSWMS91
+  type: paper-conference
+  author:
+  - family: Black
+    given: David L.
+  - family: Carter
+    given: Jeff
+  - family: Feinberg
+    given: George
+  - family: MacDonald
+    given: Rod
+  - family: Sciver
+    given: Jim Van
+  - family: Wang
+    given: Ping
+  - family: Mangalat
+    given: Shashi
+  - family: Sheinbrood
+    given: Eric
+  issued:
+  - year: '1991'
+  title: OSF/1 virtual memory improvements
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '87-104'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/osf1-virtual-memory-improvements
+
+- id: conf/mach/SciverR90
+  type: paper-conference
+  author:
+  - family: Sciver
+    given: James Van
+  - family: Rashid
+    given: Richard F.
+  issued:
+  - year: '1990'
+  title: Zone garbage collection
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '1-16'
+
+- id: conf/mach/EpsteinS90
+  type: paper-conference
+  author:
+  - family: Epstein
+    given: Jeremy
+  - family: Shugerman
+    given: Marvin
+  issued:
+  - year: '1990'
+  title: A trusted x window system server for trusted mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '141-156'
+
+- id: conf/mach/LepreauHFLO93
+  type: paper-conference
+  author:
+  - family: Lepreau
+    given: Jay
+  - family: Hibler
+    given: Mike
+  - family: Ford
+    given: Bryan
+  - family: Law
+    given: Jeffrey
+  - family: Orr
+    given: Douglas B.
+  issued:
+  - year: '1993'
+  title: 'In-kernel servers on mach 3.0: Implementation and performance'
+  title-short: In-kernel servers on mach 3.0
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '39-56'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/lepreau.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/SechrestP91
+  type: paper-conference
+  author:
+  - family: Sechrest
+    given: Stuart
+  - family: Park
+    given: Yoonho
+  issued:
+  - year: '1991'
+  title: User-level physical memory management for mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '189-200'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/user-level-physical-memory-management-mach
+
+- id: conf/mach/Patience93
+  type: paper-conference
+  author:
+  - family: Patience
+    given: Simon
+  issued:
+  - year: '1993'
+  title: Redirecting system calls in mach 3.0, an alternative to the emulator
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '57-74'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Kupfer93
+  type: paper-conference
+  author:
+  - family: Kupfer
+    given: Michael D.
+  issued:
+  - year: '1993'
+  title: Sprite on mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '307-321'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/kupfer.html
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Draves90
+  type: paper-conference
+  author:
+  - family: Draves
+    given: Richard
+  issued:
+  - year: '1990'
+  title: A revised iPC interface
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '101-122'
+
+- id: conf/mach/OrmanOMPS93
+  type: paper-conference
+  author:
+  - family: Orman
+    given: Hilarie K.
+  - family: O’Malley
+    given: Sean W.
+  - family: III
+    given: Edwin Menze
+  - family: Peterson
+    given: Larry L.
+  - family: Schroeppel
+    given: Richard
+  issued:
+  - year: '1993'
+  title: A fast and general implementation of mach iPC in a network
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '75-88'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/SwansonSCK93
+  type: paper-conference
+  author:
+  - family: Swanson
+    given: Mark R.
+  - family: Stoller
+    given: Leigh
+  - family: Critchlow
+    given: Terence
+  - family: Kessler
+    given: Robert R.
+  issued:
+  - year: '1993'
+  title: The design of the schizophrenic workstation system
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '291-306'
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A266
+  ISBN: '1-880446-49-9'
+
+- id: conf/mach/Babaoglu90
+  type: paper-conference
+  author:
+  - family: Babaoglu
+    given: Özalp
+  issued:
+  - year: '1990'
+  title: Fault-tolerant computing based on mach
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '185-199'
+
+- id: conf/mach/Sebes91
+  type: paper-conference
+  author:
+  - family: Sebes
+    given: E. John
+  issued:
+  - year: '1991'
+  title: Distributed trusted mach architecture
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '251-262'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/distributed-trusted-mach-architecture
+
+- id: conf/mach/Barrera91
+  type: paper-conference
+  author:
+  - family: III
+    given: Joseph S. Barrera
+  issued:
+  - year: '1991'
+  title: A fast mach network iPC implementation
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '1-12'
+  URL: https://www.usenix.org/conference/usenix-mach-symposium/fast-mach-network-ipc-implementation
+
+- id: conf/mach/Roy93
+  type: paper-conference
+  author:
+  - family: Roy
+    given: Paul J.
+  issued:
+  - year: '1993'
+  title: Unix file access and caching in a multicomputer environment
+  container-title: USENIX mACH symposium
+  publisher: USENIX
+  page: '21-38'
+  URL: http://www.usenix.org/publications/library/proceedings/mach3/roy.html
+  ISBN: '1-880446-49-9'
+...

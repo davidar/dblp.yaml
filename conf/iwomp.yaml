@@ -1,0 +1,4889 @@
+---
+references:
+- id: conf/iwomp/AdcockSHM13
+  type: paper-conference
+  author:
+  - family: Adcock
+    given: Aaron B.
+  - family: Sullivan
+    given: Blair D.
+  - family: Hernandez
+    given: Oscar R.
+  - family: Mahoney
+    given: Michael W.
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Evaluating openMP tasking at scale for the computation of graph hyperbolicity
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-83'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_6
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/BrownS06
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Russell
+  - family: Sharapov
+    given: Ilya
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Performance and programmability comparison between openMP and mPI implementations
+    of a molecular modeling application
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349-360'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_28
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/FurlingerG05
+  type: paper-conference
+  author:
+  - family: Fürlinger
+    given: Karl
+  - family: Gerndt
+    given: Michael
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: ': A profiling tool for openMP'
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-23'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_2
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/OlivierP09
+  type: paper-conference
+  author:
+  - family: Olivier
+    given: Stephen
+  - family: Prins
+    given: Jan
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Evaluating openMP 3.0 run time systems on unbalanced task graphs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-78'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_6
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/KaleG15
+  type: paper-conference
+  author:
+  - family: Kale
+    given: Vivek
+  - family: Gropp
+    given: William D.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Composing low-overhead scheduling strategies for improving performance of
+    scientific applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-29'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_2
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/BaeCKT14
+  type: paper-conference
+  author:
+  - family: Bae
+    given: Hansang
+  - family: Cownie
+    given: James
+  - family: Klemm
+    given: Michael
+  - family: Terboven
+    given: Christian
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: A user-guided locking aPI for the openMP\* application program interface
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-186'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_13
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/Brock-NannestadK14
+  type: paper-conference
+  author:
+  - family: Brock-Nannestad
+    given: Laust
+  - family: Karlsson
+    given: Sven
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Library support for resource constrained accelerators
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-201'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_14
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/VikasSGS13
+  type: paper-conference
+  author:
+  - family: Vikas
+  - family: Scott
+    given: Travis
+  - family: Giacaman
+    given: Nasser
+  - family: Sinnen
+    given: Oliver
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Using openMP under android
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-29'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_2
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/FurlingerM08
+  type: paper-conference
+  author:
+  - family: Fürlinger
+    given: Karl
+  - family: Moore
+    given: Shirley
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Visualizing the program execution control flow of openMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-190'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_16
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/ZhangIIKNH10
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yuanyuan
+  - family: Iwashita
+    given: Hidetoshi
+  - family: Ishii
+    given: Kuninori
+  - family: Kaneko
+    given: Masanori
+  - family: Nakamura
+    given: Tomotake
+  - family: Hotta
+    given: Kohichiro
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Hybrid parallel programming on sMP clusters using xPFortran and openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-148'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_11
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/DimakopoulosHP08
+  type: paper-conference
+  author:
+  - family: Dimakopoulos
+    given: Vassilios V.
+  - family: Hadjidoukas
+    given: Panagiotis E.
+  - family: Philos
+    given: Giorgos Ch.
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: A microbenchmark study of openMP overheads under nested parallelism
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_1
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/CaballeroDM13
+  type: paper-conference
+  author:
+  - family: Caballero
+    given: Diego
+  - family: Duran
+    given: Alejandro
+  - family: Martorell
+    given: Xavier
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: An openMP\* barrier using sIMD instructions for intel® xeon phiTM coprocessor
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '99-113'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_8
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/JinKM12
+  type: paper-conference
+  author:
+  - family: Jin
+    given: Haoqiang
+  - family: Kellogg
+    given: Mark
+  - family: Mehrotra
+    given: Piyush
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Using compiler directives for accelerating cFD applications on gPUs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-168'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_12
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/GompertsFP09
+  type: paper-conference
+  author:
+  - family: Gomperts
+    given: Roberto
+  - family: Frisch
+    given: Michael J.
+  - family: Panziera
+    given: Jean-Pierre
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'Scalability of gaussian 03 on sGI altix: The importance of data locality
+    on cC-nUMA architecture'
+  title-short: Scalability of gaussian 03 on sGI altix
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '93-103'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_8
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/JinCH07
+  type: paper-conference
+  author:
+  - family: Jin
+    given: Haoqiang
+  - family: Chapman
+    given: Barbara M.
+  - family: Huang
+    given: Lei
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Performance evaluation of a multi-zone application in different openMP approaches
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-36'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_3
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/AlessiTGFN15
+  type: paper-conference
+  author:
+  - family: Alessi
+    given: Ferdinando
+  - family: Thoman
+    given: Peter
+  - family: Georgakoudis
+    given: Giorgis
+  - family: Fahringer
+    given: Thomas
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Application-level energy awareness for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-232'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_16
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/AyguadeCDHLMSUZ07
+  type: paper-conference
+  author:
+  - family: Ayguadé
+    given: Eduard
+  - family: Copty
+    given: Nawal
+  - family: Duran
+    given: Alejandro
+  - family: Hoeflinger
+    given: Jay
+  - family: Lin
+    given: Yuan
+  - family: Massaioli
+    given: Federico
+  - family: Su
+    given: Ernesto
+  - family: Unnikrishnan
+    given: Priya
+  - family: Zhang
+    given: Guansong
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: A proposal for task parallelism in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_1
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/LorenzDTW14
+  type: paper-conference
+  author:
+  - family: Lorenz
+    given: Daniel
+  - family: Dietrich
+    given: Robert
+  - family: Tschüter
+    given: Ronny
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: A comparison between oPARI2 and the openMP tools interface in the context
+    of score-p
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-172'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_12
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/WangSM15
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Bo
+  - family: Schmidl
+    given: Dirk
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Evaluating the energy consumption of openMP applications on haswell processors
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '233-246'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_17
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/LinM09
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yuan
+  - family: Mazurov
+    given: Oleg
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Providing observability for openMP 3.0 applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-117'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_9
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/SalvaDB07
+  type: paper-conference
+  author:
+  - family: Salva
+    given: Sébastien
+  - family: Delamare
+    given: Clément
+  - family: Bastoul
+    given: Cédric
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Web service call parallelization using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '185-194'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_21
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/BuckerRV06
+  type: paper-conference
+  author:
+  - family: Bücker
+    given: H. Martin
+  - family: Rasch
+    given: Arno
+  - family: Vehreschild
+    given: Andre
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Automatic generation of parallel code for hessian computations
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '372-381'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_30
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/RasmussenSK08
+  type: paper-conference
+  author:
+  - family: Rasmussen
+    given: Morten S.
+  - family: Stuart
+    given: Matthias B.
+  - family: Karlsson
+    given: Sven
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Parallelism and scalability in an image processing application
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-169'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_14
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/Lin05
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yuan
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Static nonconcurrency analysis of openMP programs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-50'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_4
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/DurandBGR13
+  type: paper-conference
+  author:
+  - family: Durand
+    given: Marie
+  - family: Broquedis
+    given: François
+  - family: Gautier
+    given: Thierry
+  - family: Raffin
+    given: Bruno
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: An efficient openMP loop scheduler for irregular applications on large-scale
+    nUMA machines
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-155'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_11
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/Muller05
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: SPEC openMP benchmarks on four generations of nEC sX parallel vector systems
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-152'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_12
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/2009
+  type: book
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Evolving openMP in an age of extreme parallelism, 5th international workshop
+    on openMP, iWOMP 2009, dresden, germany, june 3-5, 2009, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/BroquedisFGNW09
+  type: paper-conference
+  author:
+  - family: Broquedis
+    given: François
+  - family: Furmento
+    given: Nathalie
+  - family: Goglin
+    given: Brice
+  - family: Namyst
+    given: Raymond
+  - family: Wacrenier
+    given: Pierre-André
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'Dynamic task and data placement over nUMA architectures: An openMP runtime
+    perspective'
+  title-short: Dynamic task and data placement over nUMA architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '79-92'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_7
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/LiaoQWP09
+  type: paper-conference
+  author:
+  - family: Liao
+    given: Chunhua
+  - family: Quinlan
+    given: Daniel J.
+  - family: Willcock
+    given: Jeremiah
+  - family: Panas
+    given: Thomas
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Extending automatic parallelization to optimize high-level abstractions for
+    multicore
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-41'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_3
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/ThibaultBGNW07
+  type: paper-conference
+  author:
+  - family: Thibault
+    given: Samuel
+  - family: Broquedis
+    given: François
+  - family: Goglin
+    given: Brice
+  - family: Namyst
+    given: Raymond
+  - family: Wacrenier
+    given: Pierre-André
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: An efficient openMP runtime system for hierarchical architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-172'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_19
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/TeruelKLMOT13
+  type: paper-conference
+  author:
+  - family: Teruel
+    given: Xavier
+  - family: Klemm
+    given: Michael
+  - family: Li
+    given: Kelvin
+  - family: Martorell
+    given: Xavier
+  - family: Olivier
+    given: Stephen L.
+  - family: Terboven
+    given: Christian
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: A proposal for task-generating loops in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_1
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/ScoglandGKHS15
+  type: paper-conference
+  author:
+  - family: Scogland
+    given: Thomas R. W.
+  - family: Gyllenhaal
+    given: John C.
+  - family: Keasler
+    given: Jeff
+  - family: Hornung
+    given: Rich
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Enabling region merging optimizations in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-188'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_13
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/HadjidoukasA06
+  type: paper-conference
+  author:
+  - family: Hadjidoukas
+    given: Panagiotis E.
+  - family: Amsaleg
+    given: Laurent
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Parallelization of a hierarchical data clustering algorithm using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-299'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_24
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/AyguadeBDFHLM10
+  type: paper-conference
+  author:
+  - family: Ayguadé
+    given: Eduard
+  - family: Beyer
+    given: James
+  - family: Duran
+    given: Alejandro
+  - family: Ferrer
+    given: Roger
+  - family: Haab
+    given: Grant
+  - family: Li
+    given: Kelvin
+  - family: Massaioli
+    given: Federico
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: An extension to improve openMP tasking control
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-69'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_5
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/KoP06
+  type: paper-conference
+  author:
+  - family: Ko
+    given: Walden
+  - family: Polychronopoulos
+    given: Constantine D.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Automatic granularity selection and openMP directive generation via extended
+    machine descriptors in the pROMIS parallelizing compiler
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-216'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_17
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/MuddukrishnaJVB13
+  type: paper-conference
+  author:
+  - family: Muddukrishna
+    given: Ananya
+  - family: Jonsson
+    given: Peter A.
+  - family: Vlassov
+    given: Vladimir
+  - family: Brorsson
+    given: Mats
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Locality-aware task scheduling and data distribution on nUMA systems
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-170'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_12
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/Gaster08
+  type: paper-conference
+  author:
+  - family: Gaster
+    given: Benedict R.
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: 'Streams: Emerging from a shared memory model'
+  title-short: Streams
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-145'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_12
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/MillotMPS08
+  type: paper-conference
+  author:
+  - family: Millot
+    given: Daniel
+  - family: Muller
+    given: Alain
+  - family: Parrot
+    given: Christian
+  - family: Silber-Chaussumier
+    given: Frédérique
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: 'STEP: A distributed openMP for coarse-grain parallelism tool'
+  title-short: STEP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-99'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_8
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/WicaksonoNC11
+  type: paper-conference
+  author:
+  - family: Wicaksono
+    given: Besar
+  - family: Nanjegowda
+    given: Ramachandra C.
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: A dynamic optimization framework for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-68'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_5
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/PodobasBV14
+  type: paper-conference
+  author:
+  - family: Podobas
+    given: Artur
+  - family: Brorsson
+    given: Mats
+  - family: Vlassov
+    given: Vladimir
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: 'TurboBŁYSK: Scheduling for improved data-driven task performance with
+    fast dependency resolution'
+  title-short: TurboBŁYSK
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-57'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_4
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/RoyuelaDLQ12
+  type: paper-conference
+  author:
+  - family: Royuela
+    given: Sara
+  - family: Duran
+    given: Alejandro
+  - family: Liao
+    given: Chunhua
+  - family: Quinlan
+    given: Daniel J.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Auto-scoping for openMP tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-43'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_3
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/WangCC12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Cheng
+  - family: Chandrasekaran
+    given: Sunita
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: An openMP 3.1 validation testsuite
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-249'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_18
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/TaoHK07
+  type: paper-conference
+  author:
+  - family: Tao
+    given: Jie
+  - family: Hoàng
+    given: Kim D.
+  - family: Karl
+    given: Wolfgang
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: CMP cache architecture and the openMP performance
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-88'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_7
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/WangHZL07
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Jue
+  - family: Hu
+    given: Changjun
+  - family: Zhang
+    given: Jilin
+  - family: Li
+    given: Jianjiang
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: OpenMP extensions for irregular parallel applications on clusters
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-111'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_9
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/BrunstM05
+  type: paper-conference
+  author:
+  - family: Brunst
+    given: Holger
+  - family: Mohr
+    given: Bernd
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Performance analysis of large-scale openMP and hybrid mPI/OpenMP applications
+    with vampir nG
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '5-14'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_1
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/CieskoMTMALDSOL15
+  type: paper-conference
+  author:
+  - family: Ciesko
+    given: Jan
+  - family: Mateo
+    given: Sergi
+  - family: Teruel
+    given: Xavier
+  - family: Martorell
+    given: Xavier
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  - family: Duran
+    given: Alex
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Olivier
+    given: Stephen
+  - family: Li
+    given: Kelvin
+  - family: Eichenberger
+    given: Alexandre E.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Towards task-parallel reductions in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-201'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_14
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/MilovanovicFUCMALV07
+  type: paper-conference
+  author:
+  - family: Milovanovic
+    given: Milos
+  - family: Ferrer
+    given: Roger
+  - family: Unsal
+    given: Osman S.
+  - family: Cristal
+    given: Adrián
+  - family: Martorell
+    given: Xavier
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  - family: Valero
+    given: Mateo
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Transactional memory and openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-53'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_4
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/KaushikKBS11
+  type: paper-conference
+  author:
+  - family: Kaushik
+    given: Dinesh K.
+  - family: Keyes
+    given: David E.
+  - family: Balay
+    given: Satish
+  - family: Smith
+    given: Barry F.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Hybrid programming model for implicit pDE simulations on multicore architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '12-21'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_2
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/KlemmDTSCM12
+  type: paper-conference
+  author:
+  - family: Klemm
+    given: Michael
+  - family: Duran
+    given: Alejandro
+  - family: Tian
+    given: Xinmin
+  - family: Saito
+    given: Hideki
+  - family: Caballero
+    given: Diego
+  - family: Martorell
+    given: Xavier
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Extending openMP\* with vector constructs for modern multicore sIMD architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-72'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_5
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/WengPC06
+  type: paper-conference
+  author:
+  - family: Weng
+    given: Tien-Hsiung
+  - family: Perng
+    given: Ruey-Kuen
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: OpenMP implementation of sPICE3 circuit simulator
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-371'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_29
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/SchmidlMM13
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Performance characteristics of large sMP machines
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-70'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_5
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/KambadurGL08
+  type: paper-conference
+  author:
+  - family: Kambadur
+    given: Prabhanjan
+  - family: Gregor
+    given: Douglas
+  - family: Lumsdaine
+    given: Andrew
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: OpenMP extensions for generic libraries
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-133'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_11
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/2012
+  type: book
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: OpenMP in a heterogeneous world - 8th international workshop on openMP, iWOMP
+    2012, rome, italy, june 11-13, 2012. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/ShirakoSS11
+  type: paper-conference
+  author:
+  - family: Shirako
+    given: Jun
+  - family: Sharma
+    given: Kamal
+  - family: Sarkar
+    given: Vivek
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Unifying barrier and point-to-point synchronization in openMP with phasers
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-137'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_10
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/WongAGLSB14
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Michael
+  - family: Ayguadé
+    given: Eduard
+  - family: Gottschlich
+    given: Justin
+  - family: Luchangco
+    given: Victor
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Bihari
+    given: Barna L.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Towards transactional memory for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-145'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_10
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/EichenbergerTWM12
+  type: paper-conference
+  author:
+  - family: Eichenberger
+    given: Alexandre E.
+  - family: Terboven
+    given: Christian
+  - family: Wong
+    given: Michael
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: The design of openMP thread affinity
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-28'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_2
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/TerbovenSMGR05
+  type: paper-conference
+  author:
+  - family: Terboven
+    given: Christian
+  - family: Spiegel
+    given: Alexander
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Gross
+    given: Sven
+  - family: Reichelt
+    given: Volker
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Experiences with the openMP parallelization of dROPS, a navier-stokes solver
+    written in c++
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-106'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_8
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/QawasmehMCHM13
+  type: paper-conference
+  author:
+  - family: Qawasmeh
+    given: Ahmad
+  - family: Malik
+    given: Abid Muslim
+  - family: Chapman
+    given: Barbara M.
+  - family: Huck
+    given: Kevin A.
+  - family: Malony
+    given: Allen D.
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Open source task profiling by extending the openMP runtime aPI
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-199'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_14
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/MaheoKCPJ12
+  type: paper-conference
+  author:
+  - family: Mahéo
+    given: Aurèle
+  - family: Koliai
+    given: Souad
+  - family: Carribault
+    given: Patrick
+  - family: Pérache
+    given: Marc
+  - family: Jalby
+    given: William
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Adaptive openMP for large nUMA nodes
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-257'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_20
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/ShanSAS12
+  type: paper-conference
+  author:
+  - family: Shan
+    given: Hongzhang
+  - family: Strohmaier
+    given: Erich
+  - family: Amundson
+    given: James F.
+  - family: Stern
+    given: Eric G.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Optimizing the advanced accelerator simulation framework synergia using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-153'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_11
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/DuranCA08
+  type: paper-conference
+  author:
+  - family: Duran
+    given: Alejandro
+  - family: Corbalán
+    given: Julita
+  - family: Ayguadé
+    given: Eduard
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Evaluation of openMP task scheduling strategies
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-110'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_9
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/SchmidlCTMM14
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Cramer
+    given: Tim
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: An openMP extension library for memory affinity
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-114'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_8
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/2011
+  type: book
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: OpenMP in the petascale era - 7th international workshop on openMP, iWOMP
+    2011, chicago, iL, uSA, june 13-15, 2011. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/YangCRG09
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Rui
+  - family: Cai
+    given: Jie
+  - family: Rendell
+    given: Alistair P.
+  - family: Ganesh
+    given: V.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'Use of cluster openMP with the gaussian quantum chemistry code: A preliminary
+    performance analysis'
+  title-short: Use of cluster openMP with the gaussian quantum chemistry code
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-62'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_5
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/LeeSB07
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Jinpil
+  - family: Sato
+    given: Mitsuhisa
+  - family: Boku
+    given: Taisuke
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: 'Design and implementation of openMPD: An openMP-like programming language
+    for distributed memory systems'
+  title-short: Design and implementation of openMPD
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-147'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_15
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/White11
+  type: paper-conference
+  author:
+  - family: White
+    given: Leo
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: OpenMP extensions for heterogeneous architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-107'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_8
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/SaillardCB14
+  type: paper-conference
+  author:
+  - family: Saillard
+    given: Emmanuelle
+  - family: Carribault
+    given: Patrick
+  - family: Barthou
+    given: Denis
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Static validation of barriers and worksharing constructs in openMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-86'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_6
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/TaoKT05
+  type: paper-conference
+  author:
+  - family: Tao
+    given: Jie
+  - family: Karl
+    given: Wolfgang
+  - family: Trinitis
+    given: Carsten
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Implementing an openMP execution environment on infiniBand clusters
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-77'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_6
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/AldeaFG12
+  type: paper-conference
+  author:
+  - family: Aldea
+    given: Sergio
+  - family: Ferraris
+    given: Diego R. Llanos
+  - family: González-Escribano
+    given: Arturo
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Support for thread-level speculation into openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '275-278'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_25
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/ChenMSU14
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Xiaohui
+  - family: Maza
+    given: Marc Moreno
+  - family: Shekar
+    given: Sushek
+  - family: Unnikrishnan
+    given: Priya
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: 'MetaFork: A framework for concurrency platforms targeting multicores'
+  title-short: MetaFork
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '30-44'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_3
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/2008
+  type: book
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: OpenMP in a new era of parallelism, 4th international workshop, iWOMP 2008,
+    west lafayette, iN, uSA, may 12-14, 2008, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5004'
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/ScoglandKGHSF15
+  type: paper-conference
+  author:
+  - family: Scogland
+    given: Thomas R. W.
+  - family: Keasler
+    given: Jeff
+  - family: Gyllenhaal
+    given: John C.
+  - family: Hornung
+    given: Rich
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Finkel
+    given: Hal
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Supporting indirect data mapping in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '260-272'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_19
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/Meadows12
+  type: paper-conference
+  author:
+  - family: Meadows
+    given: Larry
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Experiments with wRF on intel® many integrated core (intel mIC) architecture
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-139'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_10
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/CieskoMTBMBAL14
+  type: paper-conference
+  author:
+  - family: Ciesko
+    given: Jan
+  - family: Mateo
+    given: Sergi
+  - family: Teruel
+    given: Xavier
+  - family: Beltran
+    given: Vicenç
+  - family: Martorell
+    given: Xavier
+  - family: Badia
+    given: Rosa M.
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Task-parallel reductions in openMP and ompSs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_1
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/SchmidlTMB10
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Bücker
+    given: H. Martin
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Binding nested openMP programs on hierarchical memory architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-42'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_3
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/StotzerJAFMRL13
+  type: paper-conference
+  author:
+  - family: Stotzer
+    given: Eric
+  - family: Jayaraj
+    given: Ajay
+  - family: Ali
+    given: Murtaza
+  - family: Friedmann
+    given: Arnon
+  - family: Mitra
+    given: Gaurav
+  - family: Rendell
+    given: Alistair P.
+  - family: Lintault
+    given: Ian
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: OpenMP on the low-power tI keystone iI aRM/DSP system-on-chip
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-127'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_9
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/CarribaultPJ11
+  type: paper-conference
+  author:
+  - family: Carribault
+    given: Patrick
+  - family: Pérache
+    given: Marc
+  - family: Jourdren
+    given: Hervé
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Thread-local storage extension to support thread-based mPI/OpenMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-93'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_7
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/PerlaZ12
+  type: paper-conference
+  author:
+  - family: Perla
+    given: Francesca
+  - family: Zanetti
+    given: Paolo
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Performance analysis of an hybrid mPI/OpenMP aLM software for life insurance
+    policies on multi-core architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '250-253'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_19
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/Curtis-MauryDAN05
+  type: paper-conference
+  author:
+  - family: Curtis-Maury
+    given: Matthew
+  - family: Ding
+    given: Xiaoning
+  - family: Antonopoulos
+    given: Christos D.
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: An evaluation of openMP on current and emerging multithreaded/Multicore processors
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-144'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_11
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/AlamFVGGD12
+  type: paper-conference
+  author:
+  - family: Alam
+    given: Sadaf R.
+  - family: Fourestey
+    given: Gilles
+  - family: Videau
+    given: Brice
+  - family: Genovese
+    given: Luigi
+  - family: Goedecker
+    given: Stefan
+  - family: Dugan
+    given: Nazim
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Overlapping computations with communications and i/O explicitly using openMP
+    based heterogeneous threading models
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '267-270'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_23
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/OBrienOSCZ07
+  type: paper-conference
+  author:
+  - family: O’Brien
+    given: Kevin
+  - family: O’Brien
+    given: Kathryn M.
+  - family: Sura
+    given: Zehra
+  - family: Chen
+    given: Tong
+  - family: Zhang
+    given: Tao
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Supporting openMP on cell
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-76'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_6
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/SussL06
+  type: paper-conference
+  author:
+  - family: Süß
+    given: Michael
+  - family: Leopold
+    given: Claudia
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Common mistakes in openMP and how to avoid them - a collection of best practices
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '312-323'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_26
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/BonnichsenP15
+  type: paper-conference
+  author:
+  - family: Bonnichsen
+    given: Lars F.
+  - family: Podobas
+    given: Artur
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Using transactional memory to avoid blocking in openMP synchronization directives
+    - don’t wait, speculate!
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-161'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_11
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/ParkPS07
+  type: paper-conference
+  author:
+  - family: Park
+    given: Jun Sung
+  - family: Park
+    given: Jung-Gyu
+  - family: Song
+    given: Hyo-Jung
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Implementation of openMP work-sharing on the cell broadband engine architecture
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-156'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_17
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/WeiY07
+  type: paper-conference
+  author:
+  - family: Wei
+    given: Haitao
+  - family: Yu
+    given: Junqing
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: 'Loading openMP to cell: An effective compiler framework for heterogeneous
+    multi-core chip'
+  title-short: Loading openMP to cell
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-133'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_12
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/OzenAL14
+  type: paper-conference
+  author:
+  - family: Ozen
+    given: Guray
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: On the roles of the programmer, the compiler and the runtime system when
+    programming accelerators in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-229'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_16
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/LuskC08
+  type: paper-conference
+  author:
+  - family: Lusk
+    given: Ewing L.
+  - family: Chan
+    given: Anthony
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Early experiments with the openMP/MPI hybrid programming model
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-47'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_4
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/HuZWL07
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Changjun
+  - family: Zhang
+    given: Jilin
+  - family: Wang
+    given: Jue
+  - family: Li
+    given: Jianjiang
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: OpenMP implementation of parallel linear solver for reservoir simulation
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-137'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_13
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/MustafaAE11
+  type: paper-conference
+  author:
+  - family: Mustafa
+    given: Dheya
+  - family: Aurangzeb
+  - family: Eigenmann
+    given: Rudolf
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Performance analysis and tuning of automatically parallelized openMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-164'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_12
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/WongKDMHSC10
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Michael
+  - family: Klemm
+    given: Michael
+  - family: Duran
+    given: Alejandro
+  - family: Mattson
+    given: Tim
+  - family: Haab
+    given: Grant
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Churbanov
+    given: Andrey
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Towards an error model for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-82'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_6
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/AyguadeBCDGIJLMMPQ09
+  type: paper-conference
+  author:
+  - family: Ayguadé
+    given: Eduard
+  - family: Badia
+    given: Rosa M.
+  - family: Cabrera
+    given: Daniel
+  - family: Duran
+    given: Alejandro
+  - family: González
+    given: Marc
+  - family: Igual
+    given: Francisco D.
+  - family: Jiménez-González
+    given: Daniel
+  - family: Labarta
+    given: Jesús
+  - family: Martorell
+    given: Xavier
+  - family: Mayo
+    given: Rafael
+  - family: Pérez
+    given: Josep M.
+  - family: Quintana-Ortí
+    given: Enrique S.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: A proposal to extend the openMP tasking model for heterogeneous architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-167'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_13
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/KapinosM09
+  type: paper-conference
+  author:
+  - family: Kapinos
+    given: Paul
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Parallel simulation of bevel gear cutting processes with openMP tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_1
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/TerbovenM06
+  type: paper-conference
+  author:
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: OpenMP and c++
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '300-311'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_25
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/NordenLRH06
+  type: paper-conference
+  author:
+  - family: Nordén
+    given: Markus
+  - family: Löf
+    given: Henrik
+  - family: Rantakokko
+    given: Jarmo
+  - family: Holmgren
+    given: Sverker
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Geographical locality and dynamic data migration for openMP implementations
+    of adaptive pDE solvers
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '382-393'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_31
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/ChantrapornchaiP10
+  type: paper-conference
+  author:
+  - family: Chantrapornchai
+    given: Chantana
+  - family: Pipatpaisan
+    given: J.
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Fuzzy application parallelization using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-132'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_10
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/BihariWSD14
+  type: paper-conference
+  author:
+  - family: Bihari
+    given: Barna L.
+  - family: Wong
+    given: Michael
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Diachin
+    given: Lori A.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: 'On the algorithmic aspects of using openMP synchronization mechanisms:
+    The effects of transactional memory'
+  title-short: On the algorithmic aspects of using openMP synchronization mechanisms
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-129'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_9
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/ManzanoHJGSP07
+  type: paper-conference
+  author:
+  - family: Manzano
+    given: Joseph B.
+  - family: Hu
+    given: Ziang
+  - family: Jiang
+    given: Yi
+  - family: Gan
+    given: Ge
+  - family: Song
+    given: Hyo-Jung
+  - family: Park
+    given: Jung-Gyu
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Toward an automatic code layout methodology
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-160'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_18
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/HoeflingerS05
+  type: paper-conference
+  author:
+  - family: Hoeflinger
+    given: Jay P.
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: The openMP memory model
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-177'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_14
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/HernandezSCDMMW06
+  type: paper-conference
+  author:
+  - family: Hernandez
+    given: Oscar R.
+  - family: Song
+    given: Fengguang
+  - family: Chapman
+    given: Barbara M.
+  - family: Dongarra
+    given: Jack
+  - family: Mohr
+    given: Bernd
+  - family: Moore
+    given: Shirley
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Performance instrumentation and compiler optimizations for mPI/OpenMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '267-278'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_22
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/ShirakoUCLS13
+  type: paper-conference
+  author:
+  - family: Shirako
+    given: Jun
+  - family: Unnikrishnan
+    given: Priya
+  - family: Chatterjee
+    given: Sanjay
+  - family: Li
+    given: Kelvin
+  - family: Sarkar
+    given: Vivek
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Expressing dOACROSS loop dependences in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '30-44'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_3
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/MunchhalfenHPTM14
+  type: paper-conference
+  author:
+  - family: Münchhalfen
+    given: Jan Felix
+  - family: Hilbrich
+    given: Tobias
+  - family: Protze
+    given: Joachim
+  - family: Terboven
+    given: Christian
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Classification of common errors in openMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-72'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_5
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/BronevetskyS06
+  type: paper-conference
+  author:
+  - family: Bronevetsky
+    given: Greg
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Formal specification of the openMP memory model
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-346'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_27
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/Salvadore12
+  type: paper-conference
+  author:
+  - family: Salvadore
+    given: Francesco
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: A generalized directive-based approach for accelerating pDE solvers
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '258-261'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_21
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/DuranPABL08
+  type: paper-conference
+  author:
+  - family: Duran
+    given: Alejandro
+  - family: Pérez
+    given: Josep M.
+  - family: Ayguadé
+    given: Eduard
+  - family: Badia
+    given: Rosa M.
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Extending the openMP tasking model to allow dependent tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-122'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_10
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/GanWMG09
+  type: paper-conference
+  author:
+  - family: Gan
+    given: Ge
+  - family: Wang
+    given: Xu
+  - family: Manzano
+    given: Joseph
+  - family: Gao
+    given: Guang R.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: 'Tile reduction: The first step towards tile aware parallelization in openMP'
+  title-short: Tile reduction
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-153'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_12
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/Zhang06
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Guansong
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Extending the openMP standard for thread mapping and grouping
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '435-446'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_35
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/BroquedisGD12
+  type: paper-conference
+  author:
+  - family: Broquedis
+    given: François
+  - family: Gautier
+    given: Thierry
+  - family: Danjean
+    given: Vincent
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: LibKOMP, an efficient openMP runtime system for both fork-join and data flow
+    paradigms
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-115'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_8
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/MitraSJR14
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Gaurav
+  - family: Stotzer
+    given: Eric
+  - family: Jayaraj
+    given: Ajay
+  - family: Rendell
+    given: Alistair P.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Implementation and optimization of the openMP accelerator model for the tI
+    keystone iI architecture
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-214'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_15
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/MeadowsKW15
+  type: paper-conference
+  author:
+  - family: Meadows
+    given: Larry
+  - family: Kim
+    given: Jeongnim
+  - family: Wells
+    given: Alex
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Parallelization methods for hierarchical sMP systems
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-259'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_18
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/DuranFCGMAL06
+  type: paper-conference
+  author:
+  - family: Duran
+    given: Alejandro
+  - family: Ferrer
+    given: Roger
+  - family: Costa
+    given: Juan José
+  - family: González
+    given: Marc
+  - family: Martorell
+    given: Xavier
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: A proposal for error handling in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '422-434'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_34
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/ThomanMF10
+  type: paper-conference
+  author:
+  - family: Thoman
+    given: Peter
+  - family: Moritsch
+    given: Hans
+  - family: Fahringer
+    given: Thomas
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Topology-aware openMP process scheduling
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-108'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_8
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/BullEA09
+  type: paper-conference
+  author:
+  - family: Bull
+    given: J. Mark
+  - family: Enright
+    given: James P.
+  - family: Ameer
+    given: Nadia
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: A microbenchmark suite for mixed-mode openMP/MPI
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-131'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_10
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/SinnenPK07
+  type: paper-conference
+  author:
+  - family: Sinnen
+    given: Oliver
+  - family: Pe
+    given: Jsun
+  - family: Kozlov
+    given: Alexander Vladimirovich
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Support for fine grained dependent tasks in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-24'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_2
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/LorenzMRSW10
+  type: paper-conference
+  author:
+  - family: Lorenz
+    given: Daniel
+  - family: Mohr
+    given: Bernd
+  - family: Rössel
+    given: Christian
+  - family: Schmidl
+    given: Dirk
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: How to reconcile event-based performance analysis with tasking in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-121'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_9
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/CarribaultPJ10
+  type: paper-conference
+  author:
+  - family: Carribault
+    given: Patrick
+  - family: Pérache
+    given: Marc
+  - family: Jourdren
+    given: Hervé
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: Enabling low-overhead hybrid mPI/OpenMP parallelism with mPC
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_1
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/VirouleauBBFTAG14
+  type: paper-conference
+  author:
+  - family: Virouleau
+    given: Philippe
+  - family: Brunet
+    given: Pierrick
+  - family: Broquedis
+    given: François
+  - family: Furmento
+    given: Nathalie
+  - family: Thibault
+    given: Samuel
+  - family: Aumage
+    given: Olivier
+  - family: Gautier
+    given: Thierry
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Evaluation of openMP dependent tasks with the kASTORS benchmark suite
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-29'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_2
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/HuckMSJ14
+  type: paper-conference
+  author:
+  - family: Huck
+    given: Kevin A.
+  - family: Malony
+    given: Allen D.
+  - family: Shende
+    given: Sameer
+  - family: Jacobsen
+    given: Doug W.
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Integrated measurement for cross-platform openMP performance analysis
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-160'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_11
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/SuessL07
+  type: paper-conference
+  author:
+  - family: Süß
+    given: Michael
+  - family: Leopold
+    given: Claudia
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Problems, workarounds and possible solutions implementing the singleton pattern
+    with c++ and openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-184'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_20
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/TahanBS12
+  type: paper-conference
+  author:
+  - family: Tahan
+    given: Oussama
+  - family: Brorsson
+    given: Mats
+  - family: Shawky
+    given: Mohamed
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Introducing task cancellation to openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-87'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_6
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/HilbrichMK08
+  type: paper-conference
+  author:
+  - family: Hilbrich
+    given: Tobias
+  - family: Müller
+    given: Matthias S.
+  - family: Krammer
+    given: Bettina
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Detection of violations to the mPI standard in hybrid openMP/MPI applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-35'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_3
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/JoppichSBKU15
+  type: paper-conference
+  author:
+  - family: Joppich
+    given: Markus
+  - family: Schmidl
+    given: Dirk
+  - family: Bolger
+    given: Anthony M.
+  - family: Kuhlen
+    given: Torsten
+  - family: Usadel
+    given: Björn
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: 'PAGANtec: OpenMP parallel error correction for next-generation sequencing
+    data'
+  title-short: PAGANtec
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-17'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_1
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/Karlsson05
+  type: paper-conference
+  author:
+  - family: Karlsson
+    given: Sven
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: An introduction to balder - an openMP run-time library for clusters of sMPs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-91'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_7
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/LarsenKM09
+  type: paper-conference
+  author:
+  - family: Larsen
+    given: Per
+  - family: Karlsson
+    given: Sven
+  - family: Madsen
+    given: Jan
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Identifying inter-task communication in shared memory programming models
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-182'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_14
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/2006
+  type: book
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2008'
+  title: OpenMP shared memory parallel programming - international workshops, iWOMP
+    2005 and iWOMP 2006, eugene, oR, uSA, june 1-4, 2005, reims, france, june 12-15,
+    2006. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/BradleyG07
+  type: paper-conference
+  author:
+  - family: Bradley
+    given: Con
+  - family: Gaster
+    given: Benedict R.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Exploiting loop-level parallelism for sIMD arrays using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-100'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_8
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/JohnsonLISMH06
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Steve
+  - family: Leggett
+    given: Peter F.
+  - family: Ierotheou
+    given: Cos S.
+  - family: Spiegel
+    given: Alexander
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Hörschler
+    given: Ingolf
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Nested parallelization of the flow solver tFS using the paraWise parallelization
+    environment
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-229'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_18
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/Woodyard11
+  type: paper-conference
+  author:
+  - family: Woodyard
+    given: Mark
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: An experimental model to analyze openMP applications for system utilization
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-36'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_3
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/BullRM12
+  type: paper-conference
+  author:
+  - family: Bull
+    given: J. Mark
+  - family: Reid
+    given: Fiona
+  - family: McDonnell
+    given: Nicola
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: A microbenchmark suite for openMP tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-274'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_24
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/BihariWWSC12
+  type: paper-conference
+  author:
+  - family: Bihari
+    given: Barna L.
+  - family: Wong
+    given: Michael
+  - family: Wang
+    given: Amy
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Chen
+    given: Wang
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: 'A case for including transactions in openMP iI: Hardware transactional
+    memory'
+  title-short: A case for including transactions in openMP iI
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-58'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_4
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/OhshimaHH10
+  type: paper-conference
+  author:
+  - family: Ohshima
+    given: Satoshi
+  - family: Hirasawa
+    given: Shoichi
+  - family: Honda
+    given: Hiroki
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: 'OMPCUDA : OpenMP execution framework for cUDA based on omni openMP compiler'
+  title-short: OMPCUDA
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-173'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_13
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/BihariBCKTD15
+  type: paper-conference
+  author:
+  - family: Bihari
+    given: Barna L.
+  - family: Bae
+    given: Hansang
+  - family: Cownie
+    given: James
+  - family: Klemm
+    given: Michael
+  - family: Terboven
+    given: Christian
+  - family: Diachin
+    given: Lori A.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: 'On the algorithmic aspects of using openMP synchronization mechanisms
+    iI: User-guided speculative locks'
+  title-short: On the algorithmic aspects of using openMP synchronization mechanisms
+    iI
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-148'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_10
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/SchmidlPLRGMMW12
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Philippen
+    given: Peter
+  - family: Lorenz
+    given: Daniel
+  - family: Rössel
+    given: Christian
+  - family: Geimer
+    given: Markus
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Mohr
+    given: Bernd
+  - family: Wolf
+    given: Felix
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Performance analysis techniques for task-based openMP applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-209'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_15
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/FurlingerS09
+  type: paper-conference
+  author:
+  - family: Fürlinger
+    given: Karl
+  - family: Skinner
+    given: David
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Performance profiling for openMP tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-139'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_11
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/GhaneMCQ15
+  type: paper-conference
+  author:
+  - family: Ghane
+    given: Millad
+  - family: Malik
+    given: Abid Muslim
+  - family: Chapman
+    given: Barbara M.
+  - family: Qawasmeh
+    given: Ahmad
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: False sharing detection in openMP applications using oMPT aPI
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-114'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_8
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/JostMM06
+  type: paper-conference
+  author:
+  - family: Jost
+    given: Gabriele
+  - family: Mazurov
+    given: Oleg
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Adding new dimensions to performance analysis through user-defined objects
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-266'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_21
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/ProtzeLADBSM15
+  type: paper-conference
+  author:
+  - family: Protze
+    given: Joachim
+  - family: Laguna
+    given: Ignacio
+  - family: Ahn
+    given: Dong H.
+  - family: DelSignore
+    given: John
+  - family: Burton
+    given: Ariel
+  - family: Schulz
+    given: Martin
+  - family: Müller
+    given: Matthias S.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: 'Lessons learned from implementing oMPD: A debugging interface for openMP'
+  title-short: Lessons learned from implementing oMPD
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-101'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_7
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/BasupalliYRMDQW11
+  type: paper-conference
+  author:
+  - family: Basupalli
+    given: V.
+  - family: Yuki
+    given: Tomofumi
+  - family: Rajopadhye
+    given: Sanjay V.
+  - family: Morvan
+    given: Antoine
+  - family: Derrien
+    given: Steven
+  - family: Quinton
+    given: Patrice
+  - family: Wonnacott
+    given: David
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: 'OmpVerify: Polyhedral analysis for the openMP programmer'
+  title-short: OmpVerify
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-53'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_4
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/AgathosHD12
+  type: paper-conference
+  author:
+  - family: Agathos
+    given: Spiros N.
+  - family: Hadjidoukas
+    given: Panagiotis E.
+  - family: Dimakopoulos
+    given: Vassilios V.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Task-based execution of nested openMP loops
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '210-222'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_16
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/BroquedisDTANW08
+  type: paper-conference
+  author:
+  - family: Broquedis
+    given: François
+  - family: Diakhaté
+    given: François
+  - family: Thibault
+    given: Samuel
+  - family: Aumage
+    given: Olivier
+  - family: Namyst
+    given: Raymond
+  - family: Wacrenier
+    given: Pierre-André
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Scheduling dynamic openMP applications over multicore architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-180'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_15
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/TerbovenMSW08
+  type: paper-conference
+  author:
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Schmidl
+    given: Dirk
+  - family: Wagner
+    given: Marcus
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: First experiences with intel cluster openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-59'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_5
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/BeyerSHS11
+  type: paper-conference
+  author:
+  - family: Beyer
+    given: James C.
+  - family: Stotzer
+    given: Eric J.
+  - family: Hart
+    given: Alistair
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: OpenMP for accelerators
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-121'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_9
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/HuangSC07
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Lei
+  - family: Sethuraman
+    given: Girija
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Parallel data flow analysis for openMP programs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-142'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_14
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/ZhuCG06
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Weirong
+  - family: Cuvillo
+    given: Juan
+    dropping-particle: del
+  - family: Gao
+    given: Guang R.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Performance characteristics of openMP language constructs on a many-core-on-a-chip
+    architecture
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '230-241'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_19
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/NanjegowdaHCJ09
+  type: paper-conference
+  author:
+  - family: Nanjegowda
+    given: Ramachandra C.
+  - family: Hernandez
+    given: Oscar R.
+  - family: Chapman
+    given: Barbara M.
+  - family: Jin
+    given: Haoqiang
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Scalability evaluation of barrier algorithms for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-52'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_4
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/JeunKH06
+  type: paper-conference
+  author:
+  - family: Jeun
+    given: Woo-Chul
+  - family: Kee
+    given: Yang-Suk
+  - family: Ha
+    given: Soonhoi
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Improving performance of openMP for sMP clusters through overlapped page
+    migrations
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '242-252'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_20
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/2007
+  type: book
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2008'
+  title: A practical programming model for the multi-core era, 3rd international workshop
+    on openMP, iWOMP 2007, beijing, china, june 3-7, 2007, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4935'
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/FanMSG15
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Xing
+  - family: Mehrabi
+    given: Mostafa
+  - family: Sinnen
+    given: Oliver
+  - family: Giacaman
+    given: Nasser
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Exception handling with openMP in object-oriented languages
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-129'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_9
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/MehtaGC12
+  type: paper-conference
+  author:
+  - family: Mehta
+    given: Kshitij
+  - family: Gabriel
+    given: Edgar
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Specification and performance evaluation of parallel i/O interfaces for openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_1
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/WirzSL06
+  type: paper-conference
+  author:
+  - family: Wirz
+    given: Alexander
+  - family: Süß
+    given: Michael
+  - family: Leopold
+    given: Claudia
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: A comparison of task pool variants in openMP and a proposal for a solution
+    to the busy waiting problem
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '397-408'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_32
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/WongCRS08
+  type: paper-conference
+  author:
+  - family: Wong
+    given: H’sien J.
+  - family: Cai
+    given: Jie
+  - family: Rendell
+    given: Alistair P.
+  - family: Strazdins
+    given: Peter E.
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: 'Micro-benchmarks for cluster openMP implementations: Memory consistency
+    costs'
+  title-short: Micro-benchmarks for cluster openMP implementations
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-70'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_6
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/LiaoLHC05
+  type: paper-conference
+  author:
+  - family: Liao
+    given: Chunhua
+  - family: Liu
+    given: Zhenying
+  - family: Huang
+    given: Lei
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Evaluating openMP on chip multiThreading platforms
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-190'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_15
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/ChunX05
+  type: paper-conference
+  author:
+  - family: Chun
+    given: Huang
+  - family: Xuejun
+    given: Yang
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: 'CCRG openMP compiler: Experiments and improvements'
+  title-short: CCRG openMP compiler
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-62'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_5
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/Vander-SwalmenDK08
+  type: paper-conference
+  author:
+  - family: Vander-Swalmen
+    given: Pascal
+  - family: Dequen
+    given: Gilles
+  - family: Krajecki
+    given: Michaël
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: On multi-threaded satisfiability solving with openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-157'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_13
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/VidalCMCFMALV15
+  type: paper-conference
+  author:
+  - family: Vidal
+    given: Raul
+  - family: Casas
+    given: Marc
+  - family: Moretó
+    given: Miquel
+  - family: Chasapis
+    given: Dimitrios
+  - family: Ferrer
+    given: Roger
+  - family: Martorell
+    given: Xavier
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  - family: Valero
+    given: Mateo
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Evaluating the impact of openMP 4.0 extensions on relevant parallel workloads
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-72'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_5
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/SchmidlTM11
+  type: paper-conference
+  author:
+  - family: Schmidl
+    given: Dirk
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Towards nUMA support with distance information
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-79'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_6
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/SabneSE12
+  type: paper-conference
+  author:
+  - family: Sabne
+    given: Amit
+  - family: Sakdhnagool
+    given: Putt
+  - family: Eigenmann
+    given: Rudolf
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Effects of compiler optimizations in openMP to cUDA translation
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-181'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_13
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/LaGroneAAC11
+  type: paper-conference
+  author:
+  - family: LaGrone
+    given: James
+  - family: Aribuki
+    given: Ayodunni
+  - family: Addison
+    given: Cody
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: A runtime implementation of openMP tasks
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-178'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_13
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/TaoFM11
+  type: paper-conference
+  author:
+  - family: Tao
+    given: Jie
+  - family: Fürlinger
+    given: Karl
+  - family: Marten
+    given: Holger
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Performance evaluation of openMP applications on virtualized multicore machines
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-150'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_11
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/HanawaSLIKB09
+  type: paper-conference
+  author:
+  - family: Hanawa
+    given: Toshihiro
+  - family: Sato
+    given: Mitsuhisa
+  - family: Lee
+    given: Jinpil
+  - family: Imada
+    given: Takayuki
+  - family: Kimura
+    given: Hideaki
+  - family: Boku
+    given: Taisuke
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2009'
+  title: Evaluation of multicore processors for embedded systems by parallel benchmark
+    program using openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-27'
+  volume: '5568'
+  DOI: 10.1007/978-3-642-02303-3_2
+  ISBN: '978-3-642-02284-5'
+
+- id: conf/iwomp/SalamancaMA14
+  type: paper-conference
+  author:
+  - family: Salamanca
+    given: Juan
+  - family: Mattos
+    given: Luis
+  - family: Araujo
+    given: Guido
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Loop-carried dependence verification in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-102'
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5_7
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/WangBG05
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Dali
+  - family: Berry
+    given: Michael W.
+  - family: Gross
+    given: Louis J.
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: A parallel structured ecological model for high end shared memory computers
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-118'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_9
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/2013
+  type: book
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: OpenMP in the era of low power devices and accelerators - 9th international
+    workshop on openMP, iWOMP 2013, canberra, aCT, australia, september 16-18, 2013.
+    proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/MorrisMS06
+  type: paper-conference
+  author:
+  - family: Morris
+    given: Alan
+  - family: Malony
+    given: Allen D.
+  - family: Shende
+    given: Sameer
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: Supporting nested openMP parallelism in the tAU performance system
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-288'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_23
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/BarkerB13
+  type: paper-conference
+  author:
+  - family: Barker
+    given: James
+  - family: Bowden
+    given: Josh
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Manycore parallelism through openMP - high-performance scientific computing
+    with xeon phi
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-57'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_4
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/JailletK07
+  type: paper-conference
+  author:
+  - family: Jaillet
+    given: Christophe
+  - family: Krajecki
+    given: Michaël
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: A new memory allocation model for parallel search space data structures with
+    openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-152'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_16
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/WongBSWMLC10
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Michael
+  - family: Bihari
+    given: Barna L.
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Wu
+    given: Peng
+  - family: Michael
+    given: Maged M.
+  - family: Liu
+    given: Yan
+  - family: Chen
+    given: Wang
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: A case for including transactions in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-160'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_12
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/SalmanTMV05
+  type: paper-conference
+  author:
+  - family: Salman
+    given: Adnan
+  - family: Turovets
+    given: Sergei
+  - family: Malony
+    given: Allen D.
+  - family: Volkov
+    given: Vasily
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Multi-cluster, mixed-mode computational modeling of human head conductivity
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-130'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_10
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/LinLQG15
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Pei-Hung
+  - family: Liao
+    given: Chunhua
+  - family: Quinlan
+    given: Daniel J.
+  - family: Guzik
+    given: Stephen
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Experiences of using the openMP accelerator model to port dOE stencil applications
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-59'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_4
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/KlemmVBP06
+  type: paper-conference
+  author:
+  - family: Klemm
+    given: Michael
+  - family: Veldema
+    given: Ronald
+  - family: Bezold
+    given: Matthias
+  - family: Philippsen
+    given: Michael
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2006'
+  title: A proposal for openMP for java
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '409-421'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_33
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/Papadogiannakis15
+  type: paper-conference
+  author:
+  - family: Papadogiannakis
+    given: Alexandros
+  - family: Agathos
+    given: Spiros N.
+  - family: Dimakopoulos
+    given: Vassilios V.
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: OpenMP 4.0 device support in the oMPi compiler
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-216'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_15
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/MullerBBFHHJMPRSWWK12
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Matthias S.
+  - family: Baron
+    given: John
+  - family: Brantley
+    given: William C.
+  - family: Feng
+    given: Huiyu
+  - family: Hackenberg
+    given: Daniel
+  - family: Henschel
+    given: Robert
+  - family: Jost
+    given: Gabriele
+  - family: Molka
+    given: Daniel
+  - family: Parrott
+    given: Chris
+  - family: Robichaux
+    given: Joe
+  - family: Shelepugin
+    given: Pavel
+  - family: Waveren
+    given: G. Matthijs
+    dropping-particle: van
+  - family: Whitney
+    given: Brian
+  - family: Kumaran
+    given: Kalyan
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: SPEC oMP2012 - an application benchmark suite for parallel systems using
+    openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-236'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_17
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/2014
+  type: book
+  editor:
+  - family: DeRose
+    given: Luiz
+  issued:
+  - year: '2014'
+  title: Using and improving openMP for devices, tasks, and more - 10th international
+    workshop on openMP, iWOMP 2014, salvador, brazil, september 28-30, 2014. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8766'
+  DOI: 10.1007/978-3-319-11454-5
+  ISBN: '978-3-319-11453-8'
+
+- id: conf/iwomp/EichenbergerMSWCDLLL13
+  type: paper-conference
+  author:
+  - family: Eichenberger
+    given: Alexandre E.
+  - family: Mellor-Crummey
+    given: John M.
+  - family: Schulz
+    given: Martin
+  - family: Wong
+    given: Michael
+  - family: Copty
+    given: Nawal
+  - family: Dietrich
+    given: Robert
+  - family: Liu
+    given: Xu
+  - family: Loh
+    given: Eugene
+  - family: Lorenz
+    given: Daniel
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: 'OMPT: An openMP tools application programming interface for performance
+    analysis'
+  title-short: OMPT
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-185'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_13
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/TerbovenMS07
+  type: paper-conference
+  author:
+  - family: Terboven
+    given: Christian
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Sarholz
+    given: Samuel
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: OpenMP on multicore architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-64'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_5
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/2015
+  type: book
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: 'OpenMP: Heterogenous execution and data movements - 11th international
+    workshop on openMP, iWOMP 2015, aachen, germany, october 1-2, 2015, proceedings'
+  title-short: OpenMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/BasumallikE08
+  type: paper-conference
+  author:
+  - family: Basumallik
+    given: Ayon
+  - family: Eigenmann
+    given: Rudolf
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: Incorporation of openMP memory consistency into conventional dataflow analysis
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-82'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_7
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/HaR12
+  type: paper-conference
+  author:
+  - family: Ha
+    given: Viet Hai
+  - family: Renault
+    given: Éric
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Design of a shared-memory model for cAPE
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '262-266'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_22
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/ChenF07
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Li
+  - family: Fujishiro
+    given: Issei
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Optimization strategies using hybrid mPI+OpenMP parallelization for large-scale
+    data visualization on earth simulator
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-124'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_10
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/LiaoQPS10
+  type: paper-conference
+  author:
+  - family: Liao
+    given: Chunhua
+  - family: Quinlan
+    given: Daniel J.
+  - family: Panas
+    given: Thomas
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: A rOSE-based openMP 3.0 research compiler supporting multiple runtime libraries
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-28'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_2
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/GhoshYEC13
+  type: paper-conference
+  author:
+  - family: Ghosh
+    given: Priyanka
+  - family: '0001'
+    given: Yonghong Yan
+  - family: Eachempati
+    given: Deepak
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: A prototype implementation of openMP task dependency support
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-140'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_10
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/AltenfeldAMBBB11
+  type: paper-conference
+  author:
+  - family: Altenfeld
+    given: Ralph
+  - family: Apel
+    given: Markus
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  - family: Böttger
+    given: Bernd
+  - family: Benke
+    given: Stefan
+  - family: Bischof
+    given: Christian H.
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2011'
+  title: Parallelising computational microstructure simulations for metallic materials
+    with openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-11'
+  volume: '6665'
+  DOI: 10.1007/978-3-642-21487-5_1
+  ISBN: '978-3-642-21486-8'
+
+- id: conf/iwomp/TerbovenSCM12
+  type: paper-conference
+  author:
+  - family: Terboven
+    given: Christian
+  - family: Schmidl
+    given: Dirk
+  - family: Cramer
+    given: Tim
+  - family: Mey
+    given: Dieter
+    dropping-particle: an
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: Assessing openMP tasking implementations on nUMA architectures
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '182-195'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_14
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/LiaoYSQC13
+  type: paper-conference
+  author:
+  - family: Liao
+    given: Chunhua
+  - family: '0001'
+    given: Yonghong Yan
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Quinlan
+    given: Daniel J.
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Rendell
+    given: Alistair P.
+  issued:
+  - year: '2013'
+  title: Early experiences with the openMP accelerator model
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-98'
+  volume: '8122'
+  DOI: 10.1007/978-3-642-40698-0_7
+  ISBN: '978-3-642-40697-3'
+
+- id: conf/iwomp/BronevetskyGS08
+  type: paper-conference
+  author:
+  - family: Bronevetsky
+    given: Greg
+  - family: Gyllenhaal
+    given: John C.
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Eigenmann
+    given: Rudolf
+  issued:
+  - year: '2008'
+  title: 'CLOMP: Accurately characterizing openMP application overheads'
+  title-short: CLOMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-25'
+  volume: '5004'
+  DOI: 10.1007/978-3-540-79561-2_2
+  ISBN: '978-3-540-79560-5'
+
+- id: conf/iwomp/2010
+  type: book
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: 'Beyond loop level parallelism in openMP: Accelerators, tasking and more,
+    6th internationan workshop on openMP, iWOMP 2010, tsukuba, japan, june 14-16,
+    2010, proceedings'
+  title-short: Beyond loop level parallelism in openMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/ChenSHH12
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Li
+  - family: Shou
+    given: Baojiang
+  - family: Hou
+    given: Xionghui
+  - family: Huang
+    given: Lei
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: A compiler-assisted runtime-prefetching scheme for heterogeneous platforms
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '116-129'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_9
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/Hart15
+  type: paper-conference
+  author:
+  - family: Hart
+    given: Alistair
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: First experiences porting a parallel application to a hybrid supercomputer
+    with openMP4.0 device constructs
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-85'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_6
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/KotakemoriHKNSN05
+  type: paper-conference
+  author:
+  - family: Kotakemori
+    given: Hisashi
+  - family: Hasegawa
+    given: Hidehiko
+  - family: Kajiyama
+    given: Tamito
+  - family: Nukada
+    given: Akira
+  - family: Suda
+    given: Reiji
+  - family: Nishida
+    given: Akira
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Performance evaluation of parallel sparse matrix-vector products on sGI altix3700
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-163'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_13
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/JacobNEABCSOW15
+  type: paper-conference
+  author:
+  - family: Jacob
+    given: Arpith C.
+  - family: Nair
+    given: Ravi
+  - family: Eichenberger
+    given: Alexandre E.
+  - family: Antão
+    given: Samuel
+  - family: Bertolli
+    given: Carlo
+  - family: Chen
+    given: Tong
+  - family: Sura
+    given: Zehra
+  - family: O’Brien
+    given: Kevin
+  - family: Wong
+    given: Michael
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: Exploiting fine- and coarse-grained parallelism using a directive based approach
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '30-41'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_3
+  ISBN: '978-3-319-24594-2'
+
+- id: conf/iwomp/PanABE05
+  type: paper-conference
+  author:
+  - family: Pan
+    given: Zhelong
+  - family: Armstrong
+    given: Brian
+  - family: Bae
+    given: Hansang
+  - family: Eigenmann
+    given: Rudolf
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: On the interaction of tiling and automatic parallelization
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '24-35'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_3
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/BarnhartTJT07
+  type: paper-conference
+  author:
+  - family: Barnhart
+    given: Robert
+  - family: Trefftz
+    given: Christian
+  - family: Jorgensen
+    given: Paul C.
+  - family: Tao
+    given: Yonglei
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: An investigation on testing of parallelized code with openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-128'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_11
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/YanHHCZ10
+  type: paper-conference
+  author:
+  - family: Yan
+    given: Jianian
+  - family: He
+    given: Jiangzhou
+  - family: Han
+    given: Wentao
+  - family: Chen
+    given: Wenguang
+  - family: Zheng
+    given: Weimin
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: How openMP applications get more benefit from many-core era
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '83-95'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_7
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/BalartDGMAL05
+  type: paper-conference
+  author:
+  - family: Balart
+    given: Jairo
+  - family: Duran
+    given: Alejandro
+  - family: González
+    given: Marc
+  - family: Martorell
+    given: Xavier
+  - family: Ayguadé
+    given: Eduard
+  - family: Labarta
+    given: Jesús
+  editor:
+  - family: Müller
+    given: Matthias S.
+  issued:
+  - year: '2005'
+  title: Experiences parallelizing a web server with openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-202'
+  volume: '4315'
+  DOI: 10.1007/978-3-540-68555-5_16
+  ISBN: '978-3-540-68554-8'
+
+- id: conf/iwomp/Renault07
+  type: paper-conference
+  author:
+  - family: Renault
+    given: Éric
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2007'
+  title: Distributed implementation of openMP based on checkpointing aided parallel
+    execution
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-206'
+  volume: '4935'
+  DOI: 10.1007/978-3-540-69303-1_22
+  ISBN: '978-3-540-69302-4'
+
+- id: conf/iwomp/DuranFKSA10
+  type: paper-conference
+  author:
+  - family: Duran
+    given: Alejandro
+  - family: Ferrer
+    given: Roger
+  - family: Klemm
+    given: Michael
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Ayguadé
+    given: Eduard
+  editor:
+  - family: Sato
+    given: Mitsuhisa
+  issued:
+  - year: '2010'
+  title: A proposal for user-defined reductions in openMP
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-55'
+  volume: '6132'
+  DOI: 10.1007/978-3-642-13217-9_4
+  ISBN: '978-3-642-13216-2'
+
+- id: conf/iwomp/ThomanJPF12
+  type: paper-conference
+  author:
+  - family: Thoman
+    given: Peter
+  - family: Jordan
+    given: Herbert
+  - family: Pellegrini
+    given: Simone
+  - family: Fahringer
+    given: Thomas
+  editor:
+  - family: Chapman
+    given: Barbara M.
+  issued:
+  - year: '2012'
+  title: 'Automatic openMP loop scheduling: A combined compiler and runtime approach'
+  title-short: Automatic openMP loop scheduling
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-101'
+  volume: '7312'
+  DOI: 10.1007/978-3-642-30961-8_7
+  ISBN: '978-3-642-30960-1'
+
+- id: conf/iwomp/ArifV15
+  type: paper-conference
+  author:
+  - family: Arif
+    given: Mahwish
+  - family: Vandierendonck
+    given: Hans
+  editor:
+  - family: Terboven
+    given: Christian
+  issued:
+  - year: '2015'
+  title: A case study of openMP applied to map/Reduce-style computations
+  container-title: IWOMP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-174'
+  volume: '9342'
+  DOI: 10.1007/978-3-319-24595-9_12
+  ISBN: '978-3-319-24594-2'
+...

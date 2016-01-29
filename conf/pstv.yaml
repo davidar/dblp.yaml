@@ -1,0 +1,6439 @@
+---
+references:
+- id: conf/pstv/1987
+  type: book
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Protocol specification, testing and verification vII, proceedings of the
+    iFIP wG6.1 seventh international conference on protocol specification, testing
+    and verification, zurich, switzerland, 5-8 may, 1987
+  publisher: North-Holland
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Kurose82
+  type: paper-conference
+  author:
+  - family: Kurose
+    given: James F.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: The specification and verification of a connection establishment protocol
+    using temporal logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '43-62'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/GhribiL93
+  type: paper-conference
+  author:
+  - family: Ghribi
+    given: Brahim
+  - family: Logrippo
+    given: Luigi
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: A validation environment for lOTOS
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '93-108'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/ShenLD89
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Yinan N.
+  - family: Lombardi
+    given: Fabrizio
+  - family: Dahbura
+    given: Anton T.
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Protocol conformance testing using multiple uIO sequences
+  container-title: PSTV
+  publisher: North-Holland
+  page: '131-143'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/CastanetDG85
+  type: paper-conference
+  author:
+  - family: Castanet
+    given: Richard
+  - family: Dupeux
+    given: A.
+  - family: Guitton
+    given: Pascal
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: ADA, a well suited language for specification and implementation of protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '247-258'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/CheungWX91
+  type: paper-conference
+  author:
+  - family: Cheung
+    given: To-Yat
+  - family: Wu
+    given: Youwen
+  - family: Ye
+    given: Xinming
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Generating test sequences and their degrees of indeterminism for protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '301-316'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Naik94
+  type: paper-conference
+  author:
+  - family: Naik
+    given: Kshirasagar
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Design of reliable architecture for testing timed behavior of oSI protocols
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '121-136'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Leduc94
+  type: paper-conference
+  author:
+  - family: Leduc
+    given: Guy
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Failure-based congruences, unfair divergences and new testing theory
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '252-267'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/SarikayaB82
+  type: paper-conference
+  author:
+  - family: Sarikaya
+    given: Behçet
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Some experience with test sequence generation for protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '555-567'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/PetrenkoY92
+  type: paper-conference
+  author:
+  - family: Petrenko
+    given: Alexandre
+  - family: Yevtushenko
+    given: Nina
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Test suite generation from a fSM with a given type of implementation errors
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '229-243'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Sidhu82
+  type: paper-conference
+  author:
+  - family: Sidhu
+    given: Deepinder P.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Protocol design rules
+  container-title: PSTV
+  publisher: North-Holland
+  page: '283-300'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/LinW91
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yow-Jian
+  - family: Wuu
+    given: Gene T. J.
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: A constrained approach for temporal intervals in the analysis of timed transitions
+  container-title: PSTV
+  publisher: North-Holland
+  page: '215-230'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Hung85
+  type: paper-conference
+  author:
+  - family: Hung
+    given: Chau Chun
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: CCS used as a proof-assistant tool
+  container-title: PSTV
+  publisher: North-Holland
+  page: '387-398'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AggarwalK84
+  type: paper-conference
+  author:
+  - family: Aggarwal
+    given: S.
+  - family: Kurshan
+    given: Robert P.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Automated implementation from formal specification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '127-136'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Garavel95
+  type: paper-conference
+  author:
+  - family: Garavel
+    given: Hubert
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: On the introduction of gate typing in e-lOTOS
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '283-298'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/GustavssonR89
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Jan
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Including a queue in a formal-description-driven protocol performance analysis
+  container-title: PSTV
+  publisher: North-Holland
+  page: '247-258'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Courtiat87
+  type: paper-conference
+  author:
+  - family: Courtiat
+    given: Jean-Pierre
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: How could estelle become a better fDT?
+  container-title: PSTV
+  publisher: North-Holland
+  page: '43-60'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/CourtiatO94
+  type: paper-conference
+  author:
+  - family: Courtiat
+    given: Jean-Pierre
+  - family: Oliveira
+    given: Roberto C.
+    dropping-particle: de
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: About time nondeterminism and exception handling in a temporal extension
+    of lOTOS
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '37-52'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/GburzynskiR89
+  type: paper-conference
+  author:
+  - family: Gburzynski
+    given: Pawel
+  - family: Rudnicki
+    given: Piotr
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: On executable specifications, validation, and testing of mAC-level protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '261-273'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/FischerSD85
+  type: paper-conference
+  author:
+  - family: Fischer
+    given: W.
+  - family: Sauer
+    given: Klaus
+  - family: Denzel
+    given: W.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: A simulation technique for communications protocols based on a formal specification
+    by sDL
+  container-title: PSTV
+  publisher: North-Holland
+  page: '333-347'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/GoudaJ82
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Jain
+    given: Bijendra N.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Necessary and sufficient conditions to detect message duplication in protocol
+    hierarchies
+  container-title: PSTV
+  publisher: North-Holland
+  page: '317'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Brinksma85
+  type: paper-conference
+  author:
+  - family: Brinksma
+    given: Ed
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: A tutorial on lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '171-194'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AlfanoK90
+  type: paper-conference
+  author:
+  - family: Alfano
+    given: N. P.
+  - family: Kanungo
+    given: B.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Development of an international standard for conformance testing x.25 dTEs
+    january 1988 - may 1989
+  container-title: PSTV
+  publisher: North-Holland
+  page: '129-140'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Mazurkiewicz95
+  type: paper-conference
+  author:
+  - family: Mazurkiewicz
+    given: Antoni W.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: True versus artificial concurrency
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '53-68'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/MolvaDA85
+  type: paper-conference
+  author:
+  - family: Molva
+    given: R.
+  - family: Diaz
+    given: Michel
+  - family: Ayache
+    given: Jean-Michel
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: 'Observer: A run-time checking tool for local area networks'
+  title-short: Observer
+  container-title: PSTV
+  publisher: North-Holland
+  page: '495-506'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/MackertN87
+  type: paper-conference
+  author:
+  - family: Mackert
+    given: Lothar F.
+  - family: Neumeier-Mackert
+    given: Iris B.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Communicating rule systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '77-88'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/StefanoMM85
+  type: paper-conference
+  author:
+  - family: Stefano
+    given: Antonella Di
+  - family: Malgeri
+    given: Michele
+  - family: Mirabella
+    given: Orazio
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: A specification of a pROWAY protocol with an algebraic language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '195-213'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Razouk82
+  type: paper-conference
+  author:
+  - family: Razouk
+    given: Rami R.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Modeling x.25 using the graph model of behavior
+  container-title: PSTV
+  publisher: North-Holland
+  page: '197-214'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/AkyildizCKK91
+  type: paper-conference
+  author:
+  - family: Akyildiz
+    given: Ian F.
+  - family: Chiola
+    given: Giovanni
+  - family: Kofman
+    given: Daniel
+  - family: Korezlioglu
+    given: Hayri
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Stochastic petri net modeling of the fDDI network protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '179-197'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Holzmann95
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: An analysis of bistate hashing
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '301-314'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/KrummD84
+  type: paper-conference
+  author:
+  - family: Krumm
+    given: Heiko
+  - family: Drobnik
+    given: Oswald
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Transformation of constructive specifications of services and protocols into
+    the logical language of cIL
+  container-title: PSTV
+  publisher: North-Holland
+  page: '31-45'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Langerak90
+  type: paper-conference
+  author:
+  - family: Langerak
+    given: Rom
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: 'Decomposition of functionality: A correctness-preserving lOTOS transformation'
+  title-short: Decomposition of functionality
+  container-title: PSTV
+  publisher: North-Holland
+  page: '229-242'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/MeandzijaH87
+  type: paper-conference
+  author:
+  - family: Meandzija
+    given: Branislav
+  - family: Ho
+    given: William P.-C.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Towards truly open systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '29-40'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Gouda92
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: The two-dimensional window protocol
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '365-379'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Karjoth85
+  type: paper-conference
+  author:
+  - family: Karjoth
+    given: Günter
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: An interactive system for the analysis of communicating processes
+  container-title: PSTV
+  publisher: North-Holland
+  page: '91-102'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/BurkhardtEG85
+  type: paper-conference
+  author:
+  - family: Burkhardt
+    given: Heinz Jürgen
+  - family: Eckert
+    given: Hans
+  - family: Giessler
+    given: Alfred
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Testing of protocol implementations. a systematic approach to derivation
+    of test sequences form global protocol specifications
+  container-title: PSTV
+  publisher: North-Holland
+  page: '461-481'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Gotzhein90
+  type: paper-conference
+  author:
+  - family: Gotzhein
+    given: Reinhard
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Specifying communication services with temporal logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '295-309'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/GodskesenLS94
+  type: paper-conference
+  author:
+  - family: Godskesen
+    given: Jens Chr.
+  - family: Larsen
+    given: Kim Guldstrand
+  - family: Skou
+    given: Arne
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Automatic verification of real-tim systems using epsilon
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '323-330'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/KritzingerW93
+  type: paper-conference
+  author:
+  - family: Kritzinger
+    given: Pieter S.
+  - family: Wheeler
+    given: Graham
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Semi-markovian analysis of protocol performance
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '159-172'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/BarkerB93
+  type: paper-conference
+  author:
+  - family: Barker
+    given: R. M.
+  - family: Brady
+    given: F. A.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Automated generation of test purposes for the oSE distributed transaction
+    processing protocol
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '273-288'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Sere91
+  type: paper-conference
+  author:
+  - family: Sere
+    given: Kaisa
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Stepwise refinement of reactive processor farms
+  container-title: PSTV
+  publisher: North-Holland
+  page: '109-124'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/LogrippoP82
+  type: paper-conference
+  author:
+  - family: Logrippo
+    given: Luigi
+  - family: Probert
+    given: Robert L.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Protocol/Specification-level validation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '303-304'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Sisto95
+  type: paper-conference
+  author:
+  - family: Sisto
+    given: Riccardo
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: A method to build symbolic representations of lOTOS specifications
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '331-346'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Sajkowski84
+  type: paper-conference
+  author:
+  - family: Sajkowski
+    given: Michal
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: 'Protocol verification techniques: Status quo and perspectives'
+  title-short: Protocol verification techniques
+  container-title: PSTV
+  publisher: North-Holland
+  page: '697-720'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/VelthuysSZ92
+  type: paper-conference
+  author:
+  - family: Velthuys
+    given: Roelof Jan
+  - family: Schneider
+    given: Jürgen M.
+  - family: Zörntlein
+    given: Georg
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: A test derivation method based on exploiting structure information
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '195-209'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/PavelD84
+  type: paper-conference
+  author:
+  - family: Pavel
+    given: John R.
+  - family: Dwyer
+    given: Dermot J.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Some experiences of testing protocol implementations
+  container-title: PSTV
+  publisher: North-Holland
+  page: '657-677'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/AndersonL84
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: David P.
+  - family: Landweber
+    given: Lawrence H.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Protocol specification by real-time attribute grammars
+  container-title: PSTV
+  publisher: North-Holland
+  page: '457-465'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/StroupGM89
+  type: paper-conference
+  author:
+  - family: Stroup
+    given: Terry
+  - family: Götz
+    given: Norbert
+  - family: Mendler
+    given: Michael
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Stepwise refinement of layered protocols by formal program development
+  container-title: PSTV
+  publisher: North-Holland
+  page: '71-85'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/DimitrijevicC89
+  type: paper-conference
+  author:
+  - family: Dimitrijevic
+    given: Dragomir D.
+  - family: Chen
+    given: Mon-Song
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Dynamic state exploration in quantitative protocol analysis
+  container-title: PSTV
+  publisher: North-Holland
+  page: '327-338'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/BremerMTT84
+  type: paper-conference
+  author:
+  - family: Bremer
+    given: J.
+  - family: Mondvai
+    given: G.
+  - family: Tarnay
+    given: Kálmám
+  - family: Tibor
+    given: T.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Some experiences with test sequence generation in application layer
+  container-title: PSTV
+  publisher: North-Holland
+  page: '623-636'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/PlatoHK95
+  type: paper-conference
+  author:
+  - family: Plato
+    given: Ralf
+  - family: Held
+    given: Thomas
+  - family: König
+    given: Hartmut
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: PARES - a portable parallel estelle compiler
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '403-418'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/NaikS94
+  type: paper-conference
+  author:
+  - family: Naik
+    given: Kshirasagar
+  - family: Sarikaya
+    given: Behçet
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Protocol conformance test case verification using timed-transitions
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '103-118'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Brinksma94
+  type: paper-conference
+  author:
+  - family: Brinksma
+    given: Ed
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Cache consistency by design
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '53-67'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Prinoth82
+  type: paper-conference
+  author:
+  - family: Prinoth
+    given: Rainer
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: An algorithm to construct distributed systems from state-machines
+  container-title: PSTV
+  publisher: North-Holland
+  page: '261-282'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/DukeRL90
+  type: paper-conference
+  author:
+  - family: Duke
+    given: Roger
+  - family: Rose
+    given: Gordon A.
+  - family: Lee
+    given: Anthony
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Object-oriented protocol specification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '325-338'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Tenney90
+  type: paper-conference
+  author:
+  - family: Tenney
+    given: Richard L.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Modelling flow control in estelle
+  container-title: PSTV
+  publisher: North-Holland
+  page: '33-44'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/ValmariT91
+  type: paper-conference
+  author:
+  - family: Valmari
+    given: Antti
+  - family: Tienari
+    given: Martti
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: An improved failures equivalence for finite-state systems with a reduction
+    algorithm
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-18'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/BillingtonWB85
+  type: paper-conference
+  author:
+  - family: Billington
+    given: Jonathan
+  - family: Wilbur-Ham
+    given: Michael C.
+  - family: Bearman
+    given: M. Y.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Automated protocol verification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '59-70'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AnisimovK95
+  type: paper-conference
+  author:
+  - family: Anisimov
+    given: Nikolay A.
+  - family: Koutny
+    given: Maciej
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: On compositionality and petri nets in protocol engineering
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '71-86'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Budkowski84
+  type: paper-conference
+  author:
+  - family: Budkowski
+    given: Stanislaw
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Generation of a global system description from the descriptions of cooperating
+    subsystems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '467-487'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/QuemadaF87
+  type: paper-conference
+  author:
+  - family: Quemada
+    given: Juan
+  - family: Fernández
+    given: Angel
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Introduction of quantitative relative time into lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '105-121'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Holzmann84
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Backward symbolic execution of protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '19-30'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/CourtiatS93
+  type: paper-conference
+  author:
+  - family: Courtiat
+    given: Jean-Pierre
+  - family: Saïdouni
+    given: Djamel-Eddine
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Action refinement in lOTOS
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '341-354'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Fischer95
+  type: paper-conference
+  author:
+  - family: Fischer
+    given: S.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: On the suitability of estelle for multimedia systems
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '369-384'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Leduc85
+  type: paper-conference
+  author:
+  - family: Leduc
+    given: Guy
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Assessing the service provided by a connection-less protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '215-234'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AzcorraVAV93
+  type: paper-conference
+  author:
+  - family: Azcorra
+    given: Arturo
+  - family: Vázquez
+    given: Enrique
+  - family: Alvarez-Campana
+    given: Manuel
+  - family: Vinyes
+    given: Juan
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: 'Formal description techniques at work: An iSDN q.931 implementation using
+    lOTOS'
+  title-short: Formal description techniques at work
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '175-189'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Pecheur93
+  type: paper-conference
+  author:
+  - family: Pecheur
+    given: Charles
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: 'VLib: Infinite virtual libraries for lOTOS'
+  title-short: VLib
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '29-44'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/MoliPA82
+  type: paper-conference
+  author:
+  - family: Moli
+    given: Gesualdo Le
+  - family: Palazzo
+    given: Sergio
+  - family: Andreoni
+    given: Gaetano
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: A model of entity for the definition of protocols, services, and interfaces
+  container-title: PSTV
+  publisher: North-Holland
+  page: '249-258'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/1993
+  type: book
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Protocol specification, testing and verification xIII, proceedings of the
+    iFIP tC6/WG6.1 thirteenth international symposium on protocol specification, testing
+    and verification, liège, belgium, 25-28 may, 1993
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/NajmBGL85
+  type: paper-conference
+  author:
+  - family: Najm
+    given: Elie
+  - family: Budkowski
+    given: Stanislaw
+  - family: Gilot
+    given: Thierry
+  - family: Lumbroso
+    given: Leon
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: General presentation of sCAN. a distributed systems modelling and validation
+    tool
+  container-title: PSTV
+  publisher: North-Holland
+  page: '103-118'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/JirachiefpattanaL94
+  type: paper-conference
+  author:
+  - family: Jirachiefpattana
+    given: Ajin
+  - family: Lai
+    given: Richard
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Verification of the iSO rOSE protocol specified in estelle
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '87-102'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/SchwabeC84
+  type: paper-conference
+  author:
+  - family: Schwabe
+    given: Daniel
+  - family: Cavalli
+    given: Ana R.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Temporal logic specification of a virtual ring lAN access protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '79-91'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/YaoPB93
+  type: paper-conference
+  author:
+  - family: Yao
+    given: Ming Yu
+  - family: Petrenko
+    given: Alexandre
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Conformance testing of protocol machines without reset
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '241-256'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/MorganR85
+  type: paper-conference
+  author:
+  - family: Morgan
+    given: E. Timothy
+  - family: Razouk
+    given: Rami R.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Computer-aided analysis of concurrent systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '49-58'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/DiazVV95
+  type: paper-conference
+  author:
+  - family: Diaz
+    given: Michel
+  - family: Villemur
+    given: Thierry
+  - family: Vernadat
+    given: François
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Formal design of cooperative systems
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '349-365'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Hansson85
+  type: paper-conference
+  author:
+  - family: Hansson
+    given: Hans A.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Automatic implementation of formal descriptions of communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '259-270'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/ShankarL84
+  type: paper-conference
+  author:
+  - family: Shankar
+    given: A. Udaya
+  - family: Lam
+    given: Simon S.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Specification and verification of time-dependant communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '215-226'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Souissi91
+  type: paper-conference
+  author:
+  - family: Souissi
+    given: Younes
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: A modular approach for the validation of communication protocols using fIFO
+    nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '143-158'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/1989
+  type: book
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1990'
+  title: Protocol specification, testing and verification iX, proceedings of the iFIP
+    wG6.1 ninth international symposium on protocol specification, testing and verification,
+    enschede, the netherlands, 6-9 june, 1989
+  publisher: North-Holland
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/BauseKKK95
+  type: paper-conference
+  author:
+  - family: Bause
+    given: Falko
+  - family: Kabutz
+    given: Heinz
+  - family: Kemper
+    given: Peter
+  - family: Kritzinger
+    given: Pieter S.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: SDL and petri net performance analysis of communicating systems
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '269-282'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/NomuraHT90
+  type: paper-conference
+  author:
+  - family: Nomura
+    given: Shingo
+  - family: Hasegawa
+    given: Toru
+  - family: Takizuka
+    given: Takashi
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: A lOTOS compiler and process synchronization manager
+  container-title: PSTV
+  publisher: North-Holland
+  page: '169-182'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/MaxemchukS87
+  type: paper-conference
+  author:
+  - family: Maxemchuk
+    given: Nicholas F.
+  - family: Sabnani
+    given: Krishan K.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Probabilistic verification of communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '307-320'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Alilovic-CurgusV93
+  type: paper-conference
+  author:
+  - family: Alilovic-Curgus
+    given: Jadranka
+  - family: Vuong
+    given: Son T.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: A metric based theory of test selection and coverage
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '289-304'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/BolognesiS87
+  type: paper-conference
+  author:
+  - family: Bolognesi
+    given: Tommaso
+  - family: Smolka
+    given: Scott A.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: 'Fundamental results for the verification of observational equivalence:
+    A survey'
+  title-short: Fundamental results for the verification of observational equivalence
+  container-title: PSTV
+  publisher: North-Holland
+  page: '165-179'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/ScolloAFGR84
+  type: paper-conference
+  author:
+  - family: Scollo
+    given: Giuseppe
+  - family: Anzalone
+    given: Antonio
+  - family: Finocchiaro
+    given: Paolo
+  - family: Giustolisi
+    given: Francesco
+  - family: Raciti
+    given: Giovanni
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Specification and implementation of the mONDAN system
+  container-title: PSTV
+  publisher: North-Holland
+  page: '395-422'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Juanole84
+  type: paper-conference
+  author:
+  - family: Juanole
+    given: Guy
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: 'Reliability of a data link service: Modelling methodology - protocols
+    comparison'
+  title-short: Reliability of a data link service
+  container-title: PSTV
+  publisher: North-Holland
+  page: '577-600'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Rudin87
+  type: paper-conference
+  author:
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Note on the early history of layered architecture
+  container-title: PSTV
+  publisher: North-Holland
+  page: '453-454'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/1991
+  type: book
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Protocol specification, testing and verification xI, proceedings of the iFIP
+    wG6.1 international symposium on protocol specification, testing and verification,
+    stockholm, sweden, 18-20 june 1991
+  publisher: North-Holland
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/VelthuysMSZ91
+  type: paper-conference
+  author:
+  - family: Velthuys
+    given: Roelof Jan
+  - family: Mackert
+    given: Lothar F.
+  - family: Schneider
+    given: Jürgen M.
+  - family: Zörntlein
+    given: Georg
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Structuring mechanisms for the formal description technique cRS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '39-57'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Cockburn91
+  type: paper-conference
+  author:
+  - family: Cockburn
+    given: Alistair
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: A formalization of temporal message-flow diagrams
+  container-title: PSTV
+  publisher: North-Holland
+  page: '59-74'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Calvert92
+  type: paper-conference
+  author:
+  - family: Calvert
+    given: Kenneth L.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Module composition and refinement with applications to protocol conversion
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '383-397'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/BochmannD89
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Deslauriers
+    given: Michel
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Combining aSN1 support with the lOTOS language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '175-186'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Hanle84
+  type: paper-conference
+  author:
+  - family: Hänle
+    given: Jürgen
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: The teletex test system pETRUS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '603-610'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/NounouY84
+  type: paper-conference
+  author:
+  - family: Nounou
+    given: Nihal
+  - family: Yemini
+    given: Yechiam
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Algebraic specification-based performance analysis of communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '541-560'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/TanPB95
+  type: paper-conference
+  author:
+  - family: Tan
+    given: Q. M.
+  - family: Petrenko
+    given: Alexandre
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Modeling basic lOTOS by fSMs for conformance testing
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '137-152'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/SidhuB84
+  type: paper-conference
+  author:
+  - family: Sidhu
+    given: Deepinder P.
+  - family: Blumer
+    given: Thomas P.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Some problems with the specification of the military standard transmission
+    control protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '375-381'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/BolognesiR84
+  type: paper-conference
+  author:
+  - family: Bolognesi
+    given: Tommaso
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: On the analysis of time-dependent protocols by network flow algorithms
+  container-title: PSTV
+  publisher: North-Holland
+  page: '491-513'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Freudenmann87
+  type: paper-conference
+  author:
+  - family: Freudenmann
+    given: Johannes
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Development of communication software by stepwise refinement
+  container-title: PSTV
+  publisher: North-Holland
+  page: '391-404'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/HolzmannGP92
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  - family: Godefroid
+    given: Patrice
+  - family: Pirottin
+    given: Didier
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Coverage preserving reduction strategies for reachability analysis
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '349-363'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Turner87
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Kenneth J.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: An architectural semantics for lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '15-28'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/KurshanPS89
+  type: paper-conference
+  author:
+  - family: Kurshan
+    given: Robert P.
+  - family: Pinter
+    given: Shlomit S.
+  - family: Solomon
+    given: Baruch
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Extensions of temporal logic for counting with applications to model verification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '373-386'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Kwast92
+  type: paper-conference
+  author:
+  - family: Kwast
+    given: Erik
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Automatic test generation for protocol data aspects
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '211-226'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/SmolkaFD84
+  type: paper-conference
+  author:
+  - family: Smolka
+    given: Scott A.
+  - family: Frank
+    given: Ariel J.
+  - family: Debray
+    given: Saumya K.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Testing protocol robustness the cCS way
+  container-title: PSTV
+  publisher: North-Holland
+  page: '93-108'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/ChanSNCDVSC89
+  type: paper-conference
+  author:
+  - family: Chan
+    given: R. Isaac
+  - family: Smith
+    given: Brian R.
+  - family: Neufeld
+    given: Gerald W.
+  - family: Chanson
+    given: Samuel T.
+  - family: Davis
+    given: W. B.
+  - family: Vuong
+    given: Son T.
+  - family: See
+    given: H. L.
+  - family: Chan
+    given: S.
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: A software environment for oSI protocol testing systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '303-314'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/West90
+  type: paper-conference
+  author:
+  - family: West
+    given: Colin H.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: The first ten years, the next ten years
+  container-title: PSTV
+  publisher: North-Holland
+  page: '411-414'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Rudin92
+  type: paper-conference
+  author:
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: 'Protocol development success stories: Part 1'
+  title-short: Protocol development success stories
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '149-160'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/UlrichC95
+  type: paper-conference
+  author:
+  - family: Ulrich
+    given: Andreas
+  - family: Chanson
+    given: Samuel T.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: An approach to testing distributed software systems
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '121-136'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/1982
+  type: book
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Protocol specification, testing and verification, proceedings of the iFIP
+    wG6.1 second international workshop on protocol specification, testing and verification,
+    idyllwild, cA, uSA, 17-20 may, 1982
+  publisher: North-Holland
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Karjoth93
+  type: paper-conference
+  author:
+  - family: Karjoth
+    given: Günter
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Dynamic state machines with multiway synchronization, channels and shared
+    variables
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '61-76'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/LeeL91
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Do Y.
+  - family: Lee
+    given: Jai-Yong
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Test generation for the specification written in estelle
+  container-title: PSTV
+  publisher: North-Holland
+  page: '317-332'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/WangL92
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Chang-Jia
+  - family: Liu
+    given: Ming T.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: A test suite generation method for extended finite state machines using axiomatic
+    semantics approach
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '29-43'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/VenkatramanP85
+  type: paper-conference
+  author:
+  - family: Venkatraman
+    given: R. C.
+  - family: Piatkowski
+    given: Thomas F.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: A formal comparison of formal protocol specification techniques
+  container-title: PSTV
+  publisher: North-Holland
+  page: '401-420'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AnsartRC82
+  type: paper-conference
+  author:
+  - family: Ansart
+    given: Jean-Pierre
+  - family: Rafiq
+    given: Omar
+  - family: Chari
+    given: V.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: PDIL-protocol description and implementation language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '101-112'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/GaravelS90
+  type: paper-conference
+  author:
+  - family: Garavel
+    given: Hubert
+  - family: Sifakis
+    given: Joseph
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Compilation and verification of lOTOS specifications
+  container-title: PSTV
+  publisher: North-Holland
+  page: '379-394'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Wvong91
+  type: paper-conference
+  author:
+  - family: Wvong
+    given: Russil
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: LAPB conformance testin using trace analysis
+  container-title: PSTV
+  publisher: North-Holland
+  page: '267-282'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Najm84
+  type: paper-conference
+  author:
+  - family: Najm
+    given: Elie
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Verification of distributed systems using structured communicating agents
+    nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '295-308'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/YiL92
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Wang Yi
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Testing probabilistic and nondeterministic processes
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '47-61'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Muralidhar87
+  type: paper-conference
+  author:
+  - family: Muralidhar
+    given: K. H.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Network management and directory services test system
+  container-title: PSTV
+  publisher: North-Holland
+  page: '359-372'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/ObaidL87
+  type: paper-conference
+  author:
+  - family: Obaid
+    given: Abdellatif
+  - family: Logrippo
+    given: Luigi
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: An atomic calculus of communicating systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '91-104'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/StepienL94
+  type: paper-conference
+  author:
+  - family: Stepien
+    given: Bernard
+  - family: Logrippo
+    given: Luigi
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Feature interaction detection using backward reasoning with lOTOS
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '71-86'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/EngelbrechtKR85
+  type: paper-conference
+  author:
+  - family: Engelbrecht
+    given: Jan R.
+  - family: Kritzinger
+    given: Pieter S.
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Predicting protocol performance from a meta-implementation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '349-362'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/FaciLS89
+  type: paper-conference
+  author:
+  - family: Faci
+    given: Mohammed
+  - family: Logrippo
+    given: Luigi
+  - family: Stepien
+    given: Bernard
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Formal specifications of telephone systems in lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '25-34'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/FernandezRV85
+  type: paper-conference
+  author:
+  - family: Fernandez
+    given: Jean-Claude
+  - family: Richier
+    given: Jean-Luc
+  - family: Voiron
+    given: Jacques
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Verification of protocol specificaitons using the cESAR system
+  container-title: PSTV
+  publisher: North-Holland
+  page: '71-90'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Reghbati82
+  type: paper-conference
+  author:
+  - family: Reghbati
+    given: Hassan K.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Performance analysis of message-based systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '321-324'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/LamS91
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Simon S.
+  - family: Shankar
+    given: A. Udaya
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: A composition theorem for layered systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '93-108'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/YuangK89
+  type: paper-conference
+  author:
+  - family: Yuang
+    given: Maria C.
+  - family: Kershenbaum
+    given: Aaron
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: 'Parallel protocol verification: The two-phase algorithm'
+  title-short: Parallel protocol verification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '339-353'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Jmaiel95
+  type: paper-conference
+  author:
+  - family: Jmaiel
+    given: Mohamed
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: An algebraic-temporal specification of a cSMA/CD-protocol
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '187-202'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Gilbert87
+  type: paper-conference
+  author:
+  - family: Gilbert
+    given: David R.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: 'Executable lOTOS: Using pARLOG to implement an fDT'
+  title-short: Executable lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '281-294'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/EkEW94
+  type: paper-conference
+  author:
+  - family: Ek
+    given: Anders
+  - family: Ellsberger
+    given: Jan
+  - family: Wiles
+    given: Anthony
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Computer supported test generation from sDL specifications
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '351-358'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/VissersL85
+  type: paper-conference
+  author:
+  - family: Vissers
+    given: Chris A.
+  - family: Logrippo
+    given: Luigi
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: The importance of the service concept in the design of data communications
+    protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-17'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/KrishnakumarKS87
+  type: paper-conference
+  author:
+  - family: Krishnakumar
+    given: A. S.
+  - family: Krishnamurthy
+    given: B.
+  - family: Sabnani
+    given: Krishan K.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Translation of formal protocol specifications to vLSI designs
+  container-title: PSTV
+  publisher: North-Holland
+  page: '375-390'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/CastanetGR84
+  type: paper-conference
+  author:
+  - family: Castanet
+    given: Richard
+  - family: Guitton
+    given: Pascal
+  - family: Rafiq
+    given: Omar
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: 'An automatic system for the study of protocols: A presentation and critique
+    based on a worked example'
+  title-short: An automatic system for the study of protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '111-125'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/HaddadTZ93
+  type: paper-conference
+  author:
+  - family: Haddad
+    given: Serge
+  - family: Taghelit
+    given: Mohamed
+  - family: Zouari
+    given: Belhassen
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Assessment of eSTELLE and eDT through real case studies
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '223-238'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/EswaraBVS90
+  type: paper-conference
+  author:
+  - family: Eswara
+    given: Srinivas
+  - family: Berriman
+    given: Tom
+  - family: VanHoutte
+    given: Philip
+  - family: Sarikaya
+    given: Behçet
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Towards execution of tTCN test cases
+  container-title: PSTV
+  publisher: North-Holland
+  page: '99-112'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/JurgensenV84
+  type: paper-conference
+  author:
+  - family: Jürgensen
+    given: Wolfgang
+  - family: Vuong
+    given: Son T.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: 'CSP and cSP nets: A dual model for protocol specification and verification'
+  title-short: CSP and cSP nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '253-277'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/HengeveldK87
+  type: paper-conference
+  author:
+  - family: Hengeveld
+    given: Willem
+  - family: Kroon
+    given: Jan
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Using checking sequences for oSI session layer conformance testing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '435-449'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/DssouliB85
+  type: paper-conference
+  author:
+  - family: Dssouli
+    given: Rachida
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Error detection with multiple observers
+  container-title: PSTV
+  publisher: North-Holland
+  page: '483-494'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Kwast91
+  type: paper-conference
+  author:
+  - family: Kwast
+    given: Erik
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Towards automatic test generation for protocol data aspects
+  container-title: PSTV
+  publisher: North-Holland
+  page: '333-348'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/LundyM92
+  type: paper-conference
+  author:
+  - family: Lundy
+    given: Gilbert M.
+  - family: McArthur
+    given: R. C.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Formal model of a high speed transport procotol
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '97-111'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/BojanowskiIMO94
+  type: paper-conference
+  author:
+  - family: Bojanowski
+    given: Jakub
+  - family: Iglewski
+    given: Michal
+  - family: Madey
+    given: Jan
+  - family: Obaid
+    given: Abdellatif
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Functional approach to protocols specification
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '395-402'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Leue95
+  type: paper-conference
+  author:
+  - family: Leue
+    given: Stefan
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Specifying real-time requirements for sDL specifications - a temporal logic-based
+    approach
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '19-34'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Langerak89
+  type: paper-conference
+  author:
+  - family: Langerak
+    given: Rom
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: A testing theory for lOTOS using deadlock detection
+  container-title: PSTV
+  publisher: North-Holland
+  page: '87-98'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/HerrmannK94
+  type: paper-conference
+  author:
+  - family: Herrmann
+    given: Peter
+  - family: Krumm
+    given: Heiko
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Compositional specification and verification of high-speed transfer protocols
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '339-346'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/DupuisH85
+  type: paper-conference
+  author:
+  - family: Dupuis
+    given: Alain
+  - family: Hébuterne
+    given: Gérard
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: On the use of quantitative evaluation to assess and study distributed algorithms
+    properties
+  container-title: PSTV
+  publisher: North-Holland
+  page: '363-373'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/HavelundL94
+  type: paper-conference
+  author:
+  - family: Havelund
+    given: Klaus
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: A refinement logic for the fork calculus
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '5-20'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/GerthPVW95
+  type: paper-conference
+  author:
+  - family: Gerth
+    given: Rob
+  - family: Peled
+    given: Doron
+  - family: Vardi
+    given: Moshe Y.
+  - family: Wolper
+    given: Pierre
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Simple on-the-fly automatic verification of linear temporal logic
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '3-18'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/WalterEKM92
+  type: paper-conference
+  author:
+  - family: Walter
+    given: Thomas
+  - family: Ellsberger
+    given: Jan
+  - family: Kristoffersen
+    given: Finn
+  - family: Merkhof
+    given: Paul
+    dropping-particle: van den
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: A common semantics representation for sDL and tTCN
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '335-346'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/RoeverH89
+  type: paper-conference
+  author:
+  - family: Roever
+    given: Willem P.
+    dropping-particle: de
+  - family: Hooman
+    given: Jozef
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: 'Design and verification in real-time distributed computing: An introduction
+    to compositional methods'
+  title-short: Design and verification in real-time distributed computing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '37-56'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/1990
+  type: book
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Protocol specification, testing and verification x, proceedings of the iFIP
+    wG6.1 tenth international symposium on protocol specification, testing and verification,
+    ottawa, ontario, canada, 12-15 june, 1990
+  publisher: North-Holland
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/ESTELLE85
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Richard J. Linn
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: 'The features and facilities of eSTELLE: A formal description technique
+    based upon an extended finite state machine model'
+  title-short: The features and facilities of eSTELLE
+  container-title: PSTV
+  publisher: North-Holland
+  page: '271-296'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Quemada91
+  type: paper-conference
+  author:
+  - family: Quemada
+    given: Juan
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Compressed state space representation in lOTOS with the interleaved expansion
+  container-title: PSTV
+  publisher: North-Holland
+  page: '19-35'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Leduc87
+  type: paper-conference
+  author:
+  - family: Leduc
+    given: Guy
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: The intertwining of data types and processes in lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '123-136'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/PehrsonY84
+  type: paper-conference
+  author:
+  - family: Pehrson
+    given: Björn
+  - family: Yoeli
+    given: Michael
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: A communicating system net model for specification and verification of distributed
+    nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '383-394'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Jain94
+  type: paper-conference
+  author:
+  - family: Jain
+    given: Raj
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: 'ATM networks: Issues and challenges ahead'
+  title-short: ATM networks
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '217'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/HiguchiSF94
+  type: paper-conference
+  author:
+  - family: Higuchi
+    given: Masahiro
+  - family: Sugawa
+    given: S.
+  - family: Fujii
+    given: Mamoru
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: A method for verifying liveness of protocols modeled as a class of eCFSM
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '287-302'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/HeerinkB95
+  type: paper-conference
+  author:
+  - family: Heerink
+    given: Lex
+  - family: Brinksma
+    given: Ed
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Validation in context
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '221-236'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/1983
+  type: book
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1983'
+  title: Protocol specification, testing, and verification, iII, proceedings of the
+    iFIP wG 6.1 third international workshop on protocol specification, testing and
+    verification, organized by iBM research, rüschlikon, switzerland, 31 may - 2 june,
+    1983
+  publisher: North-Holland
+  ISBN: '0-444-86769-4'
+
+- id: conf/pstv/Saqui-SannesC91
+  type: paper-conference
+  author:
+  - family: Saqui-Sannes
+    given: Pierre
+    dropping-particle: de
+  - family: Courtiat
+    given: Jean-Pierre
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: An extension of the multi-way synchronization mechanism concealed by estelle
+  container-title: PSTV
+  publisher: North-Holland
+  page: '75-89'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/1994
+  type: book
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1995'
+  title: Protocol specification, testing and verification xIV, proceedings of the
+    fourteenth iFIP wG6.1 international symposium on protocol specification, testing
+    and verification, vancouver, bC, canada, 1994
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Pradin-ChezalvielD89
+  type: paper-conference
+  author:
+  - family: Pradin-Chezalviel
+    given: Brigitte
+  - family: Diaz
+    given: Michel
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Axioms of communication using temporal logic with past
+  container-title: PSTV
+  publisher: North-Holland
+  page: '387-399'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/ZengR85
+  type: paper-conference
+  author:
+  - family: Zeng
+    given: H. X.
+  - family: Rayner
+    given: D.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: The impact of the ferry concept on protocol testing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '519-531'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/BlumerB82
+  type: paper-conference
+  author:
+  - family: Blumer
+    given: Thomas P.
+  - family: Burruss
+    given: John C.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Generating a service specification of a connection management protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '161-170'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/ChoquetFM85
+  type: paper-conference
+  author:
+  - family: Choquet
+    given: N.
+  - family: Fribourg
+    given: Laurent
+  - family: Mauboussin
+    given: A.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Runnable protocol specifications using the logic interpreter sLOG
+  container-title: PSTV
+  publisher: North-Holland
+  page: '149-168'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Phalippou89
+  type: paper-conference
+  author:
+  - family: Phalippou
+    given: Marc
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: 'Functional specification for an iSDN switching system: An experience using
+    estelle'
+  title-short: Functional specification for an iSDN switching system
+  container-title: PSTV
+  publisher: North-Holland
+  page: '15-24'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/SunSLS91
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Xiao Sun
+  - family: Shen
+    given: Yinan N.
+  - family: Lombardi
+    given: Fabrizio
+  - family: Sciuto
+    given: Donatella
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Protocol conformance testing by discriminating uIO sequences
+  container-title: PSTV
+  publisher: North-Holland
+  page: '349-364'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Kritzinger84
+  type: paper-conference
+  author:
+  - family: Kritzinger
+    given: Pieter S.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Analyzing the time efficiency of a communication protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '527-539'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/HolzmannP89
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  - family: Patti
+    given: Joanna
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: 'Validating sDL specifications: An experiment'
+  title-short: Validating sDL specifications
+  container-title: PSTV
+  publisher: North-Holland
+  page: '317-326'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/HeldK94
+  type: paper-conference
+  author:
+  - family: Held
+    given: Thomas
+  - family: König
+    given: Hartmut
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Increasing the efficiency of computer-aided protocol implementations
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '387-394'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/ChowGL84
+  type: paper-conference
+  author:
+  - family: Chow
+    given: Ching-Hua
+  - family: Gouda
+    given: Mohamed G.
+  - family: Lam
+    given: Simon S.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: On constructing multi-phase communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '57-68'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Haas85
+  type: paper-conference
+  author:
+  - family: Haas
+    given: Otto
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Formal protocol specification based on attribute grammars
+  container-title: PSTV
+  publisher: North-Holland
+  page: '39-48'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/ShankarL82
+  type: paper-conference
+  author:
+  - family: Shankar
+    given: A. Udaya
+  - family: Lam
+    given: Simon S.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: On time-dependent communication protocols and their projections
+  container-title: PSTV
+  publisher: North-Holland
+  page: '215-235'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Rayner85
+  type: paper-conference
+  author:
+  - family: Rayner
+    given: D.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Towards standardized oSI conformance tests
+  container-title: PSTV
+  publisher: North-Holland
+  page: '441-460'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/BudkowskiABDGLFS93
+  type: paper-conference
+  author:
+  - family: Budkowski
+    given: Stanislaw
+  - family: Alkhechi
+    given: A. B.
+  - family: Benalycherif
+    given: Mohamed-Lyes
+  - family: Dembinski
+    given: Piotr
+  - family: Gardie
+    given: M.
+  - family: Lallet
+    given: 'E.'
+  - family: Fosse
+    given: J. P. Mouchel La
+  - family: Souissi
+    given: Younes
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Formal specification, validation and performance evaluation of the xpress
+    transfer protocol
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '191-206'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/KelekarH93
+  type: paper-conference
+  author:
+  - family: Kelekar
+    given: Samir G.
+  - family: Hart
+    given: George W.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Synthesis of protocols and protocol converters using the submodule construcion
+    approach
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '307-322'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/BolognesiLT90
+  type: paper-conference
+  author:
+  - family: Bolognesi
+    given: Tommaso
+  - family: Lucidi
+    given: Ferdinando
+  - family: Trigila
+    given: Sebastiano
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: From timed petri nets to timed lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '395-408'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/BilgicS90
+  type: paper-conference
+  author:
+  - family: Bilgic
+    given: Murat
+  - family: Sarikaya
+    given: Behçet
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: An aSN.1 encoder/decoder and its performance
+  container-title: PSTV
+  publisher: North-Holland
+  page: '141-154'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/FernandezMVQ92
+  type: paper-conference
+  author:
+  - family: Fernández
+    given: Angel
+  - family: Miguel
+    given: Carlos
+  - family: Vidaller
+    given: Leon
+  - family: Quemada
+    given: Juan
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Development of satellite communication networks based on lOTOS
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '179-192'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/LaiDP89
+  type: paper-conference
+  author:
+  - family: Lai
+    given: Richard
+  - family: Dillon
+    given: Tharam S.
+  - family: Parker
+    given: Ken R.
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Verification results for iSO fTAM basic protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '223-234'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Catrina95
+  type: paper-conference
+  author:
+  - family: Catrina
+    given: O.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Protocol analysis and verification methods, application to the xpress transfer
+    protocol 4.0
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '385-400'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/CelikkanC92
+  type: paper-conference
+  author:
+  - family: Celikkan
+    given: Ufuk
+  - family: Cleaveland
+    given: Rance
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Computing diagnostic test for incorrect processes
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '263-277'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/GrozJL84
+  type: paper-conference
+  author:
+  - family: Groz
+    given: Roland
+  - family: Jard
+    given: Claude
+  - family: Lassudrie
+    given: Claire
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: 'Attacking a complex distributed algorithm from different sides: An experience
+    with complementary validation tools'
+  title-short: Attacking a complex distributed algorithm from different sides
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-17'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Kwast94
+  type: paper-conference
+  author:
+  - family: Kwast
+    given: Erik
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Automatic aSN.1 constraint generation for testing purposes
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '359-366'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/BarS92
+  type: paper-conference
+  author:
+  - family: Bär
+    given: Udo
+  - family: Schneider
+    given: Jürgen M.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Automated validation of tTCN test suites
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '279-295'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/BenkhellatT94
+  type: paper-conference
+  author:
+  - family: Benkhellat
+    given: Y.
+  - family: Thomesse
+    given: Jean-Pierre
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Validation of timing properties for interoperability in distributed real-time
+    applications
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '331-338'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Tennenhouse94
+  type: paper-conference
+  author:
+  - family: Tennenhouse
+    given: David L.
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Putting information infrastructure on the technology curve
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '347'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/KingS90
+  type: paper-conference
+  author:
+  - family: King
+    given: Paul
+  - family: Smith
+    given: Graeme
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Formalisation of behavioural and structural concepts for communication systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-18'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/DiVito82
+  type: paper-conference
+  author:
+  - family: DiVito
+    given: Benedetto L.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Integrated methods for protocol specification and verification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '411-433'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/HerrmannK95
+  type: paper-conference
+  author:
+  - family: Herrmann
+    given: Peter
+  - family: Krumm
+    given: Heiko
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Re-usable verification elements for high-speed transfer protocol configurations
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '171-186'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/RudieW90
+  type: paper-conference
+  author:
+  - family: Rudie
+    given: Karen
+  - family: Wonham
+    given: W. Murray
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Supervisory control of communicating processes
+  container-title: PSTV
+  publisher: North-Holland
+  page: '243-257'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/BerthelotT82
+  type: paper-conference
+  author:
+  - family: Berthelot
+    given: Gérard
+  - family: Terrat
+    given: Richard
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Petri nets theory for the correctness of protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '325-342'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Dalal82
+  type: paper-conference
+  author:
+  - family: Dalal
+    given: Yogen K.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Service specifications for recursively-defined protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '305-308'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Bochmann87
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: 'Usage of protocol development tools: The results of a survey'
+  title-short: Usage of protocol development tools
+  container-title: PSTV
+  publisher: North-Holland
+  page: '139-161'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/LamS82
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Simon S.
+  - family: Shankar
+    given: A. Udaya
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: An illustration of protocol projections
+  container-title: PSTV
+  publisher: North-Holland
+  page: '343-360'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/WolzB89
+  type: paper-conference
+  author:
+  - family: Wolz
+    given: Dietmar
+  - family: Boehm
+    given: Paul
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Compilation of lOTOS data type specifications
+  container-title: PSTV
+  publisher: North-Holland
+  page: '187-202'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/1984
+  type: book
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1985'
+  title: Protocol specification, testing and verification iV, proceedings of the iFIP
+    wG6.1 fourth international workshop on protocol specification, testing and verification,
+    skytop lodge, pA, uSA, june 11-14, 1984
+  publisher: North-Holland
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/ZhuC94
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Jinsong
+  - family: Chanson
+    given: Samuel T.
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Towards evaluating fault coverage of protocol test sequences
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '137-151'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/PiatkowskiIH82
+  type: paper-conference
+  author:
+  - family: Piatkowski
+    given: Thomas F.
+  - family: Ip
+    given: Lap-Kin
+  - family: He
+    given: Dayun
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: 'State architecture notation and simulation: A formal technique for the
+    specification and testing of protocol systems'
+  title-short: State architecture notation and simulation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '135-160'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Ural87
+  type: paper-conference
+  author:
+  - family: Ural
+    given: Hasan
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: A test derivation method for protocol conformance testing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '347-358'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/CavalliH87
+  type: paper-conference
+  author:
+  - family: Cavalli
+    given: Ana R.
+  - family: Horn
+    given: François
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Proof of specification properties by using finite state machines and temporal
+    logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '221-233'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/GallouziLO91
+  type: paper-conference
+  author:
+  - family: Gallouzi
+    given: S.
+  - family: Logrippo
+    given: Luigi
+  - family: Obaid
+    given: Abdellatif
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: An expressive trace theory for lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '159-175'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Pappalardo87
+  type: paper-conference
+  author:
+  - family: Pappalardo
+    given: Giuseppe
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Experiences with a verification and simulation tool for behavioural languages
+  container-title: PSTV
+  publisher: North-Holland
+  page: '251-264'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/CockburnCHK90
+  type: paper-conference
+  author:
+  - family: Cockburn
+    given: Alistair
+  - family: Citrin
+    given: Wayne
+  - family: Hauser
+    given: Rainer
+  - family: Känel
+    given: Jürg
+    dropping-particle: von
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: An environment for interactive design of communications architectures
+  container-title: PSTV
+  publisher: North-Holland
+  page: '115-127'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/MoriV94
+  type: paper-conference
+  author:
+  - family: Mori
+    given: Masaaki
+  - family: Vuong
+    given: Son T.
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: On finite covering of infinite spaces for protocol test selection
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '237-251'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/OharaYK87
+  type: paper-conference
+  author:
+  - family: Ohara
+    given: Yasuhiro
+  - family: Yoshitake
+    given: Shizuo
+  - family: Kawaoka
+    given: Tsukasa
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Protocol conversion method for heterogeneous systems interconnection in multi-profile
+    environment
+  container-title: PSTV
+  publisher: North-Holland
+  page: '405-418'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/ToroT95
+  type: paper-conference
+  author:
+  - family: Törö
+    given: Maria
+  - family: Tarnay
+    given: Katalin
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Principles for validation of abstract test suites specified in concurrent
+    tTCN
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '105-120'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/PeledP95
+  type: paper-conference
+  author:
+  - family: Peled
+    given: Doron
+  - family: Penczek
+    given: Wojciech
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Using asynchronous büchi automata for efficient automatic verification of
+    concurrent systems
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '315-330'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/AlaettinogluS92
+  type: paper-conference
+  author:
+  - family: Alaettinoglu
+    given: Cengiz
+  - family: Shankar
+    given: A. Udaya
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Stepwise assertional design of distance-vector routing algorithms
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '399-413'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/CacciariR95
+  type: paper-conference
+  author:
+  - family: Cacciari
+    given: Leo
+  - family: Rafiq
+    given: Omar
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: A temporal reachability analysis
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '35-49'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/EijkKS90
+  type: paper-conference
+  author:
+  - family: Eijk
+    given: Peter
+    dropping-particle: van
+  - family: Kremer
+    given: Harro
+  - family: Sinderen
+    given: Marten
+    dropping-particle: van
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: On the use of specification styles for automated protocol implementation
+    from lOTOS to c
+  container-title: PSTV
+  publisher: North-Holland
+  page: '157-168'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/JanssenZ93
+  type: paper-conference
+  author:
+  - family: Janssen
+    given: Wil
+  - family: Zwiers
+    given: Job
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Specifiying and proving communication closedness in protocols
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '323-339'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Griethuysen89
+  type: paper-conference
+  author:
+  - family: Griethuysen
+    given: J. J.
+    dropping-particle: van
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Open distributed processing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '205-219'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/BradleyHKR95
+  type: paper-conference
+  author:
+  - family: Bradley
+    given: Steven
+  - family: Henderson
+    given: William
+  - family: Kendall
+    given: David
+  - family: Robson
+    given: Adrian
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Validation, verification and implementation of timed protocols using aORTA
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '205-220'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/VissersSP93
+  type: paper-conference
+  author:
+  - family: Vissers
+    given: Chris A.
+  - family: Sinderen
+    given: Marten
+    dropping-particle: van
+  - family: Pires
+    given: Luís Ferreira
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: What makes industries believe in formal methods
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '3-26'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Stomp90
+  type: paper-conference
+  author:
+  - family: Stomp
+    given: Frank A.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: A derivation of a broadcasting protocol using sequentially phased reasoning
+  container-title: PSTV
+  publisher: North-Holland
+  page: '19-32'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/CobbGA94
+  type: paper-conference
+  author:
+  - family: Cobb
+    given: Jorge Arturo
+  - family: Gouda
+    given: Mohamed G.
+  - family: Agrawal
+    given: Prathima
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Protocol synchronization with sparse timestraps
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '169-184'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Holzmann87
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: On limits and possibilities of automated protocol analysis
+  container-title: PSTV
+  publisher: North-Holland
+  page: '339-344'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/HigashinoNKTM89
+  type: paper-conference
+  author:
+  - family: Higashino
+    given: Teruo
+  - family: Ninomiya
+    given: Kiyoshi
+  - family: Kimoto
+    given: Tomohisa
+  - family: Taniguchi
+    given: Kenichi
+  - family: Mori
+    given: Masaaki
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Automated verification of equivalence of protocol machines
+  container-title: PSTV
+  publisher: North-Holland
+  page: '235-246'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/ZengR84
+  type: paper-conference
+  author:
+  - family: Zeng
+    given: H. X.
+  - family: Rayner
+    given: D.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Gateway testing technique
+  container-title: PSTV
+  publisher: North-Holland
+  page: '637-655'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/DriraAJ95
+  type: paper-conference
+  author:
+  - family: Drira
+    given: Khalil
+  - family: Atamna
+    given: Youcef
+  - family: Juanole
+    given: Guy
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Quantified reduced views of state graphs using markovian and timed observational
+    equivalence
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '253-268'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/FantechiGR90
+  type: paper-conference
+  author:
+  - family: Fantechi
+    given: Alessandro
+  - family: Gnesi
+    given: Stefania
+  - family: Ristori
+    given: Gioia
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Compositional logic semantics and lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '365-378'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/JardMG85
+  type: paper-conference
+  author:
+  - family: Jard
+    given: Claude
+  - family: Monin
+    given: Jean-François
+  - family: Groz
+    given: Roland
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Experience in implementing eSTELLE-x.250 (a cCITT subset of eSTELLE) in vEDA
+  container-title: PSTV
+  publisher: North-Holland
+  page: '315-331'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AndraeGS93
+  type: paper-conference
+  author:
+  - family: Andrae
+    given: Caroline
+  - family: Gotzhein
+    given: Reinhard
+  - family: Sédillot
+    given: Simone
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: An evolutionary approach to the development of complex protocol standards
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '207-222'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/OravaP90
+  type: paper-conference
+  author:
+  - family: Orava
+    given: Fredrik
+  - family: Parrow
+    given: Joachim
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: 'Algebraic descriptions of mobile networks: An example'
+  title-short: Algebraic descriptions of mobile networks
+  container-title: PSTV
+  publisher: North-Holland
+  page: '275-291'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/BurgtKP92
+  type: paper-conference
+  author:
+  - family: Burgt
+    given: Stan P.
+    dropping-particle: van de
+  - family: Kroon
+    given: Jan
+  - family: Peeters
+    given: A. M.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Testability of formal specifications
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '63-77'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Phalippou94
+  type: paper-conference
+  author:
+  - family: Phalippou
+    given: Marc
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Abstract testing and concrete testers
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '221-236'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/ChanVI89
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Wendy Y. L.
+  - family: Vuong
+    given: Son T.
+  - family: Ito
+    given: Mabo Robert
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: On test sequence generation for protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '119-130'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Orava89
+  type: paper-conference
+  author:
+  - family: Orava
+    given: Fredrik
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Verifying safety and deadlock properties of networks of asynchronously communicating
+    processes
+  container-title: PSTV
+  publisher: North-Holland
+  page: '357-371'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/CleavelandPS89
+  type: paper-conference
+  author:
+  - family: Cleaveland
+    given: Rance
+  - family: Parrow
+    given: Joachim
+  - family: Steffen
+    given: Bernhard
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: A semantics based verification tool for finite state systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '287-302'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/GotzheinB94
+  type: paper-conference
+  author:
+  - family: Gotzhein
+    given: Reinhard
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Specialization in estelle
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '21-36'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Diaz82
+  type: paper-conference
+  author:
+  - family: Diaz
+    given: Michel
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Modelling and analysis of communication and cooperation protocols using petri
+    net based models
+  container-title: PSTV
+  publisher: North-Holland
+  page: '465-510'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/SimonK82
+  type: paper-conference
+  author:
+  - family: Simon
+    given: Gerald A.
+  - family: Kaufman
+    given: David J.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: An extended finite state machine approach to protocol specification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '113-133'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/WoodsideM85
+  type: paper-conference
+  author:
+  - family: Woodside
+    given: C. Murray
+  - family: Montealegre
+    given: J. R.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: On packet buffering and protocol performance
+  container-title: PSTV
+  publisher: North-Holland
+  page: '375-386'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/AnsartD82
+  type: paper-conference
+  author:
+  - family: Ansart
+    given: Jean-Pierre
+  - family: Damidau
+    given: J.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: CERBERE, a tool to keep an eye on high level protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '529-537'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/RicoB91
+  type: paper-conference
+  author:
+  - family: Rico
+    given: Nathalie
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Performance description and analysis for distributed systems using a variant
+    of lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '199-213'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Regan93
+  type: paper-conference
+  author:
+  - family: Regan
+    given: Tim
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: 'Multimedia in temporal lOTOS: A lip-synchronization algorithm'
+  title-short: Multimedia in temporal lOTOS
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '127-142'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Billington82
+  type: paper-conference
+  author:
+  - family: Billington
+    given: Jonathan
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Specification of the transport service using numerical petri nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '77-100'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/SherifMW84
+  type: paper-conference
+  author:
+  - family: Sherif
+    given: M. H.
+  - family: Miller
+    given: V.
+  - family: Woo
+    given: 'E.'
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: X.25 protocol verification facility for aT&T no.1 packet switching system
+    (no. 1 pSS)
+  container-title: PSTV
+  publisher: North-Holland
+  page: '69-77'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/LogrippoSU84
+  type: paper-conference
+  author:
+  - family: Logrippo
+    given: Luigi
+  - family: Simon
+    given: Didier
+  - family: Ural
+    given: Hasan
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Executable description of the oSI transport service in prolog
+  container-title: PSTV
+  publisher: North-Holland
+  page: '279-293'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/SchwartzM82
+  type: paper-conference
+  author:
+  - family: Schwartz
+    given: Richard L.
+  - family: Melliar-Smith
+    given: P. M.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: 'From state machines to temporal logic: Specification methods for protocol
+    standards'
+  title-short: From state machines to temporal logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-19'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/FangHZ93
+  type: paper-conference
+  author:
+  - family: Fang
+    given: Ming
+  - family: Ho-Stuart
+    given: Chris
+  - family: Zedan
+    given: Hussein S. M.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Specification of real-time probabilistic behaviour
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '143-157'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Watson82
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Richard W.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: An experience in transport protocol specification using an algorithmic programming
+    language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '237-247'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/RichierRSV87
+  type: paper-conference
+  author:
+  - family: Richier
+    given: Jean-Luc
+  - family: Rodriguez
+    given: Carlos
+  - family: Sifakis
+    given: Joseph
+  - family: Voiron
+    given: Jacques
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Verification in xESAR of the sliding window protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '235-248'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/BarnardC95
+  type: paper-conference
+  author:
+  - family: Barnard
+    given: Dieter
+  - family: Crosby
+    given: Simon
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: The specification and verification of an experimental aTM signalling protocol
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '155-170'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/TretmansV92
+  type: paper-conference
+  author:
+  - family: Tretmans
+    given: Jan
+  - family: Verhaard
+    given: Louis
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: A queue model relating synchronous and asynchronous communication
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '131-145'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/BrinksmaE93
+  type: paper-conference
+  author:
+  - family: Brinksma
+    given: Ed
+  - family: Eertink
+    given: Henk
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: Goal-driven lOTOS execution
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '45-60'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/YuG82
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Yao-Tin
+  - family: Gouda
+    given: Mohamed G.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Deadlock detection for a class of communicating finite state machine
+  container-title: PSTV
+  publisher: North-Holland
+  page: '319'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Rayner82
+  type: paper-conference
+  author:
+  - family: Rayner
+    given: David
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: A system for testing protocol implementations
+  container-title: PSTV
+  publisher: North-Holland
+  page: '539-554'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Calvert94
+  type: paper-conference
+  author:
+  - family: Calvert
+    given: Kenneth L.
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Specifying and verifying conditional progress
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '303-318'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/YeminiK82
+  type: paper-conference
+  author:
+  - family: Yemini
+    given: Yechiam
+  - family: Kurose
+    given: James F.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Towards the unification of the functional and performance analysis of protocols,
+    or is the alternating-bit protocol really correct?
+  container-title: PSTV
+  publisher: North-Holland
+  page: '189-196'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Pachl87
+  type: paper-conference
+  author:
+  - family: Pachl
+    given: Jan K.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Protocol description and analysis based on a state transition model with
+    channel expressions
+  container-title: PSTV
+  publisher: North-Holland
+  page: '207-219'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/HigashinoYKT94
+  type: paper-conference
+  author:
+  - family: Higashino
+    given: Teruo
+  - family: Yasumoto
+    given: Keiichi
+  - family: Kitamichi
+    given: Junji
+  - family: Taniguchi
+    given: Kenichi
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Hardware synthesis from a restricted class of lOTOS expressions
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '379-386'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Hultstrom94
+  type: paper-conference
+  author:
+  - family: Hultström
+    given: Maria
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Structural decomposition
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '201-216'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/CarchioloMPP84
+  type: paper-conference
+  author:
+  - family: Carchiolo
+    given: Vincenza
+  - family: Moli
+    given: Gesualdo Le
+  - family: Palazzo
+    given: Sergio
+  - family: Pappalardo
+    given: Giuseppe
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Modelling and specifying a presentation protocol by temporal ordering
+  container-title: PSTV
+  publisher: North-Holland
+  page: '423-440'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/DendorferW92
+  type: paper-conference
+  author:
+  - family: Dendorfer
+    given: Claus
+  - family: Weber
+    given: Rainer
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: From service specification to protocol entity impelmentation - an exercise
+    in formal protocol development
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '163-177'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/DembinskiB87
+  type: paper-conference
+  author:
+  - family: Dembinski
+    given: Piotr
+  - family: Budkowski
+    given: Stanislaw
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Simulating estelle specifications with time parameters
+  container-title: PSTV
+  publisher: North-Holland
+  page: '265-279'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/SteenBD95
+  type: paper-conference
+  author:
+  - family: Steen
+    given: Maarten
+  - family: Bowman
+    given: Howard
+  - family: Derrick
+    given: John
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Composition of lOTOS specifications
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '87-102'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/RafiqCCGHP85
+  type: paper-conference
+  author:
+  - family: Rafiq
+    given: Omar
+  - family: Castanet
+    given: Richard
+  - family: Chraibi
+    given: Chakib
+  - family: Goursaud
+    given: J. P.
+  - family: Haddad
+    given: J.
+  - family: Perdu
+    given: X.
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Towards an environment for testing oSI protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '533-544'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/ShiratoriKTN89
+  type: paper-conference
+  author:
+  - family: Shiratori
+    given: Norio
+  - family: Kaminaga
+    given: Hiroaki
+  - family: Takahashi
+    given: Kaoru
+  - family: Noguchi
+    given: Shoichi
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: A verification method for lOTOS specifications and its application
+  container-title: PSTV
+  publisher: North-Holland
+  page: '59-70'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/HayesMR89
+  type: paper-conference
+  author:
+  - family: Hayes
+    given: Ian J.
+  - family: Mowbray
+    given: M.
+  - family: Rose
+    given: Gordon A.
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Signalling system no.7, the network layer
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-14'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/ValetR84
+  type: paper-conference
+  author:
+  - family: Valet
+    given: Isabelle
+  - family: Rerat
+    given: Dominique
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Formal description of the nadir transport protocol using the pDIL language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '147-163'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/BochmannCGDMPSS84
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Cerny
+    given: Eduard
+  - family: Gerber
+    given: George Walter
+  - family: Dssouli
+    given: Rachida
+  - family: Maksud
+    given: Michel
+  - family: Phan
+    given: B. H.
+  - family: Sarikaya
+    given: Behçet
+  - family: Serre
+    given: Jean-Marc
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Use of formal specifications for protocol design, implementation and testing
+  container-title: PSTV
+  publisher: North-Holland
+  page: '137-144'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/KujansuuOT82
+  type: paper-conference
+  author:
+  - family: Kujansuu
+    given: Raimo
+  - family: Ojala
+    given: Leo
+  - family: Tuominen
+    given: Heikki
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: The development of tools for verification and validation of communication
+    protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '311-313'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/KhoumsiBD94
+  type: paper-conference
+  author:
+  - family: Khoumsi
+    given: Ahmed
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Dssouli
+    given: Rachida
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: On specifying services and synthesizing protocols for real-time applications
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '185-200'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Miller90
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Raymond E.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: 'Protocol verification: The first ten years, the next ten years; some personal
+    observations'
+  title-short: Protocol verification
+  container-title: PSTV
+  publisher: North-Holland
+  page: '199-225'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/BarSSE91
+  type: paper-conference
+  author:
+  - family: Bär
+    given: Udo
+  - family: Strecker
+    given: Martin
+  - family: Stoll
+    given: Willi
+  - family: Effelsberg
+    given: Wolfgang
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Presentation layer conformance testing with tTCN
+  container-title: PSTV
+  publisher: North-Holland
+  page: '283-298'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/Groote90
+  type: paper-conference
+  author:
+  - family: Groote
+    given: Jan Friso
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Specification and verification of real time systems in aCP
+  container-title: PSTV
+  publisher: North-Holland
+  page: '261-274'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/1995
+  type: book
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1996'
+  title: Protocol specification, testing and verification xV, proceedings of the fifteenth
+    iFIP wG6.1 international symposium on protocol specification, testing and verification,
+    warsaw, poland, june 1995
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Fleischmann87
+  type: paper-conference
+  author:
+  - family: Fleischmann
+    given: Albert
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: PASS - a technique for specifying communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '61-76'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/SabnaniS82
+  type: paper-conference
+  author:
+  - family: Sabnani
+    given: Krishan K.
+  - family: Schwartz
+    given: Mischa
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Verification of a multidestination protocol using temporal logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '21-41'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/EllsbergerK92
+  type: paper-conference
+  author:
+  - family: Ellsberger
+    given: Jan
+  - family: Kristoffersen
+    given: Finn
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Testability in the context of sDL
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '319-333'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Lonc85
+  type: paper-conference
+  author:
+  - family: Lonc
+    given: Brigitte
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: 'GENEPIX: A portable version under uNIX of the oSI protocol tester gENEPI'
+  title-short: GENEPIX
+  container-title: PSTV
+  publisher: North-Holland
+  page: '507-518'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/BochmannDSSU85
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Dssouli
+    given: Rachida
+  - family: Souza
+    given: Wanderley Lopes
+    dropping-particle: de
+  - family: Sarikaya
+    given: Behçet
+  - family: Ural
+    given: Hasan
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Use of prolog for building protocol design tools
+  container-title: PSTV
+  publisher: North-Holland
+  page: '131-147'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Kritzinger87
+  type: paper-conference
+  author:
+  - family: Kritzinger
+    given: Pieter S.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Protocol performance using image protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '321-335'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/DriraAV93
+  type: paper-conference
+  author:
+  - family: Drira
+    given: Khalil
+  - family: Azéma
+    given: Pierre
+  - family: Vernadat
+    given: François
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: 'Refusal graphs for conformance tester generation and simplification: A
+    computational framework'
+  title-short: Refusal graphs for conformance tester generation and simplification
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '257-272'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/CourtiatPA85
+  type: paper-conference
+  author:
+  - family: Courtiat
+    given: Jean-Pierre
+  - family: Pedroza
+    given: Aloysio
+  - family: Ayache
+    given: Jean-Michel
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: A simulation environment for protocol specifications described in eSTELLE
+  container-title: PSTV
+  publisher: North-Holland
+  page: '297-312'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Wezeman89
+  type: paper-conference
+  author:
+  - family: Wezeman
+    given: Clazien D.
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: The cO-oP method for compositional derivation of conformance testers
+  container-title: PSTV
+  publisher: North-Holland
+  page: '145-158'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/Lin93
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Huimin
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: A verification tool for value-passing processes
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '79-92'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/Leduc91
+  type: paper-conference
+  author:
+  - family: Leduc
+    given: Guy
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Conformance relation, associated equivalence, and new canonical tester in
+    lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '249-264'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/BrinksmaK84
+  type: paper-conference
+  author:
+  - family: Brinksma
+    given: Ed
+  - family: Karjoth
+    given: Günter
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: A specification of the oSI transport service in lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '227-251'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/OvermanC82
+  type: paper-conference
+  author:
+  - family: Overman
+    given: William T.
+  - family: Crocker
+    given: Stephen D.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: 'Verification of concurrent systems: Function and timing'
+  title-short: Verification of concurrent systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '401-409'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Nightingale82
+  type: paper-conference
+  author:
+  - family: Nightingale
+    given: J. Stephen
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Protocol testing using a reference implementation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '513-522'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/DanielsH84
+  type: paper-conference
+  author:
+  - family: Daniels
+    given: Mats
+  - family: Hansson
+    given: Hans A.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: An aSYL/EFSM description of the iSO transport protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '349-373'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/GoudaCL84
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Chow
+    given: Ching-Hua
+  - family: Lam
+    given: Simon S.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: On the decidability of livelock detection in networks of communicating finite
+    state machines
+  container-title: PSTV
+  publisher: North-Holland
+  page: '47-56'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/LiuM94
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Hong
+  - family: Miller
+    given: Raymond E.
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: 'Generalized fair reachability analysis for cyclic protocols: Part 1'
+  title-short: Generalized fair reachability analysis for cyclic protocols
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '271-286'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/Davidson87
+  type: paper-conference
+  author:
+  - family: Davidson
+    given: Ian C.
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: OSI protocol testing at the corporation for open systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '3-12'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/AhtiainenACDDFHJKMMPP85
+  type: paper-conference
+  author:
+  - family: Ahtiainen
+    given: Ari
+  - family: Alfonzetti
+    given: S.
+  - family: Chari
+    given: V.
+  - family: Daniels
+    given: Mats
+  - family: Diaz
+    given: Michel
+  - family: Faro
+    given: Alberto
+  - family: Hansson
+    given: Hans A.
+  - family: Juanole
+    given: Guy
+  - family: Karjalainen
+    given: Ulla
+  - family: Moli
+    given: Gesualdo Le
+  - family: Malka
+    given: Juhani
+  - family: Palazzo
+    given: Sergio
+  - family: Pereda
+    given: Orlando
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: An approach for evaluating formal description techniques
+  container-title: PSTV
+  publisher: North-Holland
+  page: '421-438'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Sunshine82
+  type: paper-conference
+  author:
+  - family: Sunshine
+    given: Carl A.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Experience with four automated verification systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '373-379'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/FavreauHK92
+  type: paper-conference
+  author:
+  - family: Favreau
+    given: Jean Philippe
+  - family: Hogrefe
+    given: Dieter
+  - family: Kroon
+    given: Jan
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: 'Formal methods in conformance testing: Status and expectations'
+  title-short: Formal methods in conformance testing
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '299-316'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Holzmann82
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Algebraic validation methods-a comparison of three techniques
+  container-title: PSTV
+  publisher: North-Holland
+  page: '383-390'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/BochmannCGJLLMRS82
+  type: paper-conference
+  author:
+  - family: Bochmann
+    given: Gregor
+    dropping-particle: von
+  - family: Cerny
+    given: Eduard
+  - family: Gagne
+    given: Michel
+  - family: Jard
+    given: Claude
+  - family: Léveillé
+    given: Alain
+  - family: Lacaille
+    given: Clement
+  - family: Maksud
+    given: Michel
+  - family: Raghunathan
+    given: K. S.
+  - family: Sarikaya
+    given: Behçet
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Some experience with the use of formal specifications
+  container-title: PSTV
+  publisher: North-Holland
+  page: '171-185'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Linn84
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Richard J. Linn
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: An evaluation of the iCST test architecture after testing class 4 transport
+  container-title: PSTV
+  publisher: North-Holland
+  page: '611-621'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Bauerfeld82
+  type: paper-conference
+  author:
+  - family: Bauerfeld
+    given: Wulf L.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: 'A hybrid model for protocols and services: Verification and simulation
+    by a modified depth-first search algorithm'
+  title-short: A hybrid model for protocols and services
+  container-title: PSTV
+  publisher: North-Holland
+  page: '451-464'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Vissers90
+  type: paper-conference
+  author:
+  - family: Vissers
+    given: Chris A.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: FDTs for open distributed systems, a retrospective and a prospective view
+  container-title: PSTV
+  publisher: North-Holland
+  page: '341-362'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/ChunA92
+  type: paper-conference
+  author:
+  - family: Chun
+    given: Woojik
+  - family: Amer
+    given: Paul D.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Improvements on uIO sequence generation and partial uIO sequences
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '245-260'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/West82
+  type: paper-conference
+  author:
+  - family: West
+    given: Colin H.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Applications and limitations of automated protocol validation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '361-371'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/BrinksmaTV91
+  type: paper-conference
+  author:
+  - family: Brinksma
+    given: Ed
+  - family: Tretmans
+    given: Jan
+  - family: Verhaard
+    given: Louis
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: A framework for test selection
+  container-title: PSTV
+  publisher: North-Holland
+  page: '233-248'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/YelowitzGH82
+  type: paper-conference
+  author:
+  - family: Yelowitz
+    given: Lawrence
+  - family: Gerhart
+    given: Susan L.
+  - family: Hilborn
+    given: G.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Modeling a network protocol in aFFIRM and ada
+  container-title: PSTV
+  publisher: North-Holland
+  page: '435-450'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/1985
+  type: book
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Protocol specification, testing and verification v, proceedings of the iFIP
+    wG6.1 fifth international conference on protocol specification, testing and verification,
+    toulouse-moissac, france, june 10-13, 1985
+  publisher: North-Holland
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Eijk89
+  type: paper-conference
+  author:
+  - family: Eijk
+    given: Peter
+    dropping-particle: van
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: LOTOS tools based on the cornell synthesizer generator
+  container-title: PSTV
+  publisher: North-Holland
+  page: '275-286'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/ParrowG84
+  type: paper-conference
+  author:
+  - family: Parrow
+    given: Joachim
+  - family: Gustavsson
+    given: Rune
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Modelling distributed systems in an extension of cCS with infinite experiments
+    and temporal logic
+  container-title: PSTV
+  publisher: North-Holland
+  page: '309-348'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Sidhu90
+  type: paper-conference
+  author:
+  - family: Sidhu
+    given: Deepinder P.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: The first ten years, the next ten years
+  container-title: PSTV
+  publisher: North-Holland
+  page: '47-68'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Wytrebowicz95
+  type: paper-conference
+  author:
+  - family: Wytrebowicz
+    given: Jacek
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Hardware specification generated from estelle
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '435-450'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Snekkenes90
+  type: paper-conference
+  author:
+  - family: Snekkenes
+    given: Einar
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Authentication in open systems
+  container-title: PSTV
+  publisher: North-Holland
+  page: '311-324'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/AggarwalBC87
+  type: paper-conference
+  author:
+  - family: Aggarwal
+    given: Sudhir
+  - family: Barbará
+    given: Daniel
+  - family: Courcoubetis
+    given: Costas
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: LAN broadcast protocols for implementing the cCA model
+  container-title: PSTV
+  publisher: North-Holland
+  page: '297-306'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Fraser92
+  type: paper-conference
+  author:
+  - family: Fraser
+    given: A. G.
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Formal methods applied to software production
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '3-9'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Ansart82
+  type: paper-conference
+  author:
+  - family: Ansart
+    given: Jean-Pierre
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: GENEPI/A-a protocol independent system for testing protocol implementation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '523-528'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/BaumgartenOP85
+  type: paper-conference
+  author:
+  - family: Baumgarten
+    given: Bernd
+  - family: Ochsenschläger
+    given: Peter
+  - family: Prinoth
+    given: Rainer
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Building blocks for distributed system design
+  container-title: PSTV
+  publisher: North-Holland
+  page: '19-38'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Frutos-EscrigNQ95
+  type: paper-conference
+  author:
+  - family: Frutos-Escrig
+    given: David
+    dropping-particle: de
+  - family: Núñez
+    given: Manuel
+  - family: Quemada
+    given: Juan
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: Characterizing termination in lOTOS via testing
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '237-250'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Roisin85
+  type: paper-conference
+  author:
+  - family: Roisin
+    given: Cécile
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Protocol description with the oCCAM language
+  container-title: PSTV
+  publisher: North-Holland
+  page: '235-246'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/StromY84
+  type: paper-conference
+  author:
+  - family: Strom
+    given: Robert E.
+  - family: Yemini
+    given: Shaula
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Synthesizing distributed protocols from serial programs
+  container-title: PSTV
+  publisher: North-Holland
+  page: '443-456'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/IchikawaYK90
+  type: paper-conference
+  author:
+  - family: Ichikawa
+    given: Haruhisa
+  - family: Yamanaka
+    given: Kenjiroh
+  - family: Kato
+    given: June
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Incremental specification in lOTOS
+  container-title: PSTV
+  publisher: North-Holland
+  page: '183-196'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/Saqui-SannesCC94
+  type: paper-conference
+  author:
+  - family: Saqui-Sannes
+    given: Pierre
+    dropping-particle: de
+  - family: Courtiat
+    given: Jean-Pierre
+  - family: Casadessus
+    given: René
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: Verification by abstraction as a preamble for interoperability test suite
+    generation
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '152-166'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/AzemaP85
+  type: paper-conference
+  author:
+  - family: Azéma
+    given: Pierre
+  - family: Papapanagiotakis
+    given: Giorgos
+  editor:
+  - family: Diaz
+    given: Michel
+  issued:
+  - year: '1985'
+  title: Protocol analysis by using predicate nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '119-130'
+  ISBN: '0-444-87881-5'
+
+- id: conf/pstv/Jones82
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Gary
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: The total correctness of communication protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '391-400'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Vogt82
+  type: paper-conference
+  author:
+  - family: Vogt
+    given: Friedrich H.
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: Event-based temporal logic specifications of services and protocols
+  container-title: PSTV
+  publisher: North-Holland
+  page: '63-73'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/ChansonLPZ89
+  type: paper-conference
+  author:
+  - family: Chanson
+    given: Samuel T.
+  - family: Lee
+    given: B. P.
+  - family: Parakh
+    given: N. J.
+  - family: Zeng
+    given: Hua-Xin
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: Design and implementation of a ferry clip test system
+  container-title: PSTV
+  publisher: North-Holland
+  page: '101-118'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/GustavssonPP82
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Rune
+  - family: Parrow
+    given: Joachim
+  - family: Pehrson
+    given: Björn
+  editor:
+  - family: Sunshine
+    given: Carl A.
+  issued:
+  - year: '1982'
+  title: An integrated approach to protocol design research
+  container-title: PSTV
+  publisher: North-Holland
+  page: '309-310'
+  ISBN: '0-444-86481-4'
+
+- id: conf/pstv/Rose84
+  type: paper-conference
+  author:
+  - family: Rose
+    given: Marshall T.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Modeling of initial connection handling in tCP using contour/Transition nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '193-211'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/CellaryS84
+  type: paper-conference
+  author:
+  - family: Cellary
+    given: Wojciech
+  - family: Stroinski
+    given: Maciej
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Performance parameters of computer network protocols refered to their formal
+    model
+  container-title: PSTV
+  publisher: North-Holland
+  page: '681-696'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/MillerP92
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Raymond E.
+  - family: Paul
+    given: Sanjoy
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Generating conformance test sequences for combined control and data flow
+    of communication protocols
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '13-27'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/Pachl90
+  type: paper-conference
+  author:
+  - family: Pachl
+    given: Jan K.
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: A notation for specifying test selection criteria
+  container-title: PSTV
+  publisher: North-Holland
+  page: '71-84'
+  ISBN: '0-444-88810-1'
+
+- id: conf/pstv/BurkhardtEP84
+  type: paper-conference
+  author:
+  - family: Burkhardt
+    given: Heinz Jürgen
+  - family: Eckert
+    given: Hans
+  - family: Prinoth
+    given: Rainer
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Modelling of oSI-communication services and protocols using predicate/Transition
+    nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '165-192'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/QuemadaA92
+  type: paper-conference
+  author:
+  - family: Quemada
+    given: Juan
+  - family: Azcorra
+    given: Arturo
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Structuring protocols using exceptions in a lOTOS extension
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '81-96'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/1992
+  type: book
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: Protocol specification, testing and verification xII, proceedings of the
+    iFIP tC6/WG6.1 twelth international symposium on protocol specification, testing
+    and verification, lake buena vista, florida, uSA, 22-25 june 1992
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/GodefroidH93
+  type: paper-conference
+  author:
+  - family: Godefroid
+    given: Patrice
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: On the verification of temporal properties
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '109-124'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/RathgebHTW87
+  type: paper-conference
+  author:
+  - family: Rathgeb
+    given: Erwin P.
+  - family: Homann
+    given: Christian
+  - family: Truong
+    given: Hong Linh
+  - family: Waldmann
+    given: Gerd
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: Protocol testing for the iSDN d-channel network layer
+  container-title: PSTV
+  publisher: North-Holland
+  page: '421-434'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/Turner93
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Kenneth J.
+  editor:
+  - family: Danthine
+    given: André A. S.
+  issued:
+  - year: '1993'
+  title: An engineering approach to formal methods
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '357-380'
+  volume: C-16
+  ISBN: '0-444-81648-8'
+
+- id: conf/pstv/VazquezSSV91
+  type: paper-conference
+  author:
+  - family: Vázquez
+    given: Enrique
+  - family: Sandoval
+    given: Pedro
+  - family: Sedano
+    given: Marifeli
+  - family: Vinyes
+    given: Juan
+  editor:
+  - family: Jonsson
+    given: Bengt
+  issued:
+  - year: '1991'
+  title: Automatic implementation of tP4/IP with an estelle workstation. development
+    methodology and performance evaluation
+  container-title: PSTV
+  publisher: North-Holland
+  page: '125-139'
+  ISBN: '0-444-89210-9'
+
+- id: conf/pstv/PirmezPM95
+  type: paper-conference
+  author:
+  - family: Pirmez
+    given: Luci
+  - family: Pedroza
+    given: Aloysio
+  - family: Mesquita
+    given: Antônio C.
+  editor:
+  - family: Dembinski
+    given: Piotr
+  issued:
+  - year: '1995'
+  title: A methodology for the implementation of protocols in hardware from a formal
+    description
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '419-434'
+  volume: '38'
+  ISBN: '0-412-71620-8'
+
+- id: conf/pstv/Najm87
+  type: paper-conference
+  author:
+  - family: Najm
+    given: Elie
+  editor:
+  - family: Rudin
+    given: Harry
+  issued:
+  - year: '1987'
+  title: A verification oriented specification in lOTOS of the transport protocol
+  container-title: PSTV
+  publisher: North-Holland
+  page: '181-203'
+  ISBN: '0-444-70293-8'
+
+- id: conf/pstv/SekarLN92
+  type: paper-conference
+  author:
+  - family: Sekar
+    given: R. C.
+  - family: Lin
+    given: Yow-Jian
+  - family: Narain
+    given: Sanjai
+  editor:
+  - family: Jr.
+    given: Richard J. Linn
+  issued:
+  - year: '1992'
+  title: On modelling and reasoning about hybrid systems
+  container-title: PSTV
+  collection-title: IFIP transactions
+  publisher: North-Holland
+  page: '115-129'
+  volume: C-8
+  ISBN: '0-444-89874-3'
+
+- id: conf/pstv/RazoukP84
+  type: paper-conference
+  author:
+  - family: Razouk
+    given: Rami R.
+  - family: Phelps
+    given: Charles V.
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: Performance analysis using timed petri nets
+  container-title: PSTV
+  publisher: North-Holland
+  page: '561-576'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/Rudin84
+  type: paper-conference
+  author:
+  - family: Rudin
+    given: Harry
+  editor:
+  - family: Yemini
+    given: Yechiam
+  issued:
+  - year: '1984'
+  title: An improved algorithm for estimating protocol performance
+  container-title: PSTV
+  publisher: North-Holland
+  page: '515-525'
+  ISBN: '0-444-87676-6'
+
+- id: conf/pstv/BarM94
+  type: paper-conference
+  author:
+  - family: Bär
+    given: Brigitte
+  - family: Mann
+    given: Andreas
+  editor:
+  - family: Vuong
+    given: Son T.
+  issued:
+  - year: '1994'
+  title: A methodology for conformance testing of managed objects
+  container-title: PSTV
+  collection-title: IFIP conference proceedings
+  publisher: Chapman & Hall
+  page: '367-375'
+  volume: '1'
+  ISBN: '0-412-63640-9'
+
+- id: conf/pstv/JardJ89
+  type: paper-conference
+  author:
+  - family: Jard
+    given: Claude
+  - family: Jézéquel
+    given: Jean-Marc
+  editor:
+  - family: Brinksma
+    given: Ed
+  issued:
+  - year: '1989'
+  title: A multi-processor estelle-to-c compiler to prototype algorithms on parallel
+    machines
+  container-title: PSTV
+  publisher: North-Holland
+  page: '161-174'
+  ISBN: '0-444-88343-6'
+
+- id: conf/pstv/ChenCK90
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Mon-Song
+  - family: Choi
+    given: Yanghee
+  - family: Kershenbaum
+    given: Aaron
+  editor:
+  - family: Logrippo
+    given: Luigi
+  issued:
+  - year: '1990'
+  title: Approaches utilizing segment overlap to minimize test sequences
+  container-title: PSTV
+  publisher: North-Holland
+  page: '85-98'
+  ISBN: '0-444-88810-1'
+...

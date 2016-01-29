@@ -1,0 +1,657 @@
+---
+references:
+- id: conf/mlcw/JijkounR05
+  type: paper-conference
+  author:
+  - family: Jijkoun
+    given: Valentin
+  - family: Rijke
+    given: Maarten
+    dropping-particle: de
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: 'Recognizing textual entailment: Is word similarity enough?'
+  title-short: Recognizing textual entailment
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '449-460'
+  volume: '3944'
+  DOI: 10.1007/11736790_25
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/Wu05
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Dekai
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Textual entailment recognition using inversion transduction grammars
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '299-308'
+  volume: '3944'
+  DOI: 10.1007/11736790_17
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/BayerBFHHY05
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: Samuel
+  - family: Burger
+    given: John D.
+  - family: Ferro
+    given: Lisa
+  - family: Henderson
+    given: John C.
+  - family: Hirschman
+    given: Lynette
+  - family: Yeh
+    given: Alexander S.
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: 'Evaluating semantic evaluations: How rTE measures up'
+  title-short: Evaluating semantic evaluations
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-331'
+  volume: '3944'
+  DOI: 10.1007/11736790_18
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/MurrayS05
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Iain
+  - family: Snelson
+    given: Edward
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: A pragmatic bayesian approach to predictive uncertainty
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-40'
+  volume: '3944'
+  DOI: 10.1007/11736790_3
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/DaganGM05
+  type: paper-conference
+  author:
+  - family: Dagan
+    given: Ido
+  - family: Glickman
+    given: Oren
+  - family: Magnini
+    given: Bernardo
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: The pASCAL recognising textual entailment challenge
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-190'
+  volume: '3944'
+  DOI: 10.1007/11736790_9
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/KouylekovM05
+  type: paper-conference
+  author:
+  - family: Kouylekov
+    given: Milen
+  - family: Magnini
+    given: Bernardo
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Combining lexical resources with tree edit distance for recognizing textual
+    entailment
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-230'
+  volume: '3944'
+  DOI: 10.1007/11736790_12
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/EveringhamZWGABCDDDDEFFGGJKKLLLMNSSSSSSTUVZ05
+  type: paper-conference
+  author:
+  - family: Everingham
+    given: Mark
+  - family: Zisserman
+    given: Andrew
+  - family: Williams
+    given: Christopher K. I.
+  - family: Gool
+    given: Luc J. Van
+  - family: Allan
+    given: Moray
+  - family: Bishop
+    given: Christopher M.
+  - family: Chapelle
+    given: Olivier
+  - family: Dalal
+    given: Navneet
+  - family: Deselaers
+    given: Thomas
+  - family: Dorkó
+    given: Gyuri
+  - family: Duffner
+    given: Stefan
+  - family: Eichhorn
+    given: Jan
+  - family: Farquhar
+    given: Jason D. R.
+  - family: Fritz
+    given: Mario
+  - family: Garcia
+    given: Christophe
+  - family: Griffiths
+    given: Thomas L.
+  - family: Jurie
+    given: Frédéric
+  - family: Keysers
+    given: Daniel
+  - family: Koskela
+    given: Markus
+  - family: Laaksonen
+    given: Jorma
+  - family: Larlus
+    given: Diane
+  - family: Leibe
+    given: Bastian
+  - family: Meng
+    given: Hongying
+  - family: Ney
+    given: Hermann
+  - family: Schiele
+    given: Bernt
+  - family: Schmid
+    given: Cordelia
+  - family: Seemann
+    given: Edgar
+  - family: Shawe-Taylor
+    given: John
+  - family: Storkey
+    given: Amos J.
+  - family: Szedmák
+    given: Sándor
+  - family: Triggs
+    given: Bill
+  - family: Ulusoy
+    given: Ilkay
+  - family: Viitaniemi
+    given: Ville
+  - family: Zhang
+    given: Jianguo
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: The 2005 pASCAL visual object classes challenge
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-176'
+  volume: '3944'
+  DOI: 10.1007/11736790_8
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/KohonenS05
+  type: paper-conference
+  author:
+  - family: Kohonen
+    given: Jukka
+  - family: Suomela
+    given: Jukka
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: 'Lessons learned in the challenge: Making predictions and scoring them'
+  title-short: Lessons learned in the challenge
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-116'
+  volume: '3944'
+  DOI: 10.1007/11736790_7
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/AkhmatovaM05
+  type: paper-conference
+  author:
+  - family: Akhmatova
+    given: Elena
+  - family: Mollá
+    given: Diego
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Recognizing textual entailment via atomic propositions
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '385-403'
+  volume: '3944'
+  DOI: 10.1007/11736790_22
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/Chawla05
+  type: paper-conference
+  author:
+  - family: Chawla
+    given: Nitesh V.
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: 'Many are better than one: Improving probabilistic estimates from decision
+    trees'
+  title-short: Many are better than one
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-55'
+  volume: '3944'
+  DOI: 10.1007/11736790_4
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/BrazGPRS05
+  type: paper-conference
+  author:
+  - family: Salvo Braz
+    given: Rodrigo
+    dropping-particle: de
+  - family: Girju
+    given: Roxana
+  - family: Punyakanok
+    given: Vasin
+  - family: Roth
+    given: Dan
+  - family: Sammons
+    given: Mark
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: An inference model for semantic entailment in natural language
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '261-286'
+  volume: '3944'
+  DOI: 10.1007/11736790_15
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/Neal05
+  type: paper-conference
+  author:
+  - family: Neal
+    given: Radford M.
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Classification with bayesian neural networks
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '28-32'
+  volume: '3944'
+  DOI: 10.1007/11736790_2
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/2005
+  type: book
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2006'
+  title: Machine learning challenges, evaluating predictive uncertainty, visual object
+    classification and recognizing textual entailment, first pASCAL machine learning
+    challenges workshop, mLCW 2005, southampton, uK, april 11-13, 2005, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3944'
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/HerreraPV05
+  type: paper-conference
+  author:
+  - family: Herrera
+    given: Jesús
+  - family: Peñas
+    given: Anselmo
+  - family: Verdejo
+    given: Felisa
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Textual entailment recognition based on dependency analysis and wordNet
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-239'
+  volume: '3944'
+  DOI: 10.1007/11736790_13
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/CandelaRSBS05
+  type: paper-conference
+  author:
+  - family: Candela
+    given: Joaquin Quiñonero
+  - family: Rasmussen
+    given: Carl Edward
+  - family: Sinz
+    given: Fabian H.
+  - family: Bousquet
+    given: Olivier
+  - family: Schölkopf
+    given: Bernhard
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Evaluating predictive uncertainty challenge
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-27'
+  volume: '3944'
+  DOI: 10.1007/11736790_1
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/VanderwendeD05
+  type: paper-conference
+  author:
+  - family: Vanderwende
+    given: Lucy
+  - family: Dolan
+    given: William B.
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: What syntax can contribute in the entailment task
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '205-216'
+  volume: '3944'
+  DOI: 10.1007/11736790_11
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/GlickmanDK05
+  type: paper-conference
+  author:
+  - family: Glickman
+    given: Oren
+  - family: Dagan
+    given: Ido
+  - family: Koppel
+    given: Moshe
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: A lexical alignment model for probabilistic textual entailment
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-298'
+  volume: '3944'
+  DOI: 10.1007/11736790_16
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/AndreevskaiaLB05
+  type: paper-conference
+  author:
+  - family: Andreevskaia
+    given: Alina
+  - family: Li
+    given: Zhuoyan
+  - family: Bergler
+    given: Sabine
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Partial predicate argument structure matching for entailment determination
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '332-343'
+  volume: '3944'
+  DOI: 10.1007/11736790_19
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/PerezA05
+  type: paper-conference
+  author:
+  - family: Pérez
+    given: Diana
+  - family: Alfonseca
+    given: Enrique
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Using bleu-like algorithms for the automatic recognition of entailment
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-204'
+  volume: '3944'
+  DOI: 10.1007/11736790_10
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/BosM05
+  type: paper-conference
+  author:
+  - family: Bos
+    given: Johan
+  - family: Markert
+    given: Katja
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Recognising textual entailment with robust logical inference
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '404-426'
+  volume: '3944'
+  DOI: 10.1007/11736790_23
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/CawleyTC05
+  type: paper-conference
+  author:
+  - family: Cawley
+    given: Gavin C.
+  - family: Talbot
+    given: Nicola L. C.
+  - family: Chapelle
+    given: Olivier
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Estimating predictive variances with kernel ridge regression
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-77'
+  volume: '3944'
+  DOI: 10.1007/11736790_5
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/PazienzaPZ05
+  type: paper-conference
+  author:
+  - family: Pazienza
+    given: Maria Teresa
+  - family: Pennacchiotti
+    given: Marco
+  - family: Zanzotto
+    given: Fabio Massimo
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Learning textual entailment on a distance feature space
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '240-260'
+  volume: '3944'
+  DOI: 10.1007/11736790_14
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/KurogiST05
+  type: paper-conference
+  author:
+  - family: Kurogi
+    given: Shuichi
+  - family: Sawa
+    given: Miho
+  - family: Tanaka
+    given: Shinya
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Competitive associative nets and cross-validation for estimating predictive
+    uncertainty on regression problems
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-94'
+  volume: '3944'
+  DOI: 10.1007/11736790_6
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/HodgesCFM05
+  type: paper-conference
+  author:
+  - family: Hodges
+    given: Daniel
+  - family: Clark
+    given: Christine
+  - family: Fowler
+    given: Abraham
+  - family: Moldovan
+    given: Dan I.
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Applying cOGEX to recognize textual entailment
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '427-448'
+  volume: '3944'
+  DOI: 10.1007/11736790_24
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/DelmonteTBB05
+  type: paper-conference
+  author:
+  - family: Delmonte
+    given: Rodolfo
+  - family: Tonelli
+    given: Sara
+  - family: Boniforti
+    given: Marco Aldo Piccolino
+  - family: Bristot
+    given: Antonella
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: VENSES - a linguistically-based system for semantic evaluation
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344-371'
+  volume: '3944'
+  DOI: 10.1007/11736790_20
+  ISBN: '3-540-33427-0'
+
+- id: conf/mlcw/NewmanSDC05
+  type: paper-conference
+  author:
+  - family: Newman
+    given: Eamonn
+  - family: Stokes
+    given: Nicola
+  - family: Dunnion
+    given: John
+  - family: Carthy
+    given: Joe
+  editor:
+  - family: Candela
+    given: Joaquin Quiñonero
+  issued:
+  - year: '2005'
+  title: Textual entailment recognition using a linguistically-motivated decision
+    tree classifier
+  container-title: MLCW
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '372-384'
+  volume: '3944'
+  DOI: 10.1007/11736790_21
+  ISBN: '3-540-33427-0'
+...

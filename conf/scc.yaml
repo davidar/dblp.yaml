@@ -1,0 +1,425 @@
+---
+references:
+- id: conf/scc/Schwartz79
+  type: paper-conference
+  author:
+  - family: Schwartz
+    given: Jerald S.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Denotational semantics of parallelism
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '191-202'
+  volume: '70'
+  DOI: 10.1007/BFb0022470
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Wadge79
+  type: paper-conference
+  author:
+  - family: Wadge
+    given: William W.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: An extensional treatment of dataflow deadlock
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-299'
+  volume: '70'
+  DOI: 10.1007/BFb0022475
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/FriedmanW79
+  type: paper-conference
+  author:
+  - family: Friedman
+    given: Daniel P.
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: An approach to fair applicative multiprogramming
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-225'
+  volume: '70'
+  DOI: 10.1007/BFb0022471
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Abrahamson79
+  type: paper-conference
+  author:
+  - family: Abrahamson
+    given: Karl R.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Modal logic of concurrent nondeterministic programs
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-33'
+  volume: '70'
+  DOI: 10.1007/BFb0022461
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Herzog79
+  type: paper-conference
+  author:
+  - family: Herzog
+    given: Otthein
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Static analysis of concurrent processes for dynamic properties using petri
+    nets
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-90'
+  volume: '70'
+  DOI: 10.1007/BFb0022464
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Francez79
+  type: paper-conference
+  author:
+  - family: Francez
+    given: Nissim
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: On achieving distributed termination
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '300-315'
+  volume: '70'
+  DOI: 10.1007/BFb0022476
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Maggiolo-SchettiniWW79
+  type: paper-conference
+  author:
+  - family: Maggiolo-Schettini
+    given: Andrea
+  - family: Wedde
+    given: Horst
+  - family: Winkowski
+    given: Józef
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Modeling a solution for a control problem in distributed systems by restrictions
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '226-248'
+  volume: '70'
+  DOI: 10.1007/BFb0022472
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Memmi79
+  type: paper-conference
+  author:
+  - family: Memmi
+    given: Gérard
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Notion de dualité et de symétrie dans les réseuaux de pétri
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-108'
+  volume: '70'
+  DOI: 10.1007/BFb0022465
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/LynchF79
+  type: paper-conference
+  author:
+  - family: Lynch
+    given: Nancy A.
+  - family: Fischer
+    given: Michael J.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: On describing the behavior and implementation of distributed systems
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-172'
+  volume: '70'
+  DOI: 10.1007/BFb0022468
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/GourlayRS79
+  type: paper-conference
+  author:
+  - family: Gourlay
+    given: John S.
+  - family: Rounds
+    given: William C.
+  - family: Statman
+    given: Richard
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: On properties preserved by contraction of concurrent systems
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-65'
+  volume: '70'
+  DOI: 10.1007/BFb0022463
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Janicki79
+  type: paper-conference
+  author:
+  - family: Janicki
+    given: Ryszard
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: A characterization of concurrency-like relations
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-122'
+  volume: '70'
+  DOI: 10.1007/BFb0022466
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/1979
+  type: book
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Semantics of concurrent computation, proceedings of the international symposium,
+    evian, france, july 2-4, 1979
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '70'
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/JensenKM79
+  type: paper-conference
+  author:
+  - family: Jensen
+    given: Kurt
+  - family: Kyng
+    given: Morten
+  - family: Madsen
+    given: Ole Lehrmann
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: A petri net definition of a system description language
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '348-368'
+  volume: '70'
+  DOI: 10.1007/BFb0022479
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/GenrichL79
+  type: paper-conference
+  author:
+  - family: Genrich
+    given: Hartmann J.
+  - family: Lautenbach
+    given: Kurt
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: The analysis of distributed systems by means of predicate ? Transition-nets
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-147'
+  volume: '70'
+  DOI: 10.1007/BFb0022467
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Sintzoff79
+  type: paper-conference
+  author:
+  - family: Sintzoff
+    given: Michel
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Principles for distributing programs
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '337-347'
+  volume: '70'
+  DOI: 10.1007/BFb0022478
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Pnueli79
+  type: paper-conference
+  author:
+  - family: Pnueli
+    given: Amir
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: The temporal semantics of concurrent programs
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '70'
+  DOI: 10.1007/BFb0022460
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/AbrialS79
+  type: paper-conference
+  author:
+  - family: Abrial
+    given: Jean-Raymond
+  - family: Schuman
+    given: Stephen A.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Non-deterministic system specification
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-50'
+  volume: '70'
+  DOI: 10.1007/BFb0022462
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Kwong79
+  type: paper-conference
+  author:
+  - family: Kwong
+    given: Yat-Sang
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: On the absence of livelocks in parallel programs
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '172-190'
+  volume: '70'
+  DOI: 10.1007/BFb0022469
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/NielsenPW79
+  type: paper-conference
+  author:
+  - family: Nielsen
+    given: Mogens
+  - family: Plotkin
+    given: Gordon D.
+  - family: Winskel
+    given: Glynn
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Petri nets, event structures and domains
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-284'
+  volume: '70'
+  DOI: 10.1007/BFb0022474
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/HewittAL79
+  type: paper-conference
+  author:
+  - family: Hewitt
+    given: Carl
+  - family: Attardi
+    given: Giuseppe
+  - family: Lieberman
+    given: Henry
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Specifying and proving properties of guardians for distributed systems
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '316-336'
+  volume: '70'
+  DOI: 10.1007/BFb0022477
+  ISBN: 3-540-09511-X
+
+- id: conf/scc/Shields79
+  type: paper-conference
+  author:
+  - family: Shields
+    given: M. W.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1979'
+  title: Adequate path expressions
+  container-title: Semantics of concurrent computation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-265'
+  volume: '70'
+  DOI: 10.1007/BFb0022473
+  ISBN: 3-540-09511-X
+...

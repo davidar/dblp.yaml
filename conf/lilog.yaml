@@ -1,0 +1,568 @@
+---
+references:
+- id: conf/lilog/Borkel92
+  type: paper-conference
+  author:
+  - family: Börkel
+    given: Manfred
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: 'Vom ersten lILOG-prototypen zu lEU/2: Zur entwicklung der wissensbasen'
+  title-short: Vom ersten lILOG-prototypen zu lEU/2
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '217-230'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/PletatL89
+  type: paper-conference
+  author:
+  - family: Pletat
+    given: Udo
+  - family: Luck
+    given: Kai
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Knowledge representation in lILOG
+  container-title: Sorts and types in artificial intelligence
+  page: '140-164'
+  DOI: 10.1007/3-540-52336-7_22
+
+- id: conf/lilog/Gerstl92
+  type: paper-conference
+  author:
+  - family: Gerstl
+    given: Peter
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu c. maienborn
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '95-99'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/BlasiusRS89
+  type: paper-conference
+  author:
+  - family: Bläsius
+    given: Karl-Hans
+  - family: Rollinger
+    given: Claus-Rainer
+  - family: Siekmann
+    given: Jörg H.
+  issued:
+  - year: '1989'
+  title: Structure and control of the l-lILOG inference system
+  container-title: Sorts and types in artificial intelligence
+  page: '165-182'
+  DOI: 10.1007/3-540-52336-7_23
+
+- id: conf/lilog/Pirlein92
+  type: paper-conference
+  author:
+  - family: Pirlein
+    given: Thomas
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu b. gängler, i. wachsmuth
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '196-198'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Lorenz92
+  type: paper-conference
+  author:
+  - family: Lorenz
+    given: Sven
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Erfahrungen mit der zeitontologie und -axiomatik
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '171-178'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/NebelS89
+  type: paper-conference
+  author:
+  - family: Nebel
+    given: Bernhard
+  - family: Smolka
+    given: Gert
+  issued:
+  - year: '1989'
+  title: Representation and reasoning with attributive descriptions
+  container-title: Sorts and types in artificial intelligence
+  page: '112-139'
+  DOI: 10.1007/3-540-52336-7_21
+
+- id: conf/lilog/Bollinger92
+  type: paper-conference
+  author:
+  - family: Bollinger
+    given: Toni
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Verarbeitung von lLILOG - theorie und praxis oder was kann man noch besser
+    machen bei der verarbeitung von lLILOG?
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '155-166'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Luck92
+  type: paper-conference
+  author:
+  - family: Luck
+    given: Kai
+    dropping-particle: von
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Wissenrepräsentation, naive theorien und sprachverstehende systeme
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '55-69'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Gerstl92a
+  type: paper-conference
+  author:
+  - family: Gerstl
+    given: Peter
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Praxisgerechte verwaltung der ontologie
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '201-212'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/SchmittW89
+  type: paper-conference
+  author:
+  - family: Schmitt
+    given: Peter H.
+  - family: Wernecke
+    given: Wolfgang
+  issued:
+  - year: '1989'
+  title: Tableau calculus for order sorted logic
+  container-title: Sorts and types in artificial intelligence
+  page: '49-60'
+  DOI: 10.1007/3-540-52336-7_18
+
+- id: conf/lilog/KloseP92
+  type: paper-conference
+  author:
+  - family: Klose
+    given: Gudrun
+  - family: Pirlein
+    given: Thomas
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Die modellierung der lEU/2-wissensbasis im überblick
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '3-22'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Simmons92
+  type: paper-conference
+  author:
+  - family: Simmons
+    given: Geoffrey
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu e. lang
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '46-54'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Walther89
+  type: paper-conference
+  author:
+  - family: Walther
+    given: Christoph
+  issued:
+  - year: '1989'
+  title: Many-sorted inferences in automated theorem proving
+  container-title: Sorts and types in artificial intelligence
+  page: '18-48'
+  DOI: 10.1007/3-540-52336-7_17
+
+- id: conf/lilog/AllgayerR89
+  type: paper-conference
+  author:
+  - family: Allgayer
+    given: Jürgen
+  - family: Reddig-Siekmann
+    given: Carola
+  issued:
+  - year: '1989'
+  title: 'What kL-oNE lookalikes need to cope with natural language: Scope and aspect
+    of plural noun phrases'
+  title-short: What kL-oNE lookalikes need to cope with natural language
+  container-title: Sorts and types in artificial intelligence
+  page: '240-285'
+  DOI: 10.1007/3-540-52336-7_27
+
+- id: conf/lilog/Eberle89
+  type: paper-conference
+  author:
+  - family: Eberle
+    given: Kurt
+  issued:
+  - year: '1989'
+  title: Eventualities in a natural language understanding system
+  container-title: Sorts and types in artificial intelligence
+  page: '209-239'
+  DOI: 10.1007/3-540-52336-7_26
+
+- id: conf/lilog/KloseMM92
+  type: paper-conference
+  author:
+  - family: Klose
+    given: Gudrun
+  - family: Mayer
+    given: Martin
+  - family: Müller
+    given: Adrian
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu p. gerstl
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '213-216'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Owsnicki-Klewe89
+  type: paper-conference
+  author:
+  - family: Owsnicki-Klewe
+    given: Bernd
+  issued:
+  - year: '1989'
+  title: A general characterization of term description languages
+  container-title: Sorts and types in artificial intelligence
+  page: '183-189'
+  DOI: 10.1007/3-540-52336-7_24
+
+- id: conf/lilog/89
+  type: book
+  editor:
+  - family: Bläsius
+    given: Karl-Hans
+  issued:
+  - year: '1989'
+  title: Sorts and types in artificial intelligence, workshop, eringerfeld, fRG, april
+    24-26, 1989, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '418'
+  ISBN: '3-540-52337-5'
+
+- id: conf/lilog/Novak92
+  type: paper-conference
+  author:
+  - family: Novak
+    given: Hans-Joachim
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Die lILOG-ontologie aus generierungssicht
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '106-112'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Beierle89
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  issued:
+  - year: '1989'
+  title: Types, modules and databases in the logic programming language pROTOS-l
+  container-title: Sorts and types in artificial intelligence
+  page: '73-110'
+  DOI: 10.1007/3-540-52336-7_20
+
+- id: conf/lilog/Dobes92
+  type: paper-conference
+  author:
+  - family: Dobes
+    given: Zuzana Krifka
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Linking linguistic and extra-linguistic information in generation
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '113-122'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Lang92
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Ewald
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Linguistische vs. konzeptuelle aspekte der lILOG-ontologie
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '23-45'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/MahrU89
+  type: paper-conference
+  author:
+  - family: Mahr
+    given: Bernd
+  - family: Umbach
+    given: Carla
+  issued:
+  - year: '1989'
+  title: Functor-argument structures for the meaning of natural language sentences
+    and their formal interpretation
+  container-title: Sorts and types in artificial intelligence
+  page: '286-304'
+  DOI: 10.1007/3-540-52336-7_28
+
+- id: conf/lilog/Lang92a
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Ewald
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu den beiträgen von c. maienborn und b. geurts
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '100-105'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/HedtstuckS89
+  type: paper-conference
+  author:
+  - family: Hedtstück
+    given: Ulrich
+  - family: Schmitt
+    given: Peter H.
+  issued:
+  - year: '1989'
+  title: A calculus for order-sorted predicate logic with sort literals
+  container-title: Sorts and types in artificial intelligence
+  page: '61-72'
+  DOI: 10.1007/3-540-52336-7_19
+
+- id: conf/lilog/Maienborn92
+  type: paper-conference
+  author:
+  - family: Maienborn
+    given: Claudia
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Motivation einer ontologie aus linguistischer perspektive - 3 fallstudien
+    aus lEU/2
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '73-90'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/RohrigN92
+  type: paper-conference
+  author:
+  - family: Röhrig
+    given: Ralf
+  - family: Neugebauer
+    given: Elisabeth
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Kommentar zu t. bollinger
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '167-170'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Geurts92
+  type: paper-conference
+  author:
+  - family: Geurts
+    given: Bart
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: 'Linguistic knowledge and knowledge of the world: Comments on c. maienborn’s
+    paper'
+  title-short: Linguistic knowledge and knowledge of the world
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '91-94'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Oberschelp89
+  type: paper-conference
+  author:
+  - family: Oberschelp
+    given: Arnold
+  issued:
+  - year: '1989'
+  title: Order sorted predicate logic
+  container-title: Sorts and types in artificial intelligence
+  page: '8-17'
+  DOI: 10.1007/3-540-52336-7_16
+
+- id: conf/lilog/GanglerW92
+  type: paper-conference
+  author:
+  - family: Gängler
+    given: Barbara
+  - family: Wachsmuth
+    given: Ipke
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Antwortgenerierung, flexible wortwahl und elaborative inferenzen - ein regelinventar
+    für lEU/2
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '179-195'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/Simmons92a
+  type: paper-conference
+  author:
+  - family: Simmons
+    given: Geoffrey
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: 'Empirical methods for “ontological engineering” - case study: Objects'
+  title-short: Empirical methods for “ontological engineering” - case study
+  container-title: Ontologie und axiomatik der wissensbasis von lILOG
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '125-154'
+  volume: '307'
+  ISBN: '3-540-55306-1'
+
+- id: conf/lilog/DilgerV89
+  type: paper-conference
+  author:
+  - family: Dilger
+    given: Werner
+  - family: Voß
+    given: Hans
+  issued:
+  - year: '1989'
+  title: Sorts in qualitative reasoning
+  container-title: Sorts and types in artificial intelligence
+  page: '190-207'
+  DOI: 10.1007/3-540-52336-7_25
+
+- id: conf/lilog/1992
+  type: book
+  editor:
+  - family: Klose
+    given: Gudrun
+  issued:
+  - year: '1992'
+  title: Ontologie und axiomatik der wissensbasis von lILOG, wissensmodellierung im
+    iBM deutschland lILOG-projekt
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '307'
+  ISBN: '3-540-55306-1'
+...

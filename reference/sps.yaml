@@ -1,0 +1,854 @@
+---
+references:
+- id: reference/sps/McAllister13
+  type: chapter
+  author:
+  - family: McAllister
+    given: John
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: FPGA-based dSP
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '707-739'
+  DOI: 10.1007/978-1-4614-6859-2_22
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/MattavelliRJ13
+  type: chapter
+  author:
+  - family: Mattavelli
+    given: Marco
+  - family: Raulet
+    given: Mickaël
+  - family: Janneck
+    given: Jörn W.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: MPEG reconfigurable video coding
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '281-314'
+  DOI: 10.1007/978-1-4614-6859-2_10
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/ParhiC13
+  type: chapter
+  author:
+  - family: Parhi
+    given: Keshab K.
+  - family: Chen
+    given: Yanni
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal flow graphs and data flow graphs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1277-1302'
+  DOI: 10.1007/978-1-4614-6859-2_39
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Kessler13
+  type: chapter
+  author:
+  - family: Kessler
+    given: Christoph W.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Compiling for vLIW dSPs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1177-1214'
+  DOI: 10.1007/978-1-4614-6859-2_36
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Sung13
+  type: chapter
+  author:
+  - family: Sung
+    given: Wonyong
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Optimization of number representations
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1303-1333'
+  DOI: 10.1007/978-1-4614-6859-2_40
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/BhattacharyyaDT13
+  type: chapter
+  author:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  - family: Deprettere
+    given: Ed F.
+  - family: Theelen
+    given: Bart D.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Dynamic dataflow graphs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '905-944'
+  DOI: 10.1007/978-1-4614-6859-2_28
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/BacivarovHHT13
+  type: chapter
+  author:
+  - family: Bacivarov
+    given: Iuliana
+  - family: Haid
+    given: Wolfgang
+  - family: '0001'
+    given: Kai Huang
+  - family: Thiele
+    given: Lothar
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Methods and tools for mapping process networks onto multi-processor systems-on-chip
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '867-903'
+  DOI: 10.1007/978-1-4614-6859-2_27
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/ShekharWP13
+  type: chapter
+  author:
+  - family: Shekhar
+    given: Raj
+  - family: Walimbe
+    given: Vivek
+  - family: Plishker
+    given: William
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Medical image processing
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '349-379'
+  DOI: 10.1007/978-1-4614-6859-2_12
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/0002PL13
+  type: chapter
+  author:
+  - family: '0002'
+    given: Tong Zhang
+  - family: Pan
+    given: Yangyang
+  - family: Li
+    given: Yiran
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: DSP systems using three-dimensional integration technology
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '835-864'
+  DOI: 10.1007/978-1-4614-6859-2_26
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Verdoolaege13
+  type: chapter
+  author:
+  - family: Verdoolaege
+    given: Sven
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Polyhedral process networks
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1335-1375'
+  DOI: 10.1007/978-1-4614-6859-2_41
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/ChenC13
+  type: chapter
+  author:
+  - family: Chen
+    given: Yu-Han
+  - family: Chen
+    given: Liang-Gee
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Video compression
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '49-67'
+  DOI: 10.1007/978-1-4614-6859-2_2
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/JunttiRV13
+  type: chapter
+  author:
+  - family: Juntti
+    given: Markku J.
+  - family: Renfors
+    given: Markku
+  - family: Valkama
+    given: Mikko
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing for wireless transceivers
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '171-222'
+  DOI: 10.1007/978-1-4614-6859-2_6
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/LiuW13
+  type: chapter
+  author:
+  - family: Liu
+    given: Dake
+  - family: Wang
+    given: Jian
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Application specific instruction set dSP processors
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '671-706'
+  DOI: 10.1007/978-1-4614-6859-2_21
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/SunABC13
+  type: chapter
+  author:
+  - family: Sun
+    given: Yang
+  - family: Amiri
+    given: Kiarash
+  - family: Brogioli
+    given: Michael
+  - family: Cavallaro
+    given: Joseph R.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Application-specific accelerators for communications
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '741-777'
+  DOI: 10.1007/978-1-4614-6859-2_23
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/CollinDKL13
+  type: chapter
+  author:
+  - family: Collin
+    given: Jussi
+  - family: Davidson
+    given: Pavel
+  - family: Kirkko-Jaakkola
+    given: Martti
+  - family: Leppäkoski
+    given: Helena
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Inertial sensors and their applications
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '69-96'
+  DOI: 10.1007/978-1-4614-6859-2_3
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/GregersonSC13
+  type: chapter
+  author:
+  - family: Gregerson
+    given: Anthony E.
+  - family: Schulte
+    given: Michael J.
+  - family: Compton
+    given: Katherine
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: High-energy physics
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '135-169'
+  DOI: 10.1007/978-1-4614-6859-2_5
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/SutterRL13
+  type: chapter
+  author:
+  - family: Sutter
+    given: Bjorn De
+  - family: Raghavan
+    given: Praveen
+  - family: Lambrechts
+    given: Andy
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Coarse-grained reconfigurable array architectures
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '553-592'
+  DOI: 10.1007/978-1-4614-6859-2_18
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/GustafssonW13
+  type: chapter
+  author:
+  - family: Gustafsson
+    given: Oscar
+  - family: Wanhammar
+    given: Lars
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Arithmetic
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '593-637'
+  DOI: 10.1007/978-1-4614-6859-2_19
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/KeinertD13
+  type: chapter
+  author:
+  - family: Keinert
+    given: Joachim
+  - family: Deprettere
+    given: Ed F.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Multidimensional dataflow graphs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1145-1175'
+  DOI: 10.1007/978-1-4614-6859-2_35
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Olivier13
+  type: chapter
+  author:
+  - family: Olivier
+    given: Bryan E.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Embedded c for digital signal processing
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1259-1276'
+  DOI: 10.1007/978-1-4614-6859-2_38
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/LeupersSC13
+  type: chapter
+  author:
+  - family: Leupers
+    given: Rainer
+  - family: Sheng
+    given: Weihua
+  - family: Castrillón
+    given: Jerónimo
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Software compilation techniques for mPSoCs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1215-1257'
+  DOI: 10.1007/978-1-4614-6859-2_37
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/KnezevicBMFGLMV13
+  type: chapter
+  author:
+  - family: Knezevic
+    given: Miroslav
+  - family: Batina
+    given: Lejla
+  - family: Mulder
+    given: Elke De
+  - family: Fan
+    given: Junfeng
+  - family: Gierlichs
+    given: Benedikt
+  - family: Lee
+    given: Yong Ki
+  - family: Maes
+    given: Roel
+  - family: Verbauwhede
+    given: Ingrid
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing for cryptography and security applications
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '223-241'
+  DOI: 10.1007/978-1-4614-6859-2_7
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Vainio13
+  type: chapter
+  author:
+  - family: Vainio
+    given: Olli
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Mixed signal techniques
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '803-834'
+  DOI: 10.1007/978-1-4614-6859-2_25
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Franke13
+  type: chapter
+  author:
+  - family: Franke
+    given: Björn
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: C compilers and code optimization for dSPs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1015-1040'
+  DOI: 10.1007/978-1-4614-6859-2_31
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/WolfS13
+  type: chapter
+  author:
+  - family: Wolf
+    given: Marilyn
+  - family: Schlessman
+    given: Jason
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Distributed smart cameras and distributed computer vision
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '465-479'
+  DOI: 10.1007/978-1-4614-6859-2_15
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/BoevBG13
+  type: chapter
+  author:
+  - family: Boev
+    given: Atanas
+  - family: Bregovic
+    given: Robert
+  - family: Gotchev
+    given: Atanas P.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing for stereoscopic and multi-view 3D displays
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '3-47'
+  DOI: 10.1007/978-1-4614-6859-2_1
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/BanzBP13
+  type: chapter
+  author:
+  - family: Banz
+    given: Christian
+  - family: Blume
+    given: Holger
+  - family: Pirsch
+    given: Peter
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Architectures for stereo vision
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '483-515'
+  DOI: 10.1007/978-1-4614-6859-2_16
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/BrandnerHK13
+  type: chapter
+  author:
+  - family: Brandner
+    given: Florian
+  - family: Horspool
+    given: R. Nigel
+  - family: Krall
+    given: Andreas
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: DSP instruction set simulation
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '945-974'
+  DOI: 10.1007/978-1-4614-6859-2_29
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Konstantinides13
+  type: chapter
+  author:
+  - family: Konstantinides
+    given: Konstantinos
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Digital signal processing in home entertainment
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '243-260'
+  DOI: 10.1007/978-1-4614-6859-2_8
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/GeilenB13
+  type: chapter
+  author:
+  - family: Geilen
+    given: Marc
+  - family: Basten
+    given: Twan
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Kahn process networks and a reactive extension
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1041-1081'
+  DOI: 10.1007/978-1-4614-6859-2_32
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/VeenW13
+  type: chapter
+  author:
+  - family: Veen
+    given: Alle-Jan
+    dropping-particle: van der
+  - family: Wijnholds
+    given: Stefan J.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing tools for radio astronomy
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '421-463'
+  DOI: 10.1007/978-1-4614-6859-2_14
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/HaO13
+  type: chapter
+  author:
+  - family: Ha
+    given: Soonhoi
+  - family: Oh
+    given: Hyunok
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: 'Decidable dataflow models for signal processing: Synchronous dataflow
+    and its extensions'
+  title-short: Decidable dataflow models for signal processing
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1083-1109'
+  DOI: 10.1007/978-1-4614-6859-2_33
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/2013
+  type: book
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Handbook of signal processing systems
+  publisher: Springer
+  DOI: 10.1007/978-1-4614-6859-2
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Woods13
+  type: chapter
+  author:
+  - family: Woods
+    given: Roger F.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Mapping decidable signal processing graphs into fPGA implementations
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1377-1399'
+  DOI: 10.1007/978-1-4614-6859-2_42
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/FalkHZT13
+  type: chapter
+  author:
+  - family: Falk
+    given: Joachim
+  - family: Haubelt
+    given: Christian
+  - family: Zebelein
+    given: Christian
+  - family: Teich
+    given: Jürgen
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Integrated modeling using finite state machines and dataflow graphs
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '975-1013'
+  DOI: 10.1007/978-1-4614-6859-2_30
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/CarroR13
+  type: chapter
+  author:
+  - family: Carro
+    given: Luigi
+  - family: Rutzig
+    given: Mateus Beck
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Multicore systems on chip
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '517-551'
+  DOI: 10.1007/978-1-4614-6859-2_17
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/HuK13
+  type: chapter
+  author:
+  - family: Hu
+    given: Yu Hen
+  - family: Kung
+    given: Sun-Yuan
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Systolic arrays
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '1111-1143'
+  DOI: 10.1007/978-1-4614-6859-2_34
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Takala13
+  type: chapter
+  author:
+  - family: Takala
+    given: Jarmo
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: General-purpose dSP processors
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '779-802'
+  DOI: 10.1007/978-1-4614-6859-2_24
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/SuhonenKKHH13
+  type: chapter
+  author:
+  - family: Suhonen
+    given: Jukka
+  - family: Kohvakka
+    given: Mikko
+  - family: Kaseva
+    given: Ville
+  - family: Hämäläinen
+    given: Timo D.
+  - family: Hännikäinen
+    given: Marko
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Low-power wireless sensor network platforms
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '381-419'
+  DOI: 10.1007/978-1-4614-6859-2_13
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/ShanbhagSB13
+  type: chapter
+  author:
+  - family: Shanbhag
+    given: Naresh R.
+  - family: Singer
+    given: Andrew C.
+  - family: Bae
+    given: Hyeon-Min
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing for high-speed links
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '315-348'
+  DOI: 10.1007/978-1-4614-6859-2_11
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/HongO13
+  type: chapter
+  author:
+  - family: Hong
+    given: Sangjin
+  - family: Oh
+    given: Seong-Jun
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Architectures for particle filtering
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '639-670'
+  DOI: 10.1007/978-1-4614-6859-2_20
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/DucasseS13
+  type: chapter
+  author:
+  - family: Ducasse
+    given: Raphael
+  - family: Schaar
+    given: Mihaela
+    dropping-particle: van der
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: 'Finding it now: Construction and configuration of networked classifiers
+    in real-time stream mining systems'
+  title-short: Finding it now
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '97-134'
+  DOI: 10.1007/978-1-4614-6859-2_4
+  ISBN: '978-1-4614-6858-5'
+
+- id: reference/sps/Levine13
+  type: chapter
+  author:
+  - family: Levine
+    given: William S.
+  editor:
+  - family: Bhattacharyya
+    given: Shuvra S.
+  issued:
+  - year: '2013'
+  title: Signal processing for control
+  container-title: Handbook of signal processing systems
+  publisher: Springer
+  page: '261-279'
+  DOI: 10.1007/978-1-4614-6859-2_9
+  ISBN: '978-1-4614-6858-5'
+...

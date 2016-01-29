@@ -1,0 +1,511 @@
+---
+references:
+- id: conf/dbmachine/1987
+  type: book
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: 'Database machine performance: Modeling methodologies and evaluation strategies'
+  title-short: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '257'
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/GardarinBTVV83
+  type: paper-conference
+  author:
+  - family: Gardarin
+    given: Georges
+  - family: Bernadat
+    given: Philippe
+  - family: Temmerman
+    given: Nicole
+  - family: Valduriez
+    given: Patrick
+  - family: Viémont
+    given: Yann
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: 'SABRE: A relational database system for a multimicroprocessor machine'
+  title-short: SABRE
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '19-35'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/CesariniPS87c
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Pippolini
+    given: Fabio
+  - family: Soda
+    given: Giovanni
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: 'Database machine design and performance evaluation: Annotated bibliography'
+  title-short: Database machine design and performance evaluation
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-250'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_20
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/CesariniS87a
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Salza
+    given: Silvio
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Modeling and measuring methodologies
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-49'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_13
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/Tanaka83
+  type: paper-conference
+  author:
+  - family: Tanaka
+    given: Yuzuru
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: A data-stream database machine with large capacity
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '168-202'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/HeHKOSSH83
+  type: paper-conference
+  author:
+  - family: He
+    given: Xin-Gui
+  - family: Higashida
+    given: Masanobu
+  - family: Kerr
+    given: Douglas S.
+  - family: Orooji
+    given: Ali
+  - family: Shi
+    given: Zhongzhi
+  - family: Strawser
+    given: Paula R.
+  - family: Hsiao
+    given: David K.
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: 'The implementation of a multibackend database system (mDBS): Part iI -
+    the design of a prototype mDBS'
+  title-short: The implementation of a multibackend database system (mDBS)
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '327-385'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/GamermanSS87
+  type: paper-conference
+  author:
+  - family: Gamerman
+    given: Sophie
+  - family: Salza
+    given: Silvio
+  - family: Scholl
+    given: Michel
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Analysis of filtering efficiency in the database machine vERSO
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-183'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_18
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/BancilhonFGLRSTV83
+  type: paper-conference
+  author:
+  - family: Bancilhon
+    given: François
+  - family: Fortin
+    given: D.
+  - family: Gamerman
+    given: Sophie
+  - family: Laubin
+    given: J. M.
+  - family: Richard
+    given: Philippe
+  - family: Scholl
+    given: Michel
+  - family: Tusera
+    given: Dimitri
+  - family: Verroust
+    given: Anne
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: 'VERSO: A relational backend database machine'
+  title-short: VERSO
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '1-18'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/MenonH83
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Jai Menon
+  - family: Hsiao
+    given: David K.
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: Design and analysis of join operations of data base machines
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '203-255'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/CesariniCS83
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Cardillo
+    given: D. De Luca
+  - family: Soda
+    given: Giovanni
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: An assessment of the query-processing capability of dBMAC
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '109-129'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/SchweppeZHLST83
+  type: paper-conference
+  author:
+  - family: Schweppe
+    given: Heinz
+  - family: Zeidler
+    given: Hans Christoph
+  - family: Hell
+    given: W.
+  - family: Leilich
+    given: Hans-Otto
+  - family: Stiege
+    given: Günther
+  - family: Teich
+    given: W.
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: 'RDBM: A dedicated multiprocessor system for database management'
+  title-short: RDBM
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '36-86'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/1983
+  type: book
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/CesariniPS87b
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Pippolini
+    given: Fabio
+  - family: Soda
+    given: Giovanni
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: A technique for analyzing query execution in a multiprocessor database machine
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-207'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_19
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/CesariniPS87
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Pippolini
+    given: Fabio
+  - family: Soda
+    given: Giovanni
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Evaluation criteria and performance indexes
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-32'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_12
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/SekinoTMHDG83
+  type: paper-conference
+  author:
+  - family: Sekino
+    given: Akira
+  - family: Takeuchi
+    given: Ken
+  - family: Makino
+    given: Takenori
+  - family: Hakozaki
+    given: Katsuya
+  - family: Doi
+    given: Tsugunori
+  - family: Goto
+    given: Tatsuo
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: Design considerations for an information query computer
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '130-167'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/CesariniS87
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Salza
+    given: Silvio
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Introduction
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_11
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/SalzaT87
+  type: paper-conference
+  author:
+  - family: Salza
+    given: Silvio
+  - family: Terranova
+    given: Mario
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Database workload modeling
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-94'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_14
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/MissikoffT83
+  type: paper-conference
+  author:
+  - family: Missikoff
+    given: Michele
+  - family: Terranova
+    given: Mario
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: The architectur of a relational database computer known as dBMAC
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '87-108'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/DrawinS87
+  type: paper-conference
+  author:
+  - family: Drawin
+    given: Michael
+  - family: Schweppe
+    given: Heinz
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: A performance study on host-backend communication
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-146'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_16
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/HsiaoKOSS83
+  type: paper-conference
+  author:
+  - family: Hsiao
+    given: David K.
+  - family: Kerr
+    given: Douglas S.
+  - family: Orooji
+    given: Ali
+  - family: Shi
+    given: Zhongzhi
+  - family: Strawser
+    given: Paula
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: 'The implementation of a multibackend database system (mDBS): Part i -
+    an exercise in database software engineering'
+  title-short: The implementation of a multibackend database system (mDBS)
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '300-326'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/CesariniPS87a
+  type: paper-conference
+  author:
+  - family: Cesarini
+    given: Francesca
+  - family: Pippolini
+    given: Fabio
+  - family: Soda
+    given: Giovanni
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: A procedural strategy for database machine analysis
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-128'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_15
+  ISBN: '3-540-17942-9'
+
+- id: conf/dbmachine/HollaarSCEH83
+  type: paper-conference
+  author:
+  - family: Hollaar
+    given: Lee A.
+  - family: Smith
+    given: Kent F.
+  - family: Chow
+    given: Wing Hong
+  - family: Emrath
+    given: Perry A.
+  - family: Haskin
+    given: Roger L.
+  editor:
+  - family: Hsiao
+    given: David K.
+  issued:
+  - year: '1983'
+  title: Architecture and operation of a large, full-text information-retrieval system
+  container-title: Advanced database machine architecture
+  publisher: Prentice-Hall
+  page: '256-299'
+  ISBN: '0-13-011262-3'
+
+- id: conf/dbmachine/SalzaTV87
+  type: paper-conference
+  author:
+  - family: Salza
+    given: Silvio
+  - family: Terranova
+    given: Mario
+  - family: Velardi
+    given: Paola
+  editor:
+  - family: Cesarini
+    given: Francesca
+  issued:
+  - year: '1987'
+  title: Performance modeling of the dBMAC architecture
+  container-title: Database machine performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-165'
+  volume: '257'
+  DOI: 10.1007/3-540-17942-9_17
+  ISBN: '3-540-17942-9'
+...

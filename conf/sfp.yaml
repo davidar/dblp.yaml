@@ -1,0 +1,4056 @@
+---
+references:
+- id: conf/sfp/Curtis00
+  type: paper-conference
+  author:
+  - family: Curtis
+    given: Sharon
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: 'An application of functional programming: Quilting'
+  title-short: An application of functional programming
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '145-158'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/Zerny09
+  type: paper-conference
+  author:
+  - family: Zerny
+    given: Ian
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: On graph rewriting, reduction and evaluation
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '81-96'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/FilliatreK11
+  type: paper-conference
+  author:
+  - family: Filliâtre
+    given: Jean-Christophe
+  - family: Kalyanasundaram
+    given: K.
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: 'Functory: A distributed computing library for objective caml'
+  title-short: Functory
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-81'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_5
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/KoopmanP03
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: Testing reactive systems with gAST
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '111-129'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/BoudevilleCCLPSTTW12
+  type: paper-conference
+  author:
+  - family: Boudeville
+    given: Olivier
+  - family: Cesarini
+    given: Francesco
+  - family: Chechina
+    given: Natalia
+  - family: Lundin
+    given: Kenneth
+  - family: Papaspyrou
+    given: Nikolaos
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Thompson
+    given: Simon J.
+  - family: Trinder
+    given: Phil
+  - family: Wiger
+    given: Ulf T.
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: 'RELEASE: A high-level paradigm for reliable large-scale server software
+    - (project paper)'
+  title-short: RELEASE
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-278'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_17
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Miller01
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Quentin
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: BSP in a lazy functional context
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '37-50'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/Stoughton01
+  type: paper-conference
+  author:
+  - family: Stoughton
+    given: Allen
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: Infinite pretty-printing in eXene
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '13-24'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/SannellaHAGSBLMMS05
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: '0001'
+    given: Martin Hofmann
+  - family: '0001'
+    given: David Aspinall
+  - family: Gilmore
+    given: Stephen
+  - family: Stark
+    given: Ian
+  - family: Beringer
+    given: Lennart
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: MacKenzie
+    given: Kenneth
+  - family: Momigliano
+    given: Alberto
+  - family: Shkaravska
+    given: Olha
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Mobile resource guarantees (project evaluation paper)
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '211-226'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/HorstmeyerL09
+  type: paper-conference
+  author:
+  - family: Horstmeyer
+    given: Thomas
+  - family: Loogen
+    given: Rita
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Graph-based communication in eden
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-16'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/MoninC06
+  type: paper-conference
+  author:
+  - family: Monin
+    given: Jean-François
+  - family: Courant
+    given: Judicaël
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: 'Proving termination using dependent types: The case of xOR-terms'
+  title-short: Proving termination using dependent types
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-18'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/SvenningssonA12
+  type: paper-conference
+  author:
+  - family: Svenningsson
+    given: Josef
+  - family: Axelsson
+    given: Emil
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Combining deep and shallow embedding for eDSL
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-36'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_2
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/BallereauLH99
+  type: paper-conference
+  author:
+  - family: Ballereau
+    given: Olivier
+  - family: Loulergue
+    given: Frédéric
+  - family: Hains
+    given: Gaétan
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: 'High level bSP programming: BSML and bSlambda'
+  title-short: High level bSP programming
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '29-40'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/CopeGH00
+  type: paper-conference
+  author:
+  - family: Cope
+    given: Michelle
+  - family: Gent
+    given: Ian P.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Parallel heuristic search in haskell
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '65-76'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/EekelenSKJPS07
+  type: paper-conference
+  author:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Shkaravska
+    given: Olha
+  - family: Kesteren
+    given: Ron
+    dropping-particle: van
+  - family: '0001'
+    given: Bart Jacobs
+  - family: Poll
+    given: Erik
+  - family: Smetsers
+    given: Sjaak
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: 'AHA: Amortized heap space usage analysis'
+  title-short: AHA
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '36-53'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/Rhiger05
+  type: paper-conference
+  author:
+  - family: Rhiger
+    given: Morten
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: First-class open and closed code framgents
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '127-144'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/KoopmanP10
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Testing with functional reference implementations
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-149'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_9
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/RohloffL12
+  type: paper-conference
+  author:
+  - family: Rohloff
+    given: Judith
+  - family: Lorenzen
+    given: Florian
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Call-by-value semantics for mutually recursive first-class modules
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-116'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_7
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/DoschW99
+  type: paper-conference
+  author:
+  - family: Dosch
+    given: Walter
+  - family: Wiedemann
+    given: Bernd
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: List homomorphisms with accumulation and indexing
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '135-143'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/McAdam01
+  type: paper-conference
+  author:
+  - family: McAdam
+    given: Bruce J.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: How to repair type errors automatically
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '87-98'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/KlusikPS99
+  type: paper-conference
+  author:
+  - family: Klusik
+    given: Ulrike
+  - family: Pena
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Bypassing of channels in eden
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '2-10'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Singer03
+  type: paper-conference
+  author:
+  - family: Singer
+    given: Jeremy
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: Static single information from a functional perspective
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '63-78'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/FarmerKG10
+  type: paper-conference
+  author:
+  - family: Farmer
+    given: Andrew
+  - family: Kimmell
+    given: Garrin
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: What’s the matter with kansas lava?
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-117'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_7
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/NielsenMN09
+  type: paper-conference
+  author:
+  - family: Nielsen
+    given: Tom
+  - family: Matheson
+    given: Tom
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: 'Braincurry: A domain-specific language for integrative neuroscience'
+  title-short: Braincurry
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '161-176'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/EastlundF10
+  type: paper-conference
+  author:
+  - family: Eastlund
+    given: Carl
+  - family: Felleisen
+    given: Matthias
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Hygienic macros for aCL2
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-101'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_6
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/FennellT12
+  type: paper-conference
+  author:
+  - family: Fennell
+    given: Luminous
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: The blame theorem for a linear lambda calculus with type dynamic
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-52'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_3
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Hamilton01
+  type: paper-conference
+  author:
+  - family: Hamilton
+    given: Geoff W.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: 'Extending higher-order deforestation: Transforming programs to eliminate
+    even more trees'
+  title-short: Extending higher-order deforestation
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '25-36'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/ChapmanAM05
+  type: paper-conference
+  author:
+  - family: Chapman
+    given: James
+  - family: Altenkirch
+    given: Thorsten
+  - family: McBride
+    given: Conor
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: 'Epigram reloaded: A standalone typechecker for eTT'
+  title-short: Epigram reloaded
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '79-94'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/1999
+  type: book
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2000'
+  title: Selected papers from the 1st scottish functional programming workshop (sFP99),
+    university of stirling, bridge of allan, scotland, august 29th to september 1st,
+    1999
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/CovinoP08
+  type: paper-conference
+  author:
+  - family: Covino
+    given: Emanuele
+  - family: Pani
+    given: Giovanni
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Complexity certification of c++ template metaprogramming
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '145-160'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/Reig04
+  type: paper-conference
+  author:
+  - family: Reig
+    given: Fermín
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Generic proofs for combinator-based generic programs
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '17-32'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/HenrixPA11
+  type: paper-conference
+  author:
+  - family: Henrix
+    given: Jeroen
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: 'GiN: A graphical language and tool for defining iTask workflows'
+  title-short: GiN
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-178'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_11
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/LakinP07
+  type: paper-conference
+  author:
+  - family: Lakin
+    given: Matthew R.
+  - family: Pitts
+    given: Andrew M.
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: A metalanguage for structural operational semantics
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '19-35'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/Katayama05
+  type: paper-conference
+  author:
+  - family: Katayama
+    given: Susumu
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Systematic search for lambda expressions
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '111-126'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/2009
+  type: book
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Proceedings of the tenth symposium on trends in functional programming, tFP
+    2009, komárno, slovakia, june 2-4, 2009
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/RyderT05
+  type: paper-conference
+  author:
+  - family: Ryder
+    given: Chris
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: 'Software metrics: Measuring haskell'
+  title-short: Software metrics
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '31-46'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/JamesH09
+  type: paper-conference
+  author:
+  - family: James
+    given: Daniel W. H.
+  - family: Hinze
+    given: Ralf
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: A reflection-based proof tactic for lattices in coq
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '97-112'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/DelbiancoJP11
+  type: paper-conference
+  author:
+  - family: Delbianco
+    given: Germán Andrés
+  - family: Jaskelioff
+    given: Mauro
+  - family: Pardo
+    given: Alberto
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Applicative shortcut fusion
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-194'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_12
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/TewSFFD13
+  type: paper-conference
+  author:
+  - family: Tew
+    given: Kevin
+  - family: Swaine
+    given: James
+  - family: Flatt
+    given: Matthew
+  - family: Findler
+    given: Robert Bruce
+  - family: Dinda
+    given: Peter A.
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Distributed places
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-57'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_3
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/HuH09
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Liyang
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: 'Compiling concurrency correctly: Cutting out the middle man'
+  title-short: Compiling concurrency correctly
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '17-32'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/Lammel99
+  type: paper-conference
+  author:
+  - family: Lämmel
+    given: Ralf
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Reuse by program transformation
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '144-153'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Brady14
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Resource-dependent algebraic effects
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-33'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_2
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/HernandezPR99
+  type: paper-conference
+  author:
+  - family: Hernandez
+    given: Felix
+  - family: Pena
+    given: Ricardo
+  - family: Rubio
+    given: Fernando
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: From granSim to paradise
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '11-19'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/SonmezPSCUV07
+  type: paper-conference
+  author:
+  - family: Sönmez
+    given: Nehir
+  - family: Perfumo
+    given: Cristian
+  - family: Stipic
+    given: Srdjan
+  - family: Cristal
+    given: Adrián
+  - family: Unsal
+    given: Osman S.
+  - family: Valero
+    given: Mateo
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: 'UnreadTVar: Extending haskell software transactional memory for performance'
+  title-short: UnreadTVar
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '89-104'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/2003
+  type: book
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2005'
+  title: Revised selected papers from the fourth symposium on trends in functional
+    programming, tFP 2003, edinburgh, united kingdom, 11-12 september 2003
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/HuttonW04
+  type: paper-conference
+  author:
+  - family: Hutton
+    given: Graham
+  - family: Wright
+    given: Joel
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Calculating an exceptional machine
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '49-64'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/Nemeth04
+  type: paper-conference
+  author:
+  - family: Németh
+    given: László
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Experiments with gHC’s optimiser
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '97-111'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/GobiSE12
+  type: paper-conference
+  author:
+  - family: Góbi
+    given: Attila
+  - family: Shkaravska
+    given: Olha
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Higher-order size checking without subtyping
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-68'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_4
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/2001
+  type: book
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2002'
+  title: Selected papers from the 3rd scottish functional programming workshop (sFP01),
+    university of stirling, bridge of allan, scotland, august 22nd to 24th, 2001
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/KesterenEM04
+  type: paper-conference
+  author:
+  - family: Kesteren
+    given: Ron
+    dropping-particle: van
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Mol
+    given: Maarten
+    dropping-particle: de
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Proof support for generic type classes
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-16'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/Walton99
+  type: paper-conference
+  author:
+  - family: Walton
+    given: Christopher D.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: An abstract machine for memory management
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '89-97'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Loulergue00
+  type: paper-conference
+  author:
+  - family: Loulergue
+    given: Frédéric
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Parallel composition and bulk synchronous parallel functional programming
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '77-88'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/MitchellR05
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Neil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: A static checker for safe pattern matching in haskell
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '15-30'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/WideraB99
+  type: paper-conference
+  author:
+  - family: Widera
+    given: Manfred
+  - family: Beierle
+    given: Christoph
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: How to combine the benefits of strict and soft typing
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '68-78'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Setzer06
+  type: paper-conference
+  author:
+  - family: Setzer
+    given: Anton
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Object-oriented programming in dependent type theory
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '91-108'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/Clerc12
+  type: paper-conference
+  author:
+  - family: Clerc
+    given: Xavier
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: 'OCaml-java: OCaml on the jVM'
+  title-short: OCaml-java
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-181'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_11
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/ParejaPRS00
+  type: paper-conference
+  author:
+  - family: Pareja
+    given: Cristóbal
+  - family: Pena
+    given: Ricardo
+  - family: Rubio
+    given: Fernando
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Optimising eden by transformation
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '13-26'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/Loidl01
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: Load balancing in a parallel graph reducer
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '63-74'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/WolversonM03
+  type: paper-conference
+  author:
+  - family: Wolverson
+    given: Nicholas
+  - family: MacKenzie
+    given: Kenneth
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: 'O’Camelot: Adding objects to a resource-aware functional language'
+  title-short: O’Camelot
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '47-62'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/PenaRS01
+  type: paper-conference
+  author:
+  - family: Pena
+    given: Ricardo
+  - family: Rubio
+    given: Fernando
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: Deriving non-hierarchical process topologies
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '51-62'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/HanaiUYYY06
+  type: paper-conference
+  author:
+  - family: Hanai
+    given: Ryo
+  - family: Ugawa
+    given: Tomoharu
+  - family: Yoneda
+    given: Masashi
+  - family: Yasugi
+    given: Masahiro
+  - family: Yuasa
+    given: Taiichi
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Memory usage improvement using runtime alias detection
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '129-144'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/SnyderA10
+  type: paper-conference
+  author:
+  - family: Snyder
+    given: Mark
+  - family: Alexander
+    given: Perry
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: 'Monad factory: Type-indexed monads'
+  title-short: Monad factory
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-213'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_13
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/KourzanovS12
+  type: paper-conference
+  author:
+  - family: Kourzanov
+    given: Peter
+  - family: Sips
+    given: Henk J.
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Lingua franca of functional programming (fP)
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-214'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_13
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/GreenA99
+  type: paper-conference
+  author:
+  - family: Green
+    given: Mark
+  - family: Abdallah
+    given: Ali E.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Interfacing java with haskell
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '79-88'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/MorazanT99
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  - family: Troeger
+    given: Douglas R.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: The mT architecture and allocation algorithm
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '98-105'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/UustaluV01
+  type: paper-conference
+  author:
+  - family: Uustalu
+    given: Tarmo
+  - family: Vene
+    given: Varmo
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: The dual of substitution is redecoration
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '99-110'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/Brady11
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Epic - a library for generating compilers
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-48'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_3
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/Lesniak11
+  type: paper-conference
+  author:
+  - family: Lesniak
+    given: Michael
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Thread-safe priority queues in haskell based on skiplists
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-129'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_8
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/OliveiraHL06
+  type: paper-conference
+  author:
+  - family: S. Oliveira
+    given: Bruno C.
+    dropping-particle: d.
+  - family: Hinze
+    given: Ralf
+  - family: Löh
+    given: Andres
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Extensible and modular generics for the masses
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '199-216'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/EversAP04
+  type: paper-conference
+  author:
+  - family: Evers
+    given: Sander
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Disjoint forms in graphical user interfaces
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '113-128'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/2012
+  type: book
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2013'
+  title: Trends in functional programming - 13th international symposium, tFP 2012,
+    st. andrews, uK, june 12-14, 2012, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Komendantsky11
+  type: paper-conference
+  author:
+  - family: Komendantsky
+    given: Vladimir
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Subtyping by folding an inductive relation into a coinductive one
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-32'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_2
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/HuH08
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Liyang
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Towards a verified sTM
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '129-144'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/McAdamKB00
+  type: paper-conference
+  author:
+  - family: McAdam
+    given: Bruce J.
+  - family: Kennedy
+    given: Andrew
+  - family: Benton
+    given: Nick
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Type inference for mLj
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '159-172'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/Hammond03
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: Is it time for real-time functional programming?
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-18'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/TrinderPL00
+  type: paper-conference
+  author:
+  - family: Trinder
+    given: Philip W.
+  - family: Pointon
+    given: Robert F.
+  - family: Loidl
+    given: Hans-Wolfgang
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Runtime system level fault tolerance for a distributed functional language
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '103-114'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/KlusikLP00
+  type: paper-conference
+  author:
+  - family: Klusik
+    given: Ulrike
+  - family: Loogen
+    given: Rita
+  - family: Priebe
+    given: Steffen
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Controlling parallelism and data distribution in eden
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '53-64'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/RaufBS06
+  type: paper-conference
+  author:
+  - family: Rauf
+    given: Rose H. Abdul
+  - family: '0001'
+    given: Ulrich Berger
+  - family: Setzer
+    given: Anton
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Functional concepts in c++
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '163-179'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/Pena-MariSM06
+  type: paper-conference
+  author:
+  - family: Peña-Marí
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  - family: Montenegro
+    given: Manuel
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: A sharing analysis for sAFE
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '109-128'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/Campbell08
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Brian
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Prediction of linear memory usage for first-order functional programs
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-16'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/Sanchez-GilHO09
+  type: paper-conference
+  author:
+  - family: Sánchez-Gil
+    given: Lidia
+  - family: Hidalgo-Herrero
+    given: Mercedes
+  - family: Ortega-Mallén
+    given: Yolanda
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: An operational semantics for distributed lazy evaluation
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '65-80'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/2011
+  type: book
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2012'
+  title: Trends in functional programming, 12th international symposium, tFP 2011,
+    madrid, spain, may 16-18, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/BuitleirDRH14
+  type: paper-conference
+  author:
+  - family: Buitléir
+    given: Amy
+    dropping-particle: de
+  - family: Daly
+    given: Mark
+  - family: Russell
+    given: Michael
+  - family: Heffernan
+    given: Daniel M.
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: 'A functional approach to sex: Reproduction in the créatúr framework'
+  title-short: A functional approach to sex
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-83'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_5
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/BakewellR00
+  type: paper-conference
+  author:
+  - family: Bakewell
+    given: Adam
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: 'The space usage problem: An evaluation kit for graph reduction semantics'
+  title-short: The space usage problem
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '115-128'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/RabhiLZ99
+  type: paper-conference
+  author:
+  - family: Rabhi
+    given: Fethi A.
+  - family: Lapalme
+    given: Guy
+  - family: Zomaya
+    given: Albert Y.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: A functional design framework for genetic algorithms
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '116-125'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/KoopmanAP13
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Model-based shrinking for state-based testing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-124'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_7
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/2008
+  type: book
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Proceedings of the nineth symposium on trends in functional programming,
+    tFP 2008, nijmegen, the netherlands, may 26-28, 2008
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/MatlageG10
+  type: paper-conference
+  author:
+  - family: Matlage
+    given: Kevin
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Every animation should have a beginning, a middle, and an end - a case study
+    of using a functor-based animation language
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-165'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_10
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/Straka11
+  type: paper-conference
+  author:
+  - family: Straka
+    given: Milan
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Adams’ trees revisited
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-145'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_9
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/Elsman05
+  type: paper-conference
+  author:
+  - family: Elsman
+    given: Martin
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Type-specialized serialization with sharing
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '47-62'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/DayH11
+  type: paper-conference
+  author:
+  - family: Day
+    given: Laurence E.
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Towards modular compilers for effects
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '49-64'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_4
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/Trancon-y-WidemannBG12
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  - family: Bolz
+    given: Carl Friedrich
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: The functional programming language r and the paradigm of dynamic scientific
+    programming - (position paper)
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '182-197'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_12
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/ProcterHS12
+  type: paper-conference
+  author:
+  - family: Procter
+    given: Adam M.
+  - family: Harrison
+    given: William L.
+  - family: Stump
+    given: Aaron
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: The design of a practical proof checker for a lazy functional language
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-132'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_8
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Kahl09
+  type: paper-conference
+  author:
+  - family: Kahl
+    given: Wolfram
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Haskell module tools for liberating type class design
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '129-144'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/LiT05
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Formalisation of haskell refactorings
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '95-110'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/ChristiansenH06
+  type: paper-conference
+  author:
+  - family: Christiansen
+    given: Jan
+  - family: Huch
+    given: Frank
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: A purely functional implementation of rOBDDs in haskell
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '55-71'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/Jeltsch09
+  type: paper-conference
+  author:
+  - family: Jeltsch
+    given: Wolfgang
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Signals, not generators!
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '145-160'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/SpaccasassiK13
+  type: paper-conference
+  author:
+  - family: Spaccasassi
+    given: Carlo
+  - family: Koutavas
+    given: Vasileios
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Towards efficient abstractions for concurrent consensus
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-90'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_5
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/2005
+  type: book
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2007'
+  title: Revised selected papers from the sixth symposium on trends in functional
+    programming, tFP 2005, tallinn, estonia, 23-24 september 2005
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/GrovM07
+  type: paper-conference
+  author:
+  - family: Grov
+    given: Gudmund
+  - family: Michaelson
+    given: Greg
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Towards a box calculus for hierarchical hume
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '71-88'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/LydeM13
+  type: paper-conference
+  author:
+  - family: Lyde
+    given: Steven
+  - family: Might
+    given: Matthew
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Control-flow analysis with sAT solvers
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-133'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_8
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/StutterheimPA14
+  type: paper-conference
+  author:
+  - family: Stutterheim
+    given: Jurriën
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: 'Tonic: An infrastructure to graphically represent the definition and behaviour
+    of tasks'
+  title-short: Tonic
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-141'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_8
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/AronisS12
+  type: paper-conference
+  author:
+  - family: Aronis
+    given: Stavros
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: On using erlang for parallelization - experience from parallelizing dialyzer
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '295-310'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_19
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/WooH99
+  type: paper-conference
+  author:
+  - family: Woo
+    given: Gyun
+  - family: Han
+    given: Taisook
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: 'ZG-machine: A space-efficient g-machine'
+  title-short: ZG-machine
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '106-115'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Morazan13a
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Functional video games in cS1 iII - distributed programming for beginners
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-167'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_10
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/MacKenzieW03
+  type: paper-conference
+  author:
+  - family: MacKenzie
+    given: Kenneth
+  - family: Wolverson
+    given: Nicholas
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: 'Camelot and grail: Resource-aware functional programming for the jVM'
+  title-short: Camelot and grail
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '29-46'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/ClericiZ04
+  type: paper-conference
+  author:
+  - family: Clerici
+    given: Silvia
+  - family: Zoltan
+    given: Cristina
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: A graphic functional-dataflow language
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '129-144'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/BrownLT10
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Christopher Brown
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: 'An expression processor: A case study in refactoring haskell programs'
+  title-short: An expression processor
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-49'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_3
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/GhaniUV04
+  type: paper-conference
+  author:
+  - family: Ghani
+    given: Neil
+  - family: Uustalu
+    given: Tarmo
+  - family: Vene
+    given: Varmo
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Generalizing the aUGMENT combinator
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '65-78'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/Trancon-y-Widemann13
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Total functional software engineering - overview paper
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_1
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/MichaelsonHS03
+  type: paper-conference
+  author:
+  - family: Michaelson
+    given: Greg
+  - family: Hammond
+    given: Kevin
+  - family: Sérot
+    given: Jocelyn
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: FSM-hume is finite state
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '19-28'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/Morazan11
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Functional video games in cS1 iI
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-162'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_10
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/BozoFHHKKT14
+  type: paper-conference
+  author:
+  - family: Bozó
+    given: István
+  - family: Fordós
+    given: Viktoria
+  - family: Horpácsi
+    given: Dániel
+  - family: Horváth
+    given: Zoltán
+  - family: Kozsik
+    given: Tamás
+  - family: Köszegi
+    given: Judit
+  - family: Tóth
+    given: Melinda
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Refactorings to enable parallelization
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-121'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_7
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/AljabriLT14
+  type: paper-conference
+  author:
+  - family: Aljabri
+    given: Malak
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Trinder
+    given: Phil
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Balancing shared and distributed heaps on nUMA architectures
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_1
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/Breitner14
+  type: paper-conference
+  author:
+  - family: Breitner
+    given: Joachim
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Call arity
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-50'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_3
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/BradyMH07
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  - family: McKinna
+    given: James
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: 'Constructing correct circuits: Verification of functional aspects of hardware
+    specifications with dependent types'
+  title-short: Constructing correct circuits
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '159-176'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/GuoTS09
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Jing
+  - family: Thiyagalingam
+    given: Jeyarajan
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Towards compiling sAC to cUDA
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '33-48'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/Fischer06
+  type: paper-conference
+  author:
+  - family: Fischer
+    given: Sebastian
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Resource-based web applications
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '181-197'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/HermanTF07
+  type: paper-conference
+  author:
+  - family: Herman
+    given: David
+  - family: Tomb
+    given: Aaron
+  - family: Flanagan
+    given: Cormac
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Space-efficient gradual typing
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-18'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/PtaszekM10
+  type: paper-conference
+  author:
+  - family: Ptaszek
+    given: Michal
+  - family: Malawski
+    given: Maciej
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: ComputErl - erlang-based framework for many task computing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-197'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_12
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/ConchonFS07
+  type: paper-conference
+  author:
+  - family: Conchon
+    given: Sylvain
+  - family: Filliâtre
+    given: Jean-Christophe
+  - family: Signoles
+    given: Julien
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Designing a generic graph library using mL functors
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '124-140'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/BradyHH08
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  - family: Herrmann
+    given: Christoph A.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Lightweight invariants with full dependent types
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '161-177'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/Faxen00
+  type: paper-conference
+  author:
+  - family: Faxén
+    given: Karl-Filip
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: The costs and benefits of cloning in a lazy functional language
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-12'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/RussellSR01
+  type: paper-conference
+  author:
+  - family: Russell
+    given: Dan
+  - family: Steinitz
+    given: Dominic
+  - family: Reade
+    given: Chris
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: 'Haskell: Language for business systems'
+  title-short: Haskell
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-12'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/GilrayM13
+  type: paper-conference
+  author:
+  - family: Gilray
+    given: Thomas
+  - family: Might
+    given: Matthew
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: A survey of polyvariance in abstract interpretations
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-148'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_9
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/BoisTL03
+  type: paper-conference
+  author:
+  - family: Bois
+    given: André Rauber Du
+  - family: Trinder
+    given: Philip W.
+  - family: Loidl
+    given: Hans-Wolfgang
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: Implementing mobile haskell
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '79-94'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/BrownGM00
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Deryck F.
+  - family: Garmendia-Doval
+    given: A. Beatriz
+  - family: McCall
+    given: John A. W.
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: 'A functional framework for the implementation of genetic algorithms: Comparing
+    haskell and standard mL'
+  title-short: A functional framework for the implementation of genetic algorithms
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '27-38'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/RossbergBTBS04
+  type: paper-conference
+  author:
+  - family: Rossberg
+    given: Andreas
+  - family: Botlan
+    given: Didier Le
+  - family: Tack
+    given: Guido
+  - family: Brunklaus
+    given: Thorsten
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Alice through the looking glass
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '79-95'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/MorazanTN01
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  - family: Troeger
+    given: Douglas R.
+  - family: Nash
+    given: Myles
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: Paging in a distributed virtual memory
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '75-86'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/Millikin05
+  type: paper-conference
+  author:
+  - family: Millikin
+    given: Kevin
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: A new approach to one-pass transformations
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '1-13'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/HarnieSM13
+  type: paper-conference
+  author:
+  - family: Harnie
+    given: Dries
+  - family: Scholliers
+    given: Christophe
+  - family: Meuter
+    given: Wolfgang De
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Blame prediction
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-106'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_6
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/FaddegonC14
+  type: paper-conference
+  author:
+  - family: Faddegon
+    given: Maarten
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Type generic observing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-103'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_6
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/KoopmanP05
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Generic generation of the elements of data types
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '163-178'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/JansenKP06
+  type: paper-conference
+  author:
+  - family: Jansen
+    given: Jan Martin
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Efficient interpretation by transforming data types and patterns to functions
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '73-90'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/2006
+  type: book
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2007'
+  title: Revised selected papers from the seventh symposium on trends in functional
+    programming, tFP 2006, nottingham, united kingdom, 19-21 april 2006
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/LoidlKHLT00
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Klusik
+    given: Ulrike
+  - family: Hammond
+    given: Kevin
+  - family: Loogen
+    given: Rita
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: 'GpH and eden: Comparing two parallel functional languages on a beowulf
+    cluster'
+  title-short: GpH and eden
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '39-52'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/Baker-Finch99
+  type: paper-conference
+  author:
+  - family: Baker-Finch
+    given: Clement A.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: An abstract machine for parallel lazy evaluation
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '154-160'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Grabmuller06
+  type: paper-conference
+  author:
+  - family: Grabmüller
+    given: Martin
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: A model of functional programming with dynamic compilation and optimization
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '145-161'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/KoopmanP06
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Systematic synthesis of functions
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '35-54'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/Yang99
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Jun
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Explaining type errors by finding the source of a type conflict
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '59-67'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/AntonT10
+  type: paper-conference
+  author:
+  - family: Anton
+    given: Konrad
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Typing coroutines
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-30'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_2
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/McAdam99
+  type: paper-conference
+  author:
+  - family: McAdam
+    given: Bruce J.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Generalising techniques for type debugging
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '50-58'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Gilmore99
+  type: paper-conference
+  author:
+  - family: Gilmore
+    given: Stephen
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: Deep type inference for mobile functions
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '41-49'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/SchrijversS08
+  type: paper-conference
+  author:
+  - family: Schrijvers
+    given: Tom
+  - family: Sulzmann
+    given: Martin
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Confluence for functional dependencies
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '49-64'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/Danilenko14
+  type: paper-conference
+  author:
+  - family: Danilenko
+    given: Nikita
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2014'
+  title: Graph problems and vector-matrix multiplications in haskell
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-67'
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1_4
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/DiogoG12
+  type: paper-conference
+  author:
+  - family: Diogo
+    given: Miguel
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Towards heterogeneous computing without heterogeneous programming
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-294'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_18
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Krustev12
+  type: paper-conference
+  author:
+  - family: Krustev
+    given: Dimitur Nikolaev
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Towards a framework for building formally verified supercompilers in coq
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-148'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_9
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/GronskiF07
+  type: paper-conference
+  author:
+  - family: Gronski
+    given: Jessica
+  - family: Flanagan
+    given: Cormac
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Unifying hybrid types and contracts
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '54-70'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/WideraB00
+  type: paper-conference
+  author:
+  - family: Widera
+    given: Manfred
+  - family: Beierle
+    given: Christoph
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Detecting common elements of types
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '173-184'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/HayashiC99
+  type: paper-conference
+  author:
+  - family: Hayashi
+    given: Yasushi
+  - family: Cole
+    given: Murray
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: BSP-based cost analysis of skeletal programs
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '20-28'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/Turner12
+  type: paper-conference
+  author:
+  - family: Turner
+    given: D. A.
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Some history of functional programming languages - (invited talk)
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_1
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/2007
+  type: book
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Proceedings of the eighth symposium on trends in functional programming,
+    tFP 2007, new york city, new york, uSA, april 2-4. 2007
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/SculthorpeN08
+  type: paper-conference
+  author:
+  - family: Sculthorpe
+    given: Neil
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Optimisation of dynamic, hybrid signal function networks
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '97-112'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/JeuringMH09
+  type: paper-conference
+  author:
+  - family: Jeuring
+    given: Johan
+  - family: Magalhães
+    given: José Pedro
+  - family: Heeren
+    given: Bastiaan
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Generic programming for domain reasoners
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '113-128'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/2000
+  type: book
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: Selected papers from the 2nd scottish functional programming workshop (sFP00),
+    university of st andrews, scotland, july 26th to 28th, 2000
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/SwierstraA08
+  type: paper-conference
+  author:
+  - family: Swierstra
+    given: Wouter
+  - family: Altenkirch
+    given: Thorsten
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Dependent types for distributed arrays
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '17-32'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/Asai05
+  type: paper-conference
+  author:
+  - family: Asai
+    given: Kenichi
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Logical relations for call-by-value delimited continuations
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '63-78'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/Widera03
+  type: paper-conference
+  author:
+  - family: Widera
+    given: Manfred
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2003'
+  title: Testing scheme programming assignments automatically
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '95-110'
+  volume: '4'
+  ISBN: '1-84150-122-0'
+
+- id: conf/sfp/AswadTZMB09
+  type: paper-conference
+  author:
+  - family: Aswad
+    given: Mustafa
+  - family: Trinder
+    given: Phil
+  - family: Zain
+    given: Abdallah Al
+  - family: Michaelson
+    given: Greg
+  - family: Berthold
+    given: Jost
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2009'
+  title: Low pain vs no pain multi-core haskells
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '49-64'
+  volume: '10'
+  ISBN: '978-1-84150-405-6'
+
+- id: conf/sfp/GijzelN12
+  type: paper-conference
+  author:
+  - family: Gijzel
+    given: Bas
+    dropping-particle: van
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Haskell gets argumentative
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-230'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_14
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/ChangHF10
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Stephen
+  - family: Horn
+    given: David Van
+  - family: Felleisen
+    given: Matthias
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Evaluating call-by-need on the control stack
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_1
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/DuboisHD04
+  type: paper-conference
+  author:
+  - family: Dubois
+    given: Catherine
+  - family: Hardin
+    given: Thérèse
+  - family: Donzeau-Gouge
+    given: Véronique
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2004'
+  title: Building certified components within fOCAL
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '33-48'
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/WideraB01
+  type: paper-conference
+  author:
+  - family: Widera
+    given: Manfred
+  - family: Beierle
+    given: Christoph
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '2001'
+  title: Function types in complete type inference
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '111-122'
+  volume: '3'
+  ISBN: '1-84150-070-4'
+
+- id: conf/sfp/BaaijK13
+  type: paper-conference
+  author:
+  - family: Baaij
+    given: Christiaan
+  - family: Kuper
+    given: Jan
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Using rewriting to synthesize functional languages to digital circuits
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-33'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_2
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/BertholdFHLSV11
+  type: paper-conference
+  author:
+  - family: Berthold
+    given: Jost
+  - family: Filinski
+    given: Andrzej
+  - family: Henglein
+    given: Fritz
+  - family: Larsen
+    given: Ken Friis
+  - family: Steffensen
+    given: Mogens
+  - family: Vinter
+    given: Brian
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Functional high performance financial iT
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-113'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_7
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/SilkensenS12
+  type: paper-conference
+  author:
+  - family: Silkensen
+    given: Erik
+  - family: Siek
+    given: Jeremy G.
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Well-typed islands parse faster
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-84'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_5
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Morazan13
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2013'
+  title: Bytecode and memoized closure performance
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-75'
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3_4
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/HammondDFHHJLMPSSW05
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Dyckhoff
+    given: Roy
+  - family: Ferdinand
+    given: Christian
+  - family: Heckmann
+    given: Reinhold
+  - family: '0001'
+    given: Martin Hofmann
+  - family: Jost
+    given: Steffen
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Michaelson
+    given: Greg
+  - family: Pointon
+    given: Robert F.
+  - family: Scaife
+    given: Norman
+  - family: Sérot
+    given: Jocelyn
+  - family: Wallace
+    given: Andy
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: The embounded project (project start paper)
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '195-210'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/FerreiroJCH12
+  type: paper-conference
+  author:
+  - family: Ferreiro
+    given: Henrique
+  - family: Janjic
+    given: Vladimir
+  - family: Castro
+    given: Laura M.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: 'Repeating history: Execution replay for parallel haskell programs'
+  title-short: Repeating history
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-246'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_15
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Lindblad07
+  type: paper-conference
+  author:
+  - family: Lindblad
+    given: Fredrik
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Property directed generation of first-order test data
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '105-123'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/Leijen05
+  type: paper-conference
+  author:
+  - family: Leijen
+    given: Daan
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Extensible records with scoped labels
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '179-194'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/CapperN10
+  type: paper-conference
+  author:
+  - family: Capper
+    given: John
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Static balance checking for first-class modular systems of equations
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-65'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_4
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/LoitschS07
+  type: paper-conference
+  author:
+  - family: Loitsch
+    given: Florian
+  - family: Serrano
+    given: Manuel
+  editor:
+  - family: Morazán
+    given: Marco T.
+  issued:
+  - year: '2007'
+  title: Hop client-side compilation
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '141-158'
+  volume: '8'
+  ISBN: '978-1-84150-196-3'
+
+- id: conf/sfp/2013
+  type: book
+  editor:
+  - family: McCarthy
+    given: Jay
+  issued:
+  - year: '2014'
+  title: Trends in functional programming - 14th international symposium, tFP 2013,
+    provo, uT, uSA, may 14-16, 2013, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8322'
+  DOI: 10.1007/978-3-642-45340-3
+  ISBN: '978-3-642-45339-7'
+
+- id: conf/sfp/Komendantsky12
+  type: paper-conference
+  author:
+  - family: Komendantsky
+    given: Vladimir
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Matching problem for regular expressions with variables
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-166'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_10
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/BrownLH11
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Christopher
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: 'ParaForming: Forming parallel haskell programs using novel refactoring
+    techniques'
+  title-short: ParaForming
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-97'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_6
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/LuoC06
+  type: paper-conference
+  author:
+  - family: Luo
+    given: Yong
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: Proving the correctness of algorithmic debugging for functional programs
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '19-34'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+
+- id: conf/sfp/StewartTM12
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: Robert J.
+  - family: Trinder
+    given: Phil
+  - family: Maier
+    given: Patrick
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Supervised workpools for reliable massively parallel computing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-262'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_16
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/Serot00
+  type: paper-conference
+  author:
+  - family: Sérot
+    given: Jocelyn
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: 'CAMLFLOW: A cAML to data-flow graph translator'
+  title-short: CAMLFLOW
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '129-144'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/ClericiZP10
+  type: paper-conference
+  author:
+  - family: Clerici
+    given: Silvia
+  - family: Zoltan
+    given: Cristina
+  - family: Prestigiacomo
+    given: Guillermo
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: 'Graphical and incremental type inference: A graph transformation approach'
+  title-short: Graphical and incremental type inference
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '66-83'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_5
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/Morazan10
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Functional video games in the cS1 classroom
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-183'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_11
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/2014
+  type: book
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2015'
+  title: Trends in functional programming - 15th international symposium, tFP 2014,
+    soesterberg, the netherlands, may 26-28, 2014. revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8843'
+  DOI: 10.1007/978-3-319-14675-1
+  ISBN: '978-3-319-14674-4'
+
+- id: conf/sfp/Schilling11
+  type: paper-conference
+  author:
+  - family: Schilling
+    given: Thomas
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Constraint-free type error slicing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '7193'
+  DOI: 10.1007/978-3-642-32037-8_1
+  ISBN: '978-3-642-32036-1'
+
+- id: conf/sfp/Hidalgo-HerreroO00
+  type: paper-conference
+  author:
+  - family: Hidalgo-Herrero
+    given: Mercedes
+  - family: Ortega-Mallén
+    given: Yolanda
+  editor:
+  - family: Gilmore
+    given: Stephen
+  issued:
+  - year: '2000'
+  title: A distributed operational semantics for a parallel functional language
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '89-102'
+  volume: '2'
+  ISBN: '1-84150-058-5'
+
+- id: conf/sfp/MiddelkoopDS08
+  type: paper-conference
+  author:
+  - family: Middelkoop
+    given: Arie
+  - family: Dijkstra
+    given: Atze
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: A leaner specification for gADTs
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '65-80'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/2010
+  type: book
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2011'
+  title: Trends in functional programming - 11th international symposium, tFP 2010,
+    norman, oK, uSA, may 17-19, 2010. revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/GhaniJ08
+  type: paper-conference
+  author:
+  - family: Ghani
+    given: Neil
+  - family: Johann
+    given: Patricia
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Short cut fusion for effects
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '113-128'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/GillBFKK10
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andy
+  - family: Bull
+    given: Tristan
+  - family: Farmer
+    given: Andrew
+  - family: Kimmell
+    given: Garrin
+  - family: Komp
+    given: Ed
+  editor:
+  - family: Page
+    given: Rex L.
+  issued:
+  - year: '2010'
+  title: Types and type families for hardware simulation and synthesis - the internals
+    and externals of kansas lava
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-133'
+  volume: '6546'
+  DOI: 10.1007/978-3-642-22941-1_8
+  ISBN: '978-3-642-22940-4'
+
+- id: conf/sfp/TamaletSE08
+  type: paper-conference
+  author:
+  - family: Tamalet
+    given: Alejandro
+  - family: Shkaravska
+    given: Olha
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: Size analysis of algebraic data type
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '33-48'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/SmetsersE12
+  type: paper-conference
+  author:
+  - family: Smetsers
+    given: Sjaak
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2012'
+  title: Higher-order strictness typing
+  container-title: Trends in functional programming
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-100'
+  volume: '7829'
+  DOI: 10.1007/978-3-642-40447-4_6
+  ISBN: '978-3-642-40446-7'
+
+- id: conf/sfp/GuillemetteM08
+  type: paper-conference
+  author:
+  - family: Guillemette
+    given: Louis-Julien
+  - family: Monnier
+    given: Stefan
+  editor:
+  - family: Achten
+    given: Peter
+  issued:
+  - year: '2008'
+  title: One vote for type families in haskell!
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '81-96'
+  volume: '9'
+  ISBN: '978-1-84150-277-9'
+
+- id: conf/sfp/BakerJK99
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Paul
+  - family: Jervis
+    given: Clive
+  - family: King
+    given: David J.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '1999'
+  title: 'An industrial use of fP: A tool for generating test scripts from system
+    specifications'
+  title-short: An industrial use of fP
+  container-title: Scottish functional programming workshop
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '126-134'
+  volume: '1'
+  ISBN: '1-84150-024-0'
+
+- id: conf/sfp/UustaluV05
+  type: paper-conference
+  author:
+  - family: Uustalu
+    given: Tarmo
+  - family: Vene
+    given: Varmo
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+  title: Comonadic functional attribute evaluation
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '145-162'
+  volume: '6'
+  ISBN: '978-1-84150-176-5'
+
+- id: conf/sfp/2004
+  type: book
+  editor:
+  - family: Loidl
+    given: Hans-Wolfgang
+  issued:
+  - year: '2006'
+  title: Revised selected papers from the fifth symposium on trends in functional
+    programming, tFP 2004, münchen, germany, 25-26 november 2004
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  volume: '5'
+  ISBN: '1-84150-144-1'
+
+- id: conf/sfp/Nogueira06
+  type: paper-conference
+  author:
+  - family: Nogueira
+    given: Pablo
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2006'
+  title: When is an abstract data type a functor?
+  container-title: Trends in functional programming
+  collection-title: Trends in functional programming
+  publisher: Intellect
+  page: '217-231'
+  volume: '7'
+  ISBN: '978-1-84150-188-8'
+...

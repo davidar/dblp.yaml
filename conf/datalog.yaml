@@ -1,0 +1,953 @@
+---
+references:
+- id: conf/datalog/Lifschitz10
+  type: paper-conference
+  author:
+  - family: Lifschitz
+    given: Vladimir
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Datalog programs and their stable models
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-87'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_5
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/FebbraroGLRR12
+  type: paper-conference
+  author:
+  - family: Febbraro
+    given: Onofrio
+  - family: '0001'
+    given: Giovanni Grasso
+  - family: Leone
+    given: Nicola
+  - family: Reale
+    given: Kristian
+  - family: Ricca
+    given: Francesco
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Datalog development tools - (extended abstract)
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-85'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_9
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Dahl10
+  type: paper-conference
+  author:
+  - family: Dahl
+    given: Verónica
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Informing datalog through language intelligence - a personal perspective
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-180'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_10
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/GardeziB12
+  type: paper-conference
+  author:
+  - family: Gardezi
+    given: Jaffer
+  - family: Bertossi
+    given: Leopoldo E.
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Query rewriting using datalog for duplicate resolution
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-98'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_10
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Gurevich12
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: 'Datalog: A perspective and the potential'
+  title-short: Datalog
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-20'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_2
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/AbiteboulBGR10
+  type: paper-conference
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Bienvenu
+    given: Meghyn
+  - family: Galland
+    given: Alban
+  - family: Rousset
+    given: Marie-Christine
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Distributed datalog revisited
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '252-261'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_15
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Zaniolo12
+  type: paper-conference
+  author:
+  - family: Zaniolo
+    given: Carlo
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Logical foundations of continuous query languages for data streams
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-189'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_18
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Mugnier12
+  type: paper-conference
+  author:
+  - family: Mugnier
+    given: Marie-Laure
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: 'Existential rules: A graph-based view - (extended abstract)'
+  title-short: Existential rules
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-26'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_3
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/CiviliR12
+  type: paper-conference
+  author:
+  - family: Civili
+    given: Cristina
+  - family: Rosati
+    given: Riccardo
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: A broad class of first-order rewritable tuple-generating dependencies
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-80'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_8
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/GreenAK12
+  type: paper-conference
+  author:
+  - family: Green
+    given: Todd J.
+  - family: Aref
+    given: Molham
+  - family: Karvounarakis
+    given: Grigoris
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: 'LogicBlox, platform and language: A tutorial'
+  title-short: LogicBlox, platform and language
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_1
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/RitterW12
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Daniel Ritter
+  - family: Westmann
+    given: Till
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Business network reconstruction using datalog
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-152'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_15
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Pichler10
+  type: paper-conference
+  author:
+  - family: Pichler
+    given: Reinhard
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Exploiting bounded treewidth with datalog (a survey)
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-105'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_6
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/AlvianoLMTV12
+  type: paper-conference
+  author:
+  - family: Alviano
+    given: Mario
+  - family: Leone
+    given: Nicola
+  - family: Manna
+    given: Marco
+  - family: Terracina
+    given: Giorgio
+  - family: Veltri
+    given: Pierfrancesco
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Magic-sets for datalog with existential quantifiers
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-43'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_5
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/OrsiT10
+  type: paper-conference
+  author:
+  - family: Orsi
+    given: Giorgio
+  - family: Tanca
+    given: Letizia
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Context modelling and context-aware querying - (can datalog be of help?)
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '225-244'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_13
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Dao-TranEFK10
+  type: paper-conference
+  author:
+  - family: Dao-Tran
+    given: Minh
+  - family: Eiter
+    given: Thomas
+  - family: Fink
+    given: Michael
+  - family: Krennwallner
+    given: Thomas
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: First-order encodings for modular nonmonotonic datalog programs
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-77'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_4
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/AlvaroMCHMS10
+  type: paper-conference
+  author:
+  - family: Alvaro
+    given: Peter
+  - family: Marczak
+    given: William R.
+  - family: Conway
+    given: Neil
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Maier
+    given: David
+  - family: Sears
+    given: Russell
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: 'Dedalus: Datalog in time and space'
+  title-short: Dedalus
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '262-281'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_16
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/2012
+  type: book
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Datalog in academia and industry - second international workshop, datalog
+    2.0, vienna, austria, september 11-13, 2012. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/ShawKHS12
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: Marianne
+  - family: Koutris
+    given: Paraschos
+  - family: Howe
+    given: Bill
+  - family: Suciu
+    given: Dan
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Optimizing large-scale semi-naïve datalog evaluation in hadoop
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-176'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_17
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Polleres12
+  type: paper-conference
+  author:
+  - family: Polleres
+    given: Axel
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: How (well) do datalog, sPARQL and rIF interplay?
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-30'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_4
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/LukasiewiczMS12
+  type: paper-conference
+  author:
+  - family: Lukasiewicz
+    given: Thomas
+  - family: Martinez
+    given: Maria Vanina
+  - family: Simari
+    given: Gerardo I.
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Inconsistency-tolerant query rewriting for linear datalog+/-
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-134'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_13
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Costantini10
+  type: paper-conference
+  author:
+  - family: Costantini
+    given: Stefania
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Answer set modules for logical agents
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-58'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_3
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Gelfond10
+  type: paper-conference
+  author:
+  - family: Gelfond
+    given: Michael
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Knowledge representation language p-log - a short introduction
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '369-383'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_21
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/SaccaS12
+  type: paper-conference
+  author:
+  - family: Saccà
+    given: Domenico
+  - family: Serra
+    given: Edoardo
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Data exchange in datalog is mainly a matter of choice
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-164'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_16
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/AfratiBCPU10
+  type: paper-conference
+  author:
+  - family: Afrati
+    given: Foto N.
+  - family: Borkar
+    given: Vinayak R.
+  - family: Carey
+    given: Michael J.
+  - family: Polyzotis
+    given: Neoklis
+  - family: Ullman
+    given: Jeffrey D.
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Cluster computing, recursion and datalog
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-144'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_8
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/AlvianoFLPPT10
+  type: paper-conference
+  author:
+  - family: Alviano
+    given: Mario
+  - family: Faber
+    given: Wolfgang
+  - family: Leone
+    given: Nicola
+  - family: Perri
+    given: Simona
+  - family: Pfeifer
+    given: Gerald
+  - family: Terracina
+    given: Giorgio
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: The disjunctive datalog system dLV
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '282-301'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_17
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/MagnaniM10
+  type: paper-conference
+  author:
+  - family: Magnani
+    given: Matteo
+  - family: Montesi
+    given: Danilo
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: 'Datalog for the web 2.0: The case of social network data management'
+  title-short: Datalog for the web 2.0
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-224'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_12
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/MaluszynskiS10
+  type: paper-conference
+  author:
+  - family: Maluszynski
+    given: Jan
+  - family: Szalas
+    given: Andrzej
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Living with inconsistency and taming nonmonotonicity
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '384-398'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_22
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Brass12
+  type: paper-conference
+  author:
+  - family: Brass
+    given: Stefan
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Order in datalog with applications to declarative output
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-67'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_7
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Bonatti10
+  type: paper-conference
+  author:
+  - family: Bonatti
+    given: Piero A.
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Datalog for security, privacy and trust
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-36'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_2
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/EisnerF10
+  type: paper-conference
+  author:
+  - family: Eisner
+    given: Jason
+  - family: Filardo
+    given: Nathaniel Wesley
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: 'Dyna: Extending datalog for modern aI'
+  title-short: Dyna
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-220'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_11
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/ArenasBR10
+  type: paper-conference
+  author:
+  - family: Arenas
+    given: Marcelo
+  - family: Barceló
+    given: Pablo
+  - family: Reutter
+    given: Juan L.
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Datalog as a query language for data exchange systems
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '302-320'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_18
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/MarczakACHM12
+  type: paper-conference
+  author:
+  - family: Marczak
+    given: William R.
+  - family: Alvaro
+    given: Peter
+  - family: Conway
+    given: Neil
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Maier
+    given: David
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: 'Confluence analysis for distributed programs: A model-theoretic approach'
+  title-short: Confluence analysis for distributed programs
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-147'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_14
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/SmaragdakisB10
+  type: paper-conference
+  author:
+  - family: Smaragdakis
+    given: Yannis
+  - family: Bravenboer
+    given: Martin
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Using datalog for fast and easy program analysis
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '245-251'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_14
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/AmelootB12
+  type: paper-conference
+  author:
+  - family: Ameloot
+    given: Tom J.
+  - family: Bussche
+    given: Jan Van
+    dropping-particle: den
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: On the cRON conjecture
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-55'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_6
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/Baumgartner10
+  type: paper-conference
+  author:
+  - family: Baumgartner
+    given: Robert
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Datalog-related aspects in lixto visual developer
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-160'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_9
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/KohlerLS12
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Sven Köhler
+  - family: Ludäscher
+    given: Bertram
+  - family: Smaragdakis
+    given: Yannis
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Declarative datalog debugging for mere mortals
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-122'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_12
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/2010
+  type: book
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2011'
+  title: Datalog reloaded - first international workshop, datalog 2010, oxford, uK,
+    march 16-19, 2010. revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/CaliGLP10
+  type: paper-conference
+  author:
+  - family: Calì
+    given: Andrea
+  - family: Gottlob
+    given: Georg
+  - family: Lukasiewicz
+    given: Thomas
+  - family: Pieris
+    given: Andreas
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: 'Datalog+/-: A family of languages for ontology querying'
+  title-short: Datalog+/-
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '351-368'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_20
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Interlandi12
+  type: paper-conference
+  author:
+  - family: Interlandi
+    given: Matteo
+  editor:
+  - family: Barceló
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Reasoning about knowledge in distributed systems using datalog
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '99-110'
+  volume: '7494'
+  DOI: 10.1007/978-3-642-32925-8_11
+  ISBN: '978-3-642-32924-1'
+
+- id: conf/datalog/BryFLMLS10
+  type: paper-conference
+  author:
+  - family: Bry
+    given: François
+  - family: Furche
+    given: Tim
+  - family: Ley
+    given: Clemens
+  - family: Marnette
+    given: Bruno
+  - family: Linse
+    given: Benedikt
+  - family: Schaffert
+    given: Sebastian
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: 'Datalog relaunched: Simulation unification and value invention'
+  title-short: Datalog relaunched
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '321-350'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_19
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/AlpuenteFJV10
+  type: paper-conference
+  author:
+  - family: Alpuente
+    given: María
+  - family: Feliú
+    given: Marco Antonio
+  - family: Joubert
+    given: Christophe
+  - family: Villanueva
+    given: Alicia
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Datalog-based program analysis with bES and rWL
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_1
+  ISBN: '978-3-642-24205-2'
+
+- id: conf/datalog/Woltran10
+  type: paper-conference
+  author:
+  - family: Woltran
+    given: Stefan
+  editor:
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  issued:
+  - year: '2010'
+  title: Equivalence between extended datalog programs - a brief survey
+  container-title: Datalog
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '106-119'
+  volume: '6702'
+  DOI: 10.1007/978-3-642-24206-9_7
+  ISBN: '978-3-642-24205-2'
+...

@@ -1,0 +1,793 @@
+---
+references:
+- id: conf/tex/Schaefer04
+  type: paper-conference
+  author:
+  - family: Schaefer
+    given: Frank-Rene
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'SäferTEX: Source code esthetics for automated typesetting'
+  title-short: SäferTEX
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-239'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_18
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Rohrich86
+  type: paper-conference
+  author:
+  - family: Röhrich
+    given: Johannes
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: Abstract markup in tEX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-160'
+  volume: '236'
+  DOI: 10.1007/BFb0022701
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Likos04
+  type: paper-conference
+  author:
+  - family: Likos
+    given: Johannis
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'Μovo2polv: Java-based conversion of monotonic to polytonic greek'
+  title-short: Μovo2polv
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-54'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_4
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Ferguson86a
+  type: paper-conference
+  author:
+  - family: Ferguson
+    given: Michael J.
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'INRSTÊX: A document preparation system for multiple languages'
+  title-short: INRSTÊX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-88'
+  volume: '236'
+  DOI: 10.1007/BFb0022694
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/EddahibiLS04
+  type: paper-conference
+  author:
+  - family: Eddahibi
+    given: Mustapha
+  - family: Lazrek
+    given: Azzeddine
+  - family: Sami
+    given: Khalid
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Dynamic arabic mathematical fonts
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-157'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_11
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Southall86
+  type: paper-conference
+  author:
+  - family: Southall
+    given: Richard
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: Designing a new typeface with mETAFONT
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-179'
+  volume: '236'
+  DOI: 10.1007/BFb0022702
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Bruggemann-KleinDH86
+  type: paper-conference
+  author:
+  - family: Brüggemann-Klein
+    given: Anne
+  - family: Dolland
+    given: Peter
+  - family: Heinz
+    given: Alois
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'How to please authors and publishers: A versatile document preparation
+    system at karlsruhe'
+  title-short: How to please authors and publishers
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-31'
+  volume: '236'
+  DOI: 10.1007/BFb0022689
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Beesley04
+  type: paper-conference
+  author:
+  - family: Beesley
+    given: Kenneth R.
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Typesetting the deseret alphabet with laTeX and mETAFONT
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-111'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_7
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/LoverdosS04
+  type: paper-conference
+  author:
+  - family: Loverdos
+    given: Christos K. K.
+  - family: Syropoulos
+    given: Apostolos
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'Digital typography in the new millennium: Flexible documents by a flexible
+    engine'
+  title-short: Digital typography in the new millennium
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_1
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/ChenCHMP86
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Pehong
+  - family: Coker
+    given: John
+  - family: Harrison
+    given: Michael A.
+  - family: McCarrell
+    given: Jeffrey W.
+  - family: Procter
+    given: Steve
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: The vORTEX document preparation environment
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-54'
+  volume: '236'
+  DOI: 10.1007/BFb0022691
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Hufflen04
+  type: paper-conference
+  author:
+  - family: Hufflen
+    given: Jean-Michel
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'MlBibTEX: Beyond lATEX'
+  title-short: MlBibTEX
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-215'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_16
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/BzylP04
+  type: paper-conference
+  author:
+  - family: Bzyl
+    given: Wlodzimierz
+  - family: Przechlewski
+    given: Tomasz
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'Migrating to xML: The case of the gUST bulletin archive'
+  title-short: Migrating to xML
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-178'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_13
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Gallot86
+  type: paper-conference
+  author:
+  - family: Gallot
+    given: Laurence
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'ASHTEX: An interactive previewer for tEX or the marvellous world of aSHTEX'
+  title-short: ASHTEX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-97'
+  volume: '236'
+  DOI: 10.1007/BFb0022695
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Piska04
+  type: paper-conference
+  author:
+  - family: Píska
+    given: Karel
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Creating type 1 fonts from mETAFONT sources
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '240-256'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_19
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/CrisantiFB86
+  type: paper-conference
+  author:
+  - family: Crisanti
+    given: Ester
+  - family: Formigoni
+    given: Alberto
+  - family: Bruna
+    given: Paco La
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'EasyTEX: Towards interactive formulae input for scientific documents input
+    with tEX'
+  title-short: EasyTEX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-64'
+  volume: '236'
+  DOI: 10.1007/BFb0022692
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/PennyH86
+  type: paper-conference
+  author:
+  - family: Penny
+    given: Philippe
+  - family: Henriot
+    given: Jean-Louis
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: Integrating tEX in an eDDS with very high resolution capabilities
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-135'
+  volume: '236'
+  DOI: 10.1007/BFb0022698
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Williams04
+  type: paper-conference
+  author:
+  - family: Williams
+    given: George
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Beyond glyphs, advanced typographic features of fonts
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '257-264'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_20
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Przechlewski04
+  type: paper-conference
+  author:
+  - family: Przechlewski
+    given: Tomasz
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Managing tEX resources with xML topic maps.
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-228'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_17
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Padovani04
+  type: paper-conference
+  author:
+  - family: Padovani
+    given: Luca
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Interactive editing of mathML markup using tEX syntax
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-138'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_9
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Wonneberger86
+  type: paper-conference
+  author:
+  - family: Wonneberger
+    given: Reinhard
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: “Verheißung und versprechen”, a third generation approach to theological
+    typesetting
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-198'
+  volume: '236'
+  DOI: 10.1007/BFb0022703
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/ChenHMCP86
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Pehong
+  - family: Harrison
+    given: Michael A.
+  - family: McCarrell
+    given: Jeffrey W.
+  - family: Coker
+    given: John
+  - family: Procter
+    given: Steve
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: An improved user environment for tEX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-44'
+  volume: '236'
+  DOI: 10.1007/BFb0022690
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Goncalves04
+  type: paper-conference
+  author:
+  - family: Gonçalves
+    given: Luis Nobre
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: FEATPOST and a review of 3D mETAPOST packages
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-124'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_8
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Appelt86
+  type: paper-conference
+  author:
+  - family: Appelt
+    given: Wolfgang
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: Running tEX in an interactive text processing environment
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '236'
+  DOI: 10.1007/BFb0022688
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/HolecekS04
+  type: paper-conference
+  author:
+  - family: Holecek
+    given: Jan
+  - family: Sojka
+    given: Petr
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Animations in pdfTEX-generated pDF
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-191'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_14
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/EddahibiLS04a
+  type: paper-conference
+  author:
+  - family: Eddahibi
+    given: Mustapha
+  - family: Lazrek
+    given: Azzeddine
+  - family: Sami
+    given: Khalid
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Arabic mathematical e-documents
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-168'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_12
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/AthaleA04
+  type: paper-conference
+  author:
+  - family: Athale
+    given: Manasi
+  - family: Athale
+    given: Rahul
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Using laTeX to typeset a marathi-english dictionary
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-58'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_5
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/Lucarella86
+  type: paper-conference
+  author:
+  - family: Lucarella
+    given: Dario
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: Retrieving mathematical formulae
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-130'
+  volume: '236'
+  DOI: 10.1007/BFb0022697
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Ferguson86
+  type: paper-conference
+  author:
+  - family: Ferguson
+    given: Michael J.
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: A multilingual tÊX
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-73'
+  volume: '236'
+  DOI: 10.1007/BFb0022693
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/1986
+  type: book
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: TEX for scientific documentation, second european conference, strasbourg,
+    france, june 19-21, 1986, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '236'
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Laurens04
+  type: paper-conference
+  author:
+  - family: Laurens
+    given: Jérôme
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'ITEXMac: An integrated tEX environment for mac oS x'
+  title-short: ITEXMac
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-202'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_15
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/QuintVB86
+  type: paper-conference
+  author:
+  - family: Quint
+    given: Vincent
+  - family: Vatton
+    given: Irène
+  - family: Bedor
+    given: Hassan
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'GRIF: An interactive environment for tEX'
+  title-short: GRIF
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-158'
+  volume: '236'
+  DOI: 10.1007/BFb0022700
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Petersen86
+  type: paper-conference
+  author:
+  - family: Petersen
+    given: Heinz W.
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: 'The tEX-based document factory in a university environment: Process model,
+    implementation steps, experiences'
+  title-short: The tEX-based document factory in a university environment
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-144'
+  volume: '236'
+  DOI: 10.1007/BFb0022699
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/Filippou04
+  type: paper-conference
+  author:
+  - family: Filippou
+    given: Dimitrios
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Hyphenation patterns for ancient and modern greek
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-67'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_6
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/VanT86
+  type: paper-conference
+  author:
+  - family: Van
+    given: Huu Le
+  - family: Terreni
+    given: Elisa
+  editor:
+  - family: Désarménien
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: A language to describe formatting directives for sGML documents
+  container-title: TEX for scientific documentation
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-119'
+  volume: '236'
+  DOI: 10.1007/BFb0022696
+  ISBN: '3-540-16807-9'
+
+- id: conf/tex/AriasLA04
+  type: paper-conference
+  author:
+  - family: Arias
+    given: Jagoba
+  - family: Lázaro
+    given: Jesús
+  - family: Aguirregabiria
+    given: Juan M.
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: 'Basque: A case study in generalizing laTeX language support'
+  title-short: Basque
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-33'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_3
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/ChoO04
+  type: paper-conference
+  author:
+  - family: Cho
+    given: Jin-Hwan
+  - family: Okumura
+    given: Haruhiko
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Typesetting cJK languages with omega
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-148'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_10
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/PlaiceHSB04
+  type: paper-conference
+  author:
+  - family: Plaice
+    given: John
+  - family: Haralambous
+    given: Yannis
+  - family: Swoboda
+    given: Paul
+  - family: Bella
+    given: Gábor
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: Moving omega to an object-oriented platform
+  container-title: TEX, xML, and digital typography
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-26'
+  volume: '3130'
+  DOI: 10.1007/978-3-540-27773-6_2
+  ISBN: '3-540-22801-2'
+
+- id: conf/tex/2004
+  type: book
+  editor:
+  - family: Syropoulos
+    given: Apostolos
+  issued:
+  - year: '2004'
+  title: TeX, xML, and digital typography, international conference on teX, xML, and
+    digital typography, held jointly with the 25th annual meeting of the teX users
+    group, tUG 2004, xanthi, greece, august 30 - september 3, 2004, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3130'
+  ISBN: '3-540-22801-2'
+...

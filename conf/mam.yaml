@@ -1,0 +1,512 @@
+---
+references:
+- id: conf/mam/Jakob14
+  type: paper-conference
+  author:
+  - family: Jakob
+    given: Wenzel
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: Linear transport theory and applications to rendering
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '19-20'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141295
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/WeinmannK15
+  type: paper-conference
+  author:
+  - family: Weinmann
+    given: Michael
+  - family: Klein
+    given: Reinhard
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: A short survey on optical material recognition
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151202
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/BrokWK15
+  type: paper-conference
+  author:
+  - family: Brok
+    given: Dennis
+    dropping-particle: den
+  - family: Weinmann
+    given: Michael
+  - family: Klein
+    given: Reinhard
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: Linear models for material bTFs and possible applications
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151198
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/BelcourBP14
+  type: paper-conference
+  author:
+  - family: Belcour
+    given: Laurent
+  - family: Barla
+    given: Pascal
+  - family: Pacanowski
+    given: Romain
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: 'ALTA: A bRDF analysis library'
+  title-short: ALTA
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '9-13'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141293
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/FuchsKGME13
+  type: paper-conference
+  author:
+  - family: Fuchs
+    given: Martin
+  - family: Koch
+    given: Sebastian
+  - family: Gieseke
+    given: Lena
+  - family: Mozer
+    given: Florian
+  - family: Eberhardt
+    given: Bernhard
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: Towards a practical gamut of appearance acquisition
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '21-23'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.021-023
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/SchroderZ13
+  type: paper-conference
+  author:
+  - family: Schröder
+    given: Kai
+  - family: Zinke
+    given: Arno
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: Interactive appearance design in the presence of optically complex
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '13-16'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.013-016
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/BarlaBP15
+  type: paper-conference
+  author:
+  - family: Barla
+    given: Pascal
+  - family: Belcour
+    given: Laurent
+  - family: Pacanowski
+    given: Romain
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: In praise of an alternative bRDF parametrization
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151197
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/SchwartzSWK13
+  type: paper-conference
+  author:
+  - family: Schwartz
+    given: Christopher
+  - family: Sarlette
+    given: Ralf
+  - family: Weinmann
+    given: Michael
+  - family: Klein
+    given: Reinhard
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: 'DOME iI: A parallelized bTF acquisition system'
+  title-short: DOME iI
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '25-31'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.025-031
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/MullerL15
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Gero
+  - family: Lamy
+    given: Francis
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: Proposal for an appearance exchange format
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151196
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/Apian-Bennewitz14
+  type: paper-conference
+  author:
+  - family: Apian-Bennewitz
+    given: Peter
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: Scanning gonio-photometers for asymmetric acquisition of fine-structured
+    bSDF
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '1-4'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141291
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/RuitersK13
+  type: paper-conference
+  author:
+  - family: Ruiters
+    given: Roland
+  - family: Klein
+    given: Reinhard
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: 'BTF-based material representations: Current challenges'
+  title-short: BTF-based material representations
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '17-20'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.017-020
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/NielsenEKWFCA15
+  type: paper-conference
+  author:
+  - family: Nielsen
+    given: Jannik Boll
+  - family: Eiríksson
+    given: Eyþór Rúnar
+  - family: Kristensen
+    given: Rasmus Lyngby
+  - family: Wilm
+    given: Jakob
+  - family: Frisvad
+    given: Jeppe Revall
+  - family: Conradsen
+    given: Knut
+  - family: Aanæs
+    given: Henrik
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: Quality assurance based on descriptive and parsimonious appearance models
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151199
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/EllensML13
+  type: paper-conference
+  author:
+  - family: Ellens
+    given: Marc
+  - family: Müller
+    given: Gero
+  - family: Lamy
+    given: Francis
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: From color to appearance in the real world
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '7-10'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.007-010
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/SchregleDSG13
+  type: paper-conference
+  author:
+  - family: Schregle
+    given: Roland
+  - family: Denk
+    given: Cornelia
+  - family: Slusallek
+    given: Philipp
+  - family: Glencross
+    given: Mashhuda
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: 'Grand challenges: Material models in the automotive industry'
+  title-short: Grand challenges
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '1-6'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.001-006
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/Meyer14
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Gary W.
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: The role of visual comparison testing in material appearance modeling
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '21-24'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141296
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/Havran15
+  type: paper-conference
+  author:
+  - family: Havran
+    given: Vlastimil
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: Geometric accuracy analysis of stationary bTF gonioreflectometers
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151200
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/Rushmeier14
+  type: paper-conference
+  author:
+  - family: Rushmeier
+    given: Holly E.
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: The mAM2014 sample set
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '25-26'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141297
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/WeidlichM13
+  type: paper-conference
+  author:
+  - family: Weidlich
+    given: Andrea
+  - family: Meseth
+    given: Jan
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: Material modeling with physical constraints
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '11-12'
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  DOI: 10.2312/MAM.MAM2013.011-012
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/HavranS14
+  type: paper-conference
+  author:
+  - family: Havran
+    given: Vlastimil
+  - family: Sbert
+    given: Mateu
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: Statistical characterization of surface reflectance
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '15-18'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141294
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/WardKB14
+  type: paper-conference
+  author:
+  - family: Ward
+    given: Greg
+  - family: Kurt
+    given: Murat
+  - family: Bonneel
+    given: Nicolas
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: Reducing anisotropic bSDF measurement to common practice
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  page: '5-8'
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  DOI: 10.2312/mam.20141292
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/HolzschuchP15
+  type: paper-conference
+  author:
+  - family: Holzschuch
+    given: Nicolas
+  - family: Pacanowski
+    given: Romain
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: Identifying diffraction effects in measured reflectances
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151201
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/2013
+  type: book
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2013'
+  title: 'Eurographics workshop on material appearance modeling: Issues and acquisition,
+    mAM 2013, zaragoza, spain, june 19, 2013'
+  title-short: Eurographics workshop on material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/2585
+  ISBN: '978-3-905674-48-4'
+
+- id: conf/mam/2014
+  type: book
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2014'
+  title: 'Eurographics workshop on material appearance modeling: Issues and acquisition,
+    mAM 2014, lyon, france, june 25, 2014'
+  title-short: Eurographics workshop on material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/7759
+  ISBN: '978-3-905674-64-4'
+
+- id: conf/mam/2015
+  type: book
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: 'Eurographics workshop on material appearance modeling: Issues and acquisition,
+    mAM 2015, darmstadt, germany, june 23, 2015'
+  title-short: Eurographics workshop on material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  ISBN: '978-3-905674-83-5'
+
+- id: conf/mam/KettnerRSJK15
+  type: paper-conference
+  author:
+  - family: Kettner
+    given: Lutz
+  - family: Raab
+    given: Matthias
+  - family: Seibert
+    given: Daniel
+  - family: Jordan
+    given: Jan
+  - family: Keller
+    given: Alexander
+  editor:
+  - family: Klein
+    given: Reinhard
+  issued:
+  - year: '2015'
+  title: The material definition language
+  container-title: Material appearance modeling
+  publisher: Eurographics Association
+  URL: http://diglib.eg.org/handle/10.2312/13212
+  DOI: 10.2312/mam.20151195
+  ISBN: '978-3-905674-83-5'
+...

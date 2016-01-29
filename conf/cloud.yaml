@@ -1,0 +1,5238 @@
+---
+references:
+- id: conf/cloud/BjornssonCSV13
+  type: paper-conference
+  author:
+  - family: Bjornsson
+    given: Hjortur
+  - family: Chockler
+    given: Gregory
+  - family: Saemundsson
+    given: Trausti
+  - family: Vigfusson
+    given: Ymir
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Dynamic performance profiling of cloud caches
+  container-title: SoCC
+  publisher: ACM
+  page: 59:1-59:2
+  URL: http://doi.acm.org/10.1145/2523616.2527081
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LuSKX15
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Hui
+  - family: Saltaformaggio
+    given: Brendan
+  - family: Kompella
+    given: Ramana Rao
+  - family: Xu
+    given: Dongyan
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'VFair: Latency-aware fair storage scheduling via per-iO cost-based differentiation'
+  title-short: VFair
+  container-title: SoCC
+  publisher: ACM
+  page: '125-138'
+  URL: http://doi.acm.org/10.1145/2806777.2806943
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ZouWSBDGW11
+  type: paper-conference
+  author:
+  - family: Zou
+    given: Tao
+  - family: Wang
+    given: Guozhang
+  - family: Salles
+    given: Marcos Antonio Vaz
+  - family: Bindel
+    given: David
+  - family: Demers
+    given: Alan J.
+  - family: Gehrke
+    given: Johannes
+  - family: White
+    given: Walker M.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Making time-stepped applications tick in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '20'
+  URL: http://doi.acm.org/10.1145/2038916.2038936
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/GrizanCWW15
+  type: paper-conference
+  author:
+  - family: Grizan
+    given: Sergey
+  - family: Chu
+    given: David
+  - family: Wolman
+    given: Alec
+  - family: Wattenhofer
+    given: Roger
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'DJay: Enabling high-density multi-tenancy for cloud gaming servers with
+    dynamic cost-benefit gPU load balancing'
+  title-short: DJay
+  container-title: SoCC
+  publisher: ACM
+  page: '58-70'
+  URL: http://doi.acm.org/10.1145/2806777.2806942
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/Babu10
+  type: paper-conference
+  author:
+  - family: Babu
+    given: Shivnath
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Towards automatic optimization of mapReduce programs
+  container-title: SoCC
+  publisher: ACM
+  page: '137-142'
+  URL: http://doi.acm.org/10.1145/1807128.1807150
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/LangBDE15
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Willis
+  - family: Bertsch
+    given: Frank
+  - family: DeWitt
+    given: David J.
+  - family: Ellis
+    given: Nigel
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Microsoft azure sQL database telemetry
+  container-title: SoCC
+  publisher: ACM
+  page: '189-194'
+  URL: http://doi.acm.org/10.1145/2806777.2806845
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/PuttaswamyKZ11
+  type: paper-conference
+  author:
+  - family: Puttaswamy
+    given: Krishna P. N.
+  - family: Kruegel
+    given: Christopher
+  - family: Zhao
+    given: Ben Y.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Silverline: Toward data confidentiality in storage-intensive cloud applications'
+  title-short: Silverline
+  container-title: SoCC
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2038916.2038926
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/PundirLGC15
+  type: paper-conference
+  author:
+  - family: Pundir
+    given: Mayank
+  - family: Leslie
+    given: Luke M.
+  - family: Gupta
+    given: Indranil
+  - family: Campbell
+    given: Roy H.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Zorro: Zero-cost reactive failure recovery in distributed graph processing'
+  title-short: Zorro
+  container-title: SoCC
+  publisher: ACM
+  page: '195-208'
+  URL: http://doi.acm.org/10.1145/2806777.2806934
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ReissTGKK12
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Charles
+  - family: Tumanov
+    given: Alexey
+  - family: Ganger
+    given: Gregory R.
+  - family: Katz
+    given: Randy H.
+  - family: Kozuch
+    given: Michael A.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Heterogeneity and dynamicity of clouds at scale: Google trace analysis'
+  title-short: Heterogeneity and dynamicity of clouds at scale
+  container-title: SoCC
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2391229.2391236
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/SubramanyaGSIS15
+  type: paper-conference
+  author:
+  - family: Subramanya
+    given: Supreeth
+  - family: Guo
+    given: Tian
+  - family: Sharma
+    given: Prateek
+  - family: Irwin
+    given: David E.
+  - family: Shenoy
+    given: Prashant J.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'SpotOn: A batch computing service for the spot market'
+  title-short: SpotOn
+  container-title: SoCC
+  publisher: ACM
+  page: '329-341'
+  URL: http://doi.acm.org/10.1145/2806777.2806851
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/GhorbaniSMKCRW14
+  type: paper-conference
+  author:
+  - family: Ghorbani
+    given: Soudeh
+  - family: Schlesinger
+    given: Cole
+  - family: Monaco
+    given: Matthew
+  - family: Keller
+    given: Eric
+  - family: Caesar
+    given: Matthew
+  - family: Rexford
+    given: Jennifer
+  - family: Walker
+    given: David
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Transparent, live migration of a software-defined network
+  container-title: SoCC
+  publisher: ACM
+  page: 3:1-3:14
+  URL: http://doi.acm.org/10.1145/2670979.2670982
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/PatilPRTXLGFR11
+  type: paper-conference
+  author:
+  - family: Patil
+    given: Swapnil
+  - family: Polte
+    given: Milo
+  - family: Ren
+    given: Kai
+  - family: Tantisiriroj
+    given: Wittawat
+  - family: Xiao
+    given: Lin
+  - family: López
+    given: Julio
+  - family: Gibson
+    given: Garth
+  - family: Fuchs
+    given: Adam
+  - family: Rinaldi
+    given: Billie
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'YCSB++: Benchmarking and performance debugging advanced features in scalable
+    table stores'
+  title-short: YCSB++
+  container-title: SoCC
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2038916.2038925
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/GuFPLY12
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Yufei
+  - family: Fu
+    given: Yangchun
+  - family: Prakash
+    given: Aravind
+  - family: Lin
+    given: Zhiqiang
+  - family: Yin
+    given: Heng
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'OS-sommelier: Memory-only operating system fingerprinting in the cloud'
+  title-short: OS-sommelier
+  container-title: SoCC
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2391229.2391234
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/HuSA13
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Liting
+  - family: Schwan
+    given: Karsten
+  - family: Amur
+    given: Hrishikesh
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'FastMR: Fast processing for large distributed data streams'
+  title-short: FastMR
+  container-title: SoCC
+  publisher: ACM
+  page: 38:1
+  URL: http://doi.acm.org/10.1145/2523616.2525946
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ConwayMAHM12
+  type: paper-conference
+  author:
+  - family: Conway
+    given: Neil
+  - family: Marczak
+    given: William R.
+  - family: Alvaro
+    given: Peter
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Maier
+    given: David
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Logic and lattices for distributed programming
+  container-title: SoCC
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2391229.2391230
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/BonvinPA10
+  type: paper-conference
+  author:
+  - family: Bonvin
+    given: Nicolas
+  - family: Papaioannou
+    given: Thanasis G.
+  - family: Aberer
+    given: Karl
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: A self-organized, fault-tolerant and scalable replication scheme for cloud
+    storage
+  container-title: SoCC
+  publisher: ACM
+  page: '205-216'
+  URL: http://doi.acm.org/10.1145/1807128.1807162
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/GolabRAKWG13
+  type: paper-conference
+  author:
+  - family: Golab
+    given: Wojciech M.
+  - family: Rahman
+    given: Muntasir Raihan
+  - family: AuYoung
+    given: Alvin
+  - family: Keeton
+    given: Kimberly
+  - family: Wylie
+    given: Jay J.
+  - family: Gupta
+    given: Indranil
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Client-centric benchmarking of eventual consistency for cloud storage systems
+  container-title: SoCC
+  publisher: ACM
+  page: 28:1-28:2
+  URL: http://doi.acm.org/10.1145/2523616.2525935
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ChuangSYGKK13
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Wei-Chiu
+  - family: Sang
+    given: Bo
+  - family: Yoo
+    given: Sunghwan
+  - family: Gu
+    given: Rui
+  - family: Kulkarni
+    given: Milind
+  - family: Killian
+    given: Charles Edwin
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'EventWave: Programming model and runtime support for tightly-coupled elastic
+    cloud applications'
+  title-short: EventWave
+  container-title: SoCC
+  publisher: ACM
+  page: 21:1-21:16
+  URL: http://doi.acm.org/10.1145/2523616.2523617
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/HeintzCS13
+  type: paper-conference
+  author:
+  - family: Heintz
+    given: Benjamin
+  - family: Chandra
+    given: Abhishek
+  - family: Sitaraman
+    given: Ramesh K.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Wide-area streaming analytics: Distributing the data cube'
+  title-short: Wide-area streaming analytics
+  container-title: SoCC
+  publisher: ACM
+  page: 55:1-55:2
+  URL: http://doi.acm.org/10.1145/2523616.2525963
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/BazzazTWPNAKKV11
+  type: paper-conference
+  author:
+  - family: Bazzaz
+    given: Hamid Hajabdolali
+  - family: Tewari
+    given: Malveeka
+  - family: Wang
+    given: Guohui
+  - family: Porter
+    given: George
+  - family: Ng
+    given: T. S. Eugene
+  - family: Andersen
+    given: David G.
+  - family: Kaminsky
+    given: Michael
+  - family: Kozuch
+    given: Michael A.
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Switching the optical divide: Fundamental challenges for hybrid electrical/optical
+    datacenter networks'
+  title-short: Switching the optical divide
+  container-title: SoCC
+  publisher: ACM
+  page: '30'
+  URL: http://doi.acm.org/10.1145/2038916.2038946
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/WuWAS13
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Wenfei
+  - family: Wang
+    given: Guohui
+  - family: Akella
+    given: Aditya
+  - family: Shaikh
+    given: Anees
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Virtual network diagnosis as a service
+  container-title: SoCC
+  publisher: ACM
+  page: 9:1-9:15
+  URL: http://doi.acm.org/10.1145/2523616.2523621
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LegareMSTBMSJTWAW13
+  type: paper-conference
+  author:
+  - family: Légaré
+    given: Jean-Sébastien
+  - family: Meyer
+    given: Dutch T.
+  - family: Spear
+    given: Mark
+  - family: Totolici
+    given: Alexandru
+  - family: Bainbridge
+    given: Sara
+  - family: MacRow
+    given: Kalan
+  - family: Sumi
+    given: Róbert
+  - family: Jung
+    given: Quinlan
+  - family: Tjandra
+    given: Dennis
+  - family: Williams-King
+    given: David
+  - family: Aiello
+    given: William
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Tolerating business failures in hosted applications
+  container-title: SoCC
+  publisher: ACM
+  page: 22:1-22:16
+  URL: http://doi.acm.org/10.1145/2523616.2523618
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/SpillaneSZDA11
+  type: paper-conference
+  author:
+  - family: Spillane
+    given: Richard P.
+  - family: Shetty
+    given: Pradeep
+  - family: Zadok
+    given: Erez
+  - family: Dixit
+    given: Sagar
+  - family: Archak
+    given: Shrikar
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: An efficient multi-tier tablet server storage architecture
+  container-title: SoCC
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2038916.2038917
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BinnigSMZKL13
+  type: paper-conference
+  author:
+  - family: Binnig
+    given: Carsten
+  - family: Salama
+    given: Abdallah
+  - family: Müller
+    given: Alexander C.
+  - family: Zamanian
+    given: Erfan
+  - family: Kornmayer
+    given: Harald
+  - family: Listing
+    given: Sven
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'XDB: A novel database architecture for data analytics as a service'
+  title-short: XDB
+  container-title: SoCC
+  publisher: ACM
+  page: 39:1-39:2
+  URL: http://doi.acm.org/10.1145/2523616.2525947
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LiuZZMGM14
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Chang
+  - family: Zhang
+    given: Jiaxing
+  - family: Zhou
+    given: Hucheng
+  - family: McDirmid
+    given: Sean
+  - family: Guo
+    given: Zhenyu
+  - family: Moscibroda
+    given: Thomas
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Automating distributed partial aggregation
+  container-title: SoCC
+  publisher: ACM
+  page: 1:1-1:12
+  URL: http://doi.acm.org/10.1145/2670979.2670980
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/Woollen10
+  type: paper-conference
+  author:
+  - family: Woollen
+    given: Rob
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: The internal design of salesforce.com’s multi-tenant architecture
+  container-title: SoCC
+  publisher: ACM
+  page: '161'
+  URL: http://doi.acm.org/10.1145/1807128.1807155
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/HeELY12
+  type: paper-conference
+  author:
+  - family: He
+    given: Yuxiong
+  - family: Elnikety
+    given: Sameh
+  - family: Larus
+    given: James R.
+  - family: Yan
+    given: Chenyu
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Zeta: Scheduling interactive services with partial execution'
+  title-short: Zeta
+  container-title: SoCC
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2391229.2391241
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/HeinzeR0JJF15
+  type: paper-conference
+  author:
+  - family: Heinze
+    given: Thomas
+  - family: Roediger
+    given: Lars
+  - family: '0001'
+    given: Andreas Meister
+  - family: Ji
+    given: Yuanzhen
+  - family: Jerzak
+    given: Zbigniew
+  - family: Fetzer
+    given: Christof
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Online parameter optimization for elastic data stream processing
+  container-title: SoCC
+  publisher: ACM
+  page: '276-287'
+  URL: http://doi.acm.org/10.1145/2806777.2806847
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/XuBNJ13
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Yunjing
+  - family: Bailey
+    given: Michael
+  - family: Noble
+    given: Brian
+  - family: Jahanian
+    given: Farnam
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Small is better: Avoiding latency traps in virtualized data centers'
+  title-short: Small is better
+  container-title: SoCC
+  publisher: ACM
+  page: 7:1-7:16
+  URL: http://doi.acm.org/10.1145/2523616.2523620
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/Wasi-ur-RahmanLIP13
+  type: paper-conference
+  author:
+  - family: Wasi-ur-Rahman
+    given: Md.
+  - family: Lu
+    given: Xiaoyi
+  - family: Islam
+    given: Nusrat S.
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Does rDMA-based enhanced hadoop mapReduce need a new performance model?
+  container-title: SoCC
+  publisher: ACM
+  page: 45:1-45:2
+  URL: http://doi.acm.org/10.1145/2523616.2525953
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/HeYGCSLZ10
+  type: paper-conference
+  author:
+  - family: He
+    given: Bingsheng
+  - family: Yang
+    given: Mao
+  - family: Guo
+    given: Zhenyu
+  - family: Chen
+    given: Rishan
+  - family: Su
+    given: Bing
+  - family: Lin
+    given: Wei
+  - family: Zhou
+    given: Lidong
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Comet: Batched stream processing for data intensive distributed computing'
+  title-short: Comet
+  container-title: SoCC
+  publisher: ACM
+  page: '63-74'
+  URL: http://doi.acm.org/10.1145/1807128.1807139
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/WeiDQHCGGGX15
+  type: paper-conference
+  author:
+  - family: Wei
+    given: Jinliang
+  - family: Dai
+    given: Wei
+  - family: Qiao
+    given: Aurick
+  - family: Ho
+    given: Qirong
+  - family: Cui
+    given: Henggang
+  - family: Ganger
+    given: Gregory R.
+  - family: Gibbons
+    given: Phillip B.
+  - family: Gibson
+    given: Garth A.
+  - family: Xing
+    given: Eric P.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Managed communication and consistency for fast data-parallel iterative analytics
+  container-title: SoCC
+  publisher: ACM
+  page: '381-394'
+  URL: http://doi.acm.org/10.1145/2806777.2806778
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/HerodotouDB11
+  type: paper-conference
+  author:
+  - family: Herodotou
+    given: Herodotos
+  - family: Dong
+    given: Fei
+  - family: Babu
+    given: Shivnath
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'No one (cluster) size fits all: Automatic cluster sizing for data-intensive
+    analytics'
+  title-short: No one (cluster) size fits all
+  container-title: SoCC
+  publisher: ACM
+  page: '18'
+  URL: http://doi.acm.org/10.1145/2038916.2038934
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BensonASS11
+  type: paper-conference
+  author:
+  - family: Benson
+    given: Theophilus
+  - family: Akella
+    given: Aditya
+  - family: Shaikh
+    given: Anees
+  - family: Sahu
+    given: Sambit
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'CloudNaaS: A cloud networking platform for enterprise applications'
+  title-short: CloudNaaS
+  container-title: SoCC
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2038916.2038924
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/RivaYJUR11
+  type: paper-conference
+  author:
+  - family: Riva
+    given: Oriana
+  - family: Yin
+    given: Qin
+  - family: Juric
+    given: Dejan
+  - family: Ucan
+    given: Ercan
+  - family: Roscoe
+    given: Timothy
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Policy expressivity in the anzere personal cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/2038916.2038930
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/StuediTMP14
+  type: paper-conference
+  author:
+  - family: Stuedi
+    given: Patrick
+  - family: Trivedi
+    given: Animesh
+  - family: Metzler
+    given: Bernard
+  - family: Pfefferle
+    given: Jonas
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'DaRPC: Data center rPC'
+  title-short: DaRPC
+  container-title: SoCC
+  publisher: ACM
+  page: 15:1-15:13
+  URL: http://doi.acm.org/10.1145/2670979.2670994
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/DasBSGVNZGWGSTPSS12
+  type: paper-conference
+  author:
+  - family: Das
+    given: Shirshanka
+  - family: Botev
+    given: Chavdar
+  - family: Surlaker
+    given: Kapil
+  - family: Ghosh
+    given: Bhaskar
+  - family: Varadarajan
+    given: Balaji
+  - family: Nagaraj
+    given: Sunil
+  - family: Zhang
+    given: David
+  - family: Gao
+    given: Lei
+  - family: Westerman
+    given: Jemiah
+  - family: Ganti
+    given: Phanindra
+  - family: Shkolnik
+    given: Boris
+  - family: Topiwala
+    given: Sajid
+  - family: Pachev
+    given: Alexander
+  - family: Somasundaram
+    given: Naveen
+  - family: Subramaniam
+    given: Subbu
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'All aboard the databus!: Linkedin’s scalable consistent change data capture
+    platform'
+  title-short: All aboard the databus!
+  container-title: SoCC
+  publisher: ACM
+  page: '18'
+  URL: http://doi.acm.org/10.1145/2391229.2391247
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/BarberLMPRW13
+  type: paper-conference
+  author:
+  - family: Barber
+    given: Ronald
+  - family: Lohman
+    given: Guy M.
+  - family: Müller
+    given: René
+  - family: Pandis
+    given: Ippokratis
+  - family: Raman
+    given: Vijayshankar
+  - family: Wilcke
+    given: W.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Go, server, go!: Parallel computing with moving servers'
+  title-short: Go, server, go!
+  container-title: SoCC
+  publisher: ACM
+  page: 8:1-8:8
+  URL: http://doi.acm.org/10.1145/2523616.2523634
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/JiaRW13
+  type: paper-conference
+  author:
+  - family: Jia
+    given: Qin
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Weatherspoon
+    given: Hakim
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'SuperCloud: Economical cloud service on multiple vendors'
+  title-short: SuperCloud
+  container-title: SoCC
+  publisher: ACM
+  page: 58:1
+  URL: http://doi.acm.org/10.1145/2523616.2525966
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/DeanNGZRAJ14
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Daniel Joseph
+  - family: Nguyen
+    given: Hiep
+  - family: Gu
+    given: Xiaohui
+  - family: '0002'
+    given: Hui Zhang
+  - family: Rhee
+    given: Junghwan
+  - family: Arora
+    given: Nipun
+  - family: Jiang
+    given: Geoff
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'PerfScope: Practical online server performance bug inference in production
+    cloud computing infrastructures'
+  title-short: PerfScope
+  container-title: SoCC
+  publisher: ACM
+  page: 8:1-8:13
+  URL: http://doi.acm.org/10.1145/2670979.2670987
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ParkAL12
+  type: paper-conference
+  author:
+  - family: Park
+    given: Nohhyun
+  - family: Ahmad
+    given: Irfan
+  - family: Lilja
+    given: David J.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Romano: Autonomous storage management using performance prediction in
+    multi-tenant datacenters'
+  title-short: Romano
+  container-title: SoCC
+  publisher: ACM
+  page: '21'
+  URL: http://doi.acm.org/10.1145/2391229.2391250
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/FarleyJVRBS12
+  type: paper-conference
+  author:
+  - family: Farley
+    given: Benjamin
+  - family: Juels
+    given: Ari
+  - family: Varadarajan
+    given: Venkatanathan
+  - family: Ristenpart
+    given: Thomas
+  - family: Bowers
+    given: Kevin D.
+  - family: Swift
+    given: Michael M.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'More for your money: Exploiting performance heterogeneity in public clouds'
+  title-short: More for your money
+  container-title: SoCC
+  publisher: ACM
+  page: '20'
+  URL: http://doi.acm.org/10.1145/2391229.2391249
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/ShenSGW11
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Zhiming
+  - family: Subbiah
+    given: Sethuraman
+  - family: Gu
+    given: Xiaohui
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'CloudScale: Elastic resource scaling for multi-tenant cloud systems'
+  title-short: CloudScale
+  container-title: SoCC
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2038916.2038921
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/HuaJFT13
+  type: paper-conference
+  author:
+  - family: Hua
+    given: Yu
+  - family: Jiang
+    given: Hong
+  - family: Feng
+    given: Dan
+  - family: Tian
+    given: Lei
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'FAST: Near real-time data analytics for the cloud'
+  title-short: FAST
+  container-title: SoCC
+  publisher: ACM
+  page: 25:1-25:2
+  URL: http://doi.acm.org/10.1145/2523616.2525932
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ZellagK12
+  type: paper-conference
+  author:
+  - family: Zellag
+    given: Kamal
+  - family: Kemme
+    given: Bettina
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: How consistent is your cloud application?
+  container-title: SoCC
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2391229.2391235
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/AbouziedC15
+  type: paper-conference
+  author:
+  - family: Abouzied
+    given: Azza
+  - family: Chen
+    given: Jay
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Harnessing data loss with forgetful data structures
+  container-title: SoCC
+  publisher: ACM
+  page: '168-173'
+  URL: http://doi.acm.org/10.1145/2806777.2806936
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/Dean10
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Jeffrey
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Evolution and future directions of large-scale storage and computation systems
+    at google
+  container-title: SoCC
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1807128.1807130
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/WoodLRSM11
+  type: paper-conference
+  author:
+  - family: Wood
+    given: Timothy
+  - family: Lagar-Cavilla
+    given: H. Andrés
+  - family: Ramakrishnan
+    given: K. K.
+  - family: Shenoy
+    given: Prashant J.
+  - family: Merwe
+    given: Jacobus E.
+    dropping-particle: van der
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'PipeCloud: Using causality to overcome speed-of-light delays in cloud-based
+    disaster recovery'
+  title-short: PipeCloud
+  container-title: SoCC
+  publisher: ACM
+  page: '17'
+  URL: http://doi.acm.org/10.1145/2038916.2038933
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/LiSPG14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Jialin
+  - family: Sharma
+    given: Naveen Kr.
+  - family: Ports
+    given: Dan R. K.
+  - family: Gribble
+    given: Steven D.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Tales of the tail: Hardware, oS, and application-level sources of tail
+    latency'
+  title-short: Tales of the tail
+  container-title: SoCC
+  publisher: ACM
+  page: 9:1-9:14
+  URL: http://doi.acm.org/10.1145/2670979.2670988
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/GrandlCKYABA13
+  type: paper-conference
+  author:
+  - family: Grandl
+    given: Robert
+  - family: Chen
+    given: Yizheng
+  - family: Khalid
+    given: Junaid
+  - family: Yang
+    given: Suli
+  - family: Anand
+    given: Ashok
+  - family: Benson
+    given: Theophilus
+  - family: Akella
+    given: Aditya
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Harmony: Coordinating network, compute, and storage in software-defined
+    clouds'
+  title-short: Harmony
+  container-title: SoCC
+  publisher: ACM
+  page: 53:1-53:2
+  URL: http://doi.acm.org/10.1145/2523616.2525961
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/WangMZT14
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yandong
+  - family: Meng
+    given: Xiaoqiao
+  - family: Zhang
+    given: Li
+  - family: Tan
+    given: Jian
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'C-hint: An effective and reliable cache management for rDMA-accelerated
+    key-value stores'
+  title-short: C-hint
+  container-title: SoCC
+  publisher: ACM
+  page: 23:1-23:13
+  URL: http://doi.acm.org/10.1145/2670979.2671002
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/TembeyGS14
+  type: paper-conference
+  author:
+  - family: Tembey
+    given: Priyanka
+  - family: Gavrilovska
+    given: Ada
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Merlin: Application- and platform-aware resource allocation in consolidated
+    server systems'
+  title-short: Merlin
+  container-title: SoCC
+  publisher: ACM
+  page: 14:1-14:14
+  URL: http://doi.acm.org/10.1145/2670979.2670993
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ManousakisGSNB15
+  type: paper-conference
+  author:
+  - family: Manousakis
+    given: Ioannis
+  - family: Goiri
+    given: Iñigo
+  - family: Sankar
+    given: Sriram
+  - family: Nguyen
+    given: Thu D.
+  - family: Bianchini
+    given: Ricardo
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'CoolProvision: Underprovisioning datacenter cooling'
+  title-short: CoolProvision
+  container-title: SoCC
+  publisher: ACM
+  page: '356-367'
+  URL: http://doi.acm.org/10.1145/2806777.2806938
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/PotharajuJ13
+  type: paper-conference
+  author:
+  - family: Potharaju
+    given: Rahul
+  - family: Jain
+    given: Navendu
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'When the network crumbles: An empirical study of cloud network failures
+    and their impact on services'
+  title-short: When the network crumbles
+  container-title: SoCC
+  publisher: ACM
+  page: 15:1-15:17
+  URL: http://doi.acm.org/10.1145/2523616.2523638
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/WentzlaffGBMBYMA10
+  type: paper-conference
+  author:
+  - family: Wentzlaff
+    given: David
+  - family: III
+    given: Charles Gruenwald
+  - family: Beckmann
+    given: Nathan
+  - family: Modzelewski
+    given: Kevin
+  - family: Belay
+    given: Adam
+  - family: Youseff
+    given: Lamia
+  - family: Miller
+    given: Jason E.
+  - family: Agarwal
+    given: Anant
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'An operating system for multicore and clouds: Mechanisms and implementation'
+  title-short: An operating system for multicore and clouds
+  container-title: SoCC
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1807128.1807132
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/GamageXKX14
+  type: paper-conference
+  author:
+  - family: Gamage
+    given: Sahan
+  - family: Xu
+    given: Cong
+  - family: Kompella
+    given: Ramana Rao
+  - family: Xu
+    given: Dongyan
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'VPipe: Piped i/O offloading for efficient data movement in virtualized
+    clouds'
+  title-short: VPipe
+  container-title: SoCC
+  publisher: ACM
+  page: 27:1-27:13
+  URL: http://doi.acm.org/10.1145/2670979.2671006
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ChengGPB13
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Yue
+  - family: Gupta
+    given: Aayush
+  - family: Povzner
+    given: Anna
+  - family: Butt
+    given: Ali Raza
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: High performance in-memory caching through flexible fine-grained services
+  container-title: SoCC
+  publisher: ACM
+  page: 56:1-56:2
+  URL: http://doi.acm.org/10.1145/2523616.2525964
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/Leesatapornwongsa14
+  type: paper-conference
+  author:
+  - family: Leesatapornwongsa
+    given: Tanakorn
+  - family: Gunawi
+    given: Haryadi S.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: The case for drill-ready cloud computing
+  container-title: SoCC
+  publisher: ACM
+  page: 13:1-13:8
+  URL: http://doi.acm.org/10.1145/2670979.2670992
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/FanLAK11
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Bin
+  - family: Lim
+    given: Hyeontaek
+  - family: Andersen
+    given: David G.
+  - family: Kaminsky
+    given: Michael
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Small cache, big effect: Provable load balancing for randomly partitioned
+    cluster services'
+  title-short: Small cache, big effect
+  container-title: SoCC
+  publisher: ACM
+  page: '23'
+  URL: http://doi.acm.org/10.1145/2038916.2038939
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/AbeGJLS13
+  type: paper-conference
+  author:
+  - family: Abe
+    given: Yoshihisa
+  - family: Geambasu
+    given: Roxana
+  - family: Joshi
+    given: Kaustubh R.
+  - family: Lagar-Cavilla
+    given: H. Andrés
+  - family: Satyanarayanan
+    given: Mahadev
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'VTube: Efficient streaming of virtual appliances over last-mile networks'
+  title-short: VTube
+  container-title: SoCC
+  publisher: ACM
+  page: 16:1-16:16
+  URL: http://doi.acm.org/10.1145/2523616.2523636
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/VishwanathN10
+  type: paper-conference
+  author:
+  - family: Vishwanath
+    given: Kashi Venkatesh
+  - family: Nagappan
+    given: Nachiappan
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Characterizing cloud computing hardware reliability
+  container-title: SoCC
+  publisher: ACM
+  page: '193-204'
+  URL: http://doi.acm.org/10.1145/1807128.1807161
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/WangOSB11
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xiaodan
+  - family: Olston
+    given: Christopher
+  - family: Sarma
+    given: Anish Das
+  - family: Burns
+    given: Randal C.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'CoScan: Cooperative scan sharing in the cloud'
+  title-short: CoScan
+  container-title: SoCC
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2038916.2038927
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/AmurRAKSBZ13
+  type: paper-conference
+  author:
+  - family: Amur
+    given: Hrishikesh
+  - family: Richter
+    given: Wolfgang
+  - family: Andersen
+    given: David G.
+  - family: Kaminsky
+    given: Michael
+  - family: Schwan
+    given: Karsten
+  - family: Balachandran
+    given: Athula
+  - family: Zawadzki
+    given: Erik
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Memory-efficient groupby-aggregate using compressed buffer trees
+  container-title: SoCC
+  publisher: ACM
+  page: 18:1-18:16
+  URL: http://doi.acm.org/10.1145/2523616.2523625
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ZhangEFS14
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Dongli
+  - family: Ehsan
+    given: Moussa
+  - family: Ferdman
+    given: Michael
+  - family: Sion
+    given: Radu
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'DIMMer: A case for turning off dIMMs in clouds'
+  title-short: DIMMer
+  container-title: SoCC
+  publisher: ACM
+  page: 11:1-11:8
+  URL: http://doi.acm.org/10.1145/2670979.2670990
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/MoraruAK14
+  type: paper-conference
+  author:
+  - family: Moraru
+    given: Iulian
+  - family: Andersen
+    given: David G.
+  - family: Kaminsky
+    given: Michael
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Paxos quorum leases: Fast reads without sacrificing writes'
+  title-short: Paxos quorum leases
+  container-title: SoCC
+  publisher: ACM
+  page: 22:1-22:13
+  URL: http://doi.acm.org/10.1145/2670979.2671001
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/VasudevanKA12
+  type: paper-conference
+  author:
+  - family: Vasudevan
+    given: Vijay
+  - family: Kaminsky
+    given: Michael
+  - family: Andersen
+    given: David G.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Using vector interfaces to deliver millions of iOPS from a networked key-value
+    storage server
+  container-title: SoCC
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2391229.2391237
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/2012
+  type: book
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: ACM symposium on cloud computing, sOCC ’12, san jose, cA, uSA, october 14-17,
+    2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2391229
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/AmurCGGKS10
+  type: paper-conference
+  author:
+  - family: Amur
+    given: Hrishikesh
+  - family: Cipar
+    given: James
+  - family: Gupta
+    given: Varun
+  - family: Ganger
+    given: Gregory R.
+  - family: Kozuch
+    given: Michael A.
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Robust and flexible power-proportional storage
+  container-title: SoCC
+  publisher: ACM
+  page: '217-228'
+  URL: http://doi.acm.org/10.1145/1807128.1807164
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/KocoloskiOL12
+  type: paper-conference
+  author:
+  - family: Kocoloski
+    given: Brian
+  - family: Ouyang
+    given: Jiannan
+  - family: Lange
+    given: John R.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'A case for dual stack virtualization: Consolidating hPC and commodity
+    applications in the cloud'
+  title-short: A case for dual stack virtualization
+  container-title: SoCC
+  publisher: ACM
+  page: '23'
+  URL: http://doi.acm.org/10.1145/2391229.2391252
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/GonzalezHJLMSS10
+  type: paper-conference
+  author:
+  - family: Gonzalez
+    given: Hector
+  - family: Halevy
+    given: Alon Y.
+  - family: Jensen
+    given: Christian S.
+  - family: Langen
+    given: Anno
+  - family: Madhavan
+    given: Jayant
+  - family: Shapley
+    given: Rebecca
+  - family: Shen
+    given: Warren
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Google fusion tables: Data management, integration and collaboration in
+    the cloud'
+  title-short: Google fusion tables
+  container-title: SoCC
+  publisher: ACM
+  page: '175-180'
+  URL: http://doi.acm.org/10.1145/1807128.1807158
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/ZhangCY13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Chunwang
+  - family: Chang
+    given: Ee-Chien
+  - family: Yap
+    given: Roland H. C.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Towards a general framework for secure mapReduce computation on hybrid clouds
+  container-title: SoCC
+  publisher: ACM
+  page: 36:1-36:2
+  URL: http://doi.acm.org/10.1145/2523616.2525944
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/CuiKRVG15
+  type: paper-conference
+  author:
+  - family: Cui
+    given: Henggang
+  - family: Keeton
+    given: Kimberly
+  - family: Roy
+    given: Indrajit
+  - family: Viswanathan
+    given: Krishnamurthy
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Using data transformations for low-latency time series analysis
+  container-title: SoCC
+  publisher: ACM
+  page: '395-407'
+  URL: http://doi.acm.org/10.1145/2806777.2806839
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/HansenJ10
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Jacob Gorm
+  - family: Jul
+    given: Eric
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Lithium: Virtual machine storage for the cloud'
+  title-short: Lithium
+  container-title: SoCC
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/1807128.1807134
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/LiJGG14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Kaituo
+  - family: Joshi
+    given: Pallavi
+  - family: Gupta
+    given: Aarti
+  - family: Ganai
+    given: Malay K.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'ReproLite: A lightweight tool to quickly reproduce hard system bugs'
+  title-short: ReproLite
+  container-title: SoCC
+  publisher: ACM
+  page: 25:1-25:13
+  URL: http://doi.acm.org/10.1145/2670979.2671004
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/2011
+  type: book
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: ACM symposium on cloud computing in conjunction with sOSP 2011, sOCC ’11,
+    cascais, portugal, october 26-28, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2038916
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BorkarBCOWPCT15
+  type: paper-conference
+  author:
+  - family: Borkar
+    given: Vinayak R.
+  - family: Bu
+    given: Yingyi
+  - family: Jr.
+    given: E. Preston Carman
+  - family: Onose
+    given: Nicola
+  - family: Westmann
+    given: Till
+  - family: Pirzadeh
+    given: Pouria
+  - family: Carey
+    given: Michael J.
+  - family: Tsotras
+    given: Vassilis J.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Algebricks: A data model-agnostic compiler backend for big data languages'
+  title-short: Algebricks
+  container-title: SoCC
+  publisher: ACM
+  page: '422-433'
+  URL: http://doi.acm.org/10.1145/2806777.2806941
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/DasZSS14
+  type: paper-conference
+  author:
+  - family: Das
+    given: Tathagata
+  - family: Zhong
+    given: Yuan
+  - family: Stoica
+    given: Ion
+  - family: Shenker
+    given: Scott
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Adaptive stream processing using dynamic batch sizing
+  container-title: SoCC
+  publisher: ACM
+  page: 16:1-16:13
+  URL: http://doi.acm.org/10.1145/2670979.2670995
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/KimSDAP15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Jaemyung
+  - family: Salem
+    given: Kenneth
+  - family: Daudjee
+    given: Khuzaima
+  - family: Aboulnaga
+    given: Ashraf
+  - family: Pan
+    given: Xin
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Database high availability using sHADOW systems
+  container-title: SoCC
+  publisher: ACM
+  page: '209-221'
+  URL: http://doi.acm.org/10.1145/2806777.2806841
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ZhangGGW11
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yanfeng
+  - family: Gao
+    given: Qinxin
+  - family: Gao
+    given: Lixin
+  - family: Wang
+    given: Cuirong
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'PrIter: A distributed framework for prioritized iterative computations'
+  title-short: PrIter
+  container-title: SoCC
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2038916.2038929
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/HungGY15
+  type: paper-conference
+  author:
+  - family: Hung
+    given: Chien-Chun
+  - family: Golubchik
+    given: Leana
+  - family: Yu
+    given: Minlan
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Scheduling jobs across geo-distributed datacenters
+  container-title: SoCC
+  publisher: ACM
+  page: '111-124'
+  URL: http://doi.acm.org/10.1145/2806777.2806780
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ArmbrustLTFFP10
+  type: paper-conference
+  author:
+  - family: Armbrust
+    given: Michael
+  - family: Lanham
+    given: Nick
+  - family: Tu
+    given: Stephen
+  - family: Fox
+    given: Armando
+  - family: Franklin
+    given: Michael J.
+  - family: Patterson
+    given: David A.
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'The case for pIQL: A performance insightful query language'
+  title-short: The case for pIQL
+  container-title: SoCC
+  publisher: ACM
+  page: '131-136'
+  URL: http://doi.acm.org/10.1145/1807128.1807149
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/KiverisLMRV14
+  type: paper-conference
+  author:
+  - family: Kiveris
+    given: Raimondas
+  - family: Lattanzi
+    given: Silvio
+  - family: Mirrokni
+    given: Vahab S.
+  - family: Rastogi
+    given: Vibhor
+  - family: Vassilvitskii
+    given: Sergei
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Connected components in mapReduce and beyond
+  container-title: SoCC
+  publisher: ACM
+  page: 18:1-18:13
+  URL: http://doi.acm.org/10.1145/2670979.2670997
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ZhangQ13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Bingjing
+  - family: Qiu
+    given: Judy
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: High performance clustering of social images in a map-collective programming
+    model
+  container-title: SoCC
+  publisher: ACM
+  page: 44:1-44:2
+  URL: http://doi.acm.org/10.1145/2523616.2525952
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/BartoliniSMDSS13
+  type: paper-conference
+  author:
+  - family: Bartolini
+    given: Davide B.
+  - family: Sironi
+    given: Filippo
+  - family: Maggio
+    given: Martina
+  - family: Durelli
+    given: Gianluca
+  - family: Sciuto
+    given: Donatella
+  - family: Santambrogio
+    given: Marco D.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Towards a performance-as-a-service cloud
+  container-title: SoCC
+  publisher: ACM
+  page: 26:1-26:2
+  URL: http://doi.acm.org/10.1145/2523616.2525933
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/IonescuG13
+  type: paper-conference
+  author:
+  - family: Ionescu
+    given: Dragos
+  - family: Griffith
+    given: Rean
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'The wisdom of virtual crowds: Mining datacenter telemetry to collaboratively
+    debug performance'
+  title-short: The wisdom of virtual crowds
+  container-title: SoCC
+  publisher: ACM
+  page: 33:1-33:2
+  URL: http://doi.acm.org/10.1145/2523616.2525941
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/MaoJWT13
+  type: paper-conference
+  author:
+  - family: Mao
+    given: Bo
+  - family: Jiang
+    given: Hong
+  - family: Wu
+    given: Suzhen
+  - family: Tian
+    given: Lei
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Leveraging data deduplication to improve the performance of primary storage
+    systems in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: 24:1-24:2
+  URL: http://doi.acm.org/10.1145/2523616.2525939
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/JayathilakaKW15
+  type: paper-conference
+  author:
+  - family: Jayathilaka
+    given: Hiranya
+  - family: Krintz
+    given: Chandra
+  - family: Wolski
+    given: Rich
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Response time service level agreements for cloud-hosted web applications
+  container-title: SoCC
+  publisher: ACM
+  page: '315-328'
+  URL: http://doi.acm.org/10.1145/2806777.2806842
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/CuiTWXDHHGGGX14
+  type: paper-conference
+  author:
+  - family: Cui
+    given: Henggang
+  - family: Tumanov
+    given: Alexey
+  - family: Wei
+    given: Jinliang
+  - family: Xu
+    given: Lianghong
+  - family: Dai
+    given: Wei
+  - family: Haber-Kucharsky
+    given: Jesse
+  - family: Ho
+    given: Qirong
+  - family: Ganger
+    given: Gregory R.
+  - family: Gibbons
+    given: Phillip B.
+  - family: Gibson
+    given: Garth A.
+  - family: Xing
+    given: Eric P.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Exploiting iterative-ness for parallel mL computations
+  container-title: SoCC
+  publisher: ACM
+  page: 5:1-5:14
+  URL: http://doi.acm.org/10.1145/2670979.2670984
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/HetheringtonOA15
+  type: paper-conference
+  author:
+  - family: Hetherington
+    given: Tayler H.
+  - family: O’Connor
+    given: Mike
+  - family: Aamodt
+    given: Tor M.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'MemcachedGPU: Scaling-up scale-out key-value stores'
+  title-short: MemcachedGPU
+  container-title: SoCC
+  publisher: ACM
+  page: '43-57'
+  URL: http://doi.acm.org/10.1145/2806777.2806836
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/FreyKK12
+  type: paper-conference
+  author:
+  - family: Frey
+    given: Davide
+  - family: Kermarrec
+    given: Anne-Marie
+  - family: Kloudas
+    given: Konstantinos
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Probabilistic deduplication for cluster-based storage systems
+  container-title: SoCC
+  publisher: ACM
+  page: '17'
+  URL: http://doi.acm.org/10.1145/2391229.2391246
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/ChenYWCHL12
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Rishan
+  - family: Yang
+    given: Mao
+  - family: Weng
+    given: Xuetian
+  - family: Choi
+    given: Byron
+  - family: He
+    given: Bingsheng
+  - family: Li
+    given: Xiaoming
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Improving large graph processing on partitioned graphs in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2391229.2391232
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/NelsonP13
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jude C.
+  - family: Peterson
+    given: Larry L.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Syndicate: Democratizing cloud storage and caching through service composition'
+  title-short: Syndicate
+  container-title: SoCC
+  publisher: ACM
+  page: 46:1-46:2
+  URL: http://doi.acm.org/10.1145/2523616.2525954
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/CarvalhoCBW14
+  type: paper-conference
+  author:
+  - family: Carvalho
+    given: Marcus
+  - family: Cirne
+    given: Walfredo
+  - family: Brasileiro
+    given: Francisco Vilar
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Long-term sLOs for reclaimed cloud computing resources
+  container-title: SoCC
+  publisher: ACM
+  page: 20:1-20:13
+  URL: http://doi.acm.org/10.1145/2670979.2670999
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/RasmussenLCPKV12
+  type: paper-conference
+  author:
+  - family: Rasmussen
+    given: Alexander
+  - family: Lam
+    given: Vinh The
+  - family: Conley
+    given: Michael
+  - family: Porter
+    given: George
+  - family: Kapoor
+    given: Rishi
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Themis: An i/O-efficient mapReduce'
+  title-short: Themis
+  container-title: SoCC
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2391229.2391242
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/LiALGBERM15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Richard
+  - family: Abendroth
+    given: Dallin
+  - family: Lin
+    given: Xing
+  - family: Guo
+    given: Yuankai
+  - family: Baek
+    given: Hyun Wook
+  - family: Eide
+    given: Eric
+  - family: Ricci
+    given: Robert
+  - family: Merwe
+    given: Jacobus E.
+    dropping-particle: van der
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Potassium: Penetration testing as a service'
+  title-short: Potassium
+  container-title: SoCC
+  publisher: ACM
+  page: '30-42'
+  URL: http://doi.acm.org/10.1145/2806777.2806935
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/SharmaCHRD11
+  type: paper-conference
+  author:
+  - family: Sharma
+    given: Bikash
+  - family: Chudnovsky
+    given: Victor
+  - family: Hellerstein
+    given: Joseph L.
+  - family: Rifaat
+    given: Rasekh
+  - family: Das
+    given: Chita R.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Modeling and synthesizing task placement constraints in google compute clusters
+  container-title: SoCC
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2038916.2038919
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/HegazyH13
+  type: paper-conference
+  author:
+  - family: Hegazy
+    given: Tamir
+  - family: Hefeeda
+    given: Mohamed
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Fault-tolerant industrial automation as a cloud service
+  container-title: SoCC
+  publisher: ACM
+  page: 43:1-43:2
+  URL: http://doi.acm.org/10.1145/2523616.2525951
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LiMNR15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Ding
+  - family: Mickens
+    given: James
+  - family: Nath
+    given: Suman
+  - family: Ravindranath
+    given: Lenin
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Domino: Understanding wide-area, asynchronous event causality in web applications'
+  title-short: Domino
+  container-title: SoCC
+  publisher: ACM
+  page: '182-188'
+  URL: http://doi.acm.org/10.1145/2806777.2806940
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/GopalakrishnaLZSSSS12
+  type: paper-conference
+  author:
+  - family: Gopalakrishna
+    given: Kishore
+  - family: Lu
+    given: Shi
+  - family: Zhang
+    given: Zhen
+  - family: Silberstein
+    given: Adam
+  - family: Surlaker
+    given: Kapil
+  - family: Subramonian
+    given: Ramesh
+  - family: Schulman
+    given: Bob
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Untangling cluster management with helix
+  container-title: SoCC
+  publisher: ACM
+  page: '19'
+  URL: http://doi.acm.org/10.1145/2391229.2391248
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/LiuB15
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Feilong
+  - family: Blanas
+    given: Spyros
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Forecasting the cost of processing multi-join queries via hashing for main-memory
+    databases
+  container-title: SoCC
+  publisher: ACM
+  page: '153-166'
+  URL: http://doi.acm.org/10.1145/2806777.2806944
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ChenS11
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Yao
+  - family: Sion
+    given: Radu
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'To cloud or not to cloud?: Musings on costs and viability'
+  title-short: To cloud or not to cloud?
+  container-title: SoCC
+  publisher: ACM
+  page: '29'
+  URL: http://doi.acm.org/10.1145/2038916.2038945
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/DobreVV14
+  type: paper-conference
+  author:
+  - family: Dobre
+    given: Dan
+  - family: Viotti
+    given: Paolo
+  - family: Vukolic
+    given: Marko
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Hybris: Robust hybrid cloud storage'
+  title-short: Hybris
+  container-title: SoCC
+  publisher: ACM
+  page: 12:1-12:14
+  URL: http://doi.acm.org/10.1145/2670979.2670991
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/Abu-LibdehPW10
+  type: paper-conference
+  author:
+  - family: Abu-Libdeh
+    given: Hussam
+  - family: Princehouse
+    given: Lonnie
+  - family: Weatherspoon
+    given: Hakim
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'RACS: A case for cloud storage diversity'
+  title-short: RACS
+  container-title: SoCC
+  publisher: ACM
+  page: '229-240'
+  URL: http://doi.acm.org/10.1145/1807128.1807165
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/RamakrishnanSU12
+  type: paper-conference
+  author:
+  - family: Ramakrishnan
+    given: Smriti R.
+  - family: Swart
+    given: Garret
+  - family: Urmanov
+    given: Aleksey
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Balancing reducer skew in mapReduce workloads using progressive sampling
+  container-title: SoCC
+  publisher: ACM
+  page: '16'
+  URL: http://doi.acm.org/10.1145/2391229.2391245
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/SfakianakisMPPF14
+  type: paper-conference
+  author:
+  - family: Sfakianakis
+    given: Yannis
+  - family: Mavridis
+    given: Stelios
+  - family: Papagiannis
+    given: Anastasios
+  - family: Papageorgiou
+    given: Spyridon
+  - family: Fountoulakis
+    given: Markos
+  - family: Marazakis
+    given: Manolis
+  - family: Bilas
+    given: Angelos
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Vanguard: Increasing server efficiency via workload isolation in the storage
+    i/O path'
+  title-short: Vanguard
+  container-title: SoCC
+  publisher: ACM
+  page: 19:1-19:13
+  URL: http://doi.acm.org/10.1145/2670979.2670998
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/RhodenKZB11
+  type: paper-conference
+  author:
+  - family: Rhoden
+    given: Barret
+  - family: Klues
+    given: Kevin
+  - family: Zhu
+    given: David
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Improving per-node efficiency in the datacenter with new oS abstractions
+  container-title: SoCC
+  publisher: ACM
+  page: '25'
+  URL: http://doi.acm.org/10.1145/2038916.2038941
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/XuPS0G15
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Lianghong
+  - family: Pavlo
+    given: Andrew
+  - family: Sengupta
+    given: Sudipta
+  - family: '0001'
+    given: Jin Li
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Reducing replication bandwidth for distributed document databases
+  container-title: SoCC
+  publisher: ACM
+  page: '222-235'
+  URL: http://doi.acm.org/10.1145/2806777.2806840
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/Walraed-SullivanMTZMV11
+  type: paper-conference
+  author:
+  - family: Walraed-Sullivan
+    given: Meg
+  - family: Mysore
+    given: Radhika Niranjan
+  - family: Tewari
+    given: Malveeka
+  - family: Zhang
+    given: Ying
+  - family: Marzullo
+    given: Keith
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'ALIAS: Scalable, decentralized label assignment for data centers'
+  title-short: ALIAS
+  container-title: SoCC
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2038916.2038922
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/AlicherryACB13
+  type: paper-conference
+  author:
+  - family: Alicherry
+    given: Mansoor
+  - family: Anand
+    given: Ashok
+  - family: Chandrabose
+    given: Shoban Preeth
+  - family: Benson
+    given: Theophilus
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'CloudSSI: Revisiting sSI in cloud era'
+  title-short: CloudSSI
+  container-title: SoCC
+  publisher: ACM
+  page: 51:1
+  URL: http://doi.acm.org/10.1145/2523616.2525959
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/CoppaF15
+  type: paper-conference
+  author:
+  - family: Coppa
+    given: Emilio
+  - family: Finocchi
+    given: Irene
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: On data skewness, stragglers, and mapReduce progress indicators
+  container-title: SoCC
+  publisher: ACM
+  page: '139-152'
+  URL: http://doi.acm.org/10.1145/2806777.2806843
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/WuLMO11
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Sai
+  - family: Li
+    given: Feng
+  - family: Mehrotra
+    given: Sharad
+  - family: Ooi
+    given: Beng Chin
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Query optimization for massively parallel data processing
+  container-title: SoCC
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2038916.2038928
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/KesavanGS10
+  type: paper-conference
+  author:
+  - family: Kesavan
+    given: Mukil
+  - family: Gavrilovska
+    given: Ada
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Differential virtual time (dVT): Rethinking i/O service differentiation
+    for virtual machines'
+  title-short: Differential virtual time (dVT)
+  container-title: SoCC
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1807128.1807135
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/ZhangDZ15
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Quanlu
+  - family: Dai
+    given: Yafei
+  - family: Zhang
+    given: Lintao
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'DSwitch: A dual mode direct and network attached disk'
+  title-short: DSwitch
+  container-title: SoCC
+  publisher: ACM
+  page: '71-83'
+  URL: http://doi.acm.org/10.1145/2806777.2806850
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/CurinoDDKRR14
+  type: paper-conference
+  author:
+  - family: Curino
+    given: Carlo
+  - family: Difallah
+    given: Djellel Eddine
+  - family: Douglas
+    given: Chris
+  - family: Krishnan
+    given: Subru
+  - family: Ramakrishnan
+    given: Raghu
+  - family: Rao
+    given: Sriram
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Reservation-based scheduling: If you’re late don’t blame us!'
+  title-short: Reservation-based scheduling
+  container-title: SoCC
+  publisher: ACM
+  page: 2:1-2:14
+  URL: http://doi.acm.org/10.1145/2670979.2670981
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/JalapartiBCKR12
+  type: paper-conference
+  author:
+  - family: Jalaparti
+    given: Virajith
+  - family: Ballani
+    given: Hitesh
+  - family: Costa
+    given: Paolo
+  - family: Karagiannis
+    given: Thomas
+  - family: Rowstron
+    given: Antony I. T.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Bridging the tenant-provider gap in cloud services
+  container-title: SoCC
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2391229.2391239
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/HongT13
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Yu-Ju
+  - family: Thottethodi
+    given: Mithuna
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Understanding and mitigating the impact of load imbalance in the memory caching
+    tier
+  container-title: SoCC
+  publisher: ACM
+  page: 13:1-13:17
+  URL: http://doi.acm.org/10.1145/2523616.2525970
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/Baset12
+  type: paper-conference
+  author:
+  - family: Baset
+    given: Salman
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Open source cloud technologies
+  container-title: SoCC
+  publisher: ACM
+  page: '28'
+  URL: http://doi.acm.org/10.1145/2391229.2391257
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/BailisFGHS12
+  type: paper-conference
+  author:
+  - family: Bailis
+    given: Peter
+  - family: Fekete
+    given: Alan
+  - family: Ghodsi
+    given: Ali
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: The potential dangers of causal consistency and an explicit solution
+  container-title: SoCC
+  publisher: ACM
+  page: '22'
+  URL: http://doi.acm.org/10.1145/2391229.2391251
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/ChengW12
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Luwei
+  - family: Wang
+    given: Cho-Li
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'VBalance: Using interrupt load balance to improve i/O performance for
+    sMP virtual machines'
+  title-short: VBalance
+  container-title: SoCC
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2391229.2391231
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/DeyMK14
+  type: paper-conference
+  author:
+  - family: Dey
+    given: Kallol
+  - family: Mishra
+    given: Debadatta
+  - family: Kulkarni
+    given: Purushottam
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Vagabond: Dynamic network endpoint reconfiguration in virtualized environments'
+  title-short: Vagabond
+  container-title: SoCC
+  publisher: ACM
+  page: 21:1-21:13
+  URL: http://doi.acm.org/10.1145/2670979.2671000
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ChenH13
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Chih-Chun
+  - family: Hsueh
+    given: Yu-Ling
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Decentralized privacy protection strategies for location-based services
+  container-title: SoCC
+  publisher: ACM
+  page: 48:1-48:2
+  URL: http://doi.acm.org/10.1145/2523616.2525956
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/DongYJPMLG13
+  type: paper-conference
+  author:
+  - family: Dong
+    given: Yaozu
+  - family: Ye
+    given: Wei
+  - family: Jiang
+    given: Yunhong
+  - family: Pratt
+    given: Ian
+  - family: Ma
+    given: ShiQing
+  - family: Li
+    given: Jian
+  - family: Guan
+    given: Haibing
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'COLO: COarse-grained lOck-stepping virtual machines for non-stop service'
+  title-short: COLO
+  container-title: SoCC
+  publisher: ACM
+  page: 3:1-3:16
+  URL: http://doi.acm.org/10.1145/2523616.2523630
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/AppuswamyGNHR13
+  type: paper-conference
+  author:
+  - family: Appuswamy
+    given: Raja
+  - family: Gkantsidis
+    given: Christos
+  - family: Narayanan
+    given: Dushyanth
+  - family: Hodson
+    given: Orion
+  - family: Rowstron
+    given: Antony I. T.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Scale-up vs scale-out for hadoop: Time to rethink?'
+  title-short: Scale-up vs scale-out for hadoop
+  container-title: SoCC
+  publisher: ACM
+  page: 20:1-20:13
+  URL: http://doi.acm.org/10.1145/2523616.2523629
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/DingKDG15
+  type: paper-conference
+  author:
+  - family: Ding
+    given: Bailu
+  - family: Kot
+    given: Lucja
+  - family: Demers
+    given: Alan J.
+  - family: Gehrke
+    given: Johannes
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Centiman: Elastic, high performance optimistic concurrency control by
+    watermarking'
+  title-short: Centiman
+  container-title: SoCC
+  publisher: ACM
+  page: '262-275'
+  URL: http://doi.acm.org/10.1145/2806777.2806837
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/DoHLPG13
+  type: paper-conference
+  author:
+  - family: Do
+    given: Thanh
+  - family: Hao
+    given: Mingzhe
+  - family: Leesatapornwongsa
+    given: Tanakorn
+  - family: Patana-anake
+    given: Tiratat
+  - family: Gunawi
+    given: Haryadi S.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Limplock: Understanding the impact of limpware on scale-out cloud systems'
+  title-short: Limplock
+  container-title: SoCC
+  publisher: ACM
+  page: 14:1-14:14
+  URL: http://doi.acm.org/10.1145/2523616.2523627
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/JayathilakaA13
+  type: paper-conference
+  author:
+  - family: Jayathilaka
+    given: Hiranya
+  - family: Agun
+    given: Michael
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Extending modern paaS clouds with bSP to execute legacy mPI applications
+  container-title: SoCC
+  publisher: ACM
+  page: 34:1-34:2
+  URL: http://doi.acm.org/10.1145/2523616.2525942
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/CandeaBZ10
+  type: paper-conference
+  author:
+  - family: Candea
+    given: George
+  - family: Bucur
+    given: Stefan
+  - family: Zamfir
+    given: Cristian
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Automated software testing as a service
+  container-title: SoCC
+  publisher: ACM
+  page: '155-160'
+  URL: http://doi.acm.org/10.1145/1807128.1807153
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/ChenSS14
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Liuhua
+  - family: Shen
+    given: Haiying
+  - family: Sapra
+    given: Karan
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Distributed autonomous virtual resource management in datacenters using finite-markov
+    decision process
+  container-title: SoCC
+  publisher: ACM
+  page: 24:1-24:13
+  URL: http://doi.acm.org/10.1145/2670979.2671003
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/HuangZS15
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Jian
+  - family: Zhang
+    given: Xuechen
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Understanding issue correlations: A case study of the hadoop system'
+  title-short: Understanding issue correlations
+  container-title: SoCC
+  publisher: ACM
+  page: '2-15'
+  URL: http://doi.acm.org/10.1145/2806777.2806937
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/PrekasPBKB15
+  type: paper-conference
+  author:
+  - family: Prekas
+    given: George
+  - family: Primorac
+    given: Mia
+  - family: Belay
+    given: Adam
+  - family: Kozyrakis
+    given: Christos
+  - family: Bugnion
+    given: Edouard
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Energy proportionality and workload consolidation for latency-critical applications
+  container-title: SoCC
+  publisher: ACM
+  page: '342-355'
+  URL: http://doi.acm.org/10.1145/2806777.2806848
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/StuediMT13
+  type: paper-conference
+  author:
+  - family: Stuedi
+    given: Patrick
+  - family: Metzler
+    given: Bernard
+  - family: Trivedi
+    given: Animesh
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'JVerbs: Ultra-low latency for data center applications'
+  title-short: JVerbs
+  container-title: SoCC
+  publisher: ACM
+  page: 10:1-10:14
+  URL: http://doi.acm.org/10.1145/2523616.2523631
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/RaiBG12
+  type: paper-conference
+  author:
+  - family: Rai
+    given: Anshul
+  - family: Bhagwan
+    given: Ranjita
+  - family: Guha
+    given: Saikat
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Generalized resource allocation for the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/2391229.2391244
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/IslamVL15
+  type: paper-conference
+  author:
+  - family: Islam
+    given: Sadeka
+  - family: Venugopal
+    given: Srikumar
+  - family: Liu
+    given: Anna
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Evaluating the impact of fine-scale burstiness on cloud elasticity
+  container-title: SoCC
+  publisher: ACM
+  page: '250-261'
+  URL: http://doi.acm.org/10.1145/2806777.2806846
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/KapoorPTVV12
+  type: paper-conference
+  author:
+  - family: Kapoor
+    given: Rishi
+  - family: Porter
+    given: George
+  - family: Tewari
+    given: Malveeka
+  - family: Voelker
+    given: Geoffrey M.
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Chronos: Predictable low latency for data center applications'
+  title-short: Chronos
+  container-title: SoCC
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2391229.2391238
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/DasAA10
+  type: paper-conference
+  author:
+  - family: Das
+    given: Sudipto
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'G-store: A scalable data store for transactional multi key access in the
+    cloud'
+  title-short: G-store
+  container-title: SoCC
+  publisher: ACM
+  page: '163-174'
+  URL: http://doi.acm.org/10.1145/1807128.1807157
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/KleinMAH13
+  type: paper-conference
+  author:
+  - family: Klein
+    given: Cristian
+  - family: Maggio
+    given: Martina
+  - family: Årzén
+    given: Karl-Erik
+  - family: Hernández-Rodriguez
+    given: Francisco
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Introducing service-level awareness in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: 29:1-29:2
+  URL: http://doi.acm.org/10.1145/2523616.2525936
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ScolariSBSS13
+  type: paper-conference
+  author:
+  - family: Scolari
+    given: Alberto
+  - family: Sironi
+    given: Filippo
+  - family: Bartolini
+    given: Davide B.
+  - family: Sciuto
+    given: Donatella
+  - family: Santambrogio
+    given: Marco D.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Coloring the cloud for predictable performance
+  container-title: SoCC
+  publisher: ACM
+  page: 47:1-47:2
+  URL: http://doi.acm.org/10.1145/2523616.2525955
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/GovindanLKS11
+  type: paper-conference
+  author:
+  - family: Govindan
+    given: Sriram
+  - family: Liu
+    given: Jie
+  - family: Kansal
+    given: Aman
+  - family: Sivasubramaniam
+    given: Anand
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Cuanta: Quantifying effects of shared on-chip resource interference for
+    consolidated virtual machines'
+  title-short: Cuanta
+  container-title: SoCC
+  publisher: ACM
+  page: '22'
+  URL: http://doi.acm.org/10.1145/2038916.2038938
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BhattacharyaCFGSS13
+  type: paper-conference
+  author:
+  - family: Bhattacharya
+    given: Arka Aloke
+  - family: Culler
+    given: David E.
+  - family: Friedman
+    given: Eric J.
+  - family: Ghodsi
+    given: Ali
+  - family: Shenker
+    given: Scott
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Hierarchical scheduling for diverse datacenter workloads
+  container-title: SoCC
+  publisher: ACM
+  page: 4:1-4:15
+  URL: http://doi.acm.org/10.1145/2523616.2523637
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/Madden15
+  type: paper-conference
+  author:
+  - family: Madden
+    given: Samuel
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Interactive data analytics: The new frontier'
+  title-short: Interactive data analytics
+  container-title: SoCC
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2806777.2809956
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/HuaiLZX011
+  type: paper-conference
+  author:
+  - family: Huai
+    given: Yin
+  - family: Lee
+    given: Rubao
+  - family: Zhang
+    given: Simon
+  - family: Xia
+    given: Cathy H.
+  - family: '0001'
+    given: Xiaodong Zhang
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'DOT: A matrix model for analyzing, optimizing and deploying software for
+    big data analytics in distributed systems'
+  title-short: DOT
+  container-title: SoCC
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2038916.2038920
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/Sobel10
+  type: paper-conference
+  author:
+  - family: Sobel
+    given: Jason
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Building facebook: Performance at massive scale'
+  title-short: Building facebook
+  container-title: SoCC
+  publisher: ACM
+  page: '87'
+  URL: http://doi.acm.org/10.1145/1807128.1807142
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/GuoGRSVL13
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Tian
+  - family: Gopalakrishnan
+    given: Vijay
+  - family: Ramakrishnan
+    given: K. K.
+  - family: Shenoy
+    given: Prashant J.
+  - family: Venkataramani
+    given: Arun
+  - family: Lee
+    given: Seungjoon
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'VMShadow: Optimizing the performance of virtual desktops in distributed
+    clouds'
+  title-short: VMShadow
+  container-title: SoCC
+  publisher: ACM
+  page: 42:1-42:2
+  URL: http://doi.acm.org/10.1145/2523616.2525950
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/SparksTHFJK15
+  type: paper-conference
+  author:
+  - family: Sparks
+    given: Evan R.
+  - family: Talwalkar
+    given: Ameet
+  - family: Haas
+    given: Daniel
+  - family: Franklin
+    given: Michael J.
+  - family: Jordan
+    given: Michael I.
+  - family: Kraska
+    given: Tim
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Automating model search for large scale machine learning
+  container-title: SoCC
+  publisher: ACM
+  page: '368-380'
+  URL: http://doi.acm.org/10.1145/2806777.2806945
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/NathanBK15
+  type: paper-conference
+  author:
+  - family: Nathan
+    given: Senthil
+  - family: Bellur
+    given: Umesh
+  - family: Kulkarni
+    given: Purushottam
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Towards a comprehensive performance model of virtual machine live migration
+  container-title: SoCC
+  publisher: ACM
+  page: '288-301'
+  URL: http://doi.acm.org/10.1145/2806777.2806838
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/StefanoviciTOSB15
+  type: paper-conference
+  author:
+  - family: Stefanovici
+    given: Ioan A.
+  - family: Thereska
+    given: Eno
+  - family: O’Shea
+    given: Greg
+  - family: Schroeder
+    given: Bianca
+  - family: Ballani
+    given: Hitesh
+  - family: Karagiannis
+    given: Thomas
+  - family: Rowstron
+    given: Antony I. T.
+  - family: Talpey
+    given: Tom
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Software-defined caching: Managing caches in multi-tenant data centers'
+  title-short: Software-defined caching
+  container-title: SoCC
+  publisher: ACM
+  page: '174-181'
+  URL: http://doi.acm.org/10.1145/2806777.2806933
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/YadwadkarAK14
+  type: paper-conference
+  author:
+  - family: Yadwadkar
+    given: Neeraja J.
+  - family: Ananthanarayanan
+    given: Ganesh
+  - family: Katz
+    given: Randy H.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Wrangler: Predictable and faster jobs using fewer resources'
+  title-short: Wrangler
+  container-title: SoCC
+  publisher: ACM
+  page: 26:1-26:14
+  URL: http://doi.acm.org/10.1145/2670979.2671005
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/WuYXXMWLDZ15
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Ming
+  - family: Yang
+    given: Fan
+  - family: Xue
+    given: Jilong
+  - family: Xiao
+    given: Wencong
+  - family: Miao
+    given: Youshan
+  - family: Wei
+    given: Lan
+  - family: Lin
+    given: Haoxiang
+  - family: Dai
+    given: Yafei
+  - family: Zhou
+    given: Lidong
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'GraM: Scaling graph computation to the trillions'
+  title-short: GraM
+  container-title: SoCC
+  publisher: ACM
+  page: '408-421'
+  URL: http://doi.acm.org/10.1145/2806777.2806849
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/Bu13
+  type: paper-conference
+  author:
+  - family: Bu
+    given: Yingyi
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Pregelix: Dataflow-based big graph analytics'
+  title-short: Pregelix
+  container-title: SoCC
+  publisher: ACM
+  page: 54:1-54:2
+  URL: http://doi.acm.org/10.1145/2523616.2525962
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LeibertMLH11
+  type: paper-conference
+  author:
+  - family: Leibert
+    given: Florian
+  - family: Mannix
+    given: Jake
+  - family: Lin
+    given: Jimmy
+  - family: Hamadani
+    given: Babak
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Automatic management of partitioned, replicated search services
+  container-title: SoCC
+  publisher: ACM
+  page: '27'
+  URL: http://doi.acm.org/10.1145/2038916.2038943
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/XiaoRZG15
+  type: paper-conference
+  author:
+  - family: Xiao
+    given: Lin
+  - family: Ren
+    given: Kai
+  - family: Zheng
+    given: Qing
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'ShardFS vs. indexFS: Replication vs. caching strategies for distributed
+    metadata management in cloud storage systems'
+  title-short: ShardFS vs. indexFS
+  container-title: SoCC
+  publisher: ACM
+  page: '236-249'
+  URL: http://doi.acm.org/10.1145/2806777.2806844
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/PalasamudramSUU12
+  type: paper-conference
+  author:
+  - family: Palasamudram
+    given: Darshan S.
+  - family: Sitaraman
+    given: Ramesh K.
+  - family: Urgaonkar
+    given: Bhuvan
+  - family: Urgaonkar
+    given: Rahul
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Using batteries to reduce the power costs of internet-scale distributed networks
+  container-title: SoCC
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2391229.2391240
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/VavilapalliMDAKEGLSSSCORRB13
+  type: paper-conference
+  author:
+  - family: Vavilapalli
+    given: Vinod Kumar
+  - family: Murthy
+    given: Arun C.
+  - family: Douglas
+    given: Chris
+  - family: Agarwal
+    given: Sharad
+  - family: Konar
+    given: Mahadev
+  - family: Evans
+    given: Robert
+  - family: Graves
+    given: Thomas
+  - family: Lowe
+    given: Jason
+  - family: Shah
+    given: Hitesh
+  - family: Seth
+    given: Siddharth
+  - family: Saha
+    given: Bikas
+  - family: Curino
+    given: Carlo
+  - family: O’Malley
+    given: Owen
+  - family: Radia
+    given: Sanjay
+  - family: Reed
+    given: Benjamin
+  - family: Baldeschwieler
+    given: Eric
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Apache hadoop yARN: Yet another resource negotiator'
+  title-short: Apache hadoop yARN
+  container-title: SoCC
+  publisher: ACM
+  page: 5:1-5:16
+  URL: http://doi.acm.org/10.1145/2523616.2523633
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/KansalZLKB10
+  type: paper-conference
+  author:
+  - family: Kansal
+    given: Aman
+  - family: Zhao
+    given: Feng
+  - family: Liu
+    given: Jie
+  - family: Kothari
+    given: Nupur
+  - family: Bhattacharya
+    given: Arka Aloke
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Virtual machine power metering and provisioning
+  container-title: SoCC
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/1807128.1807136
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/ZatsIAAKSV15
+  type: paper-conference
+  author:
+  - family: Zats
+    given: David
+  - family: Iyer
+    given: Anand Padmanabha
+  - family: Ananthanarayanan
+    given: Ganesh
+  - family: Agarwal
+    given: Rachit
+  - family: Katz
+    given: Randy H.
+  - family: Stoica
+    given: Ion
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'FastLane: Making short flows shorter with agile drop notification'
+  title-short: FastLane
+  container-title: SoCC
+  publisher: ACM
+  page: '84-96'
+  URL: http://doi.acm.org/10.1145/2806777.2806852
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/JuSSRS13
+  type: paper-conference
+  author:
+  - family: Ju
+    given: Xiaoen
+  - family: Soares
+    given: Livio
+  - family: Shin
+    given: Kang G.
+  - family: Ryu
+    given: Kyung Dong
+  - family: Silva
+    given: Dilma Da
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: On fault resilience of openStack
+  container-title: SoCC
+  publisher: ACM
+  page: 2:1-2:16
+  URL: http://doi.acm.org/10.1145/2523616.2523622
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/GamageKKX11
+  type: paper-conference
+  author:
+  - family: Gamage
+    given: Sahan
+  - family: Kangarlou
+    given: Ardalan
+  - family: Kompella
+    given: Ramana Rao
+  - family: Xu
+    given: Dongyan
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Opportunistic flooding to improve tCP transmit performance in virtualized
+    clouds
+  container-title: SoCC
+  publisher: ACM
+  page: '24'
+  URL: http://doi.acm.org/10.1145/2038916.2038940
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/LuG13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Jiamin
+  - family: Güting
+    given: Ralf Hartmut
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Simple and efficient coupling of hadoop with a database engine
+  container-title: SoCC
+  publisher: ACM
+  page: 32:1-32:2
+  URL: http://doi.acm.org/10.1145/2523616.2525940
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/KoHCG10
+  type: paper-conference
+  author:
+  - family: Ko
+    given: Steven Y.
+  - family: Hoque
+    given: Imranul
+  - family: Cho
+    given: Brian
+  - family: Gupta
+    given: Indranil
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Making cloud intermediate data fault-tolerant
+  container-title: SoCC
+  publisher: ACM
+  page: '181-192'
+  URL: http://doi.acm.org/10.1145/1807128.1807160
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/CooperSTRS10
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Brian F.
+  - family: Silberstein
+    given: Adam
+  - family: Tam
+    given: Erwin
+  - family: Ramakrishnan
+    given: Raghu
+  - family: Sears
+    given: Russell
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Benchmarking cloud serving systems with yCSB
+  container-title: SoCC
+  publisher: ACM
+  page: '143-154'
+  URL: http://doi.acm.org/10.1145/1807128.1807152
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/LeePS13
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Seungjoon
+  - family: Purohit
+    given: Manish
+  - family: Saha
+    given: Barna
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Firewall placement in cloud data centers
+  container-title: SoCC
+  publisher: ACM
+  page: 52:1-52:2
+  URL: http://doi.acm.org/10.1145/2523616.2525960
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/SaemundssonBCV14
+  type: paper-conference
+  author:
+  - family: Saemundsson
+    given: Trausti
+  - family: Bjornsson
+    given: Hjortur
+  - family: Chockler
+    given: Gregory
+  - family: Vigfusson
+    given: Ymir
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Dynamic performance profiling of cloud caches
+  container-title: SoCC
+  publisher: ACM
+  page: 28:1-28:14
+  URL: http://doi.acm.org/10.1145/2670979.2671007
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/ChoRCGARL13
+  type: paper-conference
+  author:
+  - family: Cho
+    given: Brian
+  - family: Rahman
+    given: Muntasir Raihan
+  - family: Chajed
+    given: Tej
+  - family: Gupta
+    given: Indranil
+  - family: Abad
+    given: Cristina
+  - family: Roberts
+    given: Nathan
+  - family: Lin
+    given: Philbert
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Natjam: Design and evaluation of eviction policies for supporting priorities
+    and deadlines in mapreduce clusters'
+  title-short: Natjam
+  container-title: SoCC
+  publisher: ACM
+  page: 6:1-6:17
+  URL: http://doi.acm.org/10.1145/2523616.2523624
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/Brewer15
+  type: paper-conference
+  author:
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Kubernetes and the path to cloud native
+  container-title: SoCC
+  publisher: ACM
+  page: '167'
+  URL: http://doi.acm.org/10.1145/2806777.2809955
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/RamakrishnanJCCS10
+  type: paper-conference
+  author:
+  - family: Ramakrishnan
+    given: Lavanya
+  - family: Jackson
+    given: Keith R.
+  - family: Canon
+    given: Shane
+  - family: Cholia
+    given: Shreyas
+  - family: Shalf
+    given: John
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Defining future platform requirements for e-science clouds
+  container-title: SoCC
+  publisher: ACM
+  page: '101-106'
+  URL: http://doi.acm.org/10.1145/1807128.1807145
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/BoehmBERSTT13
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Matthias Boehm
+  - family: Burdick
+    given: Douglas
+  - family: Evfimievski
+    given: Alexandre V.
+  - family: Reinwald
+    given: Berthold
+  - family: Sen
+    given: Prithviraj
+  - family: Tatikonda
+    given: Shirish
+  - family: Tian
+    given: Yuanyuan
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Compiling machine learning algorithms with systemML
+  container-title: SoCC
+  publisher: ACM
+  page: 57:1
+  URL: http://doi.acm.org/10.1145/2523616.2525965
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/AradSH13
+  type: paper-conference
+  author:
+  - family: Arad
+    given: Cosmin
+  - family: Shafaat
+    given: Tallat M.
+  - family: Haridi
+    given: Seif
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'CATS: A linearizable and self-organizing key-value store'
+  title-short: CATS
+  container-title: SoCC
+  publisher: ACM
+  page: 37:1-37:2
+  URL: http://doi.acm.org/10.1145/2523616.2525945
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/KaragiannisGNR10
+  type: paper-conference
+  author:
+  - family: Karagiannis
+    given: Thomas
+  - family: Gkantsidis
+    given: Christos
+  - family: Narayanan
+    given: Dushyanth
+  - family: Rowstron
+    given: Antony I. T.
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Hermes: Clustering users in large-scale e-mail services'
+  title-short: Hermes
+  container-title: SoCC
+  publisher: ACM
+  page: '89-100'
+  URL: http://doi.acm.org/10.1145/1807128.1807144
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/RaoRSOR12
+  type: paper-conference
+  author:
+  - family: Rao
+    given: Sriram
+  - family: Ramakrishnan
+    given: Raghu
+  - family: Silberstein
+    given: Adam
+  - family: Ovsiannikov
+    given: Mike
+  - family: Reeves
+    given: Damian
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Sailfish: A framework for large scale data processing'
+  title-short: Sailfish
+  container-title: SoCC
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2391229.2391233
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/BykovGKLPT11
+  type: paper-conference
+  author:
+  - family: Bykov
+    given: Sergey
+  - family: Geller
+    given: Alan
+  - family: Kliot
+    given: Gabriel
+  - family: Larus
+    given: James R.
+  - family: Pandya
+    given: Ravi
+  - family: Thelin
+    given: Jorgen
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Orleans: Cloud computing for everyone'
+  title-short: Orleans
+  container-title: SoCC
+  publisher: ACM
+  page: '16'
+  URL: http://doi.acm.org/10.1145/2038916.2038932
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BlanasP13
+  type: paper-conference
+  author:
+  - family: Blanas
+    given: Spyros
+  - family: Patel
+    given: Jignesh M.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Memory footprint matters: Efficient equi-join algorithms for main memory
+    data processing'
+  title-short: Memory footprint matters
+  container-title: SoCC
+  publisher: ACM
+  page: 19:1-19:16
+  URL: http://doi.acm.org/10.1145/2523616.2523626
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LogothetisDY13
+  type: paper-conference
+  author:
+  - family: Logothetis
+    given: Dionysios
+  - family: De
+    given: Soumyarupa
+  - family: Yocum
+    given: Kenneth
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Scalable lineage capture for debugging dISC analytics
+  container-title: SoCC
+  publisher: ACM
+  page: 17:1-17:15
+  URL: http://doi.acm.org/10.1145/2523616.2523619
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/FuZLXB13
+  type: paper-conference
+  author:
+  - family: Fu
+    given: Min
+  - family: Zhu
+    given: Liming
+  - family: Liu
+    given: Anna
+  - family: Xu
+    given: Xiwei
+  - family: Bass
+    given: Len
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Process-oriented recovery for operations on cloud applications
+  container-title: SoCC
+  publisher: ACM
+  page: 50:1-50:2
+  URL: http://doi.acm.org/10.1145/2523616.2525958
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/WangVAKS12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Andrew
+  - family: Venkataraman
+    given: Shivaram
+  - family: Alspaugh
+    given: Sara
+  - family: Katz
+    given: Randy H.
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Cake: Enabling high-level sLOs on shared storage systems'
+  title-short: Cake
+  container-title: SoCC
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/2391229.2391243
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/GulatiSAWU11
+  type: paper-conference
+  author:
+  - family: Gulati
+    given: Ajay
+  - family: Shanmuganathan
+    given: Ganesha
+  - family: Ahmad
+    given: Irfan
+  - family: Waldspurger
+    given: Carl A.
+  - family: Uysal
+    given: Mustafa
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Pesto: Online storage performance management in virtualized datacenters'
+  title-short: Pesto
+  container-title: SoCC
+  publisher: ACM
+  page: '19'
+  URL: http://doi.acm.org/10.1145/2038916.2038935
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/MoshrefSMGG13
+  type: paper-conference
+  author:
+  - family: Moshref
+    given: Masoud
+  - family: Sharma
+    given: Abhishek B.
+  - family: Madhyastha
+    given: Harsha V.
+  - family: Golubchik
+    given: Leana
+  - family: Govindan
+    given: Ramesh
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'MRM: Delivering predictability and service differentiation in shared compute
+    clusters'
+  title-short: MRM
+  container-title: SoCC
+  publisher: ACM
+  page: 27:1
+  URL: http://doi.acm.org/10.1145/2523616.2525934
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/TumanovCGK12
+  type: paper-conference
+  author:
+  - family: Tumanov
+    given: Alexey
+  - family: Cipar
+    given: James
+  - family: Ganger
+    given: Gregory R.
+  - family: Kozuch
+    given: Michael A.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Alsched: Algebraic scheduling of mixed workloads in heterogeneous clouds'
+  title-short: Alsched
+  container-title: SoCC
+  publisher: ACM
+  page: '25'
+  URL: http://doi.acm.org/10.1145/2391229.2391254
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/PauloP13
+  type: paper-conference
+  author:
+  - family: Paulo
+    given: João
+  - family: Pereira
+    given: José
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'DEDIS: Distributed exact deduplication for primary storage infrastructures'
+  title-short: DEDIS
+  container-title: SoCC
+  publisher: ACM
+  page: 60:1-60:2
+  URL: http://doi.acm.org/10.1145/2523616.2528936
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/BuLM13
+  type: paper-conference
+  author:
+  - family: Bu
+    given: Yingyi
+  - family: Lee
+    given: Hongrae
+  - family: Madhavan
+    given: Jayant
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Comparing sSD-placement strategies to scale a database-in-the-cloud
+  container-title: SoCC
+  publisher: ACM
+  page: 41:1-41:2
+  URL: http://doi.acm.org/10.1145/2523616.2525949
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/RajagopalanWJ13
+  type: paper-conference
+  author:
+  - family: Rajagopalan
+    given: Shriram
+  - family: Williams
+    given: Dan
+  - family: Jamjoom
+    given: Hani
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Pico replication: A high availability framework for middleboxes'
+  title-short: Pico replication
+  container-title: SoCC
+  publisher: ACM
+  page: 1:1-1:15
+  URL: http://doi.acm.org/10.1145/2523616.2523635
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ShinWS11
+  type: paper-conference
+  author:
+  - family: Shin
+    given: Ji-Yong
+  - family: Wong
+    given: Bernard
+  - family: Sirer
+    given: Emin Gün
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Small-world datacenters
+  container-title: SoCC
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2038916.2038918
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/GunawiHLPDAELLM14
+  type: paper-conference
+  author:
+  - family: Gunawi
+    given: Haryadi S.
+  - family: Hao
+    given: Mingzhe
+  - family: Leesatapornwongsa
+    given: Tanakorn
+  - family: Patana-anake
+    given: Tiratat
+  - family: Do
+    given: Thanh
+  - family: Adityatama
+    given: Jeffry
+  - family: Eliazar
+    given: Kurnia J.
+  - family: Laksono
+    given: Agung
+  - family: Lukman
+    given: Jeffrey F.
+  - family: Martin
+    given: Vincentius
+  - family: Satria
+    given: Anang D.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'What bugs live in the cloud?: A study of 3000+ issues in cloud systems'
+  title-short: What bugs live in the cloud?
+  container-title: SoCC
+  publisher: ACM
+  page: 7:1-7:14
+  URL: http://doi.acm.org/10.1145/2670979.2670986
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/AlvaroBCH13
+  type: paper-conference
+  author:
+  - family: Alvaro
+    given: Peter
+  - family: Bailis
+    given: Peter
+  - family: Conway
+    given: Neil
+  - family: Hellerstein
+    given: Joseph M.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Consistency without borders
+  container-title: SoCC
+  publisher: ACM
+  page: 23:1-23:10
+  URL: http://doi.acm.org/10.1145/2523616.2523632
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/ZhuTKHG14
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Timothy
+  - family: Tumanov
+    given: Alexey
+  - family: Kozuch
+    given: Michael A.
+  - family: Harchol-Balter
+    given: Mor
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'PriorityMeister: Tail latency qoS for shared networked storage'
+  title-short: PriorityMeister
+  container-title: SoCC
+  publisher: ACM
+  page: 29:1-29:14
+  URL: http://doi.acm.org/10.1145/2670979.2671008
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/2013
+  type: book
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: ACM symposium on cloud computing, sOCC ’13, santa clara, cA, uSA, october
+    1-3, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2523616
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/DuI0Z14
+  type: paper-conference
+  author:
+  - family: Du
+    given: Jiaqing
+  - family: Iorgulescu
+    given: Calin
+  - family: '0002'
+    given: Amitabha Roy
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'GentleRain: Cheap and scalable causal consistency with physical clocks'
+  title-short: GentleRain
+  container-title: SoCC
+  publisher: ACM
+  page: 4:1-4:13
+  URL: http://doi.acm.org/10.1145/2670979.2670983
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/QaziLS13
+  type: paper-conference
+  author:
+  - family: Qazi
+    given: Kashifuddin
+  - family: Li
+    given: Yang
+  - family: Sohn
+    given: Andrew
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'PoWER: Prediction of workload for energy efficient relocation of virtual
+    machines'
+  title-short: PoWER
+  container-title: SoCC
+  publisher: ACM
+  page: 31:1-31:2
+  URL: http://doi.acm.org/10.1145/2523616.2525938
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/2014
+  type: book
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: Proceedings of the aCM symposium on cloud computing, seattle, wA, uSA, november
+    03 - 05, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2670979
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/Abu-LibdehRV13
+  type: paper-conference
+  author:
+  - family: Abu-Libdeh
+    given: Hussam
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Vigfusson
+    given: Ymir
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Leveraging sharding in the design of scalable replication protocols
+  container-title: SoCC
+  publisher: ACM
+  page: 12:1-12:16
+  URL: http://doi.acm.org/10.1145/2523616.2523623
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/2015
+  type: book
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Proceedings of the sixth aCM symposium on cloud computing, soCC 2015, kohala
+    coast, hawaii, uSA, august 27-29, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2806777
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/KicimanLMW10
+  type: paper-conference
+  author:
+  - family: Kiciman
+    given: Emre
+  - family: Livshits
+    given: V. Benjamin
+  - family: Musuvathi
+    given: Madanlal
+  - family: Webb
+    given: Kevin C.
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Fluxo: A system for internet service programming by non-expert developers'
+  title-short: Fluxo
+  container-title: SoCC
+  publisher: ACM
+  page: '107-118'
+  URL: http://doi.acm.org/10.1145/1807128.1807147
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/KwonBHR10
+  type: paper-conference
+  author:
+  - family: Kwon
+    given: YongChul
+  - family: Balazinska
+    given: Magdalena
+  - family: Howe
+    given: Bill
+  - family: Rolia
+    given: Jerome A.
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Skew-resistant parallel processing of feature-extracting scientific user-defined
+    functions
+  container-title: SoCC
+  publisher: ACM
+  page: '75-86'
+  URL: http://doi.acm.org/10.1145/1807128.1807140
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/LiGZSS14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Haoyuan
+  - family: Ghodsi
+    given: Ali
+  - family: Zaharia
+    given: Matei
+  - family: Shenker
+    given: Scott
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'Tachyon: Reliable, memory speed storage for cluster computing frameworks'
+  title-short: Tachyon
+  container-title: SoCC
+  publisher: ACM
+  page: 6:1-6:15
+  URL: http://doi.acm.org/10.1145/2670979.2670985
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/JindalQD11
+  type: paper-conference
+  author:
+  - family: Jindal
+    given: Alekh
+  - family: Quiané-Ruiz
+    given: Jorge-Arnulfo
+  - family: Dittrich
+    given: Jens
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Trojan data layouts: Right shoes for a running elephant'
+  title-short: Trojan data layouts
+  container-title: SoCC
+  publisher: ACM
+  page: '21'
+  URL: http://doi.acm.org/10.1145/2038916.2038937
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/AnanthanarayananDRRS12
+  type: paper-conference
+  author:
+  - family: Ananthanarayanan
+    given: Ganesh
+  - family: Douglas
+    given: Chris
+  - family: Ramakrishnan
+    given: Raghu
+  - family: Rao
+    given: Sriram
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: True elasticity in multi-tenant data-intensive compute clusters
+  container-title: SoCC
+  publisher: ACM
+  page: '24'
+  URL: http://doi.acm.org/10.1145/2391229.2391253
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/BodikFFJP10
+  type: paper-conference
+  author:
+  - family: Bodík
+    given: Peter
+  - family: Fox
+    given: Armando
+  - family: Franklin
+    given: Michael J.
+  - family: Jordan
+    given: Michael I.
+  - family: Patterson
+    given: David A.
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Characterizing, modeling, and generating workload spikes for stateful services
+  container-title: SoCC
+  publisher: ACM
+  page: '241-252'
+  URL: http://doi.acm.org/10.1145/1807128.1807166
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/VaqueroCLM13
+  type: paper-conference
+  author:
+  - family: Vaquero
+    given: Luis M.
+  - family: Cuadrado
+    given: Félix
+  - family: Logothetis
+    given: Dionysios
+  - family: Martella
+    given: Claudio
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Adaptive partitioning for large-scale dynamic graphs
+  container-title: SoCC
+  publisher: ACM
+  page: 35:1-35:2
+  URL: http://doi.acm.org/10.1145/2523616.2525943
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/LogothetisORWY10
+  type: paper-conference
+  author:
+  - family: Logothetis
+    given: Dionysios
+  - family: Olston
+    given: Christopher
+  - family: Reed
+    given: Benjamin
+  - family: Webb
+    given: Kevin C.
+  - family: Yocum
+    given: Ken
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Stateful bulk processing for incremental analytics
+  container-title: SoCC
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/1807128.1807138
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/BhatotiaWRAP11
+  type: paper-conference
+  author:
+  - family: Bhatotia
+    given: Pramod
+  - family: Wieder
+    given: Alexander
+  - family: Rodrigues
+    given: Rodrigo
+  - family: Acar
+    given: Umut A.
+  - family: Pasquin
+    given: Rafael
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'Incoop: MapReduce for incremental computations'
+  title-short: Incoop
+  container-title: SoCC
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2038916.2038923
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BogdanovQMK15
+  type: paper-conference
+  author:
+  - family: Bogdanov
+    given: Kirill
+  - family: Quirós
+    given: Miguel Peón
+  - family: Jr.
+    given: Gerald Q. Maguire
+  - family: Kostic
+    given: Dejan
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: The nearest replica can be farther than you think
+  container-title: SoCC
+  publisher: ACM
+  page: '16-29'
+  URL: http://doi.acm.org/10.1145/2806777.2806939
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/HwangUWH13
+  type: paper-conference
+  author:
+  - family: Hwang
+    given: Jinho
+  - family: Uppal
+    given: Ahsen J.
+  - family: Wood
+    given: Timothy
+  - family: Huang
+    given: H. Howie
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Mortar: Filling the gaps in data center memory'
+  title-short: Mortar
+  container-title: SoCC
+  publisher: ACM
+  page: 30:1-30:2
+  URL: http://doi.acm.org/10.1145/2523616.2525937
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/2010
+  type: book
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: Proceedings of the 1st aCM symposium on cloud computing, soCC 2010, indianapolis,
+    indiana, uSA, june 10-11, 2010
+  publisher: ACM
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/DelimitrouSK15
+  type: paper-conference
+  author:
+  - family: Delimitrou
+    given: Christina
+  - family: Sanchez
+    given: Daniel
+  - family: Kozyrakis
+    given: Christos
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: 'Tarcil: Reconciling scheduling speed and quality in large shared clusters'
+  title-short: Tarcil
+  container-title: SoCC
+  publisher: ACM
+  page: '97-110'
+  URL: http://doi.acm.org/10.1145/2806777.2806779
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/ConleyVP15
+  type: paper-conference
+  author:
+  - family: Conley
+    given: Michael
+  - family: Vahdat
+    given: Amin
+  - family: Porter
+    given: George
+  editor:
+  - family: Ghandeharizadeh
+    given: Shahram
+  issued:
+  - year: '2015'
+  title: Achieving cost-efficient, data-intensive computing in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '302-314'
+  URL: http://doi.acm.org/10.1145/2806777.2806781
+  ISBN: '978-1-4503-3651-2'
+
+- id: conf/cloud/DuE0Z13
+  type: paper-conference
+  author:
+  - family: Du
+    given: Jiaqing
+  - family: Elnikety
+    given: Sameh
+  - family: '0002'
+    given: Amitabha Roy
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'Orbe: Scalable causal consistency using dependency matrices and physical
+    clocks'
+  title-short: Orbe
+  container-title: SoCC
+  publisher: ACM
+  page: 11:1-11:14
+  URL: http://doi.acm.org/10.1145/2523616.2523628
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/AfratiBSHSU12
+  type: paper-conference
+  author:
+  - family: Afrati
+    given: Foto N.
+  - family: Balazinska
+    given: Magdalena
+  - family: Sarma
+    given: Anish Das
+  - family: Howe
+    given: Bill
+  - family: Salihoglu
+    given: Semih
+  - family: Ullman
+    given: Jeffrey D.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: Designing good algorithms for mapReduce and beyond
+  container-title: SoCC
+  publisher: ACM
+  page: '26'
+  URL: http://doi.acm.org/10.1145/2391229.2391255
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/XiongCZTPH11
+  type: paper-conference
+  author:
+  - family: Xiong
+    given: PengCheng
+  - family: Chi
+    given: Yun
+  - family: Zhu
+    given: Shenghuo
+  - family: Tatemura
+    given: Jun’ichi
+  - family: Pu
+    given: Calton
+  - family: Hacigümüs
+    given: Hakan
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: 'ActiveSLA: A profit-oriented admission control framework for database-as-a-service
+    providers'
+  title-short: ActiveSLA
+  container-title: SoCC
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/2038916.2038931
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/ButtGS14
+  type: paper-conference
+  author:
+  - family: Butt
+    given: Shakeel
+  - family: Ganapathy
+    given: Vinod
+  - family: Srivastava
+    given: Abhinav
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: On the control plane of a self-service cloud platform
+  container-title: SoCC
+  publisher: ACM
+  page: 10:1-10:13
+  URL: http://doi.acm.org/10.1145/2670979.2670989
+  ISBN: '978-1-4503-3252-1'
+
+- id: conf/cloud/LiuLM11
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Changbin
+  - family: Loo
+    given: Boon Thau
+  - family: Mao
+    given: Yun
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Declarative automated cloud resource orchestration
+  container-title: SoCC
+  publisher: ACM
+  page: '26'
+  URL: http://doi.acm.org/10.1145/2038916.2038942
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/ReissK13
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Charles
+  - family: Katz
+    given: Randy H.
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: Recommending just enough memory for analytics
+  container-title: SoCC
+  publisher: ACM
+  page: 49:1-49:2
+  URL: http://doi.acm.org/10.1145/2523616.2525957
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/MengILWTSR13
+  type: paper-conference
+  author:
+  - family: Meng
+    given: Shicong
+  - family: Iyengar
+    given: Arun
+  - family: Liu
+    given: Ling
+  - family: Wang
+    given: Ting
+  - family: Tan
+    given: Jian
+  - family: Silva-Lepe
+    given: Ignacio
+  - family: Rouvellou
+    given: Isabelle
+  editor:
+  - family: Lohman
+    given: Guy M.
+  issued:
+  - year: '2013'
+  title: 'CloudLEGO: Scalable cross-vM-type application performance prediction'
+  title-short: CloudLEGO
+  container-title: SoCC
+  publisher: ACM
+  page: 40:1
+  URL: http://doi.acm.org/10.1145/2523616.2525948
+  ISBN: '978-1-4503-2428-1'
+
+- id: conf/cloud/AlvaroCH12
+  type: paper-conference
+  author:
+  - family: Alvaro
+    given: Peter
+  - family: Conway
+    given: Neil
+  - family: Hellerstein
+    given: Joseph M.
+  editor:
+  - family: Carey
+    given: Michael J.
+  issued:
+  - year: '2012'
+  title: 'Distributed programming and consistency: Principles and practice'
+  title-short: Distributed programming and consistency
+  container-title: SoCC
+  publisher: ACM
+  page: '27'
+  URL: http://doi.acm.org/10.1145/2391229.2391256
+  ISBN: '978-1-4503-1761-0'
+
+- id: conf/cloud/HunterMZMMFAB11
+  type: paper-conference
+  author:
+  - family: Hunter
+    given: Timothy
+  - family: Moldovan
+    given: Teodor Mihai
+  - family: Zaharia
+    given: Matei
+  - family: Merzgui
+    given: Samy
+  - family: Ma
+    given: Justin
+  - family: Franklin
+    given: Michael J.
+  - family: Abbeel
+    given: Pieter
+  - family: Bayen
+    given: Alexandre M.
+  editor:
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '2011'
+  title: Scaling the mobile millennium system in the cloud
+  container-title: SoCC
+  publisher: ACM
+  page: '28'
+  URL: http://doi.acm.org/10.1145/2038916.2038944
+  ISBN: '978-1-4503-0976-9'
+
+- id: conf/cloud/BattreEHKMW10
+  type: paper-conference
+  author:
+  - family: Battré
+    given: Dominic
+  - family: Ewen
+    given: Stephan
+  - family: Hueske
+    given: Fabian
+  - family: Kao
+    given: Odej
+  - family: Markl
+    given: Volker
+  - family: Warneke
+    given: Daniel
+  editor:
+  - family: Hellerstein
+    given: Joseph M.
+  issued:
+  - year: '2010'
+  title: 'Nephele/PACTs: A programming model and execution framework for web-scale
+    analytical processing'
+  title-short: Nephele/PACTs
+  container-title: SoCC
+  publisher: ACM
+  page: '119-130'
+  URL: http://doi.acm.org/10.1145/1807128.1807148
+  ISBN: '978-1-4503-0036-0'
+
+- id: conf/cloud/YeoHHL14
+  type: paper-conference
+  author:
+  - family: Yeo
+    given: Sungkap
+  - family: Hossain
+    given: Mohammad M.
+  - family: Huang
+    given: Jen-Cheng
+  - family: Lee
+    given: Hsien-Hsin S.
+  editor:
+  - family: Lazowska
+    given: Ed
+  issued:
+  - year: '2014'
+  title: 'ATAC: Ambient temperature-aware capping for power efficient datacenters'
+  title-short: ATAC
+  container-title: SoCC
+  publisher: ACM
+  page: 17:1-17:14
+  URL: http://doi.acm.org/10.1145/2670979.2670996
+  ISBN: '978-1-4503-3252-1'
+...

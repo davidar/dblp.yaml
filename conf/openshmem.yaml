@@ -1,0 +1,718 @@
+---
+references:
+- id: conf/openshmem/ShamisVPWC14
+  type: paper-conference
+  author:
+  - family: Shamis
+    given: Pavel
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Poole
+    given: Stephen W.
+  - family: Welch
+    given: Aaron
+  - family: Curtis
+    given: Tony
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Designing a high performance openSHMEM implementation using universal common
+    communication substrate as a communication middleware
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-13'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_1
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/LopezSV15
+  type: paper-conference
+  author:
+  - family: Lopez
+    given: M. Graham
+  - family: Shamis
+    given: Pavel
+  - family: Venkata
+    given: Manjunath Gorentla
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: An evaluation of openSHMEM interfaces for the variable-length alltoallv()
+    collective operation
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-101'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_6
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/BruggencateRO14
+  type: paper-conference
+  author:
+  - family: Bruggencate
+    given: Monika
+    dropping-particle: ten
+  - family: Roweth
+    given: Duncan
+  - family: Oyanagi
+    given: Steve
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Thread-safe sHMEM extensions
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-185'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_13
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/TangBHVB15
+  type: paper-conference
+  author:
+  - family: Tang
+    given: Chunyan
+  - family: Bouteiller
+    given: Aurelien
+  - family: Hérault
+    given: Thomas
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Bosilca
+    given: George
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: 'From mPI to openSHMEM: Porting lAMMPS'
+  title-short: From mPI to openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-137'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_8
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/OesteKI14
+  type: paper-conference
+  author:
+  - family: Oeste
+    given: Sebastian
+  - family: Knüpfer
+    given: Andreas
+  - family: Ilsche
+    given: Thomas
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Towards parallel performance analysis tools for the openSHMEM standard
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-104'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_7
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/LamBAGL14
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Bryant C.
+  - family: Barboza
+    given: Ajay
+  - family: Agrawal
+    given: Ravi
+  - family: George
+    given: Alan D.
+  - family: Lam
+    given: Herman
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Benchmarking parallel performance on many-core processors
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-43'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_3
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/BakerWV15
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Matthew
+  - family: Welch
+    given: Aaron
+  - family: Venkata
+    given: Manjunath Gorentla
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Parallelizing the smith-waterman algorithm using openSHMEM and mPI-3 one-sided
+    interfaces
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-191'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_12
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/HaoPSCC15
+  type: paper-conference
+  author:
+  - family: Hao
+    given: Pengfei
+  - family: Pophale
+    given: Swaroop
+  - family: Shamis
+    given: Pavel
+  - family: Curtis
+    given: Tony
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Check-pointing approach for fault tolerance in openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-52'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_3
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/LinHZLVP15
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Jian
+  - family: Hamidouche
+    given: Khaled
+  - family: Zhang
+    given: Jie
+  - family: Lu
+    given: Xiaoyi
+  - family: Vishnu
+    given: Abhinav
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Accelerating k-nN algorithm with hybrid mPI and openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '164-177'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_11
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/PotluriRBPVHSLB15
+  type: paper-conference
+  author:
+  - family: Potluri
+    given: Sreeram
+  - family: Rossetti
+    given: Davide
+  - family: Becker
+    given: Donald
+  - family: Poole
+    given: Duncan
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Hernandez
+    given: Oscar R.
+  - family: Shamis
+    given: Pavel
+  - family: Lopez
+    given: M. Graham
+  - family: Baker
+    given: Matthew
+  - family: Poole
+    given: Wendy
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Exploring openSHMEM model to program gPU-based extreme-scale systems
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-35'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_2
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/Raymond14
+  type: paper-conference
+  author:
+  - family: Raymond
+    given: Michael A.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Implementing split-mode barriers in openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-190'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_14
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/KnupferHPS15
+  type: paper-conference
+  author:
+  - family: Knüpfer
+    given: Andreas
+  - family: Hilbrich
+    given: Tobias
+  - family: Protze
+    given: Joachim
+  - family: Schuchart
+    given: Joseph
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Dynamic analysis to support program development with the textually aligned
+    property for openSHMEM collectives
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-118'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_7
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/Gomez-IglesiasV15
+  type: paper-conference
+  author:
+  - family: Gómez-Iglesias
+    given: Antonio
+  - family: Vienne
+    given: Jérôme
+  - family: Hamidouche
+    given: Khaled
+  - family: Simmons
+    given: Christopher S.
+  - family: Barth
+    given: William L.
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Scalable out-of-core openSHMEM library for hPC
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-153'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_9
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/BakerPVJH14
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Matthew B.
+  - family: Pophale
+    given: Swaroop
+  - family: Vasnier
+    given: Jean-Charles
+  - family: Jin
+    given: Haoqiang
+  - family: Hernandez
+    given: Oscar R.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Hybrid programming using openSHMEM and openACC
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-89'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_6
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/HammondGC14
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Jeff R.
+  - family: Ghosh
+    given: Sayan
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Implementing openSHMEM using mPI-3 one-sided communication
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-58'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_4
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/NamashivayamKEC15
+  type: paper-conference
+  author:
+  - family: Namashivayam
+    given: Naveen
+  - family: Khaldi
+    given: Dounia
+  - family: Eachempati
+    given: Deepak
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Extending the strided communication interface in openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-17'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_1
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/PophaleHPC14
+  type: paper-conference
+  author:
+  - family: Pophale
+    given: Swaroop
+  - family: Hernandez
+    given: Oscar R.
+  - family: Poole
+    given: Stephen W.
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Extending the openSHMEM analyzer to perform synchronization and multi-valued
+    analysis
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-148'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_10
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/JoseZVPP14
+  type: paper-conference
+  author:
+  - family: Jose
+    given: Jithin
+  - family: Zhang
+    given: Jie
+  - family: Venkatesh
+    given: Akshay
+  - family: Potluri
+    given: Sreeram
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: A comprehensive performance evaluation of openSHMEM libraries on infiniBand
+    clusters
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '14-28'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_2
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/MintzHB14
+  type: paper-conference
+  author:
+  - family: Mintz
+    given: Tiffany M.
+  - family: Hernandez
+    given: Oscar R.
+  - family: Bernholdt
+    given: David E.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: A global view programming abstraction for transitioning mPI codes to pGAS
+    languages
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-133'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_9
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/JanaHPHC14
+  type: paper-conference
+  author:
+  - family: Jana
+    given: Siddhartha
+  - family: Hernandez
+    given: Oscar R.
+  - family: Poole
+    given: Stephen W.
+  - family: Hsu
+    given: Chung-Hsing
+  - family: Chapman
+    given: Barbara M.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Analyzing the energy and power consumption of remote memory accesses in the
+    openSHMEM model
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-73'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_5
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/LinfordSSM14
+  type: paper-conference
+  author:
+  - family: Linford
+    given: John C.
+  - family: Simon
+    given: Tyler A.
+  - family: Shende
+    given: Sameer
+  - family: Malony
+    given: Allen D.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Profiling non-numeric openSHMEM applications with the tAU performance system
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-119'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_8
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/AwanHCP15
+  type: paper-conference
+  author:
+  - family: Awan
+    given: A. A.
+  - family: Hamidouche
+    given: Khaled
+  - family: Chu
+    given: C. H.
+  - family: Panda
+    given: Dhabaleswar K.
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: 'A case for non-blocking collectives in openSHMEM: Design, implementation,
+    and performance evaluation using mVAPICH2-x'
+  title-short: A case for non-blocking collectives in openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-86'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_5
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/DAzevedoI15
+  type: paper-conference
+  author:
+  - family: D’Azevedo
+    given: Eduardo F.
+  - family: Imam
+    given: Neena
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Graph 500 in openSHMEM
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-163'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_10
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/PooleSWPVHKCH14
+  type: paper-conference
+  author:
+  - family: Poole
+    given: Stephen W.
+  - family: Shamis
+    given: Pavel
+  - family: Welch
+    given: Aaron
+  - family: Pophale
+    given: Swaroop
+  - family: Venkata
+    given: Manjunath Gorentla
+  - family: Hernandez
+    given: Oscar R.
+  - family: Koenig
+    given: Gregory A.
+  - family: Curtis
+    given: Tony
+  - family: Hsu
+    given: Chung-Hsing
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: OpenSHMEM extensions and a vision for its future direction
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-162'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_11
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/2014
+  type: book
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: OpenSHMEM and related technologies. experiences, implementations, and tools
+    - first workshop, openSHMEM 2014, annapolis, mD, uSA, march 4-6, 2014. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/DinanCJSUW14
+  type: paper-conference
+  author:
+  - family: Dinan
+    given: James
+  - family: Cole
+    given: Clement
+  - family: Jost
+    given: Gabriele
+  - family: Smith
+    given: Stan
+  - family: Underwood
+    given: Keith D.
+  - family: Wisniewski
+    given: Robert W.
+  editor:
+  - family: Poole
+    given: Stephen W.
+  issued:
+  - year: '2014'
+  title: Reducing synchronization overhead through bundled communication
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-177'
+  volume: '8356'
+  DOI: 10.1007/978-3-319-05215-1_12
+  ISBN: '978-3-319-05214-4'
+
+- id: conf/openshmem/2015
+  type: book
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: OpenSHMEM and related technologies. experiences, implementations, and technologies
+    - second workshop, openSHMEM 2015, annapolis, mD, uSA, august 4-6, 2015. revised
+    selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8
+  ISBN: '978-3-319-26427-1'
+
+- id: conf/openshmem/KnaakN15
+  type: paper-conference
+  author:
+  - family: Knaak
+    given: David
+  - family: Namashivayam
+    given: Naveen
+  editor:
+  - family: Venkata
+    given: Manjunath Gorentla
+  issued:
+  - year: '2015'
+  title: Proposing openSHMEM extensions towards a future for hybrid programming and
+    heterogeneous computing
+  container-title: OpenSHMEM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-68'
+  volume: '9397'
+  DOI: 10.1007/978-3-319-26428-8_4
+  ISBN: '978-3-319-26427-1'
+...

@@ -1,0 +1,5628 @@
+---
+references:
+- id: conf/pos/1987
+  type: book
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: 'Persistent object systems: Their design implementation and use. proceedings
+    of the second international workshop, appin, scotland, august 25-28, 1987'
+  title-short: Persistent object systems
+  publisher: University of Glasgow; St. Andrew’s
+  volume: TR PPRR-44-87
+
+- id: conf/pos/NettlesO96
+  type: paper-conference
+  author:
+  - family: Nettles
+    given: Scott
+  - family: O’Toole
+    given: James
+  issued:
+  - year: '1996'
+  title: A rollback technique for implementation orthogonal persistence
+  container-title: POS
+  page: '120-127'
+
+- id: conf/pos/X90a
+  type: paper-conference
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Subject index
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '427-429'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/96
+  type: book
+  editor:
+  - family: Connor
+    given: Richard C. H.
+  issued:
+  - year: '1997'
+  title: Proceedings of the 7th workshop on persistent object systems, cape may, new
+    jersey, uSA, 1996
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-447-2'
+
+- id: conf/pos/OLenskieDH98
+  type: paper-conference
+  author:
+  - family: O’Lenskie
+    given: Adrian
+  - family: Dearle
+    given: Alan
+  - family: Hulse
+    given: David
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Persistent operating system support for persistent cORBA objects
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '92-111'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Powell92
+  type: paper-conference
+  author:
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Transactions
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '124-125'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/MunroB00
+  type: paper-conference
+  author:
+  - family: Munro
+    given: David S.
+  - family: Brown
+    given: Alfred L.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Evaluating partition selection policies using the pMOS garbage collector
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-137'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_11
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/SousaM94
+  type: paper-conference
+  author:
+  - family: Sousa
+    given: Pedro Manuel Antunes
+  - family: Marques
+    given: José Alves
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Object clustering in persistent and distributed systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '402-414'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Weihl85
+  type: paper-conference
+  author:
+  - family: Weihl
+    given: William E.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Linguistic support for atomic data types
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '145-173'
+
+- id: conf/pos/LewisMG00
+  type: paper-conference
+  author:
+  - family: Lewis
+    given: Brian T.
+  - family: Mathiske
+    given: Bernd
+  - family: Gafter
+    given: Neal M.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Architecture of the pEVM: A high-performance orthogonally persistent java
+    virtual machine'
+  title-short: Architecture of the pEVM
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-33'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_3
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/MainettoGV94
+  type: paper-conference
+  author:
+  - family: Mainetto
+    given: Gianni
+  - family: Giacomo
+    given: Mariella Di
+  - family: Vinciotti
+    given: Luca
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'Distributed galileo: A persistent programming language with transactions'
+  title-short: Distributed galileo
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '503-525'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Currie85
+  type: paper-conference
+  author:
+  - family: Currie
+    given: Ian F.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Fileestore and modes in flex
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '325-334'
+
+- id: conf/pos/BermanF96
+  type: paper-conference
+  author:
+  - family: Berman
+    given: Sonia
+  - family: Figueira
+    given: Ricardo
+  issued:
+  - year: '1996'
+  title: Automating systems design in a persistent environment
+  container-title: POS
+  page: '101-110'
+
+- id: conf/pos/BrownBR94
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Fred
+  - family: Buneman
+    given: Peter
+  - family: Rabitti
+    given: Fausto
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Concluding remarks
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '542-544'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/RabittiBD94
+  type: paper-conference
+  author:
+  - family: Rabitti
+    given: Fausto
+  - family: Benedetti
+    given: Leonardo
+  - family: Demi
+    given: Federico
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Query processing in pIOS
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '415-440'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/BlondelFS98
+  type: paper-conference
+  author:
+  - family: Blondel
+    given: Xavier
+  - family: Ferreira
+    given: Paulo
+  - family: Shapiro
+    given: Marc
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Implementing garbage collection in the perDiS system
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '64-77'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/WileGA87
+  type: paper-conference
+  author:
+  - family: Wile
+    given: David S.
+  - family: Goldman
+    given: Neil M.
+  - family: Allard
+    given: Dennis G.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Maintaining object persistence in the common lisp framework
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '382-406'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Cooper89
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Richard
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: The implementation of an object-oriented language in pS-algol
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '141-157'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Berman94
+  type: paper-conference
+  author:
+  - family: Berman
+    given: Sonia
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Optimisation
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '400-401'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/BlakemanP94
+  type: paper-conference
+  author:
+  - family: Blakeman
+    given: P. D.
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Type-safe inter-application communication in the feynman persistent environment
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '444-454'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Welland92
+  type: paper-conference
+  author:
+  - family: Welland
+    given: Ray
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Keynote discussion session on persistent software environments
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '435-439'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Atkinson94
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Object store engineering 1
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '1-2'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Skarra94
+  type: paper-conference
+  author:
+  - family: Skarra
+    given: Andrea H.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: System evolution
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '256-258'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/AllardW89
+  type: paper-conference
+  author:
+  - family: Allard
+    given: Dennis G.
+  - family: Wile
+    given: David S.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Aggregation, persistence, and identity in worlds
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '161-174'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Jones85
+  type: paper-conference
+  author:
+  - family: Jones
+    given: R. B.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: An architecture for personal knowledge management
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '209-219'
+
+- id: conf/pos/BaconHMMY00
+  type: paper-conference
+  author:
+  - family: Bacon
+    given: Jean
+  - family: Hombrecher
+    given: Alexis
+  - family: Ma
+    given: Chaoying
+  - family: Moody
+    given: Ken
+  - family: Yao
+    given: Walt
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Event storage and federation using oDMG
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-281'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_24
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Powell89
+  type: paper-conference
+  author:
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: A program development environment based on persistence and abstract data
+    types
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '29-44'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/BemR00
+  type: paper-conference
+  author:
+  - family: Bem
+    given: Ewa Z.
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: An approach to implementing persistent computations
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-200'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_17
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/ZirintsisDKM98
+  type: paper-conference
+  author:
+  - family: Zirintsis
+    given: Evangelos
+  - family: Dunstan
+    given: Vivienne S.
+  - family: Kirby
+    given: Graham N. C.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Hyper-programming in java
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '370-382'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/ShapiroM89
+  type: paper-conference
+  author:
+  - family: Shapiro
+    given: Marc
+  - family: Mosseri
+    given: Laurence
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: A simple object storage system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '272-276'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/HarrisonP90
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: Chris
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: A modular persistent store
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '171-184'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/CardelliM85
+  type: paper-conference
+  author:
+  - family: Cardelli
+    given: Luca
+  - family: MacQueen
+    given: David B.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Persistence and type abstraction
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '221-230'
+
+- id: conf/pos/KaiserC92
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: Jörg
+  - family: Czaja
+    given: Karol
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: 'ACOM: An access control monitor providing protection in persistent object-oriented
+    systems'
+  title-short: ACOM
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '339-351'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/KochSDVMFB90
+  type: paper-conference
+  author:
+  - family: Koch
+    given: Bett
+  - family: Schunke
+    given: Tracy
+  - family: Dearle
+    given: Alan
+  - family: Vaughan
+    given: Francis
+  - family: Marlin
+    given: Chris D.
+  - family: Fazakerley
+    given: Ruth
+  - family: Barter
+    given: Chris J.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Cache coherency and storage management in a persistent object system
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '103-113'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/RichardsonC89
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Joel E.
+  - family: Carey
+    given: Michael J.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Implementing persistence in e
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '175-199'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/VaughanD92
+  type: paper-conference
+  author:
+  - family: Vaughan
+    given: Francis
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Supporting large persistent stores using conventional hardware
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '34-53'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Wai87
+  type: paper-conference
+  author:
+  - family: Wai
+    given: Francis
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Distribution and persistence
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '207-225'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Dmitriev98
+  type: paper-conference
+  author:
+  - family: Dmitriev
+    given: Misha
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: The first experience of class evolution support in pJama
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '279-296'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/MorrisonBCCDA89
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  - family: Brown
+    given: Alfred L.
+  - family: Carrick
+    given: Raymund
+  - family: Connor
+    given: Richard C. H.
+  - family: Dearle
+    given: Alan
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: The napier type system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '3-18'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Buneman85
+  type: paper-conference
+  author:
+  - family: Buneman
+    given: Peter
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Data types for data base programming
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '285-298'
+
+- id: conf/pos/BenzakenD90
+  type: paper-conference
+  author:
+  - family: Benzaken
+    given: Véronique
+  - family: Delobel
+    given: Claude
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Enhancing performance in a persistent object store: Clustering strategies
+    in o2'
+  title-short: Enhancing performance in a persistent object store
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '403-412'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/KirbyCM94
+  type: paper-conference
+  author:
+  - family: Kirby
+    given: Graham N. C.
+  - family: Connor
+    given: Richard C. H.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'START: A linguistic reflection tool using hyper-program technology'
+  title-short: START
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '355-373'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/BrownR90
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Alfred L.
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Persistent object stores: An implementation technique'
+  title-short: Persistent object stores
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '199-212'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Dearle94
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Object caching
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '96-98'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Krablin85
+  type: paper-conference
+  author:
+  - family: Krablin
+    given: G. Lawrence
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Building flexible multilevel transactions in a distributed persistent environment
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '83-105'
+
+- id: conf/pos/ShapiroFS96
+  type: paper-conference
+  author:
+  - family: Shapiro
+    given: Jonathan S.
+  - family: Farber
+    given: David J.
+  - family: Smith
+    given: Jonathan M.
+  issued:
+  - year: '1996'
+  title: State caching in the eROS kernel
+  container-title: POS
+  page: '88-100'
+
+- id: conf/pos/1998
+  type: book
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1999'
+  title: Advances in persistent object systems, proceedings of the 8th international
+    workshop on persistent object systems (pOS8) and proceedings of the 3rd international
+    workshop on persistence and java (pJW3), tiburon, california, 1998
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/CooperRW90
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Richard
+  - family: Roberts
+    given: Andrew
+  - family: Wai
+    given: Francis
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: An implementation of a co-operative locking scheme for a persistent programming
+    language
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '319-328'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/ZigmanB98
+  type: paper-conference
+  author:
+  - family: Zigman
+    given: John N.
+  - family: Blackburn
+    given: Stephen
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Java finalize method, orthogonal persistence and transactions
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '363-369'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/GruberK00
+  type: paper-conference
+  author:
+  - family: Gruber
+    given: Olivier
+  - family: Konuru
+    given: Ravi B.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: An application model and environment for personal information appliances
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '282-291'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_25
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Ghelli92
+  type: paper-conference
+  author:
+  - family: Ghelli
+    given: Giorgio
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Run-time support for hierarchic records in persistent languages
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '107-123'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/HasanK92
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Waqar
+  - family: Krishnamurthy
+    given: Ravi
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: 'PIL: An optimizable functional language for data intensive applications'
+  title-short: PIL
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '262-279'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Moody94
+  type: paper-conference
+  author:
+  - family: Moody
+    given: Ken
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Concurrency
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '127-128'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/WolczkoW92
+  type: paper-conference
+  author:
+  - family: Wolczko
+    given: Mario
+  - family: Williams
+    given: Ifor
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Multi-level garbage collection in a high-performance persistent object system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '396-418'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/NodineCN96
+  type: paper-conference
+  author:
+  - family: Nodine
+    given: Marian H.
+  - family: Cherniack
+    given: Mitch
+  - family: Nodine
+    given: Mark H.
+  issued:
+  - year: '1996'
+  title: Semantic cardinality estimation for queries over objects
+  container-title: POS
+  page: '164-173'
+
+- id: conf/pos/AtkinsonM85
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Types, bindings and parameters in a persistent environment
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '1-24'
+
+- id: conf/pos/EcklundE87
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Earl F. Ecklund
+  - family: Ecklund
+    given: Denise J.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: CAD performance requirements for persistent object systems
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '477-478'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Jordan98
+  type: paper-conference
+  author:
+  - family: Jordan
+    given: Mick J.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Observations on persistent object systems from a (would-be) consumer
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '223-233'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Colomb89
+  type: paper-conference
+  author:
+  - family: Colomb
+    given: Robert M.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Issues in the implementation of a persistent prolog
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '98-108'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Rees87
+  type: paper-conference
+  author:
+  - family: Rees
+    given: Owen
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Object oriented system models
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '198-206'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/RosenbergK89
+  type: paper-conference
+  author:
+  - family: Rosenberg
+    given: John
+  - family: Koch
+    given: David M.
+  - family: Keedy
+    given: James Leslie
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: A capability-based massive memory computer
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '377-391'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/BuhrZ87
+  type: paper-conference
+  author:
+  - family: Buhr
+    given: Peter A.
+  - family: Zarnke
+    given: C. Robert
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Persistence in an environment for a statically typed programming language
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '317-336'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/GrimstadSAW98
+  type: paper-conference
+  author:
+  - family: Grimstad
+    given: Stein
+  - family: Sjøberg
+    given: Dag I. K.
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Welland
+    given: Ray
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Evaluating usability aspects of pJama based on source code measurements
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '307-321'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/ParkCD98
+  type: paper-conference
+  author:
+  - family: Park
+    given: Chong-Mok
+  - family: Carey
+    given: Michael J.
+  - family: Deßloch
+    given: Stefan
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'MAJOR: A java language binding for object-relational databases'
+  title-short: MAJOR
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '112-122'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/LiskovJGS90
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  - family: Johnson
+    given: Paul
+  - family: Gruber
+    given: Robert
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: A highly available object repository for use in a heterogeneous distributed
+    system
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '255-266'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/AlbanoGOP85
+  type: paper-conference
+  author:
+  - family: Albano
+    given: Antonio
+  - family: Giannotti
+    given: Fosca
+  - family: Orsini
+    given: Renzo
+  - family: Pedreschi
+    given: Dino
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: The type system of galileo
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '175-195'
+
+- id: conf/pos/Howell98
+  type: paper-conference
+  author:
+  - family: Howell
+    given: Jon
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Straightforward java persistence through checkpointing
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '322-334'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Rosenberg90
+  type: paper-conference
+  author:
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: The mONADS architecture - a layered view
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '215-225'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/RozenSG94
+  type: paper-conference
+  author:
+  - family: Rozen
+    given: Steve
+  - family: Stein
+    given: Lincoln
+  - family: Goodman
+    given: Nathan
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Constructing a domain-specific dBMS using a persistent object system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '526-541'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Nestor87
+  type: paper-conference
+  author:
+  - family: Nestor
+    given: John R.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Changing persistent objects in a distributed environment
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '479'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/BloomZ87
+  type: paper-conference
+  author:
+  - family: Bloom
+    given: Toby
+  - family: Zdonik
+    given: Stanley B.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Issues in the design of object oriented database programming languages
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '495-517'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/SjobergCWA94
+  type: paper-conference
+  author:
+  - family: Sjøberg
+    given: Dag I. K.
+  - family: Cutts
+    given: Quintin I.
+  - family: Welland
+    given: Ray
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Analysing persistent language applications
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '235-255'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/FeketeLMW89
+  type: paper-conference
+  author:
+  - family: Fekete
+    given: Alan
+  - family: Lynch
+    given: Nancy A.
+  - family: Merritt
+    given: Michael
+  - family: Weihl
+    given: William E.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Commutativity-based locking for nested transactions
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '319-340'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/SkarraBW94
+  type: paper-conference
+  author:
+  - family: Skarra
+    given: Andrea H.
+  - family: Barghouti
+    given: Naser S.
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Semantic synchronization in a persistent object system library
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '129-146'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Haynes85
+  type: paper-conference
+  author:
+  - family: Haynes
+    given: Christopher L. F.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Data privacy in a persistent environment
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '277-281'
+
+- id: conf/pos/Bailey89
+  type: paper-conference
+  author:
+  - family: Bailey
+    given: Peter J.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Performance evaluation in a persistent object store
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '289-299'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/ConnorBCDMR90
+  type: paper-conference
+  author:
+  - family: Connor
+    given: Richard C. H.
+  - family: Brown
+    given: Alfred L.
+  - family: Cutts
+    given: Quintin I.
+  - family: Dearle
+    given: Alan
+  - family: Morrison
+    given: Ronald
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Type equivalence checking in persistent object systems
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '154-167'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/ZigmanBM00
+  type: paper-conference
+  author:
+  - family: Zigman
+    given: John N.
+  - family: Blackburn
+    given: Stephen
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'TMOS: A transactional garbage collector'
+  title-short: TMOS
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-156'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_12
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/TarrWC90
+  type: paper-conference
+  author:
+  - family: Tarr
+    given: Peri L.
+  - family: Wileden
+    given: Jack C.
+  - family: Clarke
+    given: Lori A.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Extending and limiting pGraphite-style persistence
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '74-86'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/MunroBMM98
+  type: paper-conference
+  author:
+  - family: Munro
+    given: David S.
+  - family: Brown
+    given: Alfred L.
+  - family: Morrison
+    given: Ronald
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Incremental garbage collection of a persistent object store using pMOS
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '78-91'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Shaw90
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: Gail M.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: By the c - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '343-344'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/1989
+  type: book
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Persistent object systems, proceedings of the third international workshop,
+    10-13 january 1989, newcastle, new south wales
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Loboz89
+  type: paper-conference
+  author:
+  - family: Loboz
+    given: Charles Zdzislaw
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Monitoring execution of pS-algol programs
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '279-288'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Moss87
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Eric
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Experience interfacing an object oriented language and an object server
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '469'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/DrewKB90
+  type: paper-conference
+  author:
+  - family: Drew
+    given: Pamela
+  - family: King
+    given: Roger
+  - family: Bein
+    given: Jonathan
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'A la carte: An extensible framework for the tailorable construction of
+    heterogeneous object stores'
+  title-short: A la carte
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '239-252'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/RosenbergK87
+  type: paper-conference
+  author:
+  - family: Rosenberg
+    given: John
+  - family: Keedy
+    given: James Leslie
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Object management and addressing in the mONADS architecture
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '114-133'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/DiniLL00
+  type: paper-conference
+  author:
+  - family: Dini
+    given: Gianluca
+  - family: Lettieri
+    given: Giuseppe
+  - family: Lopriore
+    given: Lanfranco
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: An overview of ulisse, a distributed single address space system
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-227'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_19
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/AtkinsonDHP00
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Dmitriev
+    given: Misha
+  - family: Hamilton
+    given: Craig
+  - family: Printezis
+    given: Tony
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Scalable and recoverable implementation of object evolution for the pJama1
+    platform
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '292-314'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_26
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/ShannonS90
+  type: paper-conference
+  author:
+  - family: Shannon
+    given: Karen
+  - family: Snodgrass
+    given: Richard T.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Semantic clustering
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '389-402'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Fairbairn85
+  type: paper-conference
+  author:
+  - family: Fairbairn
+    given: Jon
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: A new type-checker for a functional language
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '107-123'
+
+- id: conf/pos/CopelandK87
+  type: paper-conference
+  author:
+  - family: Copeland
+    given: George P.
+  - family: Khoshafian
+    given: Setrag
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Identity and versions for complex objects
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '407-428'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/ShekitaZ90
+  type: paper-conference
+  author:
+  - family: Shekita
+    given: Eugene J.
+  - family: Zwilling
+    given: Michael J.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Cricket: A mapped, persistent object store'
+  title-short: Cricket
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '89-102'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Liskov90
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: System implementation i - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '87-88'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/SilvaA96
+  type: paper-conference
+  author:
+  - family: Silva
+    given: M. Mira
+    dropping-particle: da
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1996'
+  title: Higher-order distributed computation over autonomous persistent stores
+  container-title: POS
+  page: '222-236'
+
+- id: conf/pos/LiveseyA92
+  type: paper-conference
+  author:
+  - family: Livesey
+    given: Mike
+  - family: Allison
+    given: Colin
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Coherence in distributed persistent object systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '186-197'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Berman00
+  type: paper-conference
+  author:
+  - family: Berman
+    given: Sonia
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 7: Overview'
+  title-short: Session 7
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '262-264'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_23
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/HeBKZ00
+  type: paper-conference
+  author:
+  - family: He
+    given: Zhen
+  - family: Blackburn
+    given: Stephen
+  - family: Kirby
+    given: Luke
+  - family: Zigman
+    given: John N.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Platypus: Design and implementation of a flexible high performance object
+    store'
+  title-short: Platypus
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-124'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_10
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/KaplanW96
+  type: paper-conference
+  author:
+  - family: Kaplan
+    given: Alan
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1996'
+  title: Toward painless polylingual persistence
+  container-title: POS
+  page: '11-22'
+
+- id: conf/pos/Smithers87
+  type: paper-conference
+  author:
+  - family: Smithers
+    given: Tim
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: AI-based design and persistent object systems
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '283-297'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Ait-KaciN85
+  type: paper-conference
+  author:
+  - family: Aït-Kaci
+    given: Hassan
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Integrating data type inheritance into logic programming
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '385-388'
+
+- id: conf/pos/RicherS00
+  type: paper-conference
+  author:
+  - family: Richer
+    given: Nicolas
+  - family: Shapiro
+    given: Marc
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: The memory behavior of the wWW, or the wWW considered as a persistent store
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-176'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_14
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Barter92
+  type: paper-conference
+  author:
+  - family: Barter
+    given: Chris J.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Selection box
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '61-62'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/PriceN98
+  type: paper-conference
+  author:
+  - family: Price
+    given: Morgan
+  - family: Nettles
+    given: Scott
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Transactions in a flash
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '2-16'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Livesey90
+  type: paper-conference
+  author:
+  - family: Livesey
+    given: Mike
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Distributed varimistic concurrency control in a persistent object store
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '293-304'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/WhitlockH00
+  type: paper-conference
+  author:
+  - family: Whitlock
+    given: David
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: A framework for persistence-enabled optimization of java object stores
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '4-17'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_2
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/FranchittiKB94
+  type: paper-conference
+  author:
+  - family: Franchitti
+    given: Jean-Claude
+  - family: King
+    given: Roger
+  - family: Boucelma
+    given: Omar
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: A toolkit to support scalable persistent object base infrastructures
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '455-470'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Alagic90
+  type: paper-conference
+  author:
+  - family: Alagic
+    given: Suad
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Persistent metaobjects
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '31-42'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Hosking96
+  type: paper-conference
+  author:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '1996'
+  title: Residency check elimination for object-oriented persistent language
+  container-title: POS
+  page: '174-183'
+
+- id: conf/pos/BakerFS87
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Deborah A.
+  - family: Fisher
+    given: David A.
+  - family: Shultis
+    given: Jonathan C.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Persistence and type integrity in a software development environment
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '429-442'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Morrison92
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Object store addressing
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '1-2'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/McNallyJD90
+  type: paper-conference
+  author:
+  - family: McNally
+    given: David J.
+  - family: Joosten
+    given: Stef
+  - family: Davie
+    given: Antony J. T.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Persistent functional programming
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '62-73'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/MossH94
+  type: paper-conference
+  author:
+  - family: Moss
+    given: J. Eliot B.
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Expressing object residency optimizations using pointer type annotations
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '3-15'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Blackburn00
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 2: Overview'
+  title-short: Session 2
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-35'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_4
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Borgida85
+  type: paper-conference
+  author:
+  - family: Borgida
+    given: Alexander
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Accomodating exceptions to (type) constraints in information systems - a
+    position paper
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '265-271'
+
+- id: conf/pos/HurstS89
+  type: paper-conference
+  author:
+  - family: Hurst
+    given: A. John
+  - family: Sajeev
+    given: A. S. M.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: 'A capability based language for persistent programming: Implementation
+    issues'
+  title-short: A capability based language for persistent programming
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '109-125'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Kolodner90
+  type: paper-conference
+  author:
+  - family: Kolodner
+    given: Elliot K.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Atomic incremental garbage collection and recovery for a large stable heap
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '185-198'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/SpargB92
+  type: paper-conference
+  author:
+  - family: Sparg
+    given: Shane B.
+  - family: Bergman
+    given: Sonia
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Semantic constructs for a persistent programming language
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '300-316'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/SinghalKW92
+  type: paper-conference
+  author:
+  - family: Singhal
+    given: Vivek
+  - family: Kakkad
+    given: Sheetal V.
+  - family: Wilson
+    given: Paul R.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: 'Texas: An efficient, portable persistent store'
+  title-short: Texas
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '11-33'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/MuckP96
+  type: paper-conference
+  author:
+  - family: Mück
+    given: Thomas A.
+  - family: Polaschek
+    given: Martin L.
+  issued:
+  - year: '1996'
+  title: Indexing type hierarchies with multikey structures
+  container-title: POS
+  page: '184-193'
+
+- id: conf/pos/X94
+  type: paper-conference
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Title, preface, programme commitee
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/NodineSZ90
+  type: paper-conference
+  author:
+  - family: Nodine
+    given: Marian H.
+  - family: Skarra
+    given: Andrea H.
+  - family: Zdonik
+    given: Stanley B.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Synchronization and recovery in cooperative transactions
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '329-342'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/FerreiraS94
+  type: paper-conference
+  author:
+  - family: Ferreira
+    given: Paulo
+  - family: Shapiro
+    given: Marc
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Garbage collection of persistent objects in distributed shared memory
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '184-199'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/DixonSP87
+  type: paper-conference
+  author:
+  - family: Dixon
+    given: Graeme N.
+  - family: Shrivastava
+    given: Santosh K.
+  - family: Parrington
+    given: Graham D.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: 'Managing persistent objects in arjuna: A system for reliable distributed
+    computing'
+  title-short: Managing persistent objects in arjuna
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '246-265'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/BertinoF92
+  type: paper-conference
+  author:
+  - family: Bertino
+    given: Elisa
+  - family: Foscoli
+    given: Paola
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: An analytical model of object-oriented query costs
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '241-261'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/WidjojoHW90
+  type: paper-conference
+  author:
+  - family: Widjojo
+    given: Surjatini
+  - family: Hull
+    given: Richard
+  - family: Wile
+    given: Dave
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: A specificational approach to merging persistent object bases
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '267-278'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Rosenberg90a
+  type: paper-conference
+  author:
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Optimization - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '1-2'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/AtkinsonJDS96
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Jordan
+    given: Mick J.
+  - family: Daynès
+    given: Laurent
+  - family: Spence
+    given: Susan
+  issued:
+  - year: '1996'
+  title: 'Design issues for persistent java: A type-safe, object-oriented, orthogonally
+    persistent system'
+  title-short: Design issues for persistent java
+  container-title: POS
+  page: '33-47'
+
+- id: conf/pos/LyngbaekDFKR87
+  type: paper-conference
+  author:
+  - family: Lyngbæk
+    given: Peter
+  - family: Derrett
+    given: Nigel
+  - family: Fishman
+    given: Daniel H.
+  - family: Kent
+    given: William
+  - family: Ryan
+    given: T. A.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Design and implementation of the iris object manager
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '25-51'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/RusselSC94
+  type: paper-conference
+  author:
+  - family: Russell
+    given: Gordon
+  - family: Shaw
+    given: Paul
+  - family: Cockshott
+    given: W. Paul
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'DAIS: An object-addressed processor cache'
+  title-short: DAIS
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '374-386'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/AmielBV92
+  type: paper-conference
+  author:
+  - family: Amiel
+    given: Eric
+  - family: Bellosta
+    given: Marie-Jo
+  - family: Valduriez
+    given: Patrick
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: A model-independent object schema manager
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '224-240'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Donahue85
+  type: paper-conference
+  author:
+  - family: Donahue
+    given: James E.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Integrating programming languages with database systems
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '315-324'
+
+- id: conf/pos/ConnorAGO92
+  type: paper-conference
+  author:
+  - family: Connor
+    given: Richard C. H.
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Ghelli
+    given: Giorgio
+  - family: Ohori
+    given: Atsushi
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Keynote discussion session on persistent type systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '216-221'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/ConnorBCDM89
+  type: paper-conference
+  author:
+  - family: Connor
+    given: Richard C. H.
+  - family: Brown
+    given: Alfred L.
+  - family: Carrick
+    given: Raymund
+  - family: Dearle
+    given: Alan
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: The persistent abstract machine
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '353-366'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Schmidt90
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Joachim W.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: System implementation iI - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '169-170'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/AmatoBMR96
+  type: paper-conference
+  author:
+  - family: Amato
+    given: Giuseppe
+  - family: Biscari
+    given: Salvatore
+  - family: Mainetto
+    given: Gianni
+  - family: Rabitti
+    given: Fausto
+  issued:
+  - year: '1996'
+  title: Multigranularity locking with the use of semantic knowledge in a layered
+    object server
+  container-title: POS
+  page: '151-163'
+
+- id: conf/pos/LangworthyZ94
+  type: paper-conference
+  author:
+  - family: Langworthy
+    given: David E.
+  - family: Zdonik
+    given: Stanley B.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Storage class extensibility in the brown object storage system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '259-283'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/DaynesG94
+  type: paper-conference
+  author:
+  - family: Daynès
+    given: Laurent
+  - family: Gruber
+    given: Olivier
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Customizing concurrency controls using graph of locking capabilities
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '147-161'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Powell85
+  type: paper-conference
+  author:
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Adding programming facilities to an abstract data store
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '125-144'
+
+- id: conf/pos/AtkinsonM87
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Polymorphic names, types, constancy and magic in a type secure persistent
+    object store
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '1-12'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/KirbyM98
+  type: paper-conference
+  author:
+  - family: Kirby
+    given: Graham N. C.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'Variadic genericity through linguistic reflection: A performance evaluation'
+  title-short: Variadic genericity through linguistic reflection
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '136-148'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Sutton90
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Stanley M. Sutton
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: A flexible consistency model for persistent data in software-process programming
+    languages
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '305-318'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/SchuhCD90
+  type: paper-conference
+  author:
+  - family: Schuh
+    given: Daniel T.
+  - family: Carey
+    given: Michael J.
+  - family: DeWitt
+    given: David J.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Persistence in e revisited - implementation experiences
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '345-359'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/1994
+  type: book
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1995'
+  title: Persistent object systems, proceedings of the sixth international workshop
+    on persistent object systems, tarascon, provence, france, 5-9 september 1994
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/MalhotraP92
+  type: paper-conference
+  author:
+  - family: Malhotra
+    given: Ashok
+  - family: Perry
+    given: Kenneth J.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Allocating objects to pages
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '3-10'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/HenskensKJR94
+  type: paper-conference
+  author:
+  - family: Henskens
+    given: Frans A.
+  - family: Koch
+    given: David M.
+  - family: Jalili
+    given: Rasool
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Hardware support for stability in a persistent architecture
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '387-399'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Preface85
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Buneman
+    given: Peter
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Preface
+  container-title: Data types and persistence (appin), informal proceedings
+
+- id: conf/pos/AtkinsonBJP92
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Birnie
+    given: A.
+  - family: Jackson
+    given: N.
+  - family: Philbrow
+    given: Paul
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Measuring persistent object systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '63-85'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Odberg94
+  type: paper-conference
+  author:
+  - family: Odberg
+    given: Erik
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: A global perspective of schema modification management for object-oriented
+    databases
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '479-502'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/RidgwayW98
+  type: paper-conference
+  author:
+  - family: Ridgway
+    given: John V. E.
+  - family: Wileden
+    given: Jack C.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Toward class evolution in persistent java?
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '353-362'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/GerlhofK94
+  type: paper-conference
+  author:
+  - family: Gerlhof
+    given: Carsten Andreas
+  - family: Kemper
+    given: Alfons
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Prefetch support relations in object bases
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '115-126'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Wolf90
+  type: paper-conference
+  author:
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: An initial look at abstraction mechanisms and persistence
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '360-368'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/BrahnmathNHC98
+  type: paper-conference
+  author:
+  - family: Brahnmath
+    given: Kumar
+  - family: Nystrom
+    given: Nathaniel
+  - family: Hosking
+    given: Antony L.
+  - family: Cutts
+    given: Quintin I.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Swizzle barrier optimizations for orthogonal persistence in java
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '268-278'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/VogesB00
+  type: paper-conference
+  author:
+  - family: Voges
+    given: Erik
+  - family: Berman
+    given: Sonia
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: A spatiotemporal model as the basis for a persistent gIS
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-54'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_5
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/FlanaganFHR96
+  type: paper-conference
+  author:
+  - family: Flanagan
+    given: Michael
+  - family: Fekete
+    given: Alan
+  - family: Henskens
+    given: Frans A.
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1996'
+  title: Dynamically configurable concurrency control for a persistent store
+  container-title: POS
+  page: '60-71'
+
+- id: conf/pos/Rabitti92
+  type: paper-conference
+  author:
+  - family: Rabitti
+    given: Fausto
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Object store implementation
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '164-165'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/BennetHS87
+  type: paper-conference
+  author:
+  - family: Bennet
+    given: K. H.
+  - family: Hawksley
+    given: C.
+  - family: Sparks
+    given: D. J.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: XENOS - a system to support abstract data structures
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '483-494'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/SuzukiKT94
+  type: paper-conference
+  author:
+  - family: Suzuki
+    given: Shinji
+  - family: Kitsuregawa
+    given: Masaru
+  - family: Takagi
+    given: Mikio
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: An efficient pointer swizzling method for navigation intensive applications
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '79-95'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/X90
+  type: paper-conference
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Title, achnowledgements, foreword, introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Brown87
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Alfred L.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: A distributed stable store
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '461-468'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Morrison90
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Architectures - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '213-214'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/OTooleS94
+  type: paper-conference
+  author:
+  - family: O’Toole
+    given: James
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Hybrid caching for large-scale object systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '99-114'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/AtkinsonM89
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Persistent systems architectures
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '73-97'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Cockshott85
+  type: paper-conference
+  author:
+  - family: Cockshott
+    given: W. Paul
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Addressing mechanisms and persistent programming
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '353-384'
+
+- id: conf/pos/X89
+  type: paper-conference
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Title, preface, list of authors
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/HoskingNCB98
+  type: paper-conference
+  author:
+  - family: Hosking
+    given: Antony L.
+  - family: Nystrom
+    given: Nathaniel
+  - family: Cutts
+    given: Quintin I.
+  - family: Brahnmath
+    given: Kumar
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Optimizing the read and write barriers for orthogonal persistence
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '149-159'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/BlackburnZ98
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen
+  - family: Zigman
+    given: John N.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Concurrency - the fly in the ointment?
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '250-258'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Morrison00
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Epilogue
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '315-320'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_27
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/BoccaB87
+  type: paper-conference
+  author:
+  - family: Bocca
+    given: Jorge B.
+  - family: Bailey
+    given: Peter J.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Logic languages and relational dBMS’s - the point of convergence
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '346-362'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/LittleS98
+  type: paper-conference
+  author:
+  - family: Little
+    given: Mark C.
+  - family: Shrivastava
+    given: Santosh K.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Understanding the role of atomic transactions and group communications in
+    implementing persistent replicated objects
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '17-28'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Nikhil85
+  type: paper-conference
+  author:
+  - family: Nikhil
+    given: Rishiyur S.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Functional databases, functional languages
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '299-313'
+
+- id: conf/pos/Matthews87
+  type: paper-conference
+  author:
+  - family: Matthews
+    given: David C. J.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Progress with persistence in poly and poly/ML
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '309-316'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/KutluM98
+  type: paper-conference
+  author:
+  - family: Kutlu
+    given: Gökhan
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Exploiting reflection to add persistence and query optimization to a statically
+    typed object-oriented language
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '123-135'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/MarquezBMZ00
+  type: paper-conference
+  author:
+  - family: Marquez
+    given: Alonso
+  - family: Blackburn
+    given: Stephen
+  - family: Mercer
+    given: Gavin
+  - family: Zigman
+    given: John N.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Implementing orthogonally persistent java
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-261'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_22
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/KaplanRSSW00
+  type: paper-conference
+  author:
+  - family: Kaplan
+    given: Alan
+  - family: Ridgway
+    given: John V. E.
+  - family: Schmerl
+    given: Bradley R.
+  - family: Sridhar
+    given: Krishnan
+  - family: Wileden
+    given: Jack C.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Toward pure polylingual persistence
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-83'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_7
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/WilliamsWH87
+  type: paper-conference
+  author:
+  - family: Williams
+    given: Ifor
+  - family: Wolczko
+    given: Mario
+  - family: Hopkins
+    given: T. P.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Realisation of a dynamically grouped object-oriented virtual memory hierarchy
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '298-308'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Knafla98
+  type: paper-conference
+  author:
+  - family: Knafla
+    given: Nils
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Analysing object relationships to predict page access for prefetching
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '160-170'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/OhoriTCP90
+  type: paper-conference
+  author:
+  - family: Ohori
+    given: Atsushi
+  - family: Tabkha
+    given: Ivan
+  - family: Connor
+    given: Richard C. H.
+  - family: Philbrow
+    given: Paul
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Persistence and type abstraction revisited
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '141-153'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/MalhotraM96
+  type: paper-conference
+  author:
+  - family: Malhotra
+    given: Ashok
+  - family: Munroe
+    given: Steven
+  issued:
+  - year: '1996'
+  title: Schema evolution in persistent object systems
+  container-title: POS
+  page: '194-204'
+
+- id: conf/pos/Benzaken92
+  type: paper-conference
+  author:
+  - family: Benzaken
+    given: Véronique
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Schema manipulation and optimisation
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '222-223'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/X87a
+  type: paper-conference
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: 'Persistent programming research group: Bibliography'
+  title-short: Persistent programming research group
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Cockshott87
+  type: paper-conference
+  author:
+  - family: Cockshott
+    given: W. Paul
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Stable virtual memory
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '470-476'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/VelezDDFHMR90
+  type: paper-conference
+  author:
+  - family: Vélez
+    given: Fernando
+  - family: Darnis
+    given: Vineeta
+  - family: DeWitt
+    given: David J.
+  - family: Futtersack
+    given: Philippe
+  - family: Harrus
+    given: Gilbert
+  - family: Maier
+    given: David
+  - family: Raoux
+    given: Michel
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Implementing the o2 object manager: Some lessons'
+  title-short: Implementing the o2 object manager
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '131-138'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Blakeman90
+  type: paper-conference
+  author:
+  - family: Blakeman
+    given: David
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Version and variant control for a commercial application of persistence
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '413-424'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Powell87
+  type: paper-conference
+  author:
+  - family: Powell
+    given: Malcolm S.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Incremental compilation, partial evaluation and persistence
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '78-95'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Dearle00
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 6: Overview'
+  title-short: Session 6
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '228-231'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_20
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/ShapiroFR00
+  type: paper-conference
+  author:
+  - family: Shapiro
+    given: Marc
+  - family: Ferreira
+    given: Paulo
+  - family: Richer
+    given: Nicolas
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Experience with the perDiS large-scale data-sharing middleware
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-69'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_6
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/KeedyB92
+  type: paper-conference
+  author:
+  - family: Keedy
+    given: James Leslie
+  - family: Brössler
+    given: Peter
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Implementing databases in the mONADS virtual memory
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '318-338'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/FerrandinaMZ94
+  type: paper-conference
+  author:
+  - family: Ferrandina
+    given: Fabrizio
+  - family: Meyer
+    given: Thorsten
+  - family: Zicari
+    given: Roberto
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Correctness of lazy database updates for object database systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '284-301'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/TjasinkB98
+  type: paper-conference
+  author:
+  - family: Tjasink
+    given: Steven
+  - family: Berman
+    given: Sonia
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Providing persistence on small machines
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '171-186'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Guy87
+  type: paper-conference
+  author:
+  - family: Guy
+    given: Michael R.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Persistent store - successor to virtual store
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '266-282'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/BenzakenLR92
+  type: paper-conference
+  author:
+  - family: Benzaken
+    given: Véronique
+  - family: Lécluse
+    given: Christophe
+  - family: Richard
+    given: Philippe
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Enforcing integrity constraints in database programming languages
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '282-299'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/ElphinstoneRHL96
+  type: paper-conference
+  author:
+  - family: Elphinstone
+    given: Kevin
+  - family: '0004'
+    given: Stephen Russell
+  - family: Heiser
+    given: Gernot
+  - family: Liedtke
+    given: Jochen
+  issued:
+  - year: '1996'
+  title: Supporting persistent object systems in a single address space
+  container-title: POS
+  page: '111-119'
+
+- id: conf/pos/Moffat87
+  type: paper-conference
+  author:
+  - family: Moffat
+    given: David S.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Modular commitment in persistent prolog
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '68-77'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/ClarkeWW87
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: Lori A.
+  - family: Wileden
+    given: Jack C.
+  - family: Wolf
+    given: Alexander L.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Object management support for software development environments
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '363-381'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Merrett87
+  type: paper-conference
+  author:
+  - family: Merrett
+    given: T. H.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Relix - first steps to an operating language
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '134-154'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Michaelson89
+  type: paper-conference
+  author:
+  - family: Michaelson
+    given: Greg
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Grammars and implementation independent structure representation
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '19-28'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Preface98
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  - family: Jordan
+    given: Mick J.
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Preface & foreword
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/HeilerB89
+  type: paper-conference
+  author:
+  - family: Heiler
+    given: Sandra
+  - family: Blaustein
+    given: Barbara T.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Generating and manipulating identifiers for heterogeneous, distributed objects
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '235-247'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/CooperA87
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Richard
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Requirements modelling in a persistent object store
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '52-67'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Jones00
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Richard E.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 3: Overview'
+  title-short: Session 3
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-86'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_8
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Buchmann90
+  type: paper-conference
+  author:
+  - family: Buchmann
+    given: Alejandro P.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Modeling heterogeneous systems as an active object space
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '279-290'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/FarkasDH96
+  type: paper-conference
+  author:
+  - family: Farkas
+    given: Alex
+  - family: Dearle
+    given: Alan
+  - family: Hulse
+    given: David
+  issued:
+  - year: '1996'
+  title: Operating system support for inter-domain type checking
+  container-title: POS
+  page: '23-32'
+
+- id: conf/pos/Welland94
+  type: paper-conference
+  author:
+  - family: Welland
+    given: Ray
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Reflection and new language constructs
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '316-317'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/ShriraY98
+  type: paper-conference
+  author:
+  - family: Shrira
+    given: Liuba
+  - family: Yoder
+    given: Ben
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'Trust but check: Mutable objects in untrusted cooperative caches'
+  title-short: Trust but check
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '29-36'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/90
+  type: book
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Implementing persistent object bases, principles and practice, proceedings
+    of the fourth international workshop on persistent objects, 23-27 september 1990,
+    martha’s vineyard, mA, uSA
+  publisher: Morgan Kaufmann
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/BenzakenS96
+  type: paper-conference
+  author:
+  - family: Benzaken
+    given: Véronique
+  - family: Schaefer
+    given: Xavier
+  issued:
+  - year: '1996'
+  title: Ensuring efficiently the integrity of persistent object systems via abstract
+    interpretation
+  container-title: POS
+  page: '72-87'
+
+- id: conf/pos/AtkinsonM90
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  - family: Maier
+    given: David
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Concluding remarks: Perspectives on persistent object systems'
+  title-short: Concluding remarks
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '425-426'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/BlottKRS94
+  type: paper-conference
+  author:
+  - family: Blott
+    given: Stephen
+  - family: Kaufmann
+    given: Helmut
+  - family: Relly
+    given: Lukas
+  - family: Schek
+    given: Hans-Jörg
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Buffering long externally-defined objects
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '45-59'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/ConradiDEH87
+  type: paper-conference
+  author:
+  - family: Conradi
+    given: Reidar
+  - family: Didriksen
+    given: Tor
+  - family: Eidnes
+    given: H.
+  - family: Heensåsen
+    given: Ola
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Experience with an object oriented database interface for the ePOS programming
+    environment
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '13-24'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/DasguptaC90
+  type: paper-conference
+  author:
+  - family: Dasgupta
+    given: Partha
+  - family: Chen
+    given: Raymond C.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Memory semantics in large grained persistent objects
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '226-238'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/BarmanC87
+  type: paper-conference
+  author:
+  - family: Barman
+    given: H. J.
+  - family: Crawley
+    given: Stephen
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Flexibility in a persistent object-based type system
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '233-245'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/BretlOSSV98
+  type: paper-conference
+  author:
+  - family: Bretl
+    given: Robert
+  - family: Otis
+    given: Allen
+  - family: Soucie
+    given: Marc San
+  - family: Schuchardt
+    given: Bruce
+  - family: Venkatesh
+    given: R.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Persistent java objects in 3 tier architectures
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '236-249'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/CarrickM87
+  type: paper-conference
+  author:
+  - family: Carrick
+    given: Raymund
+  - family: Munro
+    given: David S.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Execution strategies in persistent systems
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '456-460'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/RosenbergD92
+  type: paper-conference
+  author:
+  - family: Rosenberg
+    given: John
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Keynote discussion session on operating system support for persistence
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '54-60'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/GrossmanBH96
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Robert L.
+  - family: Bailey
+    given: Stuart
+  - family: Hanley
+    given: David
+  issued:
+  - year: '1996'
+  title: Data mining using light weight object management in clustered computing environments
+  container-title: POS
+  page: '237-249'
+
+- id: conf/pos/RichardsonCDS87
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Joel E.
+  - family: Carey
+    given: Michael J.
+  - family: DeWitt
+    given: David J.
+  - family: Schuh
+    given: Daniel T.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Persistence in eXODUS
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '96-113'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/YangNWM98
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Jiong
+  - family: Nittel
+    given: Silvia
+  - family: '0010'
+    given: Wei Wang
+  - family: Muntz
+    given: Richard R.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'DynamO: Dynamic objects with persistent storage'
+  title-short: DynamO
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '199-214'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/Haynes85a
+  type: paper-conference
+  author:
+  - family: Haynes
+    given: Christopher L. F.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: The exploitation of persistence
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '283'
+
+- id: conf/pos/1985inf
+  type: book
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Data types and persistence, informal proceedings of the first workshop on
+    persistent objects, appin, scotland, august 1985
+
+- id: conf/pos/Shrira94
+  type: paper-conference
+  author:
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Applications of persistent object systems 2
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '441-443'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/X87
+  type: paper-conference
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Preface, contents, attendees
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  volume: TR PPRR-44-87
+
+- id: conf/pos/EvansS98
+  type: paper-conference
+  author:
+  - family: Evans
+    given: Huw
+  - family: Spence
+    given: Susan
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'Porting a distributed system to pJama: Orthogonal persistence for java?'
+  title-short: Porting a distributed system to pJama
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '297-306'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/MitchellR92
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Gail
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Concluding remarks
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '440-443'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/KirbyCCMDF92
+  type: paper-conference
+  author:
+  - family: Kirby
+    given: Graham N. C.
+  - family: Connor
+    given: Richard C. H.
+  - family: Cutts
+    given: Quintin I.
+  - family: Morrison
+    given: Ronald
+  - family: Dearle
+    given: Alan
+  - family: Farkas
+    given: Alex
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Persistent hyper-programs
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '86-106'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Dearle90
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Language mechanisms - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '29-30'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Wai89
+  type: paper-conference
+  author:
+  - family: Wai
+    given: Francis
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Distributed pS-algol
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '126-140'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/LiskovACZ96
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  - family: Adya
+    given: Atul
+  - family: Castro
+    given: Miguel
+  - family: Zondervan
+    given: Quinton
+  issued:
+  - year: '1996'
+  title: Type-safe heterogeneous sharing can be fast
+  container-title: POS
+  page: '1-10'
+
+- id: conf/pos/Wright89
+  type: paper-conference
+  author:
+  - family: Wright
+    given: Sidney L.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: The evolution of the sSE data storage system into a persistent object system
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '248-257'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/X96
+  type: paper-conference
+  issued:
+  - year: '1996'
+  title: Title, programme committee, preface
+  container-title: POS
+
+- id: conf/pos/GrossmanAQX94
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Robert L.
+  - family: Araujo
+    given: N.
+  - family: Qin
+    given: Xiao
+  - family: Xu
+    given: W.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Managing physical folios of objects between nodes
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '217-234'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/SridharH85
+  type: paper-conference
+  author:
+  - family: Sridhar
+    given: K. T.
+  - family: Hoare
+    given: C. A. R.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: JSD expressed in cSP
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '49-82'
+
+- id: conf/pos/Zdonik90
+  type: paper-conference
+  author:
+  - family: Zdonik
+    given: Stanley B.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Types - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '139-140'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/SchmidtM90
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Joachim W.
+  - family: Matthes
+    given: Florian
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Naming schemes and name space management in the dBPL persistent storage system
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '43-61'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/ZdonikW85
+  type: paper-conference
+  author:
+  - family: Zdonik
+    given: Stanley B.
+  - family: Wegner
+    given: Peter
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: A database approach to languages, libraries and environments
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '231-254'
+
+- id: conf/pos/2000
+  type: book
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2001'
+  title: Persistent object systems, 9th international workshop, pOS-9, lillehammer,
+    norway, september 6-8, 2000, revised papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2135'
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Stemple89
+  type: paper-conference
+  author:
+  - family: Stemple
+    given: David W.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Exploiting the potential of persistent object stores
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '45-55'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/GarrattJBW00
+  type: paper-conference
+  author:
+  - family: Garratt
+    given: Andrea
+  - family: Jackson
+    given: Mike
+  - family: Burden
+    given: Peter
+  - family: Wallis
+    given: Jon
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: A comparison of two persistent storage tools for implementing a search engine
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-186'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_15
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Merrett85
+  type: paper-conference
+  author:
+  - family: Merrett
+    given: T. H.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Persistence and aldat
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '35-48'
+
+- id: conf/pos/DonnorFM94
+  type: paper-conference
+  author:
+  - family: Connor
+    given: Richard C. H.
+  - family: Farkas
+    given: Alex
+  - family: Maier
+    given: David
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Keynote discussion on evolution in persistent systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '471-476'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Keedy89
+  type: paper-conference
+  author:
+  - family: Keedy
+    given: James Leslie
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Support for objects in the mONADS architecture
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '392-405'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Morrison94
+  type: paper-conference
+  author:
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Object store engineering 3
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '162-163'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/BlackburnS96
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen
+  - family: Stanton
+    given: Robin
+  issued:
+  - year: '1996'
+  title: 'Multicomputer object stores: The multicomputer texas experiment'
+  title-short: Multicomputer object stores
+  container-title: POS
+  page: '250-262'
+
+- id: conf/pos/BushellDBV94
+  type: paper-conference
+  author:
+  - family: Bushell
+    given: S. J.
+  - family: Dearle
+    given: Alan
+  - family: Brown
+    given: Alfred L.
+  - family: Vaughan
+    given: Francis
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Using c as a compiler target language for native code generation in persistent
+    systems
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '164-183'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Doucet94
+  type: paper-conference
+  author:
+  - family: Doucet
+    given: Anne
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Persistent systems engineering
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '477-478'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Cockshott89
+  type: paper-conference
+  author:
+  - family: Cockshott
+    given: W. Paul
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Design of pOMP - a persistent object management processor
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '367-376'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/SkoglundCL00
+  type: paper-conference
+  author:
+  - family: Skoglund
+    given: Espen
+  - family: Ceelen
+    given: Christian
+  - family: Liedtke
+    given: Jochen
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Transparent orthogonal checkpointing through user-level pagers
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '201-214'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_18
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/FarkasDKCMC92
+  type: paper-conference
+  author:
+  - family: Farkas
+    given: Alex
+  - family: Dearle
+    given: Alan
+  - family: Kirby
+    given: Graham N. C.
+  - family: Cutts
+    given: Quintin I.
+  - family: Morrison
+    given: Ronald
+  - family: Connor
+    given: Richard C. H.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Persistent program construction through browsing and user gesture with some
+    typing
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '376-393'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/ConnorGM96
+  type: paper-conference
+  author:
+  - family: Connor
+    given: Richard C. H.
+  - family: Ghelli
+    given: Giorgio
+  - family: Manghi
+    given: Paolo
+  issued:
+  - year: '1996'
+  title: Persistence, modules and type abstraction
+  container-title: POS
+  page: '48-59'
+
+- id: conf/pos/MunroCMSS94
+  type: paper-conference
+  author:
+  - family: Munro
+    given: David S.
+  - family: Connor
+    given: Richard C. H.
+  - family: Morrison
+    given: Ronald
+  - family: Scheuerl
+    given: S.
+  - family: Stemple
+    given: David W.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Concurrent shadow paging in the flask architecture
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '16-42'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Atwood90
+  type: paper-conference
+  author:
+  - family: Atwood
+    given: Thomas
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Two approaches to adding persistence to c++
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '369-383'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Kirby00
+  type: paper-conference
+  author:
+  - family: Kirby
+    given: Graham N. C.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 1: Overview'
+  title-short: Session 1
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-3'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_1
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/DearleBFHLNRV94
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  - family: Bona
+    given: Rex
+    dropping-particle: di
+  - family: Farrow
+    given: James
+  - family: Henskens
+    given: Frans A.
+  - family: Lindström
+    given: Anders
+  - family: Norris
+    given: Stephen
+  - family: Rosenberg
+    given: John
+  - family: Vaughan
+    given: Francis
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'Protection in grasshopper: A persistent operating system'
+  title-short: Protection in grasshopper
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '60-78'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/BuhrGW92
+  type: paper-conference
+  author:
+  - family: Buhr
+    given: Peter A.
+  - family: Goel
+    given: Anil K.
+  - family: Wai
+    given: Anderson
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: 'ΜDatabase: A toolkit for constructing memory mapped databases'
+  title-short: ΜDatabase
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '166-185'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Stemple90
+  type: paper-conference
+  author:
+  - family: Stemple
+    given: David W.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Transactions - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '291-292'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Atkinson90
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Heterogeneity - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '253-254'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Richardson90
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Joel E.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: 'Compiled item faulting: A new technique for managing i/O in a persistent
+    language'
+  title-short: Compiled item faulting
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '3-16'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Hosking00
+  type: paper-conference
+  author:
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 4: Overview'
+  title-short: Session 4
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-160'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_13
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/BrosslerF89
+  type: paper-conference
+  author:
+  - family: Brössler
+    given: Peter
+  - family: Freisleben
+    given: Bernd
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Transactions on persistent objects
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '303-318'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Porter89
+  type: paper-conference
+  author:
+  - family: III
+    given: Harry H. Porter
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Persistence in a distributed object server
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '258-271'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Kulkarni87
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: K. G.
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: A brief review of efforts in providing database support for trellis/Owl
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '480-482'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Beech87
+  type: paper-conference
+  author:
+  - family: Beech
+    given: David
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Groundwork for an object database model
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '155-197'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/AlbanoGO85
+  type: paper-conference
+  author:
+  - family: Albano
+    given: Antonio
+  - family: Ghelli
+    given: Giorgio
+  - family: Orsini
+    given: Renzo
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: The implementation of galileo’s persistent values
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '197-208'
+
+- id: conf/pos/Benzaken94
+  type: paper-conference
+  author:
+  - family: Benzaken
+    given: Véronique
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Object store engineering 2
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '43-44'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/ShriraLCA96
+  type: paper-conference
+  author:
+  - family: Shrira
+    given: Liuba
+  - family: Liskov
+    given: Barbara
+  - family: Castro
+    given: Miguel
+  - family: Adya
+    given: Atul
+  issued:
+  - year: '1996'
+  title: 'Fragment reconstruction: A new cache coherence scheme for split caching
+    storage systems'
+  title-short: Fragment reconstruction
+  container-title: POS
+  page: '128-139'
+
+- id: conf/pos/ZirintsisKM00
+  type: paper-conference
+  author:
+  - family: Zirintsis
+    given: Evangelos
+  - family: Kirby
+    given: Graham N. C.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Hyper-code revisited: Unifying program source, executable, and data'
+  title-short: Hyper-code revisited
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '232-246'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_21
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/Preface92
+  type: paper-conference
+  author:
+  - family: Albano
+    given: Antonio
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Preface
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Kolodner92
+  type: paper-conference
+  author:
+  - family: Kolodner
+    given: Elliot K.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Concurrent tracking of stable objects
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '419-434'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/DaynesG92
+  type: paper-conference
+  author:
+  - family: Daynès
+    given: Laurent
+  - family: Gruber
+    given: Olivier
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Nested actions in eos
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '144-163'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/BuzatoC92
+  type: paper-conference
+  author:
+  - family: Buzato
+    given: Luiz Eduardo
+  - family: Calsavara
+    given: A.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: 'Stabilis: A case study in writing fault-tolerant distributed applications
+    using persistent objects'
+  title-short: Stabilis
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '354-375'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/FernandezZ89
+  type: paper-conference
+  author:
+  - family: Fernandez
+    given: Mary F.
+  - family: Zdonik
+    given: Stanley B.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: 'Transaction groups: A model for controlling cooperative transactions'
+  title-short: Transaction groups
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '341-350'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Maier94
+  type: paper-conference
+  author:
+  - family: Maier
+    given: David
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Applications of persistent object systems 1
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '200-201'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Shrira00
+  type: paper-conference
+  author:
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: 'Session 5: Overview'
+  title-short: Session 5
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-188'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_16
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/ReinwaldDCLPS94
+  type: paper-conference
+  author:
+  - family: Reinwald
+    given: Berthold
+  - family: Deßloch
+    given: Stefan
+  - family: Carey
+    given: Michael J.
+  - family: Lehman
+    given: Tobin J.
+  - family: Pirahesh
+    given: Hamid
+  - family: Srinivasan
+    given: V.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'Making real data persistent: Initial experiences with sMRC'
+  title-short: Making real data persistent
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '202-216'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/CooperK94
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Richard
+  - family: Kirby
+    given: Graham N. C.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Type-safe linguistic run-time reflection - a practical perspective
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '332-354'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Brown92
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Fred
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Applications
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '317'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/PenneySM87
+  type: paper-conference
+  author:
+  - family: Penney
+    given: D. Jason
+  - family: Stein
+    given: Jacob
+  - family: Maier
+    given: David
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Is the disk half full or half empty? Combining optimistic and pessimistic
+    concurrency mechanisms in a shared, persistent object base
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '337-345'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/1985
+  type: book
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1988'
+  title: Data types and persistence. edited papers from the proceedings of the first
+    workshop on persistent objects, appin, scotland, august 1985
+  collection-title: Topics in information systems
+  publisher: Springer
+  DOI: 10.1007/978-3-642-61556-6
+  ISBN: '3-540-18785-5'
+
+- id: conf/pos/NittelD96
+  type: paper-conference
+  author:
+  - family: Nittel
+    given: Silvia
+  - family: Dittrich
+    given: Klaus R.
+  issued:
+  - year: '1996'
+  title: A storage server for the efficient support of complex objects
+  container-title: POS
+  page: '205-221'
+
+- id: conf/pos/GrayMB85
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Peter M. D.
+  - family: Moffat
+    given: David S.
+  - family: Boulay
+    given: J. B. H.
+    dropping-particle: du
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: 'Persistent prolog: A secondary storage manager for prolog'
+  title-short: Persistent prolog
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '335-351'
+
+- id: conf/pos/Philbrow87
+  type: paper-conference
+  author:
+  - family: Philbrow
+    given: Paul
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: 'Associative storage and retrieval: Some language design issues'
+  title-short: Associative storage and retrieval
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '226-232'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/HoskingM90
+  type: paper-conference
+  author:
+  - family: Hosking
+    given: Antony L.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Towards compile-time optimizations for persistence
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '17-27'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/JordanA98
+  type: paper-conference
+  author:
+  - family: Jordan
+    given: Mick J.
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Orthogonal persistence for java? - a mid-term report
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '335-352'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/DearleCK89
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  - family: Cutts
+    given: Quintin I.
+  - family: Kirby
+    given: Graham N. C.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Browsing, grazing and bibbling persistent data structures
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '56-69'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/BermanSVZ98
+  type: paper-conference
+  author:
+  - family: Berman
+    given: Sonia
+  - family: Southern
+    given: R.
+  - family: Vasey
+    given: A.
+  - family: Ziskind
+    given: D.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Spatio-temporal access in persistent java
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '250-258'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/JonesNW85
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Cliff B.
+  - family: Nipkow
+    given: T. N.
+  - family: Wolczko
+    given: Mario
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: 'MDB: A graph-like persistent database'
+  title-short: MDB
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '25-34'
+
+- id: conf/pos/BjornssonS00
+  type: paper-conference
+  author:
+  - family: Bjornsson
+    given: Magnus E.
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Kirby
+    given: Graham N. C.
+  issued:
+  - year: '2000'
+  title: Transactional remote group caching in distributed object systems
+  container-title: POS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-99'
+  volume: '2135'
+  DOI: 10.1007/3-540-45498-5_9
+  ISBN: 3-540-42735-X
+
+- id: conf/pos/KaplanW94
+  type: paper-conference
+  author:
+  - family: Kaplan
+    given: Alan
+  - family: Wileden
+    given: Jack C.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: 'Conch: Experimenting with enhanced name management for persistent object
+    systems'
+  title-short: Conch
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '318-331'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Dearle92
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Integrity constraints and methodology
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '280-281'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/ConnorsN92
+  type: paper-conference
+  author:
+  - family: Connors
+    given: Tim
+  - family: Neimat
+    given: Marie-Anne
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: The papyrus object library
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '198-215'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Gehringer89
+  type: paper-conference
+  author:
+  - family: Gehringer
+    given: Edward F.
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: 'Name-based mapping: Addressing support for persistent objects'
+  title-short: Name-based mapping
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '218-232'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/CuttsLH98
+  type: paper-conference
+  author:
+  - family: Cutts
+    given: Quintin I.
+  - family: Lennon
+    given: Stuart
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: Reconciling buffer management with persistence optimisations
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '51-63'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/MossMH96
+  type: paper-conference
+  author:
+  - family: Moss
+    given: J. Eliot B.
+  - family: Munro
+    given: David S.
+  - family: Hudson
+    given: Richard L.
+  issued:
+  - year: '1996'
+  title: 'PMOS: A complete and coarse-grained incremental garbage collector for
+    persistent object stores'
+  title-short: PMOS
+  container-title: POS
+  page: '140-150'
+
+- id: conf/pos/Mancini92
+  type: paper-conference
+  author:
+  - family: Mancini
+    given: Luigi V.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Garbage collection and reachability
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '394-395'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/FrancescoVMP92
+  type: paper-conference
+  author:
+  - family: Francesco
+    given: Nicoletta De
+  - family: Vaglini
+    given: Gigliola
+  - family: Mancini
+    given: Luigi V.
+  - family: Paz
+    given: A. Pereira
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Specification of concurrency control in persistent programming languages
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '126-143'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/BlackburnS98
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen
+  - family: Stanton
+    given: Robin
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'The transactional object cache: A foundation for high performance persistent
+    system construction'
+  title-short: The transactional object cache
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '37-50'
+  ISBN: '1-55860-585-1'
+
+- id: conf/pos/FarkasD94
+  type: paper-conference
+  author:
+  - family: Farkas
+    given: Alex
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1994'
+  title: Changing persistent applications
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer; British Computer Society
+  page: '302-315'
+  ISBN: '3-540-19912-8'
+
+- id: conf/pos/Matthews85
+  type: paper-conference
+  author:
+  - family: Matthews
+    given: David C. J.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: An overview of the poly programming language
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '255-263'
+
+- id: conf/pos/BuhrZ89
+  type: paper-conference
+  author:
+  - family: Buhr
+    given: Peter A.
+  - family: Zarnke
+    given: C. Robert
+  editor:
+  - family: Rosenberg
+    given: John
+  issued:
+  - year: '1989'
+  title: Addressing in a persistent environment
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '200-217'
+  ISBN: '3-540-19626-9'
+
+- id: conf/pos/Atkinson92
+  type: paper-conference
+  author:
+  - family: Atkinson
+    given: Malcolm P.
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Persistent programming practices
+  container-title: POS
+  collection-title: Workshops in computing
+  publisher: Springer
+  page: '352-353'
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/1992
+  type: book
+  editor:
+  - family: Albano
+    given: Antonio
+  issued:
+  - year: '1992'
+  title: Persistent object systems, proceedings of the fifth international workshop
+    on persistent object systems, san miniato (pisa), italy, 1-4 september, 1992
+  collection-title: Workshops in computing
+  publisher: Springer
+  ISBN: '3-540-19800-8'
+
+- id: conf/pos/Davie85
+  type: paper-conference
+  author:
+  - family: Davie
+    given: Antony J. T.
+  editor:
+  - family: Atkinson
+    given: Malcolm P.
+  issued:
+  - year: '1985'
+  title: Conditional declarations and pattern matching
+  container-title: Data types and persistence (appin), informal proceedings
+  page: '273-275'
+
+- id: conf/pos/WilliamsW90
+  type: paper-conference
+  author:
+  - family: Williams
+    given: Ifor
+  - family: Wolczko
+    given: Mario
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: An object-based memory architecture
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '114-130'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/Dearle87
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Carrick
+    given: Raymund
+  issued:
+  - year: '1987'
+  title: Constructing compilers in a persistent environment
+  container-title: POS
+  publisher: University of Glasgow; St. Andrew’s
+  page: '443-455'
+  volume: TR PPRR-44-87
+
+- id: conf/pos/Moss90
+  type: paper-conference
+  author:
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1990'
+  title: Clustering and tools - introduction
+  container-title: POS
+  publisher: Morgan Kaufmann
+  page: '385-386'
+  ISBN: '1-55860-168-6'
+
+- id: conf/pos/HulseD98
+  type: paper-conference
+  author:
+  - family: Hulse
+    given: David
+  - family: Dearle
+    given: Alan
+  editor:
+  - family: Morrison
+    given: Ronald
+  issued:
+  - year: '1998'
+  title: 'Lumberjack: A log-structured persistent object store'
+  title-short: Lumberjack
+  container-title: POS/PJW
+  publisher: Morgan Kaufmann
+  page: '187-198'
+  ISBN: '1-55860-585-1'
+...

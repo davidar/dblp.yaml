@@ -1,0 +1,1603 @@
+---
+references:
+- id: conf/usits/CohenK01
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Edith
+  - family: Kaplan
+    given: Haim
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: The age penalty and its effect on cache performance
+  container-title: USITS
+  publisher: USENIX
+  page: '73-84'
+  URL: http://www.usenix.org/events/usits01/cohen.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/LevyBN01
+  type: paper-conference
+  author:
+  - family: Levy
+    given: Lior
+  - family: Blumrosen
+    given: Liad
+  - family: Nisan
+    given: Noam
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'On-line markets for distributed object services: The mAJIC system'
+  title-short: On-line markets for distributed object services
+  container-title: USITS
+  publisher: USENIX
+  page: '85-96'
+  URL: http://www.usenix.org/events/usits01/levy.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/Culler03
+  type: paper-conference
+  author:
+  - family: Culler
+    given: David E.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'PlanetLab: An open, community-driven infrastructure for experimental planetary-scale
+    services'
+  title-short: PlanetLab
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/keynote/index.html
+
+- id: conf/usits/BangaD97
+  type: paper-conference
+  author:
+  - family: Banga
+    given: Gaurav
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1997'
+  title: Measuring the capacity of a web server
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/banga.html
+
+- id: conf/usits/ElnozahyKR03
+  type: paper-conference
+  author:
+  - family: Elnozahy
+    given: E. N.
+  - family: Kistler
+    given: Michael
+  - family: Rajamony
+    given: Ramakrishnan
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Energy conservation policies for web servers
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/elnozahy.html
+
+- id: conf/usits/JainMW03
+  type: paper-conference
+  author:
+  - family: Jain
+    given: Sushant
+  - family: Mahajan
+    given: Ratul
+  - family: Wetherall
+    given: David
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: A study of the performance potential of dHT-based overlays
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/jain.html
+
+- id: conf/usits/MatiasMS97
+  type: paper-conference
+  author:
+  - family: Matias
+    given: Yossi
+  - family: Mayer
+    given: Alain J.
+  - family: Silberschatz
+    given: Abraham
+  issued:
+  - year: '1997'
+  title: Lightweight security primitives for e-commerce
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/matias.html
+
+- id: conf/usits/1999
+  type: book
+  issued:
+  - year: '1999'
+  title: 2nd uSENIX symposium on internet technologies and systems, uSITS’99, boulder,
+    colorado, uSA, october 11-14, 1999
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A283
+
+- id: conf/usits/HarveyJSTW03
+  type: paper-conference
+  author:
+  - family: Harvey
+    given: Nicholas J. A.
+  - family: Jones
+    given: Michael B.
+  - family: Saroiu
+    given: Stefan
+  - family: Theimer
+    given: Marvin
+  - family: Wolman
+    given: Alec
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'SkipNet: A scalable overlay network with practical locality properties'
+  title-short: SkipNet
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/harvey.html
+
+- id: conf/usits/Luby03
+  type: paper-conference
+  author:
+  - family: Luby
+    given: Michael
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Fast, reliable data transport
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/luby/index.html
+
+- id: conf/usits/LiC99
+  type: paper-conference
+  author:
+  - family: Li
+    given: Dan
+  - family: Cheriton
+    given: David R.
+  issued:
+  - year: '1999'
+  title: Scalable web caching of frequently updated objects using reliable multicast
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/li.html
+
+- id: conf/usits/ManleyS97
+  type: paper-conference
+  author:
+  - family: Manley
+    given: Stephen
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '1997'
+  title: Web facts and fantasy
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/manley.html
+
+- id: conf/usits/SpringWA03
+  type: paper-conference
+  author:
+  - family: Spring
+    given: Neil T.
+  - family: Wetherall
+    given: David
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'Scriptroute: A public internet measurement facility'
+  title-short: Scriptroute
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/spring.html
+
+- id: conf/usits/AnastasiadisSS01
+  type: paper-conference
+  author:
+  - family: Anastasiadis
+    given: Stergios V.
+  - family: Sevcik
+    given: Kenneth C.
+  - family: Stumm
+    given: Michael
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Modular and efficient resource management in the exedra media server
+  container-title: USITS
+  publisher: USENIX
+  page: '25-36'
+  URL: http://www.usenix.org/events/usits01/anastasiadis.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/VaradarajanC97
+  type: paper-conference
+  author:
+  - family: Varadarajan
+    given: Srinidhi
+  - family: Chiueh
+    given: Tzi-cker
+  issued:
+  - year: '1997'
+  title: 'SASE: Implementation of a compressed text search engine'
+  title-short: SASE
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/varadarajan.html
+
+- id: conf/usits/2003
+  type: book
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 4th uSENIX symposium on internet technologies and systems, uSITS’03, seattle,
+    washington, uSA, march 26-28, 2003
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A189
+
+- id: conf/usits/SmithAYZ99
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Ben
+  - family: Acharya
+    given: Anurag
+  - family: Yang
+    given: Tao
+  - family: Zhu
+    given: Huican
+  issued:
+  - year: '1999'
+  title: Exploiting result equivalence in caching dynamic web content
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/smith.html
+
+- id: conf/usits/SalzBS03
+  type: paper-conference
+  author:
+  - family: Salz
+    given: Jon
+  - family: Balakrishnan
+    given: Hari
+  - family: Snoeren
+    given: Alex C.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'TESLA: A transparent, extensible session-layer architecture for end-to-end
+    network services'
+  title-short: TESLA
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/salz.html
+
+- id: conf/usits/RajamonyE01
+  type: paper-conference
+  author:
+  - family: Rajamony
+    given: Ramakrishnan
+  - family: Elnozahy
+    given: Elmootazbellah
+    dropping-particle: (Mootaz)
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Measuring client-perceived response time on the wWW
+  container-title: USITS
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits01/rajamony.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/2001
+  type: book
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 3rd uSENIX symposium on internet technologies and systems, uSITS’01, san
+    francisco, california, uSA, march 26-28, 2001
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A208
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/DuskaMF97
+  type: paper-conference
+  author:
+  - family: Duska
+    given: Bradley M.
+  - family: Marwood
+    given: David
+  - family: Feeley
+    given: Michael J.
+  issued:
+  - year: '1997'
+  title: The measured access characteristics of world-wide-web client proxy caches
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/duska.html
+
+- id: conf/usits/GritterC01
+  type: paper-conference
+  author:
+  - family: Gritter
+    given: Mark
+  - family: Cheriton
+    given: David R.
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: An architecture for content routing support in the internet
+  container-title: USITS
+  publisher: USENIX
+  page: '37-48'
+  URL: http://www.usenix.org/events/usits01/gritter.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/RabinovichXDK03
+  type: paper-conference
+  author:
+  - family: Rabinovich
+    given: Michael
+  - family: Xiao
+    given: Zhen
+  - family: Douglis
+    given: Fred
+  - family: Kalmanek
+    given: Charles R.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Moving edge-side includes to the real edge - the clients
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/rabinovich.html
+
+- id: conf/usits/GongMPS97
+  type: paper-conference
+  author:
+  - family: Gong
+    given: Li
+  - family: Mueller
+    given: Marianne
+  - family: Prafullchandra
+    given: Hemma
+  - family: Schemers
+    given: Roland
+  issued:
+  - year: '1997'
+  title: 'Going beyond the sandbox: An overview of the new security architecture
+    in the java development kit 1.2'
+  title-short: Going beyond the sandbox
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/gong.html
+
+- id: conf/usits/ChiDL99
+  type: paper-conference
+  author:
+  - family: Chi
+    given: Chi-Hung
+  - family: Deng
+    given: Jing
+  - family: Lim
+    given: Yan-Hong
+  issued:
+  - year: '1999'
+  title: 'Compression proxy server: Design and implementation'
+  title-short: Compression proxy server
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/chi.html
+
+- id: conf/usits/CutlerSM97
+  type: paper-conference
+  author:
+  - family: Cutler
+    given: Michal
+  - family: Shih
+    given: Yungming
+  - family: Meng
+    given: Weiyi
+  issued:
+  - year: '1997'
+  title: Using the structure of hTML documents to improve retrieval
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/cutler.html
+
+- id: conf/usits/ChesireWVL01
+  type: paper-conference
+  author:
+  - family: Chesire
+    given: Maureen
+  - family: Wolman
+    given: Alec
+  - family: Voelker
+    given: Geoffrey M.
+  - family: Levy
+    given: Henry M.
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Measurement and analysis of a streaming media workload
+  container-title: USITS
+  publisher: USENIX
+  page: '1-12'
+  URL: http://www.usenix.org/events/usits01/chesire.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/FuSAK01
+  type: paper-conference
+  author:
+  - family: Fu
+    given: Xiaodong
+  - family: Shi
+    given: Weisong
+  - family: Akkerman
+    given: Anatoly
+  - family: Karamcheti
+    given: Vijay
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'CANS: Composable, adaptive network services infrastructure'
+  title-short: CANS
+  container-title: USITS
+  publisher: USENIX
+  page: '135-146'
+  URL: http://www.usenix.org/events/usits01/fu.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/LeeZ97
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Han Bok
+  - family: Zorn
+    given: Benjamin G.
+  issued:
+  - year: '1997'
+  title: 'BIT: A tool for instrumenting java bytecodes'
+  title-short: BIT
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/lee.html
+
+- id: conf/usits/IyengarC97
+  type: paper-conference
+  author:
+  - family: Iyengar
+    given: Arun
+  - family: Challenger
+    given: Jim
+  issued:
+  - year: '1997'
+  title: Improving web server performance by caching dynamic data
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/iyengar.html
+
+- id: conf/usits/MalanJS97
+  type: paper-conference
+  author:
+  - family: Malan
+    given: G. Robert
+  - family: Jahanian
+    given: Farnam
+  - family: Subramanian
+    given: Sushila
+  issued:
+  - year: '1997'
+  title: 'Salamander: A push-based distribution substrate for internet applications'
+  title-short: Salamander
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/malan.html
+
+- id: conf/usits/Savage99
+  type: paper-conference
+  author:
+  - family: Savage
+    given: Stefan
+  issued:
+  - year: '1999'
+  title: 'Sting: A tCP-based network measurement tool'
+  title-short: Sting
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/savage.html
+
+- id: conf/usits/AmzaCZ03
+  type: paper-conference
+  author:
+  - family: Amza
+    given: Cristiana
+  - family: Cox
+    given: Alan L.
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Conflict-aware scheduling for dynamic content applications
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/amza.html
+
+- id: conf/usits/CohenRS99
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Ariel Cohen
+  - family: Rangarajan
+    given: Sampath
+  - family: Slye
+    given: J. Hamilton
+  issued:
+  - year: '1999'
+  title: On the performance of tCP splicing for uRL-aware redirection
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/cohen.html
+
+- id: conf/usits/ManberB97
+  type: paper-conference
+  author:
+  - family: Manber
+    given: Udi
+  - family: Bigot
+    given: Peter A.
+  issued:
+  - year: '1997'
+  title: The search broker
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/manber_search.html
+
+- id: conf/usits/ChristensonBB97
+  type: paper-conference
+  author:
+  - family: Christenson
+    given: Nick
+  - family: Bosserman
+    given: Tim
+  - family: Beckemeyer
+    given: David
+  issued:
+  - year: '1997'
+  title: A highly scalable electronic mail service using open systems
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/christenson.html
+
+- id: conf/usits/WelshC03
+  type: paper-conference
+  author:
+  - family: Welsh
+    given: Matt
+  - family: Culler
+    given: David E.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Adaptive overload control for busy internet servers
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/welsh.html
+
+- id: conf/usits/RoussopoulosMSLAB99
+  type: paper-conference
+  author:
+  - family: Roussopoulos
+    given: Mema
+  - family: Maniatis
+    given: Petros
+  - family: Swierk
+    given: Edward
+  - family: Lai
+    given: Kevin
+  - family: Appenzeller
+    given: Guido
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '1999'
+  title: Person-level routing in the mobile people architecture
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/roussopoulos.html
+
+- id: conf/usits/PogerB97
+  type: paper-conference
+  author:
+  - family: Poger
+    given: Elliot
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '1997'
+  title: Secure public internet access handler (sPINACH)
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/poger.html
+
+- id: conf/usits/PaulPC97
+  type: paper-conference
+  author:
+  - family: Paul
+    given: Santanu
+  - family: Park
+    given: Edwin
+  - family: Chaar
+    given: Jarir K.
+  issued:
+  - year: '1997'
+  title: 'RainMan: A workflow system for the internet'
+  title-short: RainMan
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/paul.html
+
+- id: conf/usits/WolmanVSCBLPKL99
+  type: paper-conference
+  author:
+  - family: Wolman
+    given: Alec
+  - family: Voelker
+    given: Geoffrey M.
+  - family: '0002'
+    given: Nitin Sharma
+  - family: Cardwell
+    given: Neal
+  - family: Brown
+    given: Molly
+  - family: Landray
+    given: Tashana
+  - family: Pinnel
+    given: Denise
+  - family: Karlin
+    given: Anna R.
+  - family: Levy
+    given: Henry M.
+  issued:
+  - year: '1999'
+  title: Organization-based analysis of web-object sharing and caching
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/wolman.html
+
+- id: conf/usits/ChandraE99
+  type: paper-conference
+  author:
+  - family: Chandra
+    given: Surendar
+  - family: Ellis
+    given: Carla Schlatter
+  issued:
+  - year: '1999'
+  title: JPEG compression metric as a quality-aware image transcoding
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/chandra.html
+
+- id: conf/usits/CherkasovaL03
+  type: paper-conference
+  author:
+  - family: Cherkasova
+    given: Ludmila
+  - family: Lee
+    given: Jangwon
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'FastReplica: Efficient large file distribution within content delivery
+    networks'
+  title-short: FastReplica
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/cherkasova.html
+
+- id: conf/usits/ChandraDGN01
+  type: paper-conference
+  author:
+  - family: Chandra
+    given: Bharat
+  - family: Dahlin
+    given: Michael
+  - family: Gao
+    given: Lei
+  - family: Nayate
+    given: Amol
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: End-to-end wAN service availability
+  container-title: USITS
+  publisher: USENIX
+  page: '97-108'
+  URL: http://www.usenix.org/events/usits01/chandra.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/MankuBR03
+  type: paper-conference
+  author:
+  - family: Manku
+    given: Gurmeet Singh
+  - family: Bawa
+    given: Mayank
+  - family: Raghavan
+    given: Prabhakar
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'Symphony: Distributed hashing in a small world'
+  title-short: Symphony
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/manku.html
+
+- id: conf/usits/OppenheimerGP03
+  type: paper-conference
+  author:
+  - family: Oppenheimer
+    given: David L.
+  - family: Ganapathi
+    given: Archana
+  - family: Patterson
+    given: David A.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Why do internet services fail, and what can be done about it?
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/oppenheimer.html
+
+- id: conf/usits/KhanT01
+  type: paper-conference
+  author:
+  - family: Khan
+    given: Javed I.
+  - family: Tao
+    given: Qingping
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Partial prefetch for faster surfing in composite hypermedia
+  container-title: USITS
+  publisher: USENIX
+  page: '13-24'
+  URL: http://www.usenix.org/events/usits01/khan.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/SeshanSK97
+  type: paper-conference
+  author:
+  - family: Seshan
+    given: Srinivasan
+  - family: Stemm
+    given: Mark
+  - family: Katz
+    given: Randy H.
+  issued:
+  - year: '1997'
+  title: 'SPAND: Shared passive network performance discovery'
+  title-short: SPAND
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/seshan.html
+
+- id: conf/usits/ElySW01
+  type: paper-conference
+  author:
+  - family: Ely
+    given: David
+  - family: Savage
+    given: Stefan
+  - family: Wetherall
+    given: David
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'Alpine: A user-level infrastructure for network protocol development'
+  title-short: Alpine
+  container-title: USITS
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits01/ely.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/KrishnamurthyW97
+  type: paper-conference
+  author:
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Wills
+    given: Craig E.
+  issued:
+  - year: '1997'
+  title: Study of piggyback cache validation for proxy caches in the world wide web
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/krishnamurthy.html
+
+- id: conf/usits/MiuB01
+  type: paper-conference
+  author:
+  - family: Miu
+    given: Allen K. L.
+  - family: Bahl
+    given: Paramvir
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Dynamic host configuration for managing mobility between public and private
+    networks
+  container-title: USITS
+  publisher: USENIX
+  page: '147-158'
+  URL: http://www.usenix.org/events/usits01/miu.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/VahdatDAA99
+  type: paper-conference
+  author:
+  - family: Vahdat
+    given: Amin
+  - family: Dahlin
+    given: Michael
+  - family: Anderson
+    given: Thomas E.
+  - family: Aggarwal
+    given: Amit
+  issued:
+  - year: '1999'
+  title: 'Active names: Flexible location and transport of wide-area resources'
+  title-short: Active names
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/vahdat.html
+
+- id: conf/usits/ChenHHL99
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Michael
+  - family: Hearst
+    given: Marti A.
+  - family: Hong
+    given: Jason I.
+  - family: Lin
+    given: James
+  issued:
+  - year: '1999'
+  title: 'Cha-cha: A system for organizing intranet search results'
+  title-short: Cha-cha
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/chen.html
+
+- id: conf/usits/DouglisHR97
+  type: paper-conference
+  author:
+  - family: Douglis
+    given: Fred
+  - family: Haro
+    given: Antonio
+  - family: Rabinovich
+    given: Michael
+  issued:
+  - year: '1997'
+  title: 'HPP: HTML macro-preprocessing to support dynamic document caching'
+  title-short: HPP
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/douglis_hpp.html
+
+- id: conf/usits/LaraWZ01
+  type: paper-conference
+  author:
+  - family: Lara
+    given: Eyal
+    dropping-particle: de
+  - family: Wallach
+    given: Dan S.
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'Puppeteer: Component-based adaptation for mobile computing'
+  title-short: Puppeteer
+  container-title: USITS
+  publisher: USENIX
+  page: '159-170'
+  URL: http://www.usenix.org/events/usits01/delara.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/YangL99
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Chu-Sing
+  - family: Luo
+    given: Mon-Yen
+  issued:
+  - year: '1999'
+  title: Efficient support for content-based routing in web server clusters
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/yang.html
+
+- id: conf/usits/MarkatosKPF99
+  type: paper-conference
+  author:
+  - family: Markatos
+    given: Evangelos P.
+  - family: Katevenis
+    given: Manolis
+  - family: Pnevmatikatos
+    given: Dionisios N.
+  - family: Flouris
+    given: Michail
+  issued:
+  - year: '1999'
+  title: Secondary storage management for web proxies
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/markatos.html
+
+- id: conf/usits/YinADL99
+  type: paper-conference
+  author:
+  - family: Yin
+    given: Jian
+  - family: Alvisi
+    given: Lorenzo
+  - family: Dahlin
+    given: Michael
+  - family: Lin
+    given: Calvin
+  issued:
+  - year: '1999'
+  title: Hierarchical cache consistency in a wAN
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/yin.html
+
+- id: conf/usits/BahnNMK99
+  type: paper-conference
+  author:
+  - family: Bahn
+    given: Hyokyung
+  - family: Noh
+    given: Sam H.
+  - family: Min
+    given: Sang Lyul
+  - family: Koh
+    given: Kern
+  issued:
+  - year: '1999'
+  title: Using full reference history for efficient document replacement in web caches
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/bahn.html
+
+- id: conf/usits/KrishnamurthyA01
+  type: paper-conference
+  author:
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Arlitt
+    given: Martin F.
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'PRO-cOW: Protocol compliance on the web - a longitudinal study'
+  title-short: PRO-cOW
+  container-title: USITS
+  publisher: USENIX
+  page: '109-122'
+  URL: http://www.usenix.org/events/usits01/krishnamurthy.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/DoyleCAJV03
+  type: paper-conference
+  author:
+  - family: Doyle
+    given: Ronald P.
+  - family: Chase
+    given: Jeffrey S.
+  - family: Asad
+    given: Omer M.
+  - family: Jin
+    given: Wei
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Model-based resource provisioning in a web service utility
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/doyle.html
+
+- id: conf/usits/ShahMFMMR01
+  type: paper-conference
+  author:
+  - family: Shah
+    given: Hemal V.
+  - family: Minturn
+    given: Dave B.
+  - family: Foong
+    given: Annie P.
+  - family: McAlpine
+    given: Gary L.
+  - family: Madukkarumukumana
+    given: Rajesh S.
+  - family: Regnier
+    given: Greg J.
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'CSP: A novel system architecture for scalable internet and communication
+    services'
+  title-short: CSP
+  container-title: USITS
+  publisher: USENIX
+  page: '61-72'
+  URL: http://www.usenix.org/events/usits01/shah.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/GoldbergGWB99
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Ian
+  - family: Gribble
+    given: Steven D.
+  - family: Wagner
+    given: David
+  - family: Brewer
+    given: Eric A.
+  issued:
+  - year: '1999'
+  title: The ninja jukebox
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/goldberg.html
+
+- id: conf/usits/Andersen03
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: David G.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'Mayday: Distributed filtering for internet services'
+  title-short: Mayday
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/andersen.html
+
+- id: conf/usits/PendarakisSVW01
+  type: paper-conference
+  author:
+  - family: Pendarakis
+    given: Dimitrios E.
+  - family: Shi
+    given: Sherlia
+  - family: Verma
+    given: Dinesh C.
+  - family: Waldvogel
+    given: Marcel
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'ALMI: An application level multicast infrastructure'
+  title-short: ALMI
+  container-title: USITS
+  publisher: USENIX
+  page: '49-60'
+  URL: http://www.usenix.org/events/usits01/shi.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/PaiCPZ03
+  type: paper-conference
+  author:
+  - family: Pai
+    given: Vivek S.
+  - family: Cox
+    given: Alan L.
+  - family: Pai
+    given: Vijay S.
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: A flexible and efficient application programming interface (aPI) for a customizable
+    proxy cache
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/pai.html
+
+- id: conf/usits/CaoI97
+  type: paper-conference
+  author:
+  - family: Cao
+    given: Pei
+  - family: Irani
+    given: Sandy
+  issued:
+  - year: '1997'
+  title: Cost-aware wWW proxy caching algorithms
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/cao.html
+
+- id: conf/usits/GribbleB97
+  type: paper-conference
+  author:
+  - family: Gribble
+    given: Steven D.
+  - family: Brewer
+    given: Eric A.
+  issued:
+  - year: '1997'
+  title: 'System design issues for internet middleware services: Deductions from
+    a large client trace'
+  title-short: System design issues for internet middleware services
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/gribble.html
+
+- id: conf/usits/AnupamKM99
+  type: paper-conference
+  author:
+  - family: Anupam
+    given: Vinod
+  - family: Kristol
+    given: David M.
+  - family: Mayer
+    given: Alain J.
+  issued:
+  - year: '1999'
+  title: A user’s and programmer’s view of the new javaScript security model
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/anupam.html
+
+- id: conf/usits/SnoerenAB01
+  type: paper-conference
+  author:
+  - family: Snoeren
+    given: Alex C.
+  - family: Andersen
+    given: David G.
+  - family: Balakrishnan
+    given: Hari
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: Fine-grained failover using connection migration
+  container-title: USITS
+  publisher: USENIX
+  page: '221-232'
+  URL: http://www.usenix.org/events/usits01/snoeren.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/KokkuYVD03
+  type: paper-conference
+  author:
+  - family: Kokku
+    given: Ravi
+  - family: Yalagandula
+    given: Praveen
+  - family: Venkataramani
+    given: Arun
+  - family: Dahlin
+    given: Michael
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'NPS: A non-interfering deployable web prefetching system'
+  title-short: NPS
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/kokku.html
+
+- id: conf/usits/KroegerLM97
+  type: paper-conference
+  author:
+  - family: Kroeger
+    given: Tom M.
+  - family: Long
+    given: Darrell D. E.
+  - family: Mogul
+    given: Jeffrey C.
+  issued:
+  - year: '1997'
+  title: Exploring the bounds of web latency reduction from caching and prefetching
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/kroeger.html
+
+- id: conf/usits/LaiB01
+  type: paper-conference
+  author:
+  - family: Lai
+    given: Kevin
+  - family: Baker
+    given: Mary
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'Nettimer: A tool for measuring bottleneck link bandwidth'
+  title-short: Nettimer
+  container-title: USITS
+  publisher: USENIX
+  page: '123-134'
+  URL: http://www.usenix.org/events/usits01/lai.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/NagarajaLBMN03
+  type: paper-conference
+  author:
+  - family: Nagaraja
+    given: Kiran
+  - family: Li
+    given: Xiaoyan
+  - family: Bianchini
+    given: Ricardo
+  - family: Martin
+    given: Richard P.
+  - family: Nguyen
+    given: Thu D.
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Using fault injection and modeling to evaluate the performability of cluster-based
+    services
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/nagaraja.html
+
+- id: conf/usits/KosticRABV03
+  type: paper-conference
+  author:
+  - family: Kostic
+    given: Dejan
+  - family: Rodriguez
+    given: Adolfo
+  - family: Albrecht
+    given: Jeannie R.
+  - family: Bhirud
+    given: Abhijeet
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Using random subsets to build scalable network services
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/kostic.html
+
+- id: conf/usits/Manber97
+  type: paper-conference
+  author:
+  - family: Manber
+    given: Udi
+  issued:
+  - year: '1997'
+  title: Creating a personal web notebook
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/manber_creating.html
+
+- id: conf/usits/PitkowP99
+  type: paper-conference
+  author:
+  - family: Pitkow
+    given: James E.
+  - family: Pirolli
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Mining longest repeating subsequences to predict world wide web surfing
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/pitkow.html
+
+- id: conf/usits/LoonB97
+  type: paper-conference
+  author:
+  - family: Loon
+    given: Tong Sau
+  - family: Bharghavan
+    given: Vaduvur
+  issued:
+  - year: '1997'
+  title: Alleviating the latency and bandwidth problems in wWW browsing
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/tong.html
+
+- id: conf/usits/Duchamp99
+  type: paper-conference
+  author:
+  - family: Duchamp
+    given: Dan
+  issued:
+  - year: '1999'
+  title: Prefetching hyperlinks
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/duchamp.html
+
+- id: conf/usits/YocumACV03
+  type: paper-conference
+  author:
+  - family: Yocum
+    given: Ken
+  - family: Anderson
+    given: Darrell C.
+  - family: Chase
+    given: Jeffrey S.
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: 'Anypoint: Extensible transport switching on the edge'
+  title-short: Anypoint
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/yocum.html
+
+- id: conf/usits/LuoY01
+  type: paper-conference
+  author:
+  - family: Luo
+    given: Mon-Yen
+  - family: Yang
+    given: Chu-Sing
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: System support for scalable, reliable, and highly manageable web hosting
+    service
+  container-title: USITS
+  publisher: USENIX
+  page: '209-220'
+  URL: http://www.usenix.org/events/usits01/luo.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/ShenYCHKZ01
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Kai
+  - family: Yang
+    given: Tao
+  - family: Chu
+    given: Lingkun
+  - family: Holliday
+    given: JoAnne
+  - family: Kuschner
+    given: Douglas A.
+  - family: Zhu
+    given: Huican
+  editor:
+  - family: Anderson
+    given: Tom
+  issued:
+  - year: '2001'
+  title: 'Neptune: Scalable replication management and programming support for cluster-based
+    network services'
+  title-short: Neptune
+  container-title: USITS
+  publisher: USENIX
+  page: '197-208'
+  URL: http://www.usenix.org/events/usits01/shen.html
+  ISBN: '1-880446-14-6'
+
+- id: conf/usits/CrovellaFH99
+  type: paper-conference
+  author:
+  - family: Crovella
+    given: Mark
+  - family: Frangioso
+    given: Robert
+  - family: Harchol-Balter
+    given: Mor
+  issued:
+  - year: '1999'
+  title: Connection scheduling in web servers
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/crovella.html
+
+- id: conf/usits/HodesK99
+  type: paper-conference
+  author:
+  - family: Hodes
+    given: Todd D.
+  - family: Katz
+    given: Randy H.
+  issued:
+  - year: '1999'
+  title: A document-based framework for internet application control
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/hodes.html
+
+- id: conf/usits/HuangS03
+  type: paper-conference
+  author:
+  - family: Huang
+    given: An-Cheng
+  - family: Steenkiste
+    given: Peter
+  editor:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2003'
+  title: Network-sensitive service discovery
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/events/usits03/tech/huang.html
+
+- id: conf/usits/LeFebvreC99
+  type: paper-conference
+  author:
+  - family: LeFebvre
+    given: William
+  - family: Craig
+    given: Ken
+  issued:
+  - year: '1999'
+  title: Rapid reverse dNS lookups for web servers
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/lefebvre.html
+
+- id: conf/usits/1997
+  type: book
+  issued:
+  - year: '1997'
+  title: 1st uSENIX symposium on internet technologies and systems, uSITS’97, monterey,
+    california, uSA, december 8-11, 1997
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A237
+
+- id: conf/usits/BarnesP99
+  type: paper-conference
+  author:
+  - family: Barnes
+    given: J. Fritz
+  - family: Pandey
+    given: Raju
+  issued:
+  - year: '1999'
+  title: Providing dynamic and customizable caching policies
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits99/barnes.html
+
+- id: conf/usits/DouglisFKM97
+  type: paper-conference
+  author:
+  - family: Douglis
+    given: Fred
+  - family: Feldmann
+    given: Anja
+  - family: Krishnamurthy
+    given: Balachander
+  - family: Mogul
+    given: Jeffrey C.
+  issued:
+  - year: '1997'
+  title: 'Rate of change and other metrics: A live study of the world wide web'
+  title-short: Rate of change and other metrics
+  container-title: USENIX symposium on internet technologies and systems
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/usits97/douglis_rate.html
+...

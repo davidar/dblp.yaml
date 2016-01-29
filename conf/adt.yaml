@@ -1,0 +1,2525 @@
+---
+references:
+- id: conf/adt/Lipeck86
+  type: paper-conference
+  author:
+  - family: Lipeck
+    given: Udo W.
+  issued:
+  - year: '1986'
+  title: On the semantics of the frame rule
+  container-title: ADT
+
+- id: conf/adt/1987
+  type: book
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Recent trends in data type specification, 5th workshop on abstract data types,
+    gullane, scotland, september 1-4, 1987, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '332'
+
+- id: conf/adt/Ehrich84
+  type: paper-conference
+  author:
+  - family: Ehrich
+    given: Hans-Dieter
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Algebraic (?) specification of conceptual database schemata
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '22-27'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Scollo88
+  type: paper-conference
+  author:
+  - family: Scollo
+    given: Giuseppe
+  issued:
+  - year: '1988'
+  title: 'Typed-equational types: Pragmatics'
+  title-short: Typed-equational types
+  container-title: ADT
+
+- id: conf/adt/Lipeck82
+  type: paper-conference
+  author:
+  - family: Lipeck
+    given: Udo W.
+  issued:
+  - year: '1982'
+  title: Composition and implementation of parameterized data types
+  container-title: ADT
+
+- id: conf/adt/MascariV90
+  type: paper-conference
+  author:
+  - family: Mascari
+    given: Gianfranco
+  - family: Vincenzi
+    given: Antonio
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Model-theoretic specifications and back-and-forth equivalences
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-184'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_9
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Sadler86
+  type: paper-conference
+  author:
+  - family: Sadler
+    given: M. R.
+  issued:
+  - year: '1986'
+  title: A defense of proof theory as the right foundations
+  container-title: ADT
+
+- id: conf/adt/Padawitz82
+  type: paper-conference
+  author:
+  - family: Padawitz
+    given: Peter
+  issued:
+  - year: '1982'
+  title: On the proof of completeness and consistency
+  container-title: ADT
+
+- id: conf/adt/Gogolla86
+  type: paper-conference
+  author:
+  - family: Gogolla
+    given: Martin
+  issued:
+  - year: '1986'
+  title: Exception handling and subsorts
+  container-title: ADT
+
+- id: conf/adt/Quintanilla88
+  type: paper-conference
+  author:
+  - family: Quintanilla
+    given: Gloria
+  issued:
+  - year: '1988'
+  title: Prototyping of z specifications in mL
+  container-title: ADT
+
+- id: conf/adt/Loeckx86
+  type: paper-conference
+  author:
+  - family: Loeckx
+    given: Jacques
+  issued:
+  - year: '1986'
+  title: The specification language oBSCURE
+  container-title: ADT
+
+- id: conf/adt/Vrancken87
+  type: paper-conference
+  author:
+  - family: Vrancken
+    given: Jos L. M.
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: The algebraic specification of semi-computable data types
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-259'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_13
+
+- id: conf/adt/Poigne84
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Error handling for parameterized data types
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '224-239'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/EhrigFH84
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  - family: Fey
+    given: Werner
+  - family: Hansen
+    given: Horst
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Towards abstract user interfaces for formal system specifications
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '73-88'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Ehrich82a
+  type: paper-conference
+  author:
+  - family: Ehrich
+    given: Hans-Dieter
+  issued:
+  - year: '1982'
+  title: Algebraic domain equations
+  container-title: ADT
+
+- id: conf/adt/Haxthausen88
+  type: paper-conference
+  author:
+  - family: Haxthausen
+    given: Anne Elisabeth
+  issued:
+  - year: '1988'
+  title: Mutually recursive algebraic domain equations
+  container-title: ADT
+
+- id: conf/adt/Wolz90
+  type: paper-conference
+  author:
+  - family: Wolz
+    given: Dietmar
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Design of a compiler for lazy pattern driven narrowing
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '362-379'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_19
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/HabelKP87
+  type: paper-conference
+  author:
+  - family: Habel
+    given: Annegret
+  - family: Kreowski
+    given: Hans-Jörg
+  - family: Plump
+    given: Detlef
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Jungle evaluation
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-112'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_5
+
+- id: conf/adt/EhrichSS88
+  type: paper-conference
+  author:
+  - family: Ehrich
+    given: Hans-Dieter
+  - family: Sernadas
+    given: Amílcar
+  - family: Sernadas
+    given: Cristina
+  issued:
+  - year: '1988'
+  title: Objects and object types
+  container-title: ADT
+
+- id: conf/adt/Qian88
+  type: paper-conference
+  author:
+  - family: Qian
+    given: Zhenyu
+  issued:
+  - year: '1988'
+  title: Parameterization of order-sorted algebraic specifications with built-in coercers
+  container-title: ADT
+
+- id: conf/adt/HennickerW84
+  type: paper-conference
+  author:
+  - family: Hennicker
+    given: Rolf
+  - family: Wirsing
+    given: Martin
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: 'Observational specification: A birkhoff theorem'
+  title-short: Observational specification
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '119-135'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Wagner90
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Eric G.
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Generic types in a language for data directed design
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341-361'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_18
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Mahr86
+  type: paper-conference
+  author:
+  - family: Mahr
+    given: Bernd
+  issued:
+  - year: '1986'
+  title: Term evaluation in partial algebras
+  container-title: ADT
+
+- id: conf/adt/Vrancken88
+  type: paper-conference
+  author:
+  - family: Vrancken
+    given: Jos L. M.
+  issued:
+  - year: '1988'
+  title: Parallel object-oriented term rewriting
+  container-title: ADT
+
+- id: conf/adt/Ehrig86
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1986'
+  title: Towards an algebraic semantics of the iSO specification language lOTOS
+  container-title: ADT
+
+- id: conf/adt/Mosses88
+  type: paper-conference
+  author:
+  - family: Mosses
+    given: Peter D.
+  issued:
+  - year: '1988'
+  title: Unified algebras
+  container-title: ADT
+
+- id: conf/adt/Yunzeng86
+  type: paper-conference
+  author:
+  - family: Yunzeng
+    given: Wu
+  issued:
+  - year: '1986'
+  title: On formalization and its related notions
+  container-title: ADT
+
+- id: conf/adt/Gogolla84
+  type: paper-conference
+  author:
+  - family: Gogolla
+    given: Martin
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: A final algebra semantics for errors and exceptions
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '89-103'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Brueck86
+  type: paper-conference
+  author:
+  - family: Brueck
+    given: Peter
+  issued:
+  - year: '1986'
+  title: ADT as a design concept for cHILL
+  container-title: ADT
+
+- id: conf/adt/MollerD84
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  - family: Dosch
+    given: Walter
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: On the algebraic specification of domains
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '178-195'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Ganzinger87
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Completion with history-dependent complexities for generated equations
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-91'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_4
+
+- id: conf/adt/SannellaW83
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1983'
+  title: A kernel language for algebraic specification and implementation
+  container-title: ADT
+
+- id: conf/adt/Mosses86
+  type: paper-conference
+  author:
+  - family: Mosses
+    given: Peter D.
+  issued:
+  - year: '1986'
+  title: Action semantics
+  container-title: ADT
+
+- id: conf/adt/Manca86
+  type: paper-conference
+  author:
+  - family: Manca
+    given: Vincenzo
+  issued:
+  - year: '1986'
+  title: Specification of abstract data types with experiments
+  container-title: ADT
+
+- id: conf/adt/NivelaO87
+  type: paper-conference
+  author:
+  - family: Nivela
+    given: Pilar
+  - family: Orejas
+    given: Fernando
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Initial behaviour semantics for algebraic specifications
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-207'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_10
+
+- id: conf/adt/Smolka86
+  type: paper-conference
+  author:
+  - family: Smolka
+    given: Gert
+  issued:
+  - year: '1986'
+  title: Polymorphic order-sorted algebra
+  container-title: ADT
+
+- id: conf/adt/Hansen87
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Horst
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: 'The aCT system: Experiences and future enhancements'
+  title-short: The aCT system
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-130'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_6
+
+- id: conf/adt/Maibaum88
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  issued:
+  - year: '1988'
+  title: 'Configuration versus use: Specification languages versus logics'
+  title-short: Configuration versus use
+  container-title: ADT
+
+- id: conf/adt/SannellaT88
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  issued:
+  - year: '1988'
+  title: 'Formal development of mL programs: Methodological aspects'
+  title-short: Formal development of mL programs
+  container-title: ADT
+
+- id: conf/adt/StreicherW90
+  type: paper-conference
+  author:
+  - family: Streicher
+    given: Thomas
+  - family: Wirsing
+    given: Martin
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Dependent types considered necessary for specification languages
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '323-340'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_17
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/PalmaM83
+  type: paper-conference
+  author:
+  - family: Palma
+    given: W. Di
+  - family: Mascari
+    given: Gianfranco
+  issued:
+  - year: '1983'
+  title: Abstract data types and categorical logic
+  container-title: ADT
+
+- id: conf/adt/Wolz88
+  type: paper-conference
+  author:
+  - family: Wolz
+    given: Dietmar
+  issued:
+  - year: '1988'
+  title: Compilation of algebraic specifications and term rewriting systems
+  container-title: ADT
+
+- id: conf/adt/HaslerLR82
+  type: paper-conference
+  author:
+  - family: Hasler
+    given: Klaus-Peter
+  - family: Löwe
+    given: Michael
+  - family: Reisin
+    given: Michaela
+  issued:
+  - year: '1982'
+  title: An interpreter for algebraic specifications with user controlled termination
+  container-title: ADT
+
+- id: conf/adt/Hussmann88
+  type: paper-conference
+  author:
+  - family: Hußmann
+    given: Heinrich
+  issued:
+  - year: '1988'
+  title: Prototyping non-deterministic algebraic specifications using the rAP system
+  container-title: ADT
+
+- id: conf/adt/SannellaT90a
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: 'Extended mL: Past, present, and future'
+  title-short: Extended mL
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '297-322'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_16
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Jouannaud83
+  type: paper-conference
+  author:
+  - family: Jouannaud
+    given: Jean-Pierre
+  issued:
+  - year: '1983'
+  title: Programming and checking data types with rEVE
+  container-title: ADT
+
+- id: conf/adt/OrejasN90
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  - family: Nivela
+    given: Pilar
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Constraints for behavioural specifications
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '220-245'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_12
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Orejas84
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Passing compatibility is almost persistency
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '196-206'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Reichel87
+  type: paper-conference
+  author:
+  - family: Reichel
+    given: Horst
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Operational semantics of behavioural canons based on narrowing
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-248'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_12
+
+- id: conf/adt/Bergstra82
+  type: paper-conference
+  author:
+  - family: Bergstra
+    given: Jan A.
+  issued:
+  - year: '1982'
+  title: Specification of parameterized data types
+  container-title: ADT
+
+- id: conf/adt/OrejasSNNP88
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  - family: Sánchez
+    given: Ana
+  - family: Navarro
+    given: Marisa
+  - family: Nivela
+    given: Pilar
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '1988'
+  title: Term rewriting methods for partial specifications
+  container-title: ADT
+
+- id: conf/adt/SannellaT86
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  issued:
+  - year: '1986'
+  title: 'Extended mL: An institution-independent framework for formal program development'
+  title-short: Extended mL
+  container-title: ADT
+
+- id: conf/adt/Gobel83
+  type: paper-conference
+  author:
+  - family: Göbel
+    given: Richard
+  issued:
+  - year: '1983'
+  title: Rewrite rules with conditions for algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Bidoit88
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  issued:
+  - year: '1988'
+  title: Recent development of the pLUSS specification language
+  container-title: ADT
+
+- id: conf/adt/Moller83
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1983'
+  title: Ordered and continuous models of algebraic types
+  container-title: ADT
+
+- id: conf/adt/Petzsch84
+  type: paper-conference
+  author:
+  - family: Petzsch
+    given: Heiko
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Automatic prototyping of algebraic specifications using pROLOG
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '207-223'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Kreowski88
+  type: paper-conference
+  author:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1988'
+  title: 'Complexity in algebraic specifications: An upper bound result'
+  title-short: Complexity in algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Nickl88
+  type: paper-conference
+  author:
+  - family: Nickl
+    given: Friederike
+  issued:
+  - year: '1988'
+  title: Order-theoretic specification of algebras with non-monotonic operations
+  container-title: ADT
+
+- id: conf/adt/Dybjer83
+  type: paper-conference
+  author:
+  - family: Dybjer
+    given: Peter
+  issued:
+  - year: '1983'
+  title: 'Towards a unified theory of data types: Some categorical aspects'
+  title-short: Towards a unified theory of data types
+  container-title: ADT
+
+- id: conf/adt/ClericiOB88
+  type: paper-conference
+  author:
+  - family: Clerici
+    given: Silvia
+  - family: Orejas
+    given: Fernando
+  - family: Botella
+    given: Pere
+  issued:
+  - year: '1988'
+  title: The specification language for the gESTALT environment
+  container-title: ADT
+
+- id: conf/adt/Nourani83
+  type: paper-conference
+  author:
+  - family: Nourani
+    given: F.
+  issued:
+  - year: '1983'
+  title: Abstract models for types, induction, and proofs
+  container-title: ADT
+
+- id: conf/adt/LehmannL87
+  type: paper-conference
+  author:
+  - family: Lehmann
+    given: Thomas
+  - family: Loeckx
+    given: Jacques
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: The specification language of oBSCURE
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-153'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_7
+
+- id: conf/adt/Mayr82
+  type: paper-conference
+  author:
+  - family: Mayr
+    given: Heinrich C.
+  issued:
+  - year: '1982'
+  title: 'ORS specifications: Ideas, application examples, and experiences'
+  title-short: ORS specifications
+  container-title: ADT
+
+- id: conf/adt/Clenaghan88
+  type: paper-conference
+  author:
+  - family: Clenaghan
+    given: Kieran
+  issued:
+  - year: '1988'
+  title: Abstract architecture of an interactive programming system
+  container-title: ADT
+
+- id: conf/adt/Smolka88
+  type: paper-conference
+  author:
+  - family: Smolka
+    given: Gert
+  issued:
+  - year: '1988'
+  title: Type logic
+  container-title: ADT
+
+- id: conf/adt/Grosse-Rhode90
+  type: paper-conference
+  author:
+  - family: Große-Rhode
+    given: Martin
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Towards object-oriented algebraic specifications
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-116'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_6
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Pletat82
+  type: paper-conference
+  author:
+  - family: Pletat
+    given: Udo
+  issued:
+  - year: '1982'
+  title: Ideas for the development of software systems on the basis of algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Kreowski82
+  type: paper-conference
+  author:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1982'
+  title: An algebraic implementation concept for abstract data types
+  container-title: ADT
+
+- id: conf/adt/Choppy86
+  type: paper-conference
+  author:
+  - family: Choppy
+    given: Christine
+  issued:
+  - year: '1986'
+  title: Complexity of abstract data types
+  container-title: ADT
+
+- id: conf/adt/Botella86
+  type: paper-conference
+  author:
+  - family: Botella
+    given: Pere
+  issued:
+  - year: '1986'
+  title: Abstract data types, program schema, and programming environments
+  container-title: ADT
+
+- id: conf/adt/Poigne88
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  issued:
+  - year: '1988'
+  title: Towards a unified logic for specification and programming
+  container-title: ADT
+
+- id: conf/adt/Ganzinger86
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  issued:
+  - year: '1986'
+  title: Knuth-bendix completion for parametric specifications with conditional equations
+  container-title: ADT
+
+- id: conf/adt/Maibaum83
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  issued:
+  - year: '1983'
+  title: Structuring of specifications within a logical theory of data types
+  container-title: ADT
+
+- id: conf/adt/Poigne87
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: 'Partial algebras, subsorting, and dependent types: Prerequisites of error
+    handling in algebraic specifications'
+  title-short: Partial algebras, subsorting, and dependent types
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-234'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_11
+
+- id: conf/adt/Thomas88
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Muffy
+  issued:
+  - year: '1988'
+  title: Towards a termination ordering for loop programs
+  container-title: ADT
+
+- id: conf/adt/Kreowski83
+  type: paper-conference
+  author:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1983'
+  title: Specification of partial functions - only a tentative suggestion
+  container-title: ADT
+
+- id: conf/adt/Fey86
+  type: paper-conference
+  author:
+  - family: Fey
+    given: Werner
+  issued:
+  - year: '1986'
+  title: The module specification language aCT tWO
+  container-title: ADT
+
+- id: conf/adt/Luft83
+  type: paper-conference
+  author:
+  - family: Luft
+    given: Alfred L.
+  issued:
+  - year: '1983'
+  title: Scientific-theoretic foundations of the concept of abstract data type
+  container-title: ADT
+
+- id: conf/adt/Lehmann90
+  type: paper-conference
+  author:
+  - family: Lehmann
+    given: Thomas
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: A notion of implementation for the specification language oBSCURE
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-165'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_8
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/LipeckE83
+  type: paper-conference
+  author:
+  - family: Lipeck
+    given: Udo W.
+  - family: Ehrich
+    given: Hans-Dieter
+  issued:
+  - year: '1983'
+  title: Algebraic specifications of database constraints
+  container-title: ADT
+
+- id: conf/adt/1990
+  type: book
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1991'
+  title: Recent trends in data type specification, proceedings 7th workshop on abstract
+    data types, wusterhausen, dosse, germany, april 17-20, 1990
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '534'
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/EhrigPBRDG87
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  - family: Parisi-Presicce
+    given: Francesco
+  - family: Boehm
+    given: Paul
+  - family: Rieckhoff
+    given: Catharina
+  - family: Dimitrovici
+    given: Christian
+  - family: Große-Rhode
+    given: Martin
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Algebraic data type and process specifications based on projection spaces
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-43'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_2
+
+- id: conf/adt/Wagner84
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Eric G.
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Categorical semantics, or extending data types to include memory
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-21'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/LangeJ90
+  type: paper-conference
+  author:
+  - family: Lange
+    given: Steffen
+  - family: Jantke
+    given: Klaus P.
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Inductive completion for transformation of equational specifications
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-140'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_7
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Hohlfeld83
+  type: paper-conference
+  author:
+  - family: Hohlfeld
+    given: Bernhard
+  issued:
+  - year: '1983'
+  title: Implementation of abstract data types in pASCAL programs
+  container-title: ADT
+
+- id: conf/adt/Kreowski86
+  type: paper-conference
+  author:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1986'
+  title: Based algebras
+  container-title: ADT
+
+- id: conf/adt/NieuwenhuisO90
+  type: paper-conference
+  author:
+  - family: Nieuwenhuis
+    given: Robert
+  - family: Orejas
+    given: Fernando
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: 'Clausal rewriting: Applications and implementation'
+  title-short: Clausal rewriting
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-219'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_11
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Jantke88
+  type: paper-conference
+  author:
+  - family: Jantke
+    given: Klaus P.
+  issued:
+  - year: '1988'
+  title: On solving divergence in knuth-bendix completion
+  container-title: ADT
+
+- id: conf/adt/MollerTW87
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  - family: Tarlecki
+    given: Andrzej
+  - family: Wirsing
+    given: Martin
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Algebraic specifications of reachable higher-order algebras
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-169'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_8
+
+- id: conf/adt/Ehrich82
+  type: paper-conference
+  author:
+  - family: Ehrich
+    given: Hans-Dieter
+  issued:
+  - year: '1982'
+  title: Operational aspects of algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Remy83
+  type: paper-conference
+  author:
+  - family: Remy
+    given: Jean-Luc
+  issued:
+  - year: '1983'
+  title: Specifications of errors in data types using conditional axioms
+  container-title: ADT
+
+- id: conf/adt/Lichtenberger83
+  type: paper-conference
+  author:
+  - family: Lichtenberger
+    given: Franz
+  issued:
+  - year: '1983'
+  title: 'A remark on two strategies for software development: Hoare-like verification
+    and algebraic implementation'
+  title-short: A remark on two strategies for software development
+  container-title: ADT
+
+- id: conf/adt/LermenL84
+  type: paper-conference
+  author:
+  - family: Lermen
+    given: Claus-Werner
+  - family: Loeckx
+    given: Jacques
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: OBSCURE, a new specification language
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '28-30'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Ehrich86
+  type: paper-conference
+  author:
+  - family: Ehrich
+    given: Hans-Dieter
+  issued:
+  - year: '1986'
+  title: Towards an algebraic semantics for databases
+  container-title: ADT
+
+- id: conf/adt/Bettaz88
+  type: paper-conference
+  author:
+  - family: Bettaz
+    given: Mohamed
+  issued:
+  - year: '1988'
+  title: 'Implementation of tools for the specification and validation of aDTs:
+    Application to communication protocols'
+  title-short: Implementation of tools for the specification and validation of aDTs
+  container-title: ADT
+
+- id: conf/adt/Bidoit86
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  issued:
+  - year: '1986'
+  title: The pLUSS specification language
+  container-title: ADT
+
+- id: conf/adt/Ganzinger83
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  issued:
+  - year: '1983'
+  title: Modular compiler descriptions based on abstract semantic data types
+  container-title: ADT
+
+- id: conf/adt/BeierleV83
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  - family: Voß
+    given: Angi
+  issued:
+  - year: '1983'
+  title: A parameterization concept for hierarchies of specifications
+  container-title: ADT
+
+- id: conf/adt/HofbauerK88
+  type: paper-conference
+  author:
+  - family: Hofbauer
+    given: Dieter
+  - family: Kutsche
+    given: Ralf-Detlef
+  issued:
+  - year: '1988'
+  title: Proving inductive theorems in equational theories
+  container-title: ADT
+
+- id: conf/adt/Orejas83
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  issued:
+  - year: '1983'
+  title: Some results on finite specifiability of parameterized data types
+  container-title: ADT
+
+- id: conf/adt/HaslerKLR83
+  type: paper-conference
+  author:
+  - family: Hasler
+    given: Klaus-Peter
+  - family: Kreowski
+    given: Hans-Jörg
+  - family: Löwe
+    given: Michael
+  - family: Reisin
+    given: Michaela
+  issued:
+  - year: '1983'
+  title: Suggestions on the interpretation of algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/BidoitCV84
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  - family: Choppy
+    given: Christine
+  - family: Voisin
+    given: Frédéric
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: The aSSPEGIQUE specification environment - motivations and design
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '54-72'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/HaslerM84
+  type: paper-conference
+  author:
+  - family: Hasler
+    given: Klaus-Peter
+  - family: Meer
+    given: Jan
+    dropping-particle: de
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: OSI transport service considered as an abstract data type
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '104-118'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Schoett83
+  type: paper-conference
+  author:
+  - family: Schoett
+    given: Oliver
+  issued:
+  - year: '1983'
+  title: Is data abstraction sound?
+  container-title: ADT
+
+- id: conf/adt/Boehm86
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Paul
+  issued:
+  - year: '1986'
+  title: The aCT system - a software environment for aCT oNE specifications
+  container-title: ADT
+
+- id: conf/adt/SannellaT84
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Some thoughts on algebraic specification
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '31-38'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Spec86
+  type: paper-conference
+  author:
+  - family: Spec
+    given: Hansi A.
+  issued:
+  - year: '1986'
+  title: HANSI evaluates algebraic specifications - you will love it
+  container-title: ADT
+
+- id: conf/adt/Kaplan84
+  type: paper-conference
+  author:
+  - family: Kaplan
+    given: Stéphane
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: 'Fair conditional term rewriting systems: Unification, termination, and
+    confluence'
+  title-short: Fair conditional term rewriting systems
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '136-155'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Hanus88
+  type: paper-conference
+  author:
+  - family: Hanus
+    given: Michael
+  issued:
+  - year: '1988'
+  title: Horn clause specifications with polymorphic types
+  container-title: ADT
+
+- id: conf/adt/Reichel86
+  type: paper-conference
+  author:
+  - family: Reichel
+    given: Horst
+  issued:
+  - year: '1986'
+  title: Computable functional enrichments of parameterized behavioural data types
+  container-title: ADT
+
+- id: conf/adt/JacobsM88
+  type: paper-conference
+  author:
+  - family: Jacobs
+    given: Dean
+  - family: Mahr
+    given: Bernd
+  issued:
+  - year: '1988'
+  title: Concepts of algebraic database programming languages
+  container-title: ADT
+
+- id: conf/adt/Bettaz90
+  type: paper-conference
+  author:
+  - family: Bettaz
+    given: Mohamed
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: An association of algebraic term nets and abstract data types for specifying
+    real communication protocols
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-30'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_2
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Jantke86
+  type: paper-conference
+  author:
+  - family: Jantke
+    given: Klaus P.
+  issued:
+  - year: '1986'
+  title: Recursion-theoretic problems in abstract data type theory
+  container-title: ADT
+
+- id: conf/adt/Padawitz86
+  type: paper-conference
+  author:
+  - family: Padawitz
+    given: Peter
+  issued:
+  - year: '1986'
+  title: The use of terminal semantics for disproving inductive theorems
+  container-title: ADT
+
+- id: conf/adt/Streicher84
+  type: paper-conference
+  author:
+  - family: Streicher
+    given: Thomas
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Model theory of denotational semantics
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '240-253'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Gray88
+  type: paper-conference
+  author:
+  - family: Gray
+    given: John W.
+  issued:
+  - year: '1988'
+  title: Executable specifications for data type constructors
+  container-title: ADT
+
+- id: conf/adt/1984
+  type: book
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1985'
+  title: Recent trends in data type specification, 3rd workshop on theory and applications
+    of abstract data types, bremen, november 13-16, 1984, selected papers
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/BeierleV82
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  - family: Voß
+    given: Angi
+  issued:
+  - year: '1982'
+  title: Hierarchical specification of parameterized abstract data types by means
+    of canonical term algebras
+  container-title: ADT
+
+- id: conf/adt/Mauri86
+  type: paper-conference
+  author:
+  - family: Mauri
+    given: Giancarlo
+  issued:
+  - year: '1986'
+  title: 'OBJ-sAN: Towards the definition of a class of high-level nets using oBJ2'
+  title-short: OBJ-sAN
+  container-title: ADT
+
+- id: conf/adt/White86
+  type: paper-conference
+  author:
+  - family: White
+    given: Peter
+  issued:
+  - year: '1986'
+  title: Position paper on requirement specification language project
+  container-title: ADT
+
+- id: conf/adt/Pepper82
+  type: paper-conference
+  author:
+  - family: Pepper
+    given: Peter
+  issued:
+  - year: '1982'
+  title: On the algebraic specification of programming languages
+  container-title: ADT
+
+- id: conf/adt/Nourani83a
+  type: paper-conference
+  author:
+  - family: Nourani
+    given: F.
+  issued:
+  - year: '1983'
+  title: Forcing with universal sentences and genericity of inductive closures
+  container-title: ADT
+
+- id: conf/adt/Partsch83
+  type: paper-conference
+  author:
+  - family: Partsch
+    given: Helmuth
+  issued:
+  - year: '1983'
+  title: Algebraic specification of a text editor
+  container-title: ADT
+
+- id: conf/adt/Schmidt86
+  type: paper-conference
+  author:
+  - family: Schmidt
+    given: Heinz W.
+  issued:
+  - year: '1986'
+  title: Polymorphic types and algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Tarlecki86
+  type: paper-conference
+  author:
+  - family: Tarlecki
+    given: Andrzej
+  issued:
+  - year: '1986'
+  title: Bits and pieces of the theory of institutions
+  container-title: ADT
+
+- id: conf/adt/Gogolla83
+  type: paper-conference
+  author:
+  - family: Gogolla
+    given: Martin
+  issued:
+  - year: '1983'
+  title: Algebraic specification of subsorts
+  container-title: ADT
+
+- id: conf/adt/Krieg-Bruckner84
+  type: paper-conference
+  author:
+  - family: Krieg-Brückner
+    given: Bernd
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Transformation of interface specifications
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '156-170'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/FiadeiroS87
+  type: paper-conference
+  author:
+  - family: Fiadeiro
+    given: José Luiz
+  - family: Sernadas
+    given: Amílcar
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Structuring theories on consequence
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-72'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_3
+
+- id: conf/adt/Thomas86
+  type: paper-conference
+  author:
+  - family: Thomas
+    given: Muffy
+  issued:
+  - year: '1986'
+  title: The storage and access structure of algebraically specified data types
+  container-title: ADT
+
+- id: conf/adt/GrudeP83
+  type: paper-conference
+  author:
+  - family: Grude
+    given: Ulrich
+  - family: Padawitz
+    given: Peter
+  issued:
+  - year: '1983'
+  title: Initial and fixpoint semantics of algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Thompson-Quintanilla88
+  type: paper-conference
+  author:
+  - family: Thompson-Quintanilla
+    given: B. C.
+  issued:
+  - year: '1988'
+  title: Generalized computable algebra and its application to the implementation
+    of abstract data types
+  container-title: ADT
+
+- id: conf/adt/Guiho83
+  type: paper-conference
+  author:
+  - family: Guiho
+    given: Gérard D.
+  issued:
+  - year: '1983'
+  title: Multi-operator algebras
+  container-title: ADT
+
+- id: conf/adt/Farres-Casals88
+  type: paper-conference
+  author:
+  - family: Farrés-Casals
+    given: Jordi
+  issued:
+  - year: '1988'
+  title: Proving constructor implementations in two steps
+  container-title: ADT
+
+- id: conf/adt/Pepper88
+  type: paper-conference
+  author:
+  - family: Pepper
+    given: Peter
+  issued:
+  - year: '1988'
+  title: An algebraic view of local formalisms
+  container-title: ADT
+
+- id: conf/adt/Padawitz88
+  type: paper-conference
+  author:
+  - family: Padawitz
+    given: Peter
+  issued:
+  - year: '1988'
+  title: Inductive expansion
+  container-title: ADT
+
+- id: conf/adt/Scollo86
+  type: paper-conference
+  author:
+  - family: Scollo
+    given: Giuseppe
+  issued:
+  - year: '1986'
+  title: On hierarchy, incompleteness and exception handling in equational specifications
+    of abstract data types
+  container-title: ADT
+
+- id: conf/adt/Wirsing82
+  type: paper-conference
+  author:
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1982'
+  title: Implementation of parameterized hierarchical specifications
+  container-title: ADT
+
+- id: conf/adt/Orejas86
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  issued:
+  - year: '1986'
+  title: A proof-theoretic characterization of persistency for parameterized specifications
+    with boolean constraints
+  container-title: ADT
+
+- id: conf/adt/ClericiO90
+  type: paper-conference
+  author:
+  - family: Clerici
+    given: Silvia
+  - family: Orejas
+    given: Fernando
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: The specification language gSBL
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-51'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_3
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/AstesianoC88
+  type: paper-conference
+  author:
+  - family: Astesiano
+    given: Egidio
+  - family: Cerioli
+    given: Maura
+  issued:
+  - year: '1988'
+  title: Models and logical deduction in partial higher-order conditional specifications
+  container-title: ADT
+
+- id: conf/adt/EhrigP90
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  - family: Parisi-Presicce
+    given: Francesco
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: A match operation for rule-based modular system design
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-97'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_5
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Nipkow86
+  type: paper-conference
+  author:
+  - family: Nipkow
+    given: Tobias
+  issued:
+  - year: '1986'
+  title: Behavioural implementations of non-deterministic data types
+  container-title: ADT
+
+- id: conf/adt/Veloso83
+  type: paper-conference
+  author:
+  - family: Veloso
+    given: Paulo A. S.
+  issued:
+  - year: '1983'
+  title: 'Problems as abstract data types: Applications to program construction'
+  title-short: Problems as abstract data types
+  container-title: ADT
+
+- id: conf/adt/BroyW83
+  type: paper-conference
+  author:
+  - family: Broy
+    given: Manfred
+  - family: Wirsing
+    given: Martin
+  issued:
+  - year: '1983'
+  title: Generalized heterogeneous algebras
+  container-title: ADT
+
+- id: conf/adt/Loeckx82
+  type: paper-conference
+  author:
+  - family: Loeckx
+    given: Jacques
+  issued:
+  - year: '1982'
+  title: The description of programming languages and the verification of their compilers
+    with the help of algorithmic specifications of abstract data types
+  container-title: ADT
+
+- id: conf/adt/WagnerSR88
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Eric G.
+  - family: Selker
+    given: E. J.
+  - family: Rutledge
+    given: J. D.
+  issued:
+  - year: '1988'
+  title: Algebraic data types and object-oriented programming
+  container-title: ADT
+
+- id: conf/adt/Loeckx83
+  type: paper-conference
+  author:
+  - family: Loeckx
+    given: Jacques
+  issued:
+  - year: '1983'
+  title: Program verification with fewer tears
+  container-title: ADT
+
+- id: conf/adt/EhrigFH83
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  - family: Fey
+    given: Werner
+  - family: Hansen
+    given: Horst
+  issued:
+  - year: '1983'
+  title: ACT oNE - an algebraic specification language with two levels of semantics
+  container-title: ADT
+
+- id: conf/adt/Runciman86
+  type: paper-conference
+  author:
+  - family: Runciman
+    given: Colin
+  issued:
+  - year: '1986'
+  title: Deriving functional programs from equational specifications
+  container-title: ADT
+
+- id: conf/adt/FeyEHL88
+  type: paper-conference
+  author:
+  - family: Fey
+    given: Werner
+  - family: Ehrig
+    given: Hartmut
+  - family: Hansen
+    given: Horst
+  - family: Löwe
+    given: Michael
+  issued:
+  - year: '1988'
+  title: Algebraic theory of modular specification development
+  container-title: ADT
+
+- id: conf/adt/DimitroviciH90
+  type: paper-conference
+  author:
+  - family: Dimitrovici
+    given: Christian
+  - family: Hummert
+    given: Ulrich
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Composition of algebraic high-level nets
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '52-73'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_4
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Poigne83
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  issued:
+  - year: '1983'
+  title: Programs over abstract data types
+  container-title: ADT
+
+- id: conf/adt/Meinke90
+  type: paper-conference
+  author:
+  - family: Meinke
+    given: Karl
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: Universal algebra in higher types
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '185-203'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_10
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Fey82
+  type: paper-conference
+  author:
+  - family: Fey
+    given: Werner
+  issued:
+  - year: '1982'
+  title: From requirements to design specification
+  container-title: ADT
+
+- id: conf/adt/Pletat86
+  type: paper-conference
+  author:
+  - family: Pletat
+    given: Udo
+  issued:
+  - year: '1986'
+  title: 'Algebraic specifications of abstract data types and cCS: An operational
+    junction'
+  title-short: Algebraic specifications of abstract data types and cCS
+  container-title: ADT
+
+- id: conf/adt/Drosten83
+  type: paper-conference
+  author:
+  - family: Drosten
+    given: Klaus
+  issued:
+  - year: '1983'
+  title: Executing specifications using conditional axioms
+  container-title: ADT
+
+- id: conf/adt/Drosten86
+  type: paper-conference
+  author:
+  - family: Drosten
+    given: Klaus
+  issued:
+  - year: '1986'
+  title: Term rewriting systems with restricted variables
+  container-title: ADT
+
+- id: conf/adt/Haveraaen88
+  type: paper-conference
+  author:
+  - family: Haveraaen
+    given: Magne
+  issued:
+  - year: '1988'
+  title: The pAL module concept
+  container-title: ADT
+
+- id: conf/adt/Beierle86
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  issued:
+  - year: '1986'
+  title: Vertical and horizontal compositions of implementation specifications
+  container-title: ADT
+
+- id: conf/adt/EngelsG82
+  type: paper-conference
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Gogolla
+    given: Martin
+  issued:
+  - year: '1982'
+  title: Error handling in algebraic specifications
+  container-title: ADT
+
+- id: conf/adt/Reichel90
+  type: paper-conference
+  author:
+  - family: Reichel
+    given: Horst
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: A two-category approach to critical pair completion
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-273'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_14
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Bernot86a
+  type: paper-conference
+  author:
+  - family: Bernot
+    given: Gilles
+  issued:
+  - year: '1986'
+  title: Correctness proofs for abstract implementations
+  container-title: ADT
+
+- id: conf/adt/SernadasSF86
+  type: paper-conference
+  author:
+  - family: Sernadas
+    given: Amílcar
+  - family: Sernadas
+    given: Cristina
+  - family: Fiadeiro
+    given: José Luiz
+  issued:
+  - year: '1986'
+  title: 'Algebraic knowledge representation: The unification of procedure, logic
+    and structure'
+  title-short: Algebraic knowledge representation
+  container-title: ADT
+
+- id: conf/adt/BeierleV84
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  - family: Voß
+    given: Angi
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Implementation specifications
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '39-53'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/NivelaO88
+  type: paper-conference
+  author:
+  - family: Nivela
+    given: Pilar
+  - family: Orejas
+    given: Fernando
+  issued:
+  - year: '1988'
+  title: A module concept within the initial behaviour framework
+  container-title: ADT
+
+- id: conf/adt/Barzdins90
+  type: paper-conference
+  author:
+  - family: Barzdins
+    given: Guntis
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: ADT implementation and completion by induction from examples
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-10'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_1
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Reggio90
+  type: paper-conference
+  author:
+  - family: Reggio
+    given: Gianna
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: 'Entities: An institution for dynamic systems'
+  title-short: Entities
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '246-265'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_13
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/SannellaT90
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  editor:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1990'
+  title: A kernel specification formalism with higher-order parameterization
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '274-296'
+  volume: '534'
+  DOI: 10.1007/3-540-54496-8_15
+  ISBN: '3-540-54496-8'
+
+- id: conf/adt/Klaeren83
+  type: paper-conference
+  author:
+  - family: Klaeren
+    given: Herbert
+  issued:
+  - year: '1983'
+  title: Some thoughts on practical usefulness of operational and initial semantics
+    for algebraic software specifications
+  container-title: ADT
+
+- id: conf/adt/Nickl86
+  type: paper-conference
+  author:
+  - family: Nickl
+    given: Friederike
+  issued:
+  - year: '1986'
+  title: On the solution of recursive domain equations inside an algebraic framework
+  container-title: ADT
+
+- id: conf/adt/Bernot86
+  type: paper-conference
+  author:
+  - family: Bernot
+    given: Gilles
+  issued:
+  - year: '1986'
+  title: Abstract implementation with exception handling
+  container-title: ADT
+
+- id: conf/adt/Maibaum86
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  issued:
+  - year: '1986'
+  title: Modular construction of logics for specification
+  container-title: ADT
+
+- id: conf/adt/Moller86
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1986'
+  title: Algebraic specifications with higher-order operations
+  container-title: ADT
+
+- id: conf/adt/Lermen83
+  type: paper-conference
+  author:
+  - family: Lermen
+    given: Claus-Werner
+  issued:
+  - year: '1983'
+  title: OBSCURE - a language for algorithmic specifications
+  container-title: ADT
+
+- id: conf/adt/Bidoit87
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: 'The stratified loose approach: A generalization of initial and loose semantics'
+  title-short: The stratified loose approach
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-22'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_1
+
+- id: conf/adt/Bidoit83
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Michel
+  issued:
+  - year: '1983'
+  title: Algebraic specification of exception handling and error recovery in abstract
+    data types
+  container-title: ADT
+
+- id: conf/adt/Klaeren82
+  type: paper-conference
+  author:
+  - family: Klaeren
+    given: Herbert
+  issued:
+  - year: '1982'
+  title: Parameterized software specifications with inductively defined operations
+  container-title: ADT
+
+- id: conf/adt/Pepper83
+  type: paper-conference
+  author:
+  - family: Pepper
+    given: Peter
+  issued:
+  - year: '1983'
+  title: Correctness of type transformations
+  container-title: ADT
+
+- id: conf/adt/Ganzinger82
+  type: paper-conference
+  author:
+  - family: Ganzinger
+    given: Harald
+  issued:
+  - year: '1982'
+  title: Parameterized specifications - parameterized passing and implementation with
+    respect to observability
+  container-title: ADT
+
+- id: conf/adt/Ehrig82a
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1982'
+  title: Parameterized data types and parameter passing
+  container-title: ADT
+
+- id: conf/adt/AstesianoGR88
+  type: paper-conference
+  author:
+  - family: Astesiano
+    given: Egidio
+  - family: Giovini
+    given: Alessandro
+  - family: Reggio
+    given: Gianna
+  issued:
+  - year: '1988'
+  title: Data in a concurrent environment
+  container-title: ADT
+
+- id: conf/adt/Hansen86
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Horst
+  issued:
+  - year: '1986'
+  title: From algebraic specifications towards algebraic programs
+  container-title: ADT
+
+- id: conf/adt/LoeckxH88
+  type: paper-conference
+  author:
+  - family: Loeckx
+    given: Jacques
+  - family: Hoffmann
+    given: Annette
+  issued:
+  - year: '1988'
+  title: Verification in oBSCURE
+  container-title: ADT
+
+- id: conf/adt/Dimitrovici88
+  type: paper-conference
+  author:
+  - family: Dimitrovici
+    given: Christian
+  issued:
+  - year: '1988'
+  title: Projection spaces
+  container-title: ADT
+
+- id: conf/adt/Ehrig82
+  type: paper-conference
+  author:
+  - family: Ehrig
+    given: Hartmut
+  issued:
+  - year: '1982'
+  title: ACT - algebraic specification technique for the correct design of reliable
+    software systems
+  container-title: ADT
+
+- id: conf/adt/Poigne86
+  type: paper-conference
+  author:
+  - family: Poigné
+    given: Axel
+  issued:
+  - year: '1986'
+  title: Error handling as type checking
+  container-title: ADT
+
+- id: conf/adt/MaibaumS84
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  - family: Sadler
+    given: M. R.
+  editor:
+  - family: Kreowski
+    given: Hans-Jörg
+  issued:
+  - year: '1984'
+  title: Axiomatizing specification theory
+  container-title: ADT
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '171-177'
+  volume: '116'
+  ISBN: '3-540-16077-9'
+
+- id: conf/adt/Fonio88
+  type: paper-conference
+  author:
+  - family: Fonio
+    given: Harald-Reto
+  issued:
+  - year: '1988'
+  title: Abelian monoids versus concurrency - an algebraic approach to the specification
+    of distributed systems
+  container-title: ADT
+
+- id: conf/adt/Hennicker86
+  type: paper-conference
+  author:
+  - family: Hennicker
+    given: Rolf
+  issued:
+  - year: '1986'
+  title: An implementation concept for observational specifications
+  container-title: ADT
+
+- id: conf/adt/Classen88
+  type: paper-conference
+  author:
+  - family: Claßen
+    given: Ingo
+  issued:
+  - year: '1988'
+  title: A revised version of aCT oNE
+  container-title: ADT
+
+- id: conf/adt/Nipkow87
+  type: paper-conference
+  author:
+  - family: Nipkow
+    given: Tobias
+  editor:
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1987'
+  title: Observing non-deterministic data types
+  container-title: ADT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '170-183'
+  volume: '332'
+  DOI: 10.1007/3-540-50325-0_9
+...

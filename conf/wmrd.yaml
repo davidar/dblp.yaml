@@ -1,0 +1,756 @@
+---
+references:
+- id: conf/wmrd/LiskovGGJS92
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  - family: Ghemawat
+    given: Sanjay
+  - family: Gruber
+    given: Robert
+  - family: Johnson
+    given: Paul
+  - family: Shrira
+    given: Liuba
+  issued:
+  - year: '1992'
+  title: Efficient recovery in harp
+  container-title: Workshop on the management of replicated data
+  page: '104-106'
+
+- id: conf/wmrd/McCueL92
+  type: paper-conference
+  author:
+  - family: McCue
+    given: Daniel L.
+  - family: Little
+    given: Mark C.
+  issued:
+  - year: '1992'
+  title: Computing replica placement in distributed systems
+  container-title: Workshop on the management of replicated data
+  page: '58-61'
+
+- id: conf/wmrd/LiskovGJS90
+  type: paper-conference
+  author:
+  - family: Liskov
+    given: Barbara
+  - family: Gruber
+    given: Robert
+  - family: Johnson
+    given: Paul
+  - family: Shrira
+    given: Liuba
+  issued:
+  - year: '1990'
+  title: A replicated unix file system
+  container-title: Workshop on the management of replicated data
+  page: '11-14'
+
+- id: conf/wmrd/NatarajanK90
+  type: paper-conference
+  author:
+  - family: Natarajan
+    given: N.
+  - family: Kant
+    given: K.
+  issued:
+  - year: '1990'
+  title: Maintaining availability of replicated data in partition-prone networks
+  container-title: Workshop on the management of replicated data
+  page: '108-112'
+
+- id: conf/wmrd/HisgenBJMSS90
+  type: paper-conference
+  author:
+  - family: Hisgen
+    given: Andy
+  - family: Birrell
+    given: Andrew
+  - family: Jerian
+    given: Charles
+  - family: Mann
+    given: Timothy
+  - family: Schroeder
+    given: Michael D.
+  - family: Swart
+    given: Garret
+  issued:
+  - year: '1990'
+  title: Granularity and semantic level of replication in the echo distributed file
+    system
+  container-title: Workshop on the management of replicated data
+  page: '2-4'
+
+- id: conf/wmrd/MishraPS90
+  type: paper-conference
+  author:
+  - family: Mishra
+    given: Shivakant
+  - family: Peterson
+    given: Larry L.
+  - family: Schlichting
+    given: Richard D.
+  issued:
+  - year: '1990'
+  title: Communication substrate for maintaining replicated data
+  container-title: Workshop on the management of replicated data
+  page: '125-127'
+
+- id: conf/wmrd/Long90
+  type: paper-conference
+  author:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '1990'
+  title: Analysis of replication control protocols
+  container-title: Workshop on the management of replicated data
+  page: '117-121'
+
+- id: conf/wmrd/BacarisseB90
+  type: paper-conference
+  author:
+  - family: Bacarisse
+    given: B. S.
+  - family: Baydere
+    given: S. Bek
+  issued:
+  - year: '1990'
+  title: Reliability of replicated files in partitioned networks
+  container-title: Workshop on the management of replicated data
+  page: '98-101'
+
+- id: conf/wmrd/RotemS92
+  type: paper-conference
+  author:
+  - family: Rotem
+    given: Doron
+  - family: Schloss
+    given: Gerald A.
+  issued:
+  - year: '1992'
+  title: I/O performance of fully-replicated disk systems
+  container-title: Workshop on the management of replicated data
+  page: '68-71'
+
+- id: conf/wmrd/BarbaraG90
+  type: paper-conference
+  author:
+  - family: Barbará
+    given: Daniel
+  - family: Garcia-Molina
+    given: Hector
+  issued:
+  - year: '1990'
+  title: The case for controlled inconsistency in replicated data
+  container-title: Workshop on the management of replicated data
+  page: '35-38'
+
+- id: conf/wmrd/Cristian90
+  type: paper-conference
+  author:
+  - family: Cristian
+    given: Flaviu
+  issued:
+  - year: '1990'
+  title: New asynchronous atomic broadcast protocols
+  container-title: Workshop on the management of replicated data
+  page: '124'
+
+- id: conf/wmrd/MishraPS92
+  type: paper-conference
+  author:
+  - family: Mishra
+    given: Shivakant
+  - family: Peterson
+    given: Larry L.
+  - family: Schlichting
+    given: Richard D.
+  issued:
+  - year: '1992'
+  title: Protocol modularity in systems for managing replicated data
+  container-title: Workshop on the management of replicated data
+  page: '78-81'
+
+- id: conf/wmrd/WiederholdQ90
+  type: paper-conference
+  author:
+  - family: Wiederhold
+    given: Gio
+  - family: Qian
+    given: Xiaolei
+  issued:
+  - year: '1990'
+  title: Consistency control of replicated data in federated databases
+  container-title: Workshop on the management of replicated data
+  page: '130-132'
+
+- id: conf/wmrd/PruskerW90
+  type: paper-conference
+  author:
+  - family: Prusker
+    given: Francis J.
+  - family: Wobber
+    given: Edward
+  issued:
+  - year: '1990'
+  title: 'The siphon: Managing distant replicated repositories'
+  title-short: The siphon
+  container-title: Workshop on the management of replicated data
+  page: '44-47'
+
+- id: conf/wmrd/CeriHKS92
+  type: paper-conference
+  author:
+  - family: Ceri
+    given: Stefano
+  - family: Houtsma
+    given: Maurice A. W.
+  - family: Keller
+    given: Arthur M.
+  - family: Samarati
+    given: Pierangela
+  issued:
+  - year: '1992'
+  title: The case for independent updates
+  container-title: Workshop on the management of replicated data
+  page: '17-19'
+
+- id: conf/wmrd/PuLKC90
+  type: paper-conference
+  author:
+  - family: Pu
+    given: Calton
+  - family: Leff
+    given: Avraham
+  - family: Korz
+    given: Frederick
+  - family: Chen
+    given: Shu-Wie F.
+  issued:
+  - year: '1990'
+  title: Valed redandancy
+  container-title: Workshop on the management of replicated data
+  page: '76-78'
+
+- id: conf/wmrd/Bhide92
+  type: paper-conference
+  author:
+  - family: Bhide
+    given: Anupam
+  issued:
+  - year: '1992'
+  title: Experiences with two high availability designs
+  container-title: Workshop on the management of replicated data
+  page: '51-54'
+
+- id: conf/wmrd/Paris92
+  type: paper-conference
+  author:
+  - family: Pâris
+    given: Jehan-François
+  issued:
+  - year: '1992'
+  title: Using volatile witnesses to extend the applicability of available copy protocols
+  container-title: Workshop on the management of replicated data
+  page: '30-33'
+
+- id: conf/wmrd/LadinLS90
+  type: paper-conference
+  author:
+  - family: Ladin
+    given: Rivka
+  - family: Liskov
+    given: Barbara
+  - family: Shrira
+    given: Liuba
+  issued:
+  - year: '1990'
+  title: 'Lazy replication: Exploiting the semantics of distributed services'
+  title-short: Lazy replication
+  container-title: Workshop on the management of replicated data
+  page: '31-34'
+
+- id: conf/wmrd/Kistler90
+  type: paper-conference
+  author:
+  - family: Kistler
+    given: James J.
+  issued:
+  - year: '1990'
+  title: Increasing file system availability through second-class replication
+  container-title: Workshop on the management of replicated data
+  page: '65-69'
+
+- id: conf/wmrd/Triantafillou92
+  type: paper-conference
+  author:
+  - family: Triantafillou
+    given: Peter
+  issued:
+  - year: '1992'
+  title: High availability is not enough
+  container-title: Workshop on the management of replicated data
+  page: '40-43'
+
+- id: conf/wmrd/HeidemannPGP92
+  type: paper-conference
+  author:
+  - family: Heidemann
+    given: John S.
+  - family: Jr.
+    given: Thomas W. Page
+  - family: Guy
+    given: Richard G.
+  - family: Popek
+    given: Gerald J.
+  issued:
+  - year: '1992'
+  title: 'Primarily disconnected operation: Experiences with ficus'
+  title-short: Primarily disconnected operation
+  container-title: Workshop on the management of replicated data
+  page: '2-5'
+
+- id: conf/wmrd/ShethR90
+  type: paper-conference
+  author:
+  - family: Sheth
+    given: Amit P.
+  - family: Rusinkiewicz
+    given: Marek
+  issued:
+  - year: '1990'
+  title: 'Management of interdependent data: Specifying dependency and consistency
+    requirements'
+  title-short: Management of interdependent data
+  container-title: Workshop on the management of replicated data
+  page: '133-136'
+
+- id: conf/wmrd/LadinMW92
+  type: paper-conference
+  author:
+  - family: Ladin
+    given: Rivka
+  - family: Mazer
+    given: Murray S.
+  - family: Wolman
+    given: Alec
+  issued:
+  - year: '1992'
+  title: Replicating the procedure call abstraction
+  container-title: Workshop on the management of replicated data
+  page: '86-89'
+
+- id: conf/wmrd/BhideEM90
+  type: paper-conference
+  author:
+  - family: Bhide
+    given: Anupam
+  - family: Elnozahy
+    given: E. N.
+  - family: Morgan
+    given: Stephen P.
+  issued:
+  - year: '1990'
+  title: Implicit replication in a network file server
+  container-title: Workshop on the management of replicated data
+  page: '85-90'
+
+- id: conf/wmrd/BadrinathI92
+  type: paper-conference
+  author:
+  - family: Badrinath
+    given: B. R.
+  - family: Imielinski
+    given: Tomasz
+  issued:
+  - year: '1992'
+  title: Replication and mobility
+  container-title: Workshop on the management of replicated data
+  page: '9-12'
+
+- id: conf/wmrd/PopekGPH90
+  type: paper-conference
+  author:
+  - family: Popek
+    given: Gerald J.
+  - family: Guy
+    given: Richard G.
+  - family: Jr.
+    given: Thomas W. Page
+  - family: Heidemann
+    given: John S.
+  issued:
+  - year: '1990'
+  title: Replication in ficus distributed file systems
+  container-title: Workshop on the management of replicated data
+  page: '5-10'
+
+- id: conf/wmrd/Golding92
+  type: paper-conference
+  author:
+  - family: Golding
+    given: Richard A.
+  issued:
+  - year: '1992'
+  title: Weak consistency group communication for wwide-area systems
+  container-title: Workshop on the management of replicated data
+  page: '13-16'
+
+- id: conf/wmrd/SchlossS90
+  type: paper-conference
+  author:
+  - family: Schloss
+    given: Gerhard A.
+  - family: Stonebraker
+    given: Michael
+  issued:
+  - year: '1990'
+  title: Highly redundant management of distributed data
+  container-title: Workshop on the management of replicated data
+  page: '91-92'
+
+- id: conf/wmrd/Long92
+  type: paper-conference
+  author:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '1992'
+  title: A replicated monitoring tool
+  container-title: Workshop on the management of replicated data
+  page: '96-99'
+
+- id: conf/wmrd/AlonsoC90
+  type: paper-conference
+  author:
+  - family: Alonso
+    given: Rafael
+  - family: Cova
+    given: Luis L.
+  issued:
+  - year: '1990'
+  title: Managing replicated copies in very large distributed systems
+  container-title: Workshop on the management of replicated data
+  page: '39-42'
+
+- id: conf/wmrd/Herlihy90
+  type: paper-conference
+  author:
+  - family: Herlihy
+    given: Maurice
+  issued:
+  - year: '1990'
+  title: 'Position statement: Type specific replication for multiprocessors'
+  title-short: Position statement
+  container-title: Workshop on the management of replicated data
+  page: '70-74'
+
+- id: conf/wmrd/HisgenBJMS92
+  type: paper-conference
+  author:
+  - family: Hisgen
+    given: Andy
+  - family: Birrell
+    given: Andrew
+  - family: Jerian
+    given: Charles
+  - family: Mann
+    given: Timothy
+  - family: Swart
+    given: Garret
+  issued:
+  - year: '1992'
+  title: Some consequences of excess laod on the echo replicated file system
+  container-title: Workshop on the management of replicated data
+  page: '92-95'
+
+- id: conf/wmrd/Verissimo90
+  type: paper-conference
+  author:
+  - family: Veríssimo
+    given: Paulo
+  issued:
+  - year: '1990'
+  title: Real-time data management with clock-less reliable broadcast protocols
+  container-title: Workshop on the management of replicated data
+  page: '20-24'
+
+- id: conf/wmrd/Raab92
+  type: paper-conference
+  author:
+  - family: Raab
+    given: Larry
+  issued:
+  - year: '1992'
+  title: Bounds on the effects of replication on availability
+  container-title: Workshop on the management of replicated data
+  page: '44-46'
+
+- id: conf/wmrd/90
+  type: book
+  editor:
+  - family: Cabrera
+    given: Luis-Felipe
+  issued:
+  - year: '1990'
+  title: Proceedings of the first workshop on the management of replicated data, november
+    8-9, 1990, houston, texas, uSA
+  publisher: IEEE Computer Society
+  ISBN: '0-8186-2085-4'
+
+- id: conf/wmrd/ElnozahyZ92
+  type: paper-conference
+  author:
+  - family: Elnozahy
+    given: E. N.
+  - family: Zwaenepoel
+    given: Willy
+  issued:
+  - year: '1992'
+  title: An integrated approach to fault tolerance
+  container-title: Workshop on the management of replicated data
+  page: '82-85'
+
+- id: conf/wmrd/ChenP92
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Shu-Wie F.
+  - family: Pu
+    given: Calton
+  issued:
+  - year: '1992'
+  title: An analysis of replica control
+  container-title: Workshop on the management of replicated data
+  page: '22-25'
+
+- id: conf/wmrd/LittleS90
+  type: paper-conference
+  author:
+  - family: Little
+    given: Mark C.
+  - family: Shrivastava
+    given: Santosh K.
+  issued:
+  - year: '1990'
+  title: Replicated k-resilient objects in arjuna
+  container-title: Workshop on the management of replicated data
+  page: '53-58'
+
+- id: conf/wmrd/AgrawalA90
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  issued:
+  - year: '1990'
+  title: Efficient techniques for replicated data management
+  container-title: Workshop on the management of replicated data
+  page: '48-52'
+
+- id: conf/wmrd/Mutchler90
+  type: paper-conference
+  author:
+  - family: Mutchler
+    given: David
+  issued:
+  - year: '1990'
+  title: 'Position paper: Some (naive?) questions about replica control'
+  title-short: Position paper
+  container-title: Workshop on the management of replicated data
+  page: '113-116'
+
+- id: conf/wmrd/SiegelBM90
+  type: paper-conference
+  author:
+  - family: Siegel
+    given: Alex
+  - family: Birman
+    given: Kenneth P.
+  - family: Marzullo
+    given: Keith
+  issued:
+  - year: '1990'
+  title: 'Position paper - deceit: A flexible distributed file system'
+  title-short: Position paper - deceit
+  container-title: Workshop on the management of replicated data
+  page: '15-17'
+
+- id: conf/wmrd/BudhirajaM92
+  type: paper-conference
+  author:
+  - family: Budhiraja
+    given: Navin
+  - family: Marzullo
+    given: Keith
+  issued:
+  - year: '1992'
+  title: Highly-available services using the primary-backup approach
+  container-title: Workshop on the management of replicated data
+  page: '47-50'
+
+- id: conf/wmrd/BennettB90
+  type: paper-conference
+  author:
+  - family: Bennett
+    given: J. Michael
+  - family: Bauer
+    given: Michael A.
+  issued:
+  - year: '1990'
+  title: An analysis of replication strategies for x.500-like distributed directories
+  container-title: Workshop on the management of replicated data
+  page: '137-142'
+
+- id: conf/wmrd/AgrawalA92
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  issued:
+  - year: '1992'
+  title: 'Dynamic logical structures: A position statement for managing replicated
+    data'
+  title-short: Dynamic logical structures
+  container-title: Workshop on the management of replicated data
+  page: '26-29'
+
+- id: conf/wmrd/DuchampT92
+  type: paper-conference
+  author:
+  - family: Duchamp
+    given: Dan
+  - family: Tait
+    given: Carl D.
+  issued:
+  - year: '1992'
+  title: An interface to support lazy replicated file service
+  container-title: Workshop on the management of replicated data
+  page: '6-8'
+
+- id: conf/wmrd/Gourhant92
+  type: paper-conference
+  author:
+  - family: Gourhant
+    given: Yvon
+  issued:
+  - year: '1992'
+  title: An object-oriented approach for replication management
+  container-title: Workshop on the management of replicated data
+  page: '74-77'
+
+- id: conf/wmrd/PangGZ92
+  type: paper-conference
+  author:
+  - family: Pang
+    given: James Y. C.
+  - family: Gill
+    given: Deepinder S.
+  - family: Zhou
+    given: Songnian
+  issued:
+  - year: '1992'
+  title: Implementation and performance of cluster-based file replication
+  container-title: Workshop on the management of replicated data
+  page: '100-103'
+
+- id: conf/wmrd/WolfsonJ92
+  type: paper-conference
+  author:
+  - family: Wolfson
+    given: Ouri
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '1992'
+  title: An algorithm for dynamic data distribution
+  container-title: Workshop on the management of replicated data
+  page: '62-65'
+
+- id: conf/wmrd/Terry92
+  type: paper-conference
+  author:
+  - family: Terry
+    given: Douglas B.
+  issued:
+  - year: '1992'
+  title: Replication in an information filtering system
+  container-title: Workshop on the management of replicated data
+  page: '66-67'
+
+- id: conf/wmrd/HsiaoD90
+  type: paper-conference
+  author:
+  - family: Hsiao
+    given: Hui-I
+  - family: DeWitt
+    given: David J.
+  issued:
+  - year: '1990'
+  title: Replicated data management in the gamma database machine
+  container-title: Workshop on the management of replicated data
+  page: '79-84'
+
+- id: conf/wmrd/AhamadAC90
+  type: paper-conference
+  author:
+  - family: Ahamad
+    given: Mustaque
+  - family: Ammar
+    given: Mostafa H.
+  - family: Cheung
+    given: Shun Yan
+  issued:
+  - year: '1990'
+  title: Optimizing the performance of quorum consensus replica control protocols
+  container-title: Workshop on the management of replicated data
+  page: '102-107'
+
+- id: conf/wmrd/JahanianM92
+  type: paper-conference
+  author:
+  - family: Jahanian
+    given: Farnam
+  - family: Jr.
+    given: William L. Moran
+  issued:
+  - year: '1992'
+  title: Strong, weak, and hybrid membership
+  container-title: Workshop on the management of replicated data
+  page: '34-38'
+
+- id: conf/wmrd/Kumar90
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Puneet
+  issued:
+  - year: '1990'
+  title: Coping with conflicts in an optimistically replicated file system
+  container-title: Workshop on the management of replicated data
+  page: '60-64'
+
+- id: conf/wmrd/DowningGP90
+  type: paper-conference
+  author:
+  - family: Downing
+    given: Alan R.
+  - family: Greenberg
+    given: Ira B.
+  - family: Peha
+    given: Jon M.
+  issued:
+  - year: '1990'
+  title: 'OSCAR: A system for weak-consistency replication'
+  title-short: OSCAR
+  container-title: Workshop on the management of replicated data
+  page: '26-30'
+...

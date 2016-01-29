@@ -1,0 +1,650 @@
+---
+references:
+- id: books/eh/Michalewicz92
+  type: book
+  author:
+  - family: Michalewicz
+    given: Zbigniew
+  issued:
+  - year: '1992'
+  title: Statistical and scientific databases
+  publisher: Ellis Horwood
+
+- id: books/eh/AbramskyH87
+  type: book
+  editor:
+  - family: Abramsky
+    given: Samson
+  issued:
+  - year: '1987'
+  title: Abstract interpretation of declarative languages
+  publisher: Ellis Horwood
+  ISBN: '0-7458-0109-9'
+
+- id: books/eh/PembertonD1982
+  type: book
+  author:
+  - family: Pemberton
+    given: Steven
+  - family: Daniels
+    given: Martin
+  issued:
+  - year: '1982'
+  title: 'Pascal implementation: The p4 compiler and interpreter'
+  title-short: Pascal implementation
+  publisher: Ellis Horwood
+  ISBN: '0136530311'
+
+- id: books/eh/MichieST94
+  type: book
+  author:
+  - family: Michie
+    given: Donald
+  - family: Spiegelhalter
+    given: David J.
+  - family: Taylor
+    given: C. C.
+  issued:
+  - year: '1994'
+  title: Machine learning, neural and statistical classification
+  publisher: Ellis Horwood
+  ISBN: 0-13-106360-X
+
+- id: books/eh/campbell84/Emden84
+  type: chapter
+  author:
+  - family: Emden
+    given: Maarten H.
+    dropping-particle: van
+  issued:
+  - year: '1984'
+  title: An interpreting algorithm for prolog programs
+  container-title: Implementations of prolog
+  page: '93-110'
+
+- id: books/eh/campbell84/Monteiro84
+  type: chapter
+  author:
+  - family: Monteiro
+    given: Luís
+  issued:
+  - year: '1984'
+  title: A proposal for distributed programming in logic
+  container-title: Implementations of prolog
+  page: '329-340'
+
+- id: books/eh/campbell84/Pereira84
+  type: chapter
+  author:
+  - family: Pereira
+    given: Luís Moniz
+  issued:
+  - year: '1984'
+  title: Logic control with logic
+  container-title: Implementations of prolog
+  page: '177-193'
+
+- id: books/eh/campbell84/Bruynooghe84
+  type: chapter
+  author:
+  - family: Bruynooghe
+    given: Maurice
+  issued:
+  - year: '1984'
+  title: Garbage collection in prolog interpreters
+  container-title: Implementations of prolog
+  page: '259-267'
+
+- id: books/eh/campbell84/Porto84
+  type: chapter
+  author:
+  - family: Porto
+    given: António
+  issued:
+  - year: '1984'
+  title: 'Epilog: A language for extended programming in logic'
+  title-short: Epilog
+  container-title: Implementations of prolog
+  page: '268-278'
+
+- id: books/eh/campbell84/Kluzniak84
+  type: chapter
+  author:
+  - family: Kluzniak
+    given: Feliks
+  issued:
+  - year: '1984'
+  title: The ’marseille interpreter’ - a personal perspective
+  container-title: Implementations of prolog
+  page: '65-70'
+
+- id: books/eh/campbell84/KahnC84
+  type: chapter
+  author:
+  - family: Kahn
+    given: Kenneth M.
+  - family: Carlsson
+    given: Mats
+  issued:
+  - year: '1984'
+  title: How to implement prolog on a lISP machine
+  container-title: Implementations of prolog
+  page: '117-134'
+
+- id: books/eh/campbell84/HaridiS84
+  type: chapter
+  author:
+  - family: Haridi
+    given: Seif
+  - family: Sahlin
+    given: Dan
+  issued:
+  - year: '1984'
+  title: Efficient implementation of unification of cyclic structures
+  container-title: Implementations of prolog
+  page: '234-249'
+
+- id: books/eh/campbell84/MellishH84
+  type: chapter
+  author:
+  - family: Mellish
+    given: Chris
+  - family: Hardy
+    given: Steve
+  issued:
+  - year: '1984'
+  title: Integrating prolog in the pOPLOG environment
+  container-title: Implementations of prolog
+  page: '147-162'
+
+- id: books/eh/campbell84/BelliaDDLM84
+  type: chapter
+  author:
+  - family: Bellia
+    given: Marco
+  - family: Dameri
+    given: Enrico
+  - family: Degano
+    given: Pierpaolo
+  - family: Levi
+    given: Giorgio
+  - family: Martelli
+    given: Maurizio
+  issued:
+  - year: '1984'
+  title: A formal model for lazy implementations of a prolog-compatible functional
+    language
+  container-title: Implementations of prolog
+  page: '309-326'
+
+- id: books/eh/campbell84/BruynoogheP84
+  type: chapter
+  author:
+  - family: Bruynooghe
+    given: Maurice
+  - family: Pereira
+    given: Luís Moniz
+  issued:
+  - year: '1984'
+  title: Deduction revision by intelligent backtracking
+  container-title: Implementations of prolog
+  page: '194-215'
+
+- id: books/eh/campbell84/Fogelholm84
+  type: chapter
+  author:
+  - family: Fogelholm
+    given: Rabbe
+  issued:
+  - year: '1984'
+  title: Exeter prolog - some thoughts on prolog design by a lISP user
+  container-title: Implementations of prolog
+  page: '111-116'
+
+- id: books/eh/campbell84/CampbellH84
+  type: chapter
+  author:
+  - family: Campbell
+    given: John A.
+  - family: Hardy
+    given: Steve
+  issued:
+  - year: '1984'
+  title: Should prolog be list or record oriented
+  container-title: Implementations of prolog
+  page: '367-375'
+
+- id: books/eh/campbell84/Davies84
+  type: chapter
+  author:
+  - family: Davies
+    given: Julian
+  issued:
+  - year: '1984'
+  title: POLER - implementation of a pOP-2-based pLANNER
+  container-title: Implementations of prolog
+  page: '28-49'
+
+- id: books/eh/campbell84/Warner84
+  type: chapter
+  author:
+  - family: Warner
+    given: Mark
+  issued:
+  - year: '1984'
+  title: The taming of the sleuth
+  container-title: Implementations of prolog
+  page: '387-388'
+
+- id: books/eh/campbell84/Dowson84
+  type: chapter
+  author:
+  - family: Dowson
+    given: Mark
+  issued:
+  - year: '1984'
+  title: A note on micro-planer
+  container-title: Implementations of prolog
+  page: '19-27'
+
+- id: books/eh/campbell84/Turner84
+  type: chapter
+  author:
+  - family: Turner
+    given: Stephen John
+  issued:
+  - year: '1984'
+  title: W-grammars for logic programming
+  container-title: Implementations of prolog
+  page: '352-368'
+
+- id: books/eh/campbell84/Nilsson84
+  type: chapter
+  author:
+  - family: Nilsson
+    given: Martin
+  issued:
+  - year: '1984'
+  title: The world’s shortest prolog interpreter?
+  container-title: Implementations of prolog
+  page: '87-92'
+
+- id: books/eh/campbell84/Filgueiras84
+  type: chapter
+  author:
+  - family: Filgueiras
+    given: Miguel
+  issued:
+  - year: '1984'
+  title: A prolog interpreter working with infinite terms
+  container-title: Implementations of prolog
+  page: '250-258'
+
+- id: books/eh/campbell84/Griswold84
+  type: chapter
+  author:
+  - family: Griswold
+    given: Ralph E.
+  issued:
+  - year: '1984'
+  title: The control of searching and backtracking in string pattern matching
+  container-title: Implementations of prolog
+  page: '50-64'
+
+- id: books/eh/campbell84/Cox84
+  type: chapter
+  author:
+  - family: Cox
+    given: Philip T.
+  issued:
+  - year: '1984'
+  title: Finding backtrack points for intelligent backtracking
+  container-title: Implementations of prolog
+  page: '216-233'
+
+- id: books/eh/campbell84/Wise84
+  type: chapter
+  author:
+  - family: Wise
+    given: Michael J.
+  issued:
+  - year: '1984'
+  title: 'EPILOG: Re-interpreting and extending prolog for a multiprocessor environment'
+  title-short: EPILOG
+  container-title: Implementations of prolog
+  page: '341-351'
+
+- id: books/eh/campbell84/FutoS84
+  type: chapter
+  author:
+  - family: Futó
+    given: Ivan
+  - family: Szeredi
+    given: János
+  issued:
+  - year: '1984'
+  title: System simulation and cooperative problem-solving on a prolog basis
+  container-title: Implementations of prolog
+  page: '163-174'
+
+- id: books/eh/campbell84/Nakamura84
+  type: chapter
+  author:
+  - family: Nakamura
+    given: Katsuhiko
+  issued:
+  - year: '1984'
+  title: Associative evaluation of prolog programs
+  container-title: Implementations of prolog
+  page: '135-146'
+
+- id: books/eh/campbell84/Nilsson84a
+  type: chapter
+  author:
+  - family: Nilsson
+    given: Jørgen Fischer
+  issued:
+  - year: '1984'
+  title: Formal vienna-definition-method models of prolog
+  container-title: Implementations of prolog
+  page: '281-308'
+
+- id: books/eh/campbell84/KluzniakS84
+  type: chapter
+  author:
+  - family: Kluzniak
+    given: Feliks
+  - family: Szpakowicz
+    given: Stan
+  issued:
+  - year: '1984'
+  title: Prolog - a panacea?
+  container-title: Implementations of prolog
+  page: '71-84'
+
+- id: books/eh/campbell84/EnnalsBB84
+  type: chapter
+  author:
+  - family: Ennals
+    given: Richard
+  - family: Briggs
+    given: Jonathan
+  - family: Brough
+    given: Derek R.
+  issued:
+  - year: '1984'
+  title: What the naive user wants from prolog
+  container-title: Implementations of prolog
+  page: '376-386'
+
+- id: books/eh/grayL88/ImlahD88
+  type: chapter
+  author:
+  - family: Imlah
+    given: William G.
+  - family: Demoen
+    given: Bart
+  issued:
+  - year: '1988'
+  title: A flexible prolog-based lexical database system
+  container-title: Prolog and databases
+  page: '332-339'
+
+- id: books/eh/grayL88/LucasV88
+  type: chapter
+  author:
+  - family: Lucas
+    given: Robert J.
+  - family: Vine
+    given: G. A. Le
+  issued:
+  - year: '1988'
+  title: A prolog-relational database interface
+  container-title: Prolog and databases
+  page: '67-80'
+
+- id: books/eh/grayL88/SingletonF88
+  type: chapter
+  author:
+  - family: Singleton
+    given: Paul
+  - family: Farris
+    given: C. D.
+  issued:
+  - year: '1988'
+  title: Software configuration management using prolog
+  container-title: Prolog and databases
+  page: '357-'
+
+- id: books/eh/grayL88/Irving88
+  type: chapter
+  author:
+  - family: Irving
+    given: T.
+  issued:
+  - year: '1988'
+  title: A generalized interface between prolog and relational databases
+  container-title: Prolog and databases
+  page: '81-94'
+
+- id: books/eh/grayL88/RamamohanaraoSBPNTZD88
+  type: chapter
+  author:
+  - family: Ramamohanarao
+    given: Kotagiri
+  - family: Shepherd
+    given: John
+  - family: Balbin
+    given: Isaac
+  - family: Port
+    given: Graeme S.
+  - family: Naish
+    given: Lee
+  - family: Thom
+    given: James A.
+  - family: Zobel
+    given: Justin
+  - family: Dart
+    given: Philip W.
+  issued:
+  - year: '1988'
+  title: The nU-prolog deductive database system
+  container-title: Prolog and databases
+  page: '212-250'
+
+- id: books/eh/grayL88/PatonG88
+  type: chapter
+  author:
+  - family: Paton
+    given: Norman W.
+  - family: Gray
+    given: Peter M. D.
+  issued:
+  - year: '1988'
+  title: An object-oriented database for storage and analysis of protein structure
+    data
+  container-title: Prolog and databases
+  page: '251-266'
+
+- id: books/eh/grayL88/BoccaP88
+  type: chapter
+  author:
+  - family: Bocca
+    given: Jorge B.
+  - family: Pearson
+    given: Philip J.
+  issued:
+  - year: '1988'
+  title: 'On prolog dBMS connections: A step forward from educe'
+  title-short: On prolog dBMS connections
+  container-title: Prolog and databases
+  page: '55-66'
+
+- id: books/eh/grayL88/MoutaWN88
+  type: chapter
+  author:
+  - family: Mouta
+    given: F.
+  - family: Williams
+    given: M. Howard
+  - family: Neves
+    given: J. C.
+  issued:
+  - year: '1988'
+  title: Implementing query languages in prolog
+  container-title: Prolog and databases
+  page: '13-21'
+
+- id: books/eh/grayL88/Williams88
+  type: chapter
+  author:
+  - family: Williams
+    given: G.
+  issued:
+  - year: '1988'
+  title: The tRACE club expert system and databases
+  container-title: Prolog and databases
+  page: '315-331'
+
+- id: books/eh/grayL88/HowellsFG88
+  type: chapter
+  author:
+  - family: Howells
+    given: D. I.
+  - family: Fiddian
+    given: N. J.
+  - family: Gray
+    given: W. A.
+  issued:
+  - year: '1988'
+  title: A source-to-source meta-translation system for database query languages -
+    implementation in prolog
+  container-title: Prolog and databases
+  page: '22-38'
+
+- id: books/eh/grayL88/Moffat88
+  type: chapter
+  author:
+  - family: Moffat
+    given: David S.
+  issued:
+  - year: '1988'
+  title: Modular commitment in persistent prolog
+  container-title: Prolog and databases
+  page: '267-'
+
+- id: books/eh/grayL88/Small88
+  type: chapter
+  author:
+  - family: Small
+    given: Carol
+  issued:
+  - year: '1988'
+  title: 'Guarded default databases: A prototype implementation'
+  title-short: Guarded default databases
+  container-title: Prolog and databases
+  page: '121-134'
+
+- id: books/eh/grayL88/Todd88
+  type: chapter
+  author:
+  - family: Todd
+    given: S.
+  issued:
+  - year: '1988'
+  title: An interface from prolog to a binary relational database
+  container-title: Prolog and databases
+  page: '108-'
+
+- id: books/eh/grayL88/VenkenM88
+  type: chapter
+  author:
+  - family: Venken
+    given: Raf
+  - family: Mulkers
+    given: Anne
+  issued:
+  - year: '1988'
+  title: The interaction between bIM-prolog and relational databases
+  container-title: Prolog and databases
+  page: '95-107'
+
+- id: books/eh/grayL88/Freeston88
+  type: chapter
+  author:
+  - family: Freeston
+    given: Michael
+  issued:
+  - year: '1988'
+  title: Grid files for efficient prolog clause access
+  container-title: Prolog and databases
+  page: '188-211'
+
+- id: books/eh/grayL88/VenkenD88
+  type: chapter
+  author:
+  - family: Venken
+    given: Raf
+  - family: Donner
+    given: D.
+  issued:
+  - year: '1988'
+  title: A data-driven execution mechanism for transaction-oriented information systems
+  container-title: Prolog and databases
+  page: '279-288'
+
+- id: books/eh/grayL88/Vieille88
+  type: chapter
+  author:
+  - family: Vieille
+    given: Laurent
+  issued:
+  - year: '1988'
+  title: 'Recursive query processing: Fundamental algorithms and the dedGin system'
+  title-short: Recursive query processing
+  container-title: Prolog and databases
+  page: '135-158'
+
+- id: books/eh/grayL88/WilliamsMC88
+  type: chapter
+  author:
+  - family: Williams
+    given: M. Howard
+  - family: Massey
+    given: P. A.
+  - family: Crammond
+    given: Jim A.
+  issued:
+  - year: '1988'
+  title: Benchmarking prolog for database applications
+  container-title: Prolog and databases
+  page: '161-187'
+
+- id: books/eh/grayL88/LunnA88
+  type: chapter
+  author:
+  - family: Lunn
+    given: K.
+  - family: Archibald
+    given: I. G.
+  issued:
+  - year: '1988'
+  title: 'TREQL (thornton research easy query language): An intelligent front-end
+    to a relational database'
+  title-short: TREQL (thornton research easy query language)
+  container-title: Prolog and databases
+  page: '39-'
+
+- id: books/eh/grayL88/NomuraL88
+  type: chapter
+  author:
+  - family: Nomura
+    given: Toshio
+  - family: Lunn
+    given: Stephen
+  issued:
+  - year: '1988'
+  title: On transaction processing, knowledge-based systems and databases
+  container-title: Prolog and databases
+  page: '289-314'
+...

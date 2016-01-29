@@ -1,0 +1,2098 @@
+---
+references:
+- id: conf/damon/MuhlbauerRSK014
+  type: paper-conference
+  author:
+  - family: Mühlbauer
+    given: Tobias
+  - family: Rödiger
+    given: Wolf
+  - family: Seilbeck
+    given: Robert
+  - family: Kemper
+    given: Alfons
+  - family: '0001'
+    given: Thomas Neumann
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: 'Heterogeneity-conscious parallel query execution: Getting a better mileage
+    while driving faster!'
+  title-short: Heterogeneity-conscious parallel query execution
+  container-title: DaMoN
+  publisher: ACM
+  page: 2:1-2:10
+  URL: http://doi.acm.org/10.1145/2619228.2619230
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/BoghAM13
+  type: paper-conference
+  author:
+  - family: Bøgh
+    given: Kenneth S.
+  - family: Assent
+    given: Ira
+  - family: Magnani
+    given: Matteo
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Efficient gPU-based skyline computation
+  container-title: DaMoN
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2485278.2485283
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/WongFXLK15
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Petrie
+  - family: Feng
+    given: Ziqiang
+  - family: Xu
+    given: Wenjian
+  - family: Lo
+    given: Eric
+  - family: Kao
+    given: Ben
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'TLB misses: The missing issue of adaptive radix tree?'
+  title-short: TLB misses
+  container-title: DaMoN
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2771937.2771942
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/SchlegelGL10
+  type: paper-conference
+  author:
+  - family: Schlegel
+    given: Benjamin
+  - family: Gemulla
+    given: Rainer
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: Fast integer compression using sIMD instructions
+  container-title: DaMoN
+  publisher: ACM
+  page: '34-40'
+  URL: http://doi.acm.org/10.1145/1869389.1869394
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/KarnagelHSL13
+  type: paper-conference
+  author:
+  - family: Karnagel
+    given: Tomas
+  - family: Habich
+    given: Dirk
+  - family: Schlegel
+    given: Benjamin
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: 'The hELLS-join: A heterogeneous stream join for extremely large windows'
+  title-short: The hELLS-join
+  container-title: DaMoN
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2485278.2485280
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/ZukowskiHB06
+  type: paper-conference
+  author:
+  - family: Zukowski
+    given: Marcin
+  - family: Héman
+    given: Sándor
+  - family: Boncz
+    given: Peter A.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: Architecture-conscious hashing
+  container-title: DaMoN
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1140402.1140410
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/AlvarezSD014
+  type: paper-conference
+  author:
+  - family: Alvarez
+    given: Victor
+  - family: Schuhknecht
+    given: Felix Martin
+  - family: Dittrich
+    given: Jens
+  - family: '0007'
+    given: Stefan Richter
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: Main memory adaptive indexing for multi-core systems
+  container-title: DaMoN
+  publisher: ACM
+  page: 3:1-3:10
+  URL: http://doi.acm.org/10.1145/2619228.2619231
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/PirkMS15
+  type: paper-conference
+  author:
+  - family: Pirk
+    given: Holger
+  - family: Madden
+    given: Sam
+  - family: Stonebraker
+    given: Mike
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'By their fruits shall ye know them: A data analyst’s perspective on massively
+    parallel system design'
+  title-short: By their fruits shall ye know them
+  container-title: DaMoN
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2771937.2771944
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/SaylorK06
+  type: paper-conference
+  author:
+  - family: Saylor
+    given: Gerrit
+  - family: Khessib
+    given: Badriddine
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: Large scale itanium® 2 processor oLTP workload characterization and optimization
+  container-title: DaMoN
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1140402.1140406
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/CieslewiczR08
+  type: paper-conference
+  author:
+  - family: Cieslewicz
+    given: John
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: Data partitioning on chip multiprocessors
+  container-title: DaMoN
+  publisher: ACM
+  page: '25-34'
+  URL: http://doi.acm.org/10.1145/1457150.1457156
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/SchlosserI05
+  type: paper-conference
+  author:
+  - family: Schlosser
+    given: Steven W.
+  - family: Iren
+    given: Sami
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Database storage management with object-based storage devices
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/8%20database%20storage%20management%20with%20object-based%20storage%20devices.pdf
+
+- id: conf/damon/AttaTAM12
+  type: paper-conference
+  author:
+  - family: Atta
+    given: Islam
+  - family: Tözün
+    given: Pinar
+  - family: Ailamaki
+    given: Anastasia
+  - family: Moshovos
+    given: Andreas
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: Reducing oLTP instruction misses with thread migration
+  container-title: DaMoN
+  publisher: ACM
+  page: '9-15'
+  URL: http://doi.acm.org/10.1145/2236584.2236586
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/SchlegelGL09
+  type: paper-conference
+  author:
+  - family: Schlegel
+    given: Benjamin
+  - family: Gemulla
+    given: Rainer
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: K-ary search on modern processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '52-60'
+  URL: http://doi.acm.org/10.1145/1565694.1565705
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/Ross10
+  type: paper-conference
+  author:
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: Optimizing read convoys in main-memory query processing
+  container-title: DaMoN
+  publisher: ACM
+  page: '27-33'
+  URL: http://doi.acm.org/10.1145/1869389.1869393
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/CerviniPTA15
+  type: paper-conference
+  author:
+  - family: Cervini
+    given: David
+  - family: Porobic
+    given: Danica
+  - family: Tözün
+    given: Pinar
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'Applying hTM to an oLTP system: No free lunch'
+  title-short: Applying hTM to an oLTP system
+  container-title: DaMoN
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2771937.2771946
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/JohnsonASA09
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Ryan
+  - family: Athanassoulis
+    given: Manos
+  - family: Stoica
+    given: Radu
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: A new look at the roles of spinning and blocking
+  container-title: DaMoN
+  publisher: ACM
+  page: '21-26'
+  URL: http://doi.acm.org/10.1145/1565694.1565700
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/SidlauskasJS12
+  type: paper-conference
+  author:
+  - family: Sidlauskas
+    given: Darius
+  - family: Jensen
+    given: Christian S.
+  - family: Saltenis
+    given: Simonas
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: A comparison of the use of virtual versus physical snapshots for supporting
+    update-intensive workloads
+  container-title: DaMoN
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/2236584.2236585
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/HarizopoulosP11
+  type: paper-conference
+  author:
+  - family: Harizopoulos
+    given: Stavros
+  - family: Papadimitriou
+    given: Spiros
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: 'A case for micro-cellstores: Energy-efficient data management on recycled
+    smartphones'
+  title-short: A case for micro-cellstores
+  container-title: DaMoN
+  publisher: ACM
+  page: '50-55'
+  URL: http://doi.acm.org/10.1145/1995441.1995448
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/ZukowskiNB08
+  type: paper-conference
+  author:
+  - family: Zukowski
+    given: Marcin
+  - family: Nes
+    given: Niels
+  - family: Boncz
+    given: Peter A.
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: 'DSM vs. nSM: CPU performance tradeoffs in block-oriented query processing'
+  title-short: DSM vs. nSM
+  container-title: DaMoN
+  publisher: ACM
+  page: '47-54'
+  URL: http://doi.acm.org/10.1145/1457150.1457160
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/SitaridiR12
+  type: paper-conference
+  author:
+  - family: Sitaridi
+    given: Evangelia A.
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: Ameliorating memory contention of oLAP operators on gPU processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '39-47'
+  URL: http://doi.acm.org/10.1145/2236584.2236590
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/GhotingBPKNCD05
+  type: paper-conference
+  author:
+  - family: Ghoting
+    given: Amol
+  - family: Buehrer
+    given: Gregory
+  - family: Parthasarathy
+    given: Srinivasan
+  - family: Kim
+    given: Daehyun
+  - family: Nguyen
+    given: Anthony D.
+  - family: Chen
+    given: Yen-Kuang
+  - family: Dubey
+    given: Pradeep
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: A characterization of data mining workloads on a modern processor
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/1%20a%20characterization%20of%20data%20mining%20algorithms%20on%20a%20modern%20processor.pdf
+
+- id: conf/damon/DasAA08
+  type: paper-conference
+  author:
+  - family: Das
+    given: Sudipto
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: CAM conscious integrated answering of frequent elements and top-k queries
+    over data streams
+  container-title: DaMoN
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1457150.1457152
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/2009
+  type: book
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: Proceedings of the fifth international workshop on data management on new
+    hardware, daMoN 2009, providence, rhode island, uSA, june 28, 2009
+  publisher: ACM
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/GoldAHF05
+  type: paper-conference
+  author:
+  - family: Gold
+    given: Brian T.
+  - family: Ailamaki
+    given: Anastassia
+  - family: Huston
+    given: Larry
+  - family: Falsafi
+    given: Babak
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Accelerating database operations using a network processor
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/3%20accelerating%20database%20operators%20using%20a%20network%20processor.pdf
+
+- id: conf/damon/KolditzKSHL14
+  type: paper-conference
+  author:
+  - family: Kolditz
+    given: Till
+  - family: Kissinger
+    given: Thomas
+  - family: Schlegel
+    given: Benjamin
+  - family: Habich
+    given: Dirk
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: Online bit flip detection for in-memory b-trees on unreliable hardware
+  container-title: DaMoN
+  publisher: ACM
+  page: 5:1-5:9
+  URL: http://doi.acm.org/10.1145/2619228.2619233
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/PolychroniouR13
+  type: paper-conference
+  author:
+  - family: Polychroniou
+    given: Orestis
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: High throughput heavy hitter aggregation for modern sIMD processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2485278.2485284
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/DoP09
+  type: paper-conference
+  author:
+  - family: Do
+    given: Jaeyoung
+  - family: Patel
+    given: Jignesh M.
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: 'Join processing for flash sSDs: Remembering past lessons'
+  title-short: Join processing for flash sSDs
+  container-title: DaMoN
+  publisher: ACM
+  page: '1-8'
+  URL: http://doi.acm.org/10.1145/1565694.1565696
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/KissingerSHL12
+  type: paper-conference
+  author:
+  - family: Kissinger
+    given: Thomas
+  - family: Schlegel
+    given: Benjamin
+  - family: Habich
+    given: Dirk
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: 'KISS-tree: Smart latch-free in-memory indexing on modern architectures'
+  title-short: KISS-tree
+  container-title: DaMoN
+  publisher: ACM
+  page: '16-23'
+  URL: http://doi.acm.org/10.1145/2236584.2236587
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/Graefe07
+  type: paper-conference
+  author:
+  - family: Graefe
+    given: Goetz
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: The five-minute rule twenty years later, and how flash memory changes the
+    rules
+  container-title: DaMoN
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1363189.1363198
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/CieslewiczMR09
+  type: paper-conference
+  author:
+  - family: Cieslewicz
+    given: John
+  - family: Mee
+    given: William
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: Cache-conscious buffering for database operators with state
+  container-title: DaMoN
+  publisher: ACM
+  page: '43-51'
+  URL: http://doi.acm.org/10.1145/1565694.1565704
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/ShahHWG08
+  type: paper-conference
+  author:
+  - family: Shah
+    given: Mehul A.
+  - family: Harizopoulos
+    given: Stavros
+  - family: Wiener
+    given: Janet L.
+  - family: Graefe
+    given: Goetz
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: Fast scans and joins using flash drives
+  container-title: DaMoN
+  publisher: ACM
+  page: '17-24'
+  URL: http://doi.acm.org/10.1145/1457150.1457154
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/ChengHL15
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Xuntao
+  - family: He
+    given: Bingsheng
+  - family: Lau
+    given: Chiew Tong
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Energy-efficient query processing on embedded cPU-gPU architectures
+  container-title: DaMoN
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2771937.2771939
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/WangLC14
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Bo
+  - family: Litz
+    given: Heiner
+  - family: Cheriton
+    given: David R.
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: 'HICAMP bitmap: Space-efficient updatable bitmap index for in-memory databases'
+  title-short: HICAMP bitmap
+  container-title: DaMoN
+  publisher: ACM
+  page: 7:1-7:7
+  URL: http://doi.acm.org/10.1145/2619228.2619235
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/HassanVN15
+  type: paper-conference
+  author:
+  - family: Hassan
+    given: Ahmad
+  - family: Vandierendonck
+    given: Hans
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Energy-efficient in-memory data stores on hybrid memory hierarchies
+  container-title: DaMoN
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2771937.2771940
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/WangJFP15
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Tianzheng
+  - family: Johnson
+    given: Ryan
+  - family: Fekete
+    given: Alan
+  - family: Pandis
+    given: Ippokratis
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'The serial safety net: Efficient concurrency control on modern hardware'
+  title-short: The serial safety net
+  container-title: DaMoN
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2771937.2771949
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/JouiniJ08
+  type: paper-conference
+  author:
+  - family: Jouini
+    given: Khaled
+  - family: Jomier
+    given: Geneviève
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: Avoiding version redundancy for high performance reads in temporal databases
+  container-title: DaMoN
+  publisher: ACM
+  page: '41-46'
+  URL: http://doi.acm.org/10.1145/1457150.1457159
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/2012
+  type: book
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: Proceedings of the eighth international workshop on data management on new
+    hardware, daMoN 2012, scottsdale, aZ, uSA, may 21, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2236584
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/TozunGA13
+  type: paper-conference
+  author:
+  - family: Tözün
+    given: Pinar
+  - family: Gold
+    given: Brian
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: 'OLTP in wonderland: Where do cache misses come from in major oLTP components?'
+  title-short: OLTP in wonderland
+  container-title: DaMoN
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2485278.2485286
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/2011
+  type: book
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: Proceedings of the seventh international workshop on data management on new
+    hardware, daMoN 2011, athens, greece, june 13, 2011
+  publisher: ACM
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/SaxenaSHSM12
+  type: paper-conference
+  author:
+  - family: Saxena
+    given: Mohit
+  - family: Shah
+    given: Mehul A.
+  - family: Harizopoulos
+    given: Stavros
+  - family: Swift
+    given: Michael M.
+  - family: Merchant
+    given: Arif
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: 'Hathi: Durable transactions for memory using flash'
+  title-short: Hathi
+  container-title: DaMoN
+  publisher: ACM
+  page: '33-38'
+  URL: http://doi.acm.org/10.1145/2236584.2236589
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/XiBAI15
+  type: paper-conference
+  author:
+  - family: Xi
+    given: Sam Likun
+  - family: Babarinsa
+    given: Oreoluwa
+  - family: Athanassoulis
+    given: Manos
+  - family: Idreos
+    given: Stratos
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'Beyond the wall: Near-data processing for databases'
+  title-short: Beyond the wall
+  container-title: DaMoN
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2771937.2771945
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/2008
+  type: book
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: 4th workshop on data management on new hardware, daMoN 2008, vancouver, bC,
+    canada, june 13, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/PowerLHPW15
+  type: paper-conference
+  author:
+  - family: Power
+    given: Jason
+  - family: Li
+    given: Yinan
+  - family: Hill
+    given: Mark D.
+  - family: Patel
+    given: Jignesh M.
+  - family: Wood
+    given: David A.
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: 'Toward gPUs being mainstream in analytic processing: An initial argument
+    using simple scan-aggregate queries'
+  title-short: Toward gPUs being mainstream in analytic processing
+  container-title: DaMoN
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2771937.2771941
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/AdibiBBCCH06
+  type: paper-conference
+  author:
+  - family: Adibi
+    given: Jafar
+  - family: Barrett
+    given: Tim
+  - family: Bhatt
+    given: Spundun
+  - family: Chalupsky
+    given: Hans
+  - family: Chame
+    given: Jacqueline
+  - family: Hall
+    given: Mary W.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: Processing-in-memory technology for knowledge discovery algorithms
+  container-title: DaMoN
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1140402.1140405
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/JohnsonPA08
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Ryan
+  - family: Pandis
+    given: Ippokratis
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: 'Critical sections: Re-emerging scalability concerns for database storage
+    engines'
+  title-short: Critical sections
+  container-title: DaMoN
+  publisher: ACM
+  page: '35-40'
+  URL: http://doi.acm.org/10.1145/1457150.1457157
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/FreyGKT09
+  type: paper-conference
+  author:
+  - family: Frey
+    given: Philip Werner
+  - family: Goncalves
+    given: Romulo
+  - family: Kersten
+    given: Martin L.
+  - family: Teubner
+    given: Jens
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: 'Spinning relations: High-speed networks for distributed join processing'
+  title-short: Spinning relations
+  container-title: DaMoN
+  publisher: ACM
+  page: '27-33'
+  URL: http://doi.acm.org/10.1145/1565694.1565701
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/GrundSKBZ10
+  type: paper-conference
+  author:
+  - family: Grund
+    given: Martin
+  - family: Schaffner
+    given: Jan
+  - family: '0003'
+    given: Jens Krüger
+  - family: Brunnert
+    given: Jan
+  - family: Zeier
+    given: Alexander
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: The effects of virtualization on main memory systems
+  container-title: DaMoN
+  publisher: ACM
+  page: '41-46'
+  URL: http://doi.acm.org/10.1145/1869389.1869395
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/2005
+  type: book
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Workshop on data management on new hardware, daMoN 2005, baltimore, maryland,
+    uSA, june 12, 2005
+
+- id: conf/damon/CieslewiczBHR06
+  type: paper-conference
+  author:
+  - family: Cieslewicz
+    given: John
+  - family: Berry
+    given: Jonathan W.
+  - family: Hendrickson
+    given: Bruce
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: 'Realizing parallelism in database operations: Insights from a massively
+    multithreaded architecture'
+  title-short: Realizing parallelism in database operations
+  container-title: DaMoN
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1140402.1140408
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/BandiSAA05
+  type: paper-conference
+  author:
+  - family: Bandi
+    given: Nagender
+  - family: Schnieder
+    given: Sam
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Hardware acceleration of database operations using content-addressable memories
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/6%20hardware%20acceleration%20for%20database%20systems%20using%20content%20addressable%20memories.pdf
+
+- id: conf/damon/GawadeK15
+  type: paper-conference
+  author:
+  - family: Gawade
+    given: Mrunal
+  - family: Kersten
+    given: Martin L.
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: NUMA obliviousness through memory mapping
+  container-title: DaMoN
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2771937.2771948
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/GarciaK07
+  type: paper-conference
+  author:
+  - family: Garcia
+    given: Philip
+  - family: Korth
+    given: Henry F.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: Pipelined hash-join on multithreaded architectures
+  container-title: DaMoN
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1363189.1363191
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/CieslewiczRG07
+  type: paper-conference
+  author:
+  - family: Cieslewicz
+    given: John
+  - family: Ross
+    given: Kenneth A.
+  - family: Giannakakis
+    given: Ioannis
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: Parallel buffers for chip multiprocessors
+  container-title: DaMoN
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1363189.1363192
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/StoicaAJA09
+  type: paper-conference
+  author:
+  - family: Stoica
+    given: Radu
+  - family: Athanassoulis
+    given: Manos
+  - family: Johnson
+    given: Ryan
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: Evaluating and repairing write performance on flash devices
+  container-title: DaMoN
+  publisher: ACM
+  page: '9-14'
+  URL: http://doi.acm.org/10.1145/1565694.1565697
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/SitaridiR13
+  type: paper-conference
+  author:
+  - family: Sitaridi
+    given: Evangelia A.
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Optimizing select conditions on gPUs
+  container-title: DaMoN
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2485278.2485282
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/SnyderCCL11
+  type: paper-conference
+  author:
+  - family: Snyder
+    given: Sean M.
+  - family: Chen
+    given: Shimin
+  - family: Chrysanthis
+    given: Panos K.
+  - family: Labrinidis
+    given: Alexandros
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: 'QMD: Exploiting flash for energy efficient disk arrays'
+  title-short: QMD
+  container-title: DaMoN
+  publisher: ACM
+  page: '41-49'
+  URL: http://doi.acm.org/10.1145/1995441.1995447
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/Ross08
+  type: paper-conference
+  author:
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Luo
+    given: Qiong
+  issued:
+  - year: '2008'
+  title: Modeling the performance of algorithms on flash memory devices
+  container-title: DaMoN
+  publisher: ACM
+  page: '11-16'
+  URL: http://doi.acm.org/10.1145/1457150.1457153
+  ISBN: '978-1-60558-184-2'
+
+- id: conf/damon/CarmeanFKPR05
+  type: paper-conference
+  author:
+  - family: Carmean
+    given: Doug
+  - family: Falsafi
+    given: Babak
+  - family: Kuszmaul
+    given: Bradley C.
+  - family: Patel
+    given: Jignesh M.
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: 'Architecture-conscious databases: Sub-optimization or the next big leap?'
+  title-short: Architecture-conscious databases
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/9%20panel%20-%20architecture-conscious%20databases%20-%20sub-optimization%20or%20next%20big%20leap.pdf
+
+- id: conf/damon/LuHL10
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Mian
+  - family: He
+    given: Bingsheng
+  - family: Luo
+    given: Qiong
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: Supporting extended precision on graphics processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '19-26'
+  URL: http://doi.acm.org/10.1145/1869389.1869392
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/PsaroudakisKPILTAL14
+  type: paper-conference
+  author:
+  - family: Psaroudakis
+    given: Iraklis
+  - family: Kissinger
+    given: Thomas
+  - family: Porobic
+    given: Danica
+  - family: Ilsche
+    given: Thomas
+  - family: Liarou
+    given: Erietta
+  - family: Tözün
+    given: Pinar
+  - family: Ailamaki
+    given: Anastasia
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: Dynamic fine-grained scheduling for energy-efficient main-memory queries
+  container-title: DaMoN
+  publisher: ACM
+  page: 1:1-1:7
+  URL: http://doi.acm.org/10.1145/2619228.2619229
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/2006
+  type: book
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: Workshop on data management on new hardware, daMoN 2006, chicago, illinois,
+    uSA, june 25, 2006
+  publisher: ACM
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/OukidBLBW14
+  type: paper-conference
+  author:
+  - family: Oukid
+    given: Ismail
+  - family: Booss
+    given: Daniel
+  - family: Lehner
+    given: Wolfgang
+  - family: Bumbulis
+    given: Peter
+  - family: Willhalm
+    given: Thomas
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: 'SOFORT: A hybrid sCM-dRAM storage engine for fast data recovery'
+  title-short: SOFORT
+  container-title: DaMoN
+  publisher: ACM
+  page: 8:1-8:7
+  URL: http://doi.acm.org/10.1145/2619228.2619236
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/SchlegelKKL13
+  type: paper-conference
+  author:
+  - family: Schlegel
+    given: Benjamin
+  - family: Karnagel
+    given: Tomas
+  - family: Kiefer
+    given: Tim
+  - family: Lehner
+    given: Wolfgang
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Scalable frequent itemset mining on many-core processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2485278.2485281
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/SamuelPB05
+  type: paper-conference
+  author:
+  - family: Samuel
+    given: Michael L.
+  - family: Pedersen
+    given: Anders Uhl
+  - family: Bonnet
+    given: Philippe
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Making cSB+-tree processor conscious
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/2%20making%20csb+%20trees%20processor%20conscious.pdf
+
+- id: conf/damon/EmrichGKST10
+  type: paper-conference
+  author:
+  - family: Emrich
+    given: Tobias
+  - family: Graf
+    given: Franz
+  - family: Kriegel
+    given: Hans-Peter
+  - family: Schubert
+    given: Matthias
+  - family: Thoma
+    given: Marisa
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: On the impact of flash sSDs on spatial indexing
+  container-title: DaMoN
+  publisher: ACM
+  page: '3-8'
+  URL: http://doi.acm.org/10.1145/1869389.1869390
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/Bremler-BarrHHH15
+  type: paper-conference
+  author:
+  - family: Bremler-Barr
+    given: Anat
+  - family: Harchol
+    given: Yotam
+  - family: Hay
+    given: David
+  - family: Hel-Or
+    given: Yacov
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Ultra-fast similarity search using ternary content addressable memory
+  container-title: DaMoN
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2771937.2771938
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/YangHFLGLSS07
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Ke
+  - family: He
+    given: Bingsheng
+  - family: Fang
+    given: Rui
+  - family: Lu
+    given: Mian
+  - family: Govindaraju
+    given: Naga K.
+  - family: Luo
+    given: Qiong
+  - family: Sander
+    given: Pedro V.
+  - family: Shi
+    given: Jiaoying
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: In-memory grid files on graphics processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1363189.1363196
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/0002H13
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Daniel Schall
+  - family: Härder
+    given: Theo
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Energy-proportional query execution using a cluster of wimpy nodes
+  container-title: DaMoN
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2485278.2485279
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/MuhleisenGK13
+  type: paper-conference
+  author:
+  - family: Mühleisen
+    given: Hannes
+  - family: Goncalves
+    given: Romulo
+  - family: Kersten
+    given: Martin L.
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: 'Peak performance: Remote memory revisited'
+  title-short: Peak performance
+  container-title: DaMoN
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2485278.2485287
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/Graefe06
+  type: paper-conference
+  author:
+  - family: Graefe
+    given: Goetz
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: B-tree indexes, interpolation search, and skew
+  container-title: DaMoN
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1140402.1140409
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/YeRV11
+  type: paper-conference
+  author:
+  - family: Ye
+    given: Yang
+  - family: Ross
+    given: Kenneth A.
+  - family: Vesdapunt
+    given: Norases
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: Scalable aggregation on multicore processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/1995441.1995442
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/2007
+  type: book
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: Workshop on data management on new hardware, daMoN 2007, beijing, china,
+    june 15, 2007
+  publisher: ACM
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/AppuswamyOA15
+  type: paper-conference
+  author:
+  - family: Appuswamy
+    given: Raja
+  - family: Olma
+    given: Matthaios
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Scaling the memory power wall with dRAM-aware data management
+  container-title: DaMoN
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2771937.2771947
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/StoicaA13
+  type: paper-conference
+  author:
+  - family: Stoica
+    given: Radu
+  - family: Ailamaki
+    given: Anastasia
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Enabling efficient oS paging for main-memory oLTP databases
+  container-title: DaMoN
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2485278.2485285
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/SadoghiSJ11
+  type: paper-conference
+  author:
+  - family: Sadoghi
+    given: Mohammad
+  - family: Singh
+    given: Harsh
+  - family: Jacobsen
+    given: Hans-Arno
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: Towards highly parallel event processing through reconfigurable hardware
+  container-title: DaMoN
+  publisher: ACM
+  page: '27-32'
+  URL: http://doi.acm.org/10.1145/1995441.1995445
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/BauschPB12
+  type: paper-conference
+  author:
+  - family: Bausch
+    given: Daniel
+  - family: Petrov
+    given: Ilia
+  - family: Buchmann
+    given: Alejandro P.
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: Making cost-based query optimization asymmetry-aware
+  container-title: DaMoN
+  publisher: ACM
+  page: '24-32'
+  URL: http://doi.acm.org/10.1145/2236584.2236588
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/GovindarajuM05
+  type: paper-conference
+  author:
+  - family: Govindaraju
+    given: Naga K.
+  - family: Manocha
+    given: Dinesh
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Efficient relational database management using graphics processors
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/5%20invited%20paper%20-%20efficient%20relational%20database%20management%20using%20graphics%20processors.pdf
+
+- id: conf/damon/PolychroniouR15
+  type: paper-conference
+  author:
+  - family: Polychroniou
+    given: Orestis
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Efficient lightweight compression alongside fast scans
+  container-title: DaMoN
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2771937.2771943
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/BhattacharjeeRLMB11
+  type: paper-conference
+  author:
+  - family: Bhattacharjee
+    given: Bishwaranjan
+  - family: Ross
+    given: Kenneth A.
+  - family: Lang
+    given: Christian A.
+  - family: Mihaila
+    given: George A.
+  - family: Banikazemi
+    given: Mohammad
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: Enhancing recovery using an sSD buffer pool extension
+  container-title: DaMoN
+  publisher: ACM
+  page: '10-16'
+  URL: http://doi.acm.org/10.1145/1995441.1995443
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/2013
+  type: book
+  editor:
+  - family: Johnson
+    given: Ryan
+  issued:
+  - year: '2013'
+  title: Proceedings of the ninth international workshop on data management on new
+    hardware, daMoN 1013, new york, nY, uSA, june 24, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2485278
+  ISBN: '978-1-4503-2196-9'
+
+- id: conf/damon/BeierKS12
+  type: paper-conference
+  author:
+  - family: Beier
+    given: Felix
+  - family: Kilias
+    given: Torsten
+  - family: Sattler
+    given: Kai-Uwe
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: GiST scan acceleration using coprocessors
+  container-title: DaMoN
+  publisher: ACM
+  page: '63-69'
+  URL: http://doi.acm.org/10.1145/2236584.2236593
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/Miyazaki05
+  type: paper-conference
+  author:
+  - family: Miyazaki
+    given: Jun
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Hardware supported memory access for high performance main memory databases
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/7%20hardware%20supported%20memory%20access%20for%20high%20performance%20main%20memory%20databases.pdf
+
+- id: conf/damon/LeeDL07
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Rubao
+  - family: Duan
+    given: Bihui
+  - family: Liu
+    given: Taoying
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: Architectural characterization of xQuery workloads on modern processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/1363189.1363199
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/KaldeweyLMV12
+  type: paper-conference
+  author:
+  - family: Kaldewey
+    given: Tim
+  - family: Lohman
+    given: Guy M.
+  - family: Müller
+    given: René
+  - family: Volk
+    given: Peter Benjamin
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: GPU join processing revisited
+  container-title: DaMoN
+  publisher: ACM
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/2236584.2236592
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/FangLXHL09
+  type: paper-conference
+  author:
+  - family: Fang
+    given: Wenbin
+  - family: Lu
+    given: Mian
+  - family: Xiao
+    given: Xiangye
+  - family: He
+    given: Bingsheng
+  - family: Luo
+    given: Qiong
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: Frequent itemset mining on graphics processors
+  container-title: DaMoN
+  publisher: ACM
+  page: '34-42'
+  URL: http://doi.acm.org/10.1145/1565694.1565702
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/2014
+  type: book
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: Tenth international workshop on data management on new hardware, daMoN 2014,
+    snowbird, uT, uSA, june 23, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2619228
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/GarciaK05
+  type: paper-conference
+  author:
+  - family: Garcia
+    given: Philip
+  - family: Korth
+    given: Henry F.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2005'
+  title: Multithreaded architectures and the sort benchmark
+  container-title: DaMoN
+  URL: http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/4%20best%20paper%20-%20multithreaded%20architectures%20and%20the%20sort%20benchmark.pdf
+
+- id: conf/damon/PirkSMK12
+  type: paper-conference
+  author:
+  - family: Pirk
+    given: Holger
+  - family: Sellam
+    given: Thibault
+  - family: Manegold
+    given: Stefan
+  - family: Kersten
+    given: Martin L.
+  editor:
+  - family: Chen
+    given: Shimin
+  issued:
+  - year: '2012'
+  title: X-device query processing by bitwise distribution
+  container-title: DaMoN
+  publisher: ACM
+  page: '48-54'
+  URL: http://doi.acm.org/10.1145/2236584.2236591
+  ISBN: '978-1-4503-1445-9'
+
+- id: conf/damon/2015
+  type: book
+  editor:
+  - family: Pandis
+    given: Ippokratis
+  issued:
+  - year: '2015'
+  title: Proceedings of the 11th international workshop on data management on new
+    hardware, daMoN 2015, melbourne, vIC, australia, may 31 - june 04, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2771937
+  ISBN: '978-1-4503-3638-3'
+
+- id: conf/damon/PirkPIMK14
+  type: paper-conference
+  author:
+  - family: Pirk
+    given: Holger
+  - family: Petraki
+    given: Eleni
+  - family: Idreos
+    given: Stratos
+  - family: Manegold
+    given: Stefan
+  - family: Kersten
+    given: Martin L.
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: 'Database cracking: Fancy scan, not poor man’s sort!'
+  title-short: Database cracking
+  container-title: DaMoN
+  publisher: ACM
+  page: 4:1-4:8
+  URL: http://doi.acm.org/10.1145/2619228.2619232
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/LangPS10
+  type: paper-conference
+  author:
+  - family: Lang
+    given: Willis
+  - family: Patel
+    given: Jignesh M.
+  - family: Shankar
+    given: Srinath
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: 'Wimpy node clusters: What about non-wimpy workloads?'
+  title-short: Wimpy node clusters
+  container-title: DaMoN
+  publisher: ACM
+  page: '47-55'
+  URL: http://doi.acm.org/10.1145/1869389.1869396
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/BhattacharjeeAGZCCA06
+  type: paper-conference
+  author:
+  - family: Bhattacharjee
+    given: Bishwaranjan
+  - family: Abe
+    given: Naoki
+  - family: Goldman
+    given: Kenneth
+  - family: Zadrozny
+    given: Bianca
+  - family: Chillakuru
+    given: Vamsavardhana R.
+  - family: Carpio
+    given: Marysabel
+    dropping-particle: del
+  - family: Apté
+    given: Chidanand
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2006'
+  title: Using secure coprocessors for privacy preserving collaborative data mining
+    and analysis
+  container-title: DaMoN
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1140402.1140404
+  ISBN: '1-59593-466-9'
+
+- id: conf/damon/PolychroniouR14
+  type: paper-conference
+  author:
+  - family: Polychroniou
+    given: Orestis
+  - family: Ross
+    given: Kenneth A.
+  editor:
+  - family: Kemper
+    given: Alfons
+  issued:
+  - year: '2014'
+  title: Vectorized bloom filters for advanced sIMD processors
+  container-title: DaMoN
+  publisher: ACM
+  page: 6:1-6:6
+  URL: http://doi.acm.org/10.1145/2619228.2619234
+  ISBN: '978-1-4503-2971-2'
+
+- id: conf/damon/2010
+  type: book
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: Proceedings of the sixth international workshop on data management on new
+    hardware, daMoN 2010, indianapolis, iN, uSA, june 7, 2010
+  publisher: ACM
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/HeLLY07
+  type: paper-conference
+  author:
+  - family: He
+    given: Bingsheng
+  - family: Li
+    given: Yinan
+  - family: Luo
+    given: Qiong
+  - family: Yang
+    given: Dongqing
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: A general framework for improving query processing performance on multi-level
+    memory hierarchies
+  container-title: DaMoN
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1363189.1363193
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/BaumannNSS10
+  type: paper-conference
+  author:
+  - family: Baumann
+    given: Stephan
+  - family: Nijs
+    given: Giel
+    dropping-particle: de
+  - family: Strobel
+    given: Michael
+  - family: Sattler
+    given: Kai-Uwe
+  editor:
+  - family: Ailamaki
+    given: Anastasia
+  issued:
+  - year: '2010'
+  title: 'Flashing databases: Expectations and limitations'
+  title-short: Flashing databases
+  container-title: DaMoN
+  publisher: ACM
+  page: '9-18'
+  URL: http://doi.acm.org/10.1145/1869389.1869391
+  ISBN: '978-1-4503-0189-3'
+
+- id: conf/damon/SompolskiZB11
+  type: paper-conference
+  author:
+  - family: Sompolski
+    given: Juliusz
+  - family: Zukowski
+    given: Marcin
+  - family: Boncz
+    given: Peter A.
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: Vectorization vs. compilation in query execution
+  container-title: DaMoN
+  publisher: ACM
+  page: '33-40'
+  URL: http://doi.acm.org/10.1145/1995441.1995446
+  ISBN: '978-1-4503-0658-4'
+
+- id: conf/damon/OuHJ09
+  type: paper-conference
+  author:
+  - family: Ou
+    given: Yi
+  - family: Härder
+    given: Theo
+  - family: Jin
+    given: Peiquan
+  editor:
+  - family: Boncz
+    given: Peter A.
+  issued:
+  - year: '2009'
+  title: 'CFDC: A flash-aware replacement policy for database buffer management'
+  title-short: CFDC
+  container-title: DaMoN
+  publisher: ACM
+  page: '15-20'
+  URL: http://doi.acm.org/10.1145/1565694.1565698
+  ISBN: '978-1-60558-701-1'
+
+- id: conf/damon/HemanNZB07
+  type: paper-conference
+  author:
+  - family: Héman
+    given: Sándor
+  - family: Nes
+    given: Niels
+  - family: Zukowski
+    given: Marcin
+  - family: Boncz
+    given: Peter A.
+  editor:
+  - family: Ailamaki
+    given: Anastassia
+  issued:
+  - year: '2007'
+  title: Vectorized data processing on the cell broadband engine
+  container-title: DaMoN
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1363189.1363195
+  ISBN: '978-1-59593-772-8'
+
+- id: conf/damon/MuheKN11
+  type: paper-conference
+  author:
+  - family: Mühe
+    given: Henrik
+  - family: Kemper
+    given: Alfons
+  - family: '0001'
+    given: Thomas Neumann
+  editor:
+  - family: Harizopoulos
+    given: Stavros
+  issued:
+  - year: '2011'
+  title: 'How to efficiently snapshot transactional data: Hardware or software controlled?'
+  title-short: How to efficiently snapshot transactional data
+  container-title: DaMoN
+  publisher: ACM
+  page: '17-26'
+  URL: http://doi.acm.org/10.1145/1995441.1995444
+  ISBN: '978-1-4503-0658-4'
+...

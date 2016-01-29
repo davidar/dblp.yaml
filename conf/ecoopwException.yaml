@@ -1,0 +1,748 @@
+---
+references:
+- id: conf/ecoopwException/DonyUV06
+  type: paper-conference
+  author:
+  - family: Dony
+    given: Christophe
+  - family: Urtado
+    given: Christelle
+  - family: Vauttier
+    given: Sylvain
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: 'Exception handling and asynchronous active objects: Issues and proposal'
+  title-short: Exception handling and asynchronous active objects
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '81-100'
+  volume: '4119'
+  DOI: 10.1007/11818502_5
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/BuhrK06
+  type: paper-conference
+  author:
+  - family: Buhr
+    given: Peter A.
+  - family: Krischer
+    given: Roy
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Bound exceptions in object-oriented programming
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-21'
+  volume: '4119'
+  DOI: 10.1007/11818502_1
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/HowellV00
+  type: paper-conference
+  author:
+  - family: Howell
+    given: Charles
+  - family: Vecellio
+    given: Gary
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Experiences with error handling in critical systems
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-188'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_11
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/BrambillaCT06
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Marco Brambilla
+  - family: Comai
+    given: Sara
+  - family: Tziviskou
+    given: Christina
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Exception management within web applications implementing business processes
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-120'
+  volume: '4119'
+  DOI: 10.1007/11818502_6
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Weimer06
+  type: paper-conference
+  author:
+  - family: Weimer
+    given: Westley
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Exception-handling bugs in java and a language extension to avoid them
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-41'
+  volume: '4119'
+  DOI: 10.1007/11818502_2
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/MikhailovaR00
+  type: paper-conference
+  author:
+  - family: Mikhailova
+    given: Anna
+  - family: Romanovsky
+    given: Alexander B.
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Supporting evolution of interface exceptions
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-110'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_6
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/CasatiC00
+  type: paper-conference
+  author:
+  - family: Casati
+    given: Fabio
+  - family: Cugola
+    given: Gianpaolo
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Error handling in process support systems
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '251-270'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_16
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/Bail06
+  type: paper-conference
+  author:
+  - family: Bail
+    given: William
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: An approach to defining requirements for exceptions
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-254'
+  volume: '4119'
+  DOI: 10.1007/11818502_13
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/ShuiMK06
+  type: paper-conference
+  author:
+  - family: Shui
+    given: Aaron
+  - family: Mustafiz
+    given: Sadaf
+  - family: Kienzle
+    given: Jörg
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Exception-aware requirements elicitation with use cases
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-242'
+  volume: '4119'
+  DOI: 10.1007/11818502_12
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Stroustrup00
+  type: paper-conference
+  author:
+  - family: Stroustrup
+    given: Bjarne
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: 'Exception safety: Concepts and techniques'
+  title-short: Exception safety
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-76'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_4
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/RomanovskyK00
+  type: paper-conference
+  author:
+  - family: Romanovsky
+    given: Alexander B.
+  - family: Kienzle
+    given: Jörg
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Action-oriented exception handling in cooperative and competitive concurrent
+    object-oriented systems
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-164'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_9
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/SekiguchiSY00
+  type: paper-conference
+  author:
+  - family: Sekiguchi
+    given: Tatsurou
+  - family: Sakamoto
+    given: Takahiro
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Portable implementation of continuation operators in imperative languages
+    by exception handling
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-233'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_14
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/ChiuLK00
+  type: paper-conference
+  author:
+  - family: Chiu
+    given: Dickson K. W.
+  - family: Li
+    given: Qing
+  - family: Karlapalem
+    given: Kamalakar
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: 'ADOME-wFMS: Towards cooperative handling of workflow exceptions'
+  title-short: ADOME-wFMS
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-288'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_17
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/Dony00
+  type: paper-conference
+  author:
+  - family: Dony
+    given: Christophe
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: 'A fully object-oriented exception handling system: Rationale and smalltalk
+    implementation'
+  title-short: A fully object-oriented exception handling system
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-38'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_2
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/Rintala06
+  type: paper-conference
+  author:
+  - family: Rintala
+    given: Matti
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Handling multiple concurrent exceptions in c++ using futures
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-80'
+  volume: '4119'
+  DOI: 10.1007/11818502_4
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/TripathiKA06
+  type: paper-conference
+  author:
+  - family: Tripathi
+    given: Anand R.
+  - family: Kulkarni
+    given: Devdatta
+  - family: '0002'
+    given: Tanvir Ahmed
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Exception handling in cSCW applications in pervasive computing environments
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-180'
+  volume: '4119'
+  DOI: 10.1007/11818502_9
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/HansenF00
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Bjørn Egil
+  - family: Fredholm
+    given: Henrik
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Adapting c++ exception handling to an extended cOM exception model
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-216'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_13
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/Siedersleben06
+  type: paper-conference
+  author:
+  - family: Siedersleben
+    given: Johannes
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Errors and exceptions - rights and obligations
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '275-287'
+  volume: '4119'
+  DOI: 10.1007/11818502_15
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Pitman00
+  type: paper-conference
+  author:
+  - family: Pitman
+    given: Kent M.
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Condition handling in the lisp language family
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-59'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_3
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/IliasovR06
+  type: paper-conference
+  author:
+  - family: Iliasov
+    given: Alexei
+  - family: Romanovsky
+    given: Alexander
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Structured coordination spaces for fault tolerant mobile agents
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-199'
+  volume: '4119'
+  DOI: 10.1007/11818502_10
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Kiniry06
+  type: paper-conference
+  author:
+  - family: Kiniry
+    given: Joseph R.
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: 'Exceptions in java and eiffel: Two extremes in exception design and application'
+  title-short: Exceptions in java and eiffel
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '288-300'
+  volume: '4119'
+  DOI: 10.1007/11818502_16
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/GarciaR00
+  type: paper-conference
+  author:
+  - family: Garcia
+    given: Alessandro F.
+  - family: Rubira
+    given: Cecília M. F.
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: An architectural-based reflective approach to incorporating exception handling
+    into dependable software
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-206'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_12
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/Patino-MartinezJA00
+  type: paper-conference
+  author:
+  - family: Patiño-Martínez
+    given: Marta
+  - family: Jiménez-Peris
+    given: Ricardo
+  - family: Arévalo
+    given: Sergio
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Exception handling and resolution for transactional object groups
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-180'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_10
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/2006
+  type: book
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Advanced topics in exception handling techniques (the book grow out of eCOOP
+    workshops)
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4119'
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/ColletR06
+  type: paper-conference
+  author:
+  - family: Collet
+    given: Raphaël
+  - family: Roy
+    given: Peter Van
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Failure handling in a network-transparent distributed programming language
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-140'
+  volume: '4119'
+  DOI: 10.1007/11818502_7
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/MalayeriA06
+  type: paper-conference
+  author:
+  - family: Malayeri
+    given: Donna
+  - family: Aldrich
+    given: Jonathan
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Practical exception specifications
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-220'
+  volume: '4119'
+  DOI: 10.1007/11818502_11
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/MostinckxDBCM06
+  type: paper-conference
+  author:
+  - family: Mostinckx
+    given: Stijn
+  - family: Dedecker
+    given: Jessie
+  - family: Boix
+    given: Elisa Gonzalez
+  - family: Cutsem
+    given: Tom Van
+  - family: Meuter
+    given: Wolfgang De
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Ambient-oriented exception handling
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-160'
+  volume: '4119'
+  DOI: 10.1007/11818502_8
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Knudsen00
+  type: paper-conference
+  author:
+  - family: Knudsen
+    given: Jørgen Lindskov
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Fault tolerance and exception handling in bETA
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_1
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/2000
+  type: book
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2001'
+  title: Advances in exception handling techniques (the book grow out of a eCOOP 2000
+    workshop)
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2022'
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/BertinoGM00
+  type: paper-conference
+  author:
+  - family: Bertino
+    given: Elisa
+  - family: Guerrini
+    given: Giovanna
+  - family: Merlo
+    given: Isabella
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Exception handling in object-oriented databases
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '234-250'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_15
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/AhronovitzH00
+  type: paper-conference
+  author:
+  - family: Ahronovitz
+    given: Yolande
+  - family: Huchard
+    given: Marianne
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: 'Exceptions in object modeling: Finding exceptions from the elements of
+    the static object model'
+  title-short: Exceptions in object modeling
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-93'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_5
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/FilhoRFG06
+  type: paper-conference
+  author:
+  - family: Filho
+    given: Fernando Castor
+  - family: Rubira
+    given: Cecília M. F.
+  - family: A. Maranhão Ferreira
+    given: Raquel
+    dropping-particle: de
+  - family: Garcia
+    given: Alessandro
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: 'Aspectizing exception handling: A quantitative study'
+  title-short: Aspectizing exception handling
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-274'
+  volume: '4119'
+  DOI: 10.1007/11818502_14
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/Issarny00
+  type: paper-conference
+  author:
+  - family: Issarny
+    given: Valérie
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Concurrent exception handling
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-127'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_7
+  ISBN: '3-540-41952-7'
+
+- id: conf/ecoopwException/DavidCCRC06
+  type: paper-conference
+  author:
+  - family: David
+    given: Francis M.
+  - family: Carlyle
+    given: Jeffrey C.
+  - family: Chan
+    given: Ellick
+  - family: Raila
+    given: David
+  - family: Campbell
+    given: Roy H.
+  editor:
+  - family: Dony
+    given: Christophe
+  issued:
+  - year: '2006'
+  title: Exception handling in the choices operating system
+  container-title: Advanced topics in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-61'
+  volume: '4119'
+  DOI: 10.1007/11818502_3
+  ISBN: '3-540-37443-4'
+
+- id: conf/ecoopwException/TripathiM00
+  type: paper-conference
+  author:
+  - family: Tripathi
+    given: Anand R.
+  - family: '0002'
+    given: Robert Miller
+  editor:
+  - family: Romanovsky
+    given: Alexander B.
+  issued:
+  - year: '2000'
+  title: Exception handling in agent-oriented systems
+  container-title: Advances in exception handling techniques
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '128-146'
+  volume: '2022'
+  DOI: 10.1007/3-540-45407-1_8
+  ISBN: '3-540-41952-7'
+...

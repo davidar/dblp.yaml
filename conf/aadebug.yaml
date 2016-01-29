@@ -1,0 +1,1831 @@
+---
+references:
+- id: conf/aadebug/FerrandLT00
+  type: paper-conference
+  author:
+  - family: Ferrand
+    given: Gérard
+  - family: Lesaint
+    given: Willy
+  - family: Tessier
+    given: Alexandre
+  issued:
+  - year: '2000'
+  title: Value withdrawal explanation in cSP
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012005
+
+- id: conf/aadebug/ZinASN00
+  type: paper-conference
+  author:
+  - family: Zin
+    given: Abdullah Mohd
+  - family: Aljunid
+    given: Syed Ahmad
+  - family: Shukur
+    given: Zarina
+  - family: Nordin
+    given: Mohd Jan
+  issued:
+  - year: '2000'
+  title: A knowledge-based automated debugger in learning system
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0101008
+
+- id: conf/aadebug/NilssonF93
+  type: paper-conference
+  author:
+  - family: Nilsson
+    given: Henrik
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: 'Lazy algorithmic debugging: Ideas for practical implementation'
+  title-short: Lazy algorithmic debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-134'
+  volume: '749'
+  DOI: 10.1007/BFb0019405
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/BuenoDDFHMP97
+  type: paper-conference
+  author:
+  - family: Bueno
+    given: Francisco
+  - family: Deransart
+    given: Pierre
+  - family: Drabent
+    given: Wlodzimierz
+  - family: Ferrand
+    given: Gérard
+  - family: Hermenegildo
+    given: Manuel V.
+  - family: Maluszynski
+    given: Jan
+  - family: Puebla
+    given: Germán
+  issued:
+  - year: '1997'
+  title: On the role of semantic approximations on validation and diagnosis of contraint
+    logic programs
+  container-title: AADEBUG
+  page: '155-169'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/13/
+
+- id: conf/aadebug/CominiLV95
+  type: paper-conference
+  author:
+  - family: Comini
+    given: Marco
+  - family: Levi
+    given: Giorgio
+  - family: Vitiello
+    given: Giuliana
+  issued:
+  - year: '1995'
+  title: Efficient detection of incompleteness errors in the abstract debugging of
+    logic programs
+  container-title: AADEBUG
+  page: '159-174'
+
+- id: conf/aadebug/ShimomuraOCO95
+  type: paper-conference
+  author:
+  - family: Shimomura
+    given: Takao
+  - family: Oki
+    given: Y.
+  - family: Chikaraishi
+    given: T.
+  - family: Ohta
+    given: T.
+  issued:
+  - year: '1995'
+  title: An algorithmic fault-locating method for procedural languages and its implementation
+    fIND
+  container-title: AADEBUG
+  page: '191-203'
+
+- id: conf/aadebug/KranzlmullerSV00
+  type: paper-conference
+  author:
+  - family: Kranzlmüller
+    given: Dieter
+  - family: Schaubschläger
+    given: Christian
+  - family: Volkert
+    given: Jens
+  issued:
+  - year: '2000'
+  title: A brief overview of the mAD debugging activities
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012012
+
+- id: conf/aadebug/CameraSB05
+  type: paper-conference
+  author:
+  - family: Camera
+    given: Kevin
+  - family: So
+    given: Hayden Kwok-Hay
+  - family: Brodersen
+    given: Robert W.
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: An integrated debugging environment for reprogrammble hardware systems
+  container-title: AADEBUG
+  publisher: ACM
+  page: '111-116'
+  URL: http://doi.acm.org/10.1145/1085130.1085145
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/ConsoleFD93
+  type: paper-conference
+  author:
+  - family: Console
+    given: Luca
+  - family: Friedrich
+    given: Gerhard
+  - family: Dupré
+    given: Daniele Theseider
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Model-based diagnosis meets error diagnosis in logic programs (extended abstract)
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-87'
+  volume: '749'
+  DOI: 10.1007/BFb0019402
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/SzilagyiGM00
+  type: paper-conference
+  author:
+  - family: Szilágyi
+    given: Gyöngyi
+  - family: Gyimóthy
+    given: Tibor
+  - family: Maluszynski
+    given: Jan
+  issued:
+  - year: '2000'
+  title: Slicing of constraint logic programs
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012014
+
+- id: conf/aadebug/Herranz-NievaM00
+  type: paper-conference
+  author:
+  - family: Herranz-Nieva
+    given: Ángel
+  - family: Moreno-Navarro
+    given: Juan José
+  issued:
+  - year: '2000'
+  title: Generation of and debugging with logical pre and post-conditions
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.PL/0101009
+
+- id: conf/aadebug/GoyalS93
+  type: paper-conference
+  author:
+  - family: Goyal
+    given: Anoop
+  - family: Sankar
+    given: Sriram
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: The application of formal specifications to software documentation and debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '333-349'
+  volume: '749'
+  DOI: 10.1007/BFb0019418
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/HoffnerKF95
+  type: paper-conference
+  author:
+  - family: Hoffner
+    given: Tommy
+  - family: Kamkar
+    given: Mariam
+  - family: Fritzson
+    given: Peter
+  issued:
+  - year: '1995'
+  title: Evaluation of program slicing tools
+  container-title: AADEBUG
+  page: '51-69'
+
+- id: conf/aadebug/Korel95
+  type: paper-conference
+  author:
+  - family: Korel
+    given: Bogdan
+  issued:
+  - year: '1995'
+  title: Computation of dynamic slices for programs with arbitrary control-flow
+  container-title: AADEBUG
+  page: '71-86'
+
+- id: conf/aadebug/TobermannB93
+  type: paper-conference
+  author:
+  - family: Tobermann
+    given: Gerhard
+  - family: Beckstein
+    given: Clemens
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: 'What’s in a trace: The box model revisited'
+  title-short: What’s in a trace
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-187'
+  volume: '749'
+  DOI: 10.1007/BFb0019408
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/PlacideFDS95
+  type: paper-conference
+  author:
+  - family: Placide
+    given: P.
+  - family: Florin
+    given: Gerard
+  - family: Duchien
+    given: Laurence
+  - family: Seinturier
+    given: Lionel
+  issued:
+  - year: '1995'
+  title: A consistent global state algorithm to debug distributed object-oriented
+    applications
+  container-title: AADEBUG
+  page: '233-247'
+
+- id: conf/aadebug/Lencevicius00
+  type: paper-conference
+  author:
+  - family: Lencevicius
+    given: Raimondas
+  issued:
+  - year: '2000'
+  title: On-the-fly query-based debugging with examples
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011021
+
+- id: conf/aadebug/KuchcinskiDM93
+  type: paper-conference
+  author:
+  - family: Kuchcinski
+    given: Krzysztof
+  - family: Drabent
+    given: Wlodzimierz
+  - family: Maluszynski
+    given: Jan
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Automatic diagnosis of vLSI digital circuits using algorithmic debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '350-367'
+  volume: '749'
+  DOI: 10.1007/BFb0019419
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/ShyeIRC05
+  type: paper-conference
+  author:
+  - family: Shye
+    given: Alex
+  - family: Iyer
+    given: Matthew
+  - family: Reddi
+    given: Vijay Janapa
+  - family: Connors
+    given: Daniel A.
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Code coverage testing using hardware performance monitoring support
+  container-title: AADEBUG
+  publisher: ACM
+  page: '159-163'
+  URL: http://doi.acm.org/10.1145/1085130.1085151
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Ferrand93
+  type: paper-conference
+  author:
+  - family: Ferrand
+    given: Gérard
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: The notions of symptom and error in declarative diagnosis of logic programs
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-57'
+  volume: '749'
+  DOI: 10.1007/BFb0019399
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/DallmeierLZ05
+  type: paper-conference
+  author:
+  - family: Dallmeier
+    given: Valentin
+  - family: Lindig
+    given: Christian
+  - family: Zeller
+    given: Andreas
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Lightweight bug localization with aMPLE
+  container-title: AADEBUG
+  publisher: ACM
+  page: '99-104'
+  URL: http://doi.acm.org/10.1145/1085130.1085143
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/1993
+  type: book
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Automated and algorithmic debugging, first international workshop, aADEBUG’93,
+    linköping, sweden, may 3-5, 1993, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '749'
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/AugustonH97
+  type: paper-conference
+  author:
+  - family: Auguston
+    given: Mikhail
+  - family: Hon
+    given: Miu Har
+  issued:
+  - year: '1997'
+  title: Assertions for dynamic shape analysis of list data structures
+  container-title: AADEBUG
+  page: '37-42'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/04/
+
+- id: conf/aadebug/Pugh05
+  type: paper-conference
+  author:
+  - family: Pugh
+    given: William
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: 'Keynote talk: Advice to bug hunters'
+  title-short: Keynote talk
+  container-title: AADEBUG
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1085130.1085131
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/RonsseB00
+  type: paper-conference
+  author:
+  - family: Ronsse
+    given: Michiel
+  - family: Bosschere
+    given: Koenraad De
+  issued:
+  - year: '2000'
+  title: Non-intrusive on-the-fly data race detection using execution replay
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011005
+
+- id: conf/aadebug/SivagurunathanHD97
+  type: paper-conference
+  author:
+  - family: Sivagurunathan
+    given: Yoga
+  - family: Harman
+    given: Mark
+  - family: Danicic
+    given: Sebastian
+  issued:
+  - year: '1997'
+  title: Slicing, i/O and the implicit state
+  container-title: AADEBUG
+  page: '59-68'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/06/
+
+- id: conf/aadebug/LenceviciusRY00
+  type: paper-conference
+  author:
+  - family: Lencevicius
+    given: Raimondas
+  - family: Ran
+    given: Alexander
+  - family: Yairi
+    given: Rahav
+  issued:
+  - year: '2000'
+  title: Apache web server execution tracing using third eye
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011022
+
+- id: conf/aadebug/GyimothyP95
+  type: paper-conference
+  author:
+  - family: Gyimóthy
+    given: Tibor
+  - family: Paakki
+    given: Jukka
+  issued:
+  - year: '1995'
+  title: Static slicing of logic programs
+  container-title: AADEBUG
+  page: '87-103'
+
+- id: conf/aadebug/Ducasse95
+  type: paper-conference
+  author:
+  - family: Ducassé
+    given: Mireille
+  issued:
+  - year: '1995'
+  title: Automated debugging extensions of the opium trace analyser
+  container-title: AADEBUG
+  page: '293-308'
+
+- id: conf/aadebug/PereiraDA93
+  type: paper-conference
+  author:
+  - family: Pereira
+    given: Luís Moniz
+  - family: Damásio
+    given: Carlos Viegas
+  - family: Alferes
+    given: José Júlio
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Debugging by diagnosing assumptions
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-74'
+  volume: '749'
+  DOI: 10.1007/BFb0019400
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/MateisSWW00
+  type: paper-conference
+  author:
+  - family: Mateis
+    given: Cristinel
+  - family: Stumptner
+    given: Markus
+  - family: Wieland
+    given: Dominik
+  - family: Wotawa
+    given: Franz
+  issued:
+  - year: '2000'
+  title: Model-based debugging of java programs
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011027
+
+- id: conf/aadebug/Heyer95
+  type: paper-conference
+  author:
+  - family: Heyer
+    given: Tim
+  issued:
+  - year: '1995'
+  title: 'Debugging in gAPLog: A model for execution of logic programs with delayed
+    function calls'
+  title-short: Debugging in gAPLog
+  container-title: AADEBUG
+  page: '35-50'
+
+- id: conf/aadebug/Zhang05
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Xiangyu
+  - family: He
+    given: Haifeng
+  - family: Gupta
+    given: Neelam
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Experimental evaluation of using dynamic slices for fault location
+  container-title: AADEBUG
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/1085130.1085135
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/TobermannB95
+  type: paper-conference
+  author:
+  - family: Tobermann
+    given: Gerhard
+  - family: Beckstein
+    given: Clemens
+  issued:
+  - year: '1995'
+  title: Algorithmic debugging with rISC
+  container-title: AADEBUG
+  page: '175-190'
+
+- id: conf/aadebug/HirunkittiH93
+  type: paper-conference
+  author:
+  - family: Hirankitti
+    given: Visit
+  - family: Hogger
+    given: Christopher J.
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: A generalised query minimisation for program debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-170'
+  volume: '749'
+  DOI: 10.1007/BFb0019407
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/MaraninchiG00
+  type: paper-conference
+  author:
+  - family: Maraninchi
+    given: Florence
+  - family: Gaucher
+    given: Fabien
+  issued:
+  - year: '2000'
+  title: 'Step-wise + algorithmic debugging for reactive programs: Ludic, a debugger
+    for lustre'
+  title-short: Step-wise + algorithmic debugging for reactive programs
+  container-title: AADEBUG
+
+- id: conf/aadebug/Tip93
+  type: paper-conference
+  author:
+  - family: Tip
+    given: Frank
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Animators for generated programming environments
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '241-254'
+  volume: '749'
+  DOI: 10.1007/BFb0019412
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/PopF05
+  type: paper-conference
+  author:
+  - family: Pop
+    given: Adrian
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Debugging natural semantics specifications
+  container-title: AADEBUG
+  publisher: ACM
+  page: '77-82'
+  URL: http://doi.acm.org/10.1145/1085130.1085140
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Binks93
+  type: paper-conference
+  author:
+  - family: Binks
+    given: Dominic
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Declarative debugging of abstract data types in gödel
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-205'
+  volume: '749'
+  DOI: 10.1007/BFb0019409
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/El-KhatibPS05
+  type: paper-conference
+  author:
+  - family: El-Khatib
+    given: Omar
+  - family: Pontelli
+    given: Enrico
+  - family: Son
+    given: Tran Cao
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Justification and debugging of answer set programs in aSP
+  container-title: AADEBUG
+  publisher: ACM
+  page: '49-58'
+  URL: http://doi.acm.org/10.1145/1085130.1085137
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/PaikCBCL95
+  type: paper-conference
+  author:
+  - family: Paik
+    given: Eui Hyun
+  - family: Chung
+    given: Young-Sik
+  - family: Byun
+    given: YoungJoon
+  - family: Choi
+    given: Wan
+  - family: Lee
+    given: Byung-Sun
+  issued:
+  - year: '1995'
+  title: 'CHD: A cross debugger for concurrent cHILL programs'
+  title-short: CHD
+  container-title: AADEBUG
+  page: '317-318'
+
+- id: conf/aadebug/SmithW95
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Philip A.
+  - family: Webb
+    given: Geoffrey I.
+  issued:
+  - year: '1995'
+  title: Transparency debugging with explanations for novice programmers
+  container-title: AADEBUG
+  page: '105-118'
+
+- id: conf/aadebug/Ruppel95
+  type: paper-conference
+  author:
+  - family: Rüppel
+    given: Peter
+  issued:
+  - year: '1995'
+  title: A class library for the automization of class testing
+  container-title: AADEBUG
+  page: '313-314'
+
+- id: conf/aadebug/Garcia-MartinM93
+  type: paper-conference
+  author:
+  - family: García-Martín
+    given: Julio
+  - family: Moreno-Navarro
+    given: Juan José
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: 'Visualization as debugging: Understanding/Debugging the warren abstract
+    machine'
+  title-short: Visualization as debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-272'
+  volume: '749'
+  DOI: 10.1007/BFb0019413
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/PatilF95
+  type: paper-conference
+  author:
+  - family: Patil
+    given: Harish
+  - family: Fischer
+    given: Charles N.
+  issued:
+  - year: '1995'
+  title: Efficient run-time monitoring using shadow processing
+  container-title: AADEBUG
+  page: '119-132'
+
+- id: conf/aadebug/MacLartySB05
+  type: paper-conference
+  author:
+  - family: MacLarty
+    given: Ian
+  - family: Somogyi
+    given: Zoltan
+  - family: Brown
+    given: Mark
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Divide-and-query and subterm dependency tracking in the mercury declarative
+    debugger
+  container-title: AADEBUG
+  publisher: ACM
+  page: '59-68'
+  URL: http://doi.acm.org/10.1145/1085130.1085138
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/TronconJ05
+  type: paper-conference
+  author:
+  - family: Tronçon
+    given: Remko
+  - family: Janssens
+    given: Gerda
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Analyzing & debugging iLP data mining query execution
+  container-title: AADEBUG
+  publisher: ACM
+  page: '105-110'
+  URL: http://doi.acm.org/10.1145/1085130.1085144
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/FromentinPR95
+  type: paper-conference
+  author:
+  - family: Fromentin
+    given: Eddy
+  - family: Plouzeau
+    given: Noël
+  - family: Raynal
+    given: Michel
+  issued:
+  - year: '1995'
+  title: Replaying distributed executions
+  container-title: AADEBUG
+  page: '1-18'
+
+- id: conf/aadebug/2005
+  type: book
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Proceedings of the sixth international workshop on automated debugging, aADEBUG
+    2005, monterey, california, uSA, september 19-21, 2005
+  publisher: ACM
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Korel93
+  type: paper-conference
+  author:
+  - family: Korel
+    given: Bogdan
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Identifying faulty modifications in software maintenance
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '315-332'
+  volume: '749'
+  DOI: 10.1007/BFb0019417
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/Liver95
+  type: paper-conference
+  author:
+  - family: Liver
+    given: Beat
+  issued:
+  - year: '1995'
+  title: Functional diagnosis of sequential programs
+  container-title: AADEBUG
+  page: '145-157'
+
+- id: conf/aadebug/Gross97
+  type: paper-conference
+  author:
+  - family: Gross
+    given: Thomas R.
+  issued:
+  - year: '1997'
+  title: Bisection debugging
+  container-title: AADEBUG
+  page: '185-191'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/15/
+
+- id: conf/aadebug/Schumann00
+  type: paper-conference
+  author:
+  - family: Schumann
+    given: Johann
+  issued:
+  - year: '2000'
+  title: Automatic debugging support for uML designs
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011017
+
+- id: conf/aadebug/Voas95
+  type: paper-conference
+  author:
+  - family: Voas
+    given: Jeffrey M.
+  issued:
+  - year: '1995'
+  title: Software testability measurement for assertion placement and fault localization
+  container-title: AADEBUG
+  page: '133-144'
+
+- id: conf/aadebug/BernsteinS95
+  type: paper-conference
+  author:
+  - family: Bernstein
+    given: Karen L.
+  - family: Stark
+    given: Eugene W.
+  issued:
+  - year: '1995'
+  title: 'Formally defining debuggers: A comparison of three approaches'
+  title-short: Formally defining debuggers
+  container-title: AADEBUG
+  page: '261-275'
+
+- id: conf/aadebug/KorelR97
+  type: paper-conference
+  author:
+  - family: Korel
+    given: Bogdan
+  - family: Rilling
+    given: Juergen
+  issued:
+  - year: '1997'
+  title: Application of dynamic slicing in program debugging
+  container-title: AADEBUG
+  page: '43-58'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/05/
+
+- id: conf/aadebug/Auguston00
+  type: paper-conference
+  author:
+  - family: Auguston
+    given: Mikhail
+  issued:
+  - year: '2000'
+  title: Assertion checker for the c programming language based on computations over
+    event traces
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0101007
+
+- id: conf/aadebug/Ducasse93
+  type: paper-conference
+  author:
+  - family: Ducassé
+    given: Mireille
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: A pragmatic survey of automated debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '749'
+  DOI: 10.1007/BFb0019397
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/AlagerV93
+  type: paper-conference
+  author:
+  - family: Alager
+    given: Sridhar
+  - family: Venkatsean
+    given: S.
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Hierarchy in testing distributed programs
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-116'
+  volume: '749'
+  DOI: 10.1007/BFb0019404
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/SterlingO05
+  type: paper-conference
+  author:
+  - family: Sterling
+    given: Chad D.
+  - family: Olsson
+    given: Ronald A.
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Automated bug isolation via program chipping
+  container-title: AADEBUG
+  publisher: ACM
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/1085130.1085134
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/RonsseBK00
+  type: paper-conference
+  author:
+  - family: Ronsse
+    given: Michiel
+  - family: Bosschere
+    given: Koenraad De
+  - family: Kergommeaux
+    given: Jacques Chassin
+    dropping-particle: de
+  issued:
+  - year: '2000'
+  title: Execution replay and debugging
+  container-title: AADEBUG
+  URL: http://arxiv.orgrxiv.org/abs/cs.SE/0011006
+
+- id: conf/aadebug/Fabris97
+  type: paper-conference
+  author:
+  - family: Fabris
+    given: Massimo
+  issued:
+  - year: '1997'
+  title: 'Constraint programs debugging: Current activities inside the diSCiPl esprit
+    program'
+  title-short: Constraint programs debugging
+  container-title: AADEBUG
+  page: '103-122'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/10/
+
+- id: conf/aadebug/MalletD97
+  type: paper-conference
+  author:
+  - family: Mallet
+    given: Sarah
+  - family: Ducassé
+    given: Mireille
+  issued:
+  - year: '1997'
+  title: 'DDB trees: A basis for deductive database explanations'
+  title-short: DDB trees
+  container-title: AADEBUG
+  page: '87-102'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/09/
+
+- id: conf/aadebug/Lutz93
+  type: paper-conference
+  author:
+  - family: Lutz
+    given: Rudi
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Towards a plan calculus based intelligent debugging system
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-304'
+  volume: '749'
+  DOI: 10.1007/BFb0019415
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/Oberhuber95
+  type: paper-conference
+  author:
+  - family: Oberhuber
+    given: Michael
+  issued:
+  - year: '1995'
+  title: Elimination of nondeterminacy for testing and debugging parallel programs
+  container-title: AADEBUG
+  page: '315-316'
+
+- id: conf/aadebug/Nikolik05
+  type: paper-conference
+  author:
+  - family: Nikolik
+    given: Borislav
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Convergence debugging
+  container-title: AADEBUG
+  publisher: ACM
+  page: '89-98'
+  URL: http://doi.acm.org/10.1145/1085130.1085142
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/HoodJ00
+  type: paper-conference
+  author:
+  - family: Hood
+    given: Robert
+  - family: Jost
+    given: Gabriele
+  issued:
+  - year: '2000'
+  title: Support for debugging automatically parallelized programs
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012006
+
+- id: conf/aadebug/CheonL05
+  type: paper-conference
+  author:
+  - family: Cheon
+    given: Yoonsik
+  - family: Leavens
+    given: Gary T.
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: A contextual interpretation of undefinedness for runtime assertion checking
+  container-title: AADEBUG
+  publisher: ACM
+  page: '149-158'
+  URL: http://doi.acm.org/10.1145/1085130.1085150
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/CleveZ00
+  type: paper-conference
+  author:
+  - family: Cleve
+    given: Holger
+  - family: Zeller
+    given: Andreas
+  issued:
+  - year: '2000'
+  title: Finding failure causes through automated testing
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012009
+
+- id: conf/aadebug/SparudN95
+  type: paper-conference
+  author:
+  - family: Sparud
+    given: Jan
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '1995'
+  title: The architecture of a debugger for lazy functional languages
+  container-title: AADEBUG
+  page: '19-34'
+
+- id: conf/aadebug/Gerndt00
+  type: paper-conference
+  author:
+  - family: Gerndt
+    given: Michael
+  issued:
+  - year: '2000'
+  title: Towards automatic performance debugging tools
+  container-title: AADEBUG
+
+- id: conf/aadebug/Reiss05
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Specifying and checking component usage
+  container-title: AADEBUG
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/1085130.1085133
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/SmithK00
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Raymond
+  - family: Korel
+    given: Bogdan
+  issued:
+  - year: '2000'
+  title: Slicing event traces of large software systems
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0101005
+
+- id: conf/aadebug/Garg97
+  type: paper-conference
+  author:
+  - family: Garg
+    given: Vijay K.
+  issued:
+  - year: '1997'
+  title: Observation and control for debugging distributed computations
+  container-title: AADEBUG
+  page: '1-12'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/01/
+
+- id: conf/aadebug/FerrandT97
+  type: paper-conference
+  author:
+  - family: Ferrand
+    given: Gérard
+  - family: Tessier
+    given: Alexandre
+  issued:
+  - year: '1997'
+  title: Positive and negative diagnosis for constraint logic programs in terms of
+    proof skeletons
+  container-title: AADEBUG
+  page: '141-153'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/12/
+
+- id: conf/aadebug/Allemang95
+  type: paper-conference
+  author:
+  - family: Allemang
+    given: Dean
+  issued:
+  - year: '1995'
+  title: Using functional representations for program debugging
+  container-title: AADEBUG
+  page: '311-312'
+
+- id: conf/aadebug/ShahmehriKF93
+  type: paper-conference
+  author:
+  - family: Shahmehri
+    given: Nahid
+  - family: Kamkar
+    given: Mariam
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Usability criteria for automated debugging systems
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-39'
+  volume: '749'
+  DOI: 10.1007/BFb0019398
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/Saito05
+  type: paper-conference
+  author:
+  - family: Saito
+    given: Yasushi
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: 'Jockey: A user-space library for record-replay debugging'
+  title-short: Jockey
+  container-title: AADEBUG
+  publisher: ACM
+  page: '69-76'
+  URL: http://doi.acm.org/10.1145/1085130.1085139
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/BoothJ97
+  type: paper-conference
+  author:
+  - family: Booth
+    given: Simon P.
+  - family: Jones
+    given: Simon B.
+  issued:
+  - year: '1997'
+  title: Walk backwards to happiness - debugging by time travel
+  container-title: AADEBUG
+  page: '171-183'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/14/
+
+- id: conf/aadebug/Reiss93
+  type: paper-conference
+  author:
+  - family: Reiss
+    given: Steven P.
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Trace-based debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '305-314'
+  volume: '749'
+  DOI: 10.1007/BFb0019416
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/ByersEK97
+  type: paper-conference
+  author:
+  - family: Byers
+    given: David
+  - family: Engström
+    given: Magnus
+  - family: Kamkar
+    given: Mariam
+  issued:
+  - year: '1997'
+  title: The design of a test case definition language
+  container-title: AADEBUG
+  page: '69-78'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/07/
+
+- id: conf/aadebug/ByersK97
+  type: paper-conference
+  author:
+  - family: Byers
+    given: David
+  - family: Kamkar
+    given: Mariam
+  issued:
+  - year: '1997'
+  title: A hybrid approach to propagation analysis
+  container-title: AADEBUG
+  page: '193-197'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/16/
+
+- id: conf/aadebug/AugustonBMNRSS95
+  type: paper-conference
+  author:
+  - family: Auguston
+    given: Mikhail
+  - family: Banerjee
+    given: Subhankar
+  - family: Mamnani
+    given: Manish
+  - family: Nabi
+    given: Ghulam
+  - family: Reinfelds
+    given: Juris
+  - family: Sarkans
+    given: Ugis
+  - family: Strnad
+    given: Ivan
+  issued:
+  - year: '1995'
+  title: AUI - the debugger and assertion checker for the awk programming language
+  container-title: AADEBUG
+  page: '309-310'
+
+- id: conf/aadebug/Auguston95
+  type: paper-conference
+  author:
+  - family: Auguston
+    given: Mikhail
+  issued:
+  - year: '1995'
+  title: Program behavior model based on event grammar and its application for debugging
+    automation
+  container-title: AADEBUG
+  page: '277-291'
+
+- id: conf/aadebug/2000
+  type: book
+  editor:
+  - family: Ducassé
+    given: Mireille
+  issued:
+  - year: '2000'
+  title: Proceedings of the fourth international workshop on automated debugging,
+    aADEBUG 2000, munich, germany, august 28-30th, 2000
+
+- id: conf/aadebug/FromentinJJR95
+  type: paper-conference
+  author:
+  - family: Fromentin
+    given: Eddy
+  - family: Jard
+    given: Claude
+  - family: Jourdan
+    given: Guy-Vincent
+  - family: Raynal
+    given: Michel
+  issued:
+  - year: '1995'
+  title: Recognition of patterns on control flows for debugging distributed executions
+  container-title: AADEBUG
+  page: '221-232'
+
+- id: conf/aadebug/SutterBRB05
+  type: paper-conference
+  author:
+  - family: Sutter
+    given: Bjorn De
+  - family: Bus
+    given: Bruno De
+  - family: Ronsse
+    given: Michiel
+  - family: Bosschere
+    given: Koen De
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Backtracking and dynamic patching for free
+  container-title: AADEBUG
+  publisher: ACM
+  page: '83-88'
+  URL: http://doi.acm.org/10.1145/1085130.1085141
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/MurrayP00
+  type: paper-conference
+  author:
+  - family: Murray
+    given: David J.
+  - family: Parson
+    given: Dale E.
+  issued:
+  - year: '2000'
+  title: Automated debugging in java using oCL and jDI
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0101002
+
+- id: conf/aadebug/PeischlW05
+  type: paper-conference
+  author:
+  - family: Peischl
+    given: Bernhard
+  - family: Wotawa
+    given: Franz
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Error traces in model-based debugging of hardware description languages
+  container-title: AADEBUG
+  publisher: ACM
+  page: '43-48'
+  URL: http://doi.acm.org/10.1145/1085130.1085136
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Lindig05
+  type: paper-conference
+  author:
+  - family: Lindig
+    given: Christian
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Random testing of c calling conventions
+  container-title: AADEBUG
+  publisher: ACM
+  page: '3-12'
+  URL: http://doi.acm.org/10.1145/1085130.1085132
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/ParsonSB00
+  type: paper-conference
+  author:
+  - family: Parson
+    given: Dale E.
+  - family: Schlieder
+    given: Bryan
+  - family: Beatty
+    given: Paul
+  issued:
+  - year: '2000'
+  title: Extension language automation of embedded system debugging
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011010
+
+- id: conf/aadebug/Adayapalam00
+  type: paper-conference
+  author:
+  - family: Adayapalam
+    given: Srikanth Sankaran
+  issued:
+  - year: '2000'
+  title: 'In search of yeti: Footprint analysis with wildebeest'
+  title-short: In search of yeti
+  container-title: AADEBUG
+
+- id: conf/aadebug/WestmanF93
+  type: paper-conference
+  author:
+  - family: Westman
+    given: Rickard
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Graphical user interfaces for algorithmic debugging
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-286'
+  volume: '749'
+  DOI: 10.1007/BFb0019414
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/Fromherz93
+  type: paper-conference
+  author:
+  - family: Fromherz
+    given: Markus P. J.
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Towards declarative debugging of concurrent constraint programs
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-100'
+  volume: '749'
+  DOI: 10.1007/BFb0019403
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/KumarCS05
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Naveen Kumar
+  - family: Childers
+    given: Bruce R.
+  - family: Soffa
+    given: Mary Lou
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: 'Tdb: A source-level debugger for dynamically translated programs'
+  title-short: Tdb
+  container-title: AADEBUG
+  publisher: ACM
+  page: '123-132'
+  URL: http://doi.acm.org/10.1145/1085130.1085147
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Kunz95
+  type: paper-conference
+  author:
+  - family: Kunz
+    given: Thomas
+  issued:
+  - year: '1995'
+  title: High-level views of distributed executions
+  container-title: AADEBUG
+  page: '205-219'
+
+- id: conf/aadebug/LiangX05
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Donglin
+  - family: '0002'
+    given: Kai Xu
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: Debugging object-oriented programs with behavior views
+  container-title: AADEBUG
+  publisher: ACM
+  page: '133-142'
+  URL: http://doi.acm.org/10.1145/1085130.1085148
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Elms97
+  type: paper-conference
+  author:
+  - family: Elms
+    given: Kim
+  issued:
+  - year: '1997'
+  title: Debugging optimised code using function interpretation
+  container-title: AADEBUG
+  page: '27-36'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/03/
+
+- id: conf/aadebug/Jahier00
+  type: paper-conference
+  author:
+  - family: Jahier
+    given: Erwan
+  issued:
+  - year: '2000'
+  title: Collecting graphical abstract views of mercury program executions
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0010038
+
+- id: conf/aadebug/JonesK97
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Richard W. M.
+  - family: Kelly
+    given: Paul H. J.
+  issued:
+  - year: '1997'
+  title: Backwards-compatible bounds checking for arrays and pointers in c programs
+  container-title: AADEBUG
+  page: '13-26'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/02/
+
+- id: conf/aadebug/BallH93
+  type: paper-conference
+  author:
+  - family: Ball
+    given: Thomas
+  - family: Horwitz
+    given: Susan
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Slicing programs with arbitrary control-flow
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '206-222'
+  volume: '749'
+  DOI: 10.1007/BFb0019410
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/OuabdesselamP95
+  type: paper-conference
+  author:
+  - family: Ouabdesselam
+    given: Farid
+  - family: Parissis
+    given: Ioannis
+  issued:
+  - year: '1995'
+  title: Testing techniques for data-flow synchronous programs
+  container-title: AADEBUG
+  page: '249-260'
+
+- id: conf/aadebug/IkezoeSOWS00
+  type: paper-conference
+  author:
+  - family: Ikezoe
+    given: Yohei
+  - family: Sasaki
+    given: Akira
+  - family: Ohshima
+    given: Yoshiki
+  - family: Wakita
+    given: Ken
+  - family: Sassa
+    given: Masataka
+  issued:
+  - year: '2000'
+  title: Systematic debugging of attribute grammars
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0011029
+
+- id: conf/aadebug/LangevineD05
+  type: paper-conference
+  author:
+  - family: Langevine
+    given: Ludovic
+  - family: Ducassé
+    given: Mireille
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: A tracer driver for hybrid execution analyses
+  container-title: AADEBUG
+  publisher: ACM
+  page: '143-148'
+  URL: http://doi.acm.org/10.1145/1085130.1085149
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/HoH05
+  type: paper-conference
+  author:
+  - family: Ho
+    given: Alex
+  - family: Hand
+    given: Steven
+  editor:
+  - family: Jeffery
+    given: Clinton
+  issued:
+  - year: '2005'
+  title: On the design of a pervasive debugger
+  container-title: AADEBUG
+  publisher: ACM
+  page: '117-122'
+  URL: http://doi.acm.org/10.1145/1085130.1085146
+  ISBN: '1-59593-050-7'
+
+- id: conf/aadebug/Cheng93
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Jingde
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Slicing concurrent programs - a graph-theoretical approach
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-240'
+  volume: '749'
+  DOI: 10.1007/BFb0019411
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/LeeD93
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Yuh-Jeng
+  - family: Dershowitz
+    given: Nachum
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: Debugging logic programs using specifications
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-84'
+  volume: '749'
+  DOI: 10.1007/BFb0019401
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/AjiroU00
+  type: paper-conference
+  author:
+  - family: Ajiro
+    given: Yasuhiro
+  - family: Ueda
+    given: Kazunori
+  issued:
+  - year: '2000'
+  title: Kima- an automated error correction system for concurrent logic programs
+  container-title: AADEBUG
+  URL: http://arxiv.org/abs/cs.SE/0012007
+
+- id: conf/aadebug/HoweS97
+  type: paper-conference
+  author:
+  - family: Howe
+    given: Adele E.
+  - family: Somlo
+    given: Gabriel
+  issued:
+  - year: '1997'
+  title: Modeling intelligent system execution as state transition diagrams to support
+    debugging
+  container-title: AADEBUG
+  page: '79-86'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/08/
+
+- id: conf/aadebug/HazanM93
+  type: paper-conference
+  author:
+  - family: Hazan
+    given: Jonathan E.
+  - family: Morgan
+    given: Richard G.
+  editor:
+  - family: Fritszon
+    given: Peter
+  issued:
+  - year: '1993'
+  title: The location of errors in functional programs
+  container-title: AADEBUG
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-152'
+  volume: '749'
+  DOI: 10.1007/BFb0019406
+  ISBN: '3-540-57417-4'
+
+- id: conf/aadebug/BoyeDM97
+  type: paper-conference
+  author:
+  - family: Boye
+    given: Johan
+  - family: Drabent
+    given: Wlodzimierz
+  - family: Maluszynski
+    given: Jan
+  issued:
+  - year: '1997'
+  title: 'Declarative diagnosis of contraint programs: An assertion-based approach'
+  title-short: Declarative diagnosis of contraint programs
+  container-title: AADEBUG
+  page: '123-140'
+  URL: http://www.ep.liu.se/ea/cis/1997/009/11/
+...

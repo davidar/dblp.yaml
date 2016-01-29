@@ -1,0 +1,792 @@
+---
+references:
+- id: conf/iwssd/BrabermanP00
+  type: paper-conference
+  author:
+  - family: Braberman
+    given: Víctor A.
+  - family: Pieniazek
+    given: Fabio
+  issued:
+  - year: '2000'
+  title: Duration properties over real time system designs
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '51-62'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857225
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/RazS00
+  type: paper-conference
+  author:
+  - family: Raz
+    given: Orna
+  - family: Shaw
+    given: Mary
+  issued:
+  - year: '2000'
+  title: An approach to preserving sufficient correctness in open resource coalitions
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '159-170'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857208
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Maibaum93
+  type: paper-conference
+  author:
+  - family: Maibaum
+    given: T. S. E.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Taking more of the soft out of software engineering
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '2-9'
+
+- id: conf/iwssd/BuyS93
+  type: paper-conference
+  author:
+  - family: Buy
+    given: Ugo A.
+  - family: Sloan
+    given: Robert H.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: A petri-net -based approach to real-time program analysis
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '56-61'
+
+- id: conf/iwssd/CunninghamC93
+  type: paper-conference
+  author:
+  - family: Cunningham
+    given: H. Conrad
+  - family: Cai
+    given: Yinxiu
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Specification and refinement of a message router
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '20-29'
+
+- id: conf/iwssd/BricconiTN00
+  type: paper-conference
+  author:
+  - family: Bricconi
+    given: Giovanni
+  - family: Tracanella
+    given: Emma
+  - family: Nitto
+    given: Elisabetta Di
+  issued:
+  - year: '2000'
+  title: Issues in analyzing the behavior of event dispatching systems
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '95-104'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857221
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/LiuDS00
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Jing
+  - family: Dong
+    given: Jin Song
+  - family: '0002'
+    given: Jing Sun
+  issued:
+  - year: '2000'
+  title: TRMCS in tCOZ
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '63-74'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857228
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Faulstich-Brady93
+  type: paper-conference
+  author:
+  - family: Faulstich-Brady
+    given: Alice
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: A taxonomy of inheritance semantics
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '194-203'
+
+- id: conf/iwssd/CornfordFKLSK00
+  type: paper-conference
+  author:
+  - family: Cornford
+    given: Steven L.
+  - family: Feather
+    given: Martin S.
+  - family: Kelly
+    given: John C.
+  - family: Larson
+    given: Timothy W.
+  - family: Sigal
+    given: Burton
+  - family: Kiper
+    given: James D.
+  issued:
+  - year: '2000'
+  title: Design and development assessment
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '105-114'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857218
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/SheldonGB00
+  type: paper-conference
+  author:
+  - family: Sheldon
+    given: Frederick T.
+  - family: Greiner
+    given: Stefan
+  - family: Benzinger
+    given: Matthias
+  issued:
+  - year: '2000'
+  title: Specification, safety and reliability analysis using stochastic petri net
+    models
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '123-132'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857219
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Corbett93
+  type: paper-conference
+  author:
+  - family: Corbett
+    given: James C.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Identical tasks and counter variables in an integer programming-based approach
+    to verification
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '100-109'
+
+- id: conf/iwssd/1993
+  type: book
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Proceedings of the 7th international workshop on software specification and
+    design, redondo beach, cA, december 1993
+  publisher: IEEE Computer Society
+
+- id: conf/iwssd/MageeKNBS00
+  type: paper-conference
+  author:
+  - family: Magee
+    given: Jeff
+  - family: Kramer
+    given: Jeff
+  - family: Nuseibeh
+    given: Bashar
+  - family: Bush
+    given: David
+  - family: Sonander
+    given: Julia
+  issued:
+  - year: '2000'
+  title: 'Hybrid model visualization in requirements and design: A preliminary investigation'
+  title-short: Hybrid model visualization in requirements and design
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '3-10'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857223
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Wieringa00
+  type: paper-conference
+  author:
+  - family: Wieringa
+    given: Roel
+  issued:
+  - year: '2000'
+  title: 'The declarative problem frame: Designing systems that create and use norms'
+  title-short: The declarative problem frame
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '75-86'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857215
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/MarcaM93
+  type: paper-conference
+  author:
+  - family: Marca
+    given: David A.
+  - family: McGowan
+    given: Clement L.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Specifications approaches express different world hypotheses
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '214-223'
+
+- id: conf/iwssd/CioffiC00
+  type: paper-conference
+  author:
+  - family: Cioffi
+    given: Mauro
+  - family: Corradini
+    given: Flavio
+  issued:
+  - year: '2000'
+  title: Specification and analysis of timed and functional tRMCS behaviours
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '31-38'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857227
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Glinz00
+  type: paper-conference
+  author:
+  - family: Glinz
+    given: Martin
+  issued:
+  - year: '2000'
+  title: Problems and deficiencies of uML as a requirements specification language
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '11-22'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857222
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/IllaFP00
+  type: paper-conference
+  author:
+  - family: Illa
+    given: Xavier Burgués
+  - family: Franch
+    given: Xavier
+  - family: Pastor
+    given: Joan Antoni
+  issued:
+  - year: '2000'
+  title: Formalising eRP selection criteria
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '115-122'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857217
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/PonsGB00
+  type: paper-conference
+  author:
+  - family: Pons
+    given: Claudia
+  - family: Giandini
+    given: Roxana S.
+  - family: Baum
+    given: Gabriel
+  issued:
+  - year: '2000'
+  title: Dependency relations between models in the unified process
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '149-158'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857213
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/BerryK00
+  type: paper-conference
+  author:
+  - family: Berry
+    given: Daniel M.
+  - family: Kamsties
+    given: Erik
+  issued:
+  - year: '2000'
+  title: The dangerous ’all’ in specifications
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '191-194'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857210
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/SoniNH93
+  type: paper-conference
+  author:
+  - family: Soni
+    given: Dilip
+  - family: Nord
+    given: Robert L.
+  - family: Hsu
+    given: Liang H.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: An empirical approach to software architectures
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '47-51'
+
+- id: conf/iwssd/NuseibehFK93
+  type: paper-conference
+  author:
+  - family: Nuseibeh
+    given: Bashar
+  - family: Finkelstein
+    given: Anthony
+  - family: Kramer
+    given: Jeff
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Fine-grain process modelling
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '42-46'
+
+- id: conf/iwssd/DiasV00
+  type: paper-conference
+  author:
+  - family: Dias
+    given: Marcio S.
+  - family: Vieira
+    given: Marlon E. R.
+  issued:
+  - year: '2000'
+  title: Software architecture analysis based on statechart semantics
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '133-140'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857220
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Menzies00
+  type: paper-conference
+  author:
+  - family: Menzies
+    given: Tim
+  issued:
+  - year: '2000'
+  title: The complexity of tRMCS-like spiral specification
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '183-190'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857211
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/SaekiHU93
+  type: paper-conference
+  author:
+  - family: Saeki
+    given: Motoshi
+  - family: Hiroi
+    given: Takeshi
+  - family: Ugai
+    given: Takanori
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: 'Reflective specification: Applying a reflective language to formal specification'
+  title-short: Reflective specification
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '204-213'
+
+- id: conf/iwssd/GhezziP93
+  type: paper-conference
+  author:
+  - family: Ghezzi
+    given: Carlo
+  - family: Pezzè
+    given: Mauro
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Towards extensible graphical formalisms
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '69-77'
+
+- id: conf/iwssd/CassO00
+  type: paper-conference
+  author:
+  - family: Cass
+    given: Aaron G.
+  - family: Osterweil
+    given: Leon J.
+  issued:
+  - year: '2000'
+  title: Design guidance through the controlled application of constraints
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '195-'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857207
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Ghose00
+  type: paper-conference
+  author:
+  - family: Ghose
+    given: Aditya K.
+  issued:
+  - year: '2000'
+  title: Formal tools for managing inconsistency and change in rE
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '171-182'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857209
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/GarlanK00
+  type: paper-conference
+  author:
+  - family: Garlan
+    given: David
+  - family: Khersonsky
+    given: Serge
+  issued:
+  - year: '2000'
+  title: Model checking implicit-invocation systems
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '23-30'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857224
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/BasinBKM93
+  type: paper-conference
+  author:
+  - family: Basin
+    given: David A.
+  - family: Bundy
+    given: Alan
+  - family: Kraan
+    given: Ina
+  - family: Matthews
+    given: Seán
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: A framework for program development based on schematic proof
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '162-171'
+
+- id: conf/iwssd/SutcliffeM93
+  type: paper-conference
+  author:
+  - family: Sutcliffe
+    given: Alistair G.
+  - family: Maiden
+    given: Neil A. M.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: 'Bridging the requirements gap: Policies, goals, and domains'
+  title-short: Bridging the requirements gap
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '52-55'
+
+- id: conf/iwssd/Barros93
+  type: paper-conference
+  author:
+  - family: Barros
+    given: Oscar
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Requirements elicitation and formalization through external design and object-oriented
+    specification
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '78-89'
+
+- id: conf/iwssd/DingK93
+  type: paper-conference
+  author:
+  - family: Ding
+    given: Shiyuan
+  - family: Katayama
+    given: Takuya
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Specifying reactive systems with attributed finite state machines
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '90-99'
+
+- id: conf/iwssd/2000
+  type: book
+  issued:
+  - year: '2000'
+  title: Proceedings of the 10th international workshop on software specification
+    and design, shelter island, san diego, california, uSA, november 5-7, 2000
+  publisher: IEEE Computer Society
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/ZismanEF00
+  type: paper-conference
+  author:
+  - family: Zisman
+    given: Andrea
+  - family: Emmerich
+    given: Wolfgang
+  - family: Finkelstein
+    given: Anthony
+  issued:
+  - year: '2000'
+  title: Using xML to build consistency rules for distributed specifications
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '141-148'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857212
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/DasF93
+  type: paper-conference
+  author:
+  - family: Das
+    given: R.
+  - family: Fekete
+    given: Alan
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: 'Modular reasoning about open systems: A case study of distributed commit'
+  title-short: Modular reasoning about open systems
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '30-39'
+
+- id: conf/iwssd/Lin93
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Fuyau
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Design and validation of a message-passing system
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '10-19'
+
+- id: conf/iwssd/TaiK93
+  type: paper-conference
+  author:
+  - family: Tai
+    given: Kuo-Chung
+  - family: Koppol
+    given: Pramod V.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: An incremental approach to reachability analysis of distributed programs
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '141-151'
+
+- id: conf/iwssd/AstesianoR93
+  type: paper-conference
+  author:
+  - family: Astesiano
+    given: Egidio
+  - family: Reggio
+    given: Gianna
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Specifying reactive systems by abstract events
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '122-131'
+
+- id: conf/iwssd/Wood93
+  type: paper-conference
+  author:
+  - family: Wood
+    given: Kenneth R.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: A pragmatic basis for the formal development of distributed systems
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '132-140'
+
+- id: conf/iwssd/WermelingerLF00
+  type: paper-conference
+  author:
+  - family: Wermelinger
+    given: Michel
+  - family: Lopes
+    given: Antónia
+  - family: Fiadeiro
+    given: José Luiz
+  issued:
+  - year: '2000'
+  title: Superposing connectors
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '87-94'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857216
+  ISBN: '0-7695-0884-7'
+
+- id: conf/iwssd/Ameur93
+  type: paper-conference
+  author:
+  - family: Ameur
+    given: Yamine Aït
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Predicting operational behaviour of abstract programs during formal developments
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '172-183'
+
+- id: conf/iwssd/BoydK93
+  type: paper-conference
+  author:
+  - family: Boyd
+    given: Joanne L.
+  - family: Karam
+    given: Gerald M.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Using design fragments to modularize the design of communications in concurrent
+    systems
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '184-193'
+
+- id: conf/iwssd/PottsT93
+  type: paper-conference
+  author:
+  - family: Potts
+    given: Colin
+  - family: Takahashi
+    given: Kenji
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: An active hypertext model for system requirements
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '62-68'
+
+- id: conf/iwssd/BellettiniFP93
+  type: paper-conference
+  author:
+  - family: Bellettini
+    given: Carlo
+  - family: Felder
+    given: Miguel
+  - family: Pezzè
+    given: Mauro
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: 'Merlot: A tool for analysis of real-time specifications'
+  title-short: Merlot
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '110-121'
+
+- id: conf/iwssd/Wolff93
+  type: paper-conference
+  author:
+  - family: Wolff
+    given: P.
+  editor:
+  - family: Wileden
+    given: Jack C.
+  issued:
+  - year: '1993'
+  title: Related specifications reuse
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '152-161'
+
+- id: conf/iwssd/ACampbellC00
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Laura A.
+  - family: Cheng
+    given: Betty H. C.
+  issued:
+  - year: '2000'
+  title: Object-oriented modeling and automated analysis of a telemedicine application
+  container-title: IWSSD
+  publisher: IEEE Computer Society
+  page: '39-50'
+  URL: http://portal.acm.org/citation.cfm?id=857171.857226
+  ISBN: '0-7695-0884-7'
+...

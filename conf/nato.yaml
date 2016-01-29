@@ -1,0 +1,551 @@
+---
+references:
+- id: conf/nato/Zdonik93
+  type: paper-conference
+  author:
+  - family: Zdonik
+    given: Stanley B.
+  issued:
+  - year: '1993'
+  title: What makes object-oriented database management systems different?
+  container-title: NATO aSI oODBS
+  page: '3-26'
+
+- id: conf/nato/Blakeley93
+  type: paper-conference
+  author:
+  - family: Blakeley
+    given: José A.
+  issued:
+  - year: '1993'
+  title: 'Open oODB: Architecture and query processing overview'
+  title-short: Open oODB
+  container-title: NATO aSI oODBS
+  page: '309-325'
+
+- id: conf/nato/Broy96
+  type: paper-conference
+  author:
+  - family: Broy
+    given: Manfred
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Specification and refinement of a buffer of length one
+  container-title: NATO aSI dPD
+  page: '273-304'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Buchmann93
+  type: paper-conference
+  author:
+  - family: Buchmann
+    given: Alejandro P.
+  issued:
+  - year: '1993'
+  title: Active object systems
+  container-title: NATO aSI oODBS
+  page: '201-224'
+
+- id: conf/nato/Schneider96
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Fred B.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: On traditions in marktoberdorf
+  container-title: NATO aSI dPD
+  page: '1-4'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/93
+  type: book
+  editor:
+  - family: Dogac
+    given: Asuman
+  issued:
+  - year: '1994'
+  title: Advances in object-oriented database systems, proceedings of the nATO advanced
+    study institute on object-oriented database systems, held in izmir, kusadasi,
+    turkey, august 6-16, 1993
+  collection-title: 'NATO aSI series f: Computing and systems sciences'
+  volume: '130'
+  ISBN: '3-540-57825-0'
+
+- id: conf/nato/Beeri93
+  type: paper-conference
+  author:
+  - family: Beeri
+    given: Catriel
+  issued:
+  - year: '1993'
+  title: Query languages for models with object-oriented features
+  container-title: NATO aSI oODBS
+  page: '47-71'
+
+- id: conf/nato/BilirisO93
+  type: paper-conference
+  author:
+  - family: Biliris
+    given: Alexandros
+  - family: Orenstein
+    given: Jack A.
+  issued:
+  - year: '1993'
+  title: Object storage management architectures
+  container-title: NATO aSI oODBS
+  page: '185-200'
+
+- id: conf/nato/DogacOAOE93
+  type: paper-conference
+  author:
+  - family: Dogac
+    given: Asuman
+  - family: Ozkan
+    given: Cetin
+  - family: Arpinar
+    given: Ismailcem Budak
+  - family: Okay
+    given: Tansel
+  - family: Evrendilek
+    given: Cem
+  issued:
+  - year: '1993'
+  title: METU object-oriented dBMS
+  container-title: NATO aSI oODBS
+  page: '327-354'
+
+- id: conf/nato/Martin96
+  type: paper-conference
+  author:
+  - family: Martin
+    given: Alain J.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: A program transformation approach to asynchronous vLSI design
+  container-title: NATO aSI dPD
+  page: '441-467'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Brodie93
+  type: paper-conference
+  author:
+  - family: Brodie
+    given: Michael L.
+  issued:
+  - year: '1993'
+  title: The promise of distributed computing and the challenges of legacy information
+    systems
+  container-title: NATO aSI oODBS
+  page: '251-269'
+  note: 'this paper originally appeared in DS-5: 1-31'
+
+- id: conf/nato/ClarkeGL96
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: Edmund M.
+  - family: Grumberg
+    given: Orna
+  - family: Long
+    given: David E.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Model checking
+  container-title: NATO aSI dPD
+  page: '305-349'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Dittrich93
+  type: paper-conference
+  author:
+  - family: Dittrich
+    given: Klaus R.
+  issued:
+  - year: '1993'
+  title: Object-oriented data model concepts
+  container-title: NATO aSI oODBS
+  page: '29-45'
+
+- id: conf/nato/Gehani93
+  type: paper-conference
+  author:
+  - family: Gehani
+    given: Narain H.
+  issued:
+  - year: '1993'
+  title: 'The ode object-oriented database management system: An overview'
+  title-short: The ode object-oriented database management system
+  container-title: NATO aSI oODBS
+  page: '355-387'
+
+- id: conf/nato/Gries96
+  type: paper-conference
+  author:
+  - family: Gries
+    given: David
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Data refinement and the transform
+  container-title: NATO aSI dPD
+  page: '205-232'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Kent93
+  type: paper-conference
+  author:
+  - family: Kent
+    given: William
+  issued:
+  - year: '1993'
+  title: Object-orientation and interoperability
+  container-title: NATO aSI oODBS
+  page: '287-305'
+
+- id: conf/nato/HillebrandKR93
+  type: paper-conference
+  author:
+  - family: Hillebrand
+    given: Gerd G.
+  - family: Kanellakis
+    given: Paris C.
+  - family: Ramaswamy
+    given: Sridhar
+  issued:
+  - year: '1993'
+  title: Functional programming formalisms for oODBMS methods
+  container-title: NATO aSI oODBS
+  page: '73-99'
+
+- id: conf/nato/Dijkstra96a
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: The balance and the coins
+  container-title: NATO aSI dPD
+  page: '11-13'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Dijkstra96d
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: A bagatelle on euclid’s algorithm
+  container-title: NATO aSI dPD
+  page: '21-23'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/KlasAN93
+  type: paper-conference
+  author:
+  - family: Klas
+    given: Wolfgang
+  - family: Aberer
+    given: Karl
+  - family: Neuhold
+    given: Erich J.
+  issued:
+  - year: '1993'
+  title: Object-oriented modeling for hypermedia systems using the vODAK model language
+  container-title: NATO aSI oODBS
+  page: '389-433'
+
+- id: conf/nato/Gardarin93
+  type: paper-conference
+  author:
+  - family: Gardarin
+    given: Georges
+  issued:
+  - year: '1993'
+  title: Object-oriented rule languages and optimization techniques
+  container-title: NATO aSI oODBS
+  page: '225-250'
+
+- id: conf/nato/Dijkstra96c
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: A prime is in at most 1 way the sum of 2 squares
+  container-title: NATO aSI dPD
+  page: '17-20'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/NavatheSABG93
+  type: paper-conference
+  author:
+  - family: Navathe
+    given: Shamkant B.
+  - family: Savasere
+    given: Ashok
+  - family: Anwar
+    given: Tarek M.
+  - family: Beck
+    given: Howard W.
+  - family: Gala
+    given: Sunit K.
+  issued:
+  - year: '1993'
+  title: Object modeling using classification in cANDIDE and its applications
+  container-title: NATO aSI oODBS
+  page: '435-476'
+
+- id: conf/nato/Dijkstra96
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Fibonacci and the greatest common divisor
+  container-title: NATO aSI dPD
+  page: '7-10'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/BirdM96
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Richard S.
+  - family: Moor
+    given: Oege
+    dropping-particle: de
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: The algebra of programming
+  container-title: NATO aSI dPD
+  page: '167-203'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/AbramskyGN96
+  type: paper-conference
+  author:
+  - family: Abramsky
+    given: Samson
+  - family: Gay
+    given: Simon J.
+  - family: Nagarajan
+    given: Rajagopal
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Interaction categories and the foundations of typed concurrent programming
+  container-title: NATO aSI dPD
+  page: '35-113'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/MitchellZD93
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Gail
+  - family: Zdonik
+    given: Stanley B.
+  - family: Dayal
+    given: Umeshwar
+  issued:
+  - year: '1993'
+  title: 'Optimization of object-oriented queries: Problems and approaches'
+  title-short: Optimization of object-oriented queries
+  container-title: NATO aSI oODBS
+  page: '119-146'
+
+- id: conf/nato/Dijkstra96e
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: On two equations that have the same extreme solution
+  container-title: NATO aSI dPD
+  page: '25-26'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/AlhajjA93
+  type: paper-conference
+  author:
+  - family: Alhajj
+    given: Reda
+  - family: Arkun
+    given: M. Erol
+  issued:
+  - year: '1993'
+  title: A formal object-oriented query model and an algebra
+  container-title: NATO aSI oODBS
+  page: '101-116'
+
+- id: conf/nato/Fourman96
+  type: paper-conference
+  author:
+  - family: Fourman
+    given: Michael P.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Proof and design
+  container-title: NATO aSI dPD
+  page: '397-439'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Dijkstra96b
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Bulterman’s theorem on shortest trees
+  container-title: NATO aSI dPD
+  page: '15-16'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/AbadiM96
+  type: paper-conference
+  author:
+  - family: Abadi
+    given: Martín
+  - family: Merz
+    given: Stephan
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: On tLA as a logic
+  container-title: NATO aSI dPD
+  page: '235-271'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Schneider96a
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Fred B.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Notes on proof outline logic
+  container-title: NATO aSI dPD
+  page: '351-394'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Dijkstra96g
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: The argument about the arithmetic mean and the geometric mean, heuristics
+    included
+  container-title: NATO aSI dPD
+  page: '29-32'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Ozsu93
+  type: paper-conference
+  author:
+  - family: Özsu
+    given: M. Tamer
+  issued:
+  - year: '1993'
+  title: Transaction models and transaction management in object-oriented database
+    management systems
+  container-title: NATO aSI oODBS
+  page: '147-184'
+
+- id: conf/nato/Dijkstra96f
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Edsger W.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: An alternative of the eTAC to eWD1163
+  container-title: NATO aSI dPD
+  page: '27-28'
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/1996
+  type: book
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Proceedings of the nATO advanced study institute on deductive program design,
+    marktoberdorf, germany
+  ISBN: '3-540-60947-4'
+
+- id: conf/nato/Hoare96
+  type: paper-conference
+  author:
+  - family: Hoare
+    given: C. A. R.
+  editor:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1996'
+  title: Mathematical models for computing science
+  container-title: NATO aSI dPD
+  page: '115-164'
+  ISBN: '3-540-60947-4'
+...

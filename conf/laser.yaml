@@ -1,0 +1,420 @@
+---
+references:
+- id: conf/laser/Paulin-Mohring11
+  type: paper-conference
+  author:
+  - family: Paulin-Mohring
+    given: Christine
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: Introduction to the coq proof-assistant for practical software verification
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-95'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_3
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/Hoare08
+  type: paper-conference
+  author:
+  - family: Hoare
+    given: Tony
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: Fine-grain concurrency
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_1
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/HerbertLQ11
+  type: paper-conference
+  author:
+  - family: Herbert
+    given: Luke
+  - family: Leino
+    given: K. Rustan M.
+  - family: Quaresma
+    given: Jose
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: Using dafny, an automatic program verifier
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-181'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_6
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/MorandiNM10
+  type: paper-conference
+  author:
+  - family: Morandi
+    given: Benjamin
+  - family: Nanz
+    given: Sebastian
+  - family: Meyer
+    given: Bertrand
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2010'
+  title: A formal reference for sCOOP
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-157'
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0_3
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/Hoare08a
+  type: paper-conference
+  author:
+  - family: Hoare
+    given: Tony
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: Compensable transactions
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-40'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_2
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/2011
+  type: book
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2012'
+  title: Tools for practical software verification, lASER, international summer school
+    2011, elba island, italy, revised tutorial lectures
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/2008
+  type: book
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2010'
+  title: Advanced lectures on software engineering, lASER summer school 2007/2008
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/JuzgadoG10
+  type: paper-conference
+  author:
+  - family: Juzgado
+    given: Natalia Juristo
+  - family: Gómez
+    given: Omar S.
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2010'
+  title: Replication of software engineering experiments
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-88'
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0_2
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/BraioneDP10
+  type: paper-conference
+  author:
+  - family: Braione
+    given: Pietro
+  - family: Denaro
+    given: Giovanni
+  - family: Pezzè
+    given: Mauro
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2010'
+  title: On the integration of software testing and formal analysis
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-193'
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0_4
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/MorandiBM08
+  type: paper-conference
+  author:
+  - family: Morandi
+    given: Benjamin
+  - family: Bauer
+    given: Sebastian S.
+  - family: Meyer
+    given: Bertrand
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: SCOOP - a contract-based concurrent object-oriented programming model
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-90'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_3
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/GodefroidL11
+  type: paper-conference
+  author:
+  - family: Godefroid
+    given: Patrice
+  - family: Lahiri
+    given: Shuvendu K.
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: 'From program to logic: An introduction'
+  title-short: From program to logic
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-44'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_2
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/Fossum08
+  type: paper-conference
+  author:
+  - family: Fossum
+    given: Tryggve
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: Multi core design for chip level multiprocessing
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-187'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_6
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/WeiMO10
+  type: paper-conference
+  author:
+  - family: Wei
+    given: Yi
+  - family: Meyer
+    given: Bertrand
+  - family: Oriol
+    given: Manuel
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2010'
+  title: Is branch coverage a good measure of testing effectiveness?
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-212'
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0_5
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/MunozD11
+  type: paper-conference
+  author:
+  - family: Muñoz
+    given: César A.
+  - family: Demasi
+    given: Ramiro A.
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: Advanced theorem proving techniques in pVS and applications
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-132'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_4
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/Shankar08
+  type: paper-conference
+  author:
+  - family: Shankar
+    given: Natarajan
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: Fixpoints and search in pVS
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-161'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_5
+  ISBN: '978-3-642-13009-0'
+
+- id: conf/laser/TschannenFNM11
+  type: paper-conference
+  author:
+  - family: Tschannen
+    given: Julian
+  - family: Furia
+    given: Carlo Alberto
+  - family: Nordio
+    given: Martin
+  - family: Meyer
+    given: Bertrand
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: 'Automatic verification of advanced object-oriented features: The autoProof
+    approach'
+  title-short: Automatic verification of advanced object-oriented features
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-155'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_5
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/HarmanMSY10
+  type: paper-conference
+  author:
+  - family: Harman
+    given: Mark
+  - family: McMinn
+    given: Phil
+  - family: Souza
+    given: Jerffeson Teixeira
+    dropping-particle: de
+  - family: Yoo
+    given: Shin
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2010'
+  title: 'Search based software engineering: Techniques, taxonomy, tutorial'
+  title-short: Search based software engineering
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-59'
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0_1
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/ClarkeKNZ11
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: Edmund M.
+  - family: Klieber
+    given: William
+  - family: Novácek
+    given: Milos
+  - family: Zuliani
+    given: Paolo
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2011'
+  title: Model checking and the state explosion problem
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-30'
+  volume: '7682'
+  DOI: 10.1007/978-3-642-35746-6_1
+  ISBN: '978-3-642-35745-9'
+
+- id: conf/laser/2010
+  type: book
+  editor:
+  - family: Meyer
+    given: Bertrand
+  issued:
+  - year: '2012'
+  title: Empirical software engineering and verification - international summer schools,
+    lASER 2008-2010, elba island, italy, revised tutorial lectures
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7007'
+  DOI: 10.1007/978-3-642-25231-0
+  ISBN: '978-3-642-25230-3'
+
+- id: conf/laser/LeinoM08
+  type: paper-conference
+  author:
+  - family: Leino
+    given: K. Rustan M.
+  - family: '0001'
+    given: Peter Müller
+  editor:
+  - family: '0001'
+    given: Peter Müller
+  issued:
+  - year: '2008'
+  title: Using the spec\# language, methodology, and tools to write bug-free programs
+  container-title: LASER summer school
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-139'
+  volume: '6029'
+  DOI: 10.1007/978-3-642-13010-6_4
+  ISBN: '978-3-642-13009-0'
+...

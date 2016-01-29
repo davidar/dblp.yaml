@@ -1,0 +1,562 @@
+---
+references:
+- id: conf/smartgridsec/MoyanoGBH14
+  type: paper-conference
+  author:
+  - family: Moyano
+    given: Francisco
+  - family: Gago
+    given: M. Carmen Fernández
+  - family: Beckers
+    given: Kristian
+  - family: Heisel
+    given: Maritta
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Enhancing problem frames with trust and reputation for analyzing smart grid
+    security requirements
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-180'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_11
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/FriesFS12
+  type: paper-conference
+  author:
+  - family: Fries
+    given: Steffen
+  - family: Falk
+    given: Rainer
+  - family: Sutor
+    given: Ariane
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Smart grid information exchange - securing the smart grid from the ground
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '26-44'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_2
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/PohlsK14
+  type: paper-conference
+  author:
+  - family: Pöhls
+    given: Henrich Christopher
+  - family: Karwe
+    given: Markus
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Redactable signatures to control the maximum noise for differential privacy
+    in the smart grid
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '79-93'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_6
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/ArmandoCM12
+  type: paper-conference
+  author:
+  - family: Armando
+    given: Alessandro
+  - family: Carbone
+    given: Roberto
+  - family: Merlo
+    given: Alessio
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Formal analysis of a privacy-preserving billing protocol
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-119'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_8
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/RottondiFV14
+  type: paper-conference
+  author:
+  - family: Rottondi
+    given: Cristina
+  - family: Fontana
+    given: Simone
+  - family: Verticale
+    given: Giacomo
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: A privacy-friendly framework for vehicle-to-grid interactions
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-138'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_8
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/PaverdM12
+  type: paper-conference
+  author:
+  - family: Paverd
+    given: Andrew J.
+  - family: Martin
+    given: Andrew P.
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Hardware security for device authentication in the smart grid
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-84'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_5
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/EbingerRKLW12
+  type: paper-conference
+  author:
+  - family: Ebinger
+    given: Peter
+  - family: Ramos
+    given: José Luis Hernández
+  - family: Kikiras
+    given: Panayotis
+  - family: Lischka
+    given: Mario
+  - family: Wiesmaier
+    given: Alexander
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Privacy in smart metering ecosystems
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-131'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_9
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/2012
+  type: book
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2013'
+  title: Smart grid security - first international workshop, smartGridSec 2012, berlin,
+    germany, december 3, 2012, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/RanalliB12
+  type: paper-conference
+  author:
+  - family: Ranalli
+    given: Andrea
+  - family: Borean
+    given: Claudio
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Energy@home leveraging zigBee to enable smart grid in residential environment
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-149'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_10
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/0001FKNT14
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Thomas Hartmann
+  - family: Fouquet
+    given: François
+  - family: Klein
+    given: Jacques
+  - family: Nain
+    given: Grégory
+  - family: Traon
+    given: Yves Le
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Reactive security for smart grids using models@run.time-based simulation
+    and reasoning
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-153'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_9
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/AsgharM12
+  type: paper-conference
+  author:
+  - family: Asghar
+    given: Muhammad Rizwan
+  - family: Miorandi
+    given: Daniele
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: A holistic view of security and privacy issues in smart grids
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-71'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_4
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/BeckersHKMMY14
+  type: paper-conference
+  author:
+  - family: Beckers
+    given: Kristian
+  - family: Heisel
+    given: Maritta
+  - family: Krautsevich
+    given: Leanid
+  - family: Martinelli
+    given: Fabio
+  - family: Meis
+    given: Rene
+  - family: Yautsiukhin
+    given: Artsiom
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Determining the probability of smart grid attacks by combining attack tree
+    and attack graph analysis
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '30-47'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_3
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/BeckersFHS14
+  type: paper-conference
+  author:
+  - family: Beckers
+    given: Kristian
+  - family: Faßbender
+    given: Stephan
+  - family: Heisel
+    given: Maritta
+  - family: Suppan
+    given: Santiago
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: A threat analysis methodology for smart home scenarios
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-124'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_7
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/PaverdMB14
+  type: paper-conference
+  author:
+  - family: Paverd
+    given: Andrew J.
+  - family: Martin
+    given: Andrew P.
+  - family: Brown
+    given: Ian
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Security and privacy in smart grid demand response systems
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_1
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/ChinnowTBKA12
+  type: paper-conference
+  author:
+  - family: Chinnow
+    given: Joël
+  - family: Tonn
+    given: Jakob
+  - family: Bsufka
+    given: Karsten
+  - family: Konnerth
+    given: Thomas
+  - family: Albayrak
+    given: Sahin
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: A tool set for the evaluation of security and reliability in smart grids
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-57'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_3
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/BytschkowQIR14
+  type: paper-conference
+  author:
+  - family: Bytschkow
+    given: Denis
+  - family: Quilbeuf
+    given: Jean
+  - family: Igna
+    given: Georgeta
+  - family: Ruess
+    given: Harald
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Distributed mILS architectural approach for secure smart grids
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-29'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_2
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/ArmandoCCPRR14
+  type: paper-conference
+  author:
+  - family: Armando
+    given: Alessandro
+  - family: Carbone
+    given: Roberto
+  - family: Chekole
+    given: Eyasu Getahun
+  - family: Petrazzuolo
+    given: Claudio
+  - family: Ranalli
+    given: Andrea
+  - family: Ranise
+    given: Silvio
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Selective release of smart metering data in multi-domain smart grids
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-62'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_4
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/BuzaJMFH14
+  type: paper-conference
+  author:
+  - family: Buza
+    given: Dániel István
+  - family: Juhász
+    given: Ferenc
+  - family: Miru
+    given: György
+  - family: Félegyházi
+    given: Márk
+  - family: Holczer
+    given: Tamás
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: 'CryPLH: Protecting smart energy systems from targeted attacks with a pLC
+    honeypot'
+  title-short: CryPLH
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-192'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_12
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/FrommKP12
+  type: paper-conference
+  author:
+  - family: Fromm
+    given: Alexander
+  - family: Kelbert
+    given: Florian
+  - family: Pretschner
+    given: Alexander
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Data protection in a cloud-enabled smart grid
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '96-107'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_7
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/2014
+  type: book
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: Smart grid security - second international workshop, smartGridSec 2014, munich,
+    germany, february 26, 2014, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/King-LacroixM14
+  type: paper-conference
+  author:
+  - family: King-Lacroix
+    given: Justin
+  - family: Martin
+    given: Andrew
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: 'KEDS: Decentralised network security for the smart home environment'
+  title-short: KEDS
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-78'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_5
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/KarweS14
+  type: paper-conference
+  author:
+  - family: Karwe
+    given: Markus
+  - family: Strüker
+    given: Jens
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2014'
+  title: A survey on privacy in residential demand side management applications
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '154-165'
+  volume: '8448'
+  DOI: 10.1007/978-3-319-10329-7_10
+  ISBN: '978-3-319-10328-0'
+
+- id: conf/smartgridsec/KarweS12
+  type: paper-conference
+  author:
+  - family: Karwe
+    given: Markus
+  - family: Strüker
+    given: Jens
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: Maintaining privacy in data rich demand response applications
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-95'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_6
+  ISBN: '978-3-642-38029-7'
+
+- id: conf/smartgridsec/Oheimb12
+  type: paper-conference
+  author:
+  - family: Oheimb
+    given: David
+    dropping-particle: von
+  editor:
+  - family: Cuéllar
+    given: Jorge
+  issued:
+  - year: '2012'
+  title: IT security architecture approaches for smart metering and smart grid
+  container-title: SmartGridSec
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-25'
+  volume: '7823'
+  DOI: 10.1007/978-3-642-38030-3_1
+  ISBN: '978-3-642-38029-7'
+...

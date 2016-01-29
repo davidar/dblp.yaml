@@ -1,0 +1,945 @@
+---
+references:
+- id: conf/hotpar/YangCSS12
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Junfeng
+  - family: Cui
+    given: Ang
+  - family: Stolfo
+    given: Salvatore J.
+  - family: Sethumadhavan
+    given: Simha
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Concurrency attacks
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/yang
+
+- id: conf/hotpar/WaterlandAS12
+  type: paper-conference
+  author:
+  - family: Waterland
+    given: Amos
+  - family: Appavoo
+    given: Jonathan
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Parallelization by simulated tunneling
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/waterland
+
+- id: conf/hotpar/KnauerhaseCT12
+  type: paper-conference
+  author:
+  - family: Knauerhase
+    given: Rob C.
+  - family: Cledat
+    given: Romain
+  - family: Teller
+    given: Justin
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: For extreme parallelism, your oS is sooooo last-millennium
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/knauerhase
+
+- id: conf/hotpar/BurnimENS12
+  type: paper-conference
+  author:
+  - family: Burnim
+    given: Jacob
+  - family: Elmas
+    given: Tayfun
+  - family: Necula
+    given: George C.
+  - family: Sen
+    given: Koushik
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: 'CONCURRIT: Testing concurrent programs with programmable state-space exploration'
+  title-short: CONCURRIT
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/burnim
+
+- id: conf/hotpar/Boehm11
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: How to miscompile programs with “benign” data races
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/how-miscompile-programs-benign-data-races
+
+- id: conf/hotpar/SheffieldAK13
+  type: paper-conference
+  author:
+  - family: Sheffield
+    given: David
+  - family: Anderson
+    given: Michael J.
+  - family: Keutzer
+    given: Kurt
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: 'Three fingered jack: Tackling portability, performance, and productivity
+    with auto-parallelized python'
+  title-short: Three fingered jack
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/shef%EF%AC%81eld
+
+- id: conf/hotpar/Rinard13
+  type: paper-conference
+  author:
+  - family: Rinard
+    given: Martin
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Parallel synchronization-free approximate data structure construction
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/rinard
+
+- id: conf/hotpar/HowardW11
+  type: paper-conference
+  author:
+  - family: Howard
+    given: Philip W.
+  - family: Walpole
+    given: Jonathan
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: A relativistic enhancement to software transactional memory
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/relativistic-enhancement-software-transactional-memory
+
+- id: conf/hotpar/OuyangCFN13
+  type: paper-conference
+  author:
+  - family: Ouyang
+    given: Jessica
+  - family: Chen
+    given: Peter M.
+  - family: Flinn
+    given: Jason
+  - family: Narayanasamy
+    given: Satish
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: '...And region serializability for all'
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/ouyang
+
+- id: conf/hotpar/BestJVF13
+  type: paper-conference
+  author:
+  - family: Best
+    given: Micah J.
+  - family: Jacobsen
+    given: Daniel
+  - family: Vining
+    given: Nicholas
+  - family: Fedorova
+    given: Alexandra
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Collection-focused parallelism
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/best
+
+- id: conf/hotpar/LauMCYAA11
+  type: paper-conference
+  author:
+  - family: Lau
+    given: Eric
+  - family: Miller
+    given: Jason E.
+  - family: Choi
+    given: Inseok
+  - family: Yeung
+    given: Donald
+  - family: Amarasinghe
+    given: Saman P.
+  - family: Agarwal
+    given: Anant
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Multicore performance optimization using partner cores
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/multicore-performance-optimization-using-partner-cores
+
+- id: conf/hotpar/DengZWZL12
+  type: paper-conference
+  author:
+  - family: Deng
+    given: Dongdong
+  - family: '0022'
+    given: Wei Zhang
+  - family: Wang
+    given: Borui
+  - family: Zhao
+    given: Peisen
+  - family: Lu
+    given: Shan
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Understanding the interleaving-space overlap across inputs and software versions
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/deng
+
+- id: conf/hotpar/CzechowskiBMCV11
+  type: paper-conference
+  author:
+  - family: Czechowski
+    given: Kent
+  - family: Battaglino
+    given: Casey
+  - family: McClanahan
+    given: Chris
+  - family: Chandramowlishwaran
+    given: Aparna
+  - family: Vuduc
+    given: Richard W.
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Balance principles for algorithm-architecture co-design
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/balance-principles-algorithm-architecture-co-design
+
+- id: conf/hotpar/NollG11
+  type: paper-conference
+  author:
+  - family: Noll
+    given: Albert
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Pervasive parallelism for managed runtimes
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/pervasive-parallelism-managed-runtimes
+
+- id: conf/hotpar/MajoG12
+  type: paper-conference
+  author:
+  - family: Majo
+    given: Zoltan
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: A template library to integrate thread scheduling and locality management
+    for nUMA multiprocessors
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/majo
+
+- id: conf/hotpar/JeonGLT11
+  type: paper-conference
+  author:
+  - family: Jeon
+    given: Donghwan
+  - family: Garcia
+    given: Saturnino
+  - family: Louie
+    given: Christopher M.
+  - family: Taylor
+    given: Michael Bedford
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: 'Parkour: Parallel speedup estimates for serial programs'
+  title-short: Parkour
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/parkour-parallel-speedup-estimates-serial-programs
+
+- id: conf/hotpar/2012
+  type: book
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: 4th uSENIX workshop on hot topics in parallelism, hotPar’12, berkeley, cA,
+    uSA, june 7-8, 2012
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A332
+
+- id: conf/hotpar/2011
+  type: book
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: 3rd uSENIX workshop on hot topics in parallelism, hotPar’11, berkeley, cA,
+    uSA, may 26-27, 2011
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A296
+
+- id: conf/hotpar/LinTK13
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Tsung-Han
+  - family: Tarsa
+    given: Stephen J.
+  - family: Kung
+    given: H. T.
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Parallelization primitives for dynamic sparse computations
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/lin
+
+- id: conf/hotpar/CalciuGH13
+  type: paper-conference
+  author:
+  - family: Calciu
+    given: Irina
+  - family: Gottschlich
+    given: Justin Emile
+  - family: Herlihy
+    given: Maurice
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Using elimination and delegation to implement a scalable nUMA-friendly stack
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/calciu
+
+- id: conf/hotpar/Matsakis12
+  type: paper-conference
+  author:
+  - family: Matsakis
+    given: Nicholas D.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: 'Parallel closures: A new twist on an old idea'
+  title-short: Parallel closures
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/matsakis
+
+- id: conf/hotpar/Reed12
+  type: paper-conference
+  author:
+  - family: Reed
+    given: David P.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: '“Simultaneous” considered harmful: Modular parallelism'
+  title-short: “Simultaneous” considered harmful
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/reed
+
+- id: conf/hotpar/HeumannA12
+  type: paper-conference
+  author:
+  - family: Heumann
+    given: Stephen
+  - family: Adve
+    given: Vikram S.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Disciplined concurrent programming using tasks with effects
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/heumann
+
+- id: conf/hotpar/GottschlichKP13
+  type: paper-conference
+  author:
+  - family: Gottschlich
+    given: Justin Emile
+  - family: Knauerhase
+    given: Rob C.
+  - family: Pokam
+    given: Gilles
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: But how do we really debug transactional memory programs?
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/gottschlich
+
+- id: conf/hotpar/ChakrabartiB13
+  type: paper-conference
+  author:
+  - family: Chakrabarti
+    given: Dhruva R.
+  - family: Boehm
+    given: Hans-Juergen
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Durability semantics for lock-based multithreaded programs
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/chakrabarti
+
+- id: conf/hotpar/AndersonCCGKLMSSS11
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Michael J.
+  - family: Catanzaro
+    given: Bryan C.
+  - family: Chong
+    given: Jike
+  - family: Gonina
+    given: Ekaterina
+  - family: Keutzer
+    given: Kurt
+  - family: Lai
+    given: Chao-Yue
+  - family: Murphy
+    given: Mark
+  - family: Sheffield
+    given: David
+  - family: Su
+    given: Bor-Yiing
+  - family: Sundaram
+    given: Narayanan
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Considerations when evaluating microprocessor platforms
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/considerations-when-evaluating-microprocessor-platforms
+
+- id: conf/hotpar/PooveyRC11
+  type: paper-conference
+  author:
+  - family: Poovey
+    given: Jason A.
+  - family: Railing
+    given: Brian P.
+  - family: Conte
+    given: Thomas M.
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Parallel pattern detection for architectural improvements
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/parallel-pattern-detection-architectural-improvements
+
+- id: conf/hotpar/VandierendonckPN11
+  type: paper-conference
+  author:
+  - family: Vandierendonck
+    given: Hans
+  - family: Pratikakis
+    given: Polyvios
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Parallel programming of general-purpose programs using task-based programming
+    models
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/parallel-programming-general-purpose-programs-using-task-based-programming
+
+- id: conf/hotpar/RubinsteynHWS12
+  type: paper-conference
+  author:
+  - family: Rubinsteyn
+    given: Alex
+  - family: Hielscher
+    given: Eric
+  - family: Weinman
+    given: Nathaniel
+  - family: Shasha
+    given: Dennis
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: 'Parakeet: A just-in-time parallel accelerator for python'
+  title-short: Parakeet
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/rubinsteyn
+
+- id: conf/hotpar/VeldemaBP11
+  type: paper-conference
+  author:
+  - family: Veldema
+    given: Ronald
+  - family: Blaß
+    given: Thorsten
+  - family: Philippsen
+    given: Michael
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Enabling multiple accelerator acceleration for java/OpenMP
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/enabling-multiple-accelerator-acceleration-javaopenmp
+
+- id: conf/hotpar/IslamM13
+  type: paper-conference
+  author:
+  - family: Islam
+    given: Mohammad Majharul
+  - family: Muzahid
+    given: Abdullah
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Characterizing real world bugs causing sequential consistency violations
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/islam
+
+- id: conf/hotpar/AviramF11
+  type: paper-conference
+  author:
+  - family: Aviram
+    given: Amittai
+  - family: Ford
+    given: Bryan
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Deterministic openMP for race-free parallelism
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/deterministic-openmp-race-free-parallelism
+
+- id: conf/hotpar/PanneerselvamS12
+  type: paper-conference
+  author:
+  - family: Panneerselvam
+    given: Sankaralingam
+  - family: Swift
+    given: Michael M.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Operating systems should manage accelerators
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/panneerselvam
+
+- id: conf/hotpar/HarrisLLMM13
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Tim Harris
+  - family: Lev
+    given: Yossi
+  - family: Luchangco
+    given: Victor
+  - family: Marathe
+    given: Virendra J.
+  - family: Moir
+    given: Mark
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Constrained data-driven parallelism
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/harris
+
+- id: conf/hotpar/MaiTKCM12
+  type: paper-conference
+  author:
+  - family: Mai
+    given: Haohui
+  - family: Tang
+    given: Shuo
+  - family: King
+    given: Samuel T.
+  - family: Cascaval
+    given: Calin
+  - family: Montesinos
+    given: Pablo
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: A case for parallelizing web pages
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/mai
+
+- id: conf/hotpar/MachadoRR13
+  type: paper-conference
+  author:
+  - family: Machado
+    given: Nuno
+  - family: Romano
+    given: Paolo
+  - family: Rodrigues
+    given: Luís E. T.
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Property-driven cooperative logging for concurrency bugs replication
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/machado
+
+- id: conf/hotpar/MyersH12
+  type: paper-conference
+  author:
+  - family: Myers
+    given: Brandon
+  - family: Holt
+    given: Brandon
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Do we need a crystal ball for task migration?
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/myers
+
+- id: conf/hotpar/TilletRSL13
+  type: paper-conference
+  author:
+  - family: Tillet
+    given: Philippe
+  - family: Rupp
+    given: Karl
+  - family: Selberherr
+    given: Siegfried
+  - family: Lin
+    given: Chin-Teng
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: Towards performance-portable, scalable, and convenient linear algebra
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/tillet
+
+- id: conf/hotpar/GreggDHS12
+  type: paper-conference
+  author:
+  - family: Gregg
+    given: Chris
+  - family: Dorn
+    given: Jonathan
+  - family: Hazelwood
+    given: Kim M.
+  - family: Skadron
+    given: Kevin
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Fine-grained resource sharing for concurrent gPGPU kernels
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/gregg
+
+- id: conf/hotpar/McKenney12
+  type: paper-conference
+  author:
+  - family: McKenney
+    given: Paul E.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Retrofitted parallelism considered grossly sub-optimal
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/mckenney
+
+- id: conf/hotpar/YangCW13
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Junfeng
+  - family: Cui
+    given: Heming
+  - family: Wu
+    given: Jingyue
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: 'Determinism is overrated: What really makes multithreaded programs hard
+    to get right and what can be done about it'
+  title-short: Determinism is overrated
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar13/workshop-program/presentation/yang
+
+- id: conf/hotpar/2013
+  type: book
+  editor:
+  - family: Berger
+    given: Emery D.
+  issued:
+  - year: '2013'
+  title: 5th uSENIX workshop on hot topics in parallelism, hotPar’13, san jose, cA,
+    uSA, june 24-25, 2013
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A378
+
+- id: conf/hotpar/JalbertPPS11
+  type: paper-conference
+  author:
+  - family: Jalbert
+    given: Nicholas
+  - family: Pereira
+    given: Cristiano
+  - family: Pokam
+    given: Gilles
+  - family: Sen
+    given: Koushik
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: 'RADBench: A concurrency bug benchmark suite'
+  title-short: RADBench
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/radbench-concurrency-bug-benchmark-suite
+
+- id: conf/hotpar/NelsonMHBCEGKO11
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Jacob
+  - family: Myers
+    given: Brandon
+  - family: Hunter
+    given: A. H.
+  - family: Briggs
+    given: Preston
+  - family: Ceze
+    given: Luis
+  - family: Ebeling
+    given: Carl
+  - family: Grossman
+    given: Dan
+  - family: Kahan
+    given: Simon
+  - family: Oskin
+    given: Mark
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: Crunching large graphs with commodity processors
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/crunching-large-graphs-commodity-processors
+
+- id: conf/hotpar/PillaiAA11
+  type: paper-conference
+  author:
+  - family: Pillai
+    given: Thanumalayan Sankaranarayana
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: 'Quarantine: Fault tolerance for concurrent servers with data-driven selective
+    isolation'
+  title-short: Quarantine
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar11/quarantine-fault-tolerance-concurrent-servers-data-driven-selective-isolation
+
+- id: conf/hotpar/CookGKFPF11
+  type: paper-conference
+  author:
+  - family: Cook
+    given: Henry
+  - family: Gonina
+    given: Ekaterina
+  - family: Kamil
+    given: Shoaib
+  - family: Friedland
+    given: Gerald
+  - family: Patterson
+    given: David A.
+  - family: Fox
+    given: Armando
+  editor:
+  - family: McCool
+    given: Michael
+  issued:
+  - year: '2011'
+  title: CUDA-level performance with python-level productivity for gaussian mixture
+    model applications
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar-11/cuda-level-performance-python-level-productivity-gaussian-mixture-model
+
+- id: conf/hotpar/HerhutHSS12
+  type: paper-conference
+  author:
+  - family: Herhut
+    given: Stephan
+  - family: Hudson
+    given: Richard L.
+  - family: Shpeisman
+    given: Tatiana
+  - family: Sreeram
+    given: Jaswanth
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: Parallel programming for the web
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/herhut
+
+- id: conf/hotpar/SaadMR12
+  type: paper-conference
+  author:
+  - family: Saad
+    given: Mohamed M.
+  - family: Mohamedin
+    given: Mohamed
+  - family: Ravindran
+    given: Binoy
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2012'
+  title: 'HydraVM: Extracting parallelism from legacy sequential code using sTM'
+  title-short: HydraVM
+  container-title: HotPar
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotpar12/workshop-program/presentation/saad
+...

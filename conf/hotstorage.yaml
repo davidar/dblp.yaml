@@ -1,0 +1,1866 @@
+---
+references:
+- id: conf/hotstorage/PipadaKGBSN12
+  type: paper-conference
+  author:
+  - family: Pipada
+    given: Pankaj
+  - family: Kundu
+    given: Achintya
+  - family: Gopinath
+    given: Kanchi
+  - family: Bhattacharyya
+    given: Chiranjib
+  - family: Susarla
+    given: Sai
+  - family: Nagesh
+    given: P. C.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 'LoadIQ: Learning to identify workload phases from a live storage trace'
+  title-short: LoadIQ
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/pipada
+
+- id: conf/hotstorage/MihailescuSA12
+  type: paper-conference
+  author:
+  - family: Mihailescu
+    given: Madalin
+  - family: Soundararajan
+    given: Gokul
+  - family: Amza
+    given: Cristiana
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 'MixApart: Decoupled analytics for shared storage systems'
+  title-short: MixApart
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/mihailescu
+
+- id: conf/hotstorage/YadgarSYS15
+  type: paper-conference
+  author:
+  - family: Yadgar
+    given: Gala
+  - family: Shor
+    given: Roman
+  - family: Yaakobi
+    given: Eitan
+  - family: Schuster
+    given: Assaf
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: It’s not where your data is, it’s how it got there
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/yadgar
+
+- id: conf/hotstorage/XiaLJFHQZ15
+  type: paper-conference
+  author:
+  - family: Xia
+    given: Wen
+  - family: Li
+    given: Chunguang
+  - family: Jiang
+    given: Hong
+  - family: Feng
+    given: Dan
+  - family: Hua
+    given: Yu
+  - family: Qin
+    given: Leihua
+  - family: Zhang
+    given: Yucheng
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Edelta: A word-enlarging based fast delta compression approach'
+  title-short: Edelta
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/xia
+
+- id: conf/hotstorage/LiL15
+  type: paper-conference
+  author:
+  - family: Li
+    given: Jun
+  - family: Li
+    given: Baochun
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Beehive: Erasure codes for fixing multiple failures in distributed storage
+    systems'
+  title-short: Beehive
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/li
+
+- id: conf/hotstorage/LuAA13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Lanyue
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Fault isolation and quick recovery in isolation file systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/lu
+
+- id: conf/hotstorage/ChenYC13
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Ming-Shing
+  - family: Yang
+    given: Bo-Yin
+  - family: Cheng
+    given: Chen-Mou
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: 'RAIDq: A software-friendly, multiple-parity rAID'
+  title-short: RAIDq
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/chen
+
+- id: conf/hotstorage/ShinYKCJY13
+  type: paper-conference
+  author:
+  - family: Shin
+    given: Dongin
+  - family: Yu
+    given: Youngjin
+  - family: Kim
+    given: Hyeong Seog
+  - family: Choi
+    given: Jae-Woo
+  - family: Jung
+    given: Do Yung
+  - family: Yeom
+    given: Heon Young
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Dynamic interval polling and pipelined post i/O processing for low-latency
+    storage class memory
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/shin
+
+- id: conf/hotstorage/ShilaneWHH12
+  type: paper-conference
+  author:
+  - family: Shilane
+    given: Philip
+  - family: Wallace
+    given: Grant
+  - family: Huang
+    given: Mark
+  - family: Hsu
+    given: Windsor
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Delta compressed and deduplicated storage using stream-informed locality
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/shilane
+
+- id: conf/hotstorage/TarasovGSTZ15
+  type: paper-conference
+  author:
+  - family: Tarasov
+    given: Vasily
+  - family: Gupta
+    given: Abhishek
+  - family: Sourav
+    given: Kumar
+  - family: Trehan
+    given: Sagar
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Terra incognita: On the practicality of user-space file systems'
+  title-short: Terra incognita
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/tarasov
+
+- id: conf/hotstorage/ZhangSJ14
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Jie
+  - family: Shihab
+    given: Mustafa
+  - family: Jung
+    given: Myoungsoo
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Power, energy, and thermal considerations in sSD-based i/O acceleration
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/zhang
+
+- id: conf/hotstorage/AkelCMGS11
+  type: paper-conference
+  author:
+  - family: Akel
+    given: Ameen
+  - family: Caulfield
+    given: Adrian M.
+  - family: Mollov
+    given: Todor I.
+  - family: Gupta
+    given: Rajesh K.
+  - family: Swanson
+    given: Steven
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 'Onyx: A prototype phase change memory storage array'
+  title-short: Onyx
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/onyx-prototype-phase-change-memory-storage-array
+
+- id: conf/hotstorage/LiuPLK13
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Qing
+  - family: Podhorszki
+    given: Norbert
+  - family: Logan
+    given: Jeremy
+  - family: Klasky
+    given: Scott
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Runtime i/O re-routing + throttling on hPC storage
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/liu
+
+- id: conf/hotstorage/Arpaci-DusseauAP10
+  type: paper-conference
+  author:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Prabhakaran
+    given: Vijayan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Removing the costs of indirection in flash-based sSDs with nameless writes
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/removing-costs-indirection-flash-based-ssds-nameless-writes
+
+- id: conf/hotstorage/ZhangLZW015
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Xuebin
+  - family: Li
+    given: Jiangpeng
+  - family: Zhao
+    given: Kai
+  - family: Wang
+    given: Hao
+  - family: '0002'
+    given: Tong Zhang
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Leveraging progressive programmability of sLC flash pages to realize zero-overhead
+    delta compression for metadata storage
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/zhang
+
+- id: conf/hotstorage/BenderFJKMMSSZ11
+  type: paper-conference
+  author:
+  - family: Bender
+    given: Michael A.
+  - family: Farach-Colton
+    given: Martin
+  - family: Johnson
+    given: Rob
+  - family: Kuszmaul
+    given: Bradley C.
+  - family: Medjedovic
+    given: Dzejla
+  - family: Montes
+    given: Pablo
+  - family: Shetty
+    given: Pradeep
+  - family: Spillane
+    given: Richard P.
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 'Don’t thrash: How to cache your hash on flash'
+  title-short: Don’t thrash
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/dont-thrash-how-cache-your-hash-flash
+
+- id: conf/hotstorage/LekakisBK12
+  type: paper-conference
+  author:
+  - family: Lekakis
+    given: Vassilios
+  - family: Basagalar
+    given: Yunus
+  - family: Keleher
+    given: Pete
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Don’t trust your roommate, or, access control and replication protocols in
+    “home” environments
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/lekakis
+
+- id: conf/hotstorage/Chandrashekhara15
+  type: paper-conference
+  author:
+  - family: Chandrashekhara
+    given: Sharath
+  - family: Marcus
+    given: Kyle
+  - family: Subramanya
+    given: Rakesh G. M.
+  - family: Karve
+    given: Hrishikesh S.
+  - family: Dantu
+    given: Karthik
+  - family: Ko
+    given: Steven Y.
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Enabling automated, rich, and versatile data management for android apps
+    with blueMountain
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/chandrashekhara
+
+- id: conf/hotstorage/AppuswamyMT10
+  type: paper-conference
+  author:
+  - family: Appuswamy
+    given: Raja
+  - family: Moolenbroek
+    given: David C.
+    dropping-particle: van
+  - family: Tanenbaum
+    given: Andrew S.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Block-level rAID is dead
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/block-level-raid-dead
+
+- id: conf/hotstorage/Peek10
+  type: paper-conference
+  author:
+  - family: Peek
+    given: Daniel
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: 'TrapperKeeper: The case for using virtualization to add type awareness
+    to file systems'
+  title-short: TrapperKeeper
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/trapperkeeper-case-using-virtualization-add-type-awareness-file-systems
+
+- id: conf/hotstorage/MohanSGS10
+  type: paper-conference
+  author:
+  - family: Mohan
+    given: Vidyabhushan
+  - family: Siddiqua
+    given: Taniya
+  - family: Gurumurthi
+    given: Sudhanva
+  - family: Stan
+    given: Mircea R.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: How i learned to stop worrying and love flash endurance
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/how-i-learned-stop-worrying-and-love-flash-endurance
+
+- id: conf/hotstorage/ZhangDAA13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yupu
+  - family: Dragga
+    given: Chris
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: '\*-box: Towards reliability and consistency in dropbox-like file synchronization
+    services'
+  title-short: \*-box
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/zhang
+
+- id: conf/hotstorage/CidonEAK15
+  type: paper-conference
+  author:
+  - family: Cidon
+    given: Asaf
+  - family: Eisenman
+    given: Assaf
+  - family: Alizadeh
+    given: Mohammad
+  - family: Katti
+    given: Sachin
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Dynacache: Dynamic cloud caching'
+  title-short: Dynacache
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotcloud15/workshop-program/presentation/cidon
+
+- id: conf/hotstorage/ThereskaGH12
+  type: paper-conference
+  author:
+  - family: Thereska
+    given: Eno
+  - family: Gosset
+    given: Philip
+  - family: Harper
+    given: Richard H. R.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Multi-structured redundancy
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/thereska
+
+- id: conf/hotstorage/LiMZ14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Zhichao
+  - family: Mukker
+    given: Amanpreet
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/li_zhichao
+
+- id: conf/hotstorage/ChengIGB15
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: Yue
+  - family: Iqbal
+    given: M. Safdar
+  - family: Gupta
+    given: Aayush
+  - family: Butt
+    given: Ali Raza
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Pricing games for hybrid object stores in the cloud: Provider vs. tenant'
+  title-short: Pricing games for hybrid object stores in the cloud
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotcloud15/workshop-program/presentation/cheng
+
+- id: conf/hotstorage/LeeQLKM14
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Young-Sik
+  - family: Quero
+    given: Luis Cavazos
+  - family: Lee
+    given: Youngjae
+  - family: Kim
+    given: Jin-Soo
+  - family: Maeng
+    given: Seungryoul
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Accelerating external sorting via on-the-fly data merge in active sSDs
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/lee
+
+- id: conf/hotstorage/2012
+  type: book
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 4th uSENIX workshop on hot topics in storage and file systems, hotStorage’12,
+    boston, mA, uSA, june 13-14, 2012
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A339
+
+- id: conf/hotstorage/GreenbergBG15
+  type: paper-conference
+  author:
+  - family: Greenberg
+    given: Hugh
+  - family: Bent
+    given: John
+  - family: Grider
+    given: Gary
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'MDHIM: A parallel key/Value framework for hPC'
+  title-short: MDHIM
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/greenberg
+
+- id: conf/hotstorage/2011
+  type: book
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 3rd uSENIX workshop on hot topics in storage and file systems, hotStorage’11,
+    portland, oR, uSA, june 14, 2011
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A274
+
+- id: conf/hotstorage/RashmiSGKBR13
+  type: paper-conference
+  author:
+  - family: Rashmi
+    given: K. V.
+  - family: Shah
+    given: Nihar B.
+  - family: Gu
+    given: Dikang
+  - family: Kuang
+    given: Hairong
+  - family: Borthakur
+    given: Dhruba
+  - family: Ramchandran
+    given: Kannan
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: 'A solution to the network challenges of data recovery in erasure-coded
+    distributed storage systems: A study on the facebook warehouse cluster'
+  title-short: A solution to the network challenges of data recovery in erasure-coded
+    distributed storage systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/rashmi
+
+- id: conf/hotstorage/KathpalKB12
+  type: paper-conference
+  author:
+  - family: Kathpal
+    given: Atish
+  - family: Kulkarni
+    given: Mandar
+  - family: Bakre
+    given: Ajay
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Analyzing compute vs. storage tradeoff for video-aware storage efficiency
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/kathpal
+
+- id: conf/hotstorage/BlottLKV15
+  type: paper-conference
+  author:
+  - family: Blott
+    given: Michaela
+  - family: Liu
+    given: Ling
+  - family: Karras
+    given: Kimon
+  - family: Vissers
+    given: Kees A.
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Scaling out to a single-node 80Gbps memcached server with 40Terabytes of
+    memory
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/blott
+
+- id: conf/hotstorage/MeyerSWZHW10
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Dutch T.
+  - family: Shamma
+    given: Mohammad
+  - family: Wires
+    given: Jake
+  - family: Zhang
+    given: Quan
+  - family: Hutchinson
+    given: Norman C.
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Fast and cautious evolution of cloud storage
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/fast-and-cautious-evolution-cloud-storage
+
+- id: conf/hotstorage/UsecheKV11
+  type: paper-conference
+  author:
+  - family: Useche
+    given: Luis
+  - family: Koller
+    given: Ricardo
+  - family: Verma
+    given: Akshat
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: Truly non-blocking writes
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/truly-non-blocking-writes
+
+- id: conf/hotstorage/KangHMC14
+  type: paper-conference
+  author:
+  - family: Kang
+    given: Jeong-Uk
+  - family: Hyun
+    given: Jeeseok
+  - family: Maeng
+    given: Hyunjoo
+  - family: Cho
+    given: Sangyeun
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: The multi-streamed solid-state drive
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/kang
+
+- id: conf/hotstorage/Desnoyers13
+  type: paper-conference
+  author:
+  - family: Desnoyers
+    given: Peter
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: What systems researchers need to know about nAND flash
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/desnoyers
+
+- id: conf/hotstorage/HeD14
+  type: paper-conference
+  author:
+  - family: He
+    given: Weiping
+  - family: Du
+    given: David H. C.
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Novel address mappings for shingled write disks
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/he
+
+- id: conf/hotstorage/WiresSW11
+  type: paper-conference
+  author:
+  - family: Wires
+    given: Jake
+  - family: Spear
+    given: Mark
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: Exposing file system mappings with mapFS
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/exposing-file-system-mappings-mapfs
+
+- id: conf/hotstorage/BentSDFTGT15
+  type: paper-conference
+  author:
+  - family: Bent
+    given: John
+  - family: Settlemyer
+    given: Brad
+  - family: DeBardeleben
+    given: Nathan
+  - family: Faibish
+    given: Sorin
+  - family: Ting
+    given: Dennis
+  - family: Gupta
+    given: Uday
+  - family: Tzelnic
+    given: Percy
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: On the non-suitability of non-volatility
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/bent
+
+- id: conf/hotstorage/KrishnanPLSKNKN14
+  type: paper-conference
+  author:
+  - family: Krishnan
+    given: M. Nikhil
+  - family: Prakash
+    given: N.
+  - family: Lalitha
+    given: V.
+  - family: Sasidharan
+    given: Birenjith
+  - family: Kumar
+    given: P. Vijay
+  - family: Narayanamurthy
+    given: Srinivasan
+  - family: Kumar
+    given: Ranjit
+  - family: Nandi
+    given: Siddhartha
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Evaluation of codes with inherent double replication for hadoop
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/krishnan
+
+- id: conf/hotstorage/TwiggBMMWW11
+  type: paper-conference
+  author:
+  - family: Twigg
+    given: Andrew
+  - family: Byde
+    given: Andrew
+  - family: Milos
+    given: Grzegorz
+  - family: Moreton
+    given: Tim D.
+  - family: Wilkes
+    given: John
+  - family: Wilkie
+    given: Tom
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: Stratified b-trees and versioned dictionaries
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/stratified-b-trees-and-versioned-dictionaries
+
+- id: conf/hotstorage/ManousakisMB13
+  type: paper-conference
+  author:
+  - family: Manousakis
+    given: Ioannis
+  - family: Marazakis
+    given: Manolis
+  - family: Bilas
+    given: Angelos
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: 'FDIO: A feedback driven controller for minimizing energy in i/O-intensive
+    applications'
+  title-short: FDIO
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/manousakis
+
+- id: conf/hotstorage/Goldszmidt12
+  type: paper-conference
+  author:
+  - family: Goldszmidt
+    given: Moisés
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Finding soon-to-fail disks in a haystack
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/goldszmidt
+
+- id: conf/hotstorage/YuSSSEY12
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Youngjin
+  - family: Shin
+    given: Dongin
+  - family: Shin
+    given: Woong
+  - family: Song
+    given: Nae Young
+  - family: Eom
+    given: Hyeonsang
+  - family: Yeom
+    given: Heon Young
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Exploiting peak device throughput from random access workload
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/yu
+
+- id: conf/hotstorage/DouFC15
+  type: paper-conference
+  author:
+  - family: Dou
+    given: Xianzheng
+  - family: Flinn
+    given: Jason
+  - family: Chen
+    given: Peter M.
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Toward eidetic distributed file systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/dou
+
+- id: conf/hotstorage/LiSDSS14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Cheng
+  - family: Shilane
+    given: Philip
+  - family: Douglis
+    given: Fred
+  - family: Sawyer
+    given: Darren
+  - family: Shim
+    given: Hyong
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Assert(!Defined(Sequential i/O))
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/li_cheng
+
+- id: conf/hotstorage/DewakarSSWSUVS15
+  type: paper-conference
+  author:
+  - family: Dewakar
+    given: Suganthi
+  - family: Subbiah
+    given: Sethuraman
+  - family: Soundararajan
+    given: Gokul
+  - family: Wilson
+    given: Mike
+  - family: Storer
+    given: Mark W.
+  - family: Udayashankar
+    given: Kishore Kasi
+  - family: Voruganti
+    given: Kaladhar
+  - family: Shao
+    given: Minglong
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Storage efficiency opportunities and analysis for video repositories
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/dewakar
+
+- id: conf/hotstorage/Kaushik14
+  type: paper-conference
+  author:
+  - family: Kaushik
+    given: Rini T.
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: 'FlashQueryFile: Flash-optimized layout and algorithms for interactive
+    ad hoc sQL on big data'
+  title-short: FlashQueryFile
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/kaushik
+
+- id: conf/hotstorage/KadekodiPG15
+  type: paper-conference
+  author:
+  - family: Kadekodi
+    given: Saurabh
+  - family: Pimpale
+    given: Swapnil
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Caveat-scriptor: Write anywhere shingled disks'
+  title-short: Caveat-scriptor
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/kadekodi
+
+- id: conf/hotstorage/SmaldoneWH13
+  type: paper-conference
+  author:
+  - family: Smaldone
+    given: Stephen
+  - family: Wallace
+    given: Grant
+  - family: Hsu
+    given: Windsor
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Efficiently storing virtual machine backups
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/smaldone
+
+- id: conf/hotstorage/ZhangMKCLAWLK15
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Ben
+  - family: Mor
+    given: Nitesh
+  - family: Kolb
+    given: John
+  - family: Chan
+    given: Douglas S.
+  - family: Lutz
+    given: Ken
+  - family: Allman
+    given: Eric
+  - family: Wawrzynek
+    given: John
+  - family: Lee
+    given: Edward A.
+  - family: Kubiatowicz
+    given: John
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'The cloud is not enough: Saving ioT from the cloud'
+  title-short: The cloud is not enough
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotcloud15/workshop-program/presentation/zhang
+
+- id: conf/hotstorage/AppuswamyLR14
+  type: paper-conference
+  author:
+  - family: Appuswamy
+    given: Raja
+  - family: Legtchenko
+    given: Sergey
+  - family: Rowstron
+    given: Antony I. T.
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Towards paravirtualized network file systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/appuswamy
+
+- id: conf/hotstorage/MoonR13
+  type: paper-conference
+  author:
+  - family: Moon
+    given: Sangwhan
+  - family: Reddy
+    given: A. L. Narasimha
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Don’t let rAID raid the lifetime of your sSD array
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/moon
+
+- id: conf/hotstorage/JungK12
+  type: paper-conference
+  author:
+  - family: Jung
+    given: Myoungsoo
+  - family: Kandemir
+    given: Mahmut T.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: An evaluation of different page allocation strategies on high-speed sSDs
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/jung
+
+- id: conf/hotstorage/YooWCKCY11
+  type: paper-conference
+  author:
+  - family: Yoo
+    given: Balgeun
+  - family: Won
+    given: Youjip
+  - family: Cho
+    given: Seokhei
+  - family: Kang
+    given: Sooyong
+  - family: Choi
+    given: Jongmoo
+  - family: Yoon
+    given: Sungroh
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 'SSD characterization: From energy consumption’s perspective'
+  title-short: SSD characterization
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/ssd-characterization-energy-consumptions-perspective
+
+- id: conf/hotstorage/EsmetBFK12
+  type: paper-conference
+  author:
+  - family: Esmet
+    given: John
+  - family: Bender
+    given: Michael A.
+  - family: Farach-Colton
+    given: Martin
+  - family: Kuszmaul
+    given: Bradley C.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: The tokuFS streaming file system
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/esmet
+
+- id: conf/hotstorage/GokhaleANU10
+  type: paper-conference
+  author:
+  - family: Gokhale
+    given: Salil
+  - family: Agrawal
+    given: Nitin
+  - family: Noonan
+    given: Sean
+  - family: Ungureanu
+    given: Cristian
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: KVZone and the search for a write-optimized key-value store
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/kvzone-and-search-write-optimized-key-value-store
+
+- id: conf/hotstorage/ZadokACCCM15
+  type: paper-conference
+  author:
+  - family: Zadok
+    given: Erez
+  - family: Arora
+    given: Aashray
+  - family: Cao
+    given: Zhen
+  - family: Chaganti
+    given: Akhilesh
+  - family: Chaudhary
+    given: Arvind
+  - family: Mandal
+    given: Sonam
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Parametric optimization of storage systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/zadok
+
+- id: conf/hotstorage/EfstathopoulosG10
+  type: paper-conference
+  author:
+  - family: Efstathopoulos
+    given: Petros
+  - family: Guo
+    given: Fanglu
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Rethinking deduplication scalability
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/rethinking-deduplication-scalability
+
+- id: conf/hotstorage/ZhangYNT13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Wei
+  - family: Yang
+    given: Tao
+  - family: Narayanasamy
+    given: Gautham
+  - family: Tang
+    given: Hong
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Low-cost data deduplication for virtual machine backup in cloud storage
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/zhang_wei
+
+- id: conf/hotstorage/TarasovJHTKZ13
+  type: paper-conference
+  author:
+  - family: Tarasov
+    given: Vasily
+  - family: Jain
+    given: Deepak
+  - family: Hildebrand
+    given: Dean
+  - family: Tewari
+    given: Renu
+  - family: Kuenning
+    given: Geoff
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Improving i/O performance using virtual disk introspection
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/tarasov
+
+- id: conf/hotstorage/ShinBGMW12
+  type: paper-conference
+  author:
+  - family: Shin
+    given: Ji-Yong
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Ganesh
+    given: Lakshmi
+  - family: Marian
+    given: Tudor
+  - family: Weatherspoon
+    given: Hakim
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 'Gecko: A contention-oblivious design for cloud storage'
+  title-short: Gecko
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/shin
+
+- id: conf/hotstorage/SuzukiBHHKUTSY10
+  type: paper-conference
+  author:
+  - family: Suzuki
+    given: Jun
+  - family: Baba
+    given: Teruyuki
+  - family: Hidaka
+    given: Yoichi
+  - family: Higuchi
+    given: Junichi
+  - family: Kami
+    given: Nobuharu
+  - family: Uchida
+    given: Satoshi
+  - family: Takahashi
+    given: Masahiko
+  - family: Sugawara
+    given: Tomoyoshi
+  - family: Yoshikawa
+    given: Takashi
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Adaptive memory system over ethernet
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/adaptive-memory-system-over-ethernet
+
+- id: conf/hotstorage/ParkCW15
+  type: paper-conference
+  author:
+  - family: Park
+    given: Dongil
+  - family: Cheon
+    given: Seungyong
+  - family: Won
+    given: Youjip
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Suspend-aware segment cleaning in log-structured file system
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/park
+
+- id: conf/hotstorage/KatiyarW11
+  type: paper-conference
+  author:
+  - family: Katiyar
+    given: Atul
+  - family: Weissman
+    given: Jon B.
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 'ViDeDup: An application-aware framework for video de-duplication'
+  title-short: ViDeDup
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/videdup-application-aware-framework-video-de-duplication
+
+- id: conf/hotstorage/JungK13
+  type: paper-conference
+  author:
+  - family: Jung
+    given: Myoungsoo
+  - family: Kandemir
+    given: Mahmut T.
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Challenges in getting flash drives closer to cPU
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/jung
+
+- id: conf/hotstorage/LewisH15
+  type: paper-conference
+  author:
+  - family: Lewis
+    given: Russell
+  - family: Hartman
+    given: John H.
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 'Accordion: Multi-scale recipes for adaptive detection of duplication'
+  title-short: Accordion
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/lewis
+
+- id: conf/hotstorage/SantanaLKRL15
+  type: paper-conference
+  author:
+  - family: Santana
+    given: Ricardo
+  - family: Lyons
+    given: Steven
+  - family: Koller
+    given: Ricardo
+  - family: Rangaswami
+    given: Raju
+  - family: Liu
+    given: Jason
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: To aRC or not to aRC
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/santana
+
+- id: conf/hotstorage/GreenanPW10
+  type: paper-conference
+  author:
+  - family: Greenan
+    given: Kevin M.
+  - family: Plank
+    given: James S.
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: 'Mean time to meaningless: MTTDL, markov models, and storage system reliability'
+  title-short: Mean time to meaningless
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/mean-time-meaningless-mttdl-markov-models-and-storage-system-reliability
+
+- id: conf/hotstorage/NowlanFG12
+  type: paper-conference
+  author:
+  - family: Nowlan
+    given: Michael F.
+  - family: Ford
+    given: Bryan
+  - family: Gummadi
+    given: Ramakrishna
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 'Non-linear compression: Gzip me not!'
+  title-short: Non-linear compression
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/nowlan
+
+- id: conf/hotstorage/2013
+  type: book
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: 5th uSENIX workshop on hot topics in storage and file systems, hotStorage’13,
+    san jose, cA, uSA, june 27-28, 2013
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A377
+
+- id: conf/hotstorage/JeongHLK13
+  type: paper-conference
+  author:
+  - family: Jeong
+    given: Jaeyong
+  - family: Hahn
+    given: Sangwook Shane
+  - family: Lee
+    given: Sungjin
+  - family: Kim
+    given: Jihong
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Improving nAND endurance by dynamic program and erase scaling
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/jeong
+
+- id: conf/hotstorage/WuD011
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Qi
+  - family: Dong
+    given: Guiqiang
+  - family: '0002'
+    given: Tong Zhang
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: Exploiting heat-accelerated flash memory wear-out recovery to enable self-healing
+    sSDs
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/exploiting-heat-accelerated-flash-memory-wear-out-recovery-enable-self
+
+- id: conf/hotstorage/2014
+  type: book
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: 6th uSENIX workshop on hot topics in storage and file systems, hotStorage
+    ’14, philadelphia, pA, uSA, june 17-18, 2014
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14
+
+- id: conf/hotstorage/LinDLLRSW15
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Xing
+  - family: Douglis
+    given: Fred
+  - family: Li
+    given: Jim
+  - family: Li
+    given: Xudong
+  - family: Ricci
+    given: Robert
+  - family: Smaldone
+    given: Stephen
+  - family: Wallace
+    given: Grant
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: Metadata considered harmful...to deduplication
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15/workshop-program/presentation/lin
+
+- id: conf/hotstorage/2015
+  type: book
+  editor:
+  - family: Salem
+    given: Kenneth
+  issued:
+  - year: '2015'
+  title: 7th uSENIX workshop on hot topics in storage and file systems, hotStorage
+    2015, santa clara, cA, july 6-7, 2015
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage15
+
+- id: conf/hotstorage/AgrawalAU13
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Nitin
+  - family: Aranya
+    given: Akshat
+  - family: Ungureanu
+    given: Cristian
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Mobile data sync in a blink
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/agrawal
+
+- id: conf/hotstorage/MarmolSTRDRG14
+  type: paper-conference
+  author:
+  - family: Marmol
+    given: Leonardo
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Talagala
+    given: Nisha
+  - family: Rangaswami
+    given: Raju
+  - family: Devendrappa
+    given: Sushma
+  - family: Ramsundar
+    given: Bharath
+  - family: Ganesan
+    given: Sriram
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: 'NVMKV: A scalable and lightweight flash aware key-value store'
+  title-short: NVMKV
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/marmol
+
+- id: conf/hotstorage/ShaferSRG13
+  type: paper-conference
+  author:
+  - family: Shafer
+    given: Ilari
+  - family: Sambasivan
+    given: Raja R.
+  - family: Rowe
+    given: Anthony
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Gulati
+    given: Ajay
+  issued:
+  - year: '2013'
+  title: Specialized storage for big numeric time series
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/shafer
+
+- id: conf/hotstorage/LuoTJ14
+  type: paper-conference
+  author:
+  - family: Luo
+    given: Hao
+  - family: Tian
+    given: Lei
+  - family: Jiang
+    given: Hong
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: 'QNVRAM: Quasi non-volatile rAM for low overhead persistency enforcement
+    in smartphones'
+  title-short: QNVRAM
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/luo
+
+- id: conf/hotstorage/KhanBPH11
+  type: paper-conference
+  author:
+  - family: Khan
+    given: Osama
+  - family: Burns
+    given: Randal C.
+  - family: Plank
+    given: James S.
+  - family: Huang
+    given: Cheng
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: In search of i/O-optimal recovery from disk failures
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/search-io-optimal-recovery-disk-failures
+
+- id: conf/hotstorage/2010
+  type: book
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: 2nd uSENIX workshop on hot topics in storage and file systems, hotStorage’10,
+    boston, mA, uSA, june 22, 2010
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A8
+
+- id: conf/hotstorage/PeterLZPAKZW14
+  type: paper-conference
+  author:
+  - family: Peter
+    given: Simon
+  - family: Li
+    given: Jialin
+  - family: Zhang
+    given: Irene
+  - family: Ports
+    given: Dan R. K.
+  - family: Anderson
+    given: Thomas E.
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Zbikowski
+    given: Mark
+  - family: Woos
+    given: Doug
+  editor:
+  - family: Swanson
+    given: Steven
+  issued:
+  - year: '2014'
+  title: Towards high-performance application-level storage management
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/peter
+
+- id: conf/hotstorage/Elnably0GV12
+  type: paper-conference
+  author:
+  - family: Elnably
+    given: Ahmed
+  - family: '0014'
+    given: Hui Wang
+  - family: Gulati
+    given: Ajay
+  - family: Varman
+    given: Peter J.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: Efficient qoS for multi-tiered storage systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/elnably
+
+- id: conf/hotstorage/PrabhakaranBDW10
+  type: paper-conference
+  author:
+  - family: Prabhakaran
+    given: Vijayan
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Davis
+    given: John D.
+  - family: Wobber
+    given: Ted
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2010'
+  title: Depletable storage systems
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage-10/depletable-storage-systems
+
+- id: conf/hotstorage/BairavasundaramSMVK11
+  type: paper-conference
+  author:
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Soundararajan
+    given: Gokul
+  - family: Mathur
+    given: Vipul
+  - family: Voruganti
+    given: Kaladhar
+  - family: Kleiman
+    given: Steven
+  editor:
+  - family: Ahmad
+    given: Irfan
+  issued:
+  - year: '2011'
+  title: 'Italian for beginners: The next steps for sLO-based management'
+  title-short: Italian for beginners
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage11/italian-beginners-next-steps-slo-based-management
+
+- id: conf/hotstorage/ZhengBS12
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Da
+  - family: Burns
+    given: Randal C.
+  - family: Szalay
+    given: Alexander S.
+  editor:
+  - family: Rangaswami
+    given: Raju
+  issued:
+  - year: '2012'
+  title: 'A parallel page cache: IOPS and caching for multicore systems'
+  title-short: A parallel page cache
+  container-title: HotStorage
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/zheng
+...

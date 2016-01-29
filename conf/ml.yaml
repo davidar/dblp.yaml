@@ -1,0 +1,624 @@
+---
+references:
+- id: conf/ml/Yallop07
+  type: paper-conference
+  author:
+  - family: Yallop
+    given: Jeremy
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: Practical generic programming in oCaml
+  container-title: ML
+  publisher: ACM
+  page: '83-94'
+  URL: http://doi.acm.org/10.1145/1292535.1292548
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/HermanF07
+  type: paper-conference
+  author:
+  - family: Herman
+    given: David
+  - family: Flanagan
+    given: Cormac
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: 'Status report: Specifying javascript with mL'
+  title-short: Status report
+  container-title: ML
+  publisher: ACM
+  page: '47-52'
+  URL: http://doi.acm.org/10.1145/1292535.1292543
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/ChuangS07
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Tyng-Ruey
+  - family: Schäfer
+    given: Max
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: 'Status report: Layered streaming xML processing with modules'
+  title-short: Status report
+  container-title: ML
+  publisher: ACM
+  page: '53-58'
+  URL: http://doi.acm.org/10.1145/1292535.1292544
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/Karvonen07
+  type: paper-conference
+  author:
+  - family: Karvonen
+    given: Vesa A. J.
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: Generics for the working mL’er
+  container-title: ML
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/1292535.1292547
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/Filliatre08
+  type: paper-conference
+  author:
+  - family: Filliâtre
+    given: Jean-Christophe
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'A functional implementation of the garsia–wachs algorithm: (Functional
+    pearl)'
+  title-short: A functional implementation of the garsia–wachs algorithm
+  container-title: ML
+  publisher: ACM
+  page: '91-96'
+  URL: http://doi.acm.org/10.1145/1411304.1411317
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/CanouBC08
+  type: paper-conference
+  author:
+  - family: Canou
+    given: Benjamin
+  - family: Balat
+    given: Vincent
+  - family: Chailloux
+    given: Emmanuel
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'O’browser: Objective caml on browsers'
+  title-short: O’browser
+  container-title: ML
+  publisher: ACM
+  page: '69-78'
+  URL: http://doi.acm.org/10.1145/1411304.1411315
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/FluetFRRSX07
+  type: paper-conference
+  author:
+  - family: Fluet
+    given: Matthew
+  - family: Ford
+    given: Nic
+  - family: Rainey
+    given: Mike
+  - family: Reppy
+    given: John H.
+  - family: Shaw
+    given: Adam
+  - family: Xiao
+    given: Yingqi
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: 'Status report: The manticore project'
+  title-short: Status report
+  container-title: ML
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/1292535.1292539
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/RossbergTK07
+  type: paper-conference
+  author:
+  - family: Rossberg
+    given: Andreas
+  - family: Tack
+    given: Guido
+  - family: Kornstaedt
+    given: Leif
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: 'Status report: Hot pickles, and how to serve them'
+  title-short: Status report
+  container-title: ML
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1292535.1292540
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/LernerGC06
+  type: paper-conference
+  author:
+  - family: Lerner
+    given: Benjamin S.
+  - family: Grossman
+    given: Dan
+  - family: Chambers
+    given: Craig
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: 'Seminal: Searching for mL type-error messages'
+  title-short: Seminal
+  container-title: ML
+  publisher: ACM
+  page: '63-73'
+  URL: http://doi.acm.org/10.1145/1159876.1159887
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/Reppy06
+  type: paper-conference
+  author:
+  - family: Reppy
+    given: John H.
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Type-sensitive control-flow analysis
+  container-title: ML
+  publisher: ACM
+  page: '74-83'
+  URL: http://doi.acm.org/10.1145/1159876.1159888
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/Balat06
+  type: paper-conference
+  author:
+  - family: Balat
+    given: Vincent
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: 'Ocsigen: Typing web interaction with objective caml'
+  title-short: Ocsigen
+  container-title: ML
+  publisher: ACM
+  page: '84-94'
+  URL: http://doi.acm.org/10.1145/1159876.1159889
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/2008
+  type: book
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: Proceedings of the aCM workshop on mL, 2008, victoria, bC, canada, september
+    21, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/HellerT08
+  type: paper-conference
+  author:
+  - family: Heller
+    given: Alec
+  - family: Tov
+    given: Jesse A.
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'Caml-shcaml: An ocaml library for unix shell programming'
+  title-short: Caml-shcaml
+  container-title: ML
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/1411304.1411316
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Filliatre06
+  type: paper-conference
+  author:
+  - family: Filliâtre
+    given: Jean-Christophe
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Backtracking iterators
+  container-title: ML
+  publisher: ACM
+  page: '55-62'
+  URL: http://doi.acm.org/10.1145/1159876.1159885
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/FilliatreC06
+  type: paper-conference
+  author:
+  - family: Filliâtre
+    given: Jean-Christophe
+  - family: Conchon
+    given: Sylvain
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Type-safe modular hash-consing
+  container-title: ML
+  publisher: ACM
+  page: '12-19'
+  URL: http://doi.acm.org/10.1145/1159876.1159880
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/BillingsSSS06
+  type: paper-conference
+  author:
+  - family: Billings
+    given: John
+  - family: Sewell
+    given: Peter
+  - family: Shinwell
+    given: Mark R.
+  - family: Strnisa
+    given: Rok
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Type-safe distributed programming for oCaml
+  container-title: ML
+  publisher: ACM
+  page: '20-31'
+  URL: http://doi.acm.org/10.1145/1159876.1159881
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/Weeks06
+  type: paper-conference
+  author:
+  - family: Weeks
+    given: Stephen
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Whole-program compilation in mLton
+  container-title: ML
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1159876.1159877
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/Syme06
+  type: paper-conference
+  author:
+  - family: Syme
+    given: Don
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: 'Leveraging .nET meta-programming components from f\#: Integrated queries
+    and interoperable heterogeneous execution'
+  title-short: Leveraging .nET meta-programming components from f\#
+  container-title: ML
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/1159876.1159884
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/BlumeRR08
+  type: paper-conference
+  author:
+  - family: Blume
+    given: Matthias
+  - family: Rainey
+    given: Mike
+  - family: Reppy
+    given: John H.
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: Calling variadic functions from a strongly-typed language
+  container-title: ML
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/1411304.1411312
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Remy07
+  type: paper-conference
+  author:
+  - family: Rémy
+    given: Didier
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: MLF for everyone (users, implementers, and designers)
+  container-title: ML
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1292535.1292536
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/2006
+  type: book
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Proceedings of the aCM workshop on mL, 2006, portland, oregon, uSA, september
+    16, 2006
+  publisher: ACM
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/SwaseyVCH06
+  type: paper-conference
+  author:
+  - family: Swasey
+    given: David
+  - family: VII
+    given: Tom Murphy
+  - family: Crary
+    given: Karl
+  - family: Harper
+    given: Robert
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: A separate compilation extension to standard mL
+  container-title: ML
+  publisher: ACM
+  page: '32-42'
+  URL: http://doi.acm.org/10.1145/1159876.1159883
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/LoddoS07
+  type: paper-conference
+  author:
+  - family: Loddo
+    given: Jean-Vincent
+  - family: Saiu
+    given: Luca
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: 'Status report: Marionnet or “how to implement a virtual network laboratory
+    in six months and be happy”'
+  title-short: Status report
+  container-title: ML
+  publisher: ACM
+  page: '59-70'
+  URL: http://doi.acm.org/10.1145/1292535.1292545
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/ConchonF07
+  type: paper-conference
+  author:
+  - family: Conchon
+    given: Sylvain
+  - family: Filliâtre
+    given: Jean-Christophe
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: A persistent union-find data structure
+  container-title: ML
+  publisher: ACM
+  page: '37-46'
+  URL: http://doi.acm.org/10.1145/1292535.1292541
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/NordlanderCG08
+  type: paper-conference
+  author:
+  - family: Nordlander
+    given: Johan
+  - family: Carlsson
+    given: Magnus
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: Unrestricted pure call-by-value recursion
+  container-title: ML
+  publisher: ACM
+  page: '23-34'
+  URL: http://doi.acm.org/10.1145/1411304.1411309
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/VII06
+  type: paper-conference
+  author:
+  - family: VII
+    given: Tom Murphy
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: ML grid programming with conCert
+  container-title: ML
+  publisher: ACM
+  page: '2-11'
+  URL: http://doi.acm.org/10.1145/1159876.1159879
+  ISBN: '1-59593-483-9'
+
+- id: conf/ml/2007
+  type: book
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: Proceedings of the aCM workshop on mL, 2007, freiburg, germany, october 5,
+    2007
+  publisher: ACM
+  ISBN: '978-1-59593-676-9'
+
+- id: conf/ml/CuoqD08
+  type: paper-conference
+  author:
+  - family: Cuoq
+    given: Pascal
+  - family: Doligez
+    given: Damien
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'Hashconsing in an incrementally garbage-collected system: A story of weak
+    pointers and hashconsing in ocaml 3.10.2'
+  title-short: Hashconsing in an incrementally garbage-collected system
+  container-title: ML
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/1411304.1411308
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Maranget08
+  type: paper-conference
+  author:
+  - family: Maranget
+    given: Luc
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: Compiling pattern matching to good decision trees
+  container-title: ML
+  publisher: ACM
+  page: '35-46'
+  URL: http://doi.acm.org/10.1145/1411304.1411311
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Vouillon08
+  type: paper-conference
+  author:
+  - family: Vouillon
+    given: Jérôme
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'Lwt: A cooperative thread library'
+  title-short: Lwt
+  container-title: ML
+  publisher: ACM
+  page: '3-12'
+  URL: http://doi.acm.org/10.1145/1411304.1411307
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Kennedy08
+  type: paper-conference
+  author:
+  - family: Kennedy
+    given: Andrew
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: 'Types for units-of-measure in f\#: Invited talk'
+  title-short: Types for units-of-measure in f\#
+  container-title: ML
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1411304.1411305
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/Lindley08
+  type: paper-conference
+  author:
+  - family: Lindley
+    given: Sam
+  editor:
+  - family: Sumii
+    given: Eijiro
+  issued:
+  - year: '2008'
+  title: Many holes in hindley-milner
+  container-title: ML
+  publisher: ACM
+  page: '59-68'
+  URL: http://doi.acm.org/10.1145/1411304.1411313
+  ISBN: '978-1-60558-062-3'
+
+- id: conf/ml/KuanM07
+  type: paper-conference
+  author:
+  - family: Kuan
+    given: George
+  - family: MacQueen
+    given: David
+  editor:
+  - family: Russo
+    given: Claudio V.
+  issued:
+  - year: '2007'
+  title: Efficient type inference using ranked type variables
+  container-title: ML
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1292535.1292538
+  ISBN: '978-1-59593-676-9'
+...

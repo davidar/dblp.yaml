@@ -1,0 +1,510 @@
+---
+references:
+- id: conf/ewlr/Birk97
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Andreas Birk
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: 'Robot learning and self-sufficiency: What the energy-level can tell us
+    about a robot’s performance'
+  title-short: Robot learning and self-sufficiency
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-125'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_8
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/LeeHL97
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Wei-Po
+  - family: Hallam
+    given: John
+  - family: Lund
+    given: Henrik Hautop
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Learning complex robot behaviours by evolutionary computing with task decomposition
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-172'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_11
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/1999
+  type: book
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '2000'
+  title: Advances in robot learning, 8th european workshop on learning robots, eWLR-8,
+    lausanne, switzerland, september 18, 1999, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1812'
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/ChagasH97
+  type: paper-conference
+  author:
+  - family: Chagas
+    given: Nuno Chalmique
+  - family: Hallam
+    given: John
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: 'A learning mobile robot: Theory, simulation and practice'
+  title-short: A learning mobile robot
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-154'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_10
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/FaiheM97
+  type: paper-conference
+  author:
+  - family: Faihe
+    given: Yassine
+  - family: Müller
+    given: Jean-Pierre
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: 'Analysis and design of robot’s behavior: Towards a methodology'
+  title-short: Analysis and design of robot’s behavior
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-61'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_4
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/BiancoC99
+  type: paper-conference
+  author:
+  - family: Bianco
+    given: Giovanni M.
+  - family: Cassinis
+    given: Riccardo
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: Biologically-inspired visual landmark learning for mobile robots
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-164'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_9
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/MuraoK97
+  type: paper-conference
+  author:
+  - family: Murao
+    given: Hajime
+  - family: Kitamura
+    given: Shinzo
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Q-learning with adaptive state space construction
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-28'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_2
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/GrossmannP97
+  type: paper-conference
+  author:
+  - family: Großmann
+    given: Axel
+  - family: Poli
+    given: Riccardo
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Continual robot learning with constructive neural networks
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-108'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_7
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/InuzukaOI99
+  type: paper-conference
+  author:
+  - family: Inuzuka
+    given: Nobuhiro
+  - family: Onda
+    given: Taichi
+  - family: Itoh
+    given: Hidenori
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: Learning robot control by relational concept induction with iteratively controlled
+    examples
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-83'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_5
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/KalmarSL97
+  type: paper-conference
+  author:
+  - family: Kalmár
+    given: Zsolt
+  - family: Szepesvári
+    given: Csaba
+  - family: Lörincz
+    given: András
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: 'Module based reinforcement learning: An application to a real robot'
+  title-short: Module based reinforcement learning
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-45'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_3
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/GrossmannP99
+  type: paper-conference
+  author:
+  - family: Großmann
+    given: Axel
+  - family: Poli
+    given: Riccardo
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: Learning a navigation task in changing environments by multi-task reinforcement
+    learning
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-43'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_2
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/Vogt97
+  type: paper-conference
+  author:
+  - family: Vogt
+    given: Paul
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Perceptual grounding in robots
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-141'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_9
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/Nehmzow99
+  type: paper-conference
+  author:
+  - family: Nehmzow
+    given: Ulrich
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: Map building through self-organisation for robot navigation
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-22'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_1
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/UchibeAH97
+  type: paper-conference
+  author:
+  - family: Uchibe
+    given: Eiji
+  - family: Asada
+    given: Minoru
+  - family: Hosoda
+    given: Koh
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Vision based state space construction for learning mobile robots in multi-agent
+    environments
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-78'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_5
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/QuoyGLRB99
+  type: paper-conference
+  author:
+  - family: Quoy
+    given: Mathias
+  - family: Gaussier
+    given: Philippe
+  - family: Leprêtre
+    given: Sacha
+  - family: Revel
+    given: Arnaud
+  - family: Banquet
+    given: Jean-Paul
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: 'A planning map for mobile robots: Speed control and paths finding in a
+    changing environment'
+  title-short: A planning map for mobile robots
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-119'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_7
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/HosodaA99
+  type: paper-conference
+  author:
+  - family: Hosoda
+    given: Koh
+  - family: Asada
+    given: Minoru
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: How does a robot find redundancy by itself?
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-70'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_4
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/RodriguezCIRB99
+  type: paper-conference
+  author:
+  - family: Rodríguez
+    given: Miguel A.
+  - family: Correa
+    given: José
+  - family: Iglesias
+    given: Roberto
+  - family: Regueiro
+    given: Carlos V.
+  - family: Barro
+    given: Senén
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: Probabilistic and count methods in map building for autonomous mobile robots
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-137'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_8
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/BelpaemeSL97
+  type: paper-conference
+  author:
+  - family: Belpaeme
+    given: Tony
+  - family: Steels
+    given: Luc
+  - family: Looveren
+    given: Joris Van
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: The construction and acquisition of visual categories
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-12'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_1
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/Pendrith99
+  type: paper-conference
+  author:
+  - family: Pendrith
+    given: Mark D.
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: 'Reinforcement learning in situated agents: Theoretical and practical solutions'
+  title-short: Reinforcement learning in situated agents
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-102'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_6
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/BillardH97
+  type: paper-conference
+  author:
+  - family: Billard
+    given: Aude
+  - family: Hayes
+    given: Gillian
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Transmitting communication skills through imitation in autonomous robots
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '79-94'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_6
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/EggenbergerITKU99
+  type: paper-conference
+  author:
+  - family: Eggenberger
+    given: Peter
+  - family: Ishiguro
+    given: Akio
+  - family: Tokura
+    given: Seiji
+  - family: Kondo
+    given: Toshiyuki
+  - family: Uchikawa
+    given: Yoshiki
+  editor:
+  - family: Watt
+    given: Jeremy
+  issued:
+  - year: '1999'
+  title: 'Toward seamless transfer from simulated to real worlds: A dynamically-rearranging
+    neural network approach'
+  title-short: Toward seamless transfer from simulated to real worlds
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '44-60'
+  volume: '1812'
+  DOI: 10.1007/3-540-40044-3_3
+  ISBN: '3-540-41162-3'
+
+- id: conf/ewlr/KeymeulenKIKH97
+  type: paper-conference
+  author:
+  - family: Keymeulen
+    given: Didier
+  - family: Konaka
+    given: Kenji
+  - family: Iwata
+    given: Masaya
+  - family: Kuniyoshi
+    given: Yasuo
+  - family: Higuchi
+    given: Tetsuya
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1997'
+  title: Robot learning using gate-level evolvable hardware
+  container-title: EWLR
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-'
+  volume: '1545'
+  DOI: 10.1007/3-540-49240-2_12
+  ISBN: '3-540-65480-1'
+
+- id: conf/ewlr/1997
+  type: book
+  editor:
+  - family: '0002'
+    given: Andreas Birk
+  issued:
+  - year: '1998'
+  title: Learning robots, 6th european workshop, eWLR-6, brighton, england, august
+    1-2, 1997, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1545'
+  ISBN: '3-540-65480-1'
+...

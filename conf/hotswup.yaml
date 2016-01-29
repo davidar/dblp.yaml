@@ -1,0 +1,706 @@
+---
+references:
+- id: conf/hotswup/Choi09
+  type: paper-conference
+  author:
+  - family: Choi
+    given: Alan
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Online application upgrade using edition-based redefinition
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656443
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/BuissonCD08
+  type: paper-conference
+  author:
+  - family: Buisson
+    given: Jérémy
+  - family: Carro
+    given: Cecilia
+  - family: Dagnat
+    given: Fabien
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Issues in applying a model driven approach to reconfigurations of satellite
+    software
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490291
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/JohansenJ08
+  type: paper-conference
+  author:
+  - family: Johansen
+    given: Håvard D.
+  - family: Johansen
+    given: Dag
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Resilient software mirroring with untrusted third parties
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490296
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/BazziMNS09
+  type: paper-conference
+  author:
+  - family: Bazzi
+    given: Rida A.
+  - family: Makris
+    given: Kristis
+  - family: Nayeri
+    given: Peyman
+  - family: Shen
+    given: Jun
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: 'Dynamic software updates: The state mapping problem'
+  title-short: Dynamic software updates
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656447
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/BazziTN12
+  type: paper-conference
+  author:
+  - family: Bazzi
+    given: Rida A.
+  - family: Topp
+    given: Bryan
+  - family: Neamtiu
+    given: Iulian
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: 'How to have your cake and eat it too: Dynamic software updating with just-in-time
+    overhead'
+  title-short: How to have your cake and eat it too
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '1-5'
+  URL: http://dl.acm.org/citation.cfm?id=2664351
+  DOI: 10.1109/HotSWUp.2012.6226611
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/2009
+  type: book
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Proceedings of the 2nd aCM workshop on hot topics in software upgrades, hotSWUp
+    2009, orlando, fL, uSA, october 25, 2009
+  publisher: ACM
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/DuquesneB08
+  type: paper-conference
+  author:
+  - family: Duquesne
+    given: Pierre
+  - family: Bryce
+    given: Ciarán
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: A language model for dynamic code updating
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490286
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/HaydenHHF09
+  type: paper-conference
+  author:
+  - family: Hayden
+    given: Christopher M.
+  - family: Hardisty
+    given: Eric A.
+  - family: Hicks
+    given: Michael W.
+  - family: Foster
+    given: Jeffrey S.
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Efficient systematic testing for dynamically updatable software
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656449
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/KimT08
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Dong Kwan
+  - family: Tilevich
+    given: Eli
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Overcoming jVM hotSwap constraints via binary rewriting
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490290
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/PinaH13
+  type: paper-conference
+  author:
+  - family: Pina
+    given: Luís
+  - family: Hicks
+    given: Michael
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: 'Rubah: Efficient, general-purpose dynamic software updating for java'
+  title-short: Rubah
+  container-title: HotSWUp
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotswup13/workshop-program/presentation/pina
+
+- id: conf/hotswup/GiuffridaT09
+  type: paper-conference
+  author:
+  - family: Giuffrida
+    given: Cristiano
+  - family: Tanenbaum
+    given: Andrew S.
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: 'Cooperative update: A new model for dependable live update'
+  title-short: Cooperative update
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656439
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/GiuffridaT12
+  type: paper-conference
+  author:
+  - family: Giuffrida
+    given: Cristiano
+  - family: Tanenbaum
+    given: Andrew S.
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: Safe and automated state transfer for secure and reliable live update
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '16-20'
+  URL: http://dl.acm.org/citation.cfm?id=2664354
+  DOI: 10.1109/HotSWUp.2012.6226610
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/2012
+  type: book
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: 4th international workshop on hot topics in software upgrades, hotSWUp 2012,
+    zurich, switzerland, june 3, 2012
+  publisher: IEEE
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6218996
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/GracioliF08
+  type: paper-conference
+  author:
+  - family: Gracioli
+    given: Giovani
+  - family: Fröhlich
+    given: Antônio Augusto
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: An operating system infrastructure for remote code update in deeply embedded
+    systems
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490287
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/CadarH12
+  type: paper-conference
+  author:
+  - family: Cadar
+    given: Cristian
+  - family: Hosek
+    given: Petr
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: Multi-version software updates
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '36-40'
+  URL: http://dl.acm.org/citation.cfm?id=2664358
+  DOI: 10.1109/HotSWUp.2012.6226615
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/2008
+  type: book
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Proceedings of the 1st aCM workshop on hot topics in software upgrades, hotSWUp
+    2008, nashville, tN, uSA, october 20, 2008
+  publisher: ACM
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/WahlerRO09
+  type: paper-conference
+  author:
+  - family: Wahler
+    given: Michael
+  - family: '0006'
+    given: Stefan Richter
+  - family: Oriol
+    given: Manuel
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Dynamic software updates for real-time systems
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656440
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/Marques13
+  type: paper-conference
+  author:
+  - family: Marques
+    given: Eduardo R. B.
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: Fine-grained patches for java software upgrades
+  container-title: HotSWUp
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotswup13/workshop-program/presentation/marques
+
+- id: conf/hotswup/BurgDJ08
+  type: paper-conference
+  author:
+  - family: Burg
+    given: Sander
+    dropping-particle: van der
+  - family: Dolstra
+    given: Eelco
+  - family: Jonge
+    given: Merijn
+    dropping-particle: de
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Atomic upgrading of distributed systems
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490294
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/RellermeyerDA08
+  type: paper-conference
+  author:
+  - family: Rellermeyer
+    given: Jan S.
+  - family: Duller
+    given: Michael
+  - family: Alonso
+    given: Gustavo
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Consistently applying updates to compositions of distributed oSGi modules
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490295
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/HaydenSHF12
+  type: paper-conference
+  author:
+  - family: Hayden
+    given: Christopher M.
+  - family: Saur
+    given: Karla
+  - family: Hicks
+    given: Michael
+  - family: Foster
+    given: Jeffrey S.
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: A study of dynamic software update quiescence for multithreaded programs
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '6-10'
+  URL: http://dl.acm.org/citation.cfm?id=2664352
+  DOI: 10.1109/HotSWUp.2012.6226617
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/TemperoBNP08
+  type: paper-conference
+  author:
+  - family: Tempero
+    given: Ewan D.
+  - family: Bierman
+    given: Gavin M.
+  - family: Noble
+    given: James
+  - family: Parkinson
+    given: Matthew J.
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: 'From java to upgradeJ: An empirical study'
+  title-short: From java to upgradeJ
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490285
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/CosmoZT08
+  type: paper-conference
+  author:
+  - family: Cosmo
+    given: Roberto Di
+  - family: Zacchiroli
+    given: Stefano
+  - family: Trezentos
+    given: Paulo
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: 'Package upgrades in fOSS distributions: Details and challenges'
+  title-short: Package upgrades in fOSS distributions
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490292
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/BuissonD08
+  type: paper-conference
+  author:
+  - family: Buisson
+    given: Jérémy
+  - family: Dagnat
+    given: Fabien
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2008'
+  title: Introspecting continuations in order to update active code
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1490283.1490289
+  ISBN: '978-1-60558-304-4'
+
+- id: conf/hotswup/HolmbackaLLL13
+  type: paper-conference
+  author:
+  - family: Holmbacka
+    given: Simon
+  - family: Lund
+    given: Wictor
+  - family: Lafond
+    given: Sébastien
+  - family: Lilius
+    given: Johan
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: Lightweight framework for runtime updating of c-based software in embedded
+    systems
+  container-title: HotSWUp
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotswup13/workshop-program/presentation/holmbacka
+
+- id: conf/hotswup/MartinezDB13
+  type: paper-conference
+  author:
+  - family: Martinez
+    given: Sebastien
+  - family: Dagnat
+    given: Fabien
+  - family: Buisson
+    given: Jérémy
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: Prototyping dSU techniques using python
+  container-title: HotSWUp
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotswup13/workshop-program/presentation/martinez
+
+- id: conf/hotswup/CurinoMZ09
+  type: paper-conference
+  author:
+  - family: Curino
+    given: Carlo
+  - family: Moon
+    given: Hyun Jin
+  - family: Zaniolo
+    given: Carlo
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Automating database schema evolution in information system upgrades
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656444
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/2013
+  type: book
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: 5th workshop on hot topics in software upgrades, hotSWUp’13, san jose, cA,
+    uSA, june 28, 2013
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A382
+
+- id: conf/hotswup/Burg12
+  type: paper-conference
+  author:
+  - family: Burg
+    given: Sander
+    dropping-particle: van der
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: A generic approach for deploying and upgrading mutable software components
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '26-30'
+  URL: http://dl.acm.org/citation.cfm?id=2664356
+  DOI: 10.1109/HotSWUp.2012.6226613
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/McNabB09
+  type: paper-conference
+  author:
+  - family: McNab
+    given: Neil
+  - family: Bryan
+    given: Anthony
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: An implementation of the linux software repository model for other operating
+    systems
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656445
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/ChocklerR12
+  type: paper-conference
+  author:
+  - family: Chockler
+    given: Hana
+  - family: Ruah
+    given: Sitvanit
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: Verification of software changes with expliSAT
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '31-35'
+  URL: http://dl.acm.org/citation.cfm?id=2664357
+  DOI: 10.1109/HotSWUp.2012.6226614
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/AndersonR09
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Austin
+  - family: Rathke
+    given: Julian
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: Migrating protocols in multi-threaded message-passing systems
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656448
+  ISBN: '978-1-60558-723-3'
+
+- id: conf/hotswup/PayerBG13
+  type: paper-conference
+  author:
+  - family: Payer
+    given: Mathias
+  - family: Bluntschli
+    given: Boris
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Cadar
+    given: Cristian
+  issued:
+  - year: '2013'
+  title: 'DynSec: On-the-fly code rewriting and repair'
+  title-short: DynSec
+  container-title: HotSWUp
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotswup13/workshop-program/presentation/payer
+
+- id: conf/hotswup/Wernli12
+  type: paper-conference
+  author:
+  - family: Wernli
+    given: Erwann
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: 'Theseus: Whole updates of java server applications'
+  title-short: Theseus
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '41-45'
+  URL: http://dl.acm.org/citation.cfm?id=2664359
+  DOI: 10.1109/HotSWUp.2012.6226616
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/PinaC12
+  type: paper-conference
+  author:
+  - family: Pina
+    given: Luís
+  - family: Cachopo
+    given: João P.
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: Atomic dynamic upgrades using software transactional memory
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '21-25'
+  URL: http://dl.acm.org/citation.cfm?id=2664355
+  DOI: 10.1109/HotSWUp.2012.6226612
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/SmithHF12
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Edward K.
+  - family: Hicks
+    given: Michael
+  - family: Foster
+    given: Jeffrey S.
+  editor:
+  - family: Wahler
+    given: Michael
+  issued:
+  - year: '2012'
+  title: Towards standardized benchmarks for dynamic software updating systems
+  container-title: HotSWUp
+  publisher: IEEE
+  page: '11-15'
+  URL: http://dl.acm.org/citation.cfm?id=2664353
+  DOI: 10.1109/HotSWUp.2012.6226609
+  ISBN: '978-1-4673-1765-8'
+
+- id: conf/hotswup/GotzP09
+  type: paper-conference
+  author:
+  - family: Götz
+    given: Sebastian
+  - family: Pukall
+    given: Mario
+  editor:
+  - family: Dumitras
+    given: Tudor
+  issued:
+  - year: '2009'
+  title: On performance of delegation in java
+  container-title: HotSWUp
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1656437.1656441
+  ISBN: '978-1-60558-723-3'
+...

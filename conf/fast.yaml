@@ -1,0 +1,7973 @@
+---
+references:
+- id: conf/fast/SeshadriCCBDLM08
+  type: paper-conference
+  author:
+  - family: Seshadri
+    given: Sangeetha
+  - family: Chiu
+    given: Lawrence
+  - family: Constantinescu
+    given: Cornel
+  - family: Balachandran
+    given: Subashini
+  - family: Dickey
+    given: Clem
+  - family: Liu
+    given: Ling
+  - family: Muench
+    given: Paul
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Enhancing storage system availability on multi-core architectures with recovery-conscious
+    scheduling
+  container-title: FAST
+  publisher: USENIX
+  page: '143-158'
+  URL: http://www.usenix.org/events/fast08/tech/seshadri.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/LiZZMZ015
+  type: paper-conference
+  author:
+  - family: Li
+    given: Jiangpeng
+  - family: Zhao
+    given: Kai
+  - family: Zhang
+    given: Xuebin
+  - family: Ma
+    given: Jun
+  - family: Zhao
+    given: Ming
+  - family: '0002'
+    given: Tong Zhang
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: How much can data compressibility help to improve nAND flash memory lifetime?
+  container-title: FAST
+  publisher: USENIX Association
+  page: '227-240'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/li
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/LuSZ13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Youyou
+  - family: Shu
+    given: Jiwu
+  - family: Zheng
+    given: Weimin
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Extending the lifetime of flash-based storage through reducing write amplification
+    from file systems
+  container-title: FAST
+  publisher: USENIX
+  page: '257-270'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/lu_youyou
+
+- id: conf/fast/JainDT05
+  type: paper-conference
+  author:
+  - family: Jain
+    given: Navendu
+  - family: Dahlin
+    given: Michael
+  - family: Tewari
+    given: Renu
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'TAPER: Tiered approach for eliminating redundancy in replica synchronization'
+  title-short: TAPER
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/jain.html
+
+- id: conf/fast/NarayananDR08
+  type: paper-conference
+  author:
+  - family: Narayanan
+    given: Dushyanth
+  - family: Donnelly
+    given: Austin
+  - family: Rowstron
+    given: Antony I. T.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'Write off-loading: Practical power management for enterprise storage'
+  title-short: Write off-loading
+  container-title: FAST
+  publisher: USENIX
+  page: '253-267'
+  URL: http://www.usenix.org/events/fast08/tech/narayanan.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/NgHSGO02
+  type: paper-conference
+  author:
+  - family: Ng
+    given: Wee Teck
+  - family: Hillyer
+    given: Bruce
+  - family: Shriver
+    given: Elizabeth A. M.
+  - family: Gabber
+    given: Eran
+  - family: Özden
+    given: Banu
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Obtaining high performance for storage outsourcing
+  container-title: FAST
+  publisher: USENIX
+  page: '145-158'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/ng.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/LiDOKML13
+  type: paper-conference
+  author:
+  - family: '0006'
+    given: Yan Li
+  - family: Dhotre
+    given: Nakul Sanjay
+  - family: Ohara
+    given: Yasuhiro
+  - family: Kroeger
+    given: Thomas M.
+  - family: Miller
+    given: Ethan L.
+  - family: Long
+    given: Darrell D. E.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Horus: Fine-grained encryption-based security for large-scale storage'
+  title-short: Horus
+  container-title: FAST
+  publisher: USENIX
+  page: '147-160'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/li_yan
+
+- id: conf/fast/FujimotoAOMM10
+  type: paper-conference
+  author:
+  - family: Fujimoto
+    given: Kazuhisa
+  - family: Akaike
+    given: Hirotoshi
+  - family: Okada
+    given: Naoya
+  - family: Miura
+    given: Kenji
+  - family: Muraoka
+    given: Hiroaki
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: Power-aware proactive storage-tiering management for high-speed tiered-storage
+    systems
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/power-aware-proactive-storage-tiering-management-high-speed-tiered-storage
+
+- id: conf/fast/WaldspurgerPGA15
+  type: paper-conference
+  author:
+  - family: Waldspurger
+    given: Carl A.
+  - family: Park
+    given: Nohhyun
+  - family: Garthwaite
+    given: Alexander T.
+  - family: Ahmad
+    given: Irfan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Efficient mRC construction with sHARDS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '95-110'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/waldspurger
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/VucinicWGMBFMBXSB14
+  type: paper-conference
+  author:
+  - family: Vucinic
+    given: Dejan
+  - family: Wang
+    given: Qingbo
+  - family: Guyot
+    given: Cyril
+  - family: Mateescu
+    given: Robert
+  - family: Blagojevic
+    given: Filip
+  - family: Franca-Neto
+    given: Luiz
+  - family: Moal
+    given: Damien Le
+  - family: Bunker
+    given: Trevor
+  - family: Xu
+    given: Jian
+  - family: Swanson
+    given: Steven
+  - family: Bandic
+    given: Zvonimir
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'DC express: Shortest latency protocol for reading phase change memory
+    over pCI express'
+  title-short: DC express
+  container-title: FAST
+  publisher: USENIX
+  page: '309-315'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/vucinic
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/ZhuCC05
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Ningning
+  - family: Chen
+    given: Jiawu
+  - family: Chiueh
+    given: Tzi-cker
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'TBBT: Scalable and accurate trace replay for file server evaluation'
+  title-short: TBBT
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/zhu.html
+
+- id: conf/fast/FactorHNRRRMG09
+  type: paper-conference
+  author:
+  - family: Factor
+    given: Michael
+  - family: Henis
+    given: Ealan
+  - family: Naor
+    given: Dalit
+  - family: Rabinovici-Cohen
+    given: Simona
+  - family: Reshef
+    given: Petra
+  - family: Ronen
+    given: Shahar
+  - family: Michetti
+    given: Giovanni
+  - family: Guercio
+    given: Maria
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Authenticity and provenance in long term digital preservation: Modeling
+    and implementation in preservation aware storage'
+  title-short: Authenticity and provenance in long term digital preservation
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/factor/factor.pdf
+
+- id: conf/fast/BhatotiaRV12
+  type: paper-conference
+  author:
+  - family: Bhatotia
+    given: Pramod
+  - family: Rodrigues
+    given: Rodrigo
+  - family: Verma
+    given: Akshat
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'Shredder: GPU-accelerated incremental storage and computation'
+  title-short: Shredder
+  container-title: FAST
+  publisher: USENIX Association
+  page: '14'
+  URL: https://www.usenix.org/conference/fast12/shredder-gpu-accelerated-incremental-storage-and-computation
+
+- id: conf/fast/GarzikH07
+  type: paper-conference
+  author:
+  - family: Garzik
+    given: Jeff
+  - family: Heo
+    given: Tejun
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: 'Libata: Past, present, and future'
+  title-short: Libata
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/libata-past-present-and-future
+
+- id: conf/fast/MadhyasthaMPKSSV12
+  type: paper-conference
+  author:
+  - family: Madhyastha
+    given: Harsha V.
+  - family: McCullough
+    given: John
+  - family: Porter
+    given: George
+  - family: Kapoor
+    given: Rishi
+  - family: Savage
+    given: Stefan
+  - family: Snoeren
+    given: Alex C.
+  - family: Vahdat
+    given: Amin
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'Scc: Cluster storage provisioning informed by application characteristics
+    and sLAs'
+  title-short: Scc
+  container-title: FAST
+  publisher: USENIX Association
+  page: '23'
+  URL: https://www.usenix.org/conference/fast12/scc-cluster-storage-provisioning-informed-application-characteristics-and-slas
+
+- id: conf/fast/ShettySMASZ13
+  type: paper-conference
+  author:
+  - family: Shetty
+    given: Pradeep
+  - family: Spillane
+    given: Richard P.
+  - family: Malpani
+    given: Ravikant
+  - family: Andrews
+    given: Binesh
+  - family: Seyster
+    given: Justin
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Building workload-independent storage with vT-trees
+  container-title: FAST
+  publisher: USENIX
+  page: '17-30'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/shetty
+
+- id: conf/fast/SobtiGZYKW02
+  type: paper-conference
+  author:
+  - family: Sobti
+    given: Sumeet
+  - family: Garg
+    given: Nitin
+  - family: Zhang
+    given: Chi
+  - family: Yu
+    given: Xiang
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Wang
+    given: Randolph Y.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'PersonalRAID: Mobile storage for distributed and disconnected computers'
+  title-short: PersonalRAID
+  container-title: FAST
+  publisher: USENIX
+  page: '159-174'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/sobti.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/FreedmanLS05
+  type: paper-conference
+  author:
+  - family: Freedman
+    given: Michael J.
+  - family: Lakshminarayanan
+    given: Karthik
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Non-transitive connectivity and dHTs
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/non-transitive-connectivity-and-dhts
+
+- id: conf/fast/SrinivasanBGV12
+  type: paper-conference
+  author:
+  - family: Srinivasan
+    given: Kiran
+  - family: Bisson
+    given: Timothy
+  - family: Goodson
+    given: Garth R.
+  - family: Voruganti
+    given: Kaladhar
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'IDedup: Latency-aware, inline data deduplication for primary storage'
+  title-short: IDedup
+  container-title: FAST
+  publisher: USENIX Association
+  page: '24'
+  URL: https://www.usenix.org/conference/fast12/idedup-latency-aware-inline-data-deduplication-primary-storage
+
+- id: conf/fast/ReschP11
+  type: paper-conference
+  author:
+  - family: Resch
+    given: Jason K.
+  - family: Plank
+    given: James S.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'AONT-rS: Blending security and performance in dispersed storage systems'
+  title-short: AONT-rS
+  container-title: FAST
+  publisher: USENIX
+  page: '191-202'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Resch
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/MinKCLE12
+  type: paper-conference
+  author:
+  - family: Min
+    given: Changwoo
+  - family: Kim
+    given: Kangnyeon
+  - family: Cho
+    given: Hyunjin
+  - family: Lee
+    given: Sang-Won
+  - family: Eom
+    given: Young Ik
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'SFS: Random write considered harmful in solid state drives'
+  title-short: SFS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '12'
+  URL: https://www.usenix.org/conference/fast12/sfs-random-write-considered-harmful-solid-state-drives
+
+- id: conf/fast/KallahallaRSWF03
+  type: paper-conference
+  author:
+  - family: Kallahalla
+    given: Mahesh
+  - family: Riedel
+    given: Erik
+  - family: Swaminathan
+    given: Ram
+  - family: Wang
+    given: Qian
+  - family: Fu
+    given: Kevin
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'Plutus: Scalable secure file sharing on untrusted storage'
+  title-short: Plutus
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/kallahalla.html
+
+- id: conf/fast/SchindlerGLG02
+  type: paper-conference
+  author:
+  - family: Schindler
+    given: Jiri
+  - family: Griffin
+    given: John Linwood
+  - family: Lumb
+    given: Christopher R.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Track-aligned extents: Matching access patterns to disk drive characteristics'
+  title-short: Track-aligned extents
+  container-title: FAST
+  publisher: USENIX
+  page: '259-274'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/schindler.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/ChenLZ11
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Feng
+  - family: Luo
+    given: Tian
+  - family: '0001'
+    given: Xiaodong Zhang
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'CAFTL: A content-aware flash translation layer enhancing the lifespan
+    of flash memory based solid state drives'
+  title-short: CAFTL
+  container-title: FAST
+  publisher: USENIX
+  page: '77-90'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Chen
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/SchindlerSS11
+  type: paper-conference
+  author:
+  - family: Schindler
+    given: Jiri
+  - family: Shete
+    given: Sandip
+  - family: Smith
+    given: Keith A.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Improving throughput for small disk requests with proximal i/O
+  container-title: FAST
+  publisher: USENIX
+  page: '133-147'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Schindler
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/StrzelczakAHSSWD13
+  type: paper-conference
+  author:
+  - family: Strzelczak
+    given: Przemyslaw
+  - family: Adamczyk
+    given: Elzbieta
+  - family: Herman-Izycka
+    given: Urszula
+  - family: Sakowicz
+    given: Jakub
+  - family: Slusarczyk
+    given: Lukasz
+  - family: Wrona
+    given: Jaroslaw
+  - family: Dubnicki
+    given: Cezary
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Concurrent deletion in a distributed content-addressable storage system with
+    global deduplication
+  container-title: FAST
+  publisher: USENIX
+  page: '161-174'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/strzelczak
+
+- id: conf/fast/OpreaJ10
+  type: paper-conference
+  author:
+  - family: Oprea
+    given: Alina
+  - family: Juels
+    given: Ari
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: A clean-slate look at disk scrubbing
+  container-title: FAST
+  publisher: USENIX
+  page: '57-70'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/oprea.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/RashmiNWSR15
+  type: paper-conference
+  author:
+  - family: Rashmi
+    given: K. V.
+  - family: Nakkiran
+    given: Preetum
+  - family: Wang
+    given: Jingyan
+  - family: Shah
+    given: Nihar B.
+  - family: Ramchandran
+    given: Kannan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'Having your cake and eating it too: Jointly optimal erasure codes for
+    i/O, storage, and network-bandwidth'
+  title-short: Having your cake and eating it too
+  container-title: FAST
+  publisher: USENIX Association
+  page: '81-94'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/rashmi
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/LiBCSWZ14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Jing
+  - family: Badam
+    given: Anirudh
+  - family: Chandra
+    given: Ranveer
+  - family: Swanson
+    given: Steven
+  - family: Worthington
+    given: Bruce L.
+  - family: Zhang
+    given: Qi
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: On the energy overhead of mobile storage systems
+  container-title: FAST
+  publisher: USENIX
+  page: '105-118'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/li
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/RadkovYGSS04
+  type: paper-conference
+  author:
+  - family: Radkov
+    given: Peter
+  - family: Yin
+    given: Li
+  - family: Goyal
+    given: Pawan
+  - family: Sarkar
+    given: Prasenjit
+  - family: Shenoy
+    given: Prashant J.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: A performance comparison of nFS and iSCSI for iP-networked storage
+  container-title: FAST
+  publisher: USENIX
+  page: '101-114'
+  URL: http://www.usenix.org/events/fast04/tech/radkov.html
+
+- id: conf/fast/PatilG11
+  type: paper-conference
+  author:
+  - family: Patil
+    given: Swapnil
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'Scale and concurrency of gIGA+: File system directories with millions
+    of files'
+  title-short: Scale and concurrency of gIGA+
+  container-title: FAST
+  publisher: USENIX
+  page: '177-190'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Patil
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/TiwariBVKMDS13
+  type: paper-conference
+  author:
+  - family: Tiwari
+    given: Devesh
+  - family: Boboila
+    given: Simona
+  - family: Vazhkudai
+    given: Sudharshan S.
+  - family: Kim
+    given: Youngjae
+  - family: Ma
+    given: Xiaosong
+  - family: Desnoyers
+    given: Peter
+  - family: Solihin
+    given: Yan
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Active flash: Towards energy-efficient, in-situ data analytics on extreme-scale
+    machines'
+  title-short: Active flash
+  container-title: FAST
+  publisher: USENIX
+  page: '119-132'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/tiwari
+
+- id: conf/fast/SivathanuAAJ05
+  type: paper-conference
+  author:
+  - family: Sivathanu
+    given: Muthian
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Jha
+    given: Somesh
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: A logic of file systems
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/sivathanu_logic.html
+
+- id: conf/fast/VilayannurNS05
+  type: paper-conference
+  author:
+  - family: Vilayannur
+    given: Murali
+  - family: Nath
+    given: Partho
+  - family: Sivasubramaniam
+    given: Anand
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Providing tunable consistency for a parallel file store
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/vilayannur.html
+
+- id: conf/fast/ButtcherC05
+  type: paper-conference
+  author:
+  - family: Büttcher
+    given: Stefan
+  - family: Clarke
+    given: Charles L. A.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: A security model for full-text file system search in multi-user environments
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/buettcher.html
+
+- id: conf/fast/SundararamanSRAAS10
+  type: paper-conference
+  author:
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Subramanian
+    given: Sriram
+  - family: Rajimwale
+    given: Abhishek
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Swift
+    given: Michael M.
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'Membrane: Operating system support for restartable file systems'
+  title-short: Membrane
+  container-title: FAST
+  publisher: USENIX
+  page: '281-294'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/sundararaman.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/Cao07
+  type: paper-conference
+  author:
+  - family: Cao
+    given: Fernando Luis Vázquez
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: Reinitialization of devices after a soft-reboot
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/reinitialization-devices-after-soft-reboot
+
+- id: conf/fast/HuangZWDS11
+  type: paper-conference
+  author:
+  - family: Huang
+    given: H. Howie
+  - family: '0004'
+    given: Nan Zhang
+  - family: Wang
+    given: Wei
+  - family: Das
+    given: Gautam
+  - family: Szalay
+    given: Alexander S.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Just-in-time analytics on large file systems
+  container-title: FAST
+  publisher: USENIX
+  page: '217-230'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Huang
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/ShilaneHWH12
+  type: paper-conference
+  author:
+  - family: Shilane
+    given: Philip
+  - family: Huang
+    given: Mark
+  - family: Wallace
+    given: Grant
+  - family: Hsu
+    given: Windsor
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: WAN optimized replication of backup datasets using stream-informed delta
+    compression
+  container-title: FAST
+  publisher: USENIX Association
+  page: '5'
+  URL: https://www.usenix.org/conference/fast12/wan-optimized-replication-backup-datasets-using-stream-informed-delta-compression
+
+- id: conf/fast/Gill08
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Binny S.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'On multi-level exclusive caching: Offline optimality and why promotions
+    are better than demotions'
+  title-short: On multi-level exclusive caching
+  container-title: FAST
+  publisher: USENIX
+  page: '49-65'
+  URL: http://www.usenix.org/events/fast08/tech/gill.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/VermaKUR10
+  type: paper-conference
+  author:
+  - family: Verma
+    given: Akshat
+  - family: Koller
+    given: Ricardo
+  - family: Useche
+    given: Luis
+  - family: Rangaswami
+    given: Raju
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'SRCMap: Energy proportional storage using dynamic consolidation'
+  title-short: SRCMap
+  container-title: FAST
+  publisher: USENIX
+  page: '267-280'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/verma.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/Rodeh07
+  type: paper-conference
+  author:
+  - family: Rodeh
+    given: Ohad
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: B-trees, shadowing, and clones
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/b-trees-shadowing-and-clones
+
+- id: conf/fast/SoundararajanLGPCA09
+  type: paper-conference
+  author:
+  - family: Soundararajan
+    given: Gokul
+  - family: Lupei
+    given: Daniel
+  - family: Ghanbari
+    given: Saeed
+  - family: Popescu
+    given: Adrian Daniel
+  - family: Chen
+    given: Jin
+  - family: Amza
+    given: Cristiana
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Dynamic resource allocation for database servers running on virtual storage
+  container-title: FAST
+  publisher: USENIX
+  page: '71-84'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/soundararajan/soundararajan.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/WeiGSS11
+  type: paper-conference
+  author:
+  - family: Wei
+    given: Michael Yung Chung
+  - family: Grupp
+    given: Laura M.
+  - family: Spada
+    given: Frederick E.
+  - family: Swanson
+    given: Steven
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Reliably erasing data from flash-based solid state drives
+  container-title: FAST
+  publisher: USENIX
+  page: '105-117'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Wei
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/BatsakisBKLT08
+  type: paper-conference
+  author:
+  - family: Batsakis
+    given: Alexandros
+  - family: Burns
+    given: Randal C.
+  - family: Kanevsky
+    given: Arkady
+  - family: Lentini
+    given: James
+  - family: Talpey
+    given: Thomas
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'AWOL: An adaptive write optimizations layer'
+  title-short: AWOL
+  container-title: FAST
+  publisher: USENIX
+  page: '67-80'
+  URL: http://www.usenix.org/events/fast08/tech/batsakis.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/GoAAU15
+  type: paper-conference
+  author:
+  - family: Go
+    given: Younghwan
+  - family: Agrawal
+    given: Nitin
+  - family: Aranya
+    given: Akshat
+  - family: Ungureanu
+    given: Cristian
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Reliable, consistent, and efficient data sync for mobile apps
+  container-title: FAST
+  publisher: USENIX Association
+  page: '359-372'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/go
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/Hatzieleftheriou15
+  type: paper-conference
+  author:
+  - family: Hatzieleftheriou
+    given: Andromachi
+  - family: Anastasiadis
+    given: Stergios V.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Host-side filesystem journaling for durable shared storage
+  container-title: FAST
+  publisher: USENIX Association
+  page: '59-66'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/hatzieleftheriou
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/ClossonL05
+  type: paper-conference
+  author:
+  - family: Closson
+    given: Michael
+  - family: Lu
+    given: Paul
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Bridging local and wide area networks for overlay distributed file systems
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/bridging-local-and-wide-area-networks-overlay-distributed-file-systems
+
+- id: conf/fast/UysalMA03
+  type: paper-conference
+  author:
+  - family: Uysal
+    given: Mustafa
+  - family: Merchant
+    given: Arif
+  - family: Alvarez
+    given: Guillermo A.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Using mEMS-based storage in disk arrays
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/uysal.html
+
+- id: conf/fast/ReillyN09
+  type: paper-conference
+  author:
+  - family: Reilly
+    given: Christine F.
+  - family: Naughton
+    given: Jeffrey F.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Transparently gathering provenance with provenance aware condor
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/reilly/reilly.pdf
+
+- id: conf/fast/Muniswamy-ReddyWHZ04
+  type: paper-conference
+  author:
+  - family: Muniswamy-Reddy
+    given: Kiran-Kumar
+  - family: Wright
+    given: Charles P.
+  - family: Himmer
+    given: Andrew
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: A versatile and user-oriented versioning file system
+  container-title: FAST
+  publisher: USENIX
+  page: '115-128'
+  URL: http://www.usenix.org/events/fast04/tech/muniswamy.html
+
+- id: conf/fast/DimitrijevicRC03
+  type: paper-conference
+  author:
+  - family: Dimitrijevic
+    given: Zoran
+  - family: Rangaswami
+    given: Raju
+  - family: Chang
+    given: Edward Y.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Design and implementation of semi-preemptible iO
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/dimitrijevic.html
+
+- id: conf/fast/KimAU12
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Hyojun
+  - family: Agrawal
+    given: Nitin
+  - family: Ungureanu
+    given: Cristian
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Revisiting storage for smartphones
+  container-title: FAST
+  publisher: USENIX Association
+  page: '17'
+  URL: https://www.usenix.org/conference/fast12/revisiting-storage-smartphones-0
+
+- id: conf/fast/TangHLKL15
+  type: paper-conference
+  author:
+  - family: Tang
+    given: Linpeng
+  - family: Huang
+    given: Qi
+  - family: Lloyd
+    given: Wyatt
+  - family: Kumar
+    given: Sanjeev
+  - family: Li
+    given: Kai
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'RIPQ: Advanced photo caching on flash for facebook'
+  title-short: RIPQ
+  container-title: FAST
+  publisher: USENIX Association
+  page: '373-386'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/tang
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/SchlosserSPSAFG05
+  type: paper-conference
+  author:
+  - family: Schlosser
+    given: Steven W.
+  - family: Schindler
+    given: Jiri
+  - family: Papadomanolakis
+    given: Stratos
+  - family: Shao
+    given: Minglong
+  - family: Ailamaki
+    given: Anastassia
+  - family: Faloutsos
+    given: Christos
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: On multidimensional data and modern disks
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/schlosser.html
+
+- id: conf/fast/HartelAK08
+  type: paper-conference
+  author:
+  - family: Hartel
+    given: Pieter H.
+  - family: Abelmann
+    given: Leon
+  - family: Khatib
+    given: Mohammed G.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Towards tamper-evident storage on patterned media
+  container-title: FAST
+  publisher: USENIX
+  page: '283-296'
+  URL: http://www.usenix.org/events/fast08/tech/hartel.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/VeeraraghavanMF07
+  type: paper-conference
+  author:
+  - family: Veeraraghavan
+    given: Kaushik
+  - family: Myrick
+    given: Andrew
+  - family: Flinn
+    given: Jason
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Cobalt: Separating content distribution from authorization in distributed
+    file systems'
+  title-short: Cobalt
+  container-title: FAST
+  publisher: USENIX
+  page: '231-244'
+  URL: http://www.usenix.org/events/fast07/tech/veeraraghavan.html
+
+- id: conf/fast/LiS05
+  type: paper-conference
+  author:
+  - family: Li
+    given: Chuanpeng
+  - family: Shen
+    given: Kai
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Managing prefetch memory for data-intensive online servers
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/li_c.html
+
+- id: conf/fast/ThomsonA15
+  type: paper-conference
+  author:
+  - family: Thomson
+    given: Alexander
+  - family: Abadi
+    given: Daniel J.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'CalvinFS: Consistent wAN replication and scalable metadata management
+    for distributed file systems'
+  title-short: CalvinFS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '1-14'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/thomson
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/SchlosserG04
+  type: paper-conference
+  author:
+  - family: Schlosser
+    given: Steven W.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'MEMS-based storage devices and standard disk interfaces: A square peg
+    in a round hole?'
+  title-short: MEMS-based storage devices and standard disk interfaces
+  container-title: FAST
+  publisher: USENIX
+  page: '87-100'
+  URL: http://www.usenix.org/events/fast04/tech/schlosser.html
+
+- id: conf/fast/FuFHHCXZT15
+  type: paper-conference
+  author:
+  - family: Fu
+    given: Min
+  - family: Feng
+    given: Dan
+  - family: Hua
+    given: Yu
+  - family: He
+    given: Xubin
+  - family: Chen
+    given: Zuoning
+  - family: Xia
+    given: Wen
+  - family: Zhang
+    given: Yucheng
+  - family: Tan
+    given: Yujuan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Design tradeoffs for data deduplication performance in backup workloads
+  container-title: FAST
+  publisher: USENIX Association
+  page: '331-344'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/fu
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/WangV14
+  type: paper-conference
+  author:
+  - family: '0014'
+    given: Hui Wang
+  - family: Varman
+    given: Peter J.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Balancing fairness and efficiency in tiered storage systems with bottleneck-aware
+    allocation
+  container-title: FAST
+  publisher: USENIX
+  page: '229-242'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/wang
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/2009
+  type: book
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 7th uSENIX conference on file and storage technologies, february 24-27, 2009,
+    san francisco, cA, uSA. proceedings
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A67
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/2009tapp
+  type: book
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: First workshop on the theory and practice of provenance, taPP’09, san francisco,
+    cA, uSA, february 23, 2009, proceedings
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A68
+
+- id: conf/fast/HafnerDRT05
+  type: paper-conference
+  author:
+  - family: Hafner
+    given: James Lee
+  - family: Deenadhayalan
+    given: Veera
+  - family: Rao
+    given: K. K.
+  - family: Tomlin
+    given: John A.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Matrix methods for lost data reconstruction in erasure codes
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/hafner_matrix.html
+
+- id: conf/fast/EshelHHNST10
+  type: paper-conference
+  author:
+  - family: Eshel
+    given: Marc
+  - family: Haskin
+    given: Roger L.
+  - family: Hildebrand
+    given: Dean
+  - family: Naik
+    given: Manoj
+  - family: Schmuck
+    given: Frank B.
+  - family: Tewari
+    given: Renu
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'Panache: A parallel file system cache for global file access'
+  title-short: Panache
+  container-title: FAST
+  publisher: USENIX
+  page: '155-168'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/eshel.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/SundararamanZSAA11
+  type: paper-conference
+  author:
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Zhang
+    given: Yupu
+  - family: Subramanian
+    given: Sriram
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Making the common case the only case with anticipatory memory allocation
+  container-title: FAST
+  publisher: USENIX
+  page: '231-244'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Sundararaman
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/KangarlouSS15
+  type: paper-conference
+  author:
+  - family: Kangarlou
+    given: Ardalan
+  - family: Shete
+    given: Sandip
+  - family: Strunk
+    given: John D.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'Chronicle: Capture and analysis of nFS workloads at line rate'
+  title-short: Chronicle
+  container-title: FAST
+  publisher: USENIX Association
+  page: '345-358'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/kangarlou
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/TianFJZZCWS07
+  type: paper-conference
+  author:
+  - family: Tian
+    given: Lei
+  - family: Feng
+    given: Dan
+  - family: Jiang
+    given: Hong
+  - family: Zhou
+    given: Ke
+  - family: Zeng
+    given: Lingfang
+  - family: Chen
+    given: Jianxi
+  - family: Wang
+    given: Zhikun
+  - family: Song
+    given: Zhenlei
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'PRO: A popularity-based multi-threaded reconstruction optimization for
+    rAID-structured storage systems'
+  title-short: PRO
+  container-title: FAST
+  publisher: USENIX
+  page: '277-290'
+  URL: http://www.usenix.org/events/fast07/tech/tian.html
+
+- id: conf/fast/ShenZL05
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Kai
+  - family: Zhong
+    given: Ming
+  - family: Li
+    given: Chuanpeng
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: I/O system performance debugging using model-driven anomaly characterization
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/shen.html
+
+- id: conf/fast/TrushkowskyBFFJP11
+  type: paper-conference
+  author:
+  - family: Trushkowsky
+    given: Beth
+  - family: Bodík
+    given: Peter
+  - family: Fox
+    given: Armando
+  - family: Franklin
+    given: Michael J.
+  - family: Jordan
+    given: Michael I.
+  - family: Patterson
+    given: David A.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'The sCADS director: Scaling a distributed storage system under stringent
+    performance requirements'
+  title-short: The sCADS director
+  container-title: FAST
+  publisher: USENIX
+  page: '163-176'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Trushkowsky
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/StorerGMV08
+  type: paper-conference
+  author:
+  - family: Storer
+    given: Mark W.
+  - family: Greenan
+    given: Kevin M.
+  - family: Miller
+    given: Ethan L.
+  - family: Voruganti
+    given: Kaladhar
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'Pergamum: Replacing tape with energy efficient, reliable, disk-based archival
+    storage'
+  title-short: Pergamum
+  container-title: FAST
+  publisher: USENIX
+  page: '1-16'
+  URL: http://www.usenix.org/events/fast08/tech/storer.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/LeeSHC15
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Changman
+  - family: Sim
+    given: Dongho
+  - family: Hwang
+    given: Joo Young
+  - family: Cho
+    given: Sangyeun
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'F2FS: A new file system for flash storage'
+  title-short: F2FS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '273-286'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/lee
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/Plank08
+  type: paper-conference
+  author:
+  - family: Plank
+    given: James S.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: The rAID-6 liberation codes
+  container-title: FAST
+  publisher: USENIX
+  page: '97-110'
+  URL: http://www.usenix.org/events/fast08/tech/plank.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/RiedelI07
+  type: paper-conference
+  author:
+  - family: Riedel
+    given: Erik
+  - family: Iren
+    given: Sami
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: Object storage and applications
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/object-storage-and-applications
+
+- id: conf/fast/VrableSV09
+  type: paper-conference
+  author:
+  - family: Vrable
+    given: Michael
+  - family: Savage
+    given: Stefan
+  - family: Voelker
+    given: Geoffrey M.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Cumulus: Filesystem backup to the cloud'
+  title-short: Cumulus
+  container-title: FAST
+  publisher: USENIX
+  page: '225-238'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/vrable/vrable.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/CullyWMJFDSLFW14
+  type: paper-conference
+  author:
+  - family: Cully
+    given: Brendan
+  - family: Wires
+    given: Jake
+  - family: Meyer
+    given: Dutch T.
+  - family: Jamieson
+    given: Kevin
+  - family: Fraser
+    given: Keir
+  - family: Deegan
+    given: Tim
+  - family: Stodden
+    given: Daniel
+  - family: Lefebvre
+    given: Geoffrey
+  - family: Ferstay
+    given: Daniel
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Strata: Scalable high-performance storage on virtualized non-volatile
+    memory'
+  title-short: Strata
+  container-title: FAST
+  publisher: USENIX
+  page: '17-31'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/cully
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SivathanuBAA05
+  type: paper-conference
+  author:
+  - family: Sivathanu
+    given: Muthian
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Database-aware semantically-smart storage
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/sivathanu_db.html
+
+- id: conf/fast/GulatiKAK10
+  type: paper-conference
+  author:
+  - family: Gulati
+    given: Ajay
+  - family: Kumar
+    given: Chethan
+  - family: Ahmad
+    given: Irfan
+  - family: Kumar
+    given: Karan
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'BASIL: Automated iO load balancing across storage devices'
+  title-short: BASIL
+  container-title: FAST
+  publisher: USENIX
+  page: '169-182'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/gulati.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/BairavasundaramGSAA08
+  type: paper-conference
+  author:
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Goodson
+    given: Garth R.
+  - family: Schroeder
+    given: Bianca
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: An analysis of data corruption in the storage stack
+  container-title: FAST
+  publisher: USENIX
+  page: '223-238'
+  URL: http://www.usenix.org/events/fast08/tech/bairavasundaram.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/Gibson04
+  type: paper-conference
+  author:
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Scaling file service up and out
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast04/tech/gibson.pdf
+
+- id: conf/fast/2003
+  type: book
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Proceedings of the fAST ’03 conference on file and storage technologies,
+    march 31 - april 2, 2003, cathedral hill hotel, san francisco, california, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A188
+
+- id: conf/fast/ZhaoZS0ZZ13
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Kai
+  - family: Zhao
+    given: Wenzhe
+  - family: Sun
+    given: Hongbin
+  - family: '0002'
+    given: Tong Zhang
+  - family: Zhang
+    given: Xiaodong
+  - family: Zheng
+    given: Nanning
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'LDPC-in-sSD: Making advanced error correction codes work effectively in
+    solid state drives'
+  title-short: LDPC-in-sSD
+  container-title: FAST
+  publisher: USENIX
+  page: '243-256'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/zhao
+
+- id: conf/fast/HuCLT12
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Yuchong
+  - family: Chen
+    given: Henry C. H.
+  - family: Lee
+    given: Patrick P. C.
+  - family: Tang
+    given: Yang
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'NCCloud: Applying network coding for the storage repair in a cloud-of-clouds'
+  title-short: NCCloud
+  container-title: FAST
+  publisher: USENIX Association
+  page: '21'
+  URL: https://www.usenix.org/conference/fast12/nccloud-applying-network-coding-storage-repair-cloud-clouds
+
+- id: conf/fast/KangZWHH14
+  type: paper-conference
+  author:
+  - family: Kang
+    given: Junbin
+  - family: Zhang
+    given: Benlong
+  - family: Wo
+    given: Tianyu
+  - family: Hu
+    given: Chunming
+  - family: Huai
+    given: Jinpeng
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'MultiLanes: Providing virtualized storage for oS-level virtualization
+    on many cores'
+  title-short: MultiLanes
+  container-title: FAST
+  publisher: USENIX
+  page: '317-329'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/kang
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/VermaVRJ08
+  type: paper-conference
+  author:
+  - family: Verma
+    given: Akshat
+  - family: Voruganti
+    given: Kaladhar
+  - family: Routray
+    given: Ramani
+  - family: Jain
+    given: Rohit
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'SWEEPER: An efficient disaster recovery point identification mechanism'
+  title-short: SWEEPER
+  container-title: FAST
+  publisher: USENIX
+  page: '297-312'
+  URL: http://www.usenix.org/events/fast08/tech/verma.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/LumbSG02
+  type: paper-conference
+  author:
+  - family: Lumb
+    given: Christopher R.
+  - family: Schindler
+    given: Jiri
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Freeblock scheduling outside of disk firmware
+  container-title: FAST
+  publisher: USENIX
+  page: '275-288'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/lumb.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/GuerraPGBR11
+  type: paper-conference
+  author:
+  - family: Guerra
+    given: Jorge
+  - family: Pucha
+    given: Himabindu
+  - family: Glider
+    given: Joseph S.
+  - family: Belluomini
+    given: Wendy
+  - family: Rangaswami
+    given: Raju
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Cost effective storage using extent based dynamic tiering
+  container-title: FAST
+  publisher: USENIX
+  page: '273-286'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Guerra
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/XuJ11
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Yuehai
+  - family: Jiang
+    given: Song
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: A scheduling framework that makes any disk schedulers non-work-conserving
+    solely based on request characteristics
+  container-title: FAST
+  publisher: USENIX
+  page: '119-132'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Xu
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/PetersonB05
+  type: paper-conference
+  author:
+  - family: Peterson
+    given: Larry L.
+  - family: Bavier
+    given: Andy C.
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: 'Using planetLab for network research: Myths, realities, and best practices'
+  title-short: Using planetLab for network research
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/using-planetlab-network-research-myths-realities-and-best-practices
+
+- id: conf/fast/ShammaMWIHW11
+  type: paper-conference
+  author:
+  - family: Shamma
+    given: Mohammad
+  - family: Meyer
+    given: Dutch T.
+  - family: Wires
+    given: Jake
+  - family: Ivanova
+    given: Maria
+  - family: Hutchinson
+    given: Norman C.
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'Capo: Recapitulating storage for virtual desktops'
+  title-short: Capo
+  container-title: FAST
+  publisher: USENIX
+  page: '31-45'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Shamma
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/GillB07
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Binny S.
+  - family: Bathen
+    given: Luis Angel D.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'AMP: Adaptive multi-stream prefetching in a shared cache'
+  title-short: AMP
+  container-title: FAST
+  publisher: USENIX
+  page: '185-198'
+  URL: http://www.usenix.org/events/fast07/tech/gill.html
+
+- id: conf/fast/Hafner05
+  type: paper-conference
+  author:
+  - family: Hafner
+    given: James Lee
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'WEAVER codes: Highly fault tolerant erasure codes for storage systems'
+  title-short: WEAVER codes
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/hafner_weaver.html
+
+- id: conf/fast/AnastasiadisWC04
+  type: paper-conference
+  author:
+  - family: Anastasiadis
+    given: Stergios V.
+  - family: Wickremesinghe
+    given: Rajiv
+  - family: Chase
+    given: Jeffrey S.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Circus: Opportunistic block reordering for scalable content servers'
+  title-short: Circus
+  container-title: FAST
+  publisher: USENIX
+  page: '201-212'
+  URL: http://www.usenix.org/events/fast04/tech/anastasiadis.html
+
+- id: conf/fast/SivathanuPPDAA03
+  type: paper-conference
+  author:
+  - family: Sivathanu
+    given: Muthian
+  - family: Prabhakaran
+    given: Vijayan
+  - family: Popovici
+    given: Florentina I.
+  - family: Denehy
+    given: Timothy E.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Semantically-smart disk systems
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/sivathanu.html
+
+- id: conf/fast/LillibridgeEBDTC09
+  type: paper-conference
+  author:
+  - family: Lillibridge
+    given: Mark
+  - family: Eshghi
+    given: Kave
+  - family: Bhagwat
+    given: Deepavali
+  - family: Deolalikar
+    given: Vinay
+  - family: Trezis
+    given: Greg
+  - family: Camble
+    given: Peter
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Sparse indexing: Large scale, inline deduplication using sampling and
+    locality'
+  title-short: Sparse indexing
+  container-title: FAST
+  publisher: USENIX
+  page: '111-123'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/lillibridge/lillibridge.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/DemmerDB08
+  type: paper-conference
+  author:
+  - family: Demmer
+    given: Michael J.
+  - family: Du
+    given: Bowei
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'TierStore: A distributed filesystem for challenged networks in developing
+    regions'
+  title-short: TierStore
+  container-title: FAST
+  publisher: USENIX
+  page: '35-48'
+  URL: http://www.usenix.org/events/fast08/tech/demmer.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/DubnickiGHKKSSUW09
+  type: paper-conference
+  author:
+  - family: Dubnicki
+    given: Cezary
+  - family: Gryz
+    given: Leszek
+  - family: Heldt
+    given: Lukasz
+  - family: Kaczmarczyk
+    given: Michal
+  - family: Kilian
+    given: Wojciech
+  - family: Strzelczak
+    given: Przemyslaw
+  - family: Szczepkowski
+    given: Jerzy
+  - family: Ungureanu
+    given: Cristian
+  - family: Welnicki
+    given: Michal
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'HYDRAstor: A scalable secondary storage'
+  title-short: HYDRAstor
+  container-title: FAST
+  publisher: USENIX
+  page: '197-210'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/dubnicki/dubnicki.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/DramalievM03
+  type: paper-conference
+  author:
+  - family: Dramaliev
+    given: Ivan
+  - family: Madhyastha
+    given: Tara M.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Optimizing probe-based storage
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/dramaliev.html
+
+- id: conf/fast/WuJFTM09
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Suzhen
+  - family: Jiang
+    given: Hong
+  - family: Feng
+    given: Dan
+  - family: Tian
+    given: Lei
+  - family: Mao
+    given: Bo
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'WorkOut: I/O workload outsourcing for boosting rAID reconstruction performance'
+  title-short: WorkOut
+  container-title: FAST
+  publisher: USENIX
+  page: '239-252'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/wu/wu.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/ChidambaramSAA12
+  type: paper-conference
+  author:
+  - family: Chidambaram
+    given: Vijay
+  - family: Sharma
+    given: Tushar
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Consistency without ordering
+  container-title: FAST
+  publisher: USENIX Association
+  page: '9'
+  URL: https://www.usenix.org/conference/fast12/consistency-without-ordering
+
+- id: conf/fast/Zeinalipour-YaztiLKGN05
+  type: paper-conference
+  author:
+  - family: Zeinalipour-Yazti
+    given: Demetrios
+  - family: Lin
+    given: Song
+  - family: Kalogeraki
+    given: Vana
+  - family: Gunopulos
+    given: Dimitrios
+  - family: Najjar
+    given: Walid A.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'MicroHash: An efficient index structure for flash-based sensor devices'
+  title-short: MicroHash
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/zeinalipour-yazti.html
+
+- id: conf/fast/MaDLSCH15
+  type: paper-conference
+  author:
+  - family: Ma
+    given: Ao
+  - family: Douglis
+    given: Fred
+  - family: Lu
+    given: Guanlin
+  - family: Sawyer
+    given: Darren
+  - family: Chandra
+    given: Surendar
+  - family: Hsu
+    given: Windsor W.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'RAIDShield: Characterizing, monitoring, and proactively protecting against
+    disk failures'
+  title-short: RAIDShield
+  container-title: FAST
+  publisher: USENIX Association
+  page: '241-256'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/ma
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/Kelly05
+  type: paper-conference
+  author:
+  - family: Kelly
+    given: Terence
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Detecting performance anomalies in global applications
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/detecting-performance-anomalies-global-applications
+
+- id: conf/fast/LeungSBPM09
+  type: paper-conference
+  author:
+  - family: Leung
+    given: Andrew W.
+  - family: Shao
+    given: Minglong
+  - family: Bisson
+    given: Timothy
+  - family: Pasupathy
+    given: Shankar
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Spyglass: Fast, scalable metadata search for large-scale storage systems'
+  title-short: Spyglass
+  container-title: FAST
+  publisher: USENIX
+  page: '153-166'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/leung/leung.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/AferganWL05
+  type: paper-conference
+  author:
+  - family: Afergan
+    given: Mike
+  - family: Wein
+    given: Joel
+  - family: LaMeyer
+    given: Amy
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Experience with some principles for building an internet-scale reliable system
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/experience-some-principles-building-internet-scale-reliable-system
+
+- id: conf/fast/BatsakisBKLT09
+  type: paper-conference
+  author:
+  - family: Batsakis
+    given: Alexandros
+  - family: Burns
+    given: Randal C.
+  - family: Kanevsky
+    given: Arkady
+  - family: Lentini
+    given: James
+  - family: Talpey
+    given: Thomas
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'CA-nFS: A congestion-aware network file system'
+  title-short: CA-nFS
+  container-title: FAST
+  publisher: USENIX
+  page: '99-110'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/batsakis/batsakis.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/ZadokP10
+  type: paper-conference
+  author:
+  - family: Zadok
+    given: Galit
+  - family: Puustinen
+    given: Riikka
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: 'The green switch: Designing for sustainability in mobile computing'
+  title-short: The green switch
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/green-switch-designing-sustainability-mobile-computing
+
+- id: conf/fast/LiangKGN05
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Jin
+  - family: Ko
+    given: Steven Y.
+  - family: Gupta
+    given: Indranil
+  - family: Nahrstedt
+    given: Klara
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: 'MON: On-demand overlays for distributed system management'
+  title-short: MON
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/mon-demand-overlays-distributed-system-management
+
+- id: conf/fast/Tomonori07
+  type: paper-conference
+  author:
+  - family: Tomonori
+    given: Fujita
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: Modifications to the storage stack to better support tgt, sg, st and bsg
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/modifications-storage-stack-better-support-tgt-sg
+
+- id: conf/fast/PiernasF07
+  type: paper-conference
+  author:
+  - family: Piernas
+    given: Juan
+  - family: Faibish
+    given: Sorin
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: 'DualFS: A new journaling file system for linux'
+  title-short: DualFS
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/dualfs-new-journaling-file-system-linux
+
+- id: conf/fast/LiVBM08
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mingju
+  - family: Varki
+    given: Elizabeth
+  - family: Bhatia
+    given: Swapnil
+  - family: Merchant
+    given: Arif
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'TaP: Table-based prefetching for storage caches'
+  title-short: TaP
+  container-title: FAST
+  publisher: USENIX
+  page: '81-96'
+  URL: http://www.usenix.org/events/fast08/tech/li.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/KruusUD10
+  type: paper-conference
+  author:
+  - family: Kruus
+    given: Erik
+  - family: Ungureanu
+    given: Cristian
+  - family: Dubnicki
+    given: Cezary
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Bimodal content defined chunking for backup streams
+  container-title: FAST
+  publisher: USENIX
+  page: '239-252'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/kruus.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/JeongLK15
+  type: paper-conference
+  author:
+  - family: Jeong
+    given: Daeho
+  - family: Lee
+    given: Youngjae
+  - family: Kim
+    given: Jin-Soo
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Boosting quasi-asynchronous i/O for better responsiveness in mobile devices
+  container-title: FAST
+  publisher: USENIX Association
+  page: '191-202'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/jeong
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/ShenPZ14
+  type: paper-conference
+  author:
+  - family: Shen
+    given: Kai
+  - family: Park
+    given: Stan
+  - family: Zhu
+    given: Meng
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Journaling of journal is (almost) free
+  container-title: FAST
+  publisher: USENIX
+  page: '287-293'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/shen
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/KasickTGN10
+  type: paper-conference
+  author:
+  - family: Kasick
+    given: Michael P.
+  - family: Tan
+    given: Jiaqi
+  - family: Gandhi
+    given: Rajeev
+  - family: Narasimhan
+    given: Priya
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Black-box problem diagnosis in parallel file systems
+  container-title: FAST
+  publisher: USENIX
+  page: '43-56'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/kasick.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/FlinnSTS03
+  type: paper-conference
+  author:
+  - family: Flinn
+    given: Jason
+  - family: Sinnamohideen
+    given: Shafeeq
+  - family: Tolia
+    given: Niraj
+  - family: Satyanarayanan
+    given: Mahadev
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Data staging on untrusted surrogates
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/flinn.html
+
+- id: conf/fast/QuinlanD02
+  type: paper-conference
+  author:
+  - family: Quinlan
+    given: Sean
+  - family: Dorward
+    given: Sean
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Venti: A new approach to archival storage'
+  title-short: Venti
+  container-title: FAST
+  publisher: USENIX
+  page: '89-101'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/quinlan.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/YangWCWYH15
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Jun
+  - family: Wei
+    given: Qingsong
+  - family: Chen
+    given: Cheng
+  - family: Wang
+    given: Chundong
+  - family: Yong
+    given: Khai Leong
+  - family: He
+    given: Bingsheng
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'NV-tree: Reducing consistency cost for nVM-based single level systems'
+  title-short: NV-tree
+  container-title: FAST
+  publisher: USENIX Association
+  page: '167-181'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/yang
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/MirandaC14
+  type: paper-conference
+  author:
+  - family: Miranda
+    given: A.
+  - family: Cortes
+    given: T.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'CRAID: Online rAID upgrades using dynamic hot data reorganization'
+  title-short: CRAID
+  container-title: FAST
+  publisher: USENIX
+  page: '133-146'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/miranda
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/KimCN02
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Minkyong
+  - family: Cox
+    given: Landon P.
+  - family: Noble
+    given: Brian D.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Safety, visibility, and performance in a wide-area file system
+  container-title: FAST
+  publisher: USENIX
+  page: '131-144'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/kim.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/2012
+  type: book
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Proceedings of the 10th uSENIX conference on file and storage technologies,
+    fAST 2012, san jose, cA, uSA, february 14-17, 2012
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A278
+
+- id: conf/fast/PlankGM13
+  type: paper-conference
+  author:
+  - family: Plank
+    given: James S.
+  - family: Greenan
+    given: Kevin M.
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Screaming fast galois field arithmetic using intel sIMD instructions
+  container-title: FAST
+  publisher: USENIX
+  page: '299-306'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/plank_james_simd
+
+- id: conf/fast/RheaEGWZK03
+  type: paper-conference
+  author:
+  - family: Rhea
+    given: Sean C.
+  - family: Eaton
+    given: Patrick R.
+  - family: Geels
+    given: Dennis
+  - family: Weatherspoon
+    given: Hakim
+  - family: Zhao
+    given: Ben Y.
+  - family: Kubiatowicz
+    given: John
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'Pond: The oceanStore prototype'
+  title-short: Pond
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/rhea.html
+
+- id: conf/fast/MillerLFR02
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Ethan L.
+  - family: Long
+    given: Darrell D. E.
+  - family: Freeman
+    given: William E.
+  - family: Reed
+    given: Benjamin
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Strong security for network-attached storage
+  container-title: FAST
+  publisher: USENIX
+  page: '1-13'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/miller.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/AndersonSVAW02
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Eric
+  - family: Swaminathan
+    given: Ram
+  - family: Veitch
+    given: Alistair C.
+  - family: Alvarez
+    given: Guillermo A.
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Selecting rAID levels for disk arrays
+  container-title: FAST
+  publisher: USENIX
+  page: '189-201'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/andersonRAID.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/VrableSV12
+  type: paper-conference
+  author:
+  - family: Vrable
+    given: Michael
+  - family: Savage
+    given: Stefan
+  - family: Voelker
+    given: Geoffrey M.
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'BlueSky: A cloud-backed file system for the enterprise'
+  title-short: BlueSky
+  container-title: FAST
+  publisher: USENIX Association
+  page: '19'
+  URL: https://www.usenix.org/conference/fast12/bluesky-cloud-backed-file-system-enterprise
+
+- id: conf/fast/SoundararajanPBW10
+  type: paper-conference
+  author:
+  - family: Soundararajan
+    given: Gokul
+  - family: Prabhakaran
+    given: Vijayan
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Wobber
+    given: Ted
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Extending sSD lifetimes with disk-based write caches
+  container-title: FAST
+  publisher: USENIX
+  page: '101-114'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/soundararajan.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/DenehyAA05
+  type: paper-conference
+  author:
+  - family: Denehy
+    given: Timothy E.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Journal-guided resynchronization for software rAID
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/denehy.html
+
+- id: conf/fast/JiangDCTZ05
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Song
+  - family: Ding
+    given: Xiaoning
+  - family: Chen
+    given: Feng
+  - family: Tan
+    given: Enhua
+  - family: '0001'
+    given: Xiaodong Zhang
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'DULO: An effective buffer cache management scheme to exploit both temporal
+    and spatial localities'
+  title-short: DULO
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/jiang.html
+
+- id: conf/fast/OralWDSMD10
+  type: paper-conference
+  author:
+  - family: Oral
+    given: Sarp
+  - family: Wang
+    given: Feiyi
+  - family: Dillow
+    given: David
+  - family: Shipman
+    given: Galen M.
+  - family: Miller
+    given: Ross
+  - family: Drokin
+    given: Oleg
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Efficient object storage journaling in a distributed parallel file system
+  container-title: FAST
+  publisher: USENIX
+  page: '143-154'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/oral.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/CapposH05
+  type: paper-conference
+  author:
+  - family: Cappos
+    given: Justin
+  - family: Hartman
+    given: John H.
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Why it is hard to build a long-running service on planetLab
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/why-it-hard-build-long-running-service-planetlab
+
+- id: conf/fast/AgrawalAA09
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Nitin
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Generating realistic impressions for file-system benchmarking
+  container-title: FAST
+  publisher: USENIX
+  page: '125-138'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/agrawal/agrawal.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/SoulesGSG03
+  type: paper-conference
+  author:
+  - family: Soules
+    given: Craig A. N.
+  - family: Goodson
+    given: Garth R.
+  - family: Strunk
+    given: John D.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Metadata efficiency in versioning file systems
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/soules.html
+
+- id: conf/fast/LiL14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Mingqiang
+  - family: Lee
+    given: Patrick P. C.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'STAIR codes: A general family of erasure codes for tolerating device and
+    sector failures in practical storage systems'
+  title-short: STAIR codes
+  container-title: FAST
+  publisher: USENIX
+  page: '147-162'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/li-mingqiang
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/JiangHPKLZ09
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Weihang
+  - family: Hu
+    given: Chongfeng
+  - family: Pasupathy
+    given: Shankar
+  - family: Kanevsky
+    given: Arkady
+  - family: Li
+    given: Zhenmin
+  - family: Zhou
+    given: Yuanyuan
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Understanding customer problem troubleshooting from storage system logs
+  container-title: FAST
+  publisher: USENIX
+  page: '43-56'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/jiang/jiang.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/2005worlds
+  type: book
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Second uSENIX workshop on real, large distributed systems, wORLDS’05, san
+    francisco, cA, uSA, december 13, 2005
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A152
+
+- id: conf/fast/RheaCKS05
+  type: paper-conference
+  author:
+  - family: Rhea
+    given: Sean C.
+  - family: Chun
+    given: Byung-Gon
+  - family: Kubiatowicz
+    given: John
+  - family: Shenker
+    given: Scott
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Fixing the embarrassing slowness of openDHT on planetLab
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/fixing-embarrassing-slowness-opendht-planetlab
+
+- id: conf/fast/WangM07
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yin
+  - family: Merchant
+    given: Arif
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Proportional-share scheduling for distributed storage systems
+  container-title: FAST
+  publisher: USENIX
+  page: '47-60'
+  URL: http://www.usenix.org/events/fast07/tech/wang.html
+
+- id: conf/fast/BiskebornGPP05
+  type: paper-conference
+  author:
+  - family: Biskeborn
+    given: Brian
+  - family: Golightly
+    given: Michael
+  - family: Park
+    given: KyoungSoo
+  - family: Pai
+    given: Vivek S.
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: (Re)Design considerations for scalable large-file content distribution
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/redesign-considerations-scalable-large-file-content-distribution
+
+- id: conf/fast/MargoS09
+  type: paper-conference
+  author:
+  - family: Margo
+    given: Daniel W.
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: The case for browser provenance
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/margo/margo.pdf
+
+- id: conf/fast/2011
+  type: book
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 9th uSENIX conference on file and storage technologies, san jose, cA, uSA,
+    february 15-17, 2011
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A29
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/KhanBPPH12
+  type: paper-conference
+  author:
+  - family: Khan
+    given: Osama
+  - family: Burns
+    given: Randal C.
+  - family: Plank
+    given: James S.
+  - family: Pierce
+    given: William
+  - family: Huang
+    given: Cheng
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'Rethinking erasure codes for cloud file systems: Minimizing i/O for recovery
+    and degraded reads'
+  title-short: Rethinking erasure codes for cloud file systems
+  container-title: FAST
+  publisher: USENIX Association
+  page: '20'
+  URL: https://www.usenix.org/conference/fast12/rethinking-erasure-codes-cloud-file-systems-minimizing-io-recovery-and-degraded
+
+- id: conf/fast/KrioukovBGSTAA08
+  type: paper-conference
+  author:
+  - family: Krioukov
+    given: Andrew
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Goodson
+    given: Garth R.
+  - family: Srinivasan
+    given: Kiran
+  - family: Thelen
+    given: Randy
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Parity lost and parity regained
+  container-title: FAST
+  publisher: USENIX
+  page: '127-141'
+  URL: http://www.usenix.org/events/fast08/tech/krioukov.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/SaxenaZSAA13
+  type: paper-conference
+  author:
+  - family: Saxena
+    given: Mohit
+  - family: Zhang
+    given: Yiying
+  - family: Swift
+    given: Michael M.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Getting real: Lessons in transitioning research simulations into hardware
+    systems'
+  title-short: Getting real
+  container-title: FAST
+  publisher: USENIX
+  page: '215-228'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/saxena
+
+- id: conf/fast/ZhangYKW02
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Chi
+  - family: Yu
+    given: Xiang
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Wang
+    given: Randolph Y.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Configuring and scheduling an eager-writing disk array for a transaction
+    processing workload
+  container-title: FAST
+  publisher: USENIX
+  page: '289-304'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/zhang.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/Muniswamy-ReddyMS09
+  type: paper-conference
+  author:
+  - family: Muniswamy-Reddy
+    given: Kiran-Kumar
+  - family: Macko
+    given: Peter
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Making a cloud provenance-aware
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/muniswamy-reddy/muniswamy-reddy.pdf
+
+- id: conf/fast/ZedlewskiSGZKW03
+  type: paper-conference
+  author:
+  - family: Zedlewski
+    given: John
+  - family: Sobti
+    given: Sumeet
+  - family: Garg
+    given: Nitin
+  - family: Zheng
+    given: Fengzhou
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Wang
+    given: Randolph Y.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Modeling hard-disk power consumption
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/zedlewski.html
+
+- id: conf/fast/PanDZ11
+  type: paper-conference
+  author:
+  - family: Pan
+    given: Yangyang
+  - family: Dong
+    given: Guiqiang
+  - family: '0002'
+    given: Tong Zhang
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Exploiting memory device wear-out dynamics to improve nAND flash memory system
+    performance
+  container-title: FAST
+  publisher: USENIX
+  page: '245-258'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Pan
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/LillibridgeEB13
+  type: paper-conference
+  author:
+  - family: Lillibridge
+    given: Mark
+  - family: Eshghi
+    given: Kave
+  - family: Bhagwat
+    given: Deepavali
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Improving restore speed for backup systems that use inline chunk-based deduplication
+  container-title: FAST
+  publisher: USENIX
+  page: '183-198'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/lillibridge
+
+- id: conf/fast/WangH02
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Jun Wang
+  - family: Hu
+    given: Yiming
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: WOLF - a novel reordering write buffer to boost the performance of log-structured
+    file systems
+  container-title: FAST
+  publisher: USENIX
+  page: '47-60'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/wang.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/2008
+  type: book
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 6th uSENIX conference on file and storage technologies, fAST 2008, february
+    26-29, 2008, san jose, cA, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A99
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/GriffinSSBG02
+  type: paper-conference
+  author:
+  - family: Griffin
+    given: John Linwood
+  - family: Schindler
+    given: Jiri
+  - family: Schlosser
+    given: Steven W.
+  - family: Bucy
+    given: John S.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Timing-accurate storage emulation
+  container-title: FAST
+  publisher: USENIX
+  page: '75-88'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/griffin.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/WuH12
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Guanying
+  - family: He
+    given: Xubin
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Reducing sSD read latency via nAND flash program and erase suspension
+  container-title: FAST
+  publisher: USENIX Association
+  page: '10'
+  URL: https://www.usenix.org/conference/fast12/reducing-ssd-read-latency-nand-flash-program-and-erase-suspension
+
+- id: conf/fast/KimSDC14
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Hyojun
+  - family: Seshadri
+    given: Sangeetha
+  - family: Dickey
+    given: Clement L.
+  - family: Chiu
+    given: Lawrence
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Evaluating phase change memory for enterprise storage systems: A study
+    of caching and tiering approaches'
+  title-short: Evaluating phase change memory for enterprise storage systems
+  container-title: FAST
+  publisher: USENIX
+  page: '33-45'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/kim
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/RosenthalSCB09
+  type: paper-conference
+  author:
+  - family: Rosenthal
+    given: Arnon
+  - family: Seligman
+    given: Len
+  - family: Chapman
+    given: Adriane
+  - family: Blaustein
+    given: Barbara T.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Scalable access controls for lineage
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/rosenthal/rosenthal.pdf
+
+- id: conf/fast/JannenYZAEJMPRW15
+  type: paper-conference
+  author:
+  - family: Jannen
+    given: William
+  - family: Yuan
+    given: Jun
+  - family: Zhan
+    given: Yang
+  - family: Akshintala
+    given: Amogh
+  - family: Esmet
+    given: John
+  - family: Jiao
+    given: Yizheng
+  - family: Mittal
+    given: Ankur
+  - family: Pandey
+    given: Prashant
+  - family: Reddy
+    given: Phaneendra
+  - family: Walsh
+    given: Leif
+  - family: Bender
+    given: Michael A.
+  - family: Farach-Colton
+    given: Martin
+  - family: Johnson
+    given: Rob
+  - family: Kuszmaul
+    given: Bradley C.
+  - family: Porter
+    given: Donald E.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'BetrFS: A right-optimized write-optimized file system'
+  title-short: BetrFS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '301-315'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/jannen
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/JiangHZK08
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Weihang
+  - family: Hu
+    given: Chongfeng
+  - family: Zhou
+    given: Yuanyuan
+  - family: Kanevsky
+    given: Arkady
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Are disks the dominant contributor for storage failures? A comprehensive
+    study of storage subsystem failure characteristics
+  container-title: FAST
+  publisher: USENIX
+  page: '111-125'
+  URL: http://www.usenix.org/events/fast08/tech/jiang.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/PattersonMFHKO02
+  type: paper-conference
+  author:
+  - family: Patterson
+    given: R. Hugo
+  - family: Manley
+    given: Stephen
+  - family: Federwisch
+    given: Mike
+  - family: Hitz
+    given: Dave
+  - family: Kleiman
+    given: Steven
+  - family: Owara
+    given: Shane
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'SnapMirror: File-system-based asynchronous mirroring for disaster recovery'
+  title-short: SnapMirror
+  container-title: FAST
+  publisher: USENIX
+  page: '117-129'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/patterson.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/ToliaHKS04
+  type: paper-conference
+  author:
+  - family: Tolia
+    given: Niraj
+  - family: Harkes
+    given: Jan
+  - family: Kozuch
+    given: Michael
+  - family: Satyanarayanan
+    given: Mahadev
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Integrating portable and distributed storage
+  container-title: FAST
+  publisher: USENIX
+  page: '227-238'
+  URL: http://www.usenix.org/events/fast04/tech/tolia.html
+
+- id: conf/fast/CorriganSP10
+  type: paper-conference
+  author:
+  - family: Corrigan
+    given: Kiara
+  - family: Shah
+    given: Amip
+  - family: Patel
+    given: Chandrakant D.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: Estimating environmental costs
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/estimating-environmental-costs
+
+- id: conf/fast/ZhuLP08
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Benjamin
+  - family: Li
+    given: Kai
+  - family: Patterson
+    given: R. Hugo
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Avoiding the disk bottleneck in the data domain deduplication file system
+  container-title: FAST
+  publisher: USENIX
+  page: '269-282'
+  URL: http://www.usenix.org/events/fast08/tech/zhu.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/ParkS12
+  type: paper-conference
+  author:
+  - family: Park
+    given: Stan
+  - family: Shen
+    given: Kai
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'FIOS: A fair, efficient flash i/O scheduler'
+  title-short: FIOS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '13'
+  URL: https://www.usenix.org/conference/fast12/fios-fair-efficient-flash-io-scheduler
+
+- id: conf/fast/WallaceDQSSCH12
+  type: paper-conference
+  author:
+  - family: Wallace
+    given: Grant
+  - family: Douglis
+    given: Fred
+  - family: Qian
+    given: Hangwei
+  - family: Shilane
+    given: Philip
+  - family: Smaldone
+    given: Stephen
+  - family: Chamness
+    given: Mark
+  - family: Hsu
+    given: Windsor
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Characteristics of backup workloads in production systems
+  container-title: FAST
+  publisher: USENIX Association
+  page: '4'
+  URL: https://www.usenix.org/conference/fast12/characteristics-backup-workloads-production-systems
+
+- id: conf/fast/LiuASL09
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Xin
+  - family: Aboulnaga
+    given: Ashraf
+  - family: Salem
+    given: Kenneth
+  - family: Li
+    given: Xuhui
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'CLIC: CLient-informed caching for storage servers'
+  title-short: CLIC
+  container-title: FAST
+  publisher: USENIX
+  page: '297-310'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/liu/liu.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/XuCKTGKG14
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Lianghong
+  - family: Cipar
+    given: James
+  - family: Krevat
+    given: Elie
+  - family: Tumanov
+    given: Alexey
+  - family: Gupta
+    given: Nitin
+  - family: Kozuch
+    given: Michael A.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'SpringFS: Bridging agility and performance in elastic distributed storage'
+  title-short: SpringFS
+  container-title: FAST
+  publisher: USENIX
+  page: '243-255'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/xu
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/BirkeBCSE14
+  type: paper-conference
+  author:
+  - family: Birke
+    given: Robert
+  - family: Björkqvist
+    given: Mathias
+  - family: Chen
+    given: Lydia Y.
+  - family: Smirni
+    given: Evgenia
+  - family: Engbersen
+    given: Ton
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: '(Big)data in a virtualized world: Volume, velocity, and variety in cloud
+    datacenters'
+  title-short: (Big)data in a virtualized world
+  container-title: FAST
+  publisher: USENIX
+  page: '177-189'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/birke
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/BoboilaD10
+  type: paper-conference
+  author:
+  - family: Boboila
+    given: Simona
+  - family: Desnoyers
+    given: Peter
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'Write endurance in flash drives: Measurements and analysis'
+  title-short: Write endurance in flash drives
+  container-title: FAST
+  publisher: USENIX
+  page: '115-128'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/boboila.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/KimLN15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Jaeho
+  - family: Lee
+    given: Donghee
+  - family: Noh
+    given: Sam H.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Towards sLO complying sSDs through oPS isolation
+  container-title: FAST
+  publisher: USENIX Association
+  page: '183-189'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/kim_jaeho
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/YumerefendiC07
+  type: paper-conference
+  author:
+  - family: Yumerefendi
+    given: Aydan R.
+  - family: Chase
+    given: Jeffrey S.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Strong accountability for network storage
+  container-title: FAST
+  publisher: USENIX
+  page: '77-92'
+  URL: http://www.usenix.org/events/fast07/tech/yumerefendi.html
+
+- id: conf/fast/ZhengZ11
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Weimin
+  - family: Zhang
+    given: Guangyan
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'FastScale: Accelerate rAID scaling by minimizing data migration'
+  title-short: FastScale
+  container-title: FAST
+  publisher: USENIX
+  page: '149-161'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Zheng
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/KeetonSBCW04
+  type: paper-conference
+  author:
+  - family: Keeton
+    given: Kimberly
+  - family: Santos
+    given: Cipriano A.
+  - family: '0002'
+    given: Dirk Beyer
+  - family: Chase
+    given: Jeffrey S.
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Designing for disasters
+  container-title: FAST
+  publisher: USENIX
+  page: '59-72'
+  URL: http://www.usenix.org/events/fast04/tech/keeton.html
+
+- id: conf/fast/UttamchandaniVSPP04
+  type: paper-conference
+  author:
+  - family: Uttamchandani
+    given: Sandeep
+  - family: Voruganti
+    given: Kaladhar
+  - family: Srinivasan
+    given: Sudarshan M.
+  - family: Palmer
+    given: John
+  - family: Pease
+    given: David
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Polus: Growing storage qoS management beyond a “4-year old kid”'
+  title-short: Polus
+  container-title: FAST
+  publisher: USENIX
+  page: '31-44'
+  URL: http://www.usenix.org/events/fast04/tech/uttamchandani.html
+
+- id: conf/fast/TinedoHNSTZ15
+  type: paper-conference
+  author:
+  - family: Tinedo
+    given: Raúl Gracia
+  - family: Harnik
+    given: Danny
+  - family: Naor
+    given: Dalit
+  - family: Sotnikov
+    given: Dmitry
+  - family: Toledo
+    given: Sivan
+  - family: Zuck
+    given: Aviad
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'SDGen: Mimicking datasets for content generation in storage benchmarks'
+  title-short: SDGen
+  container-title: FAST
+  publisher: USENIX Association
+  page: '317-330'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/gracia-tinedo
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/HarterBDATAA14
+  type: paper-conference
+  author:
+  - family: Harter
+    given: Tyler
+  - family: Borthakur
+    given: Dhruba
+  - family: Dong
+    given: Siying
+  - family: Aiyer
+    given: Amitanand S.
+  - family: Tang
+    given: Liyin
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Analysis of hDFS under hBase: A facebook messages case study'
+  title-short: Analysis of hDFS under hBase
+  container-title: FAST
+  publisher: USENIX
+  page: '199-212'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/harter
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/2005
+  type: book
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Proceedings of the fAST ’05 conference on file and storage technologies,
+    december 13-16, 2005, san francisco, california, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A151
+
+- id: conf/fast/LeHW12
+  type: paper-conference
+  author:
+  - family: Le
+    given: Duy
+  - family: Huang
+    given: Hai
+  - family: Wang
+    given: Haining
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Understanding performance implications of nested file systems in a virtualized
+    environment
+  container-title: FAST
+  publisher: USENIX Association
+  page: '8'
+  URL: https://www.usenix.org/conference/fast12/understanding-performance-implications-nested-file-systems-virtualized-environment
+
+- id: conf/fast/StrunkTFG08
+  type: paper-conference
+  author:
+  - family: Strunk
+    given: John D.
+  - family: Thereska
+    given: Eno
+  - family: Faloutsos
+    given: Christos
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Using utility to provision storage systems
+  container-title: FAST
+  publisher: USENIX
+  page: '313-328'
+  URL: http://www.usenix.org/events/fast08/tech/strunk.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/Wheeler07
+  type: paper-conference
+  author:
+  - family: Wheeler
+    given: Rick
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: Storage & fS challenges
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/storage-fs-challenges
+
+- id: conf/fast/PlankLSXW09
+  type: paper-conference
+  author:
+  - family: Plank
+    given: James S.
+  - family: Luo
+    given: Jianqiang
+  - family: Schuman
+    given: Catherine D.
+  - family: Xu
+    given: Lihao
+  - family: Wilcox-O’Hearn
+    given: Zooko
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: A performance evaluation and examination of open-source erasure coding libraries
+    for storage
+  container-title: FAST
+  publisher: USENIX
+  page: '253-265'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/plank/plank.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/AgrawalAAA11
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Nitin
+  - family: Arulraj
+    given: Leo Prasath
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Emulating goliath storage systems with david
+  container-title: FAST
+  publisher: USENIX
+  page: '203-216'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Agrawal
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/TuRMSDS10
+  type: paper-conference
+  author:
+  - family: Tu
+    given: Tiankai
+  - family: Rendleman
+    given: Charles A.
+  - family: Miller
+    given: Patrick J.
+  - family: Sacerdoti
+    given: Federico D.
+  - family: Dror
+    given: Ron O.
+  - family: Shaw
+    given: David E.
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Accelerating parallel analysis of scientific simulation data via zazen
+  container-title: FAST
+  publisher: USENIX
+  page: '129-142'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/tu.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/MeyerB11
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Dutch T.
+  - family: Bolosky
+    given: William J.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: A study of practical deduplication
+  container-title: FAST
+  publisher: USENIX
+  page: '1-13'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Meyer
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/SeshadriCL09
+  type: paper-conference
+  author:
+  - family: Seshadri
+    given: Sangeetha
+  - family: Chiu
+    given: Lawrence
+  - family: Liu
+    given: Ling
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: A systematic approach to system state restoration during storage controller
+    micro-recovery
+  container-title: FAST
+  publisher: USENIX
+  page: '283-296'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/seshadri/seshadri.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/DongDLPRS11
+  type: paper-conference
+  author:
+  - family: Dong
+    given: Wei
+  - family: Douglis
+    given: Fred
+  - family: Li
+    given: Kai
+  - family: Patterson
+    given: R. Hugo
+  - family: Reddy
+    given: Sazzala
+  - family: Shilane
+    given: Philip
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Tradeoffs in scalable data routing for deduplication clusters
+  container-title: FAST
+  publisher: USENIX
+  page: '15-29'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Dong
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/2002
+  type: book
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Proceedings of the fAST ’02 conference on file and storage technologies,
+    january 28-30, 2002, monterey, california, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A200
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/LiGLZ12
+  type: paper-conference
+  author:
+  - family: Li
+    given: Zhichao
+  - family: Greenan
+    given: Kevin M.
+  - family: Leung
+    given: Andrew W.
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Power consumption in enterprise-scale backup storage systems
+  container-title: FAST
+  publisher: USENIX Association
+  page: '6'
+  URL: https://www.usenix.org/conference/fast12/power-consumption-enterprise-scale-backup-storage-systems
+
+- id: conf/fast/ZhangDAA14
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yupu
+  - family: Dragga
+    given: Chris
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'ViewBox: Integrating local file systems with cloud storage services'
+  title-short: ViewBox
+  container-title: FAST
+  publisher: USENIX
+  page: '119-132'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/zhang
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SivathanuPAA04
+  type: paper-conference
+  author:
+  - family: Sivathanu
+    given: Muthian
+  - family: Prabhakaran
+    given: Vijayan
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Improving storage system availability with d-gRAID (awarded best student
+    paper!)
+  container-title: FAST
+  publisher: USENIX
+  page: '15-30'
+  URL: http://www.usenix.org/events/fast04/tech/sivathanu.html
+
+- id: conf/fast/GehaniKZ09
+  type: paper-conference
+  author:
+  - family: Gehani
+    given: Ashish
+  - family: Kim
+    given: Minyoung
+  - family: Zhang
+    given: Jian
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Steps toward managing lineage metadata in grid clusters
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/gehani/gehani.pdf
+
+- id: conf/fast/ForneyAA02
+  type: paper-conference
+  author:
+  - family: Forney
+    given: Brian C.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Storage-aware caching: Revisiting caching for heterogeneous storage systems'
+  title-short: Storage-aware caching
+  container-title: FAST
+  publisher: USENIX
+  page: '61-74'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/forney.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/DeBergalisCKLNTW03
+  type: paper-conference
+  author:
+  - family: DeBergalis
+    given: Matt
+  - family: Corbett
+    given: Peter F.
+  - family: Kleiman
+    given: Steven
+  - family: Lent
+    given: Arthur
+  - family: Noveck
+    given: Dave
+  - family: Talpey
+    given: Thomas
+  - family: Wittle
+    given: Mark
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: The direct access file system
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/debergalis.html
+
+- id: conf/fast/PetersonBHSR05
+  type: paper-conference
+  author:
+  - family: Peterson
+    given: Zachary N. J.
+  - family: Burns
+    given: Randal C.
+  - family: Herring
+    given: Joseph
+  - family: Stubblefield
+    given: Adam
+  - family: Rubin
+    given: Aviel D.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Secure deletion for a versioning file system
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/peterson.html
+
+- id: conf/fast/LiuYW12
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Ren-Shuo
+  - family: Yang
+    given: Chia-Lin
+  - family: Wu
+    given: Wei
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Optimizing nAND flash-based sSDs via retention relaxation
+  container-title: FAST
+  publisher: USENIX Association
+  page: '11'
+  URL: https://www.usenix.org/conference/fast12/optimizing-nand-flash-based-ssds-retention-relaxation
+
+- id: conf/fast/AranyaWZ04
+  type: paper-conference
+  author:
+  - family: Aranya
+    given: Akshat
+  - family: Wright
+    given: Charles P.
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Tracefs: A file system to trace them all'
+  title-short: Tracefs
+  container-title: FAST
+  publisher: USENIX
+  page: '129-145'
+  URL: http://www.usenix.org/events/fast04/tech/aranya.html
+
+- id: conf/fast/EislerCKNW07
+  type: paper-conference
+  author:
+  - family: Eisler
+    given: Michael
+  - family: Corbett
+    given: Peter
+  - family: Kazar
+    given: Michael
+  - family: Nydick
+    given: Daniel S.
+  - family: Wagner
+    given: J. Christopher
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Data oNTAP gX: A scalable storage cluster'
+  title-short: Data oNTAP gX
+  container-title: FAST
+  publisher: USENIX
+  page: '139-152'
+  URL: http://www.usenix.org/events/fast07/tech/eisler.html
+
+- id: conf/fast/HasanSW09
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Ragib
+  - family: Sion
+    given: Radu
+  - family: Winslett
+    given: Marianne
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'The case of the fake picasso: Preventing history forgery with secure provenance'
+  title-short: The case of the fake picasso
+  container-title: FAST
+  publisher: USENIX
+  page: '1-14'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/hasan/hasan.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/YadwadkarBGNS10
+  type: paper-conference
+  author:
+  - family: Yadwadkar
+    given: Neeraja J.
+  - family: Bhattacharyya
+    given: Chiranjib
+  - family: Gopinath
+    given: Kanchi
+  - family: Niranjan
+    given: Thirumale
+  - family: Susarla
+    given: Sai
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Discovery of application workloads from network file traces
+  container-title: FAST
+  publisher: USENIX
+  page: '183-196'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/yadwadkar.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/Muniswamy-ReddyMS10
+  type: paper-conference
+  author:
+  - family: Muniswamy-Reddy
+    given: Kiran-Kumar
+  - family: Macko
+    given: Peter
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Provenance for the cloud
+  container-title: FAST
+  publisher: USENIX
+  page: '197-210'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/muniswamy-reddy.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/PetersonBAB07
+  type: paper-conference
+  author:
+  - family: Peterson
+    given: Zachary N. J.
+  - family: Burns
+    given: Randal C.
+  - family: Ateniese
+    given: Giuseppe
+  - family: Bono
+    given: Stephen
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Design and implementation of verifiable audit trails for a versioning file
+    system
+  container-title: FAST
+  publisher: USENIX
+  page: '93-106'
+  URL: http://www.usenix.org/events/fast07/tech/peterson.html
+
+- id: conf/fast/KollerMRSTZ13
+  type: paper-conference
+  author:
+  - family: Koller
+    given: Ricardo
+  - family: Marmol
+    given: Leonardo
+  - family: Rangaswami
+    given: Raju
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Talagala
+    given: Nisha
+  - family: Zhao
+    given: Ming
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Write policies for host-side flash caches
+  container-title: FAST
+  publisher: USENIX
+  page: '45-58'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/koller
+
+- id: conf/fast/SinghKV05
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Aameek
+  - family: Korupolu
+    given: Madhukar R.
+  - family: Voruganti
+    given: Kaladhar
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'Zodiac: Efficient impact analysis for storage area networks'
+  title-short: Zodiac
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/singh.html
+
+- id: conf/fast/MihailescuSA13
+  type: paper-conference
+  author:
+  - family: Mihailescu
+    given: Madalin
+  - family: Soundararajan
+    given: Gokul
+  - family: Amza
+    given: Cristiana
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'MixApart: Decoupled analytics for shared storage systems'
+  title-short: MixApart
+  container-title: FAST
+  publisher: USENIX
+  page: '133-146'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/mihailescu
+
+- id: conf/fast/LuAAL13
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Lanyue
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Lu
+    given: Shan
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: A study of linux file system evolution
+  container-title: FAST
+  publisher: USENIX
+  page: '31-44'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/lu
+
+- id: conf/fast/EshghiLWBH07
+  type: paper-conference
+  author:
+  - family: Eshghi
+    given: Kave
+  - family: Lillibridge
+    given: Mark
+  - family: Wilcock
+    given: Lawrence
+  - family: Belrose
+    given: Guillaume
+  - family: Hawkes
+    given: Rycharde
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Jumbo store: Providing efficient incremental upload and versioning for
+    a utility rendering service'
+  title-short: Jumbo store
+  container-title: FAST
+  publisher: USENIX
+  page: '123-138'
+  URL: http://www.usenix.org/events/fast07/tech/eshghi.html
+
+- id: conf/fast/HarnikKMST13
+  type: paper-conference
+  author:
+  - family: Harnik
+    given: Danny
+  - family: Kat
+    given: Ronen I.
+  - family: Margalit
+    given: Oded
+  - family: Sotnikov
+    given: Dmitry
+  - family: Traeger
+    given: Avishay
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'To zip or not to zip: Effective resource usage for real-time compression'
+  title-short: To zip or not to zip
+  container-title: FAST
+  publisher: USENIX
+  page: '229-242'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/saxena
+
+- id: conf/fast/LuSW14
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Youyou
+  - family: Shu
+    given: Jiwu
+  - family: Wang
+    given: Wei
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'ReconFS: A reconstructable file system on flash storage'
+  title-short: ReconFS
+  container-title: FAST
+  publisher: USENIX
+  page: '75-88'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/lu
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/ZhangAAA12
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yiying
+  - family: Arulraj
+    given: Leo Prasath
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: De-indirection for flash-based sSDs with nameless writes
+  container-title: FAST
+  publisher: USENIX Association
+  page: '1'
+  URL: https://www.usenix.org/conference/fast12/de-indirection-flash-based-ssds-nameless-writes
+
+- id: conf/fast/MackoSS10
+  type: paper-conference
+  author:
+  - family: Macko
+    given: Peter
+  - family: Seltzer
+    given: Margo I.
+  - family: Smith
+    given: Keith A.
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Tracking back references in a write-anywhere file system
+  container-title: FAST
+  publisher: USENIX
+  page: '15-28'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/macko.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/BotelhoSGH13
+  type: paper-conference
+  author:
+  - family: Botelho
+    given: Fabiano C.
+  - family: Shilane
+    given: Philip
+  - family: Garg
+    given: Nitin
+  - family: Hsu
+    given: Windsor
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Memory efficient sanitization of a deduplicated storage system
+  container-title: FAST
+  publisher: USENIX
+  page: '81-94'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/botelho
+
+- id: conf/fast/VeeraraghavanFNN10
+  type: paper-conference
+  author:
+  - family: Veeraraghavan
+    given: Kaushik
+  - family: Flinn
+    given: Jason
+  - family: Nightingale
+    given: Edmund B.
+  - family: Noble
+    given: Brian
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'QuFiles: The right file at the right time'
+  title-short: QuFiles
+  container-title: FAST
+  publisher: USENIX
+  page: '1-14'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/veeraraghavan.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/ErmolinskiyMCS09
+  type: paper-conference
+  author:
+  - family: Ermolinskiy
+    given: Andrey
+  - family: Moon
+    given: Daekyeong
+  - family: Chun
+    given: Byung-Gon
+  - family: Shenker
+    given: Scott
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Minuet: Rethinking concurrency control in storage area networks'
+  title-short: Minuet
+  container-title: FAST
+  publisher: USENIX
+  page: '311-324'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/ermolinskiy/ermolinskiy.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/DeolalikarL09
+  type: paper-conference
+  author:
+  - family: Deolalikar
+    given: Vinay
+  - family: Laffitte
+    given: Hernan
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Provenance as data mining: Combining file system metadata with content
+    analysis'
+  title-short: Provenance as data mining
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/deolalikar/deolalikar.pdf
+
+- id: conf/fast/HuangX05
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Cheng
+  - family: Xu
+    given: Lihao
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'STAR: An efficient coding scheme for correcting triple storage node failures'
+  title-short: STAR
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/huang.html
+
+- id: conf/fast/ThereskaSBSLG04
+  type: paper-conference
+  author:
+  - family: Thereska
+    given: Eno
+  - family: Schindler
+    given: Jiri
+  - family: Bucy
+    given: John S.
+  - family: Salmon
+    given: Brandon
+  - family: Lumb
+    given: Christopher R.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: A framework for building unobtrusive disk maintenance applications (awarded
+    best student paper!)
+  container-title: FAST
+  publisher: USENIX
+  page: '213-226'
+  URL: http://www.usenix.org/events/fast04/tech/thereska.html
+
+- id: conf/fast/LorchPM0S13
+  type: paper-conference
+  author:
+  - family: Lorch
+    given: Jacob R.
+  - family: Parno
+    given: Bryan
+  - family: Mickens
+    given: James W.
+  - family: '0001'
+    given: Mariana Raykova
+  - family: Schiffman
+    given: Joshua
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Shroud: Ensuring private access to large-scale data in the data center'
+  title-short: Shroud
+  container-title: FAST
+  publisher: USENIX
+  page: '199-214'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/lorch
+
+- id: conf/fast/AndersonKUS04
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Eric
+  - family: Kallahalla
+    given: Mahesh
+  - family: Uysal
+    given: Mustafa
+  - family: Swaminathan
+    given: Ram
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Buttress: A toolkit for flexible and high fidelity i/O benchmarking'
+  title-short: Buttress
+  container-title: FAST
+  publisher: USENIX
+  page: '45-58'
+  URL: http://www.usenix.org/events/fast04/tech/anderson.html
+
+- id: conf/fast/ShinBMW13
+  type: paper-conference
+  author:
+  - family: Shin
+    given: Ji-Yong
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Marian
+    given: Tudor
+  - family: Weatherspoon
+    given: Hakim
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Gecko: Contention-oblivious disk arrays for cloud storage'
+  title-short: Gecko
+  container-title: FAST
+  publisher: USENIX
+  page: '285-298'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/shin
+
+- id: conf/fast/SalmonSCG09
+  type: paper-conference
+  author:
+  - family: Salmon
+    given: Brandon
+  - family: Schlosser
+    given: Steven W.
+  - family: Cranor
+    given: Lorrie Faith
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Perspective: Semantic data management for the home'
+  title-short: Perspective
+  container-title: FAST
+  publisher: USENIX
+  page: '167-182'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/salmon/salmon.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/ArcherDM09
+  type: paper-conference
+  author:
+  - family: Archer
+    given: David W.
+  - family: Delcambre
+    given: Lois M. L.
+  - family: Maier
+    given: David
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: A framework for fine-grained data integration and curation, with provenance,
+    in a dataspace
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/archer/archer.pdf
+
+- id: conf/fast/MaDAA13
+  type: paper-conference
+  author:
+  - family: Ma
+    given: Ao
+  - family: Dragga
+    given: Chris
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Ffsck: The fast file system checker'
+  title-short: Ffsck
+  container-title: FAST
+  publisher: USENIX
+  page: '1-16'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/ma
+
+- id: conf/fast/Kleiman07
+  type: paper-conference
+  author:
+  - family: Kleiman
+    given: Steve
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Trends in managing data at the petabyte scale
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast07/tech/slides/kleiman.pdf
+
+- id: conf/fast/LeeBN13
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Eunji
+  - family: Bahn
+    given: Hyokyung
+  - family: Noh
+    given: Sam H.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Unioning of the buffer cache and journaling layers with non-volatile memory
+  container-title: FAST
+  publisher: USENIX
+  page: '73-80'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/lee
+
+- id: conf/fast/Turner10
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Julian
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: Effects of data center vibration on compute system performance
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/effects-data-center-vibration-compute-system-performance
+
+- id: conf/fast/BhadkamkarGUBLRH09
+  type: paper-conference
+  author:
+  - family: Bhadkamkar
+    given: Medha
+  - family: Guerra
+    given: Jorge
+  - family: Useche
+    given: Luis
+  - family: Burnett
+    given: Sam
+  - family: Liptak
+    given: Jason
+  - family: Rangaswami
+    given: Raju
+  - family: Hristidis
+    given: Vagelis
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'BORG: Block-reORGanization for self-optimizing storage systems'
+  title-short: BORG
+  container-title: FAST
+  publisher: USENIX
+  page: '183-196'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/bhadkamkar/bhadkamkar.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/JoglekarKB05
+  type: paper-conference
+  author:
+  - family: Joglekar
+    given: Abhijeet
+  - family: Kounavis
+    given: Michael E.
+  - family: Berry
+    given: Frank L.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: A scalable and high performance software iSCSI implementation
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/joglekar.html
+
+- id: conf/fast/VermaMPMKM15
+  type: paper-conference
+  author:
+  - family: Verma
+    given: Rajat
+  - family: Mendez
+    given: Anton Ajay
+  - family: Park
+    given: Stan
+  - family: Mannarswamy
+    given: Sandya S.
+  - family: Kelly
+    given: Terence
+  - family: III
+    given: Charles B. Morrey
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Failure-atomic updates of application data in a linux file system
+  container-title: FAST
+  publisher: USENIX Association
+  page: '203-211'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/verma
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/KimSYEY10
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Hyeong Seog
+  - family: Shin
+    given: Dongin
+  - family: Yu
+    given: Youngjin
+  - family: Eom
+    given: Hyeonsang
+  - family: Yeom
+    given: Heon Y.
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: Towards energy proportional cloud for data processing frameworks
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/towards-energy-proportional-cloud-data-processing-frameworks
+
+- id: conf/fast/CampelloLKRU15
+  type: paper-conference
+  author:
+  - family: Campello
+    given: Daniel
+  - family: López
+    given: Hector
+  - family: Koller
+    given: Ricardo
+  - family: Rangaswami
+    given: Raju
+  - family: Useche
+    given: Luis
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Non-blocking writes to files
+  container-title: FAST
+  publisher: USENIX Association
+  page: '151-165'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/campello
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/GruppDS12
+  type: paper-conference
+  author:
+  - family: Grupp
+    given: Laura M.
+  - family: Davis
+    given: John D.
+  - family: Swanson
+    given: Steven
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: The bleak future of nAND flash memory
+  container-title: FAST
+  publisher: USENIX Association
+  page: '2'
+  URL: https://www.usenix.org/conference/fast12/bleak-future-nand-flash-memory
+
+- id: conf/fast/RumbleKO14
+  type: paper-conference
+  author:
+  - family: Rumble
+    given: Stephen M.
+  - family: Kejriwal
+    given: Ankita
+  - family: Ousterhout
+    given: John K.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Log-structured memory for dRAM-based storage
+  container-title: FAST
+  publisher: USENIX
+  page: '1-16'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/rumble
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/PietzuchLS05
+  type: paper-conference
+  author:
+  - family: Pietzuch
+    given: Peter
+  - family: Ledlie
+    given: Jonathan
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Supporting network coordinates on planetLab
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/supporting-network-coordinates-planetlab
+
+- id: conf/fast/Halevy07
+  type: paper-conference
+  author:
+  - family: Halevy
+    given: Benny
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: PNFS over oSD
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/pnfs-over-osd
+
+- id: conf/fast/YadgarFS07
+  type: paper-conference
+  author:
+  - family: Yadgar
+    given: Gala
+  - family: Factor
+    given: Michael
+  - family: Schuster
+    given: Assaf
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Karma: Know-it-all replacement for a multilevel cache'
+  title-short: Karma
+  container-title: FAST
+  publisher: USENIX
+  page: '169-184'
+  URL: http://www.usenix.org/events/fast07/tech/yadgar.html
+
+- id: conf/fast/JeongHLK14
+  type: paper-conference
+  author:
+  - family: Jeong
+    given: Jaeyong
+  - family: Hahn
+    given: Sangwook Shane
+  - family: Lee
+    given: Sungjin
+  - family: Kim
+    given: Jihong
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Lifetime improvement of nAND flash-based storage systems using dynamic program
+    and erase scaling
+  container-title: FAST
+  publisher: USENIX
+  page: '61-74'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/jeong
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SpillaneSYGCZ09
+  type: paper-conference
+  author:
+  - family: Spillane
+    given: Richard P.
+  - family: Sears
+    given: Russell
+  - family: Yalamanchili
+    given: Chaitanya
+  - family: Gaikwad
+    given: Sachin
+  - family: Chinni
+    given: Manjunath
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Story book: An efficient extensible provenance framework'
+  title-short: Story book
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/spillane/spillane.pdf
+
+- id: conf/fast/MegiddoM03
+  type: paper-conference
+  author:
+  - family: Megiddo
+    given: Nimrod
+  - family: Modha
+    given: Dharmendra S.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'ARC: A self-tuning, low overhead replacement cache'
+  title-short: ARC
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/megiddo.html
+
+- id: conf/fast/GunawiRAAL08
+  type: paper-conference
+  author:
+  - family: Gunawi
+    given: Haryadi S.
+  - family: Rubio-González
+    given: Cindy
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Liblit
+    given: Ben
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'EIO: Error handling is occasionally correct'
+  title-short: EIO
+  container-title: FAST
+  publisher: USENIX
+  page: '207-222'
+  URL: http://www.usenix.org/events/fast08/tech/gunawi.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/BansalM04
+  type: paper-conference
+  author:
+  - family: Bansal
+    given: Sorav
+  - family: Modha
+    given: Dharmendra S.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'CAR: Clock with adaptive replacement'
+  title-short: CAR
+  container-title: FAST
+  publisher: USENIX
+  page: '187-200'
+  URL: http://www.usenix.org/events/fast04/tech/bansal.html
+
+- id: conf/fast/GibsonSS09
+  type: paper-conference
+  author:
+  - family: Gibson
+    given: Tara
+  - family: Schuchardt
+    given: Karen
+  - family: Stephan
+    given: Eric G.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Application of named graphs towards custom provenance views
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/gibson/gibson.pdf
+
+- id: conf/fast/GulatiNT07
+  type: paper-conference
+  author:
+  - family: Gulati
+    given: Ajay
+  - family: Naik
+    given: Manoj
+  - family: Tewari
+    given: Renu
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Nache: Design and implementation of a caching proxy for nFSv4'
+  title-short: Nache
+  container-title: FAST
+  publisher: USENIX
+  page: '199-214'
+  URL: http://www.usenix.org/events/fast07/tech/gulati.html
+
+- id: conf/fast/KimNPW14
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Wook-Hee
+  - family: Nam
+    given: Beomseok
+  - family: Park
+    given: Dongil
+  - family: Won
+    given: Youjip
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Resolving journaling of journal anomaly in android i/O: Multi-version
+    b-tree with lazy split'
+  title-short: Resolving journaling of journal anomaly in android i/O
+  container-title: FAST
+  publisher: USENIX
+  page: '273-285'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/kim-wook-hee
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SanthanamEAL05
+  type: paper-conference
+  author:
+  - family: Santhanam
+    given: Sriya
+  - family: Elango
+    given: Pradheep
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Livny
+    given: Miron
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: Deploying virtual machines as sandboxes for the grid
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/deploying-virtual-machines-sandboxes-grid
+
+- id: conf/fast/Wilkes03
+  type: paper-conference
+  author:
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Data services - from data to containers
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/fast03_keynote.pdf
+
+- id: conf/fast/ChangJLMPZ02
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Fay W.
+  - family: Ji
+    given: Minwen
+  - family: Leung
+    given: Shun-Tak
+  - family: MacCormick
+    given: John
+  - family: Perl
+    given: Sharon E.
+  - family: '0001'
+    given: Li Zhang
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Myriad: Cost-effective disaster tolerance'
+  title-short: Myriad
+  container-title: FAST
+  publisher: USENIX
+  page: '103-116'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/chang.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/AgrawalBDL07
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Nitin
+  - family: Bolosky
+    given: William J.
+  - family: Douceur
+    given: John R.
+  - family: Lorch
+    given: Jacob R.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: A five-year study of file-system metadata
+  container-title: FAST
+  publisher: USENIX
+  page: '31-45'
+  URL: http://www.usenix.org/events/fast07/tech/agrawal.html
+
+- id: conf/fast/LiASSG05
+  type: paper-conference
+  author:
+  - family: Li
+    given: Xuhui
+  - family: Aboulnaga
+    given: Ashraf
+  - family: Salem
+    given: Kenneth
+  - family: Sachedina
+    given: Aamer
+  - family: Gao
+    given: Shaobo
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Second-tier cache management using write hints
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/li_x.html
+
+- id: conf/fast/MeisterBS13
+  type: paper-conference
+  author:
+  - family: Meister
+    given: Dirk
+  - family: Brinkmann
+    given: André
+  - family: Süß
+    given: Tim
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: File recipe compression in data deduplication systems
+  container-title: FAST
+  publisher: USENIX
+  page: '175-182'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/meister
+
+- id: conf/fast/2010sustainit
+  type: book
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: First uSENIX workshop on sustainable information technology, sustainIT’10,
+    san jose, cA, uSA, february 22, 2010
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A41
+
+- id: conf/fast/ZhengMBVPS15
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Da
+  - family: Mhembere
+    given: Disa
+  - family: Burns
+    given: Randal C.
+  - family: Vogelstein
+    given: Joshua T.
+  - family: Priebe
+    given: Carey E.
+  - family: Szalay
+    given: Alexander S.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'FlashGraph: Processing billion-node graphs on an array of commodity sSDs'
+  title-short: FlashGraph
+  container-title: FAST
+  publisher: USENIX Association
+  page: '45-58'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/zheng
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/ZhangSSBSAA13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yiying
+  - family: Soundararajan
+    given: Gokul
+  - family: Storer
+    given: Mark W.
+  - family: Bairavasundaram
+    given: Lakshmi N.
+  - family: Subbiah
+    given: Sethuraman
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Warming up storage-level caches with bonfire
+  container-title: FAST
+  publisher: USENIX
+  page: '59-72'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/zhang
+
+- id: conf/fast/SumbalyKGFSS12
+  type: paper-conference
+  author:
+  - family: Sumbaly
+    given: Roshan
+  - family: Kreps
+    given: Jay
+  - family: Gao
+    given: Lei
+  - family: Feinberg
+    given: Alex
+  - family: Soman
+    given: Chinmay
+  - family: Shah
+    given: Sam
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Serving large-scale batch computed data with project voldemort
+  container-title: FAST
+  publisher: USENIX Association
+  page: '18'
+  URL: https://www.usenix.org/conference/fast12/serving-large-scale-batch-computed-data-project-voldemort
+
+- id: conf/fast/CaoBT07
+  type: paper-conference
+  author:
+  - family: Cao
+    given: Mingming
+  - family: Bhattacharya
+    given: Suparna
+  - family: Ts’o
+    given: Ted
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: 'Ext4: The next generation of ext2/3 filesystem'
+  title-short: Ext4
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/ext4-next-generation-ext23-filesystem
+
+- id: conf/fast/Gray05
+  type: paper-conference
+  author:
+  - family: Gray
+    given: Jim
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Greetings from a filesystem user
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/gray.pdf
+
+- id: conf/fast/UngureanuAAGRCDB10
+  type: paper-conference
+  author:
+  - family: Ungureanu
+    given: Cristian
+  - family: Atkin
+    given: Benjamin
+  - family: Aranya
+    given: Akshat
+  - family: Gokhale
+    given: Salil
+  - family: Rago
+    given: Stephen
+  - family: Calkowski
+    given: Grzegorz
+  - family: Dubnicki
+    given: Cezary
+  - family: Bohra
+    given: Aniruddha
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'HydraFS: A high-throughput file system for the hYDRAstor content-addressable
+    storage system'
+  title-short: HydraFS
+  container-title: FAST
+  publisher: USENIX
+  page: '225-238'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/ungureanu.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/ZhengTQL13
+  type: paper-conference
+  author:
+  - family: Zheng
+    given: Mai
+  - family: Tucek
+    given: Joseph
+  - family: Qin
+    given: Feng
+  - family: Lillibridge
+    given: Mark
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Understanding the robustness of sSDS under power fault
+  container-title: FAST
+  publisher: USENIX
+  page: '271-284'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/zheng
+
+- id: conf/fast/RiedelKS02
+  type: paper-conference
+  author:
+  - family: Riedel
+    given: Erik
+  - family: Kallahalla
+    given: Mahesh
+  - family: Swaminathan
+    given: Ram
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: A framework for evaluating storage system security
+  container-title: FAST
+  publisher: USENIX
+  page: '15-30'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/riedel.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/WeddleOQWRK07
+  type: paper-conference
+  author:
+  - family: Weddle
+    given: Charles
+  - family: Oldham
+    given: Mathew
+  - family: Qian
+    given: Jin
+  - family: Wang
+    given: An-I Andy
+  - family: Reiher
+    given: Peter L.
+  - family: Kuenning
+    given: Geoff
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'PARAID: A gear-shifting power-aware rAID'
+  title-short: PARAID
+  container-title: FAST
+  publisher: USENIX
+  page: '245-260'
+  URL: http://www.usenix.org/events/fast07/tech/weddle.html
+
+- id: conf/fast/WeatherspoonGMBB09
+  type: paper-conference
+  author:
+  - family: Weatherspoon
+    given: Hakim
+  - family: Ganesh
+    given: Lakshmi
+  - family: Marian
+    given: Tudor
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Birman
+    given: Ken
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'Smoke and mirrors: Reflecting files at a geographically remote location
+    without loss of performance'
+  title-short: Smoke and mirrors
+  container-title: FAST
+  publisher: USENIX
+  page: '211-224'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/weatherspoon/weatherspoon.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/LiCSZ04
+  type: paper-conference
+  author:
+  - family: Li
+    given: Zhenmin
+  - family: Chen
+    given: Zhifeng
+  - family: Srinivasan
+    given: Sudarshan M.
+  - family: Zhou
+    given: Yuanyuan
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'C-miner: Mining block correlations in storage systems'
+  title-short: C-miner
+  container-title: FAST
+  publisher: USENIX
+  page: '173-186'
+  URL: http://www.usenix.org/events/fast04/tech/li.html
+
+- id: conf/fast/JohnsonKMSVBBCCDEKMMNOSSSTTZ14
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Charles
+  - family: Keeton
+    given: Kimberly
+  - family: III
+    given: Charles B. Morrey
+  - family: Soules
+    given: Craig A. N.
+  - family: Veitch
+    given: Alistair C.
+  - family: Bacon
+    given: Stephen
+  - family: Batuner
+    given: Oskar
+  - family: Condotta
+    given: Marcelo
+  - family: Coutinho
+    given: Hamilton
+  - family: Doyle
+    given: Patrick J.
+  - family: Eichelberger
+    given: Rafael
+  - family: Kiehl
+    given: Hugo
+  - family: Magalhaes
+    given: Guilherme R.
+  - family: McEvoy
+    given: James
+  - family: Nagarajan
+    given: Padmanabhan
+  - family: Osborne
+    given: Patrick
+  - family: Souza
+    given: Joaquim
+  - family: Sparkes
+    given: Andy
+  - family: Spitzer
+    given: Mike
+  - family: Tandel
+    given: Sébastien
+  - family: Thomas
+    given: Lincoln
+  - family: Zangaro
+    given: Sebastian
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'From research to practice: Experiences engineering a production metadata
+    database for a scale out file system'
+  title-short: From research to practice
+  container-title: FAST
+  publisher: USENIX
+  page: '191-198'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/johnson
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/WeissSSTAA15
+  type: paper-conference
+  author:
+  - family: Weiss
+    given: Zev
+  - family: Subramanian
+    given: Sriram
+  - family: Sundararaman
+    given: Swaminathan
+  - family: Talagala
+    given: Nisha
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'ANViL: Advanced virtualization for modern non-volatile memory devices'
+  title-short: ANViL
+  container-title: FAST
+  publisher: USENIX Association
+  page: '111-118'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/weiss
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/Abd-El-MalekCCGHKMPSSSSTWW05
+  type: paper-conference
+  author:
+  - family: Abd-El-Malek
+    given: Michael
+  - family: II
+    given: William V. Courtright
+  - family: Cranor
+    given: Chuck
+  - family: Ganger
+    given: Gregory R.
+  - family: Hendricks
+    given: James
+  - family: Klosterman
+    given: Andrew J.
+  - family: Mesnier
+    given: Michael P.
+  - family: Prasad
+    given: Manish
+  - family: Salmon
+    given: Brandon
+  - family: Sambasivan
+    given: Raja R.
+  - family: Sinnamohideen
+    given: Shafeeq
+  - family: Strunk
+    given: John D.
+  - family: Thereska
+    given: Eno
+  - family: Wachs
+    given: Matthew
+  - family: Wylie
+    given: Jay J.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'Ursa minor: Versatile cluster-based storage'
+  title-short: Ursa minor
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/abd-el-malek.html
+
+- id: conf/fast/AghayevD15
+  type: paper-conference
+  author:
+  - family: Aghayev
+    given: Abutalib
+  - family: Desnoyers
+    given: Peter
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Skylight-a window on shingled disk operation
+  container-title: FAST
+  publisher: USENIX Association
+  page: '135-149'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/aghayev
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/AguileraJLMOABMT03
+  type: paper-conference
+  author:
+  - family: Aguilera
+    given: Marcos Kawazoe
+  - family: Ji
+    given: Minwen
+  - family: Lillibridge
+    given: Mark
+  - family: MacCormick
+    given: John
+  - family: Oertli
+    given: Erwin
+  - family: Andersen
+    given: David G.
+  - family: Burrows
+    given: Michael
+  - family: Mann
+    given: Timothy
+  - family: Thekkath
+    given: Chandramohan A.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Block-level security for network-attached disks
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/aguilera.html
+
+- id: conf/fast/LeeKKK12
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Sungjin
+  - family: Kim
+    given: Taejin
+  - family: Kim
+    given: Kyungho
+  - family: Kim
+    given: Jihong
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Lifetime management of flash-based sSDs using recovery-aware dynamic throttling
+  container-title: FAST
+  publisher: USENIX Association
+  page: '26'
+  URL: https://www.usenix.org/conference/fast12/lifetime-management-flash-based-ssds-using-recovery-aware-dynamic-throttling
+
+- id: conf/fast/GillM05
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Binny S.
+  - family: Modha
+    given: Dharmendra S.
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'WOW: Wise ordering for writes - combining spatial and temporal locality
+    in non-volatile caches'
+  title-short: WOW
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/gill.html
+
+- id: conf/fast/ManiatisB02
+  type: paper-conference
+  author:
+  - family: Maniatis
+    given: Petros
+  - family: Baker
+    given: Mary
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Enabling the archival storage of signed documents
+  container-title: FAST
+  publisher: USENIX
+  page: '31-45'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/maniatis.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/DoHLGAA13
+  type: paper-conference
+  author:
+  - family: Do
+    given: Thanh
+  - family: Harter
+    given: Tyler
+  - family: Liu
+    given: Yingchao
+  - family: Gunawi
+    given: Haryadi S.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'HARDFS: Hardening hDFS with selective and lightweight versioning'
+  title-short: HARDFS
+  container-title: FAST
+  publisher: USENIX
+  page: '105-118'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/do
+
+- id: conf/fast/Muniswamy-ReddyH09
+  type: paper-conference
+  author:
+  - family: Muniswamy-Reddy
+    given: Kiran-Kumar
+  - family: Holland
+    given: David A.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Causality-based versioning
+  container-title: FAST
+  publisher: USENIX
+  page: '15-28'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/muniswamy-reddy/muniswamy-reddy.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/Kenchammana-HosekoteHH07
+  type: paper-conference
+  author:
+  - family: Kenchammana-Hosekote
+    given: Deepak R.
+  - family: He
+    given: Dingshan
+  - family: Hafner
+    given: James Lee
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'REO: A generic rAID engine and optimizer'
+  title-short: REO
+  container-title: FAST
+  publisher: USENIX
+  page: '261-276'
+  URL: http://www.usenix.org/events/fast07/tech/kenchammana.html
+
+- id: conf/fast/ZhangG03
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Zhihui
+  - family: Ghose
+    given: Kanad
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'YFS: A journaling file system design for handling large data sets with
+    reduced seeking'
+  title-short: YFS
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/zhang.html
+
+- id: conf/fast/2007
+  type: book
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 5th uSENIX conference on file and storage technologies, fAST 2007, february
+    13-16, 2007, san jose, cA, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A132
+
+- id: conf/fast/JosephsonBFL10
+  type: paper-conference
+  author:
+  - family: Josephson
+    given: William K.
+  - family: Bongo
+    given: Lars Ailo
+  - family: Flynn
+    given: David
+  - family: Li
+    given: Kai
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'DFS: A file system for virtualized flash storage'
+  title-short: DFS
+  container-title: FAST
+  publisher: USENIX
+  page: '85-100'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/josephson.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/MooreBR03
+  type: paper-conference
+  author:
+  - family: Moore
+    given: Reagan
+  - family: Belanger
+    given: Dave
+  - family: Ruwart
+    given: Thomas
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Petabytes and beyond
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/ruwart/index.html
+
+- id: conf/fast/LinLDSW14
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Xing
+  - family: Lu
+    given: Guanlin
+  - family: Douglis
+    given: Fred
+  - family: Shilane
+    given: Philip
+  - family: Wallace
+    given: Grant
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Migratory compression: Coarse-grained data reordering to improve compressibility'
+  title-short: Migratory compression
+  container-title: FAST
+  publisher: USENIX
+  page: '257-271'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/lin
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/KimAVS15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Youngjae
+  - family: Atchley
+    given: Scott
+  - family: Vallée
+    given: Geoffroy
+  - family: Shipman
+    given: Galen M.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: 'LADS: Optimizing data transfers using layout-aware data scheduling'
+  title-short: LADS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '67-80'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/kim
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/MalkaAT15
+  type: paper-conference
+  author:
+  - family: Malka
+    given: Moshe
+  - family: Amit
+    given: Nadav
+  - family: Tsafrir
+    given: Dan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Efficient intra-operating system protection against harmful dMAs
+  container-title: FAST
+  publisher: USENIX Association
+  page: '29-44'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/malka
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/MazurekTGHS12
+  type: paper-conference
+  author:
+  - family: Mazurek
+    given: Michelle L.
+  - family: Thereska
+    given: Eno
+  - family: Gunawardena
+    given: Dinan
+  - family: Harper
+    given: Richard H. R.
+  - family: Scott
+    given: James
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'ZZFS: A hybrid device and cloud file system for spontaneous users'
+  title-short: ZZFS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '16'
+  URL: https://www.usenix.org/conference/fast12/zzfs-hybrid-device-and-cloud-file-system-spontaneous-users
+
+- id: conf/fast/LiuGMV14
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yang
+  - family: Gunasekaran
+    given: Raghul
+  - family: Ma
+    given: Xiaosong
+  - family: Vazhkudai
+    given: Sudharshan S.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Automatic identification of application i/O signatures from noisy server-side
+    traces
+  container-title: FAST
+  publisher: USENIX
+  page: '213-228'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/liu
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SchroederG07
+  type: paper-conference
+  author:
+  - family: Schroeder
+    given: Bianca
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Disk failures in the real world: What does an mTTF of 1, 000, 000 hours
+    mean to you?'
+  title-short: Disk failures in the real world
+  container-title: FAST
+  publisher: USENIX
+  page: '1-16'
+  URL: http://www.usenix.org/events/fast07/tech/schroeder.html
+
+- id: conf/fast/SpillaneGCZW09
+  type: paper-conference
+  author:
+  - family: Spillane
+    given: Richard P.
+  - family: Gaikwad
+    given: Sachin
+  - family: Chinni
+    given: Manjunath
+  - family: Zadok
+    given: Erez
+  - family: Wright
+    given: Charles P.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Enabling transactional file access via lightweight kernel extensions
+  container-title: FAST
+  publisher: USENIX
+  page: '29-42'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/spillane/spillane.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/Petersen07
+  type: paper-conference
+  author:
+  - family: Petersen
+    given: Martin K.
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: T10 data integrity feature (logical block guarding)
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/t10-data-integrity-feature-logical-block-guarding
+
+- id: conf/fast/OhCLN12
+  type: paper-conference
+  author:
+  - family: Oh
+    given: Yongseok
+  - family: Choi
+    given: Jongmoo
+  - family: Lee
+    given: Donghee
+  - family: Noh
+    given: Sam H.
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'Caching less for better performance: Balancing cache size and update cost
+    of flash memory cache in hybrid storage systems'
+  title-short: Caching less for better performance
+  container-title: FAST
+  publisher: USENIX Association
+  page: '25'
+  URL: https://www.usenix.org/conference/fast12/caching-less-better-performance-balancing-cache-size-and-update-cost-flash-memory
+
+- id: conf/fast/TsafrirHWS08
+  type: paper-conference
+  author:
+  - family: Tsafrir
+    given: Dan
+  - family: Hertz
+    given: Tomer
+  - family: Wagner
+    given: David
+  - family: Silva
+    given: Dilma Da
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Portably solving file tOCTTOU races with hardness amplification
+  container-title: FAST
+  publisher: USENIX
+  page: '189-206'
+  URL: http://www.usenix.org/events/fast08/tech/tsafrir.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/TarasovHKZ13
+  type: paper-conference
+  author:
+  - family: Tarasov
+    given: Vasily
+  - family: Hildebrand
+    given: Dean
+  - family: Kuenning
+    given: Geoff
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'Virtual machine workloads: The case for new benchmarks for nAS'
+  title-short: Virtual machine workloads
+  container-title: FAST
+  publisher: USENIX
+  page: '307-320'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/tarasov
+
+- id: conf/fast/LumbMA03
+  type: paper-conference
+  author:
+  - family: Lumb
+    given: Christopher R.
+  - family: Merchant
+    given: Arif
+  - family: Alvarez
+    given: Guillermo A.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'Façade: Virtual storage devices with performance guarantees'
+  title-short: Façade
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/lumb.html
+
+- id: conf/fast/WeiP05
+  type: paper-conference
+  author:
+  - family: Wei
+    given: Jinpeng
+  - family: Pu
+    given: Calton
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'TOCTTOU vulnerabilities in uNIX-style file systems: An anatomical study'
+  title-short: TOCTTOU vulnerabilities in uNIX-style file systems
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/wei.html
+
+- id: conf/fast/Chong09
+  type: paper-conference
+  author:
+  - family: Chong
+    given: Stephen
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Towards semantics for provenance security
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/chong/chong.pdf
+
+- id: conf/fast/Anderson09
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Eric
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Capture, conversion, and analysis of an intense nFS workload
+  container-title: FAST
+  publisher: USENIX
+  page: '139-152'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/anderson/anderson.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/JooRPS11
+  type: paper-conference
+  author:
+  - family: Joo
+    given: Yongsoo
+  - family: Ryu
+    given: Junhee
+  - family: Park
+    given: Sangsoo
+  - family: Shin
+    given: Kang G.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'FAST: Quick application launch on solid-state drives'
+  title-short: FAST
+  container-title: FAST
+  publisher: USENIX
+  page: '259-272'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Joo
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/SarkarUV03
+  type: paper-conference
+  author:
+  - family: Sarkar
+    given: Prasenjit
+  - family: Uttamchandani
+    given: Sandeep
+  - family: Voruganti
+    given: Kaladhar
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: 'Storage over iP: When does hardware support help?'
+  title-short: Storage over iP
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/sarkar.html
+
+- id: conf/fast/KollerR10
+  type: paper-conference
+  author:
+  - family: Koller
+    given: Ricardo
+  - family: Rangaswami
+    given: Raju
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'I/O deduplication: Utilizing content similarity to improve i/O performance'
+  title-short: I/O deduplication
+  container-title: FAST
+  publisher: USENIX
+  page: '211-224'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/koller.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/FryerSMCBGB12
+  type: paper-conference
+  author:
+  - family: Fryer
+    given: Daniel
+  - family: Sun
+    given: Kuei
+  - family: Mahmood
+    given: Rahat
+  - family: Cheng
+    given: Tinghao
+  - family: Benjamin
+    given: Shaun
+  - family: Goel
+    given: Ashvin
+  - family: Brown
+    given: Angela Demke
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: 'Recon: Verifying file system consistency at runtime'
+  title-short: Recon
+  container-title: FAST
+  publisher: USENIX Association
+  page: '7'
+  URL: https://www.usenix.org/conference/fast12/recon-verifying-file-system-consistency-runtime
+
+- id: conf/fast/VenkataramanTRC11
+  type: paper-conference
+  author:
+  - family: Venkataraman
+    given: Shivaram
+  - family: Tolia
+    given: Niraj
+  - family: Ranganathan
+    given: Parthasarathy
+  - family: Campbell
+    given: Roy H.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Consistent and durable data structures for non-volatile byte-addressable
+    memory
+  container-title: FAST
+  publisher: USENIX
+  page: '61-75'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Venkataraman
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/SchroederDG10
+  type: paper-conference
+  author:
+  - family: Schroeder
+    given: Bianca
+  - family: Damouras
+    given: Sotirios
+  - family: Gill
+    given: Phillipa
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Understanding latent sector errors and how to protect against them
+  container-title: FAST
+  publisher: USENIX
+  page: '71-84'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/schroeder.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/CiparCB07
+  type: paper-conference
+  author:
+  - family: Cipar
+    given: James
+  - family: Corner
+    given: Mark D.
+  - family: Berger
+    given: Emery D.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'TFS: A transparent file system for contributory storage'
+  title-short: TFS
+  container-title: FAST
+  publisher: USENIX
+  page: '215-229'
+  URL: http://www.usenix.org/events/fast07/tech/cipar.html
+
+- id: conf/fast/HeNAA15
+  type: paper-conference
+  author:
+  - family: He
+    given: Jun
+  - family: Nguyen
+    given: Duy
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Reducing file system tail latencies with chopper
+  container-title: FAST
+  publisher: USENIX Association
+  page: '119-133'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/he
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/ChanDLC14
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Jeremy C. W.
+  - family: Ding
+    given: Qian
+  - family: Lee
+    given: Patrick P. C.
+  - family: Chan
+    given: Helen H. W.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Parity logging with reserved space: Towards efficient updates and recovery
+    in erasure-coded clustered storage'
+  title-short: Parity logging with reserved space
+  container-title: FAST
+  publisher: USENIX
+  page: '163-176'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/chan
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/MemikKC02
+  type: paper-conference
+  author:
+  - family: Memik
+    given: Gokhan
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Choudhary
+    given: Alok N.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: Exploiting inter-file access patterns using multi-collective i/O
+  container-title: FAST
+  publisher: USENIX
+  page: '245-258'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/memik.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/Engler07
+  type: paper-conference
+  author:
+  - family: Engler
+    given: Dawson R.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'A system’s hackers crash course: Techniques that find lots of bugs in
+    real (storage) system code'
+  title-short: A system’s hackers crash course
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast07/tech/slides/engler.pdf
+
+- id: conf/fast/KimA08
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Hyojun
+  - family: Ahn
+    given: Seongjun
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: 'BPLRU: A buffer management scheme for improving random writes in flash
+    storage'
+  title-short: BPLRU
+  container-title: FAST
+  publisher: USENIX
+  page: '239-252'
+  URL: http://www.usenix.org/events/fast08/tech/kim.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/SchmuckH02
+  type: paper-conference
+  author:
+  - family: Schmuck
+    given: Frank B.
+  - family: Haskin
+    given: Roger L.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'GPFS: A shared-disk file system for large computing clusters'
+  title-short: GPFS
+  container-title: FAST
+  publisher: USENIX
+  page: '231-244'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/schmuck.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/BhagwatPOVJK15
+  type: paper-conference
+  author:
+  - family: Bhagwat
+    given: Deepavali
+  - family: Patil
+    given: Mahesh
+  - family: Ostrowski
+    given: Michal
+  - family: Vilayannur
+    given: Murali
+  - family: Jung
+    given: Woon
+  - family: Kumar
+    given: Chethan
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: A practical implementation of clustered fault tolerant write acceleration
+    in a virtualized environment
+  container-title: FAST
+  publisher: USENIX Association
+  page: '287-300'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/bhagwat
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/EllardLMS03
+  type: paper-conference
+  author:
+  - family: Ellard
+    given: Daniel
+  - family: Ledlie
+    given: Jonathan
+  - family: Malkani
+    given: Pia
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Passive nFS tracing of email and research workloads
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/ellard.html
+
+- id: conf/fast/PediaditisFFC09
+  type: paper-conference
+  author:
+  - family: Pediaditis
+    given: Panagiotis
+  - family: Flouris
+    given: Giorgos
+  - family: Fundulaki
+    given: Irini
+  - family: Christophides
+    given: Vassilis
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: On explicit provenance management in rDF/S graphs
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/pediaditis/pediaditis.pdf
+
+- id: conf/fast/ChunMSK09
+  type: paper-conference
+  author:
+  - family: Chun
+    given: Byung-Gon
+  - family: Maniatis
+    given: Petros
+  - family: Shenker
+    given: Scott
+  - family: Kubiatowicz
+    given: John
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: Tiered fault tolerance for long-term integrity
+  container-title: FAST
+  publisher: USENIX
+  page: '267-282'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/chun/chun.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/WelchUAGMSZZ08
+  type: paper-conference
+  author:
+  - family: Welch
+    given: Brent
+  - family: Unangst
+    given: Marc
+  - family: Abbasi
+    given: Zainul
+  - family: Gibson
+    given: Garth A.
+  - family: Mueller
+    given: Brian
+  - family: Small
+    given: Jason
+  - family: Zelenka
+    given: Jim
+  - family: Zhou
+    given: Bin
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Scalable performance of the panasas parallel file system
+  container-title: FAST
+  publisher: USENIX
+  page: '17-33'
+  URL: http://www.usenix.org/events/fast08/tech/welch.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/2013
+  type: book
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: Proceedings of the 11th uSENIX conference on file and storage technologies,
+    fAST 2013, san jose, cA, uSA, february 12-15, 2013
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A344
+
+- id: conf/fast/AndersonHKSUV02
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Eric
+  - family: Hobbs
+    given: Michael
+  - family: Keeton
+    given: Kimberly
+  - family: Spence
+    given: Susan
+  - family: Uysal
+    given: Mustafa
+  - family: Veitch
+    given: Alistair C.
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Hippodrome: Running circles around storage administration'
+  title-short: Hippodrome
+  container-title: FAST
+  publisher: USENIX
+  page: '175-188'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/andersonHIP.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/LuAW02
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Chenyang
+  - family: Alvarez
+    given: Guillermo A.
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Aqueduct: Online data migration with performance guarantees'
+  title-short: Aqueduct
+  container-title: FAST
+  publisher: USENIX
+  page: '219-230'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/lu.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/MagoutisAFS03
+  type: paper-conference
+  author:
+  - family: Magoutis
+    given: Kostas
+  - family: Addetia
+    given: Salimah
+  - family: Fedorova
+    given: Alexandra
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: Making the most out of direct-access network attached storage
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/magoutis.html
+
+- id: conf/fast/WardOSW02
+  type: paper-conference
+  author:
+  - family: Ward
+    given: Julie
+  - family: O’Sullivan
+    given: Michael
+  - family: Shahoumian
+    given: Troy
+  - family: Wilkes
+    given: John
+  editor:
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2002'
+  title: 'Appia: Automatic storage area network fabric design'
+  title-short: Appia
+  container-title: FAST
+  publisher: USENIX
+  page: '203-217'
+  URL: http://www.usenix.org/publications/library/proceedings/fast02/ward.html
+  ISBN: '1-880446-03-0'
+
+- id: conf/fast/2007lsf
+  type: book
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: 2007 linux storage & filesystem workshop, lSF 2007, san jose, cA, uSA, february
+    12-13, 2007
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A133
+
+- id: conf/fast/CorbettEGGKLS04
+  type: paper-conference
+  author:
+  - family: Corbett
+    given: Peter F.
+  - family: English
+    given: Robert
+  - family: Goel
+    given: Atul
+  - family: Grcanac
+    given: Tomislav
+  - family: Kleiman
+    given: Steven
+  - family: Leong
+    given: James
+  - family: Sankar
+    given: Sunitha
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Row-diagonal parity for double disk failure correction (awarded best paper!)
+  container-title: FAST
+  publisher: USENIX
+  page: '1-14'
+  URL: http://www.usenix.org/events/fast04/tech/corbett.html
+
+- id: conf/fast/ZhangRAA10
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yupu
+  - family: Rajimwale
+    given: Abhishek
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 'End-to-end data integrity for file systems: A zFS case study'
+  title-short: End-to-end data integrity for file systems
+  container-title: FAST
+  publisher: USENIX
+  page: '29-42'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/zhang.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/KandemirSK08
+  type: paper-conference
+  author:
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Son
+    given: Seung Woo
+  - family: Karaköy
+    given: Mustafa
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Improving i/O performance of applications through compiler-directed code
+    restructuring
+  container-title: FAST
+  publisher: USENIX
+  page: '159-174'
+  URL: http://www.usenix.org/events/fast08/tech/kandemir.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/WachsATG07
+  type: paper-conference
+  author:
+  - family: Wachs
+    given: Matthew
+  - family: Abd-El-Malek
+    given: Michael
+  - family: Thereska
+    given: Eno
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: 'Argon: Performance insulation for shared storage servers'
+  title-short: Argon
+  container-title: FAST
+  publisher: USENIX
+  page: '61-76'
+  URL: http://www.usenix.org/events/fast07/tech/wachs.html
+
+- id: conf/fast/GrawinkelNMPBS15
+  type: paper-conference
+  author:
+  - family: Grawinkel
+    given: Matthias
+  - family: Nagel
+    given: Lars
+  - family: Mäsker
+    given: Markus
+  - family: Padua
+    given: Federico
+  - family: Brinkmann
+    given: André
+  - family: Sorth
+    given: Lennart
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Analysis of the eCMWF storage landscape
+  container-title: FAST
+  publisher: USENIX Association
+  page: '15-27'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/grawinkel
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/MesnierWSLHGO07
+  type: paper-conference
+  author:
+  - family: Mesnier
+    given: Michael P.
+  - family: Wachs
+    given: Matthew
+  - family: Sambasivan
+    given: Raja R.
+  - family: López
+    given: Julio
+  - family: Hendricks
+    given: James
+  - family: Ganger
+    given: Gregory R.
+  - family: O’Hallaron
+    given: David R.
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: '//TRACE: Parallel trace replay with approximate causal events'
+  title-short: //TRACE
+  container-title: FAST
+  publisher: USENIX
+  page: '153-167'
+  URL: http://www.usenix.org/events/fast07/tech/mesnier.html
+
+- id: conf/fast/SobtiGZLSZZKW04
+  type: paper-conference
+  author:
+  - family: Sobti
+    given: Sumeet
+  - family: Garg
+    given: Nitin
+  - family: Zheng
+    given: Fengzhou
+  - family: Lai
+    given: Junwen
+  - family: Shao
+    given: Yilei
+  - family: Zhang
+    given: Chi
+  - family: Ziskind
+    given: Elisha
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Wang
+    given: Randolph Y.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Segank: A distributed mobile storage system'
+  title-short: Segank
+  container-title: FAST
+  publisher: USENIX
+  page: '239-252'
+  URL: http://www.usenix.org/events/fast04/tech/sobti.html
+
+- id: conf/fast/Gilbert07
+  type: paper-conference
+  author:
+  - family: Gilbert
+    given: Douglas
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: Changes to storage standards
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/changes-storage-standards
+
+- id: conf/fast/JimenezNI14
+  type: paper-conference
+  author:
+  - family: Jimenez
+    given: Xavier
+  - family: Novo
+    given: David
+  - family: Ienne
+    given: Paolo
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: 'Wear unleveling: Improving nAND flash lifetime by balancing page endurance'
+  title-short: Wear unleveling
+  container-title: FAST
+  publisher: USENIX
+  page: '47-59'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/jimenez
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/YadgarYS15
+  type: paper-conference
+  author:
+  - family: Yadgar
+    given: Gala
+  - family: Yaakobi
+    given: Eitan
+  - family: Schuster
+    given: Assaf
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Write once, get 50
+  container-title: FAST
+  publisher: USENIX Association
+  page: '257-271'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/yadgar
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/PhanishayeeKVAGGS08
+  type: paper-conference
+  author:
+  - family: Phanishayee
+    given: Amar
+  - family: Krevat
+    given: Elie
+  - family: Vasudevan
+    given: Vijay
+  - family: Andersen
+    given: David G.
+  - family: Ganger
+    given: Gregory R.
+  - family: Gibson
+    given: Garth A.
+  - family: Seshan
+    given: Srinivasan
+  editor:
+  - family: Baker
+    given: Mary
+  issued:
+  - year: '2008'
+  title: Measurement and analysis of tCP throughput collapse in cluster-based storage
+    systems
+  container-title: FAST
+  publisher: USENIX
+  page: '175-188'
+  URL: http://www.usenix.org/events/fast08/tech/phanishayee.html
+  ISBN: '978-1-931971-56-0'
+
+- id: conf/fast/2014
+  type: book
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Proceedings of the 12th uSENIX conference on file and storage technologies,
+    fAST 2014, santa clara, cA, uSA, february 17-20, 2014
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A398
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/SalajeghehWFJL11
+  type: paper-conference
+  author:
+  - family: Salajegheh
+    given: Mastooreh
+  - family: Wang
+    given: Yue
+  - family: Fu
+    given: Kevin
+  - family: Jiang
+    given: Anxiao
+  - family: Learned-Miller
+    given: Erik G.
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: 'Exploiting half-wits: Smarter storage for low-power devices'
+  title-short: Exploiting half-wits
+  container-title: FAST
+  publisher: USENIX
+  page: '47-60'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Salajegheh
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/2015
+  type: book
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: Proceedings of the 13th uSENIX conference on file and storage technologies,
+    fAST 2015, santa clara, cA, uSA, february 16-19, 2015
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A444
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/AndersonDR03
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Dave
+  - family: Dykes
+    given: Jim
+  - family: Riedel
+    given: Erik
+  editor:
+  - family: Chase
+    given: Jeff
+  issued:
+  - year: '2003'
+  title: More than an interface - sCSI vs. aTA
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast03/tech/anderson.html
+
+- id: conf/fast/GulatiAW09
+  type: paper-conference
+  author:
+  - family: Gulati
+    given: Ajay
+  - family: Ahmad
+    given: Irfan
+  - family: Waldspurger
+    given: Carl A.
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'PARDA: Proportional allocation of resources for distributed storage access'
+  title-short: PARDA
+  container-title: FAST
+  publisher: USENIX
+  page: '85-98'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/gulati/gulati.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/GuptaPUS11
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Aayush
+  - family: Pisolkar
+    given: Raghav
+  - family: Urgaonkar
+    given: Bhuvan
+  - family: Sivasubramaniam
+    given: Anand
+  editor:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2011'
+  title: Leveraging value locality in optimizing nAND flash-based sSDs
+  container-title: FAST
+  publisher: USENIX
+  page: '91-103'
+  URL: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Gupta
+  ISBN: '978-1-931971-82-9'
+
+- id: conf/fast/HustonSWSGRA04
+  type: paper-conference
+  author:
+  - family: Huston
+    given: Larry
+  - family: Sukthankar
+    given: Rahul
+  - family: Wickremesinghe
+    given: Rajiv
+  - family: Satyanarayanan
+    given: Mahadev
+  - family: Ganger
+    given: Gregory R.
+  - family: Riedel
+    given: Erik
+  - family: Ailamaki
+    given: Anastassia
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Diamond: A storage architecture for early discard in interactive search'
+  title-short: Diamond
+  container-title: FAST
+  publisher: USENIX
+  page: '73-86'
+  URL: http://www.usenix.org/events/fast04/tech/huston.html
+
+- id: conf/fast/FryerQSLBG14
+  type: paper-conference
+  author:
+  - family: Fryer
+    given: Daniel
+  - family: Qin
+    given: Dai
+  - family: Sun
+    given: Jack
+  - family: Lee
+    given: Kah Wai
+  - family: Brown
+    given: Angela Demke
+  - family: Goel
+    given: Ashvin
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Checking the integrity of transactional mechanisms
+  container-title: FAST
+  publisher: USENIX
+  page: '295-308'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/fryer
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/BicksonM05
+  type: paper-conference
+  author:
+  - family: Bickson
+    given: Danny
+  - family: Malkhi
+    given: Dahlia
+  editor:
+  - family: Karp
+    given: Brad
+  issued:
+  - year: '2005'
+  title: The julia content distribution network
+  container-title: WORLDS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/worlds-05/julia-content-distribution-network
+
+- id: conf/fast/PlankBH13
+  type: paper-conference
+  author:
+  - family: Plank
+    given: James S.
+  - family: Blaum
+    given: Mario
+  - family: Hafner
+    given: James L.
+  editor:
+  - family: Smith
+    given: Keith A.
+  issued:
+  - year: '2013'
+  title: 'SD codes: Erasure codes designed for how storage systems really fail'
+  title-short: SD codes
+  container-title: FAST
+  publisher: USENIX
+  page: '95-104'
+  URL: https://www.usenix.org/conference/fast13/technical-sessions/presentation/plank
+
+- id: conf/fast/LeverFSM07
+  type: paper-conference
+  author:
+  - family: Lever
+    given: Chuck
+  - family: Fields
+    given: James
+  - family: Susarla
+    given: Sai
+  - family: Myklebust
+    given: Trond
+  editor:
+  - family: Wheeler
+    given: Ric
+  issued:
+  - year: '2007'
+  title: NFS topics in linux
+  container-title: LSF
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/2007-linux-storage-filesystem-workshop/nfs-topics-linux
+
+- id: conf/fast/LadenTYFF07
+  type: paper-conference
+  author:
+  - family: Laden
+    given: Guy
+  - family: Ta-Shma
+    given: Paula
+  - family: Yaffe
+    given: Eitan
+  - family: Factor
+    given: Michael
+  - family: Fienblit
+    given: Shachar
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Architectures for controller based cDP
+  container-title: FAST
+  publisher: USENIX
+  page: '107-121'
+  URL: http://www.usenix.org/events/fast07/tech/laden.html
+
+- id: conf/fast/SchindlerSSAG04
+  type: paper-conference
+  author:
+  - family: Schindler
+    given: Jiri
+  - family: Schlosser
+    given: Steven W.
+  - family: Shao
+    given: Minglong
+  - family: Ailamaki
+    given: Anastassia
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'Atropos: A disk array volume manager for orchestrated use of disks'
+  title-short: Atropos
+  container-title: FAST
+  publisher: USENIX
+  page: '159-172'
+  URL: http://www.usenix.org/events/fast04/tech/schindler.html
+
+- id: conf/fast/PinheiroWB07
+  type: paper-conference
+  author:
+  - family: Pinheiro
+    given: Eduardo
+  - family: Weber
+    given: Wolf-Dietrich
+  - family: Barroso
+    given: Luiz André
+  editor:
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2007'
+  title: Failure trends in a large disk drive population
+  container-title: FAST
+  publisher: USENIX
+  page: '17-28'
+  URL: http://www.usenix.org/events/fast07/tech/pinheiro.html
+
+- id: conf/fast/2010
+  type: book
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: 8th uSENIX conference on file and storage technologies, san jose, cA, uSA,
+    february 23-26, 2010
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A40
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/SinghSSS10
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Umesh
+  - family: Singh
+    given: Amarendra
+  - family: S.
+    given: Parvez
+  - family: Sivasubramaniam
+    given: Anand
+  editor:
+  - family: Miller
+    given: Ethan L.
+  issued:
+  - year: '2010'
+  title: CFD-based operational thermal efficiency improvement of a production data
+    center
+  container-title: SustainIT
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/sustainit-10/cfd-based-operational-thermal-efficiency-improvement-production-data-center
+
+- id: conf/fast/Ben-YehudaFRTBY12
+  type: paper-conference
+  author:
+  - family: Ben-Yehuda
+    given: Muli
+  - family: Factor
+    given: Michael
+  - family: Rom
+    given: Eran
+  - family: Traeger
+    given: Avishay
+  - family: Borovik
+    given: Eran
+  - family: Yassour
+    given: Ben-Ami
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Adding advanced storage controller functionality via low-overhead virtualization
+  container-title: FAST
+  publisher: USENIX Association
+  page: '15'
+  URL: https://www.usenix.org/conference/fast12/adding-advanced-storage-controller-functionality-low-overhead-virtualization
+
+- id: conf/fast/SehgalTZ10
+  type: paper-conference
+  author:
+  - family: Sehgal
+    given: Priya
+  - family: Tarasov
+    given: Vasily
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Burns
+    given: Randal C.
+  issued:
+  - year: '2010'
+  title: Evaluating performance and energy in file system server workloads
+  container-title: FAST
+  publisher: USENIX
+  page: '253-266'
+  URL: http://www.usenix.org/events/fast10/tech/full_papers/sehgal.pdf
+  ISBN: '978-1-931971-74-4'
+
+- id: conf/fast/SouilahFS09
+  type: paper-conference
+  author:
+  - family: Souilah
+    given: Issam
+  - family: Francalanza
+    given: Adrian
+  - family: Sassone
+    given: Vladimiro
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: A formal model of provenance in distributed systems
+  container-title: Workshop on the theory and practice of provenance
+  publisher: USENIX
+  URL: http://www.usenix.org/events/tapp09/tech/full_papers/souilah/souilah.pdf
+
+- id: conf/fast/YangMH12
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Jisoo
+  - family: Minturn
+    given: Dave B.
+  - family: Hady
+    given: Frank
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: When poll is better than interrupt
+  container-title: FAST
+  publisher: USENIX Association
+  page: '3'
+  URL: https://www.usenix.org/conference/fast12/when-poll-better-interrupt
+
+- id: conf/fast/TarasovKMHPKZ12
+  type: paper-conference
+  author:
+  - family: Tarasov
+    given: Vasily
+  - family: Kumar
+    given: Santhosh
+  - family: Ma
+    given: Jack
+  - family: Hildebrand
+    given: Dean
+  - family: Povzner
+    given: Anna
+  - family: Kuenning
+    given: Geoff
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Bolosky
+    given: William J.
+  issued:
+  - year: '2012'
+  title: Extracting flexible, replayable models from large block traces
+  container-title: FAST
+  publisher: USENIX Association
+  page: '22'
+  URL: https://www.usenix.org/conference/fast12/extracting-flexible-replayable-models-large-block-traces-0
+
+- id: conf/fast/WangZB04
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Wenguang
+  - family: Zhao
+    given: Yanping
+  - family: Bunt
+    given: Rick
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: 'HyLog: A high performance approach to managing disk layout'
+  title-short: HyLog
+  container-title: FAST
+  publisher: USENIX
+  page: '145-158'
+  URL: http://www.usenix.org/events/fast04/tech/wang.html
+
+- id: conf/fast/MazurekLMSBGGR14
+  type: paper-conference
+  author:
+  - family: Mazurek
+    given: Michelle L.
+  - family: Liang
+    given: Yuan
+  - family: Melicher
+    given: William
+  - family: Sleeper
+    given: Manya
+  - family: Bauer
+    given: Lujo
+  - family: Ganger
+    given: Gregory R.
+  - family: Gupta
+    given: Nitin
+  - family: Reiter
+    given: Michael K.
+  editor:
+  - family: Schroeder
+    given: Bianca
+  issued:
+  - year: '2014'
+  title: Toward strong, usable access control for shared distributed data
+  container-title: FAST
+  publisher: USENIX
+  page: '89-103'
+  URL: https://www.usenix.org/conference/fast14/technical-sessions/presentation/mazurek
+  ISBN: '978-1-931971-08-9'
+
+- id: conf/fast/BabuBURS09
+  type: paper-conference
+  author:
+  - family: Babu
+    given: Shivnath
+  - family: Borisov
+    given: Nedyalko
+  - family: Uttamchandani
+    given: Sandeep
+  - family: Routray
+    given: Ramani
+  - family: Singh
+    given: Aameek
+  editor:
+  - family: Seltzer
+    given: Margo I.
+  issued:
+  - year: '2009'
+  title: 'DIADS: Addressing the “my-problem-or-yours” syndrome with integrated sAN
+    and database diagnosis'
+  title-short: DIADS
+  container-title: FAST
+  publisher: USENIX
+  page: '57-70'
+  URL: http://www.usenix.org/events/fast09/tech/full_papers/babu/babu.pdf
+  ISBN: '978-1-931971-66-9'
+
+- id: conf/fast/XiaSBP15
+  type: paper-conference
+  author:
+  - family: Xia
+    given: Mingyuan
+  - family: Saxena
+    given: Mohit
+  - family: Blaum
+    given: Mario
+  - family: Pease
+    given: David
+  editor:
+  - family: Schindler
+    given: Jiri
+  issued:
+  - year: '2015'
+  title: A tale of two erasure codes in hDFS
+  container-title: FAST
+  publisher: USENIX Association
+  page: '213-226'
+  URL: https://www.usenix.org/conference/fast15/technical-sessions/presentation/xia
+  ISBN: '978-1-931971-201'
+
+- id: conf/fast/2004
+  type: book
+  editor:
+  - family: Thekkath
+    given: Chandu
+  issued:
+  - year: '2004'
+  title: Proceedings of the fAST ’04 conference on file and storage technologies,
+    march 31 - april 2, 2004, grand hyatt hotel, san francisco, california, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A178
+
+- id: conf/fast/NathGS05
+  type: paper-conference
+  author:
+  - family: Nath
+    given: Suman
+  - family: Gibbons
+    given: Phillip B.
+  - family: Seshan
+    given: Srinivasan
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Adaptive data placement for wide-area sensing services
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/nath.html
+
+- id: conf/fast/Ford05
+  type: paper-conference
+  author:
+  - family: Ford
+    given: Bryan
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: 'VXA: A virtual architecture for durable compressed archives'
+  title-short: VXA
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/ford.html
+
+- id: conf/fast/JoukovWZ05
+  type: paper-conference
+  author:
+  - family: Joukov
+    given: Nikolai
+  - family: Wong
+    given: Timothy
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Gibson
+    given: Garth
+  issued:
+  - year: '2005'
+  title: Accurate and efficient replaying of file system traces
+  container-title: FAST
+  publisher: USENIX
+  URL: http://www.usenix.org/events/fast05/tech/joukov.html
+...

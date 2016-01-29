@@ -1,0 +1,353 @@
+---
+references:
+- id: conf/ssv/BrauerHKLO11
+  type: paper-conference
+  author:
+  - family: Brauer
+    given: Jörg
+  - family: Hansen
+    given: René Rydhof
+  - family: Kowalewski
+    given: Stefan
+  - family: Larsen
+    given: Kim G.
+  - family: Olesen
+    given: Mads Chr.
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: Adaptable value-set analysis for low-level code
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '32-43'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.32
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/Gast11
+  type: paper-conference
+  author:
+  - family: Gast
+    given: Holger
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: Structuring interactive correctness proofs by formalizing coding idioms
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '1-14'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.1
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/Pendergrass10
+  type: paper-conference
+  author:
+  - family: Pendergrass
+    given: J. Aaron
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Verification of stack manipulation in the sCIP processor
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/verification-stack-manipulation-scip-processor
+
+- id: conf/ssv/X11
+  type: paper-conference
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: Frontmatter, table of contents, preface
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.i
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/SinzFM10
+  type: paper-conference
+  author:
+  - family: Sinz
+    given: Carsten
+  - family: '0001'
+    given: Stephan Falke
+  - family: Merz
+    given: Florian
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: A precise memory model for low-level bounded model checking
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/precise-memory-model-low-level-bounded-model-checking
+
+- id: conf/ssv/MaedaY10
+  type: paper-conference
+  author:
+  - family: Maeda
+    given: Toshiyuki
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Typed assembly language for implementing oS kernels in sMP/Multi-core environments
+    with interrupts
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/typed-assembly-language-implementing-os-kernels-smpmulti-core-environments
+
+- id: conf/ssv/2011
+  type: book
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2012'
+  title: 6th international workshop on systems software verification, sSV 2011, august
+    26, 2011, nijmegen, the netherlands
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '24'
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/Cock10
+  type: paper-conference
+  author:
+  - family: Cock
+    given: David
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Lyrebird - assigning meanings to machines
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/lyrebird%E2%80%94assigning-meanings-machines
+
+- id: conf/ssv/CapposJ10
+  type: paper-conference
+  author:
+  - family: Cappos
+    given: Justin
+  - family: Jacky
+    given: Jonathan
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: 'Model-based testing without a model: Assessing portability in the seattle
+    testbed'
+  title-short: Model-based testing without a model
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/model-based-testing-without-model-assessing-portability-seattle-testbed
+
+- id: conf/ssv/Berghofer11
+  type: paper-conference
+  author:
+  - family: Berghofer
+    given: Stefan
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: Verification of dependable software using sPARK and isabelle
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '15-31'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.15
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/KaminN10
+  type: paper-conference
+  author:
+  - family: Kamin
+    given: Volker
+  - family: Noll
+    given: Thomas
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Loop refinement using octagons and satisfiability
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/loop-refinement-using-octagons-and-satisfiability
+
+- id: conf/ssv/SimsaBG10
+  type: paper-conference
+  author:
+  - family: Simsa
+    given: Jirí
+  - family: Bryant
+    given: Randy
+  - family: Gibson
+    given: Garth A.
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: 'DBug: Systematic evaluation of distributed systems'
+  title-short: DBug
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/dbug-systematic-evaluation-distributed-systems
+
+- id: conf/ssv/JaaskelainenKKV11
+  type: paper-conference
+  author:
+  - family: Jääskeläinen
+    given: Antti
+  - family: Katara
+    given: Mika
+  - family: Katz
+    given: Shmuel
+  - family: Virtanen
+    given: Heikki
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: 'Verification of safety-critical systems: A case study report on using
+    modern model checking tools'
+  title-short: Verification of safety-critical systems
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '44-56'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.44
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/Blech11
+  type: paper-conference
+  author:
+  - family: Blech
+    given: Jan Olaf
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: A tool for the certification of sequential function chart based system specifications
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '57-70'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.57
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/BiallasBK10
+  type: paper-conference
+  author:
+  - family: Biallas
+    given: Sebastian
+  - family: Brauer
+    given: Jörg
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Counterexample-guided abstraction refinement for pLCs
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/counterexample-guided-abstraction-refinement-plcs
+
+- id: conf/ssv/AndronickGE10
+  type: paper-conference
+  author:
+  - family: Andronick
+    given: June
+  - family: Greenaway
+    given: David
+  - family: Elphinstone
+    given: Kevin
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Towards proving security in the presence of large untrusted components
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/towards-proving-security-presence-large-untrusted-components
+
+- id: conf/ssv/GuckelK11
+  type: paper-conference
+  author:
+  - family: Gückel
+    given: Dominique
+  - family: Kowalewski
+    given: Stefan
+  editor:
+  - family: Brauer
+    given: Jörg
+  issued:
+  - year: '2011'
+  title: Automatic derivation of abstract semantics from instruction set descriptions
+  container-title: SSV
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '71-83'
+  volume: '24'
+  DOI: 10.4230/OASIcs.SSV.2011.71
+  ISBN: '978-3-939897-36-1'
+
+- id: conf/ssv/DuanR10
+  type: paper-conference
+  author:
+  - family: Duan
+    given: Jianjun
+  - family: Regehr
+    given: John
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: Correctness proofs for device drivers in embedded systems
+  container-title: SSV
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/ssv10/correctness-proofs-device-drivers-embedded-systems
+
+- id: conf/ssv/2010
+  type: book
+  editor:
+  - family: Huuck
+    given: Ralf
+  issued:
+  - year: '2010'
+  title: 5th international workshop on systems software verification, sSV’10, vancouver,
+    bC, canada, october 6-7, 2010
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A26
+...

@@ -1,0 +1,699 @@
+---
+references:
+- id: conf/rest/Davis12
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Cornelia
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: What if the web were not rESTful?
+  container-title: WS-rEST
+  publisher: ACM
+  page: '3-10'
+  URL: http://doi.acm.org/10.1145/2307819.2307823
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/ParastatidisWSR10
+  type: paper-conference
+  author:
+  - family: Parastatidis
+    given: Savas
+  - family: Webber
+    given: Jim
+  - family: Silveira
+    given: Guilherme
+  - family: Robinson
+    given: Ian S.
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: The role of hypermedia in distributed system development
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '16-22'
+  URL: http://doi.acm.org/10.1145/1798354.1798379
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/PautassoWA11
+  type: paper-conference
+  author:
+  - family: Pautasso
+    given: Cesare
+  - family: Wilde
+    given: Erik
+  - family: Alarcón
+    given: Rosa
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Second international workshop on rESTful design (wS-rEST 2011)
+  container-title: WS-rEST
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1967428.1967430
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/EngelkeF10
+  type: paper-conference
+  author:
+  - family: Engelke
+    given: Charles
+  - family: Fitzgerald
+    given: Craig
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Replacing legacy web services with rESTful services
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '27-30'
+  URL: http://doi.acm.org/10.1145/1798354.1798381
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/KubertKW11
+  type: paper-conference
+  author:
+  - family: Kübert
+    given: Roland
+  - family: Katsaros
+    given: Gregory
+  - family: Wang
+    given: Tinghe
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: A rESTful implementation of the wS-agreement specification
+  container-title: WS-rEST
+  publisher: ACM
+  page: '67-72'
+  URL: http://doi.acm.org/10.1145/1967428.1967444
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/FernandezN10
+  type: paper-conference
+  author:
+  - family: Fernandez
+    given: Federico
+  - family: Navón
+    given: Jaime
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Towards a practical model to facilitate reasoning about rEST extensions and
+    reuse
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '31-38'
+  URL: http://doi.acm.org/10.1145/1798354.1798383
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/Richardson10
+  type: paper-conference
+  author:
+  - family: Richardson
+    given: Leonard
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Developers enjoy hypermedia, but may resist browser-based oAuth authorization
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '4-8'
+  URL: http://doi.acm.org/10.1145/1798354.1798377
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/DavisM11
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Cornelia
+  - family: Maguire
+    given: Tom
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: XML technologies for rESTful services development
+  container-title: WS-rEST
+  publisher: ACM
+  page: '26-32'
+  URL: http://doi.acm.org/10.1145/1967428.1967437
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/Stirbu10
+  type: paper-conference
+  author:
+  - family: Stirbu
+    given: Vlad
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: A rESTful architecture for adaptive and multi-device application sharing
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '62-65'
+  URL: http://doi.acm.org/10.1145/1798354.1798388
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/HernandezG10
+  type: paper-conference
+  author:
+  - family: Hernández
+    given: Antonio Garrote
+  - family: García
+    given: María N. Moreno
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: A formal definition of rESTful semantic web services
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '39-45'
+  URL: http://doi.acm.org/10.1145/1798354.1798384
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/SelonenBY10
+  type: paper-conference
+  author:
+  - family: Selonen
+    given: Petri
+  - family: Belimpasakis
+    given: Petros
+  - family: You
+    given: Yu
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Developing a reSTful mixed reality web service platform
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '54-61'
+  URL: http://doi.acm.org/10.1145/1798354.1798387
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/FieldGM11
+  type: paper-conference
+  author:
+  - family: Field
+    given: John P.
+  - family: Graham
+    given: Stephen G.
+  - family: Maguire
+    given: Tom
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: A framework for obligation fulfillment in rEST services
+  container-title: WS-rEST
+  publisher: ACM
+  page: '59-66'
+  URL: http://doi.acm.org/10.1145/1967428.1967443
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/2012
+  type: book
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: Third international workshop on rESTful design, wS-rEST ’12, lyon, france,
+    april 16, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2307819
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/SteinerA11
+  type: paper-conference
+  author:
+  - family: Steiner
+    given: Thomas
+  - family: Algermissen
+    given: Jan
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Fulfilling the hypermedia constraint via hTTP oPTIONS, the hTTP vocabulary
+    in rDF, and link headers
+  container-title: WS-rEST
+  publisher: ACM
+  page: '11-14'
+  URL: http://doi.acm.org/10.1145/1967428.1967433
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/2011
+  type: book
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Proceedings of the second international workshop on rESTful design, wS-rEST
+    2011, hyderabad, india, march 28, 2011
+  publisher: ACM
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/X12
+  type: paper-conference
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: Third international workshop on rESTful design (wS-rEST 2012)
+  container-title: WS-rEST
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2307819.2307821
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/StirbuY12
+  type: paper-conference
+  author:
+  - family: Stirbu
+    given: Vlad
+  - family: You
+    given: Yu
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: Experiences designing hypermedia-driven and self-adaptive web-based aR authoring
+    tools
+  container-title: WS-rEST
+  publisher: ACM
+  page: '49-52'
+  URL: http://doi.acm.org/10.1145/2307819.2307831
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/LanthalerG12
+  type: paper-conference
+  author:
+  - family: Lanthaler
+    given: Markus
+  - family: Gütl
+    given: Christian
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: On using jSON-lD to create evolvable rESTful services
+  container-title: WS-rEST
+  publisher: ACM
+  page: '25-32'
+  URL: http://doi.acm.org/10.1145/2307819.2307827
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/PautassoWM10
+  type: paper-conference
+  author:
+  - family: Pautasso
+    given: Cesare
+  - family: Wilde
+    given: Erik
+  - family: Marinos
+    given: Alexandros
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: First international workshop on rESTful design (wS-rEST 2010)
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '1-3'
+  URL: http://doi.acm.org/10.1145/1798354.1798375
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/VerborghSDCVW12
+  type: paper-conference
+  author:
+  - family: Verborgh
+    given: Ruben
+  - family: Steiner
+    given: Thomas
+  - family: Deursen
+    given: Davy Van
+  - family: Coppens
+    given: Sam
+  - family: Vallés
+    given: Joaquim Gabarró
+  - family: Walle
+    given: Rik Van
+    dropping-particle: de
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: Functional descriptions as the bridge between hypermedia aPIs and the semantic
+    web
+  container-title: WS-rEST
+  publisher: ACM
+  page: '33-40'
+  URL: http://doi.acm.org/10.1145/2307819.2307828
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/PageRM11
+  type: paper-conference
+  author:
+  - family: Page
+    given: Kevin R.
+  - family: Roure
+    given: David De
+  - family: Martinez
+    given: Kirk
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: 'REST and linked data: A match made for domain driven development?'
+  title-short: REST and linked data
+  container-title: WS-rEST
+  publisher: ACM
+  page: '22-25'
+  URL: http://doi.acm.org/10.1145/1967428.1967435
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/KellyH10
+  type: paper-conference
+  author:
+  - family: Kelly
+    given: Mike
+  - family: Hausenblas
+    given: Michael
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: 'Using hTTP link: Header for gateway cache invalidation'
+  title-short: Using hTTP link
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '23-26'
+  URL: http://doi.acm.org/10.1145/1798354.1798380
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/JacobiR10
+  type: paper-conference
+  author:
+  - family: Jacobi
+    given: Ian
+  - family: Radul
+    given: Alexey
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: A rESTful messaging system for asynchronous distributed processing
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '46-53'
+  URL: http://doi.acm.org/10.1145/1798354.1798385
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/DuanPKH12
+  type: paper-conference
+  author:
+  - family: Duan
+    given: Kewei
+  - family: Padget
+    given: Julian
+  - family: Kim
+    given: H. Alicia
+  - family: Hosobe
+    given: Hiroshi
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: Composition of engineering web services with universal distributed data-flows
+    framework based on rOA
+  container-title: WS-rEST
+  publisher: ACM
+  page: '41-48'
+  URL: http://doi.acm.org/10.1145/2307819.2307830
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/StrauchS12
+  type: paper-conference
+  author:
+  - family: Strauch
+    given: Jakob
+  - family: Schreier
+    given: Silvia
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: 'RESTify: From rPCs to rESTful hTTP design'
+  title-short: RESTify
+  container-title: WS-rEST
+  publisher: ACM
+  page: '11-18'
+  URL: http://doi.acm.org/10.1145/2307819.2307824
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/AthanasopoulosKB11
+  type: paper-conference
+  author:
+  - family: Athanasopoulos
+    given: Michael
+  - family: Kontogiannis
+    given: Kostas
+  - family: Brealey
+    given: Chris
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Towards an interpretation framework for assessing interface uniformity in
+    rEST
+  container-title: WS-rEST
+  publisher: ACM
+  page: '47-50'
+  URL: http://doi.acm.org/10.1145/1967428.1967440
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/Amundsen12
+  type: paper-conference
+  author:
+  - family: Amundsen
+    given: Mike
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: 'From aPIs to affordances: A new paradigm for web services'
+  title-short: From aPIs to affordances
+  container-title: WS-rEST
+  publisher: ACM
+  page: '53-60'
+  URL: http://doi.acm.org/10.1145/2307819.2307832
+  ISBN: '978-1-4503-1190-8'
+
+- id: conf/rest/LiskinSS11
+  type: paper-conference
+  author:
+  - family: Liskin
+    given: Olga
+  - family: Singer
+    given: Leif
+  - family: Schneider
+    given: Kurt
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: 'Teaching old services new tricks: Adding hATEOAS support as an afterthought'
+  title-short: Teaching old services new tricks
+  container-title: WS-rEST
+  publisher: ACM
+  page: '3-10'
+  URL: http://doi.acm.org/10.1145/1967428.1967432
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/HadleyPS10
+  type: paper-conference
+  author:
+  - family: Hadley
+    given: Marc
+  - family: Pericas-Geertsen
+    given: Santiago
+  - family: Sandoz
+    given: Paul
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Exploring hypermedia support in jersey
+  container-title: WS-rEST
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  page: '10-14'
+  URL: http://doi.acm.org/10.1145/1798354.1798378
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/DuggalM11
+  type: paper-conference
+  author:
+  - family: Duggal
+    given: Dave
+  - family: Malyk
+    given: William
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: A resource oriented framework for context-aware enterprise applications
+  container-title: WS-rEST
+  publisher: ACM
+  page: '33-38'
+  URL: http://doi.acm.org/10.1145/1967428.1967438
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/KaylorLT11
+  type: paper-conference
+  author:
+  - family: Kaylor
+    given: Joe
+  - family: Läufer
+    given: Konstantin
+  - family: Thiruvathukal
+    given: George K.
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: 'RestFS: Resources and services are filesystems, too'
+  title-short: RestFS
+  container-title: WS-rEST
+  publisher: ACM
+  page: '39-46'
+  URL: http://doi.acm.org/10.1145/1967428.1967439
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/2010
+  type: book
+  editor:
+  - family: Pautasso
+    given: Cesare
+  issued:
+  - year: '2010'
+  title: Proceedings of the first international workshop on rESTful design, wS-rEST
+    2010, raleigh, north carolina, uSA, april 26, 2010
+  collection-title: ACM international conference proceeding series
+  publisher: ACM
+  ISBN: '978-1-60558-959-6'
+
+- id: conf/rest/Schreier11
+  type: paper-conference
+  author:
+  - family: Schreier
+    given: Silvia
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Modeling rESTful applications
+  container-title: WS-rEST
+  publisher: ACM
+  page: '15-21'
+  URL: http://doi.acm.org/10.1145/1967428.1967434
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/GrafZLW11
+  type: paper-conference
+  author:
+  - family: Graf
+    given: Sebastian
+  - family: Zholudev
+    given: Vyacheslav
+  - family: Lewandowski
+    given: Lukas
+  - family: Waldvogel
+    given: Marcel
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2011'
+  title: Hecate, managing authorization with rESTful xML
+  container-title: WS-rEST
+  publisher: ACM
+  page: '51-58'
+  URL: http://doi.acm.org/10.1145/1967428.1967442
+  ISBN: '978-1-4503-0623-2'
+
+- id: conf/rest/SzymanskiS12
+  type: paper-conference
+  author:
+  - family: Szymanski
+    given: Christoph
+  - family: Schreier
+    given: Silvia
+  editor:
+  - family: Alarcón
+    given: Rosa
+  issued:
+  - year: '2012'
+  title: 'Case study: Extracting a resource model from an object-oriented legacy
+    application'
+  title-short: Case study
+  container-title: WS-rEST
+  publisher: ACM
+  page: '19-24'
+  URL: http://doi.acm.org/10.1145/2307819.2307825
+  ISBN: '978-1-4503-1190-8'
+...

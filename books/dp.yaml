@@ -1,0 +1,626 @@
+---
+references:
+- id: books/dp/Hopfner2005
+  type: book
+  author:
+  - family: Höpfner
+    given: Hagen
+  - family: Türker
+    given: Can
+  - family: König-Ries
+    given: Birgitta
+  issued:
+  - year: '2005'
+  title: 'Mobile datenbanken und informationssysteme: Konzepte und techniken'
+  title-short: Mobile datenbanken und informationssysteme
+  publisher: dpunkt
+  ISBN: 3-89864-264-X
+
+- id: books/dp/EndresF00
+  type: book
+  author:
+  - family: Endres
+    given: Albert
+  - family: Fellner
+    given: Dieter W.
+  issued:
+  - year: '2000'
+  title: Digitale bibliotheken - informatik-lösungen für globale wissensmärkte
+  publisher: dpunkt
+  ISBN: '3-932588-77-0'
+
+- id: books/dp/Turker03
+  type: book
+  author:
+  - family: Türker
+    given: Can
+  issued:
+  - year: '2003'
+  title: SQL:1999 & sQL:2003 - objektrelationales sQL, sQLJ & sQL/XML
+  title-short: SQL
+  publisher: dpunkt
+  ISBN: '3-89864-219-4'
+
+- id: books/dp/SaakeS00
+  type: book
+  author:
+  - family: Saake
+    given: Gunter
+  - family: Sattler
+    given: Kai-Uwe
+  issued:
+  - year: '2000'
+  title: Datenbanken & java - jDBC, sQLJ und oDMG
+  publisher: dpunkt
+  ISBN: '3-932588-54-1'
+
+- id: books/dp/Geppert02
+  type: book
+  author:
+  - family: Geppert
+    given: Andreas
+  issued:
+  - year: '2002'
+  title: Objektrelationale und objektorientierte datenbankkonzepte und -systeme
+  publisher: dpunkt
+  page: I-XVIII, 1-465
+  ISBN: '3-89864-124-4'
+
+- id: books/dp/kappel2003/HitzL03
+  type: chapter
+  author:
+  - family: Hitz
+    given: Martin
+  - family: Leitner
+    given: Gerhard
+  issued:
+  - year: '2003'
+  title: Usability von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '265-296'
+
+- id: books/dp/kappel2003/AustallerLLM03
+  type: chapter
+  author:
+  - family: Austaller
+    given: Gerhard
+  - family: Lauff
+    given: Markus
+  - family: Lyardet
+    given: Fernando
+  - family: Mühlhäuser
+    given: Max
+  issued:
+  - year: '2003'
+  title: Technologiebewusstes design von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '101-132'
+
+- id: books/dp/kappel2003/EbnerW03
+  type: chapter
+  author:
+  - family: Ebner
+    given: Arno
+  - family: Werthner
+    given: Hannes
+  issued:
+  - year: '2003'
+  title: Betrieb und wartung von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '187-160'
+
+- id: books/dp/kappel2003/Buchholz03
+  type: chapter
+  author:
+  - family: Buchholz
+    given: Cristina
+  issued:
+  - year: '2003'
+  title: Sicherheit von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '319-344'
+
+- id: books/dp/kappel2003/Mayr03
+  type: chapter
+  author:
+  - family: Mayr
+    given: Herwig
+  issued:
+  - year: '2003'
+  title: Web-projektmanagement
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '207-238'
+
+- id: books/dp/kappel2003/SteindlRA03
+  type: chapter
+  author:
+  - family: Steindl
+    given: Christoph
+  - family: Ramler
+    given: Rudolf
+  - family: Altmann
+    given: Josef
+  issued:
+  - year: '2003'
+  title: Testen von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '161-186'
+
+- id: books/dp/kappel2003/Behrendt03
+  type: chapter
+  author:
+  - family: Behrendt
+    given: Wernher
+  issued:
+  - year: '2003'
+  title: Semantisches web - das netz der bedeutungen im netz der dokumente
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '345-368'
+
+- id: books/dp/kappel2003/SchwingerK03
+  type: chapter
+  author:
+  - family: Schwinger
+    given: Wieland
+  - family: Koch
+    given: Nora
+  issued:
+  - year: '2003'
+  title: Modellierung von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '49-76'
+
+- id: books/dp/kappel2003/KappelPRR03
+  type: chapter
+  author:
+  - family: Kappel
+    given: Gerti
+  - family: Pröll
+    given: Birgit
+  - family: Reich
+    given: Siegfried
+  - family: Retschitzegger
+    given: Werner
+  issued:
+  - year: '2003'
+  title: Web engineering - die disziplin zur systematischen entwicklung von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '1-28'
+
+- id: books/dp/kappel2003/Grunbacher03
+  type: chapter
+  author:
+  - family: Grünbacher
+    given: Paul
+  issued:
+  - year: '2003'
+  title: Requirements engineering für web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '29-48'
+
+- id: books/dp/kappel2003/GaedkeNJD03
+  type: chapter
+  author:
+  - family: Gaedke
+    given: Martin
+  - family: Nussbaumer
+    given: Martin
+  - family: Jung
+    given: Oliver
+  - family: Dieckmann
+    given: Markus
+  issued:
+  - year: '2003'
+  title: Implementierungstechnologien für web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '133-160'
+
+- id: books/dp/kappel2003/Kotsis03
+  type: chapter
+  author:
+  - family: Kotsis
+    given: Gabriele
+  issued:
+  - year: '2003'
+  title: Performanz von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '297-318'
+
+- id: books/dp/kappel2003/Eichinger03
+  type: chapter
+  author:
+  - family: Eichinger
+    given: Christian
+  issued:
+  - year: '2003'
+  title: Architektur von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '77-100'
+
+- id: books/dp/kappel2003/EngelsLW03
+  type: chapter
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Lohmann
+    given: Marc
+  - family: Wagner
+    given: Annika
+  issued:
+  - year: '2003'
+  title: Entwicklungsprozess von web-anwendungen
+  container-title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  page: '239-264'
+
+- id: books/dp/RahmV03
+  type: book
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Web & datenbanken. konzepte, architekturen, anwendungen
+  publisher: dpunkt
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/DemeyerDN02
+  type: book
+  author:
+  - family: Demeyer
+    given: Serge
+  - family: Ducasse
+    given: Stéphane
+  - family: Nierstrasz
+    given: Oscar
+  issued:
+  - year: '2002'
+  title: Object-oriented reengineering patterns
+  publisher: dpunkt / Morgan Kaufmann
+  ISBN: 3-89864-197-X
+
+- id: books/dp/KappelPRR03
+  type: book
+  editor:
+  - family: Kappel
+    given: Gerti
+  issued:
+  - year: '2003'
+  title: 'Web engineering: Systematische entwicklung von web-anwendungen'
+  title-short: Web engineering
+  publisher: dpunkt
+  ISBN: '3-89864-234-8'
+
+- id: books/dp/Dittrich96
+  type: book
+  author:
+  - family: Geppert
+    given: Andreas
+  issued:
+  - year: '1996'
+  title: Objektorientierte datenbanksysteme. ein praktikum
+  publisher: dpunkt
+  ISBN: '3-920993-62-4'
+
+- id: books/dp/Tolksdorf02
+  type: book
+  author:
+  - family: Tolksdorf
+    given: Robert
+  issued:
+  - year: '2002'
+  title: HTML & xHTML - die sprachen des web, lehrgang und referenz, 5. auflage
+  publisher: dpunkt
+  ISBN: '3-89864-155-4'
+
+- id: books/dp/NehmerS98
+  type: book
+  author:
+  - family: Nehmer
+    given: Jürgen
+  - family: Sturm
+    given: Peter
+  issued:
+  - year: '1998'
+  title: 'Systemsoftware: Grundlagen moderner betriebssysteme'
+  title-short: Systemsoftware
+  publisher: dpunkt
+  ISBN: '3-920993-74-8'
+
+- id: books/dp/LeserN2006
+  type: book
+  author:
+  - family: Leser
+    given: Ulf
+  - family: Naumann
+    given: Felix
+  issued:
+  - year: '2006'
+  title: 'Informationsintegration: Architekturen und methoden zur integration verteilter
+    und heterogener datenquellen'
+  title-short: Informationsintegration
+  publisher: dpunkt
+  ISBN: '3-89864-400-6'
+
+- id: books/dp/Klein01
+  type: book
+  author:
+  - family: Klein
+    given: Tobias
+  issued:
+  - year: '2001'
+  title: 'Linux sicherheit: Security mit open-source-software, grundlagen und praxis'
+  title-short: Linux sicherheit
+  publisher: dpunkt
+  ISBN: '3-932588-04-5'
+
+- id: books/dp/rahm2003/HelmerM03
+  type: chapter
+  author:
+  - family: Helmer
+    given: Sven
+  - family: Moerkotte
+    given: Guido
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Indexstrukturen für xML
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '217-250'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/KlettkeMRU03
+  type: chapter
+  author:
+  - family: Klettke
+    given: Meike
+  - family: Meyer
+    given: Holger
+  - family: Retschitzegger
+    given: Werner
+  - family: Unland
+    given: Rainer
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Speicherung von xML-dokumenten
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '135-162'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/BohmeR03
+  type: chapter
+  author:
+  - family: Böhme
+    given: Timo
+  - family: Rahm
+    given: Erhard
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Benchmarking von xML-datenbanksystemen
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '437-460'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/MeyerK03
+  type: chapter
+  author:
+  - family: Meyer
+    given: Holger
+  - family: Klettke
+    given: Meike
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Kommerzielle systeme zur speicherung, verwaltung und anfrage von xML-dokumenten
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '399-435'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/BennL03
+  type: chapter
+  author:
+  - family: Benn
+    given: Wolfgang
+  - family: Langer
+    given: Oliver
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Semistrukturierte datenmodelle und xML
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '3-32'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/SattlerCS03
+  type: chapter
+  author:
+  - family: Sattler
+    given: Kai-Uwe
+  - family: '0001'
+    given: Stefan Conrad
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Datenintegration und mediatoren
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '163-190'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/WeberBH03
+  type: chapter
+  author:
+  - family: Weber
+    given: Gunnar
+  - family: Bruder
+    given: Ilvio
+  - family: Heuer
+    given: Andreas
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Suchmaschinen
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '251-292'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/RahmS03
+  type: chapter
+  author:
+  - family: Rahm
+    given: Erhard
+  - family: Stöhr
+    given: Thomas
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Data-warehouse-einsatz zur web-zugriffsanalyse
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '335-362'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/KeidlKSS03
+  type: chapter
+  author:
+  - family: Keidl
+    given: Markus
+  - family: Kemper
+    given: Alfons
+  - family: Seltzsam
+    given: Stefan
+  - family: Stocker
+    given: Konrad
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Web services
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '293-331'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/Weikum03
+  type: chapter
+  author:
+  - family: Weikum
+    given: Gerhard
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Web caching
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '191-216'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/JaeschkeOV03
+  type: chapter
+  author:
+  - family: Jaeschke
+    given: Peter
+  - family: Oberweis
+    given: Andreas
+  - family: Vossen
+    given: Gottfried
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: 'Web-basiertes lernen: Eine übersicht über stand und entwicklungen'
+  title-short: Web-basiertes lernen
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '363-397'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/LausenM03
+  type: chapter
+  author:
+  - family: Lausen
+    given: Georg
+  - family: May
+    given: Wolfgang
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Anfragen, ändern und transformieren von xML
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '65-97'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/KappelRPUV03
+  type: chapter
+  author:
+  - family: Kappel
+    given: Gerti
+  - family: Retschitzegger
+    given: Werner
+  - family: Pröll
+    given: Birgit
+  - family: Unland
+    given: Rainer
+  - family: Vojdani
+    given: Bahram
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: Architektur von web-informationssystemen
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '101-134'
+  ISBN: '3-89864-189-9'
+
+- id: books/dp/rahm2003/SchoningW03
+  type: chapter
+  author:
+  - family: Schöning
+    given: Harald
+  - family: Waterfeld
+    given: Walter
+  editor:
+  - family: Rahm
+    given: Erhard
+  issued:
+  - year: '2003'
+  title: XML schema
+  container-title: Web & datenbanken
+  publisher: dpunkt
+  page: '33-64'
+  ISBN: '3-89864-189-9'
+...

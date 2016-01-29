@@ -1,0 +1,3677 @@
+---
+references:
+- id: conf/haskell/PangSSC04
+  type: paper-conference
+  author:
+  - family: Pang
+    given: André T. H.
+  - family: Stewart
+    given: Don
+  - family: Seefried
+    given: Sean
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Plugging haskell in
+  container-title: Haskell
+  publisher: ACM
+  page: '10-21'
+  URL: http://doi.acm.org/10.1145/1017472.1017478
+
+- id: conf/haskell/Breitner15
+  type: paper-conference
+  author:
+  - family: Breitner
+    given: Joachim
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Formally proving a compiler transformation safe
+  container-title: Haskell
+  publisher: ACM
+  page: '35-46'
+  URL: http://doi.acm.org/10.1145/2804302.2804312
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/EpsteinBJ11
+  type: paper-conference
+  author:
+  - family: Epstein
+    given: Jeff
+  - family: Black
+    given: Andrew P.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Towards haskell in the cloud
+  container-title: Haskell
+  publisher: ACM
+  page: '118-129'
+  URL: http://doi.acm.org/10.1145/2034675.2034690
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/BlanchetteHNNT14
+  type: paper-conference
+  author:
+  - family: Blanchette
+    given: Jasmin Christian
+  - family: Hupel
+    given: Lars
+  - family: Nipkow
+    given: Tobias
+  - family: Noschinski
+    given: Lars
+  - family: Traytel
+    given: Dmitriy
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Experience report: The next 1100 haskell programmers'
+  title-short: Experience report
+  container-title: Haskell
+  publisher: ACM
+  page: '25-30'
+  URL: http://doi.acm.org/10.1145/2633357.2633359
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/MitchellR07
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Neil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Uniform boilerplate and list processing
+  container-title: Haskell
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1291201.1291208
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/GiorgidzeN07
+  type: paper-conference
+  author:
+  - family: Giorgidze
+    given: George
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: 'Demo outline: Switched-on yampa'
+  title-short: Demo outline
+  container-title: Haskell
+  publisher: ACM
+  page: '93'
+  URL: http://doi.acm.org/10.1145/1291201.1291213
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/Chakravarty14
+  type: paper-conference
+  author:
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Foreign inline code: Systems demonstration'
+  title-short: Foreign inline code
+  container-title: Haskell
+  publisher: ACM
+  page: '119-120'
+  URL: http://doi.acm.org/10.1145/2633357.2633372
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/KiselyovLS04
+  type: paper-conference
+  author:
+  - family: Kiselyov
+    given: Oleg
+  - family: Lämmel
+    given: Ralf
+  - family: Schupke
+    given: Keean
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Strongly typed heterogeneous collections
+  container-title: Haskell
+  publisher: ACM
+  page: '96-107'
+  URL: http://doi.acm.org/10.1145/1017472.1017488
+
+- id: conf/haskell/GroningenNAKP10
+  type: paper-conference
+  author:
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  - family: Noort
+    given: Thomas
+    dropping-particle: van
+  - family: Achten
+    given: Peter
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Exchanging sources between clean and haskell: A double-edged front end
+    for the clean compiler'
+  title-short: Exchanging sources between clean and haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1863523.1863530
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/BolingbrokeJ10
+  type: paper-conference
+  author:
+  - family: Bolingbroke
+    given: Maximilian C.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: Supercompilation by evaluation
+  container-title: Haskell
+  publisher: ACM
+  page: '135-146'
+  URL: http://doi.acm.org/10.1145/1863523.1863540
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/Yorgey10
+  type: paper-conference
+  author:
+  - family: Yorgey
+    given: Brent A.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: Species and functors and types, oh my!
+  container-title: Haskell
+  publisher: ACM
+  page: '147-158'
+  URL: http://doi.acm.org/10.1145/1863523.1863542
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/SwierstraA07
+  type: paper-conference
+  author:
+  - family: Swierstra
+    given: Wouter
+  - family: Altenkirch
+    given: Thorsten
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Beauty in the beast
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1291201.1291206
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/DijkstraFS09
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Atze
+  - family: Fokker
+    given: Jeroen
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: The architecture of the utrecht haskell compiler
+  container-title: Haskell
+  publisher: ACM
+  page: '93-104'
+  URL: http://doi.acm.org/10.1145/1596638.1596650
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/OSullivanT10
+  type: paper-conference
+  author:
+  - family: O’Sullivan
+    given: Bryan
+  - family: Tibell
+    given: Johan
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: Scalable i/o event handling for gHC
+  container-title: Haskell
+  publisher: ACM
+  page: '103-108'
+  URL: http://doi.acm.org/10.1145/1863523.1863536
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/Harper11
+  type: paper-conference
+  author:
+  - family: Harper
+    given: Thomas
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: A library writer’s guide to shortcut fusion
+  container-title: Haskell
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/2034675.2034682
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/WestbrookFB11
+  type: paper-conference
+  author:
+  - family: Westbrook
+    given: Edwin M.
+  - family: Frisby
+    given: Nicolas
+  - family: Brauner
+    given: Paul
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: 'Hobbits for haskell: A library for higher-order encodings in functional
+    programming languages'
+  title-short: Hobbits for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '35-46'
+  URL: http://doi.acm.org/10.1145/2034675.2034681
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/NaylorAR07
+  type: paper-conference
+  author:
+  - family: Naylor
+    given: Matthew
+  - family: Axelsson
+    given: Emil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: A functional-logic library for wired
+  container-title: Haskell
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/1291201.1291207
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/FarmerGKS12
+  type: paper-conference
+  author:
+  - family: Farmer
+    given: Andrew
+  - family: Gill
+    given: Andy
+  - family: Komp
+    given: Ed
+  - family: Sculthorpe
+    given: Neil
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'The hERMIT in the machine: A plugin for the interactive transformation
+    of gHC core language programs'
+  title-short: The hERMIT in the machine
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2364506.2364508
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/StewartS07
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: Don
+  - family: Sjanssen
+    given: Spencer
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Xmonad
+  container-title: Haskell
+  publisher: ACM
+  page: '119'
+  URL: http://doi.acm.org/10.1145/1291201.1291218
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/LiuGPA13
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Hai
+  - family: Glew
+    given: Neal
+  - family: Petersen
+    given: Leaf
+  - family: Anderson
+    given: Todd A.
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: The intel labs haskell research compiler
+  container-title: Haskell
+  publisher: ACM
+  page: '105-116'
+  URL: http://doi.acm.org/10.1145/2503778.2503779
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/Marlow06
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: An extensible dynamically-typed hierarchy of exceptions
+  container-title: Haskell
+  publisher: ACM
+  page: '96-106'
+  URL: http://doi.acm.org/10.1145/1159842.1159854
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Trifonov03
+  type: paper-conference
+  author:
+  - family: Trifonov
+    given: Valery
+  issued:
+  - year: '2003'
+  title: Simulating quantified class constraints
+  container-title: Haskell
+  publisher: ACM
+  page: '98-102'
+  URL: http://doi.acm.org/10.1145/871895.871906
+
+- id: conf/haskell/2009
+  type: book
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Proceedings of the 2nd aCM sIGPLAN symposium on haskell, haskell 2009, edinburgh,
+    scotland, uK, 3 september 2009
+  publisher: ACM
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/RussoCH08
+  type: paper-conference
+  author:
+  - family: Russo
+    given: Alejandro
+  - family: Claessen
+    given: Koen
+  - family: Hughes
+    given: John
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: A library for light-weight information-flow security in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1411286.1411289
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/PikeBG09
+  type: paper-conference
+  author:
+  - family: Pike
+    given: Lee
+  - family: Brown
+    given: Geoffrey M.
+  - family: Goodloe
+    given: Alwyn
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: 'Roll your own test bed for embedded real-time protocols: A haskell experience'
+  title-short: Roll your own test bed for embedded real-time protocols
+  container-title: Haskell
+  publisher: ACM
+  page: '61-68'
+  URL: http://doi.acm.org/10.1145/1596638.1596646
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/Pike14
+  type: paper-conference
+  author:
+  - family: Pike
+    given: Lee
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'SmartCheck: Automatic and efficient counterexample reduction and generalization'
+  title-short: SmartCheck
+  container-title: Haskell
+  publisher: ACM
+  page: '53-64'
+  URL: http://doi.acm.org/10.1145/2633357.2633365
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/MarlowIPG07
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: Iborra
+    given: José
+  - family: Pope
+    given: Bernard
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: A lightweight interactive debugger for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1291201.1291204
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/LaunchburyE10
+  type: paper-conference
+  author:
+  - family: Launchbury
+    given: John
+  - family: Elliott
+    given: Trevor
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: Concurrent orchestration in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/1863523.1863534
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/LippmeierCKJ12
+  type: paper-conference
+  author:
+  - family: Lippmeier
+    given: Ben
+  - family: Chakravarty
+    given: Manuel M. T.
+  - family: Keller
+    given: Gabriele
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Guiding parallel array fusion with indexed types
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/2364506.2364511
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/TereiC10
+  type: paper-conference
+  author:
+  - family: Terei
+    given: David A.
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: An llVM backend for gHC
+  container-title: Haskell
+  publisher: ACM
+  page: '109-120'
+  URL: http://doi.acm.org/10.1145/1863523.1863538
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/LevyTSM14
+  type: paper-conference
+  author:
+  - family: Levy
+    given: Amit A.
+  - family: Terei
+    given: David
+  - family: Stefan
+    given: Deian
+  - family: Mazières
+    given: David
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Demo proposal: Making web applications -xSafe'
+  title-short: Demo proposal
+  container-title: Haskell
+  publisher: ACM
+  page: '91'
+  URL: http://doi.acm.org/10.1145/2633357.2633373
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/StuckeySW03
+  type: paper-conference
+  author:
+  - family: Stuckey
+    given: Peter J.
+  - family: Sulzmann
+    given: Martin
+  - family: Wazny
+    given: Jeremy
+  issued:
+  - year: '2003'
+  title: Interactive type debugging in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '72-83'
+  URL: http://doi.acm.org/10.1145/871895.871903
+
+- id: conf/haskell/MarlowMLAT10
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: Maier
+    given: Patrick
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Aswad
+    given: Mustafa
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Seq no more: Better strategies for parallel haskell'
+  title-short: Seq no more
+  container-title: Haskell
+  publisher: ACM
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/1863523.1863535
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/Diatchki15
+  type: paper-conference
+  author:
+  - family: Diatchki
+    given: Iavor S.
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Improving haskell types with sMT
+  container-title: Haskell
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/2804302.2804307
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/2003
+  type: book
+  issued:
+  - year: '2003'
+  title: Proceedings of the aCM sIGPLAN workshop on haskell, haskell 2003, uppsala,
+    sweden, august 28, 2003
+  publisher: ACM
+
+- id: conf/haskell/Thiemann03
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  issued:
+  - year: '2003'
+  title: XML templates and caching in wASH
+  container-title: Haskell
+  publisher: ACM
+  page: '19-26'
+  URL: http://doi.acm.org/10.1145/871895.871898
+
+- id: conf/haskell/FarmerSG15
+  type: paper-conference
+  author:
+  - family: Farmer
+    given: Andrew
+  - family: Sculthorpe
+    given: Neil
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'Reasoning with the hERMIT: Tool support for equational reasoning on gHC
+    core programs'
+  title-short: Reasoning with the hERMIT
+  container-title: Haskell
+  publisher: ACM
+  page: '23-34'
+  URL: http://doi.acm.org/10.1145/2804302.2804303
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/GuillemetteM07
+  type: paper-conference
+  author:
+  - family: Guillemette
+    given: Louis-Julien
+  - family: Monnier
+    given: Stefan
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: A type-preserving closure conversion in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/1291201.1291212
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/Himmelstrup06
+  type: paper-conference
+  author:
+  - family: Himmelstrup
+    given: David
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Interactive debugging with gHCi
+  container-title: Haskell
+  publisher: ACM
+  page: '107'
+  URL: http://doi.acm.org/10.1145/1159842.1159855
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Kagawa06
+  type: paper-conference
+  author:
+  - family: Kagawa
+    given: Koji
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Polymorphic variants in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '37-47'
+  URL: http://doi.acm.org/10.1145/1159842.1159848
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/AhnS08
+  type: paper-conference
+  author:
+  - family: Ahn
+    given: Ki Yung
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Shared subtypes: Subtyping recursive parametrized algebraic data types'
+  title-short: Shared subtypes
+  container-title: Haskell
+  publisher: ACM
+  page: '75-86'
+  URL: http://doi.acm.org/10.1145/1411286.1411297
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/AngelovM05
+  type: paper-conference
+  author:
+  - family: Angelov
+    given: Krasimir
+  - family: Marlow
+    given: Simon
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: 'Visual haskell: A full-featured haskell development environment'
+  title-short: Visual haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '5-16'
+  URL: http://doi.acm.org/10.1145/1088348.1088350
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/JonesD08
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Mark P.
+  - family: Diatchki
+    given: Iavor S.
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Language and program design for functional dependencies
+  container-title: Haskell
+  publisher: ACM
+  page: '87-98'
+  URL: http://doi.acm.org/10.1145/1411286.1411298
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/Karczmarczuk03
+  type: paper-conference
+  author:
+  - family: Karczmarczuk
+    given: Jerzy
+  issued:
+  - year: '2003'
+  title: 'Structure and interpretation of quantum mechanics: A functional framework'
+  title-short: Structure and interpretation of quantum mechanics
+  container-title: Haskell
+  publisher: ACM
+  page: '50-61'
+  URL: http://doi.acm.org/10.1145/871895.871901
+
+- id: conf/haskell/AnknerS13
+  type: paper-conference
+  author:
+  - family: Ankner
+    given: Johan
+  - family: Svenningsson
+    given: Josef
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: An eDSL approach to high performance haskell programming
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2503778.2503789
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/Weirich06
+  type: paper-conference
+  author:
+  - family: Weirich
+    given: Stephanie
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: 'RepLib: A library for derivable type classes'
+  title-short: RepLib
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1159842.1159844
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/BirdH03
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Richard S.
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2003'
+  title: Functional pearl trouble shared is trouble halved
+  container-title: Haskell
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/871895.871896
+
+- id: conf/haskell/StuckeySW04
+  type: paper-conference
+  author:
+  - family: Stuckey
+    given: Peter J.
+  - family: Sulzmann
+    given: Martin
+  - family: Wazny
+    given: Jeremy
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Improving type error diagnosis
+  container-title: Haskell
+  publisher: ACM
+  page: '80-91'
+  URL: http://doi.acm.org/10.1145/1017472.1017486
+
+- id: conf/haskell/PirogB10
+  type: paper-conference
+  author:
+  - family: Piróg
+    given: Maciej
+  - family: Biernacki
+    given: Dariusz
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: A systematic derivation of the sTG machine verified in coq
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1863523.1863528
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/RodriguezJJGKO08
+  type: paper-conference
+  author:
+  - family: Rodriguez
+    given: Alexey
+  - family: Jeuring
+    given: Johan
+  - family: Jansson
+    given: Patrik
+  - family: Gerdes
+    given: Alex
+  - family: Kiselyov
+    given: Oleg
+  - family: S. Oliveira
+    given: Bruno C.
+    dropping-particle: d.
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Comparing libraries for generic programming in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '111-122'
+  URL: http://doi.acm.org/10.1145/1411286.1411301
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/WalkerR15
+  type: paper-conference
+  author:
+  - family: Walker
+    given: Michael
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'Déjà fu: A concurrency testing library for haskell'
+  title-short: Déjà fu
+  container-title: Haskell
+  publisher: ACM
+  page: '141-152'
+  URL: http://doi.acm.org/10.1145/2804302.2804306
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/KiselyovS04
+  type: paper-conference
+  author:
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: 'Functional pearl: Implicit configurations-or, type classes reflect the
+    values of types'
+  title-short: Functional pearl
+  container-title: Haskell
+  publisher: ACM
+  page: '33-44'
+  URL: http://doi.acm.org/10.1145/1017472.1017481
+
+- id: conf/haskell/GrabmullerK07
+  type: paper-conference
+  author:
+  - family: Grabmüller
+    given: Martin
+  - family: Kleeblatt
+    given: Dirk
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: 'Harpy: Run-time code generation in haskell'
+  title-short: Harpy
+  container-title: Haskell
+  publisher: ACM
+  page: '94'
+  URL: http://doi.acm.org/10.1145/1291201.1291214
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/CouttsPS08
+  type: paper-conference
+  author:
+  - family: Coutts
+    given: Duncan
+  - family: Potoczny-Jones
+    given: Isaac
+  - family: Stewart
+    given: Don
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Haskell: Batteries included'
+  title-short: Haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '125-126'
+  URL: http://doi.acm.org/10.1145/1411286.1411303
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/2012
+  type: book
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Proceedings of the 5th aCM sIGPLAN symposium on haskell, haskell 2012, copenhagen,
+    denmark, 13 september 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2364506
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/AlimarineSWEP05
+  type: paper-conference
+  author:
+  - family: Alimarine
+    given: Artem
+  - family: Smetsers
+    given: Sjaak
+  - family: Weelden
+    given: Arjen
+    dropping-particle: van
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: 'There and back again: Arrows for invertible programming'
+  title-short: There and back again
+  container-title: Haskell
+  publisher: ACM
+  page: '86-97'
+  URL: http://doi.acm.org/10.1145/1088348.1088357
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/WuSH14
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Nicolas
+  - family: Schrijvers
+    given: Tom
+  - family: Hinze
+    given: Ralf
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Effect handlers in scope
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2633357.2633358
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/AdamsA14
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Michael D.
+  - family: Agacan
+    given: Ömer S.
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Indentation-sensitive parsing for parsec
+  container-title: Haskell
+  publisher: ACM
+  page: '121-132'
+  URL: http://doi.acm.org/10.1145/2633357.2633369
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/DiatchkiJ06
+  type: paper-conference
+  author:
+  - family: Diatchki
+    given: Iavor S.
+  - family: Jones
+    given: Mark P.
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Strongly typed memory areas programming systems-level data structures in
+    a functional language
+  container-title: Haskell
+  publisher: ACM
+  page: '72-83'
+  URL: http://doi.acm.org/10.1145/1159842.1159851
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Roundy05
+  type: paper-conference
+  author:
+  - family: Roundy
+    given: David
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: 'Darcs: Distributed version management in haskell'
+  title-short: Darcs
+  container-title: Haskell
+  publisher: ACM
+  page: '1-4'
+  URL: http://doi.acm.org/10.1145/1088348.1088349
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/Elliott04
+  type: paper-conference
+  author:
+  - family: Elliott
+    given: Conal
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Programming graphics processors functionally
+  container-title: Haskell
+  publisher: ACM
+  page: '45-56'
+  URL: http://doi.acm.org/10.1145/1017472.1017482
+
+- id: conf/haskell/2011
+  type: book
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Proceedings of the 4th aCM sIGPLAN symposium on haskell, haskell 2011, tokyo,
+    japan, 22 september 2011
+  publisher: ACM
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/Morris14
+  type: paper-conference
+  author:
+  - family: Morris
+    given: J. Garrett
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: A simple semantics for haskell overloading
+  container-title: Haskell
+  publisher: ACM
+  page: '107-118'
+  URL: http://doi.acm.org/10.1145/2633357.2633364
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/MarlowNJ11
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: Newton
+    given: Ryan
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: A monad for deterministic parallelism
+  container-title: Haskell
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/2034675.2034685
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/CourtneyNP03
+  type: paper-conference
+  author:
+  - family: Courtney
+    given: Antony
+  - family: Nilsson
+    given: Henrik
+  - family: Peterson
+    given: John
+  issued:
+  - year: '2003'
+  title: The yampa arcade
+  container-title: Haskell
+  publisher: ACM
+  page: '7-18'
+  URL: http://doi.acm.org/10.1145/871895.871897
+
+- id: conf/haskell/2008
+  type: book
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Proceedings of the 1st aCM sIGPLAN symposium on haskell, haskell 2008, victoria,
+    bC, canada, 25 september 2008
+  publisher: ACM
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/GillSDEFGRSS15
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andy
+  - family: Sculthorpe
+    given: Neil
+  - family: Dawson
+    given: Justin
+  - family: Eskilson
+    given: Aleksander
+  - family: Farmer
+    given: Andrew
+  - family: Grebe
+    given: Mark
+  - family: Rosenbluth
+    given: Jeffrey
+  - family: Scott
+    given: Ryan
+  - family: Stanton
+    given: James
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: The remote monad design pattern
+  container-title: Haskell
+  publisher: ACM
+  page: '59-70'
+  URL: http://doi.acm.org/10.1145/2804302.2804311
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/Bernardy08
+  type: paper-conference
+  author:
+  - family: Bernardy
+    given: Jean-Philippe
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Yi: An editor in haskell for haskell'
+  title-short: Yi
+  container-title: Haskell
+  publisher: ACM
+  page: '61-62'
+  URL: http://doi.acm.org/10.1145/1411286.1411294
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/NeubauerT04
+  type: paper-conference
+  author:
+  - family: Neubauer
+    given: Matthias
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Haskell type browser
+  container-title: Haskell
+  publisher: ACM
+  page: '92-93'
+  URL: http://doi.acm.org/10.1145/1017472.1017474
+
+- id: conf/haskell/OliveiraMY15
+  type: paper-conference
+  author:
+  - family: S. Oliveira
+    given: Bruno C.
+    dropping-particle: d.
+  - family: Mu
+    given: Shin-Cheng
+  - family: You
+    given: Shu-Hung
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'Modular reifiable matching: A list-of-functors approach to two-level types'
+  title-short: Modular reifiable matching
+  container-title: Haskell
+  publisher: ACM
+  page: '82-93'
+  URL: http://doi.acm.org/10.1145/2804302.2804315
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/HeerenLI03
+  type: paper-conference
+  author:
+  - family: Heeren
+    given: Bastiaan
+  - family: Leijen
+    given: Daan
+  - family: IJzendoorn
+    given: Arjan
+    dropping-particle: van
+  issued:
+  - year: '2003'
+  title: Helium, for learning haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '62-71'
+  URL: http://doi.acm.org/10.1145/871895.871902
+
+- id: conf/haskell/Hallgren03
+  type: paper-conference
+  author:
+  - family: Hallgren
+    given: Thomas
+  issued:
+  - year: '2003'
+  title: Haskell tools from the programatica project
+  container-title: Haskell
+  publisher: ACM
+  page: '103-106'
+  URL: http://doi.acm.org/10.1145/871895.871907
+
+- id: conf/haskell/PloegK14
+  type: paper-conference
+  author:
+  - family: Ploeg
+    given: Atze
+    dropping-particle: van der
+  - family: Kiselyov
+    given: Oleg
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Reflection without remorse: Revealing a hidden sequence to speed up monadic
+    reflection'
+  title-short: Reflection without remorse
+  container-title: Haskell
+  publisher: ACM
+  page: '133-144'
+  URL: http://doi.acm.org/10.1145/2633357.2633360
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/ElliottPWHBSSL15
+  type: paper-conference
+  author:
+  - family: Elliott
+    given: Trevor
+  - family: Pike
+    given: Lee
+  - family: Winwood
+    given: Simon
+  - family: Hickey
+    given: Patrick C.
+  - family: Bielman
+    given: James
+  - family: Sharp
+    given: Jamey
+  - family: Seidel
+    given: Eric L.
+  - family: Launchbury
+    given: John
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Guilt free ivory
+  container-title: Haskell
+  publisher: ACM
+  page: '189-200'
+  URL: http://doi.acm.org/10.1145/2804302.2804318
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/LippmeierK11
+  type: paper-conference
+  author:
+  - family: Lippmeier
+    given: Ben
+  - family: Keller
+    given: Gabriele
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Efficient parallel stencil convolution in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '59-70'
+  URL: http://doi.acm.org/10.1145/2034675.2034684
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/MuranushiE14
+  type: paper-conference
+  author:
+  - family: Muranushi
+    given: Takayuki
+  - family: Eisenberg
+    given: Richard A.
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Experience report: Type-checking polymorphic units for astrophysics research
+    in haskell'
+  title-short: Experience report
+  container-title: Haskell
+  publisher: ACM
+  page: '31-38'
+  URL: http://doi.acm.org/10.1145/2633357.2633362
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/AllenE12
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Wyatt
+  - family: Erwig
+    given: Martin
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Surveyor: A dSEL for representing and analyzing strongly typed surveys'
+  title-short: Surveyor
+  container-title: Haskell
+  publisher: ACM
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/2364506.2364518
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/Elliott09
+  type: paper-conference
+  author:
+  - family: Elliott
+    given: Conal M.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Push-pull functional reactive programming
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1596638.1596643
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/LiRT03
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Reinke
+    given: Claus
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '2003'
+  title: Tool support for refactoring functional programs
+  container-title: Haskell
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/871895.871899
+
+- id: conf/haskell/2005
+  type: book
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Proceedings of the aCM sIGPLAN workshop on haskell, haskell 2005, tallinn,
+    estonia, september 30, 2005
+  publisher: ACM
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/Kow06
+  type: paper-conference
+  author:
+  - family: Kow
+    given: Eric
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: 'GenI: Natural language generation in haskell'
+  title-short: GenI
+  container-title: Haskell
+  publisher: ACM
+  page: '110-119'
+  URL: http://doi.acm.org/10.1145/1159842.1159858
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/EisenbergW12
+  type: paper-conference
+  author:
+  - family: Eisenberg
+    given: Richard A.
+  - family: Weirich
+    given: Stephanie
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Dependently typed programming with singletons
+  container-title: Haskell
+  publisher: ACM
+  page: '117-130'
+  URL: http://doi.acm.org/10.1145/2364506.2364522
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/ScibiorGG15
+  type: paper-conference
+  author:
+  - family: Scibior
+    given: Adam
+  - family: Ghahramani
+    given: Zoubin
+  - family: Gordon
+    given: Andrew D.
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Practical probabilistic programming with monads
+  container-title: Haskell
+  publisher: ACM
+  page: '165-176'
+  URL: http://doi.acm.org/10.1145/2804302.2804317
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/AtkeyLY09
+  type: paper-conference
+  author:
+  - family: Atkey
+    given: Robert
+  - family: Lindley
+    given: Sam
+  - family: Yallop
+    given: Jeremy
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Unembedding domain-specific languages
+  container-title: Haskell
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/1596638.1596644
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/AllwoodJE09
+  type: paper-conference
+  author:
+  - family: Allwood
+    given: Tristan O. R.
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Eisenbach
+    given: Susan
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: 'Finding the needle: Stack traces for gHC'
+  title-short: Finding the needle
+  container-title: Haskell
+  publisher: ACM
+  page: '129-140'
+  URL: http://doi.acm.org/10.1145/1596638.1596654
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/Gill06
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Introducing the haskell equational reasoning assistant
+  container-title: Haskell
+  publisher: ACM
+  page: '108-109'
+  URL: http://doi.acm.org/10.1145/1159842.1159856
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Straka10
+  type: paper-conference
+  author:
+  - family: Straka
+    given: Milan
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: The performance of the haskell containers package
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1863523.1863526
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/FernandesPS07
+  type: paper-conference
+  author:
+  - family: Fernandes
+    given: João Paulo
+  - family: Pardo
+    given: Alberto
+  - family: Saraiva
+    given: João
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: A shortcut fusion rule for circular program calculation
+  container-title: Haskell
+  publisher: ACM
+  page: '95-106'
+  URL: http://doi.acm.org/10.1145/1291201.1291216
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/AbelBBHN05
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Andreas Abel
+  - family: Benke
+    given: Marcin
+  - family: Bove
+    given: Ana
+  - family: Hughes
+    given: John
+  - family: Norell
+    given: Ulf
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Verifying haskell programs using constructive type theory
+  container-title: Haskell
+  publisher: ACM
+  page: '62-73'
+  URL: http://doi.acm.org/10.1145/1088348.1088355
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/StolarekJE15
+  type: paper-conference
+  author:
+  - family: Stolarek
+    given: Jan
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Eisenberg
+    given: Richard A.
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Injective type families for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '118-128'
+  URL: http://doi.acm.org/10.1145/2804302.2804314
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/Jones05
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Isaac
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: 'Halfs: A haskell filesystem'
+  title-short: Halfs
+  container-title: Haskell
+  publisher: ACM
+  page: '116'
+  URL: http://doi.acm.org/10.1145/1088348.1088360
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/MaierST14
+  type: paper-conference
+  author:
+  - family: Maier
+    given: Patrick
+  - family: Stewart
+    given: Robert J.
+  - family: Trinder
+    given: Phil
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: The hdpH dSLs for scalable reliable computation
+  container-title: Haskell
+  publisher: ACM
+  page: '65-76'
+  URL: http://doi.acm.org/10.1145/2633357.2633363
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/GiorgidzeGSW11
+  type: paper-conference
+  author:
+  - family: Giorgidze
+    given: George
+  - family: Grust
+    given: Torsten
+  - family: Schweinsberg
+    given: Nils
+  - family: Weijers
+    given: Jeroen
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Bringing back monad comprehensions
+  container-title: Haskell
+  publisher: ACM
+  page: '13-22'
+  URL: http://doi.acm.org/10.1145/2034675.2034678
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/Morris15
+  type: paper-conference
+  author:
+  - family: Morris
+    given: J. Garrett
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Variations on variants
+  container-title: Haskell
+  publisher: ACM
+  page: '71-81'
+  URL: http://doi.acm.org/10.1145/2804302.2804320
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/Swierstra12
+  type: paper-conference
+  author:
+  - family: Swierstra
+    given: Wouter
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Xmonad in coq (experience report): Programming a window manager in a proof
+    assistant'
+  title-short: Xmonad in coq (experience report)
+  container-title: Haskell
+  publisher: ACM
+  page: '131-136'
+  URL: http://doi.acm.org/10.1145/2364506.2364523
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/Leijen04
+  type: paper-conference
+  author:
+  - family: Leijen
+    given: Daan
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: 'WxHaskell: A portable and concise gUI library for haskell'
+  title-short: WxHaskell
+  container-title: Haskell
+  publisher: ACM
+  page: '57-68'
+  URL: http://doi.acm.org/10.1145/1017472.1017483
+
+- id: conf/haskell/BaaijKKGM09
+  type: paper-conference
+  author:
+  - family: Baaij
+    given: Christiaan
+  - family: Kooijman
+    given: Matthijs
+  - family: Kuper
+    given: Jan
+  - family: Gerards
+    given: Marco
+  - family: Molenkamp
+    given: Bert
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Tool demonstrationCLasHFrom haskell to hardware
+  container-title: Haskell
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1596638.1667736
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/RenE06
+  type: paper-conference
+  author:
+  - family: Ren
+    given: Deling
+  - family: Erwig
+    given: Martin
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: 'A generic recursion toolbox for haskell or: Scrap your boilerplate systematically'
+  title-short: A generic recursion toolbox for haskell or
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1159842.1159845
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Gill09
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Type-safe observable sharing in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '117-128'
+  URL: http://doi.acm.org/10.1145/1596638.1596653
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/BringertHAABBM04
+  type: paper-conference
+  author:
+  - family: Bringert
+    given: Björn
+  - family: Höckersten
+    given: Anders
+  - family: Andersson
+    given: Conny
+  - family: Andersson
+    given: Martin
+  - family: Bergman
+    given: Mary
+  - family: Blomqvist
+    given: Victor
+  - family: Martin
+    given: Torbjörn
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: 'Student paper: HaskellDB improved'
+  title-short: Student paper
+  container-title: Haskell
+  publisher: ACM
+  page: '108-115'
+  URL: http://doi.acm.org/10.1145/1017472.1017473
+
+- id: conf/haskell/MitchellR08
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Neil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Not all patterns, but enough: An automatic verifier for partial but sufficient
+    pattern matching'
+  title-short: Not all patterns, but enough
+  container-title: Haskell
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1411286.1411293
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/Polakow15
+  type: paper-conference
+  author:
+  - family: Polakow
+    given: Jeff
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Embedding a full linear lambda calculus in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '177-188'
+  URL: http://doi.acm.org/10.1145/2804302.2804309
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/RendelO10
+  type: paper-conference
+  author:
+  - family: Rendel
+    given: Tillmann
+  - family: Ostermann
+    given: Klaus
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Invertible syntax descriptions: Unifying parsing and pretty printing'
+  title-short: Invertible syntax descriptions
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1863523.1863525
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/TrillaR15
+  type: paper-conference
+  author:
+  - family: Trilla
+    given: José Manuel Calderón
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Improving implicit parallelism
+  container-title: Haskell
+  publisher: ACM
+  page: '153-164'
+  URL: http://doi.acm.org/10.1145/2804302.2804308
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/Broberg05
+  type: paper-conference
+  author:
+  - family: Broberg
+    given: Niklas
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Haskell server pages through dynamic loading
+  container-title: Haskell
+  publisher: ACM
+  page: '39-48'
+  URL: http://doi.acm.org/10.1145/1088348.1088353
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/TereiMJM12
+  type: paper-conference
+  author:
+  - family: Terei
+    given: David
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Mazières
+    given: David
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Safe haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '137-148'
+  URL: http://doi.acm.org/10.1145/2364506.2364524
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/StewartC05
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: Don
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Dynamic applications from the ground up
+  container-title: Haskell
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1088348.1088352
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/Sabry03
+  type: paper-conference
+  author:
+  - family: Sabry
+    given: Amr
+  issued:
+  - year: '2003'
+  title: Modeling quantum computing in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '39-49'
+  URL: http://doi.acm.org/10.1145/871895.871900
+
+- id: conf/haskell/BlaEevic13
+  type: paper-conference
+  author:
+  - family: BlaEevic
+    given: Mario
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Adding structure to monoids: Thus hopefully ending haskell’s string type
+    confusion'
+  title-short: Adding structure to monoids
+  container-title: Haskell
+  publisher: ACM
+  page: '37-46'
+  URL: http://doi.acm.org/10.1145/2503778.2503785
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/DerrinEKCC06
+  type: paper-conference
+  author:
+  - family: Derrin
+    given: Philip
+  - family: Elphinstone
+    given: Kevin
+  - family: Klein
+    given: Gerwin
+  - family: Cock
+    given: David
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: 'Running the manual: An approach to high-assurance microkernel development'
+  title-short: Running the manual
+  container-title: Haskell
+  publisher: ACM
+  page: '60-71'
+  URL: http://doi.acm.org/10.1145/1159842.1159850
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/LindleyM13
+  type: paper-conference
+  author:
+  - family: Lindley
+    given: Sam
+  - family: McBride
+    given: Conor
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Hasochism: The pleasure and pain of dependently typed haskell programming'
+  title-short: Hasochism
+  container-title: Haskell
+  publisher: ACM
+  page: '81-92'
+  URL: http://doi.acm.org/10.1145/2503778.2503786
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/MarlowJT04
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Thaller
+    given: Wolfgang
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Extending the haskell foreign function interface with concurrency
+  container-title: Haskell
+  publisher: ACM
+  page: '22-32'
+  URL: http://doi.acm.org/10.1145/1017472.1017479
+
+- id: conf/haskell/Morris10
+  type: paper-conference
+  author:
+  - family: Morris
+    given: J. Garrett
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Experience report: Using hackage to inform language design'
+  title-short: Experience report
+  container-title: Haskell
+  publisher: ACM
+  page: '61-66'
+  URL: http://doi.acm.org/10.1145/1863523.1863531
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/BirdGMVS13
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Richard S.
+  - family: Gibbons
+    given: Jeremy
+  - family: Mehner
+    given: Stefan
+  - family: Voigtländer
+    given: Janis
+  - family: Schrijvers
+    given: Tom
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Understanding idiomatic traversals backwards and forwards
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/2503778.2503781
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/2006
+  type: book
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Proceedings of the aCM sIGPLAN workshop on haskell, haskell 2006, portland,
+    oregon, uSA, september 17, 2006
+  publisher: ACM
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Mainland07
+  type: paper-conference
+  author:
+  - family: Mainland
+    given: Geoffrey
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: 'Why it’s nice to be quoted: Quasiquoting for haskell'
+  title-short: Why it’s nice to be quoted
+  container-title: Haskell
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/1291201.1291211
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/OkabeM14
+  type: paper-conference
+  author:
+  - family: Okabe
+    given: Kiwamu
+  - family: Muranushi
+    given: Takayuki
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'Systems demonstration: Writing netBSD sound drivers in haskell'
+  title-short: Systems demonstration
+  container-title: Haskell
+  publisher: ACM
+  page: '77-78'
+  URL: http://doi.acm.org/10.1145/2633357.2633370
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/AllwoodE08
+  type: paper-conference
+  author:
+  - family: Allwood
+    given: Tristan O. R.
+  - family: Eisenbach
+    given: Susan
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Clase: Cursor library for a structured editor'
+  title-short: Clase
+  container-title: Haskell
+  publisher: ACM
+  page: '123-124'
+  URL: http://doi.acm.org/10.1145/1411286.1411302
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/WortmannD13
+  type: paper-conference
+  author:
+  - family: Wortmann
+    given: Peter M.
+  - family: Duke
+    given: David J.
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Causality of optimized haskell: What is burning our cycles?'
+  title-short: Causality of optimized haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '141-152'
+  URL: http://doi.acm.org/10.1145/2503778.2503788
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/BernardyP13
+  type: paper-conference
+  author:
+  - family: Bernardy
+    given: Jean-Philippe
+  - family: Pouillard
+    given: Nicolas
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Names for free: Polymorphic views of names and binders'
+  title-short: Names for free
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/2503778.2503780
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/OrchardP14
+  type: paper-conference
+  author:
+  - family: Orchard
+    given: Dominic A.
+  - family: Petricek
+    given: Tomas
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Embedding effect systems in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/2633357.2633368
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/Faxen03
+  type: paper-conference
+  author:
+  - family: Faxén
+    given: Karl-Filip
+  issued:
+  - year: '2003'
+  title: Haskell and principal types
+  container-title: Haskell
+  publisher: ACM
+  page: '88-97'
+  URL: http://doi.acm.org/10.1145/871895.871905
+
+- id: conf/haskell/KellerCLLJ12
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Gabriele
+  - family: Chakravarty
+    given: Manuel M. T.
+  - family: Leshchinskiy
+    given: Roman
+  - family: Lippmeier
+    given: Ben
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Vectorisation avoidance
+  container-title: Haskell
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/2364506.2364512
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/KiselyovI15
+  type: paper-conference
+  author:
+  - family: Kiselyov
+    given: Oleg
+  - family: Ishii
+    given: Hiromi
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Freer monads, more extensible effects
+  container-title: Haskell
+  publisher: ACM
+  page: '94-105'
+  URL: http://doi.acm.org/10.1145/2804302.2804319
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/McDonellCGN15
+  type: paper-conference
+  author:
+  - family: McDonell
+    given: Trevor L.
+  - family: Chakravarty
+    given: Manuel M. T.
+  - family: Grover
+    given: Vinod
+  - family: Newton
+    given: Ryan R.
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'Type-safe runtime code generation: Accelerate to lLVM'
+  title-short: Type-safe runtime code generation
+  container-title: Haskell
+  publisher: ACM
+  page: '201-212'
+  URL: http://doi.acm.org/10.1145/2804302.2804313
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/MitchellR09
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Neil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: 'Losing functions without gaining data: Another look at defunctionalisation'
+  title-short: Losing functions without gaining data
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1596638.1596641
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/BorgstromBG09
+  type: paper-conference
+  author:
+  - family: Borgström
+    given: Johannes
+  - family: Bhargavan
+    given: Karthikeyan
+  - family: Gordon
+    given: Andrew D.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: A compositional theory for sTM haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '69-80'
+  URL: http://doi.acm.org/10.1145/1596638.1596648
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/2007
+  type: book
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Proceedings of the aCM sIGPLAN workshop on haskell, haskell 2007, freiburg,
+    germany, september 30, 2007
+  publisher: ACM
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/EisenbergS14
+  type: paper-conference
+  author:
+  - family: Eisenberg
+    given: Richard A.
+  - family: Stolarek
+    given: Jan
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Promoting functions to type families in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '95-106'
+  URL: http://doi.acm.org/10.1145/2633357.2633361
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/SchrageIG05
+  type: paper-conference
+  author:
+  - family: Schrage
+    given: Martijn M.
+  - family: IJzendoorn
+    given: Arjan
+    dropping-particle: van
+  - family: Gaag
+    given: Linda C.
+    dropping-particle: van der
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Haskell ready to dazzle the real world
+  container-title: Haskell
+  publisher: ACM
+  page: '17-26'
+  URL: http://doi.acm.org/10.1145/1088348.1088351
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/LeijenFB11
+  type: paper-conference
+  author:
+  - family: Leijen
+    given: Daan
+  - family: Fähndrich
+    given: Manuel
+  - family: Burckhardt
+    given: Sebastian
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: 'Prettier concurrency: Purely functional concurrent revisions'
+  title-short: Prettier concurrency
+  container-title: Haskell
+  publisher: ACM
+  page: '83-94'
+  URL: http://doi.acm.org/10.1145/2034675.2034686
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/Sheard05
+  type: paper-conference
+  author:
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Putting curry-howard to work
+  container-title: Haskell
+  publisher: ACM
+  page: '74-85'
+  URL: http://doi.acm.org/10.1145/1088348.1088356
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/Ploeg13
+  type: paper-conference
+  author:
+  - family: Ploeg
+    given: Atze
+    dropping-particle: van der
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Monadic functional reactive programming
+  container-title: Haskell
+  publisher: ACM
+  page: '117-128'
+  URL: http://doi.acm.org/10.1145/2503778.2503783
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/DuregardJW12
+  type: paper-conference
+  author:
+  - family: Duregård
+    given: Jonas
+  - family: Jansson
+    given: Patrik
+  - family: Wang
+    given: Meng
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Feat: Functional enumeration of algebraic types'
+  title-short: Feat
+  container-title: Haskell
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/2364506.2364515
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/Xu06
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Dana N.
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Extended static checking for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '48-59'
+  URL: http://doi.acm.org/10.1145/1159842.1159849
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/Leslie-Hurd13
+  type: paper-conference
+  author:
+  - family: Leslie-Hurd
+    given: Joe
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Maintaining verified software
+  container-title: Haskell
+  publisher: ACM
+  page: '71-80'
+  URL: http://doi.acm.org/10.1145/2503778.2503787
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/Bernardy09
+  type: paper-conference
+  author:
+  - family: Bernardy
+    given: Jean-Philippe
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Lazy functional incremental parsing
+  container-title: Haskell
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1596638.1596645
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/StefanRMM11
+  type: paper-conference
+  author:
+  - family: Stefan
+    given: Deian
+  - family: Russo
+    given: Alejandro
+  - family: Mitchell
+    given: John C.
+  - family: Mazières
+    given: David
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Flexible dynamic information flow control in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '95-106'
+  URL: http://doi.acm.org/10.1145/2034675.2034688
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/Jones06
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Isaac
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Haskell’ status report
+  container-title: Haskell
+  publisher: ACM
+  page: '122'
+  URL: http://doi.acm.org/10.1145/1159842.1159860
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/PucellaT08
+  type: paper-conference
+  author:
+  - family: Pucella
+    given: Riccardo
+  - family: Tov
+    given: Jesse A.
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Haskell session types with (almost) no class
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1411286.1411290
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/LippmeierCKR13
+  type: paper-conference
+  author:
+  - family: Lippmeier
+    given: Ben
+  - family: Chakravarty
+    given: Manuel M. T.
+  - family: Keller
+    given: Gabriele
+  - family: Robinson
+    given: Amos
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Data flow fusion with series expressions in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '93-104'
+  URL: http://doi.acm.org/10.1145/2503778.2503782
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/HarrisMJ05
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Tim Harris
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Haskell on a shared-memory multiprocessor
+  container-title: Haskell
+  publisher: ACM
+  page: '49-61'
+  URL: http://doi.acm.org/10.1145/1088348.1088354
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/EkbladC14
+  type: paper-conference
+  author:
+  - family: Ekblad
+    given: Anton
+  - family: Claessen
+    given: Koen
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: A seamless, client-centric programming model for type safe web applications
+  container-title: Haskell
+  publisher: ACM
+  page: '79-89'
+  URL: http://doi.acm.org/10.1145/2633357.2633367
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/MainlandM10
+  type: paper-conference
+  author:
+  - family: Mainland
+    given: Geoffrey
+  - family: Morrisett
+    given: Greg
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Nikola: Embedding compiled gPU functions in haskell'
+  title-short: Nikola
+  container-title: Haskell
+  publisher: ACM
+  page: '67-78'
+  URL: http://doi.acm.org/10.1145/1863523.1863533
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/EnnalsJ03
+  type: paper-conference
+  author:
+  - family: Ennals
+    given: Robert
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '2003'
+  title: 'HsDebug: Debugging lazy programs by not being lazy'
+  title-short: HsDebug
+  container-title: Haskell
+  publisher: ACM
+  page: '84-87'
+  URL: http://doi.acm.org/10.1145/871895.871904
+
+- id: conf/haskell/Thiemann06
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: User-level transactional programming in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '84-95'
+  URL: http://doi.acm.org/10.1145/1159842.1159853
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/ForsbergR04
+  type: paper-conference
+  author:
+  - family: Forsberg
+    given: Markus
+  - family: Ranta
+    given: Aarne
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: BNF converter
+  container-title: Haskell
+  publisher: ACM
+  page: '94-95'
+  URL: http://doi.acm.org/10.1145/1017472.1017475
+
+- id: conf/haskell/Weirich09
+  type: paper-conference
+  author:
+  - family: Weirich
+    given: Stephanie
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Haskell symposium program chair’s report
+  container-title: Haskell
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/1596638.1667734
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/DuregardJ11
+  type: paper-conference
+  author:
+  - family: Duregård
+    given: Jonas
+  - family: Jansson
+    given: Patrik
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Embedded parser generators
+  container-title: Haskell
+  publisher: ACM
+  page: '107-117'
+  URL: http://doi.acm.org/10.1145/2034675.2034689
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/OliveiraG05
+  type: paper-conference
+  author:
+  - family: S. Oliveira
+    given: Bruno C.
+    dropping-particle: d.
+  - family: Gibbons
+    given: Jeremy
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: 'TypeCase: A design pattern for type-indexed functions'
+  title-short: TypeCase
+  container-title: Haskell
+  publisher: ACM
+  page: '98-109'
+  URL: http://doi.acm.org/10.1145/1088348.1088358
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/KariotisPH08
+  type: paper-conference
+  author:
+  - family: Kariotis
+    given: Pericles S.
+  - family: Procter
+    given: Adam M.
+  - family: Harrison
+    given: William L.
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Making monads first-class with template haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '99-110'
+  URL: http://doi.acm.org/10.1145/1411286.1411300
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/Claessen12
+  type: paper-conference
+  author:
+  - family: Claessen
+    given: Koen
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Shrinking and showing functions: (Functional pearl)'
+  title-short: Shrinking and showing functions
+  container-title: Haskell
+  publisher: ACM
+  page: '73-80'
+  URL: http://doi.acm.org/10.1145/2364506.2364516
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/SerranoHB15
+  type: paper-conference
+  author:
+  - family: Serrano
+    given: Alejandro
+  - family: Hage
+    given: Jurriaan
+  - family: Bahr
+    given: Patrick
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Type families with class, type classes with family
+  container-title: Haskell
+  publisher: ACM
+  page: '129-140'
+  URL: http://doi.acm.org/10.1145/2804302.2804304
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/Yorgey12
+  type: paper-conference
+  author:
+  - family: Yorgey
+    given: Brent A.
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Monoids: Theme and variations (functional pearl)'
+  title-short: Monoids
+  container-title: Haskell
+  publisher: ACM
+  page: '105-116'
+  URL: http://doi.acm.org/10.1145/2364506.2364520
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/JeuringJA12
+  type: paper-conference
+  author:
+  - family: Jeuring
+    given: Johan
+  - family: Jansson
+    given: Patrik
+  - family: Amaral
+    given: Cláudio
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Testing type class laws
+  container-title: Haskell
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/2364506.2364514
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/GillR07
+  type: paper-conference
+  author:
+  - family: Gill
+    given: Andy
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Haskell program coverage
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1291201.1291203
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/PerezN15
+  type: paper-conference
+  author:
+  - family: Perez
+    given: Ivan
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Bridging the gUI gap with reactive values and relations
+  container-title: Haskell
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/2804302.2804316
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/VoellmyWHY13
+  type: paper-conference
+  author:
+  - family: Voellmy
+    given: Andreas
+  - family: Wang
+    given: Junchang
+  - family: Hudak
+    given: Paul
+  - family: Yamamoto
+    given: Kazuhiko
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Mio: A high-performance multicore io manager for gHC'
+  title-short: Mio
+  container-title: Haskell
+  publisher: ACM
+  page: '129-140'
+  URL: http://doi.acm.org/10.1145/2503778.2503790
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/VieraSL08
+  type: paper-conference
+  author:
+  - family: Viera
+    given: Marcos
+  - family: Swierstra
+    given: S. Doaitse
+  - family: Lempsink
+    given: Eelco
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Haskell, do you read me?: Constructing and composing efficient top-down
+    parsers at runtime'
+  title-short: Haskell, do you read me?
+  container-title: Haskell
+  publisher: ACM
+  page: '63-74'
+  URL: http://doi.acm.org/10.1145/1411286.1411296
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/Bird05
+  type: paper-conference
+  author:
+  - family: Bird
+    given: Richard S.
+  editor:
+  - family: Leijen
+    given: Daan
+  issued:
+  - year: '2005'
+  title: Polymorphic string matching
+  container-title: Haskell
+  publisher: ACM
+  page: '110-115'
+  URL: http://doi.acm.org/10.1145/1088348.1088359
+  ISBN: 1-59593-071-X
+
+- id: conf/haskell/2013
+  type: book
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Proceedings of the 2013 aCM sIGPLAN symposium on haskell, boston, mA, uSA,
+    september 23-24, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2503778
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/BaarsS04
+  type: paper-conference
+  author:
+  - family: Baars
+    given: Arthur I.
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Type-safe, self inspecting code
+  container-title: Haskell
+  publisher: ACM
+  page: '69-79'
+  URL: http://doi.acm.org/10.1145/1017472.1017485
+
+- id: conf/haskell/StefanLRM14
+  type: paper-conference
+  author:
+  - family: Stefan
+    given: Deian
+  - family: Levy
+    given: Amit
+  - family: Russo
+    given: Alejandro
+  - family: Mazières
+    given: David
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Building secure systems with lIO (demo)
+  container-title: Haskell
+  publisher: ACM
+  page: '93-94'
+  URL: http://doi.acm.org/10.1145/2633357.2633371
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/MagalhaesDJL10
+  type: paper-conference
+  author:
+  - family: Magalhães
+    given: José Pedro
+  - family: Dijkstra
+    given: Atze
+  - family: Jeuring
+    given: Johan
+  - family: Löh
+    given: Andres
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: A generic deriving mechanism for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/1863523.1863529
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/VazouSJ14
+  type: paper-conference
+  author:
+  - family: Vazou
+    given: Niki
+  - family: Seidel
+    given: Eric L.
+  - family: Jhala
+    given: Ranjit
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: 'LiquidHaskell: Experience with refinement types in the real world'
+  title-short: LiquidHaskell
+  container-title: Haskell
+  publisher: ACM
+  page: '39-51'
+  URL: http://doi.acm.org/10.1145/2633357.2633366
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/JonesMS09
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Don Jones
+  - family: Marlow
+    given: Simon
+  - family: Singh
+    given: Satnam
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Parallel performance tuning for haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '81-92'
+  URL: http://doi.acm.org/10.1145/1596638.1596649
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/Winograd-CortH12
+  type: paper-conference
+  author:
+  - family: Winograd-Cort
+    given: Daniel
+  - family: Hudak
+    given: Paul
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Wormholes: Introducing effects to fRP'
+  title-short: Wormholes
+  container-title: Haskell
+  publisher: ACM
+  page: '91-104'
+  URL: http://doi.acm.org/10.1145/2364506.2364519
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/2014
+  type: book
+  editor:
+  - family: Swierstra
+    given: Wouter
+  issued:
+  - year: '2014'
+  title: Proceedings of the 2014 aCM sIGPLAN symposium on haskell, gothenburg, sweden,
+    september 4-5, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2633357
+  ISBN: '978-1-4503-3041-1'
+
+- id: conf/haskell/JonesW07
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Comprehensive comprehensions
+  container-title: Haskell
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/1291201.1291209
+  ISBN: '978-1-59593-674-5'
+
+- id: conf/haskell/Foner15
+  type: paper-conference
+  author:
+  - family: Foner
+    given: Kenneth
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'Functional pearl: Getting a quick fix on comonads'
+  title-short: Functional pearl
+  container-title: Haskell
+  publisher: ACM
+  page: '106-117'
+  URL: http://doi.acm.org/10.1145/2804302.2804310
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/2015
+  type: book
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: Proceedings of the 8th aCM sIGPLAN symposium on haskell, haskell 2015, vancouver,
+    bC, canada, september 3-4, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2804302
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/PetricekMS11
+  type: paper-conference
+  author:
+  - family: Petricek
+    given: Tomas
+  - family: Mycroft
+    given: Alan
+  - family: Syme
+    given: Don
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Extending monads with pattern matching
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2034675.2034677
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/Gundry15
+  type: paper-conference
+  author:
+  - family: Gundry
+    given: Adam
+  editor:
+  - family: Lippmeier
+    given: Ben
+  issued:
+  - year: '2015'
+  title: 'A typechecker plugin for units of measure: Domain-specific constraint
+    solving in gHC haskell'
+  title-short: A typechecker plugin for units of measure
+  container-title: Haskell
+  publisher: ACM
+  page: '11-22'
+  URL: http://doi.acm.org/10.1145/2804302.2804305
+  ISBN: '978-1-4503-3808-0'
+
+- id: conf/haskell/AdamsD12
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Michael D.
+  - family: DuBuisson
+    given: Thomas
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: 'Template your boilerplate: Using template haskell for efficient generic
+    programming'
+  title-short: Template your boilerplate
+  container-title: Haskell
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/2364506.2364509
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/RamseyDJ10
+  type: paper-conference
+  author:
+  - family: Ramsey
+    given: Norman
+  - family: Dias
+    given: João
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: 'Hoopl: A modular, reusable library for dataflow analysis and transformation'
+  title-short: Hoopl
+  container-title: Haskell
+  publisher: ACM
+  page: '121-134'
+  URL: http://doi.acm.org/10.1145/1863523.1863539
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/2010
+  type: book
+  editor:
+  - family: Gibbons
+    given: Jeremy
+  issued:
+  - year: '2010'
+  title: Proceedings of the 3rd aCM sIGPLAN symposium on haskell, haskell 2010, baltimore,
+    mD, uSA, 30 september 2010
+  publisher: ACM
+  ISBN: '978-1-4503-0252-4'
+
+- id: conf/haskell/Eaton06
+  type: paper-conference
+  author:
+  - family: Eaton
+    given: Frederik
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Statically typed linear algebra in haskell
+  container-title: Haskell
+  publisher: ACM
+  page: '120-121'
+  URL: http://doi.acm.org/10.1145/1159842.1159859
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/BrownS09
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Neil C. C.
+  - family: Sampson
+    given: Adam T.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: 'Alloy: Fast generic transformations for haskell'
+  title-short: Alloy
+  container-title: Haskell
+  publisher: ACM
+  page: '105-116'
+  URL: http://doi.acm.org/10.1145/1596638.1596652
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/BolingbrokeJ09
+  type: paper-conference
+  author:
+  - family: Bolingbroke
+    given: Maximilian C.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2009'
+  title: Types are calling conventions
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1596638.1596640
+  ISBN: '978-1-60558-508-6'
+
+- id: conf/haskell/RuncimanNL08
+  type: paper-conference
+  author:
+  - family: Runciman
+    given: Colin
+  - family: Naylor
+    given: Matthew
+  - family: Lindblad
+    given: Fredrik
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: 'Smallcheck and lazy smallcheck: Automatic exhaustive testing for small
+    values'
+  title-short: Smallcheck and lazy smallcheck
+  container-title: Haskell
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/1411286.1411292
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/KiselyovSS13
+  type: paper-conference
+  author:
+  - family: Kiselyov
+    given: Oleg
+  - family: Sabry
+    given: Amr
+  - family: Swords
+    given: Cameron
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: 'Extensible effects: An alternative to monad transformers'
+  title-short: Extensible effects
+  container-title: Haskell
+  publisher: ACM
+  page: '59-70'
+  URL: http://doi.acm.org/10.1145/2503778.2503791
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/ClaessenP13
+  type: paper-conference
+  author:
+  - family: Claessen
+    given: Koen
+  - family: Palka
+    given: Michal H.
+  editor:
+  - family: Shan
+    given: Chung-chieh
+  issued:
+  - year: '2013'
+  title: Splittable pseudorandom number generators using cryptographic hashing
+  container-title: Haskell
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/2503778.2503784
+  ISBN: '978-1-4503-2383-3'
+
+- id: conf/haskell/BolingbrokeJV11
+  type: paper-conference
+  author:
+  - family: Bolingbroke
+    given: Maximilian C.
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Vytiniotis
+    given: Dimitrios
+  editor:
+  - family: Claessen
+    given: Koen
+  issued:
+  - year: '2011'
+  title: Termination combinators forever
+  container-title: Haskell
+  publisher: ACM
+  page: '23-34'
+  URL: http://doi.acm.org/10.1145/2034675.2034680
+  ISBN: '978-1-4503-0860-1'
+
+- id: conf/haskell/2004
+  type: book
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: Proceedings of the aCM sIGPLAN workshop on haskell, haskell 2004, snowbird,
+    uT, uSA, september 22-22, 2004
+  publisher: ACM
+
+- id: conf/haskell/McBrideM04
+  type: paper-conference
+  author:
+  - family: McBride
+    given: Conor
+  - family: McKinna
+    given: James
+  editor:
+  - family: Nilsson
+    given: Henrik
+  issued:
+  - year: '2004'
+  title: 'Functional pearl: I am not a number-i am a free variable'
+  title-short: Functional pearl
+  container-title: Haskell
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/1017472.1017477
+
+- id: conf/haskell/KiselyovS08
+  type: paper-conference
+  author:
+  - family: Kiselyov
+    given: Oleg
+  - family: Shan
+    given: Chung-chieh
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2008'
+  title: Lightweight monadic regions
+  container-title: Haskell
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1411286.1411288
+  ISBN: '978-1-60558-064-7'
+
+- id: conf/haskell/SilvaV06
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Alexandra Silva
+  - family: Visser
+    given: Joost
+  editor:
+  - family: Löh
+    given: Andres
+  issued:
+  - year: '2006'
+  title: Strong types for relational databases
+  container-title: Haskell
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1159842.1159846
+  ISBN: '1-59593-489-8'
+
+- id: conf/haskell/ErdwegRRO12
+  type: paper-conference
+  author:
+  - family: Erdweg
+    given: Sebastian
+  - family: Rieger
+    given: Felix
+  - family: Rendel
+    given: Tillmann
+  - family: Ostermann
+    given: Klaus
+  editor:
+  - family: Voigtländer
+    given: Janis
+  issued:
+  - year: '2012'
+  title: Layout-sensitive language extensibility with sugarHaskell
+  container-title: Haskell
+  publisher: ACM
+  page: '149-160'
+  URL: http://doi.acm.org/10.1145/2364506.2364526
+  ISBN: '978-1-4503-1574-6'
+
+- id: conf/haskell/LiMJT07
+  type: paper-conference
+  author:
+  - family: Li
+    given: Peng
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Tolmach
+    given: Andrew P.
+  editor:
+  - family: Keller
+    given: Gabriele
+  issued:
+  - year: '2007'
+  title: Lightweight concurrency primitives for gHC
+  container-title: Haskell
+  publisher: ACM
+  page: '107-118'
+  URL: http://doi.acm.org/10.1145/1291201.1291217
+  ISBN: '978-1-59593-674-5'
+...

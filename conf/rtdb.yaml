@@ -1,0 +1,971 @@
+---
+references:
+- id: conf/rtdb/DattaM01
+  type: paper-conference
+  author:
+  - family: Datta
+    given: Anindya
+  - family: Mukherjee
+    given: Sarit
+  issued:
+  - year: '2001'
+  title: Buffer management in real-time active database systems
+  container-title: Real-time database systems
+  page: '77-95'
+
+- id: conf/rtdb/SivasankaranRS01
+  type: paper-conference
+  author:
+  - family: Sivasankaran
+    given: Rajendran M.
+  - family: Ramamritham
+    given: Krithi
+  - family: Stankovic
+    given: John A.
+  issued:
+  - year: '2001'
+  title: System failure and recovery
+  container-title: Real-time database systems
+  page: '109-124'
+
+- id: conf/rtdb/GruenwaldC97
+  type: paper-conference
+  author:
+  - family: Gruenwald
+    given: Le
+  - family: Cheng
+    given: Shih Jen
+  issued:
+  - year: '1997'
+  title: A logging technique based on transaction types in real-time databases
+  container-title: RTDB
+  page: '379-'
+
+- id: conf/rtdb/AndersonJR97
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: James H.
+  - family: Jain
+    given: Rohit
+  - family: Ramamurthy
+    given: Srikanth
+  issued:
+  - year: '1997'
+  title: Implementing hard real-time transactions on multiprocessors
+  container-title: RTDB
+  page: '247-260'
+
+- id: conf/rtdb/BaruahB97
+  type: paper-conference
+  author:
+  - family: Baruah
+    given: Sanjoy K.
+  - family: Bestavros
+    given: Azer
+  issued:
+  - year: '1997'
+  title: Real-time mutable broadcast disks
+  container-title: RTDB
+  page: '3-22'
+
+- id: conf/rtdb/Locke01
+  type: paper-conference
+  author:
+  - family: Locke
+    given: C. Douglas
+  issued:
+  - year: '2001'
+  title: Applications and system characteristics
+  container-title: Real-time database systems
+  page: '17-26'
+
+- id: conf/rtdb/GinisHWTKM97
+  type: paper-conference
+  author:
+  - family: Ginis
+    given: Roman
+  - family: Hughes
+    given: Eric
+  - family: Wohlever
+    given: Steven
+  - family: Thuraisingham
+    given: Bhavani M.
+  - family: Krupp
+    given: Peter C.
+  - family: Maurer
+    given: John A.
+  issued:
+  - year: '1997'
+  title: Object-oriented data management and distribution for real-time command and
+    control systems
+  container-title: RTDB
+  page: '77-'
+
+- id: conf/rtdb/ByunWB96
+  type: paper-conference
+  author:
+  - family: Byun
+    given: Jeongyoujng
+  - family: Wellings
+    given: Andy J.
+  - family: Burns
+    given: Alan
+  issued:
+  - year: '1996'
+  title: A worst-case behavior analysis for hard real-time transactions
+  container-title: RTDB
+  page: '144-149'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/BWB.ps
+
+- id: conf/rtdb/KuoL01a
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Tei-Wei
+  - family: Lam
+    given: Kam-yiu
+  issued:
+  - year: '2001'
+  title: Conservative and optimistic protocols
+  container-title: Real-time database systems
+  page: '29-44'
+
+- id: conf/rtdb/VrbskyTJ97
+  type: paper-conference
+  author:
+  - family: Vrbsky
+    given: Susan V.
+  - family: Tomic
+    given: Sasa
+  - family: Jukic
+    given: Nenad
+  issued:
+  - year: '1997'
+  title: Concurrency control for approximate query processing of real-time database
+    systems
+  container-title: RTDB
+  page: '227-246'
+
+- id: conf/rtdb/TsengCY96
+  type: paper-conference
+  author:
+  - family: Tseng
+    given: Shin-Mu
+  - family: Chin
+    given: Yeh-Hao
+  - family: Yang
+    given: Wei-Pang
+  issued:
+  - year: '1996'
+  title: Scheduling value-based transactions in real-time main-memory databases
+  container-title: RTDB
+  page: '111-117'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/TCY.ps
+
+- id: conf/rtdb/SquadritoDW96
+  type: paper-conference
+  author:
+  - family: Squadrito
+    given: Michael
+  - family: DiPippo
+    given: Lisa Cingiser
+  - family: Wolfe
+    given: Victor Fay
+  issued:
+  - year: '1996'
+  title: Towards priority ceilings in object-based semantic real-time concurrency
+    control
+  container-title: RTDB
+  page: '122-129'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/SDW.ps
+
+- id: conf/rtdb/FalkenrothLT96
+  type: paper-conference
+  author:
+  - family: Falkenroth
+    given: Esa
+  - family: Loborg
+    given: Peter
+  - family: Törne
+    given: Anders
+  issued:
+  - year: '1996'
+  title: Databases in control and simulation
+  container-title: RTDB
+  page: '38-42'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/FLT.ps
+
+- id: conf/rtdb/JonesDW97
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Gregory
+  - family: DiPippo
+    given: Lisa Cingiser
+  - family: Wolfe
+    given: Victor Fay
+  issued:
+  - year: '1997'
+  title: 'Towards unifying database scheduling and concurrency control: A frontier
+    approach'
+  title-short: Towards unifying database scheduling and concurrency control
+  container-title: RTDB
+  page: '145-'
+
+- id: conf/rtdb/HanssonS01
+  type: paper-conference
+  author:
+  - family: Hansson
+    given: Jörgen
+  - family: Son
+    given: Sang Hyuk
+  issued:
+  - year: '2001'
+  title: Overload management in rTDBs
+  container-title: Real-time database systems
+  page: '125-139'
+
+- id: conf/rtdb/KuoO96
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Huang-Cheng
+  - family: Özsoyoglu
+    given: Gultekin
+  issued:
+  - year: '1996'
+  title: A framework for cooperative real-time transactions
+  container-title: RTDB
+  page: '118-121'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/KO.ps
+
+- id: conf/rtdb/Datta96
+  type: paper-conference
+  author:
+  - family: Datta
+    given: Anindya
+  issued:
+  - year: '1996'
+  title: 'Databases for active rapidly changing data systems (aRCS): Augmenting
+    real-time databases with temporal and active characteristics'
+  title-short: Databases for active rapidly changing data systems (aRCS)
+  container-title: RTDB
+  page: '7-13'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/datta.ps
+
+- id: conf/rtdb/YoonP97
+  type: paper-conference
+  author:
+  - family: Yoon
+    given: Inho
+  - family: Park
+    given: Seog
+  issued:
+  - year: '1997'
+  title: Enhancement of alternative version concurrency control using dynamic adjustment
+    of serialization order
+  container-title: RTDB
+  page: '207-226'
+
+- id: conf/rtdb/HuangG96
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Jing
+  - family: Gruenwald
+    given: Le
+  issued:
+  - year: '1996'
+  title: An update-frequency-valid-interval partition checkpoint technique for real-time
+    main memory databases
+  container-title: RTDB
+  page: '130-137'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/HG.ps
+
+- id: conf/rtdb/Padron-McCarthyR97
+  type: paper-conference
+  author:
+  - family: Padron-McCarthy
+    given: Thomas
+  - family: Risch
+    given: Tore
+  issued:
+  - year: '1997'
+  title: Optimizing performance-polymorphic declarative database queries
+  container-title: RTDB
+  page: '311-326'
+
+- id: conf/rtdb/HaritsaS01
+  type: paper-conference
+  author:
+  - family: Haritsa
+    given: Jayant R.
+  - family: Seshadri
+    given: S.
+  issued:
+  - year: '2001'
+  title: Real-time index concurrency control
+  container-title: Real-time database systems
+  page: '59-74'
+
+- id: conf/rtdb/KaoC01
+  type: paper-conference
+  author:
+  - family: Kao
+    given: Ben
+  - family: Cheng
+    given: Reynold
+  issued:
+  - year: '2001'
+  title: Disk scheduling
+  container-title: Real-time database systems
+  page: '97-107'
+
+- id: conf/rtdb/BestavrosN96
+  type: paper-conference
+  author:
+  - family: Bestavros
+    given: Azer
+  - family: Nagy
+    given: Sue
+  issued:
+  - year: '1996'
+  title: Value-cognizant admission control strategies for real-time dBMS
+  container-title: RTDB
+  page: '50-57'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/BN.ps
+
+- id: conf/rtdb/TayaraSYT97
+  type: paper-conference
+  author:
+  - family: Tayara
+    given: Malek
+  - family: Soparkar
+    given: Nandit
+  - family: Yook
+    given: John K.
+  - family: Tilbury
+    given: Dawn M.
+  issued:
+  - year: '1997'
+  title: Real-time data and coordination control for reconfigurable manufacturing
+    systems
+  container-title: RTDB
+  page: '23-48'
+
+- id: conf/rtdb/AgusleoS96
+  type: paper-conference
+  author:
+  - family: Agusleo
+    given: Henky
+  - family: Soparkar
+    given: Nandit
+  issued:
+  - year: '1996'
+  title: 'Logic-enhanced memory database: A simulation study'
+  title-short: Logic-enhanced memory database
+  container-title: RTDB
+  page: '66-71'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/AS.ps
+
+- id: conf/rtdb/MellinHA96
+  type: paper-conference
+  author:
+  - family: Mellin
+    given: Jonas
+  - family: Hansson
+    given: Jörgen
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '1996'
+  title: Refining design constraints from a system services model for a real-time
+    dBMS
+  container-title: RTDB
+  page: '79-86'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/MHA.ps
+
+- id: conf/rtdb/PengLN97
+  type: paper-conference
+  author:
+  - family: Peng
+    given: Ching-Shan
+  - family: Lin
+    given: Kwei-Jay
+  - family: Ng
+    given: Tony P.
+  issued:
+  - year: '1997'
+  title: A performance study of the semantic-based concurrency control protocol in
+    air traffic control systems
+  container-title: RTDB
+  page: '181-206'
+
+- id: conf/rtdb/AndersonRMJ96
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: James H.
+  - family: Ramamurthy
+    given: Srikanth
+  - family: Moir
+    given: Mark
+  - family: Jeffay
+    given: Kevin
+  issued:
+  - year: '1996'
+  title: Lock-free transactions for real-time systems
+  container-title: RTDB
+  page: '103-110'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/ARM.ps
+
+- id: conf/rtdb/NagyB97
+  type: paper-conference
+  author:
+  - family: Nagy
+    given: Sue
+  - family: Bestavros
+    given: Azer
+  issued:
+  - year: '1997'
+  title: Concurrency admission control for rT databases
+  container-title: RTDB
+  page: '261-'
+
+- id: conf/rtdb/LamK01
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Kam-yiu
+  - family: Kuo
+    given: Tei-Wei
+  issued:
+  - year: '2001'
+  title: Mobile distributed real-time database systems
+  container-title: Real-time database systems
+  page: '245-258'
+
+- id: conf/rtdb/DogduO97
+  type: paper-conference
+  author:
+  - family: Dogdu
+    given: Erdogan
+  - family: Özsoyoglu
+    given: Gultekin
+  issued:
+  - year: '1997'
+  title: Scheduling nested transactions in real-time database system
+  container-title: RTDB
+  page: '105-130'
+
+- id: conf/rtdb/ListgartenN96
+  type: paper-conference
+  author:
+  - family: Listgarten
+    given: Sherry
+  - family: Neimat
+    given: Marie-Anne
+  issued:
+  - year: '1996'
+  title: Modelling costs for a mM-dBMS
+  container-title: RTDB
+  page: '72-78'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/LM.ps
+
+- id: conf/rtdb/StokWASB96
+  type: paper-conference
+  author:
+  - family: Stok
+    given: P. D. V.
+    dropping-particle: van der
+  - family: Wal
+    given: J.
+    dropping-particle: van der
+  - family: Aerts
+    given: A. T. M.
+  - family: Sassen
+    given: S. A. E.
+  - family: Bodlaender
+    given: M. P.
+  issued:
+  - year: '1996'
+  title: Modelling and construction of real-time database schedulers
+  container-title: RTDB
+  page: '58-65'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/SWA.ps
+
+- id: conf/rtdb/AlbrechtZ97
+  type: paper-conference
+  author:
+  - family: Albrecht
+    given: Wolfgang
+  - family: Zöbel
+    given: Dieter
+  issued:
+  - year: '1997'
+  title: Integrating fixed priority and static scheduling for external consistency
+  container-title: RTDB
+  page: '89-104'
+
+- id: conf/rtdb/HaritsaRG01
+  type: paper-conference
+  author:
+  - family: Haritsa
+    given: Jayant R.
+  - family: Ramamritham
+    given: Krithi
+  - family: Gupta
+    given: Ramesh
+  issued:
+  - year: '2001'
+  title: Real-time commit processing
+  container-title: Real-time database systems
+  page: '227-243'
+
+- id: conf/rtdb/PengLB96
+  type: paper-conference
+  author:
+  - family: Peng
+    given: Ching-Shan
+  - family: Lin
+    given: Kwei-Jay
+  - family: Boettcher
+    given: Carolyn
+  issued:
+  - year: '1996'
+  title: Real-time database benchmark design for avionics systems
+  container-title: RTDB
+  page: '87-94'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/PLB.ps
+
+- id: conf/rtdb/TorbjornsenHK96
+  type: paper-conference
+  author:
+  - family: Torbjørnsen
+    given: Øystein
+  - family: Hvasshovd
+    given: Svein-Olaf
+  - family: Kim
+    given: Young-Kuk
+  issued:
+  - year: '1996'
+  title: Towards real-time performance in a scalable, continuously available telecom
+    dBMS
+  container-title: RTDB
+  page: '22-29'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/THK.ps
+
+- id: conf/rtdb/StankovicSL97
+  type: paper-conference
+  author:
+  - family: Stankovic
+    given: John A.
+  - family: Son
+    given: Sang Hyuk
+  - family: Liebeherr
+    given: Jörg
+  issued:
+  - year: '1997'
+  title: 'BeeHive: Global multimedia database support for dependable, real-time
+    applications'
+  title-short: BeeHive
+  container-title: RTDB
+  page: '409-422'
+
+- id: conf/rtdb/DattaVK97
+  type: paper-conference
+  author:
+  - family: Datta
+    given: Anindya
+  - family: Viguier
+    given: Igor R.
+  - family: Son
+    given: Sang Hyuk
+  - family: Kumar
+    given: Vijay
+  issued:
+  - year: '1997'
+  title: A study of priority cognizance in conflict resolution for firm real-time
+    database systems
+  container-title: RTDB
+  page: '167-180'
+
+- id: conf/rtdb/WolskiKP96
+  type: paper-conference
+  author:
+  - family: Wolski
+    given: Antoni
+  - family: Karvonen
+    given: Janne
+  - family: Puolakka
+    given: Anton
+  issued:
+  - year: '1996'
+  title: 'The rAPID case study: Requirements for and the design of a fast-response
+    database system'
+  title-short: The rAPID case study
+  container-title: RTDB
+  page: '30-37'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/WKP.ps
+
+- id: conf/rtdb/KaoLA01
+  type: paper-conference
+  author:
+  - family: Kao
+    given: Ben
+  - family: Lam
+    given: Kam-yiu
+  - family: Adelberg
+    given: Brad
+  issued:
+  - year: '2001'
+  title: Updates and view maintenance
+  container-title: Real-time database systems
+  page: '185-202'
+
+- id: conf/rtdb/BrandingB96
+  type: paper-conference
+  author:
+  - family: Branding
+    given: Holger
+  - family: Buchmann
+    given: Alejandro P.
+  issued:
+  - year: '1996'
+  title: Unbundling rTDBMS functionality to support wWW-applications
+  container-title: RTDB
+  page: '43-45'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/BB.ps
+
+- id: conf/rtdb/WangTCHK97
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yu-Chung
+  - family: Tsao
+    given: Shiao-Li
+  - family: Chen
+    given: Meng Chang
+  - family: Ho
+    given: Jan-Ming
+  - family: Ko
+    given: Ming-Tat
+  issued:
+  - year: '1997'
+  title: File layout design of vBR video on zoned-disks
+  container-title: RTDB
+  page: '49-62'
+
+- id: conf/rtdb/XiongR97
+  type: paper-conference
+  author:
+  - family: Xiong
+    given: Ming
+  - family: Ramamritham
+    given: Krithi
+  issued:
+  - year: '1997'
+  title: Specification and analysis of transactions in real-time active databases
+  container-title: RTDB
+  page: '327-'
+
+- id: conf/rtdb/GriffinHKLZ97
+  type: paper-conference
+  author:
+  - family: Griffin
+    given: Timothy
+  - family: Hull
+    given: Richard
+  - family: Kumar
+    given: Bharat
+  - family: Lieuwen
+    given: Daniel F.
+  - family: Zhou
+    given: Gang
+  issued:
+  - year: '1997'
+  title: A framework for using redundant data to optimize read-intensive database
+    applications
+  container-title: RTDB
+  page: '63-76'
+
+- id: conf/rtdb/XiongSRTS96
+  type: paper-conference
+  author:
+  - family: Xiong
+    given: Ming
+  - family: Stankovic
+    given: John A.
+  - family: Ramamritham
+    given: Krithi
+  - family: Towsley
+    given: Donald F.
+  - family: Sivasankaran
+    given: Rajendran M.
+  issued:
+  - year: '1996'
+  title: 'Maintaining temporal consistency: Issues and algorithms'
+  title-short: Maintaining temporal consistency
+  container-title: RTDB
+  page: '1-6'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/XSR.ps
+
+- id: conf/rtdb/Ulusoy01
+  type: paper-conference
+  author:
+  - family: Ulusoy
+    given: Özgür
+  issued:
+  - year: '2001'
+  title: Distributed concurrency control
+  container-title: Real-time database systems
+  page: '205-215'
+
+- id: conf/rtdb/HaritsaG01
+  type: paper-conference
+  author:
+  - family: Haritsa
+    given: Jayant R.
+  - family: George
+    given: Binto
+  issued:
+  - year: '2001'
+  title: Secure real-time transaction processing
+  container-title: Real-time database systems
+  page: '141-157'
+
+- id: conf/rtdb/MellinEA01
+  type: paper-conference
+  author:
+  - family: Mellin
+    given: Jonas
+  - family: Eriksson
+    given: Joakim
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '2001'
+  title: Reactive mechanisms
+  container-title: Real-time database systems
+  page: '171-184'
+
+- id: conf/rtdb/LamLL97
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Kam-yiu
+  - family: Law
+    given: Gary C. K.
+  - family: Lee
+    given: Victor C. S.
+  issued:
+  - year: '1997'
+  title: Data state dependent approach for criticality assignment in real-time active
+    databases
+  container-title: RTDB
+  page: '131-144'
+
+- id: conf/rtdb/Ulusoy01a
+  type: paper-conference
+  author:
+  - family: Ulusoy
+    given: Özgür
+  issued:
+  - year: '2001'
+  title: Data replication and availability
+  container-title: Real-time database systems
+  page: '217-225'
+
+- id: conf/rtdb/PrichardF97
+  type: paper-conference
+  author:
+  - family: Prichard
+    given: Janet J.
+  - family: Fortier
+    given: Paul J.
+  issued:
+  - year: '1997'
+  title: Standardizing real-time sQL
+  container-title: RTDB
+  page: '289-310'
+
+- id: conf/rtdb/StankovicSH01
+  type: paper-conference
+  author:
+  - family: Stankovic
+    given: John A.
+  - family: Son
+    given: Sang Hyuk
+  - family: Hansson
+    given: Jörgen
+  issued:
+  - year: '2001'
+  title: Misconceptions about real-time databases
+  container-title: Real-time database systems
+  page: '9-16'
+
+- id: conf/rtdb/KanitkarD97
+  type: paper-conference
+  author:
+  - family: Kanitkar
+    given: Vinay
+  - family: Delis
+    given: Alex
+  issued:
+  - year: '1997'
+  title: A case for real-time client-server databases
+  container-title: RTDB
+  page: '395-408'
+
+- id: conf/rtdb/Padron-McCarthyR96
+  type: paper-conference
+  author:
+  - family: Padron-McCarthy
+    given: Thomas
+  - family: Risch
+    given: Tore
+  issued:
+  - year: '1996'
+  title: Performance-polymorphic execution of real-time queries
+  container-title: RTDB
+  page: '46-49'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/PR.ps
+
+- id: conf/rtdb/KiviniemiNPR97
+  type: paper-conference
+  author:
+  - family: Kiviniemi
+    given: Jukka
+  - family: Niklander
+    given: Tiina
+  - family: Porkka
+    given: Pasi
+  - family: Raatikainen
+    given: Kimmo E. E.
+  issued:
+  - year: '1997'
+  title: Transaction processing in the rODAIN real-time database system
+  container-title: RTDB
+  page: '355-378'
+
+- id: conf/rtdb/ZhouSRS96
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Lei
+  - family: Shin
+    given: Kang G.
+  - family: Rundensteiner
+    given: Elke A.
+  - family: Soparkar
+    given: Nandit
+  issued:
+  - year: '1996'
+  title: Probabilistic real-time data access with interval constraints
+  container-title: RTDB
+  page: '14-21'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/ZSR.ps
+
+- id: conf/rtdb/KuoL01b
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Tei-Wei
+  - family: Lam
+    given: Kam-yiu
+  issued:
+  - year: '2001'
+  title: Future directions
+  container-title: Real-time database systems
+  page: '279-285'
+
+- id: conf/rtdb/HanssonA01
+  type: paper-conference
+  author:
+  - family: Hansson
+    given: Jörgen
+  - family: Andler
+    given: Sten
+  issued:
+  - year: '2001'
+  title: System framework of aRTDBs
+  container-title: Real-time database systems
+  page: '161-169'
+
+- id: conf/rtdb/LeeLKLH96
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Victor C. S.
+  - family: Lam
+    given: Kam-yiu
+  - family: Kao
+    given: Ben
+  - family: Lam
+    given: Kwok-Wa
+  - family: Hung
+    given: Sheung-lun
+  issued:
+  - year: '1996'
+  title: Priority assignment for sub-transaction in distributed real-time databases
+  container-title: RTDB
+  page: '95-102'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/LLK.ps
+
+- id: conf/rtdb/HongCJ96
+  type: paper-conference
+  author:
+  - family: Hong
+    given: D.
+  - family: Chakravarthy
+    given: Sharma
+  - family: Johnson
+    given: Theodore
+  issued:
+  - year: '1996'
+  title: Locking based concurrency control for integrated real-time database systems
+  container-title: RTDB
+  page: '138-143'
+  URL: http://www.eng.uci.edu/faculty/klin/rtdb/HSJ.ps
+
+- id: conf/rtdb/KuoL01
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Tei-Wei
+  - family: Lam
+    given: Kam-yiu
+  issued:
+  - year: '2001'
+  title: 'Real-time database systems: An overview of system characteristics and
+    issues'
+  title-short: Real-time database systems
+  container-title: Real-time database systems
+  page: '3-8'
+
+- id: conf/rtdb/AdelbergK01
+  type: paper-conference
+  author:
+  - family: Adelberg
+    given: Brad
+  - family: Kao
+    given: Ben
+  issued:
+  - year: '2001'
+  title: 'Prototypes: Programmed stock trading'
+  title-short: Prototypes
+  container-title: Real-time database systems
+  page: '261-277'
+
+- id: conf/rtdb/Kuo01
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Tei-Wei
+  issued:
+  - year: '2001'
+  title: Semantics-based concurrency control
+  container-title: Real-time database systems
+  page: '45-57'
+...

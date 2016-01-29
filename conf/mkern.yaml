@@ -1,0 +1,557 @@
+---
+references:
+- id: conf/mkern/OkamotoSSNMS92
+  type: paper-conference
+  author:
+  - family: Okamoto
+    given: Toshio
+  - family: Segawa
+    given: Hiaeo
+  - family: Shin
+    given: Sung Ho
+  - family: Nozue
+    given: Hiroshi
+  - family: Maeda
+    given: Ken-ichi
+  - family: Saito
+    given: Mitsuo
+  issued:
+  - year: '1992'
+  title: A micro-kernel architecture for next generation processor
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '83-94'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Presotto92
+  type: paper-conference
+  author:
+  - family: Presotto
+    given: David L.
+  issued:
+  - year: '1992'
+  title: Plan 9
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '31-38'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/WalpoleIK92
+  type: paper-conference
+  author:
+  - family: Walpole
+    given: Jonathan
+  - family: Inouye
+    given: Jon
+  - family: Konuru
+    given: Ravindranath
+  issued:
+  - year: '1992'
+  title: 'Modularity and interfaces in micro-kernel design and implementation: A
+    case study of chorus on the hP pA-risc'
+  title-short: Modularity and interfaces in micro-kernel design and implementation
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '71-82'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/DeanA92
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Randall W.
+  - family: Armand
+    given: François
+  issued:
+  - year: '1992'
+  title: Data movement in kernelized systems
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '243-262'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Bershad92
+  type: paper-conference
+  author:
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1992'
+  title: The increasing irrelevance of iPC performance for micro-kernel-based operating
+    systems
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '205-212'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/BatlivalaGHLPSA92
+  type: paper-conference
+  author:
+  - family: Batlivala
+    given: Nariman
+  - family: Gleeson
+    given: Barry
+  - family: Hamrick
+    given: James R.
+  - family: Lurndal
+    given: Scott
+  - family: Price
+    given: Darren
+  - family: Soddy
+    given: James
+  - family: Abrossimov
+    given: Vadim
+  issued:
+  - year: '1992'
+  title: Experience with sVR4 over chorus
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '223-242'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/StummUK92
+  type: paper-conference
+  author:
+  - family: Stumm
+    given: Michael
+  - family: Unrau
+    given: Ronald C.
+  - family: Krieger
+    given: Orran
+  issued:
+  - year: '1992'
+  title: Designing a scalable operating system for shared memory multiprocessors
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '285-303'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Renesse92
+  type: paper-conference
+  author:
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  issued:
+  - year: '1992'
+  title: Amoeba
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '1-10'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/1993
+  type: book
+  issued:
+  - year: '1993'
+  title: USENIX microkernels and other kernel architectures symposium, september 20-23,
+    1993, san diego, california, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A264
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/SchullerHK92
+  type: paper-conference
+  author:
+  - family: Schüller
+    given: P.
+  - family: Härtig
+    given: Hermann
+  - family: Kühnhauser
+    given: Winfried E.
+  issued:
+  - year: '1992'
+  title: Performance of the birLiX operating system
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '147-160'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/KitayamaTN93
+  type: paper-conference
+  author:
+  - family: Kitayama
+    given: Takuro
+  - family: Tokuda
+    given: Hideyuki
+  - family: Nakajima
+    given: Tatsuo
+  issued:
+  - year: '1993'
+  title: 'RT-iPC: An iPC extension for real-time mach'
+  title-short: RT-iPC
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '91-104'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/kitayama.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/KhalidiN93
+  type: paper-conference
+  author:
+  - family: Khalidi
+    given: Yousef Y. A.
+  - family: Nelson
+    given: Michael N.
+  issued:
+  - year: '1993'
+  title: A flexible external paging interface
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '127-140'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/khalidi.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/FinlaysonHG93
+  type: paper-conference
+  author:
+  - family: Finlayson
+    given: Ross S.
+  - family: Honnecke
+    given: Mark D.
+  - family: Goldberg
+    given: Steven L.
+  issued:
+  - year: '1993'
+  title: 'From v to vanguard: The evolution of a distributed object-oriented microkernel
+    interface'
+  title-short: From v to vanguard
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '27-30'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/finlayson.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/MukherjeeS93
+  type: paper-conference
+  author:
+  - family: Mukherjee
+    given: Bodhisattwa
+  - family: Schwan
+    given: Karsten
+  issued:
+  - year: '1993'
+  title: Experimentation with a reconfigurable microkernel
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '45-60'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/mukherjee.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/Hildebrand92
+  type: paper-conference
+  author:
+  - family: Hildebrand
+    given: Dan
+  issued:
+  - year: '1992'
+  title: An architectural overview of qNX
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '113-126'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/MurrayWOSSK93
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Kevin
+  - family: Wilkinson
+    given: Tim
+  - family: Osmon
+    given: Peter
+  - family: Saulsbury
+    given: Ashley
+  - family: Stiemerling
+    given: Tom
+  - family: Kelly
+    given: Paul H. J.
+  issued:
+  - year: '1993'
+  title: Design and implementation of an object-oriented 64-bit single address space
+    microkernel
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '31-44'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/murray.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/RenesseBCGS92
+  type: paper-conference
+  author:
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Birman
+    given: Kenneth P.
+  - family: Cooper
+    given: Robert
+  - family: Glade
+    given: Bradford B.
+  - family: Stephenson
+    given: Pat
+  issued:
+  - year: '1992'
+  title: Reliable multicast between micro-kernels
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '269-284'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/NakajimaYM92
+  type: paper-conference
+  author:
+  - family: Nakajima
+    given: Jun
+  - family: Yazaki
+    given: Masatomo
+  - family: Matsumoto
+    given: Hitoshi
+  issued:
+  - year: '1992'
+  title: Multimedia/Realtime extensions for mach 3.0
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '161-176'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/FrantzL93
+  type: paper-conference
+  author:
+  - family: Frantz
+    given: William S.
+  - family: Landau
+    given: Charles R.
+  issued:
+  - year: '1993'
+  title: Object-oriented transaction processing in the keyKOS microkernel
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '13-26'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/frantz.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/ReinhardtFW93
+  type: paper-conference
+  author:
+  - family: Reinhardt
+    given: Steven K.
+  - family: Falsafi
+    given: Babak
+  - family: Wood
+    given: David A.
+  issued:
+  - year: '1993'
+  title: Kernel support for the wisconsin wind tunnel
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '73-90'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/reinhardt.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/ShapiroM92
+  type: paper-conference
+  author:
+  - family: Shapiro
+    given: Marc
+  - family: Makpangou
+    given: Mesaac
+  issued:
+  - year: '1992'
+  title: Distributed abstractions, lightweight references
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '263-268'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Draves92
+  type: paper-conference
+  author:
+  - family: Draves
+    given: Richard
+  issued:
+  - year: '1992'
+  title: Mach
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '11-30'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/RitchieN93
+  type: paper-conference
+  author:
+  - family: Ritchie
+    given: D. Stuart
+  - family: Neufeld
+    given: Gerald W.
+  issued:
+  - year: '1993'
+  title: User level iPC and device management in the raven kernel
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '111-126'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/ritchie.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/BombergerFHHLS92
+  type: paper-conference
+  author:
+  - family: Bomberger
+    given: Allen C.
+  - family: Frantz
+    given: William S.
+  - family: Hardy
+    given: Ann C.
+  - family: Hardy
+    given: Norman
+  - family: Landau
+    given: Charles R.
+  - family: Shapiro
+    given: Jonathan S.
+  issued:
+  - year: '1992'
+  title: The keyKOS nanokernel architecture
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '95-112'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/StodolskyCB93
+  type: paper-conference
+  author:
+  - family: Stodolsky
+    given: Daniel
+  - family: Chen
+    given: J. Bradley
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1993'
+  title: Fast interrupt priority management in operating system kernels
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '105-110'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/stodolsky.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/Wiecek92
+  type: paper-conference
+  author:
+  - family: Wiecek
+    given: Cheryl A.
+  issued:
+  - year: '1992'
+  title: A model and prototype of vMS using the mach 3.0 kernel
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '187-204'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Reynolds92
+  type: paper-conference
+  author:
+  - family: Reynolds
+    given: Franklin
+  issued:
+  - year: '1992'
+  title: 'An architectural overview of alpha: A real-time, distributed kernel'
+  title-short: An architectural overview of alpha
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '127-146'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/Rozier92
+  type: paper-conference
+  author:
+  - family: Rozier
+    given: Marc
+  issued:
+  - year: '1992'
+  title: Chorus
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '39-70'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/MassalinP92
+  type: paper-conference
+  author:
+  - family: Massalin
+    given: Henry
+  - family: Pu
+    given: Calton
+  issued:
+  - year: '1992'
+  title: Reimplementing the synthesis kernel
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '177-186'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/1992
+  type: book
+  issued:
+  - year: '1992'
+  title: Proceedings of the workshop on micro-kernels and other kernel architectures,
+    seattle, wA, uSA, 27-28 april 1992s
+  publisher: USENIX
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/BacG93
+  type: paper-conference
+  author:
+  - family: Bac
+    given: Christian
+  - family: Garnie
+    given: Edmond
+  issued:
+  - year: '1993'
+  title: Cohabitation and cooperation of chorus and macOS
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '61-72'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/bac.html
+  ISBN: '1-880446-52-9'
+
+- id: conf/mkern/Liedtke92
+  type: paper-conference
+  author:
+  - family: Liedtke
+    given: Jochen
+  issued:
+  - year: '1992'
+  title: Fast thread management and communication without continuations
+  container-title: USENIX workshop on microkernels and other kernel architectures
+  publisher: USENIX
+  page: '213-222'
+  ISBN: '1-880446-42-1'
+
+- id: conf/mkern/BalterCFHLP93
+  type: paper-conference
+  author:
+  - family: Balter
+    given: Roland
+  - family: Chevalier
+    given: Pierre-Yves
+  - family: Freyssinet
+    given: André
+  - family: Hagimont
+    given: Daniel
+  - family: Lacourte
+    given: Serge
+  - family: Pina
+    given: Xavier Rousset
+    dropping-particle: de
+  issued:
+  - year: '1993'
+  title: 'Is microkernel technology well suited for the support of object-oriented
+    systems: The guide experience'
+  title-short: Is microkernel technology well suited for the support of object-oriented
+    systems
+  container-title: USENIX microkernels and other kernel architectures symposium
+  publisher: USENIX
+  page: '1-12'
+  URL: http://www.usenix.org/publications/library/proceedings/micro93/balter.html
+  ISBN: '1-880446-52-9'
+...

@@ -1,0 +1,4501 @@
+---
+references:
+- id: conf/performance/1987
+  type: book
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1988'
+  title: Performance ’87, proceedings of the 12th iFIP wG 7.3 international symposium
+    on computer performance modelling, measurement and evaluation, brussels, belgium,
+    7-9 december 1987
+  publisher: North-Holland
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/CarrollBL83
+  type: paper-conference
+  author:
+  - family: Carroll
+    given: John L.
+  - family: Beck
+    given: Leland L.
+  - family: Lai
+    given: Yung-Te
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance evaluation of the largest-first/First-fit dynamic storage allocation
+    technique
+  container-title: Performance
+  publisher: North-Holland
+  page: '325-340'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Kelly87
+  type: paper-conference
+  author:
+  - family: Kelly
+    given: Frank P.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Routing and capacity allocation in queueing and loss networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '545-549'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Kramer84
+  type: paper-conference
+  author:
+  - family: Kramer
+    given: Manfred
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A processor-sharing model with several types of jobs and preemptive priorities
+  container-title: Performance
+  publisher: North-Holland
+  page: '337-344'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Kaufman84
+  type: paper-conference
+  author:
+  - family: Kaufman
+    given: J. S.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Finite and infinite source interactions
+  container-title: Performance
+  publisher: North-Holland
+  page: '345-359'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Szpankowski83
+  type: paper-conference
+  author:
+  - family: Szpankowski
+    given: Wojciech
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance evaluation of a reservation protocol for multiaccess systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '377-394'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/LazowskaA79
+  type: paper-conference
+  author:
+  - family: Lazowska
+    given: Edward D.
+  - family: Addison
+    given: Cliff
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Selecting parameter values for servers of the phase type
+  container-title: Performance
+  publisher: North-Holland
+  page: '407-420'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/GrilloP76
+  type: paper-conference
+  author:
+  - family: Grillo
+    given: Davide
+  - family: Perugia
+    given: Alessandro
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Front- and back-end minicomputer arrangement in multiprogramming environment
+  container-title: Performance
+  publisher: North-Holland
+  page: '435-466'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/RiskaS02
+  type: paper-conference
+  author:
+  - family: Riska
+    given: Alma
+  - family: Smirni
+    given: Evgenia
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'M/G/1-type markov processes: A tutorial'
+  title-short: M/G/1-type markov processes
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-63'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_3
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Radia84
+  type: paper-conference
+  author:
+  - family: Radia
+    given: Sanjay R.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A markov model for distributed communicating sequential processes
+  container-title: Performance
+  publisher: North-Holland
+  page: '3-16'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Thomasian83
+  type: paper-conference
+  author:
+  - family: Thomasian
+    given: Alexander
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Queueing network models to estimate serialization delays in computer systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '61-81'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/ContiG02
+  type: paper-conference
+  author:
+  - family: Conti
+    given: Marco
+  - family: Gregori
+    given: Enrico
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Optimization of bandwidth and energy consumption in wireless local area networks
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '435-462'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_18
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/FayolleIM83
+  type: paper-conference
+  author:
+  - family: Fayolle
+    given: Guy
+  - family: Iasnogorodski
+    given: R.
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: 'The distribution of sojourn times in a queueing network with overtaking:
+    Reduction to a boundary problem'
+  title-short: The distribution of sojourn times in a queueing network with overtaking
+  container-title: Performance
+  publisher: North-Holland
+  page: '477-486'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Warland83
+  type: paper-conference
+  author:
+  - family: Warland
+    given: Jean
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A discrete-time queueing network
+  container-title: Performance
+  publisher: North-Holland
+  page: '1-5'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/BetserGP84
+  type: paper-conference
+  author:
+  - family: Betser
+    given: Joseph
+  - family: Gerla
+    given: Mario
+  - family: Popek
+    given: Gerald J.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: 'A dual priority mVA model for a large distributed system: LOCUS'
+  title-short: A dual priority mVA model for a large distributed system
+  container-title: Performance
+  publisher: North-Holland
+  page: '51-66'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Sidi84
+  type: paper-conference
+  author:
+  - family: Sidi
+    given: Moshe
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Tandem packet-radio queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '265-275'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Riet79
+  type: paper-conference
+  author:
+  - family: Riet
+    given: Reind P.
+    dropping-particle: van de
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Performance evaluation of the bASIS system
+  container-title: Performance
+  publisher: North-Holland
+  page: '105-122'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Doremalen84
+  type: paper-conference
+  author:
+  - family: Doremalen
+    given: Jan
+    dropping-particle: van
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A mean value analysis of a closed cP-terminal system with preemptive resume
+    priorities and general service time distributions
+  container-title: Performance
+  publisher: North-Holland
+  page: '535-546'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BaierHHK02
+  type: paper-conference
+  author:
+  - family: Baier
+    given: Christel
+  - family: Haverkort
+    given: Boudewijn R.
+  - family: Hermanns
+    given: Holger
+  - family: Katoen
+    given: Joost-Pieter
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Automated performance and dependability evaluation using model checking
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '261-289'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_12
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/IyerK02
+  type: paper-conference
+  author:
+  - family: Iyer
+    given: Ravishankar K.
+  - family: Kalbarczyk
+    given: Zbigniew
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Measurement-based analysis of system dependability using fault injection
+    and field failure data
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '290-317'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_13
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Epema90
+  type: paper-conference
+  author:
+  - family: Epema
+    given: Dick H. J.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Mean waiting times in a general feedback queue with priorities
+  container-title: Performance
+  publisher: North-Holland
+  page: '221-235'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Baccelli87
+  type: paper-conference
+  author:
+  - family: Baccelli
+    given: François
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: A queueing model of timestamp ordering in a distributed system
+  container-title: Performance
+  publisher: North-Holland
+  page: '413-431'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Flajolet87
+  type: paper-conference
+  author:
+  - family: Flajolet
+    given: Philippe
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Random tree models in the analysis of algorithms
+  container-title: Performance
+  publisher: North-Holland
+  page: '171-187'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Sengupta90
+  type: paper-conference
+  author:
+  - family: Sengupta
+    given: Bhaskar
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: A queue with superpositiojn of arrival streams with an application to packet
+    voice technology
+  container-title: Performance
+  publisher: North-Holland
+  page: '53-59'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Sifakis77
+  type: paper-conference
+  author:
+  - family: Sifakis
+    given: Joseph
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Use of petri nets for performance evaluation
+  container-title: Performance
+  publisher: North-Holland
+  page: '75-93'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Mitrani02
+  type: paper-conference
+  author:
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Spectral expansion solutions for markov-modulated queues
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-35'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_2
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Rego90
+  type: paper-conference
+  author:
+  - family: Rego
+    given: Vernon
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: A band and bound technique for simple random algorithms
+  container-title: Performance
+  publisher: North-Holland
+  page: '271-278'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Boxma84a
+  type: paper-conference
+  author:
+  - family: Boxma
+    given: Onno J.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A probabilistic analysis of the lPT scheduling rule
+  container-title: Performance
+  publisher: North-Holland
+  page: '475-490'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Cohen87
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: J. W.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: A two-queue model with semi-exhaustive alternating service
+  container-title: Performance
+  publisher: North-Holland
+  page: '19-37'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/BalsamoI83
+  type: paper-conference
+  author:
+  - family: Balsamo
+    given: Simonetta
+  - family: Iazeolla
+    given: Giuseppe
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Some equivalence properties for queueing networks with and without blocking
+  container-title: Performance
+  publisher: North-Holland
+  page: '351-360'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/BadelS76
+  type: paper-conference
+  author:
+  - family: Badel
+    given: Marc
+  - family: Shum
+    given: Annie V. Y.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Accuracy of an approximate computer system model
+  container-title: Performance
+  publisher: North-Holland
+  page: '11-33'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/TakineTH87
+  type: paper-conference
+  author:
+  - family: Takine
+    given: Tetsuya
+  - family: '0001'
+    given: Yutaka Takahashi
+  - family: Hasegawa
+    given: Toshiharu
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Analysis of an asymmetric polling system with single buffers
+  container-title: Performance
+  publisher: North-Holland
+  page: '241-251'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Gelenbe02
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'G-networks: Multiple classes of positive customers, signals, and product
+    form results'
+  title-short: G-networks
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_1
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/RoliaFP02
+  type: paper-conference
+  author:
+  - family: Rolia
+    given: Jerry
+  - family: Friedrich
+    given: Rich
+  - family: Patel
+    given: Chandrakant D.
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Service centric computing - next generation internet computing
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '463-479'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_19
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/BoothW77
+  type: paper-conference
+  author:
+  - family: Booth
+    given: Taylor L.
+  - family: Whitby-Strevens
+    given: Colin
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Performance modelling of distributed systems using probabilistic computation
+    structures
+  container-title: Performance
+  publisher: North-Holland
+  page: '389-404'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Cellary77
+  type: paper-conference
+  author:
+  - family: Cellary
+    given: Wojciech
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Task scheduling in systems with nonpreemptible recources
+  container-title: Performance
+  publisher: North-Holland
+  page: '115-129'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/SemalC87
+  type: paper-conference
+  author:
+  - family: Semal
+    given: Pierre
+  - family: Courtois
+    given: Pierre-Jacques
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Stability analysis of large markov chains
+  container-title: Performance
+  publisher: North-Holland
+  page: '363-382'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/CoffmanFM87
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Edward G. Coffman
+  - family: Fayolle
+    given: Guy
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Two queues with alternating service periods
+  container-title: Performance
+  publisher: North-Holland
+  page: '227-239'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/TantawiT84
+  type: paper-conference
+  author:
+  - family: Tantawi
+    given: Asser N.
+  - family: Towsley
+    given: Donald F.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A general model for optimal static load balancing in star network configurations
+  container-title: Performance
+  publisher: North-Holland
+  page: '277-291'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/FuhrmannW87
+  type: paper-conference
+  author:
+  - family: Fuhrmann
+    given: Steve W.
+  - family: Wang
+    given: Y. T.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Mean waiting time approximations of cyclic service systems with limited service
+  container-title: Performance
+  publisher: North-Holland
+  page: '253-265'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Roehr77
+  type: paper-conference
+  author:
+  - family: Roehr
+    given: Kuno M.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Modelling of computer system performance during development
+  container-title: Performance
+  publisher: North-Holland
+  page: '405-433'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/DenningB77
+  type: paper-conference
+  author:
+  - family: Denning
+    given: Peter J.
+  - family: Buzen
+    given: Jeffrey P.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Operational analysis of queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '151-172'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Schreiber76
+  type: paper-conference
+  author:
+  - family: Schreiber
+    given: H.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Hardware measurement of cPU activities
+  container-title: Performance
+  publisher: North-Holland
+  page: '499-500'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/ClausnerT84
+  type: paper-conference
+  author:
+  - family: Clausner
+    given: Timothy C.
+  - family: Tripathi
+    given: Satish K.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: 'Evaluation of the hub node in a star network: A case study'
+  title-short: Evaluation of the hub node in a star network
+  container-title: Performance
+  publisher: North-Holland
+  page: '177-198'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Bondi84
+  type: paper-conference
+  author:
+  - family: Bondi
+    given: Andre B.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Modeling the effect of local area network contention on the performance of
+    host computers
+  container-title: Performance
+  publisher: North-Holland
+  page: '303-318'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BaerJ77
+  type: paper-conference
+  author:
+  - family: Baer
+    given: Jean-Loup
+  - family: Jensen
+    given: John E.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: 'Simulation of large parallel systems: Modelling of tasks'
+  title-short: Simulation of large parallel systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '53-73'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Petri77
+  type: paper-conference
+  author:
+  - family: Petri
+    given: C. A.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Modelling as a communication discipline
+  container-title: Performance
+  publisher: North-Holland
+  page: '435-449'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/HofriT79
+  type: paper-conference
+  author:
+  - family: Hofri
+    given: Micha
+  - family: Tzelnic
+    given: Percy
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: On the working set size for the markov chain model of program behaviour
+  container-title: Performance
+  publisher: North-Holland
+  page: '393-405'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/FourneauP02
+  type: paper-conference
+  author:
+  - family: Fourneau
+    given: Jean-Michel
+  - family: Pekergin
+    given: Nihal
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: An algorithmic approach to stochastic bounds
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '64-88'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_4
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/SilvaG84
+  type: paper-conference
+  author:
+  - family: Souza e Silva
+    given: Edmundo
+    dropping-particle: de
+  - family: Gerla
+    given: Mario
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Load balancing in distributed systems with multiple classes and site constraints
+  container-title: Performance
+  publisher: North-Holland
+  page: '17-33'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Lin79
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Wen-Te K.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Regime process analysis of a virtual machine operating system
+  container-title: Performance
+  publisher: North-Holland
+  page: '137-147'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/PinskyY84
+  type: paper-conference
+  author:
+  - family: Pinsky
+    given: Eugene
+  - family: Yemini
+    given: Yechiam
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A statistical mechanics of some interconnection networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '147-158'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/SadowskyS90
+  type: paper-conference
+  author:
+  - family: Sadowsky
+    given: John S.
+  - family: Szpankowski
+    given: Wojciech
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: On the analysis of the tail queue length and waiting time distributions of
+    a gI/G/c queue
+  container-title: Performance
+  publisher: North-Holland
+  page: '93-107'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Geck79
+  type: paper-conference
+  author:
+  - family: Geck
+    given: A.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Performance improvement by feedback control of the operating system
+  container-title: Performance
+  publisher: North-Holland
+  page: '459-471'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/MorrisW84
+  type: paper-conference
+  author:
+  - family: Morris
+    given: Robert J. T.
+  - family: Wong
+    given: Wing Shing
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Performance of concurrency control algorithms with nonexclusive access
+  container-title: Performance
+  publisher: North-Holland
+  page: '87-101'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Leung90
+  type: paper-conference
+  author:
+  - family: Leung
+    given: Kin K.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Response time for an additional job served by an execution/Sleep scheduling
+  container-title: Performance
+  publisher: North-Holland
+  page: '209-220'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/KouvatsosT90
+  type: paper-conference
+  author:
+  - family: Kouvatsos
+    given: Demetres D.
+  - family: Tabet-Aouel
+    given: Nasreddine
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Product-form approximations for an extended class of general closed queueing
+    networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '301-315'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/BalboD79
+  type: paper-conference
+  author:
+  - family: Balbo
+    given: Gianfranco
+  - family: Denning
+    given: Peter J.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Homogeneous approximations of general queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '353-374'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Weglarz76
+  type: paper-conference
+  author:
+  - family: Weglarz
+    given: Jan
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Scheduling with memory allocation in multiprocessing systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '513-514'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Leung90a
+  type: paper-conference
+  author:
+  - family: Leung
+    given: Kin K.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Waiting time distributions for token-passing systems with limited-k services
+    via discrete fourier transforms
+  container-title: Performance
+  publisher: North-Holland
+  page: '333-347'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Fredericks79
+  type: paper-conference
+  author:
+  - family: Fredericks
+    given: Albert A.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Analysis of a class of schedules for computer systems with real time applications
+  container-title: Performance
+  publisher: North-Holland
+  page: '201-216'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/SilvaLRC02
+  type: paper-conference
+  author:
+  - family: Souza e Silva
+    given: Edmundo
+    dropping-particle: de
+  - family: Leão
+    given: Rosa M. M.
+  - family: Ribeiro-Neto
+    given: Berthier A.
+  - family: Campos
+    given: Sérgio Vale Aguiar
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Performance issues of multimedia applications
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '374-404'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_16
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/GoldbergPL83
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Arthur P.
+  - family: Popek
+    given: Gerald J.
+  - family: Lavenberg
+    given: Stephen S.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A validated distributed system performance model
+  container-title: Performance
+  publisher: North-Holland
+  page: '251-268'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/RobertMK87
+  type: paper-conference
+  author:
+  - family: Robert
+    given: Philippe
+  - family: Mitrani
+    given: Isi
+  - family: King
+    given: Peter J. B.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Analysis of a meteor scatter communication protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '469-476'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Reiman90
+  type: paper-conference
+  author:
+  - family: Reiman
+    given: Martin I.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Some allocation problems for critically loaded loss systems with independent
+    links
+  container-title: Performance
+  publisher: North-Holland
+  page: '145-15'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Mertens77
+  type: paper-conference
+  author:
+  - family: Mertens
+    given: Burkhard
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A pragmatic approach to a quantitative performance evaluation
+  container-title: Performance
+  publisher: North-Holland
+  page: '1-17'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/JacobsonL83
+  type: paper-conference
+  author:
+  - family: Jacobson
+    given: Patricia A.
+  - family: Lazowska
+    given: Edward D.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A reduction technique for evaluating queueing networks with serialization
+    delays
+  container-title: Performance
+  publisher: North-Holland
+  page: '45-59'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/ChandyHT76
+  type: paper-conference
+  author:
+  - family: Chandy
+    given: K. Mani
+  - family: Jr.
+    given: John H. Howard
+  - family: Towsley
+    given: Donald F.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Product form and local balance in queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '89-101'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Asztalos79
+  type: paper-conference
+  author:
+  - family: Asztalos
+    given: D.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A hybrid simulation/Analytical model of a batch computer system
+  container-title: Performance
+  publisher: North-Holland
+  page: '149-159'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/TakineH90
+  type: paper-conference
+  author:
+  - family: Takine
+    given: Tetsuya
+  - family: Hasegawa
+    given: Toshiharu
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Resequencing delay in preemptive priority m/M/2 queues
+  container-title: Performance
+  publisher: North-Holland
+  page: '109-121'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Asztalos77
+  type: paper-conference
+  author:
+  - family: Asztalos
+    given: D.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Performance evaluation of the multijob supervisor
+  container-title: Performance
+  publisher: North-Holland
+  page: '19-27'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Takagi90
+  type: paper-conference
+  author:
+  - family: Takagi
+    given: Hideaki
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Effects of the target token rotation time on the performance of a timed-token
+    protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '363-370'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/ButrimenkoS79
+  type: paper-conference
+  author:
+  - family: Butrimenko
+    given: Alexandr
+  - family: Sichra
+    given: Ulrike
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Virtual circuits versus datagram - usage of communication resources
+  container-title: Performance
+  publisher: North-Holland
+  page: '525-537'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/1976
+  type: book
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Modelling and performance evaluation of computer systems, proceedings of
+    the international workshop organized by the commision of the european communities,
+    ispra (varese), italy, october 4-6, 1976
+  publisher: North-Holland
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Yao02
+  type: paper-conference
+  author:
+  - family: Yao
+    given: David D.
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Dynamic scheduling via polymatroid optimization
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-113'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_5
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/GelenbeP77
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  - family: Pujolle
+    given: Guy
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A diffusion model for multiple class queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '189-199'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Akyildiz87
+  type: paper-conference
+  author:
+  - family: Akyildiz
+    given: Ian F.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: General closed queueing networks with blocking
+  container-title: Performance
+  publisher: North-Holland
+  page: '283-303'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/FrickerR90
+  type: paper-conference
+  author:
+  - family: Fricker
+    given: Christine
+  - family: Robert
+    given: Philippe
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: A memory reference model for the analysis of cache memories
+  container-title: Performance
+  publisher: North-Holland
+  page: '255-269'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Blondia87
+  type: paper-conference
+  author:
+  - family: Blondia
+    given: Chris
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: An m/G/1 finite capacity queue with vacations and priorities
+  container-title: Performance
+  publisher: North-Holland
+  page: '305-325'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Bar-DavidS87
+  type: paper-conference
+  author:
+  - family: Bar-David
+    given: Ayal
+  - family: Sidi
+    given: Moshe
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Collision resolution algorithms in multi-station packet-radio networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '385-400'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/BadelL79
+  type: paper-conference
+  author:
+  - family: Badel
+    given: Marc
+  - family: Leroudier
+    given: Jacques
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Performance evaluation of a cache memory for a mini-computer
+  container-title: Performance
+  publisher: North-Holland
+  page: '431-458'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/HineMT76
+  type: paper-conference
+  author:
+  - family: Hine
+    given: J. H.
+  - family: Mitrani
+    given: Isi
+  - family: Tsur
+    given: Shalom
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: The use of memory allocation to control response times in paged computer
+    systems with different job classes
+  container-title: Performance
+  publisher: North-Holland
+  page: '201-216'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Bruneel84
+  type: paper-conference
+  author:
+  - family: Bruneel
+    given: Herwig
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Analysis of discrete-time buffers with one single output channel subjected
+    to a general interruption process
+  container-title: Performance
+  publisher: North-Holland
+  page: '103-115'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/TowsleyCY90
+  type: paper-conference
+  author:
+  - family: Towsley
+    given: Donald F.
+  - family: Chen
+    given: Shenze
+  - family: Yu
+    given: Shou-Pin
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Performance analysis of a fault tolerant mirrored disk system
+  container-title: Performance
+  publisher: North-Holland
+  page: '239-253'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Vantilborgh76
+  type: paper-conference
+  author:
+  - family: Vantilborgh
+    given: Hendrik
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Working set dynamics
+  container-title: Performance
+  publisher: North-Holland
+  page: '377-387'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/CoffmanH77
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Edward G. Coffman
+  - family: Hofri
+    given: Micha
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: On scanning-disks and the analysis of their steady state behavior
+  container-title: Performance
+  publisher: North-Holland
+  page: '251-263'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/HsiaoL87
+  type: paper-conference
+  author:
+  - family: Hsiao
+    given: Man-tung T.
+  - family: Lazar
+    given: Aurel A.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: A game theoretic approach to decentralized flow control of markovian queueing
+    networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '55-73'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/BatsonBK77
+  type: paper-conference
+  author:
+  - family: Batson
+    given: Alan P.
+  - family: Blatt
+    given: David W. E.
+  - family: Kearns
+    given: John P.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Structure within locality intervals
+  container-title: Performance
+  publisher: North-Holland
+  page: '221-232'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/BrumfieldD83
+  type: paper-conference
+  author:
+  - family: Brumfield
+    given: Jeffrey A.
+  - family: Denning
+    given: Peter J.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Operational state sequence analysis
+  container-title: Performance
+  publisher: North-Holland
+  page: '269-283'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/BoulayeDMRW77
+  type: paper-conference
+  author:
+  - family: Boulaye
+    given: Guy G.
+  - family: Decouty
+    given: B.
+  - family: Michel
+    given: G.
+  - family: Rolin
+    given: P.
+  - family: Wagner
+    given: C.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A computer measurement and control system
+  container-title: Performance
+  publisher: North-Holland
+  page: '305-320'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/PujolleS79
+  type: paper-conference
+  author:
+  - family: Pujolle
+    given: Guy
+  - family: Soula
+    given: C.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A study of flows in queueing networks and an approximate method for solution
+  container-title: Performance
+  publisher: North-Holland
+  page: '375-389'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Shacham84
+  type: paper-conference
+  author:
+  - family: Shacham
+    given: Nachum
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: 'Organization of dynamic radio network by overlapping clusters: Architecture
+    considerations and optimization'
+  title-short: Organization of dynamic radio network by overlapping clusters
+  container-title: Performance
+  publisher: North-Holland
+  page: '435-447'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BrownS87
+  type: paper-conference
+  author:
+  - family: Brown
+    given: P.
+  - family: Simonian
+    given: A.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Perturbation of a periodic flow in a synchronous server
+  container-title: Performance
+  publisher: North-Holland
+  page: '89-111'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Conway90
+  type: paper-conference
+  author:
+  - family: Conway
+    given: Adrian E.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: A new method of parametric analysis for product form queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '19-33'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Allen79
+  type: paper-conference
+  author:
+  - family: Allen
+    given: Frank W.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A predictive performance evaluation technique for information systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '277-285'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/BrunoS76
+  type: paper-conference
+  author:
+  - family: Bruno
+    given: John L.
+  - family: Sethi
+    given: Ravi
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Task sequencing in a batch environment with setup times
+  container-title: Performance
+  publisher: North-Holland
+  page: '81-88'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Blazewicz76
+  type: paper-conference
+  author:
+  - family: Blazewicz
+    given: Jacek
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Scheduling dependent tasks with different arrival times to meet deadlines
+  container-title: Performance
+  publisher: North-Holland
+  page: '57-65'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/GreenbergM90
+  type: paper-conference
+  author:
+  - family: Greenberg
+    given: Albert G.
+  - family: Madras
+    given: Neal
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Comparison of a fair queueing discipline to processor sharing
+  container-title: Performance
+  publisher: North-Holland
+  page: '193-207'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Lenfant76
+  type: paper-conference
+  author:
+  - family: Lenfant
+    given: Jacques
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Comparison of the working sets and bounded locality intervals of a program
+  container-title: Performance
+  publisher: North-Holland
+  page: '217-239'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/GelenbeK76
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  - family: Kurinckx
+    given: Alain
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Random injection control of multiprogramming in virtual memory
+  container-title: Performance
+  publisher: North-Holland
+  page: '143-170'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/1977
+  type: book
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Measuring, modelling and evaluating computer systems, proceedings of the
+    third international symposium, bonn - bad godesberg, germany, october 3-5, 1977
+  publisher: North-Holland
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/MitraM84a
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Debasis
+  - family: McKenna
+    given: James
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Some results on asymptotic expansions for closed markovian networks with
+    state dependent service rates
+  container-title: Performance
+  publisher: North-Holland
+  page: '377-392'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Shenker90
+  type: paper-conference
+  author:
+  - family: Shenker
+    given: Scott
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Efficient network allocations with selfish users
+  container-title: Performance
+  publisher: North-Holland
+  page: '279-285'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Watson84
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Kym
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Performance evaluation of cyclic service strategies - a survey
+  container-title: Performance
+  publisher: North-Holland
+  page: '521-533'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Kleijnen76
+  type: paper-conference
+  author:
+  - family: Kleijnen
+    given: Jack P. C.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Statistical problems in the simulation of computer systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '467-483'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Jean-Marie87
+  type: paper-conference
+  author:
+  - family: Jean-Marie
+    given: Alain
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Load balancing in a system of two queues with resequencing
+  container-title: Performance
+  publisher: North-Holland
+  page: '75-88'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/HorvathT02
+  type: paper-conference
+  author:
+  - family: Horváth
+    given: András
+  - family: Telek
+    given: Miklós
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'Markovian modeling of real data traffic: Heuristic phase type and mAP
+    fitting of heavy tailed and fractal like samples'
+  title-short: Markovian modeling of real data traffic
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-434'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_17
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/BeckerF77
+  type: paper-conference
+  author:
+  - family: Becker
+    given: Monique
+  - family: Fortet
+    given: Robert
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: 'Projectors method and iterative method to solve a packet-switching network
+    node: Validation by simulation'
+  title-short: Projectors method and iterative method to solve a packet-switching
+    network node
+  container-title: Performance
+  publisher: North-Holland
+  page: '347-374'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/WalkeR79
+  type: paper-conference
+  author:
+  - family: Walke
+    given: Bernhard
+  - family: Rosenbohm
+    given: W.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Waiting-time distributions for deadline-oriented serving
+  container-title: Performance
+  publisher: North-Holland
+  page: '241-260'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/HaikalaK84
+  type: paper-conference
+  author:
+  - family: Haikala
+    given: Ilkka J.
+  - family: Kutvonen
+    given: Petri H.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Split cache organizations
+  container-title: Performance
+  publisher: North-Holland
+  page: '459-472'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Minetti76
+  type: paper-conference
+  author:
+  - family: Minetti
+    given: Vito
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Performance evaluation of a batch-time sharing computer system using a trace
+    driven model
+  container-title: Performance
+  publisher: North-Holland
+  page: '485-497'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Potier77
+  type: paper-conference
+  author:
+  - family: Potier
+    given: Dominique
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Analysis of demand paging policies with swapped working sets
+  container-title: Performance
+  publisher: North-Holland
+  page: '233-237'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Gomaa76
+  type: paper-conference
+  author:
+  - family: Gomaa
+    given: Hassan
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: A modelling approach to the evaluation of computer system performance
+  container-title: Performance
+  publisher: North-Holland
+  page: '171-199'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Ruschitzka79
+  type: paper-conference
+  author:
+  - family: Ruschitzka
+    given: Manfred
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A load-sensitive scheduler for interacitve systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '217-227'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Materna79
+  type: paper-conference
+  author:
+  - family: Materna
+    given: Winfried
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: An approach to the construction of workload models
+  container-title: Performance
+  publisher: North-Holland
+  page: '161-177'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/1990
+  type: book
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Performance ’90, proceedings of the 14th iFIP wG 7.3 international symposium
+    on computer performance modelling, measurement and evaluation, edinburgh, scotland,
+    12-14 september 1990
+  publisher: North-Holland
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Rosenkrantz84
+  type: paper-conference
+  author:
+  - family: Rosenkrantz
+    given: Walter A.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Some theorems on the instability of the exponential back-off protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '199-205'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/AugustinSP84
+  type: paper-conference
+  author:
+  - family: Augustin
+    given: Reinhard
+  - family: Scholten
+    given: Heinrich A.
+  - family: Prädel
+    given: U.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Modelling database concurrency control algorithms using a general purpose
+    performance evaluation tool
+  container-title: Performance
+  publisher: North-Holland
+  page: '69-86'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BaccelliT83
+  type: paper-conference
+  author:
+  - family: Baccelli
+    given: François
+  - family: Trivedi
+    given: Kishor S.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Analysis of m/G/2 - standby redundant system
+  container-title: Performance
+  publisher: North-Holland
+  page: '457-476'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/MinkDRC87
+  type: paper-conference
+  author:
+  - family: Mink
+    given: Alan
+  - family: Draper
+    given: Jesse M.
+  - family: Roberts
+    given: John W.
+  - family: Carpenter
+    given: Robert J.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Hardware-assisted multiprocessor performance measurement
+  container-title: Performance
+  publisher: North-Holland
+  page: '151-168'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/KrishnaS83
+  type: paper-conference
+  author:
+  - family: Krishna
+    given: C. Mani
+  - family: Shin
+    given: Kang G.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance measures for multiprocessor controllers
+  container-title: Performance
+  publisher: North-Holland
+  page: '229-250'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/KrzesinskiT77
+  type: paper-conference
+  author:
+  - family: Krzesinski
+    given: Anthony E.
+  - family: Teunissen
+    given: Peter
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Analysis of the page size problem using a network analyizer
+  container-title: Performance
+  publisher: North-Holland
+  page: '239-250'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/2002
+  type: book
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'Performance evaluation of complex systems: Techniques and tools, performance
+    2002, tutorial lectures'
+  title-short: Performance evaluation of complex systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2459'
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/KenevanM84
+  type: paper-conference
+  author:
+  - family: Kenevan
+    given: James R.
+  - family: Mayrhauser
+    given: Anneliese
+    dropping-particle: von
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Convexity and concavity properties of analytic queuing models for computer
+    systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '361-375'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Haring83
+  type: paper-conference
+  author:
+  - family: Haring
+    given: Günter
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: On stochastic models of interactive workloads
+  container-title: Performance
+  publisher: North-Holland
+  page: '133-152'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/ShumB77
+  type: paper-conference
+  author:
+  - family: Shum
+    given: Annie W.
+  - family: Buzen
+    given: Jeffrey P.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A method for obtaining approximate solutions to closed queueing networks
+    with general service times
+  container-title: Performance
+  publisher: North-Holland
+  page: '201-220'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/GrassiCM02
+  type: paper-conference
+  author:
+  - family: Grassi
+    given: Vincenzo
+  - family: Cortellessa
+    given: Vittorio
+  - family: Mirandola
+    given: Raffaela
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Performance validation of mobile software architectures
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '346-373'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_15
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/1983
+  type: book
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance ’83, proceedings of the 9th international symposium on computer
+    performance modelling, measurement and evaluation, college park, maryland, uSA,
+    may 25-27, 1983
+  publisher: North-Holland
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Schmitt84
+  type: paper-conference
+  author:
+  - family: Schmitt
+    given: Wolfgang
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: On decompositions of markovian priority queues and their application to the
+    analysis of closed priority queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '393-407'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/KurinckxP79
+  type: paper-conference
+  author:
+  - family: Kurinckx
+    given: Alain
+  - family: Pujolle
+    given: Guy
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Analytic methods for multiprocessor system modelling
+  container-title: Performance
+  publisher: North-Holland
+  page: '305-318'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/KingS87
+  type: paper-conference
+  author:
+  - family: King
+    given: Peter J. B.
+  - family: Shacham
+    given: Nachum
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Delay analysis of multihop packet radio networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '401-410'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/MayrL76
+  type: paper-conference
+  author:
+  - family: Mayr
+    given: Heinrich C.
+  - family: Lockemann
+    given: Peter C.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Formal modelling of discrete dynamic systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '255-285'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/FosterB76
+  type: paper-conference
+  author:
+  - family: Foster
+    given: Derrell V.
+  - family: Browne
+    given: James C.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: File assignment in memory hierarchies
+  container-title: Performance
+  publisher: North-Holland
+  page: '119-127'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Pach84
+  type: paper-conference
+  author:
+  - family: Pach
+    given: Andrzej R.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Performance evaluation of aLOHA-type star broadcast systems with and intelligent
+    central node
+  container-title: Performance
+  publisher: North-Holland
+  page: '225-241'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BekkersD76
+  type: paper-conference
+  author:
+  - family: Bekkers
+    given: Yves
+  - family: Decouty
+    given: B.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: A versatile programmable hardware monitor
+  container-title: Performance
+  publisher: North-Holland
+  page: '423-425'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/SpiesG83
+  type: paper-conference
+  author:
+  - family: Spies
+    given: Peter Paul
+  - family: Geilenkeuser
+    given: W. J.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Queueing systems serving task families
+  container-title: Performance
+  publisher: North-Holland
+  page: '187-201'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/AndreoliniCC02
+  type: paper-conference
+  author:
+  - family: Andreolini
+    given: Mauro
+  - family: Cardellini
+    given: Valeria
+  - family: Colajanni
+    given: Michele
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Benchmarking models and tools for distributed web-server systems
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-235'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_10
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/BrandwajnH79
+  type: paper-conference
+  author:
+  - family: Brandwajn
+    given: Alexandre
+  - family: Hernandez
+    given: Jean-Alain
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A study of a mechanism for controlling multiprogrammed memory in an interacitve
+    system
+  container-title: Performance
+  publisher: North-Holland
+  page: '487-500'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/SevcikM79
+  type: paper-conference
+  author:
+  - family: Sevcik
+    given: Kenneth C.
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: The distribution of queueing network states at input and output instants
+  container-title: Performance
+  publisher: North-Holland
+  page: '319-335'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/NicolaK83
+  type: paper-conference
+  author:
+  - family: Nicola
+    given: Victor F.
+  - family: Kylstra
+    given: F. J.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A model of checkpointing and recovery with a specified number of transactions
+    between checkpoints
+  container-title: Performance
+  publisher: North-Holland
+  page: '83-99'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/KritzingerKT79
+  type: paper-conference
+  author:
+  - family: Kritzinger
+    given: Pieter S.
+  - family: Krzesinski
+    given: Anthony E.
+  - family: Teunissen
+    given: Peter
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A queueing model of a timesliced priority driven task dispatching algorithm
+  container-title: Performance
+  publisher: North-Holland
+  page: '473-486'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/GhodsiK90
+  type: paper-conference
+  author:
+  - family: Ghodsi
+    given: Mohammad
+  - family: Kant
+    given: Krishna
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Performance analysis of parallel search algorithms on multiprocessors
+  container-title: Performance
+  publisher: North-Holland
+  page: '407-421'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Guillemaud79
+  type: paper-conference
+  author:
+  - family: Guillemaud
+    given: Jean-Jacques
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: 'A model of a heterogeneous multiple-minicomputer: System m2 - performance
+    evaluation during developments'
+  title-short: A model of a heterogeneous multiple-minicomputer
+  container-title: Performance
+  publisher: North-Holland
+  page: '123-136'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/DuganTGN84
+  type: paper-conference
+  author:
+  - family: Dugan
+    given: Joanne Bechta
+  - family: Trivedi
+    given: Kishor S.
+  - family: Geist
+    given: Robert
+  - family: Nicola
+    given: Victor F.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: 'Extended stochastic petri nets: Applications and analysis'
+  title-short: Extended stochastic petri nets
+  container-title: Performance
+  publisher: North-Holland
+  page: '507-519'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Szpankowski87
+  type: paper-conference
+  author:
+  - family: Szpankowski
+    given: Wojciech
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Two problems on the average complexity of digital trees
+  container-title: Performance
+  publisher: North-Holland
+  page: '189-208'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Bard76
+  type: paper-conference
+  author:
+  - family: Bard
+    given: Yonathan
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: A characterization of vM/370 workloads
+  container-title: Performance
+  publisher: North-Holland
+  page: '35-55'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/FayolleKM83
+  type: paper-conference
+  author:
+  - family: Fayolle
+    given: Guy
+  - family: King
+    given: Peter J. B.
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: On the execution of programs by many processors
+  container-title: Performance
+  publisher: North-Holland
+  page: '217-228'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Pujolle76
+  type: paper-conference
+  author:
+  - family: Pujolle
+    given: Guy
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Ergodicity conditions and congestion control in computer networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '287-317'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/DalleryD84
+  type: paper-conference
+  author:
+  - family: Dallery
+    given: Yves
+  - family: David
+    given: R.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Some new results on operational analysis
+  container-title: Performance
+  publisher: North-Holland
+  page: '119-134'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/RobertazziL83
+  type: paper-conference
+  author:
+  - family: Robertazzi
+    given: Thomas G.
+  - family: Lazar
+    given: Aurel A.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: On the modeling and optimal flow control of the jacksonian network
+  container-title: Performance
+  publisher: North-Holland
+  page: '361-376'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/OnvuralP90
+  type: paper-conference
+  author:
+  - family: Onvural
+    given: Raif O.
+  - family: Perros
+    given: Harry G.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Approximate analysis of multiclass tandem queueing networks with coxian parameters
+    and finite buffers
+  container-title: Performance
+  publisher: North-Holland
+  page: '131-141'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/HebuterneDR87
+  type: paper-conference
+  author:
+  - family: Hébuterne
+    given: Gérard
+  - family: Dupuis
+    given: Alain
+  - family: Romoeuf
+    given: Luc
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Definition and measurement of the orderliness of a service mechanism
+  container-title: Performance
+  publisher: North-Holland
+  page: '329-344'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/FayolleR76
+  type: paper-conference
+  author:
+  - family: Fayolle
+    given: Guy
+  - family: Robin
+    given: M.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Optimal queueing policies in multiple-processor computers
+  container-title: Performance
+  publisher: North-Holland
+  page: '103-117'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/1979
+  type: book
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Performance of computer systems, proceedings of the third international symposium
+    on modelling and performance evaluation of computer systems, vienna, austria,
+    february 6-8, 1979
+  publisher: North-Holland
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Stewart79
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: William J.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A direct numerical method for queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '89-102'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Gunther90
+  type: paper-conference
+  author:
+  - family: Gunther
+    given: Neil J.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Bilinear model of blocking transients in large circuit switching networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '175-189'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/BrowaeysM77
+  type: paper-conference
+  author:
+  - family: Browaeys
+    given: F.
+  - family: Muron
+    given: O.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Analytical modelling of the reliability of a fault-tolerant computer-copra
+  container-title: Performance
+  publisher: North-Holland
+  page: '375-387'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Fuhrmann90
+  type: paper-conference
+  author:
+  - family: Fuhrmann
+    given: Steve W.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Second moment relationships for waiting times in queueing systems with poisson
+    input
+  container-title: Performance
+  publisher: North-Holland
+  page: '123-129'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/ShohatS76
+  type: paper-conference
+  author:
+  - family: Shohat
+    given: Y.
+  - family: Strauss
+    given: Jon C.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: An analytic model of dispatching algorithms
+  container-title: Performance
+  publisher: North-Holland
+  page: '335-362'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/SomS87
+  type: paper-conference
+  author:
+  - family: Som
+    given: Tapas K.
+  - family: Sargent
+    given: Robert G.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Application of frequency domain experiments to simulations of computer systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '115-130'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/ReiserK76
+  type: paper-conference
+  author:
+  - family: Reiser
+    given: Martin
+  - family: Konheim
+    given: Alan G.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Queueing model of a multiprogrammed computer system with a jobqueue and a
+    fixed number of initiators
+  container-title: Performance
+  publisher: North-Holland
+  page: '319-334'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/BoxmaLW90
+  type: paper-conference
+  author:
+  - family: Boxma
+    given: Onno J.
+  - family: Levy
+    given: Hanoch
+  - family: Weststrate
+    given: Jan A.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Optimization of polling systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '349-361'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/AkyildizD90
+  type: paper-conference
+  author:
+  - family: Akyildiz
+    given: Ian F.
+  - family: Dijk
+    given: Nico M.
+    dropping-particle: van
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Exact solution for networks of parallel queues with finite buffers
+  container-title: Performance
+  publisher: North-Holland
+  page: '35-49'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/CoffmanFL84
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Edward G. Coffman
+  - family: Flatto
+    given: Leopold
+  - family: Lueker
+    given: George S.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Expected makespans for largest-first multiprocessor scheduling
+  container-title: Performance
+  publisher: North-Holland
+  page: '491-506'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/GeistT83
+  type: paper-conference
+  author:
+  - family: Geist
+    given: Robert
+  - family: Trivedi
+    given: Kishor S.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: The integration of user perception in the heterogeneous m/M/2 queue
+  container-title: Performance
+  publisher: North-Holland
+  page: '203-216'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/GallBG84
+  type: paper-conference
+  author:
+  - family: Gall
+    given: Francoise Le
+  - family: Bernussou
+    given: Jacques
+  - family: Garcia
+    given: Jean-Marie
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A one moment model for telephone networks with dependance on link blocking
+    probabilities
+  container-title: Performance
+  publisher: North-Holland
+  page: '449-458'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Tedone76
+  type: paper-conference
+  author:
+  - family: Tedone
+    given: O.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: An approach to the straightforward production of computer system simulators
+  container-title: Performance
+  publisher: North-Holland
+  page: '501-511'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Nelson84
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Randolph
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: The stochastic cusp, swallowtail, and hyperbolic umbilic catastrophes as
+    manifest in a simple communications model
+  container-title: Performance
+  publisher: North-Holland
+  page: '207-224'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/HarrisonP87
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: Peter G.
+  - family: Patel
+    given: Naresh M.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: The representation of switching networks in queueing models of parallel systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '497-512'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/1984
+  type: book
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1985'
+  title: Performance ’84, proceedings of the tenth international symposium on computer
+    performance modelling, measurement and evaluation, paris, france, 19-21 december,
+    1984
+  publisher: North-Holland
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/MasseyS90
+  type: paper-conference
+  author:
+  - family: Massey
+    given: William A.
+  - family: Srinivasan
+    given: Rengarajan
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: A heavy traffic analysis for semi-open networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '289-300'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Takagi84
+  type: paper-conference
+  author:
+  - family: Takagi
+    given: Hideaki
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: New message waiting time in a symmetric polling system
+  container-title: Performance
+  publisher: North-Holland
+  page: '293-302'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/KoganP84
+  type: paper-conference
+  author:
+  - family: Kogan
+    given: Yakov A.
+  - family: Pukhal’skii
+    given: A. A.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: On tandem queues with blocking in heavy traffic
+  container-title: Performance
+  publisher: North-Holland
+  page: '549-558'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/LiuG83
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yuan
+  - family: Goel
+    given: Amrit L.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: On the read time of a reorganized index file based on moments
+  container-title: Performance
+  publisher: North-Holland
+  page: '101-116'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Massey87
+  type: paper-conference
+  author:
+  - family: Massey
+    given: James L.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Some new approaches to random-access communication
+  container-title: Performance
+  publisher: North-Holland
+  page: '551-569'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/HongK83
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Jim P.
+  - family: Kim
+    given: Gil
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Class dependent queueing disciplines with product form solutions
+  container-title: Performance
+  publisher: North-Holland
+  page: '341-349'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/LavenbergMS83
+  type: paper-conference
+  author:
+  - family: Lavenberg
+    given: Stephen S.
+  - family: Muntz
+    given: Richard R.
+  - family: Samadi
+    given: Behrokh
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance analysis of a rollback method for distributed simulation
+  container-title: Performance
+  publisher: North-Holland
+  page: '117-132'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/CremonesiS02
+  type: paper-conference
+  author:
+  - family: Cremonesi
+    given: Paolo
+  - family: Serazzi
+    given: Giuseppe
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: End-to-end performance of web services
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-178'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_8
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/GagliardiJRB02
+  type: paper-conference
+  author:
+  - family: Gagliardi
+    given: Fabrizio
+  - family: Jones
+    given: Bob
+  - family: Reale
+    given: Mario
+  - family: Burke
+    given: Stephen
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'European dataGrid project: Experiences of deploying a large scale testbed
+    for e-science applications'
+  title-short: European dataGrid project
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '480-500'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_20
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/RamakrishnanA83
+  type: paper-conference
+  author:
+  - family: Ramakrishnan
+    given: K. K.
+  - family: Agrawala
+    given: Ashok K.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A resource allocation policy using time thresholding
+  container-title: Performance
+  publisher: North-Holland
+  page: '395-413'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Liu76
+  type: paper-conference
+  author:
+  - family: Liu
+    given: C. L.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Deterministic job scheduling in computing systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '241-254'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Arem90
+  type: paper-conference
+  author:
+  - family: Arem
+    given: Bart
+    dropping-particle: van
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Analysis of a queueing model of the orwell slotted ring
+  container-title: Performance
+  publisher: North-Holland
+  page: '61-75'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Walke77
+  type: paper-conference
+  author:
+  - family: Walke
+    given: Bernhard
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Improved bounds and an approximation for a dynamic priority queue
+  container-title: Performance
+  publisher: North-Holland
+  page: '321-346'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/BenczurK79
+  type: paper-conference
+  author:
+  - family: Benczúr
+    given: András A.
+  - family: Krámli
+    given: A.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: An example for an adaptive control method providing data based integrity
+  container-title: Performance
+  publisher: North-Holland
+  page: '263-276'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Schoute76
+  type: paper-conference
+  author:
+  - family: Schoute
+    given: A. L.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Comparison of global memory management strategies in virtual memory systems
+    with two classes of processes
+  container-title: Performance
+  publisher: North-Holland
+  page: '389-414'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Blanc84
+  type: paper-conference
+  author:
+  - family: Blanc
+    given: J. P. C.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: The transient behaviour of networks with infinite server nodes
+  container-title: Performance
+  publisher: North-Holland
+  page: '159-174'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Segall79
+  type: paper-conference
+  author:
+  - family: Segall
+    given: Adrian
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Failsafe distributed loop-free routing in communication networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '541-546'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/FangmeyerGL76
+  type: paper-conference
+  author:
+  - family: Fangmeyer
+    given: Hermann
+  - family: Gloden
+    given: R.
+  - family: Larisse
+    given: J.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: An automatic clustering technique applied to workload analysis and system
+    tuning
+  container-title: Performance
+  publisher: North-Holland
+  page: '427-433'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/MarieS77
+  type: paper-conference
+  author:
+  - family: Marie
+    given: Raymond A.
+  - family: Stewart
+    given: William J.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A hybrid iterative-numerical method for the solution of a general queueing
+    network
+  container-title: Performance
+  publisher: North-Holland
+  page: '173-188'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/MitraM84
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Debasis
+  - family: Mitrani
+    given: Isi
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Analysis and optimum performance of two message-passing parallel processors
+    synchronized by rollback
+  container-title: Performance
+  publisher: North-Holland
+  page: '35-50'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/Torok79
+  type: paper-conference
+  author:
+  - family: Török
+    given: T. L.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Interleaved memory systems with markovian requests
+  container-title: Performance
+  publisher: North-Holland
+  page: '421-428'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/BoguslavskyG79
+  type: paper-conference
+  author:
+  - family: Boguslavsky
+    given: Leonid B.
+  - family: Gelenbe
+    given: Erol
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A communication protocol and a problem of coupled queues
+  container-title: Performance
+  publisher: North-Holland
+  page: '517-524'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/MasudaF83
+  type: paper-conference
+  author:
+  - family: Masuda
+    given: Takashi
+  - family: Fin
+    given: Tong-Haing
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A method for the detection of program locality
+  container-title: Performance
+  publisher: North-Holland
+  page: '173-186'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/Mitra87
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Debasis
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Stochastic fluid models
+  container-title: Performance
+  publisher: North-Holland
+  page: '39-51'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Kuehn83
+  type: paper-conference
+  author:
+  - family: Kuehn
+    given: Paul J.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Analysis of busy periods and response times in queueing networks by the method
+    of first passage times
+  container-title: Performance
+  publisher: North-Holland
+  page: '437-455'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/BucciS77
+  type: paper-conference
+  author:
+  - family: Bucci
+    given: Giacomo
+  - family: Streeter
+    given: Donald N.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: A user-oriented approach to the design of distributed information systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '29-52'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/BoiCDRBT76
+  type: paper-conference
+  author:
+  - family: Boi
+    given: L.
+  - family: Cros
+    given: Patrice
+  - family: Drucbert
+    given: J. P.
+  - family: Rousselot
+    given: J. Y.
+  - family: Bourret
+    given: Paul
+  - family: Trepos
+    given: R.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: A performance evaluation of the cII sIRIS 8 operating system. methodology,
+    tools and first results
+  container-title: Performance
+  publisher: North-Holland
+  page: '67-80'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Winter77
+  type: paper-conference
+  author:
+  - family: Winter
+    given: R.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: An evaluation net model for the performance evaluation of a computer network
+  container-title: Performance
+  publisher: North-Holland
+  page: '95-113'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/HofriK90
+  type: paper-conference
+  author:
+  - family: Hofri
+    given: Micha
+  - family: Kogan
+    given: Yaakov
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Exact and asymptotic analysis of large multiple bus multiprocessor systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '373-389'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/VernonSE83
+  type: paper-conference
+  author:
+  - family: Vernon
+    given: Mary K.
+  - family: Souza e Silva
+    given: Edmundo
+    dropping-particle: de
+  - family: Estrin
+    given: Gerald
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: 'Performance evaluation of asynchronous concurrent systems: The uCLA graph
+    model of behavior'
+  title-short: Performance evaluation of asynchronous concurrent systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '153-171'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/MitraM83
+  type: paper-conference
+  author:
+  - family: Mitra
+    given: Debasis
+  - family: Morrison
+    given: John A.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Asymptotic expansions of moments of the waiting time in closed and open processor-sharing
+    systems with multiple job classes
+  container-title: Performance
+  publisher: North-Holland
+  page: '7-24'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/GanzC87
+  type: paper-conference
+  author:
+  - family: Ganz
+    given: Aura
+  - family: Chlamtac
+    given: Imrich
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Finite buffer queueing model for p-persistent cSMA/CD protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '481-495'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Almeida02
+  type: paper-conference
+  author:
+  - family: Almeida
+    given: Virgilio
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Capacity planning for web services
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-157'
+  volume: '2459'
+  URL: http://link.springer.de/link/service/series/0558/bibs/2459/24590142.htm
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Arato77
+  type: paper-conference
+  author:
+  - family: Arató
+    given: M.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Statistical sequential methods for utilization in performance analysis
+  container-title: Performance
+  publisher: North-Holland
+  page: '287-303'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/JacquetR87
+  type: paper-conference
+  author:
+  - family: Jacquet
+    given: Philippe
+  - family: Régnier
+    given: Mireille
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Normal limiting distribution of the size of tries
+  container-title: Performance
+  publisher: North-Holland
+  page: '209-223'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Boxma84
+  type: paper-conference
+  author:
+  - family: Boxma
+    given: Onno J.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Two symmmetric queues with alternating service and switching times
+  container-title: Performance
+  publisher: North-Holland
+  page: '409-431'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BaccelliR83
+  type: paper-conference
+  author:
+  - family: Baccelli
+    given: François
+  - family: Robert
+    given: Philippe
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Analysis of update response times in a distributed data base maintained by
+    the conservative time stamps ordering algorithm
+  container-title: Performance
+  publisher: North-Holland
+  page: '415-436'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/BlazewiczW79
+  type: paper-conference
+  author:
+  - family: Blazewicz
+    given: Jacek
+  - family: Weglarz
+    given: Jan
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Scheduling under resource constraints - achievements and prospects
+  container-title: Performance
+  publisher: North-Holland
+  page: '181-199'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/SidiL90
+  type: paper-conference
+  author:
+  - family: Sidi
+    given: Moshe
+  - family: Levy
+    given: Hanoch
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Customer routing on polling systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '319-331'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Romoeuf77
+  type: paper-conference
+  author:
+  - family: Romoeuf
+    given: Luc
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: 'Modelling of a stored program controlled telephone switching system: Evaluating
+    a regulation method for traffic overload'
+  title-short: Modelling of a stored program controlled telephone switching system
+  container-title: Performance
+  publisher: North-Holland
+  page: '265-286'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Reiser79
+  type: paper-conference
+  author:
+  - family: Reiser
+    given: Martin
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Mean value analysis fo queueing networks - a new look at an old problem
+  container-title: Performance
+  publisher: North-Holland
+  page: '63-77'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/FerrariZ87
+  type: paper-conference
+  author:
+  - family: Ferrari
+    given: Domenico
+  - family: Zhou
+    given: Songnian
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: An empirical investigation of load indices for load balancing applications
+  container-title: Performance
+  publisher: North-Holland
+  page: '515-528'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/HuangC87
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Yin-Fu
+  - family: Chin
+    given: Y. H.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Performance evaluation of three locking protocols
+  container-title: Performance
+  publisher: North-Holland
+  page: '447-465'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/HerzogH79
+  type: paper-conference
+  author:
+  - family: Herzog
+    given: Ulrich
+  - family: Hoffmann
+    given: W.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Synchronization problems in hierarchically organized multiprocessor computer
+    systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '29-48'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/KienzleS79
+  type: paper-conference
+  author:
+  - family: Kienzle
+    given: Martin G.
+  - family: Sevcik
+    given: Kenneth C.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A systematical approach to the performance modelling of computer systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '3-27'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Spaniol79
+  type: paper-conference
+  author:
+  - family: Spaniol
+    given: Otto
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Modelling of local computer networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '503-516'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Kobayashi79
+  type: paper-conference
+  author:
+  - family: Kobayashi
+    given: Hisashi
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: A computational algorithm for queue distributions via the pólya theory of
+    enumeration
+  container-title: Performance
+  publisher: North-Holland
+  page: '79-88'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/StafylopatisG87
+  type: paper-conference
+  author:
+  - family: Stafylopatis
+    given: Andreas
+  - family: Gelenbe
+    given: Erol
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Delay analysis of resequencing systems with partial ordering
+  container-title: Performance
+  publisher: North-Holland
+  page: '433-445'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/BazewiczP76
+  type: paper-conference
+  author:
+  - family: Bazewicz
+    given: M.
+  - family: Peterseil
+    given: A.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: An approach to adapting a multiaccess time-sharing computer system to user
+    requirements by simulation methods
+  container-title: Performance
+  publisher: North-Holland
+  page: '415-422'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Vo-Dai84
+  type: paper-conference
+  author:
+  - family: Vo-Dai
+    given: Thien
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: A steady-state analysis of cSMA-cD
+  container-title: Performance
+  publisher: North-Holland
+  page: '243-264'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/AndersonFRS87
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: David P.
+  - family: Ferrari
+    given: Domenico
+  - family: Rangan
+    given: P. Venkat
+  - family: Sartirana
+    given: B.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: The empirical evaluation of a security-oriented datagram protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '131-150'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/McKenna87
+  type: paper-conference
+  author:
+  - family: McKenna
+    given: James
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: A new proof and a tree algorithm for rECAL
+  container-title: Performance
+  publisher: North-Holland
+  page: '3-16'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/TrivediV02
+  type: paper-conference
+  author:
+  - family: Trivedi
+    given: Kishor S.
+  - family: Vaidyanathan
+    given: Kalyanaraman
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'Software reliability and rejuvenation: Modeling and analysis'
+  title-short: Software reliability and rejuvenation
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '318-345'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_14
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Weicker02
+  type: paper-conference
+  author:
+  - family: Weicker
+    given: Reinhold
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Benchmarking
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-207'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_9
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Roode79
+  type: paper-conference
+  author:
+  - family: Roode
+    given: J. D.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Multiclass operational analysis of queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '339-352'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/ChengM90
+  type: paper-conference
+  author:
+  - family: Cheng
+    given: William C.
+  - family: Muntz
+    given: Richard R.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Optimal routing for closed queueing networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '3-17'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/CarliniMS79
+  type: paper-conference
+  author:
+  - family: Carlini
+    given: Ugo
+    dropping-particle: de
+  - family: Mazzeo
+    given: Antonino
+  - family: Savy
+    given: Carlo
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Priority batch processing for upper bounded response times
+  container-title: Performance
+  publisher: North-Holland
+  page: '229-240'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/FayolleI79
+  type: paper-conference
+  author:
+  - family: Fayolle
+    given: Guy
+  - family: Iasnogorodski
+    given: R.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Solutions of functional equations arising in the analysis of two server queueing
+    models
+  container-title: Performance
+  publisher: North-Holland
+  page: '289-303'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/FilipiakP84
+  type: paper-conference
+  author:
+  - family: Filipiak
+    given: Janusz
+  - family: Pach
+    given: Andrzej R.
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Selection of coefficients for a diffusion-equation model of multi-server
+    queue
+  container-title: Performance
+  publisher: North-Holland
+  page: '135-146'
+  ISBN: '0-444-87680-4'
+
+- id: conf/performance/BernardoDC02
+  type: paper-conference
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: Donatiello
+    given: Lorenzo
+  - family: Ciancarini
+    given: Paolo
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: 'Stochastic process algebra: From an algebraic formalism to an architectural
+    description language'
+  title-short: Stochastic process algebra
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '236-260'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_11
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Perros83
+  type: paper-conference
+  author:
+  - family: Perros
+    given: Harry G.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A two-node queue network with a maximum number of allowable jobs
+  container-title: Performance
+  publisher: North-Holland
+  page: '33-44'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/GrilloB77
+  type: paper-conference
+  author:
+  - family: Grillo
+    given: Davide
+  - family: Brizzi
+    given: Mauro
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Implementation of algorithms for performance analysis of a class of multiprogrammed
+    computers
+  container-title: Performance
+  publisher: North-Holland
+  page: '131-150'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/Arato76
+  type: paper-conference
+  author:
+  - family: Arató
+    given: M.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Statistical sequential methods in performance evaluation of computer systems
+  container-title: Performance
+  publisher: North-Holland
+  page: '1-10'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/GunM87
+  type: paper-conference
+  author:
+  - family: Gün
+    given: Levent
+  - family: Makowski
+    given: Armand M.
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Matrix-geometric solution for finite capacity queues with phase-type distributions
+  container-title: Performance
+  publisher: North-Holland
+  page: '269-282'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/NelsonS90
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Randolph D.
+  - family: Squillante
+    given: Mark S.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Analysis of contention in multiprocessor scheduling
+  container-title: Performance
+  publisher: North-Holland
+  page: '391-405'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Evans90
+  type: paper-conference
+  author:
+  - family: Evans
+    given: Suzanne P.
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: Optimal resource management and capacity allocation in a broadband integrated
+    services network
+  container-title: Performance
+  publisher: North-Holland
+  page: '159-173'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/Reiser83
+  type: paper-conference
+  author:
+  - family: Reiser
+    given: Martin
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Queueing and delay analysis of a buffer pool with resume level
+  container-title: Performance
+  publisher: North-Holland
+  page: '25-32'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/GreenbergMR87
+  type: paper-conference
+  author:
+  - family: Greenberg
+    given: Albert G.
+  - family: Mitrani
+    given: Isi
+  - family: Rudolph
+    given: Larry
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Analysis of snooping caches
+  container-title: Performance
+  publisher: North-Holland
+  page: '345-361'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Stewart76
+  type: paper-conference
+  author:
+  - family: Stewart
+    given: William J.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Practical considerations in the numerical analysis of markovian models
+  container-title: Performance
+  publisher: North-Holland
+  page: '363-376'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/Bard79
+  type: paper-conference
+  author:
+  - family: Bard
+    given: Yonathan
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Some extensions to multiclass queueing network analysis
+  container-title: Performance
+  publisher: North-Holland
+  page: '51-62'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/VasseurG77
+  type: paper-conference
+  author:
+  - family: Vasseur
+    given: C.
+  - family: Guillon
+    given: Alain
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1977'
+  title: Study by mathematical modelization of the behavior of a conversational system
+  container-title: Performance
+  publisher: North-Holland
+  page: '451-466'
+  ISBN: '0-444-85058-9'
+
+- id: conf/performance/BalciS83
+  type: paper-conference
+  author:
+  - family: Balci
+    given: Osman
+  - family: Sargent
+    given: Robert G.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Validation fo multivariate response trace-driven simulation models
+  container-title: Performance
+  publisher: North-Holland
+  page: '309-323'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/MolleK83
+  type: paper-conference
+  author:
+  - family: Molle
+    given: Mart L.
+  - family: Konstantas
+    given: Dimitri
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: A simulation study of retransmission strategies for the asynchronous virtual
+    time cSMA protocol
+  container-title: Performance
+  publisher: North-Holland
+  page: '295-308'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/ArthursK79
+  type: paper-conference
+  author:
+  - family: Arthurs
+    given: 'E.'
+  - family: Kaufman
+    given: J. S.
+  editor:
+  - family: Arató
+    given: M.
+  issued:
+  - year: '1979'
+  title: Sizing a message store subject to blocking criteria
+  container-title: Performance
+  publisher: North-Holland
+  page: '547-564'
+  ISBN: '0-444-85332-4'
+
+- id: conf/performance/Feitelson02
+  type: paper-conference
+  author:
+  - family: Feitelson
+    given: Dror G.
+  editor:
+  - family: Calzarossa
+    given: Mariacarla
+  issued:
+  - year: '2002'
+  title: Workload modeling for performance evaluation
+  container-title: Performance
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-141'
+  volume: '2459'
+  DOI: 10.1007/3-540-45798-4_6
+  ISBN: '3-540-44252-9'
+
+- id: conf/performance/Dijk90
+  type: paper-conference
+  author:
+  - family: Dijk
+    given: Nico M.
+    dropping-particle: van
+  editor:
+  - family: King
+    given: Peter J. B.
+  issued:
+  - year: '1990'
+  title: An insensitive product form for discrete-time communication networks
+  container-title: Performance
+  publisher: North-Holland
+  page: '77-89'
+  ISBN: '0-444-88353-3'
+
+- id: conf/performance/GelenbeD76
+  type: paper-conference
+  author:
+  - family: Gelenbe
+    given: Erol
+  - family: Derochette
+    given: D.
+  editor:
+  - family: Beilner
+    given: Heinz
+  issued:
+  - year: '1976'
+  title: Maximum load and service delays in a data-base system with recovery from
+    failures
+  container-title: Performance
+  publisher: North-Holland
+  page: '129-141'
+  ISBN: '0-7204-0554-8'
+
+- id: conf/performance/DowdyPS83
+  type: paper-conference
+  author:
+  - family: Dowdy
+    given: Lawrence W.
+  - family: J. Perez-Davila
+    given: Alfredo
+    dropping-particle: de
+  - family: Stephens
+    given: Lindsey E.
+  editor:
+  - family: Agrawala
+    given: Ashok K.
+  issued:
+  - year: '1983'
+  title: Performance bounds based upon throughput curve properties
+  container-title: Performance
+  publisher: North-Holland
+  page: '285-293'
+  ISBN: '0-444-86673-6'
+
+- id: conf/performance/MutkaL87
+  type: paper-conference
+  author:
+  - family: Mutka
+    given: Matt W.
+  - family: Livny
+    given: Miron
+  editor:
+  - family: Courtois
+    given: Pierre-Jacques
+  issued:
+  - year: '1987'
+  title: Profiling workstations’ available capacity for remote execution
+  container-title: Performance
+  publisher: North-Holland
+  page: '529-544'
+  ISBN: '0-444-70347-0'
+
+- id: conf/performance/Boudec84
+  type: paper-conference
+  author:
+  - family: Boudec
+    given: Jean-Yves Le
+  editor:
+  - family: Gelenbe
+    given: Erol
+  issued:
+  - year: '1984'
+  title: Calcul des probabilités stationnaires des files pH/PH/1 et pH/PH/1/C
+  container-title: Performance
+  publisher: North-Holland
+  page: '321-336'
+  ISBN: '0-444-87680-4'
+...

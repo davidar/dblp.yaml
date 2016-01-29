@@ -1,0 +1,840 @@
+---
+references:
+- id: conf/memsys/DengZFC15
+  type: paper-conference
+  author:
+  - family: Deng
+    given: Zhaoxia
+  - family: Zhang
+    given: Lunkai
+  - family: Franklin
+    given: Diana
+  - family: Chong
+    given: Frederic T.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Herniated hash tables: Exploiting multi-level phase change memory for
+    in-place data expansion'
+  title-short: Herniated hash tables
+  container-title: MEMSYS
+  publisher: ACM
+  page: '247-257'
+  URL: http://doi.acm.org/10.1145/2818950.2818981
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/DeshpandeD15
+  type: paper-conference
+  author:
+  - family: Deshpande
+    given: Aditya M.
+  - family: Draper
+    given: Jeffrey T.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Modeling data movement in the memory hierarchy in hPC systems
+  container-title: MEMSYS
+  publisher: ACM
+  page: '158-161'
+  URL: http://doi.acm.org/10.1145/2818950.2818972
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/JayarajRHV15
+  type: paper-conference
+  author:
+  - family: Jayaraj
+    given: Jagan
+  - family: Rodrigues
+    given: Arun F.
+  - family: Hammond
+    given: Simon D.
+  - family: Voskuilen
+    given: Gwendolyn R.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: The potential and perils of multi-level memory
+  container-title: MEMSYS
+  publisher: ACM
+  page: '191-196'
+  URL: http://doi.acm.org/10.1145/2818950.2818976
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/HassanYM15
+  type: paper-conference
+  author:
+  - family: Hassan
+    given: Syed Minhaj
+  - family: Yalamanchili
+    given: Sudhakar
+  - family: Mukhopadhyay
+    given: Saibal
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Near data processing: Impact and optimization of 3D memory system architecture
+    on the uncore'
+  title-short: Near data processing
+  container-title: MEMSYS
+  publisher: ACM
+  page: '11-21'
+  URL: http://doi.acm.org/10.1145/2818950.2818952
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/ChoiK15
+  type: paper-conference
+  author:
+  - family: Choi
+    given: I. Stephen
+  - family: Kee
+    given: Yang-Suk
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Energy efficient scale-in clusters with in-storage processing for big-data
+    analytics
+  container-title: MEMSYS
+  publisher: ACM
+  page: '265-273'
+  URL: http://doi.acm.org/10.1145/2818950.2818983
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/KimKYR15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Hyojong
+  - family: Kim
+    given: Hyesoon
+  - family: Yalamanchili
+    given: Sudhakar
+  - family: Rodrigues
+    given: Arun F.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Understanding energy aspects of processing-near-memory for hPC workloads
+  container-title: MEMSYS
+  publisher: ACM
+  page: '276-282'
+  URL: http://doi.acm.org/10.1145/2818950.2818985
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/GokhaleLH15
+  type: paper-conference
+  author:
+  - family: Gokhale
+    given: Maya
+  - family: Lloyd
+    given: G. Scott
+  - family: Hajas
+    given: Chris
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Near memory data structure rearrangement
+  container-title: MEMSYS
+  publisher: ACM
+  page: '283-290'
+  URL: http://doi.acm.org/10.1145/2818950.2818986
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/DingLY15
+  type: paper-conference
+  author:
+  - family: Ding
+    given: Chen
+  - family: Lu
+    given: Hao
+  - family: Ye
+    given: Chencheng
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'MMC: A many-core memory connection model'
+  title-short: MMC
+  container-title: MEMSYS
+  publisher: ACM
+  page: '47-50'
+  URL: http://doi.acm.org/10.1145/2818950.2818958
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/BenderBHMMP15
+  type: paper-conference
+  author:
+  - family: Bender
+    given: Michael A.
+  - family: Berry
+    given: Jonathan W.
+  - family: Hammond
+    given: Simon D.
+  - family: Moore
+    given: Branden
+  - family: Moseley
+    given: Benjamin
+  - family: Phillips
+    given: Cynthia A.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: K-means clustering on two-level memory systems
+  container-title: MEMSYS
+  publisher: ACM
+  page: '197-205'
+  URL: http://doi.acm.org/10.1145/2818950.2818977
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/UppalM15
+  type: paper-conference
+  author:
+  - family: Uppal
+    given: Ahsen J.
+  - family: Meswani
+    given: Mitesh R.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Towards workload-aware page cache replacement policies for hybrid memories
+  container-title: MEMSYS
+  publisher: ACM
+  page: '206-219'
+  URL: http://doi.acm.org/10.1145/2818950.2818978
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/EslamiVVMCS15
+  type: paper-conference
+  author:
+  - family: Eslami
+    given: Ali
+  - family: Velasco
+    given: Alfredo
+  - family: Vahid
+    given: Alireza
+  - family: Mappouras
+    given: Georgios
+  - family: Calderbank
+    given: A. Robert
+  - family: Sorin
+    given: Daniel J.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Writing without disturb on phase change memories by integrating coding and
+    layout design
+  container-title: MEMSYS
+  publisher: ACM
+  page: '71-77'
+  URL: http://doi.acm.org/10.1145/2818950.2818962
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/NaiK15
+  type: paper-conference
+  author:
+  - family: Nai
+    given: Lifeng
+  - family: Kim
+    given: Hyesoon
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Instruction offloading with hMC 2.0 standard: A case study for graph traversals'
+  title-short: Instruction offloading with hMC 2.0 standard
+  container-title: MEMSYS
+  publisher: ACM
+  page: '258-261'
+  URL: http://doi.acm.org/10.1145/2818950.2818982
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/Ang15
+  type: paper-conference
+  author:
+  - family: Ang
+    given: James A.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: High performance computing co-design strategies
+  container-title: MEMSYS
+  publisher: ACM
+  page: '51-52'
+  URL: http://doi.acm.org/10.1145/2818950.2818959
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/BirkM15
+  type: paper-conference
+  author:
+  - family: Birk
+    given: Yitzhak
+  - family: Mencer
+    given: Oskar
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: A data centric perspective on memory placement
+  container-title: MEMSYS
+  publisher: ACM
+  page: '39-42'
+  URL: http://doi.acm.org/10.1145/2818950.2818956
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/BalakrishnanS15
+  type: paper-conference
+  author:
+  - family: Balakrishnan
+    given: Ganesh
+  - family: Solihin
+    given: Yan
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'MEMST: Cloning memory behavior using stochastic traces'
+  title-short: MEMST
+  container-title: MEMSYS
+  publisher: ACM
+  page: '146-157'
+  URL: http://doi.acm.org/10.1145/2818950.2818971
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/StevensTJ15
+  type: paper-conference
+  author:
+  - family: Stevens
+    given: Jim
+  - family: Tschirhart
+    given: Paul
+  - family: Jacob
+    given: Bruce
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: The semantic gap between software and the memory system
+  container-title: MEMSYS
+  publisher: ACM
+  page: '43-46'
+  URL: http://doi.acm.org/10.1145/2818950.2818957
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/MokhtariS15
+  type: paper-conference
+  author:
+  - family: Mokhtari
+    given: Reza
+  - family: Stumm
+    given: Michael
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'S-l1: A software-based gPU l1 cache that outperforms the hardware l1 for
+    data processing applications'
+  title-short: S-l1
+  container-title: MEMSYS
+  publisher: ACM
+  page: '121-132'
+  URL: http://doi.acm.org/10.1145/2818950.2818969
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/TschirhartSCLJ15
+  type: paper-conference
+  author:
+  - family: Tschirhart
+    given: Paul
+  - family: Stevens
+    given: Jim
+  - family: Chishti
+    given: Zeshan
+  - family: Lu
+    given: Shih-Lien
+  - family: Jacob
+    given: Bruce
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Bringing modern hierarchical memory systems into focus: A study of architecture
+    and workload factors on system performance'
+  title-short: Bringing modern hierarchical memory systems into focus
+  container-title: MEMSYS
+  publisher: ACM
+  page: '179-190'
+  URL: http://doi.acm.org/10.1145/2818950.2818975
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/ChildersYZ15
+  type: paper-conference
+  author:
+  - family: Childers
+    given: Bruce R.
+  - family: Yang
+    given: Jun
+  - family: Zhang
+    given: Youtao
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Achieving yield, density and performance effective dRAM at extreme technology
+    sizes
+  container-title: MEMSYS
+  publisher: ACM
+  page: '78-84'
+  URL: http://doi.acm.org/10.1145/2818950.2818963
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/ChenAWMC15
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Hsing-Min
+  - family: Arunkumar
+    given: Akhil
+  - family: Wu
+    given: Carole-Jean
+  - family: Mudge
+    given: Trevor N.
+  - family: Chakrabarti
+    given: Chaitali
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'E-eCC: Low power erasure and error correction schemes for increasing reliability
+    of commodity dRAM systems'
+  title-short: E-eCC
+  container-title: MEMSYS
+  publisher: ACM
+  page: '60-70'
+  URL: http://doi.acm.org/10.1145/2818950.2818961
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/KerseyYK15
+  type: paper-conference
+  author:
+  - family: Kersey
+    given: Chad D.
+  - family: Yalamanchili
+    given: Sudhakar
+  - family: Kim
+    given: Hyesoon
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'SIMT-based logic layers for stacked dRAM architectures: A prototype'
+  title-short: SIMT-based logic layers for stacked dRAM architectures
+  container-title: MEMSYS
+  publisher: ACM
+  page: '29-30'
+  URL: http://doi.acm.org/10.1145/2818950.2818954
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/Resnick15
+  type: paper-conference
+  author:
+  - family: Resnick
+    given: Dave
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Opportunities to upgrade main memory
+  container-title: MEMSYS
+  publisher: ACM
+  page: '55-59'
+  URL: http://doi.acm.org/10.1145/2818950.2818960
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/RadulovicZRSMRA15
+  type: paper-conference
+  author:
+  - family: Radulovic
+    given: Milan
+  - family: Zivanovic
+    given: Darko
+  - family: Ruiz
+    given: Daniel
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: McKee
+    given: Sally A.
+  - family: Radojkovic
+    given: Petar
+  - family: Ayguadé
+    given: Eduard
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Another trip to the wall: How much will stacked dRAM benefit hPC?'
+  title-short: Another trip to the wall
+  container-title: MEMSYS
+  publisher: ACM
+  page: '31-36'
+  URL: http://doi.acm.org/10.1145/2818950.2818955
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/CampoC15
+  type: paper-conference
+  author:
+  - family: Campo
+    given: Fernando Martin
+    dropping-particle: del
+  - family: Chow
+    given: Paul
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Architecture exploration for data intensive applications
+  container-title: MEMSYS
+  publisher: ACM
+  page: '135-145'
+  URL: http://doi.acm.org/10.1145/2818950.2818970
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/Awasthi15
+  type: paper-conference
+  author:
+  - family: Awasthi
+    given: Manu
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Rethinking design metrics for datacenter dRAM
+  container-title: MEMSYS
+  publisher: ACM
+  page: '162-163'
+  URL: http://doi.acm.org/10.1145/2818950.2818973
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/LaerWE15
+  type: paper-conference
+  author:
+  - family: Laer
+    given: Anouk Van
+  - family: Wang
+    given: William
+  - family: Emmons
+    given: Christopher D.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Inefficiencies in the cache hierarchy: A sensitivity study of cacheline
+    size with mobile workloads'
+  title-short: Inefficiencies in the cache hierarchy
+  container-title: MEMSYS
+  publisher: ACM
+  page: '235-245'
+  URL: http://doi.acm.org/10.1145/2818950.2818980
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/KimFGR15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Jinchun
+  - family: Fedorov
+    given: Viacheslav V.
+  - family: Gratz
+    given: Paul V.
+  - family: Reddy
+    given: A. L. Narasimha
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Dynamic memory pressure aware ballooning
+  container-title: MEMSYS
+  publisher: ACM
+  page: '103-112'
+  URL: http://doi.acm.org/10.1145/2818950.2818967
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/0001ZMHBWW15
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Matthias Jung
+  - family: Zulian
+    given: Éder
+  - family: Mathew
+    given: Deepak M.
+  - family: Herrmann
+    given: Matthias
+  - family: Brugger
+    given: Christian
+  - family: Weis
+    given: Christian
+  - family: Wehn
+    given: Norbert
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'Omitting refresh: A case study for commodity and wide i/O dRAMs'
+  title-short: Omitting refresh
+  container-title: MEMSYS
+  publisher: ACM
+  page: '85-91'
+  URL: http://doi.acm.org/10.1145/2818950.2818964
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/LohJKE15
+  type: paper-conference
+  author:
+  - family: Loh
+    given: Gabriel H.
+  - family: Jerger
+    given: Natalie D. Enright
+  - family: Kannan
+    given: Ajaykumar
+  - family: Eckert
+    given: Yasuko
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Interconnect-memory challenges for multi-chip, silicon interposer systems
+  container-title: MEMSYS
+  publisher: ACM
+  page: '3-10'
+  URL: http://doi.acm.org/10.1145/2818950.2818951
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/FedorovRG15
+  type: paper-conference
+  author:
+  - family: Fedorov
+    given: Viacheslav V.
+  - family: Reddy
+    given: A. L. Narasimha
+  - family: Gratz
+    given: Paul V.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Shared last-level caches and the case for longer timeslices
+  container-title: MEMSYS
+  publisher: ACM
+  page: '113-120'
+  URL: http://doi.acm.org/10.1145/2818950.2818968
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/KocoloskiZCL15
+  type: paper-conference
+  author:
+  - family: Kocoloski
+    given: Brian
+  - family: Zhou
+    given: Yuyu
+  - family: Childers
+    given: Bruce R.
+  - family: Lange
+    given: John R.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Implications of memory interference for composed hPC applications
+  container-title: MEMSYS
+  publisher: ACM
+  page: '95-97'
+  URL: http://doi.acm.org/10.1145/2818950.2818965
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/SebexenS15
+  type: paper-conference
+  author:
+  - family: Sebexen
+    given: Paul
+  - family: Sohmers
+    given: Thomas
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Software techniques for scratchpad memory management
+  container-title: MEMSYS
+  publisher: ACM
+  page: '98-102'
+  URL: http://doi.acm.org/10.1145/2818950.2818966
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/2015
+  type: book
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Proceedings of the 2015 international symposium on memory systems, mEMSYS
+    2015, washington dC, dC, uSA, october 5-8, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2818950
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/SuRLCSLN15
+  type: paper-conference
+  author:
+  - family: Su
+    given: Chun-Yi
+  - family: Roberts
+    given: David
+  - family: León
+    given: Edgar A.
+  - family: Cameron
+    given: Kirk W.
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  - family: Loh
+    given: Gabriel H.
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'HpMC: An energy-aware management system of multi-level memory architectures'
+  title-short: HpMC
+  container-title: MEMSYS
+  publisher: ACM
+  page: '167-178'
+  URL: http://doi.acm.org/10.1145/2818950.2818974
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/MundoLCO15
+  type: paper-conference
+  author:
+  - family: Mundo
+    given: Carlo C.
+    dropping-particle: del
+  - family: Lee
+    given: Vincent T.
+  - family: Ceze
+    given: Luis
+  - family: Oskin
+    given: Mark
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: 'NCAM: Near-data processing for nearest neighbor search'
+  title-short: NCAM
+  container-title: MEMSYS
+  publisher: ACM
+  page: '274-275'
+  URL: http://doi.acm.org/10.1145/2818950.2818984
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/AlvesSDC15
+  type: paper-conference
+  author:
+  - family: Alves
+    given: Marco Antonio Zanata
+  - family: Santos
+    given: Paulo C.
+  - family: Diener
+    given: Matthias
+  - family: Carro
+    given: Luigi
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Opportunities and challenges of performing vector operations inside the dRAM
+  container-title: MEMSYS
+  publisher: ACM
+  page: '22-28'
+  URL: http://doi.acm.org/10.1145/2818950.2818953
+  ISBN: '978-1-4503-3604-8'
+
+- id: conf/memsys/JogKKPBCKKD15
+  type: paper-conference
+  author:
+  - family: Jog
+    given: Adwait
+  - family: Kayiran
+    given: Onur
+  - family: Kesten
+    given: Tuba
+  - family: Pattnaik
+    given: Ashutosh
+  - family: Bolotin
+    given: Evgeny
+  - family: Chatterjee
+    given: Niladrish
+  - family: Keckler
+    given: Stephen W.
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Das
+    given: Chita R.
+  editor:
+  - family: Jacob
+    given: Bruce
+  issued:
+  - year: '2015'
+  title: Anatomy of gPU memory system for multi-application execution
+  container-title: MEMSYS
+  publisher: ACM
+  page: '223-234'
+  URL: http://doi.acm.org/10.1145/2818950.2818979
+  ISBN: '978-1-4503-3604-8'
+...

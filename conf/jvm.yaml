@@ -1,0 +1,1271 @@
+---
+references:
+- id: conf/jvm/AlpernBCDFGN02
+  type: paper-conference
+  author:
+  - family: Alpern
+    given: Bowen
+  - family: Butrico
+    given: Maria A.
+  - family: Cocchi
+    given: Anthony
+  - family: Dolby
+    given: Julian
+  - family: Fink
+    given: Stephen J.
+  - family: Grove
+    given: David
+  - family: Ngo
+    given: Ton
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Experiences porting the jikes rVM to linux/IA32
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '51-64'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/alpern.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/RussellB01
+  type: paper-conference
+  author:
+  - family: Russell
+    given: Kenneth B.
+  - family: Bak
+    given: Lars
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'The hotSpot serviceability agent: An out-of-process high-level debugger
+    for a javaTM virtual machine'
+  title-short: The hotSpot serviceability agent
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '117-126'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/russell.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/QianH04
+  type: paper-conference
+  author:
+  - family: Qian
+    given: Feng
+  - family: Hendren
+    given: Laurie J.
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Towards dynamic interprocedural analysis in jVMs
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '139-150'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/qian.html
+
+- id: conf/jvm/SuganumaYN02
+  type: paper-conference
+  author:
+  - family: Suganuma
+    given: Toshio
+  - family: Yasue
+    given: Toshiaki
+  - family: Nakatani
+    given: Toshio
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: An empirical study of method in-lining for a java just-in-time compiler
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '91-104'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/suganuma.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/DetlefsKCJ02
+  type: paper-conference
+  author:
+  - family: Detlefs
+    given: David
+  - family: Knippel
+    given: Ross
+  - family: Clinger
+    given: William D.
+  - family: Jacob
+    given: Matthias
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Concurrent remembered set refinement in generational garbage collection
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '13-26'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/detlefs.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/ChenKVIW02
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Guangyu
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Vijaykrishnan
+    given: Narayanan
+  - family: Irwin
+    given: Mary Jane
+  - family: Wolczko
+    given: Mario
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Adaptive garbage collection for battery-operated environments
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '1-12'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/chen_g.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/ChristiaensFNR01
+  type: paper-conference
+  author:
+  - family: Christiaens
+    given: Mark
+  - family: Fonck
+    given: Stijn
+  - family: Naudts
+    given: Dries
+  - family: Ronsse
+    given: Michiel
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'JaRec: Record/Replay for multi-threaded java programs'
+  title-short: JaRec
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S07.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Suri01
+  type: paper-conference
+  author:
+  - family: Suri
+    given: Niranjan
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'State capture and resource control for java: The design and implementation
+    of the aroma virtual machine'
+  title-short: State capture and resource control for java
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S15.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/AndreassonHL02
+  type: paper-conference
+  author:
+  - family: Andreasson
+    given: Eva
+  - family: Hoffmann
+    given: Frank
+  - family: Lindholm
+    given: Olof
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: To collect or not to collect? Machine learning for memory management
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '27-39'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/andreasson.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/X01
+  type: paper-conference
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Keynote slides
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/keynote/
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Andersson01
+  type: paper-conference
+  author:
+  - family: Andersson
+    given: Johan
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Kaffemik - a distributed jVM featuring a single address space
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S09.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/FongC01
+  type: paper-conference
+  author:
+  - family: Fong
+    given: Philip W. L.
+  - family: Cameron
+    given: Robert D.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'Proof linking: Distributed verification of java classfiles in the presence
+    of multiple classloaders'
+  title-short: Proof linking
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '53-66'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/fong.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/2001
+  type: book
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Proceedings of the 1st java virtual machine research and technology symposium,
+    april 23-24, 2001, monterey, cA, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A206
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/ChristiaensB01
+  type: paper-conference
+  author:
+  - family: Christiaens
+    given: Mark
+  - family: Bosschere
+    given: Koen De
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'TRaDe: A topological approach to on-the-fly race detection in java programs'
+  title-short: TRaDe
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '105-116'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/christiaens.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Potter04
+  type: paper-conference
+  author:
+  - family: Potter
+    given: Richard
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: One-click distribution of preconfigured linux runtime state
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/wips/potter.pdf
+
+- id: conf/jvm/MagenheimerC04
+  type: paper-conference
+  author:
+  - family: Magenheimer
+    given: Daniel J.
+  - family: Christian
+    given: Thomas W.
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'VBlades: Optimized paravirtualization for the itanium processor family'
+  title-short: VBlades
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '73-82'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/magenheimer.html
+
+- id: conf/jvm/BogdaS01
+  type: paper-conference
+  author:
+  - family: Bogda
+    given: Jeff
+  - family: Singh
+    given: Ambuj K.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Can a shape analysis work at run-time?
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/bogda.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/VijaykrishnanKKTSI01
+  type: paper-conference
+  author:
+  - family: Vijaykrishnan
+    given: Narayanan
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Kim
+    given: Soontae
+  - family: Tomar
+    given: Samarjeet Singh
+  - family: Sivasubramaniam
+    given: Anand
+  - family: Irwin
+    given: Mary Jane
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Energy behavior of java applications from the memory perspective
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '207-220'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/vijaykrishnan.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/SundararajD04
+  type: paper-conference
+  author:
+  - family: Sundararaj
+    given: Ananth I.
+  - family: Dinda
+    given: Peter A.
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Towards virtual networks for virtual machine grid computing
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '177-190'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/sundararaj.html
+
+- id: conf/jvm/Raner02
+  type: paper-conference
+  author:
+  - family: Raner
+    given: Mirko
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: A lightweight java virtual machine for a stack-based microprocessor
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '181-194'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/raner.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/HovemeyerP01
+  type: paper-conference
+  author:
+  - family: Hovemeyer
+    given: David
+  - family: Pugh
+    given: William
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: More efficient network class loading through bundling
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '127-140'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/hovemeyer.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/MooreP01
+  type: paper-conference
+  author:
+  - family: Moore
+    given: J. Strother
+  - family: Porter
+    given: George
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: An executable formal java virtual machine thread model
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '91-104'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/moore.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/GanevES04
+  type: paper-conference
+  author:
+  - family: Ganev
+    given: Ivan B.
+  - family: Eisenhauer
+    given: Greg
+  - family: Schwan
+    given: Karsten
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'Kernel plugins: When a vM is too much'
+  title-short: Kernel plugins
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '83-96'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/ganev.html
+
+- id: conf/jvm/Maruyama01
+  type: paper-conference
+  author:
+  - family: Maruyama
+    given: Fuyuhiko
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'OpenJIT 2: The design and implementation of application framework for
+    jIT compilers'
+  title-short: OpenJIT 2
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S17.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/JacobR02
+  type: paper-conference
+  author:
+  - family: Jacob
+    given: Matthias
+  - family: Randall
+    given: Keith H.
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Cross-architectural performance portability of a java virtual machine implementation
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '79-89'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/jacob.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/YuST02
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Dachuan
+  - family: Shao
+    given: Zhong
+  - family: Trifonov
+    given: Valery
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Supporting binary compatibility with static compilation
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '165-180'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/yu.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/HaldarCF04
+  type: paper-conference
+  author:
+  - family: Haldar
+    given: Vivek
+  - family: Chandra
+    given: Deepak
+  - family: Franz
+    given: Michael
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Awarded best paper! Semantic remote attestation - virtual machine directed
+    approach to trusted computing
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '29-41'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/haldar.html
+
+- id: conf/jvm/UhligLSD04
+  type: paper-conference
+  author:
+  - family: Uhlig
+    given: Volkmar
+  - family: LeVasseur
+    given: Joshua
+  - family: Skoglund
+    given: Espen
+  - family: Dannowski
+    given: Uwe
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Towards scalable multiprocessor virtual machines
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '43-56'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/uhlig.html
+
+- id: conf/jvm/SiebertW01
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  - family: Walter
+    given: Andy
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Deterministic execution of java’s primitive bytecode operations
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '141-152'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/siebert.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Palmer04
+  type: paper-conference
+  author:
+  - family: Palmer
+    given: Doug
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: A virtual machine generator for heterogeneous smart spaces
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '1-11'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/palmer.html
+
+- id: conf/jvm/ButtFHM04
+  type: paper-conference
+  author:
+  - family: Butt
+    given: Ali Raza
+  - family: Fang
+    given: Xing
+  - family: Hu
+    given: Y. Charlie
+  - family: Midkiff
+    given: Samuel P.
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'Java, peer-to-peer, and accountability: Building blocks for distributed
+    cycle sharing'
+  title-short: Java, peer-to-peer, and accountability
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '163-176'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/butt.html
+
+- id: conf/jvm/2002
+  type: book
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Proceedings of the 2nd java virtual machine research and technology symposium,
+    august 1-2, 2002, san francisco, cA, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A196
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/ChenMBFDLMRM01
+  type: paper-conference
+  author:
+  - family: Chen
+    given: DeQing
+  - family: Messer
+    given: Alan
+  - family: Bernadat
+    given: Philippe
+  - family: Fu
+    given: Guangrui
+  - family: Dimitrijevic
+    given: Zoran
+  - family: Lie
+    given: David Jeun Fung
+  - family: Mannaru
+    given: Durga
+  - family: Riska
+    given: Alma
+  - family: Milojicic
+    given: Dejan S.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: JVM susceptibility to memory errors
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '67-78'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/chen.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/BarabashBDKOPSSU01
+  type: paper-conference
+  author:
+  - family: Barabash
+    given: Katherine
+  - family: Buchbinder
+    given: Niv
+  - family: Domani
+    given: Tamar
+  - family: Kolodner
+    given: Elliot K.
+  - family: Ossia
+    given: Yoav
+  - family: Pinter
+    given: Shlomit S.
+  - family: Shepherd
+    given: Janice C.
+  - family: Sivan
+    given: Ron
+  - family: Umansky
+    given: Victor
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Mostly accurate stack scanning
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/barabash.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/SweeneyHCCDGH04
+  type: paper-conference
+  author:
+  - family: Sweeney
+    given: Peter F.
+  - family: Hauswirth
+    given: Matthias
+  - family: Cahoon
+    given: Brendon
+  - family: Cheng
+    given: Perry
+  - family: Diwan
+    given: Amer
+  - family: Grove
+    given: David
+  - family: Hind
+    given: Michael
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Using hardware performance monitors to understand the behavior of java applications
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '57-72'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/sweeney.html
+
+- id: conf/jvm/Piumarta04
+  type: paper-conference
+  author:
+  - family: Piumarta
+    given: Ian
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'The virtual processor: Fast, architecture-neutral dynamic code generation'
+  title-short: The virtual processor
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '97-110'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/piumarta.html
+
+- id: conf/jvm/Icaza04
+  type: paper-conference
+  author:
+  - family: Icaza
+    given: Miguel
+    dropping-particle: de
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: The mono vM
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A177
+
+- id: conf/jvm/Dice01
+  type: paper-conference
+  author:
+  - family: Dice
+    given: David
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Implementing fast java monitors with relaxed-locks
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '79-90'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/dice.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Gleim02
+  type: paper-conference
+  author:
+  - family: Gleim
+    given: Urs
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: 'JaRTS: A portable implementation of real-time core extensions for java'
+  title-short: JaRTS
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '139-149'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/gleim.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/Printezis01
+  type: paper-conference
+  author:
+  - family: Printezis
+    given: Tony
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Hot-swapping between a mark&Sweep and a mark&Compact garbage collector in
+    a generational environment
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/printezis.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Nishiyama04
+  type: paper-conference
+  author:
+  - family: Nishiyama
+    given: Hiroyasu
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Detecting data races using dynamic escape analysis based on read barrier
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '127-138'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/nishiyama.html
+
+- id: conf/jvm/OgasawaraKN02
+  type: paper-conference
+  author:
+  - family: Ogasawara
+    given: Takeshi
+  - family: Komatsu
+    given: Hideaki
+  - family: Nakatani
+    given: Toshio
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Optimizing precision overhead for x86 processors
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '41-50'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/ogasawara.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/Rosenblum04
+  type: paper-conference
+  author:
+  - family: Rosenblum
+    given: Mendel
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'Keynote address: Virtual machines: Past, present, and future'
+  title-short: Keynote address
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A177
+
+- id: conf/jvm/LafondL04
+  type: paper-conference
+  author:
+  - family: Lafond
+    given: Sébastien
+  - family: Lilius
+    given: Johan
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: An opcode level energy consumption model for a java virtual machine
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/wips/lafond.pdf
+
+- id: conf/jvm/ChenO02
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Michael K.
+  - family: Olukotun
+    given: Kunle
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Targeting dynamic compilation for embedded environments
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '151-164'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/chen_m.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/NgoS01
+  type: paper-conference
+  author:
+  - family: Ngo
+    given: Ton
+  - family: Smith
+    given: Stephen E.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Implementing jNI in java for jalapeño
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S06.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/GlewTCELS04
+  type: paper-conference
+  author:
+  - family: Glew
+    given: Neal
+  - family: Triantafyllis
+    given: Spyridon
+  - family: Cierniak
+    given: Michal
+  - family: Eng
+    given: Marsha
+  - family: Lewis
+    given: Brian T.
+  - family: Stichnoth
+    given: James M.
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'LIL: An architecture-neutral language for virtual-machine stubs'
+  title-short: LIL
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '111-125'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/glew.html
+
+- id: conf/jvm/PalecznyVC01
+  type: paper-conference
+  author:
+  - family: Paleczny
+    given: Michael
+  - family: Vick
+    given: Christopher A.
+  - family: Click
+    given: Cliff
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: The java hotSpot server compiler
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/paleczny.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/ZendraD02
+  type: paper-conference
+  author:
+  - family: Zendra
+    given: Olivier
+  - family: Driesen
+    given: Karel
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: Stress-testing control structures for dynamic dispatch in java
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '105-118'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/zendra.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/FloodDSZ01
+  type: paper-conference
+  author:
+  - family: Flood
+    given: Christine H.
+  - family: Detlefs
+    given: David
+  - family: Shavit
+    given: Nir
+  - family: Zhang
+    given: Xiolan
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Parallel garbage collection for shared memory multiprocessors
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/full_papers/flood/flood.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/Midkiff01
+  type: paper-conference
+  author:
+  - family: Midkiff
+    given: Samuel P.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: A java compiler for many memory models
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/JVM_wips/S11.pdf
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/VenugopalMK02
+  type: paper-conference
+  author:
+  - family: Venugopal
+    given: K. S.
+  - family: Manjunath
+    given: Geetha
+  - family: Krishnan
+    given: Venkatesh
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: 'SEc: A portable interpreter optimizing technique for embedded java virtual
+    machine'
+  title-short: SEc
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '127-138'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/venugopal.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/GrcevskiKSSS04
+  type: paper-conference
+  author:
+  - family: Grcevski
+    given: Nikola
+  - family: Kielstra
+    given: Allan
+  - family: Stoodley
+    given: Kevin
+  - family: Stoodley
+    given: Mark G.
+  - family: Sundaresan
+    given: Vijay
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Java just-in-time compiler and virtual machine improvements for server and
+    middleware applications
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '151-162'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/grcevski.html
+
+- id: conf/jvm/GohLKR04
+  type: paper-conference
+  author:
+  - family: Goh
+    given: Okehee
+  - family: Lee
+    given: Yann-Hang
+  - family: Kaakani
+    given: Ziad
+  - family: Rachlin
+    given: Elliott
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: A real-time garbage collector for embedded applications in cLI
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/wips/goh.pdf
+
+- id: conf/jvm/SchneiderMES01
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Daniel
+  - family: Mathiske
+    given: Bernd
+  - family: Ernst
+    given: Matthias
+  - family: Seidl
+    given: Matthew L.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Automatic persistent memory management for the spotless java virtual machine
+    on the palm connected organizer
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '195-206'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/schneider.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/TuckerC04
+  type: paper-conference
+  author:
+  - family: Tucker
+    given: Andrew
+  - family: Comay
+    given: David
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'Solaris zones: Operating system support for server consolidation'
+  title-short: Solaris zones
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/wips/tucker.pdf
+
+- id: conf/jvm/Cutumisu04
+  type: paper-conference
+  author:
+  - family: Cutumisu
+    given: Maria
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: 'MCI-java: A modified java virtual machine approach to multiple code inheritance'
+  title-short: MCI-java
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  page: '13-28'
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/tech/cutumisu.html
+
+- id: conf/jvm/Shaylor02
+  type: paper-conference
+  author:
+  - family: Shaylor
+    given: Nik
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: A just-in-time compiler for memory-constrained low-power devices
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '119-126'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/shaylor.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/AokiE01
+  type: paper-conference
+  author:
+  - family: Aoki
+    given: Takashi
+  - family: Eto
+    given: Takeshi
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: On the software virtual machine for the real hardware stack machine
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '221-232'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/aoki.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/GagnonH01
+  type: paper-conference
+  author:
+  - family: Gagnon
+    given: Etienne M.
+  - family: Hendren
+    given: Laurie J.
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: 'SableVM: A research framework for the efficient execution of java bytecode'
+  title-short: SableVM
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '27-40'
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/gagnon.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/PlissM04
+  type: paper-conference
+  author:
+  - family: Pliss
+    given: Oleg
+  - family: Mathiske
+    given: Bernd
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Efficient code caching for an embedded dynamic adaptive compiler
+  container-title: Virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/vm04/wips/pliss.pdf
+
+- id: conf/jvm/DoyleA02
+  type: paper-conference
+  author:
+  - family: Doyle
+    given: Patrick
+  - family: Abdelrahman
+    given: Tarek S.
+  editor:
+  - family: Midkiff
+    given: Samuel P.
+  issued:
+  - year: '2002'
+  title: A modular and extensible jVM infrastructure
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  page: '65-78'
+  URL: http://www.usenix.org/publications/library/proceedings/javavm02/doyle.html
+  ISBN: '1-931971-01-3'
+
+- id: conf/jvm/AlpernCG01
+  type: paper-conference
+  author:
+  - family: Alpern
+    given: Bowen
+  - family: Cocchi
+    given: Anthony
+  - family: Grove
+    given: David
+  editor:
+  - family: Wold
+    given: Saul
+  issued:
+  - year: '2001'
+  title: Dynamic type checking in jalapeño
+  container-title: Java virtual machine research and technology symposium
+  publisher: USENIX
+  URL: http://www.usenix.org/publications/library/proceedings/jvm01/alpern.html
+  ISBN: '1-880446-11-1'
+
+- id: conf/jvm/2004
+  type: book
+  editor:
+  - family: Abdelrahman
+    given: Tarek S.
+  issued:
+  - year: '2004'
+  title: Proceedings of the 3rd virtual machine research and technology symposium,
+    may 6-7, 2004, san jose, cA, uSA
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A177
+...

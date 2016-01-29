@@ -1,0 +1,5857 @@
+---
+references:
+- id: conf/iwmm/PhanSJ08
+  type: paper-conference
+  author:
+  - family: Phan
+    given: Quan
+  - family: Somogyi
+    given: Zoltan
+  - family: Janssens
+    given: Gerda
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Runtime support for region-based memory management in mercury
+  container-title: ISMM
+  publisher: ACM
+  page: '61-70'
+  URL: http://doi.acm.org/10.1145/1375634.1375644
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/CheadleFADHN06
+  type: paper-conference
+  author:
+  - family: Cheadle
+    given: Andrew M.
+  - family: Field
+    given: A. J.
+  - family: Ayres
+    given: J. W.
+  - family: Dunn
+    given: Neil
+  - family: Hayden
+    given: Richard A.
+  - family: Nyström-Persson
+    given: Johan
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Visualising dynamic memory allocators
+  container-title: ISMM
+  publisher: ACM
+  page: '115-125'
+  URL: http://doi.acm.org/10.1145/1133956.1133972
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/SagonasW06
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Wilhelmsson
+    given: Jesper
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Mark and split
+  container-title: ISMM
+  publisher: ACM
+  page: '29-39'
+  URL: http://doi.acm.org/10.1145/1133956.1133961
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/AgaramKLM06
+  type: paper-conference
+  author:
+  - family: Agaram
+    given: Kartik K.
+  - family: Keckler
+    given: Stephen W.
+  - family: Lin
+    given: Calvin
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: 'Decomposing memory performance: Data structures and phases'
+  title-short: Decomposing memory performance
+  container-title: ISMM
+  publisher: ACM
+  page: '95-103'
+  URL: http://doi.acm.org/10.1145/1133956.1133970
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/BlackburnM02
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: 'In or out?: Putting write barriers in their place'
+  title-short: In or out?
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '281-290'
+  URL: http://doi.acm.org/10.1145/773039.512452
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/VenkatasubramanianAT92
+  type: paper-conference
+  author:
+  - family: Venkatasubramanian
+    given: Nalini
+  - family: Agha
+    given: Gul
+  - family: Talcott
+    given: Carolyn L.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Scalable distributed garbage collection for systems of active objects
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-147'
+  volume: '637'
+  DOI: 10.1007/BFb0017187
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/VardhanA02
+  type: paper-conference
+  author:
+  - family: Vardhan
+    given: Abhay
+  - family: Agha
+    given: Gul
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Using passive object garbage collection algorithms for garbage collection
+    of active objects
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '213-220'
+  URL: http://doi.acm.org/10.1145/773039.512443
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/DonnellyHK06
+  type: paper-conference
+  author:
+  - family: Donnelly
+    given: Kevin
+  - family: Hallett
+    given: J. J.
+  - family: Kfoury
+    given: Assaf J.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Formal semantics of weak references
+  container-title: ISMM
+  publisher: ACM
+  page: '126-137'
+  URL: http://doi.acm.org/10.1145/1133956.1133974
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/StancuWBLF15
+  type: paper-conference
+  author:
+  - family: Stancu
+    given: Codrut
+  - family: Wimmer
+    given: Christian
+  - family: Brunthaler
+    given: Stefan
+  - family: Larsen
+    given: Per
+  - family: Franz
+    given: Michael
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Safe and efficient hybrid memory management for java
+  container-title: ISMM
+  publisher: ACM
+  page: '81-92'
+  URL: http://doi.acm.org/10.1145/2754169.2754185
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/BrabermanFGY08
+  type: paper-conference
+  author:
+  - family: Braberman
+    given: Víctor A.
+  - family: Fernández
+    given: Federico Javier
+  - family: Garbervetsky
+    given: Diego
+  - family: Yovine
+    given: Sergio
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Parametric prediction of heap memory requirements
+  container-title: ISMM
+  publisher: ACM
+  page: '141-150'
+  URL: http://doi.acm.org/10.1145/1375634.1375655
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/JonesR08
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Richard E.
+  - family: Ryder
+    given: Chris
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: A study of java object demographics
+  container-title: ISMM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1375634.1375652
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/Kirk07
+  type: paper-conference
+  author:
+  - family: Kirk
+    given: David
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: NVIDIA cuda software and gpu parallel computing architecture
+  container-title: ISMM
+  publisher: ACM
+  page: '103-104'
+  URL: http://doi.acm.org/10.1145/1296907.1296909
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/HammerA08
+  type: paper-conference
+  author:
+  - family: Hammer
+    given: Matthew A.
+  - family: Acar
+    given: Umut A.
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Memory management for self-adjusting computation
+  container-title: ISMM
+  publisher: ACM
+  page: '51-60'
+  URL: http://doi.acm.org/10.1145/1375634.1375642
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/MarlowJ11
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Multicore garbage collection with local heaps
+  container-title: ISMM
+  publisher: ACM
+  page: '21-32'
+  URL: http://doi.acm.org/10.1145/1993478.1993482
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/WilsonJNB95
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Paul R.
+  - family: Johnstone
+    given: Mark S.
+  - family: Neely
+    given: Michael
+  - family: Boles
+    given: David
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: 'Dynamic storage allocation: A survey and critical review'
+  title-short: Dynamic storage allocation
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-116'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_19
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/PlainfosseS92
+  type: paper-conference
+  author:
+  - family: Plainfossé
+    given: David
+  - family: Shapiro
+    given: Marc
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Experience with a fault-tolerant garbage collector in a distributed list
+    system
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '116-133'
+  volume: '637'
+  DOI: 10.1007/BFb0017186
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/RavitchL13
+  type: paper-conference
+  author:
+  - family: Ravitch
+    given: Tristan
+  - family: Liblit
+    given: Ben
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Analyzing memory ownership patterns in c libraries
+  container-title: ISMM
+  publisher: ACM
+  page: '97-108'
+  URL: http://doi.acm.org/10.1145/2464157.2464162
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/DomaniKLSBLLPY00
+  type: paper-conference
+  author:
+  - family: Domani
+    given: Tamar
+  - family: Kolodner
+    given: Elliot K.
+  - family: Lewis
+    given: Ethan
+  - family: Salant
+    given: Eliot E.
+  - family: Barabash
+    given: Katherine
+  - family: Lahan
+    given: Itai
+  - family: Levanoni
+    given: Yossi
+  - family: Petrank
+    given: Erez
+  - family: Yanover
+    given: Igor
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Implementing an on-the-fly garbage collector for java
+  container-title: ISMM
+  publisher: ACM
+  page: '155-166'
+  URL: http://doi.acm.org/10.1145/362422.362484
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/ShidalSSCK15
+  type: paper-conference
+  author:
+  - family: Shidal
+    given: Jonathan A.
+  - family: Spilo
+    given: Ari J.
+  - family: Scheid
+    given: Paul T.
+  - family: Cytron
+    given: Ron K.
+  - family: Kavi
+    given: Krishna M.
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Recycling trash in cache
+  container-title: ISMM
+  publisher: ACM
+  page: '118-130'
+  URL: http://doi.acm.org/10.1145/2754169.2754183
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Wilson92
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Paul R.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Uniprocessor garbage collection techniques
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-42'
+  volume: '637'
+  DOI: 10.1007/BFb0017182
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/GarnerBF07
+  type: paper-conference
+  author:
+  - family: Garner
+    given: Robin
+  - family: Blackburn
+    given: Stephen M.
+  - family: Frampton
+    given: Daniel
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Effective prefetch for mark-sweep garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/1296907.1296915
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/AttardiFI95
+  type: paper-conference
+  author:
+  - family: Attardi
+    given: Giuseppe
+  - family: Flagella
+    given: Tito
+  - family: Iglio
+    given: Pietro
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Performance tuning in a customizable collector
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-196'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_24
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/BekkersRU92
+  type: paper-conference
+  author:
+  - family: Bekkers
+    given: Yves
+  - family: Ridoux
+    given: Olivier
+  - family: Ungaro
+    given: Lucien
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Dynamic memory management for sequential logic programming languages
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-102'
+  volume: '637'
+  DOI: 10.1007/BFb0017184
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/HeilS00
+  type: paper-conference
+  author:
+  - family: Heil
+    given: Timothy H.
+  - family: Smith
+    given: James E.
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Concurrent garbage collection usingHardware-assisted profiling
+  container-title: ISMM
+  publisher: ACM
+  page: '80-93'
+  URL: http://doi.acm.org/10.1145/362422.362466
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/GuCBZD09
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Xiaoming
+  - family: Christopher
+    given: Ian
+  - family: Bai
+    given: Tongxin
+  - family: Zhang
+    given: Chengliang
+  - family: Ding
+    given: Chen
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: A component model of spatial locality
+  container-title: ISMM
+  publisher: ACM
+  page: '99-108'
+  URL: http://doi.acm.org/10.1145/1542431.1542446
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/HirzelD00
+  type: paper-conference
+  author:
+  - family: Hirzel
+    given: Martin
+  - family: Diwan
+    given: Amer
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: On the type accuracy of garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/362422.362428
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/BaconCS14
+  type: paper-conference
+  author:
+  - family: Bacon
+    given: David F.
+  - family: Cheng
+    given: Perry
+  - family: Shukla
+    given: Sunil
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Parallel real-time garbage collection of multiple heaps in reconfigurable
+    hardware
+  container-title: ISMM
+  publisher: ACM
+  page: '117-127'
+  URL: http://doi.acm.org/10.1145/2602988.2602996
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/LiDL14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Pengcheng
+  - family: Ding
+    given: Chen
+  - family: Luo
+    given: Hao
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Modeling heap data growth using average liveness
+  container-title: ISMM
+  publisher: ACM
+  page: '71-82'
+  URL: http://doi.acm.org/10.1145/2602988.2602997
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/LimPB98
+  type: paper-conference
+  author:
+  - family: Lim
+    given: Tian F.
+  - family: Pardyak
+    given: Przemyslaw
+  - family: Bershad
+    given: Brian N.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: A memory-efficient real-time non-copying garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '118-129'
+  URL: http://doi.acm.org/10.1145/286860.286873
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/OsterlundL15
+  type: paper-conference
+  author:
+  - family: Österlund
+    given: Erik
+  - family: Löwe
+    given: Welf
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Concurrent compaction using a field pinning protocol
+  container-title: ISMM
+  publisher: ACM
+  page: '56-69'
+  URL: http://doi.acm.org/10.1145/2754169.2754177
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/VechevB04
+  type: paper-conference
+  author:
+  - family: Vechev
+    given: Martin T.
+  - family: Bacon
+    given: David F.
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Write barrier elision for concurrent garbage collectors
+  container-title: ISMM
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1029873.1029876
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/LiCK13
+  type: paper-conference
+  author:
+  - family: Li
+    given: Lian
+  - family: Cifuentes
+    given: Cristina
+  - family: Keynes
+    given: Nathan
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Precise and scalable context-sensitive pointer analysis via value flow graph
+  container-title: ISMM
+  publisher: ACM
+  page: '85-96'
+  URL: http://doi.acm.org/10.1145/2464157.2466483
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/2009
+  type: book
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Proceedings of the 8th international symposium on memory management, iSMM
+    2009, dublin, ireland, june 19-20, 2009
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1542431
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/1998
+  type: book
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: International symposium on memory management, iSMM ’98, vancouver, british
+    columbia, canada, 17-19 october, 1998, conference proceedings
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=286860
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/SergentB92
+  type: paper-conference
+  author:
+  - family: Sergent
+    given: Thierry Le
+  - family: Berthomieu
+    given: Bernard
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Incremental multi-threaded garbage collection on virtual shared memory architectures
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '179-199'
+  volume: '637'
+  DOI: 10.1007/BFb0017190
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/MaedaKITHN95
+  type: paper-conference
+  author:
+  - family: Maeda
+    given: Munenori
+  - family: Konaka
+    given: Hiroki
+  - family: Ishikawa
+    given: Yutaka
+  - family: Tomokiyo
+    given: Takashi
+  - family: Hori
+    given: Atsushi
+  - family: Nolte
+    given: Jörg
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: On-the-fly global garbage collection based on partly mark-sweep
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '283-296'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_29
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/SomanKB04
+  type: paper-conference
+  author:
+  - family: Soman
+    given: Sunil
+  - family: Krintz
+    given: Chandra
+  - family: Bacon
+    given: David F.
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Dynamic selection of application-specific garbage collectors
+  container-title: ISMM
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/1029873.1029880
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/Joisha14
+  type: paper-conference
+  author:
+  - family: Joisha
+    given: Pramod G.
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: 'Sticky tries: Fast insertions, fast lookups, no deletions for large key
+    universes'
+  title-short: Sticky tries
+  container-title: ISMM
+  publisher: ACM
+  page: '35-46'
+  URL: http://doi.acm.org/10.1145/2602988.2602998
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/HuangBGM06
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Xianglong
+  - family: Blackburn
+    given: Stephen M.
+  - family: Grove
+    given: David
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: 'Fast and efficient partial code reordering: Taking advantage of dynamic
+    recompilatior'
+  title-short: Fast and efficient partial code reordering
+  container-title: ISMM
+  publisher: ACM
+  page: '184-192'
+  URL: http://doi.acm.org/10.1145/1133956.1133980
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/AlbertGG10
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Genaim
+    given: Samir
+  - family: Gómez-Zamalloa
+    given: Miguel
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Parametric inference of memory requirements for garbage collected languages
+  container-title: ISMM
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1806651.1806671
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/PizloFPS07
+  type: paper-conference
+  author:
+  - family: Pizlo
+    given: Filip
+  - family: Frampton
+    given: Daniel
+  - family: Petrank
+    given: Erez
+  - family: Steensgaard
+    given: Bjarne
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: 'Stopless: A real-time garbage collector for multiprocessors'
+  title-short: Stopless
+  container-title: ISMM
+  publisher: ACM
+  page: '159-172'
+  URL: http://doi.acm.org/10.1145/1296907.1296927
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/HudsonM92
+  type: paper-conference
+  author:
+  - family: Hudson
+    given: Richard L.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Incremental collection of mature objects
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '388-403'
+  volume: '637'
+  DOI: 10.1007/BFb0017203
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/Joisha07
+  type: paper-conference
+  author:
+  - family: Joisha
+    given: Pramod G.
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: 'Overlooking roots: A framework for making nondeferred reference-counting
+    garbage collection fast'
+  title-short: Overlooking roots
+  container-title: ISMM
+  publisher: ACM
+  page: '141-158'
+  URL: http://doi.acm.org/10.1145/1296907.1296926
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/MahapatraLS02
+  type: paper-conference
+  author:
+  - family: Mahapatra
+    given: Nihar R.
+  - family: Liu
+    given: Jiangjiang
+  - family: Sundaresan
+    given: Krishnan
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: The performance advantage of applying compression to the memory system
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '86-96'
+  URL: http://doi.acm.org/10.1145/773039.773048
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/WickF04
+  type: paper-conference
+  author:
+  - family: Wick
+    given: Adam
+  - family: Flatt
+    given: Matthew
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Memory accounting without partitions
+  container-title: ISMM
+  publisher: ACM
+  page: '120-130'
+  URL: http://doi.acm.org/10.1145/1029873.1029888
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/WhiteSAJ13
+  type: paper-conference
+  author:
+  - family: White
+    given: David Robert
+  - family: Singer
+    given: Jeremy
+  - family: Aitken
+    given: Jonathan M.
+  - family: Jones
+    given: Richard E.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Control theory for principled heap sizing
+  container-title: ISMM
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/2464157.2466481
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/UgawaJR14
+  type: paper-conference
+  author:
+  - family: Ugawa
+    given: Tomoharu
+  - family: Jones
+    given: Richard E.
+  - family: Ritson
+    given: Carl G.
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Reference object processing in on-the-fly garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '59-69'
+  URL: http://doi.acm.org/10.1145/2602988.2602991
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/Trancon-y-Widemann08
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: A reference-counting garbage collection algorithmfor cyclical functional
+    programming
+  container-title: ISMM
+  publisher: ACM
+  page: '71-80'
+  URL: http://doi.acm.org/10.1145/1375634.1375645
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/BarabashP10
+  type: paper-conference
+  author:
+  - family: Barabash
+    given: Katherine
+  - family: Petrank
+    given: Erez
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Tracing garbage collection on highly parallel platforms
+  container-title: ISMM
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1806651.1806653
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/Moreau98
+  type: paper-conference
+  author:
+  - family: Moreau
+    given: Luc
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Hierarchical distributed reference counting
+  container-title: ISMM
+  publisher: ACM
+  page: '57-67'
+  URL: http://doi.acm.org/10.1145/286860.286867
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/BhatiaCL06
+  type: paper-conference
+  author:
+  - family: Bhatia
+    given: Sapan
+  - family: Consel
+    given: Charles
+  - family: Lawall
+    given: Julia L.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: 'Memory-manager/scheduler co-design: Optimizing event-driven servers to
+    improve cache behavior'
+  title-short: Memory-manager/scheduler co-design
+  container-title: ISMM
+  publisher: ACM
+  page: '104-114'
+  URL: http://doi.acm.org/10.1145/1133956.1133971
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/WeemeeuwD92
+  type: paper-conference
+  author:
+  - family: Weemeeuw
+    given: Patrick
+  - family: Demoen
+    given: Bart
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: 'Garbage collection in aurora: An overview'
+  title-short: Garbage collection in aurora
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '454-472'
+  volume: '637'
+  DOI: 10.1007/BFb0017207
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/ShahriyarBF12
+  type: paper-conference
+  author:
+  - family: Shahriyar
+    given: Rifat
+  - family: Blackburn
+    given: Stephen M.
+  - family: Frampton
+    given: Daniel
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Down for the count? Getting reference counting back in the ring
+  container-title: ISMM
+  publisher: ACM
+  page: '73-84'
+  URL: http://doi.acm.org/10.1145/2258996.2259008
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/MirandaB15
+  type: paper-conference
+  author:
+  - family: Miranda
+    given: Eliot
+  - family: Béra
+    given: Clément
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: A partial read barrier for efficient support of live object-oriented programming
+  container-title: ISMM
+  publisher: ACM
+  page: '93-104'
+  URL: http://doi.acm.org/10.1145/2754169.2754186
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/KumarL02
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Sanjeev
+  - family: Li
+    given: Kai
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Dynamic memory management for programmable devices
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '245-255'
+  URL: http://doi.acm.org/10.1145/773039.512447
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/YangHBKM04
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Ting
+  - family: Hertz
+    given: Matthew
+  - family: Berger
+    given: Emery D.
+  - family: Kaplan
+    given: Scott F.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: 'Automatic heap sizing: Taking real memory into account'
+  title-short: Automatic heap sizing
+  container-title: ISMM
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/1029873.1029881
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/KaliberaJ11
+  type: paper-conference
+  author:
+  - family: Kalibera
+    given: Tomas
+  - family: Jones
+    given: Richard E.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: 'Handles revisited: Optimising performance and memory costs in a real-time
+    collector'
+  title-short: Handles revisited
+  container-title: ISMM
+  publisher: ACM
+  page: '89-98'
+  URL: http://doi.acm.org/10.1145/1993478.1993492
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/ZhouD12
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Jin
+  - family: Demsky
+    given: Brian
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Memory management for many-core processors with software configurable locality
+    policies
+  container-title: ISMM
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2258996.2259000
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/SingerJBL10
+  type: paper-conference
+  author:
+  - family: Singer
+    given: Jeremy
+  - family: Jones
+    given: Richard E.
+  - family: Brown
+    given: Gavin
+  - family: Luján
+    given: Mikel
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: The economics of garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '103-112'
+  URL: http://doi.acm.org/10.1145/1806651.1806669
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/Robertz02
+  type: paper-conference
+  author:
+  - family: Robertz
+    given: Sven Gestegard
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Applying priorities to memory allocation
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '108-118'
+  URL: http://doi.acm.org/10.1145/773039.512431
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/Corry06
+  type: paper-conference
+  author:
+  - family: Corry
+    given: Erik
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Optimistic stack allocation for java-like languages
+  container-title: ISMM
+  publisher: ACM
+  page: '162-173'
+  URL: http://doi.acm.org/10.1145/1133956.1133978
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/Meyer06
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Matthias
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: A true hardware read barrier
+  container-title: ISMM
+  publisher: ACM
+  page: '3-16'
+  URL: http://doi.acm.org/10.1145/1133956.1133959
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/Zilles07
+  type: paper-conference
+  author:
+  - family: Zilles
+    given: Craig B.
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Accordion arrays
+  container-title: ISMM
+  publisher: ACM
+  page: '55-66'
+  URL: http://doi.acm.org/10.1145/1296907.1296916
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/OssiaBS04
+  type: paper-conference
+  author:
+  - family: Ossia
+    given: Yoav
+  - family: Ben-Yitzhak
+    given: Ori
+  - family: Segal
+    given: Marc
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Mostly concurrent compaction for mark-sweep gC
+  container-title: ISMM
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1029873.1029877
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/LyberisPNSGS12
+  type: paper-conference
+  author:
+  - family: Lyberis
+    given: Spyros
+  - family: Pratikakis
+    given: Polyvios
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  - family: Schulz
+    given: Martin
+  - family: Gamblin
+    given: Todd
+  - family: Supinski
+    given: Bronis R.
+    dropping-particle: de
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: 'The myrmics memory allocator: Hierarchical, message-passing allocation
+    for global address spaces'
+  title-short: The myrmics memory allocator
+  container-title: ISMM
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/2258996.2259001
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/MaasRMAJK12
+  type: paper-conference
+  author:
+  - family: Maas
+    given: Martin
+  - family: Reames
+    given: Philip
+  - family: Morlan
+    given: Jeffrey
+  - family: Asanovic
+    given: Krste
+  - family: Joseph
+    given: Anthony D.
+  - family: Kubiatowicz
+    given: John
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: GPUs as an opportunity for offloading garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/2258996.2259002
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/HeckW92
+  type: paper-conference
+  author:
+  - family: Heck
+    given: Brian C.
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: An implementation of an applicative file system
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '248-263'
+  volume: '637'
+  DOI: 10.1007/BFb0017194
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/DetlefsFHP04
+  type: paper-conference
+  author:
+  - family: Detlefs
+    given: David
+  - family: Flood
+    given: Christine H.
+  - family: Heller
+    given: Steve
+  - family: Printezis
+    given: Tony
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Garbage-first garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/1029873.1029879
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/2012
+  type: book
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: International symposium on memory management, iSMM ’12, beijing, china, june
+    15-16, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2258996
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/Kuszmaul15
+  type: paper-conference
+  author:
+  - family: Kuszmaul
+    given: Bradley C.
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: 'SuperMalloc: A super fast multithreaded malloc for 64-bit machines'
+  title-short: SuperMalloc
+  container-title: ISMM
+  publisher: ACM
+  page: '41-55'
+  URL: http://doi.acm.org/10.1145/2754169.2754178
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Makholm00
+  type: paper-conference
+  author:
+  - family: Makholm
+    given: Henning
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: A region-based memory manager for prolog
+  container-title: ISMM
+  publisher: ACM
+  page: '25-34'
+  URL: http://doi.acm.org/10.1145/362422.362434
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/SingerKBL11
+  type: paper-conference
+  author:
+  - family: Singer
+    given: Jeremy
+  - family: Kovoor
+    given: George
+  - family: Brown
+    given: Gavin
+  - family: Luján
+    given: Mikel
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Garbage collection auto-tuning for java mapreduce on multi-cores
+  container-title: ISMM
+  publisher: ACM
+  page: '109-118'
+  URL: http://doi.acm.org/10.1145/1993478.1993495
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/VechevYY10
+  type: paper-conference
+  author:
+  - family: Vechev
+    given: Martin T.
+  - family: Yahav
+    given: Eran
+  - family: Yorsh
+    given: Greta
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: 'PHALANX: Parallel checking of expressive heap assertions'
+  title-short: PHALANX
+  container-title: ISMM
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1806651.1806658
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/SchneiderAN06
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Scott
+  - family: Antonopoulos
+    given: Christos D.
+  - family: Nikolopoulos
+    given: Dimitrios S.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Scalable locality-conscious multithreaded memory allocation
+  container-title: ISMM
+  publisher: ACM
+  page: '84-94'
+  URL: http://doi.acm.org/10.1145/1133956.1133968
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/OHearn07
+  type: paper-conference
+  author:
+  - family: O’Hearn
+    given: Peter W.
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Separation logic and concurrent resource management
+  container-title: ISMM
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1296907.1296908
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/MagnussonH95
+  type: paper-conference
+  author:
+  - family: Magnusson
+    given: Boris
+  - family: Henriksson
+    given: Roger
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Garbage collection for control systems
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '323-342'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_32
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/MatsuiTMN95
+  type: paper-conference
+  author:
+  - family: Matsui
+    given: Shogo
+  - family: Tanaka
+    given: Yoshio
+  - family: Maeda
+    given: Atsushi
+  - family: Nakanishi
+    given: Masakazu
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Complementary garbage collector
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-177'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_23
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Harris00
+  type: paper-conference
+  author:
+  - family: Harris
+    given: Timothy L.
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Dynamic adaptive pre-tenuring
+  container-title: ISMM
+  publisher: ACM
+  page: '127-136'
+  URL: http://doi.acm.org/10.1145/362422.362476
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/StefanovicMB00
+  type: paper-conference
+  author:
+  - family: Stefanovic
+    given: Darko
+  - family: McKinley
+    given: Kathryn S.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: On models for object lifetimes
+  container-title: ISMM
+  publisher: ACM
+  page: '137-142'
+  URL: http://doi.acm.org/10.1145/362422.362477
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/2011
+  type: book
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Proceedings of the 10th international symposium on memory management, iSMM
+    2011, san jose, cA, uSA, june 04 - 05, 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1993478
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/Printezis14
+  type: paper-conference
+  author:
+  - family: Printezis
+    given: Tony
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: 'Use of the jVM at twitter: A bird’s eye view'
+  title-short: Use of the jVM at twitter
+  container-title: ISMM
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2602988.2619208
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/Pique92
+  type: paper-conference
+  author:
+  - family: Pique
+    given: Jean François
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Dynamic revision of choice points during garbage collection in prolog \[iI/III\]
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '330-343'
+  volume: '637'
+  DOI: 10.1007/BFb0017199
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/HusseinHPV15
+  type: paper-conference
+  author:
+  - family: Hussein
+    given: Ahmed
+  - family: Hosking
+    given: Antony L.
+  - family: Payer
+    given: Mathias
+  - family: Vick
+    given: Christopher A.
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: 'Don’t race the memory bus: Taming the gC leadfoot'
+  title-short: Don’t race the memory bus
+  container-title: ISMM
+  publisher: ACM
+  page: '15-27'
+  URL: http://doi.acm.org/10.1145/2754169.2754182
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/StefanovicHBMM02
+  type: paper-conference
+  author:
+  - family: Stefanovic
+    given: Darko
+  - family: Hertz
+    given: Matthew
+  - family: Blackburn
+    given: Stephen
+  - family: McKinley
+    given: Kathryn S.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: 'Older-first garbage collection in practice: Evaluation in java virtual
+    machine'
+  title-short: Older-first garbage collection in practice
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/773039.773042
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/DilligDYC08
+  type: paper-conference
+  author:
+  - family: Dillig
+    given: Isil
+  - family: Dillig
+    given: Thomas
+  - family: Yahav
+    given: Eran
+  - family: Chandra
+    given: Satish
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: 'The cLOSER: Automating resource management in java'
+  title-short: The cLOSER
+  container-title: ISMM
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1375634.1375636
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/BrandtKSB14
+  type: paper-conference
+  author:
+  - family: Brandt
+    given: Steven R.
+  - family: Krishnan
+    given: Hari
+  - family: Sharma
+    given: Gokarna
+  - family: Busch
+    given: Costas
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Concurrent, parallel garbage collection in linear time
+  container-title: ISMM
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/2602988.2602990
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/HudsonSAH06
+  type: paper-conference
+  author:
+  - family: Hudson
+    given: Richard L.
+  - family: Saha
+    given: Bratin
+  - family: Adl-Tabatabai
+    given: Ali-Reza
+  - family: Hertzberg
+    given: Ben
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: 'McRT-malloc: A scalable transactional memory allocator'
+  title-short: McRT-malloc
+  container-title: ISMM
+  publisher: ACM
+  page: '74-83'
+  URL: http://doi.acm.org/10.1145/1133956.1133967
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/McGacheyH06
+  type: paper-conference
+  author:
+  - family: McGachey
+    given: Phil
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Reducing generational copy reserve overhead with fallback compaction
+  container-title: ISMM
+  publisher: ACM
+  page: '17-28'
+  URL: http://doi.acm.org/10.1145/1133956.1133960
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/LeeY04
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Oukseh
+  - family: Yi
+    given: Kwangkeun
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Experiments on the effectiveness of an automatic insertion of memory reuses
+    into mL-like programs
+  container-title: ISMM
+  publisher: ACM
+  page: '97-107'
+  URL: http://doi.acm.org/10.1145/1029873.1029885
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/2008
+  type: book
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Proceedings of the 7th international symposium on memory management, iSMM
+    2008, tucson, aZ, uSA, june 7-8, 2008
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1375634
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/Aggarwal02
+  type: paper-conference
+  author:
+  - family: Aggarwal
+    given: Aneesh
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Software caching vs. prefetching
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '263-268'
+  URL: http://doi.acm.org/10.1145/773039.512450
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/TianFG10
+  type: paper-conference
+  author:
+  - family: Tian
+    given: Chen
+  - family: Feng
+    given: Min
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Speculative parallelization using state separation and multiple value prediction
+  container-title: ISMM
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/1806651.1806663
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/BuBXC13
+  type: paper-conference
+  author:
+  - family: Bu
+    given: Yingyi
+  - family: Borkar
+    given: Vinayak R.
+  - family: Xu
+    given: Guoqing
+    dropping-particle: (Harry)
+  - family: Carey
+    given: Michael J.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: A bloat-aware design for big data applications
+  container-title: ISMM
+  publisher: ACM
+  page: '119-130'
+  URL: http://doi.acm.org/10.1145/2464157.2466485
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/GormanH08
+  type: paper-conference
+  author:
+  - family: Gorman
+    given: Mel
+  - family: Healy
+    given: Patrick
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Supporting superpage allocation without additional hardware support
+  container-title: ISMM
+  publisher: ACM
+  page: '41-50'
+  URL: http://doi.acm.org/10.1145/1375634.1375641
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/HertzKKBDGB11
+  type: paper-conference
+  author:
+  - family: Hertz
+    given: Matthew
+  - family: Kane
+    given: Stephen
+  - family: Keudel
+    given: Elizabeth
+  - family: Bai
+    given: Tongxin
+  - family: Ding
+    given: Chen
+  - family: Gu
+    given: Xiaoming
+  - family: Bard
+    given: Jonathan E.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: 'Waste not, want not: Resource-based garbage collection in a shared environment'
+  title-short: Waste not, want not
+  container-title: ISMM
+  publisher: ACM
+  page: '65-76'
+  URL: http://doi.acm.org/10.1145/1993478.1993487
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/XianSJ07
+  type: paper-conference
+  author:
+  - family: Xian
+    given: Feng
+  - family: Srisa-an
+    given: Witawas
+  - family: Jiang
+    given: Hong
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Allocation-phase aware thread scheduling policies to improve garbage collection
+    performance
+  container-title: ISMM
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/1296907.1296919
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/AbdullahiMR92
+  type: paper-conference
+  author:
+  - family: Abdullahi
+    given: Saleh E.
+  - family: Miranda
+    given: Eliot E.
+  - family: Ringwood
+    given: Graem A.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Collection schemes for distributed garbage
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-81'
+  volume: '637'
+  DOI: 10.1007/BFb0017183
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/NagarakatteZMZ10
+  type: paper-conference
+  author:
+  - family: Nagarakatte
+    given: Santosh
+  - family: Zhao
+    given: Jianzhou
+  - family: Martin
+    given: Milo M. K.
+  - family: Zdancewic
+    given: Steve
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: 'CETS: Compiler enforced temporal safety for c'
+  title-short: CETS
+  container-title: ISMM
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/1806651.1806657
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/MerrallP92
+  type: paper-conference
+  author:
+  - family: Merrall
+    given: Simon C.
+  - family: Padget
+    given: Julian A.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Collections and garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '473-489'
+  volume: '637'
+  DOI: 10.1007/BFb0017208
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/KakkadJW98
+  type: paper-conference
+  author:
+  - family: Kakkad
+    given: Sheetal V.
+  - family: Johnstone
+    given: Mark S.
+  - family: Wilson
+    given: Paul R.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Portable run-time type description for conventional compilers
+  container-title: ISMM
+  publisher: ACM
+  page: '146-153'
+  URL: http://doi.acm.org/10.1145/286860.286876
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/ChilimbiJZ00
+  type: paper-conference
+  author:
+  - family: Chilimbi
+    given: Trishul M.
+  - family: Jones
+    given: Richard E.
+  - family: Zorn
+    given: Benjamin G.
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Designing a trace format for heap allocation events
+  container-title: ISMM
+  publisher: ACM
+  page: '35-49'
+  URL: http://doi.acm.org/10.1145/362422.362435
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/Samples92
+  type: paper-conference
+  author:
+  - family: Samples
+    given: A. Dain
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: GC-cooperative c++
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '315-329'
+  volume: '637'
+  DOI: 10.1007/BFb0017198
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/PrintezisG02
+  type: paper-conference
+  author:
+  - family: Printezis
+    given: Tony
+  - family: Garthwaite
+    given: Alex
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Visualising the train garbage collector
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '157-170'
+  URL: http://doi.acm.org/10.1145/773039.512436
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/RafkindWRF09
+  type: paper-conference
+  author:
+  - family: Rafkind
+    given: Jon
+  - family: Wick
+    given: Adam
+  - family: Regehr
+    given: John
+  - family: Flatt
+    given: Matthew
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Precise garbage collection for c
+  container-title: ISMM
+  publisher: ACM
+  page: '39-48'
+  URL: http://doi.acm.org/10.1145/1542431.1542438
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/Fuchs95
+  type: paper-conference
+  author:
+  - family: Fuchs
+    given: Matthew
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Garbage collection on an open network
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '251-265'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_27
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/NishanovS98
+  type: paper-conference
+  author:
+  - family: Nishanov
+    given: Gor V.
+  - family: Schupp
+    given: Sibylle
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Garbage collection in generic libraries
+  container-title: ISMM
+  publisher: ACM
+  page: '86-96'
+  URL: http://doi.acm.org/10.1145/286860.286870
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/GuD11
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Xiaoming
+  - family: Ding
+    given: Chen
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: On the theory and potential of lRU-mRU collaborative cache management
+  container-title: ISMM
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/1993478.1993485
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/ArmstrongV95
+  type: paper-conference
+  author:
+  - family: Armstrong
+    given: Joe L.
+  - family: Virding
+    given: Robert
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: One pass real-time generational mark-sweep garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '313-322'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_31
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Tarau92
+  type: paper-conference
+  author:
+  - family: Tarau
+    given: Paul
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Ecological memory management in a continuation passing prolog engine
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344-356'
+  volume: '637'
+  DOI: 10.1007/BFb0017200
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/GuanSJ09
+  type: paper-conference
+  author:
+  - family: Guan
+    given: Xiaohua
+  - family: Srisa-an
+    given: Witawas
+  - family: Jia
+    given: ChengHuan
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Investigating the effects of using different nursery sizing policies on performance
+  container-title: ISMM
+  publisher: ACM
+  page: '59-68'
+  URL: http://doi.acm.org/10.1145/1542431.1542441
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/SivaramakrishnanZJ12
+  type: paper-conference
+  author:
+  - family: Sivaramakrishnan
+    given: K. C.
+  - family: Ziarek
+    given: Lukasz
+  - family: Jagannathan
+    given: Suresh
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Eliminating read barriers through procrastination and cleanliness
+  container-title: ISMM
+  publisher: ACM
+  page: '49-60'
+  URL: http://doi.acm.org/10.1145/2258996.2259005
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/CooperX02
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Xu
+    given: Li
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: An efficient static analysis algorithm to detect redundant memory operations
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '97-107'
+  URL: http://doi.acm.org/10.1145/773039.773049
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/LinWBHN15
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yi
+  - family: Wang
+    given: Kunshan
+  - family: Blackburn
+    given: Stephen M.
+  - family: Hosking
+    given: Antony L.
+  - family: Norrish
+    given: Michael
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: 'Stop and go: Understanding yieldpoint behavior'
+  title-short: Stop and go
+  container-title: ISMM
+  publisher: ACM
+  page: '70-80'
+  URL: http://doi.acm.org/10.1145/2754169.2754187
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Chailloux92
+  type: paper-conference
+  author:
+  - family: Chailloux
+    given: Emmanuel
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: A conservative garbage collector with ambiguous roots for static typechecking
+    languages
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-229'
+  volume: '637'
+  DOI: 10.1007/BFb0017192
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/CurialZAGCSA08
+  type: paper-conference
+  author:
+  - family: Curial
+    given: Stephen
+  - family: Zhao
+    given: Peng
+  - family: Amaral
+    given: José Nelson
+  - family: Gao
+    given: Yaoqing
+  - family: Cui
+    given: Shimin
+  - family: Silvera
+    given: Raúl
+  - family: Archambault
+    given: Roch
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: 'MPADS: Memory-pooling-assisted data splitting'
+  title-short: MPADS
+  container-title: ISMM
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/1375634.1375649
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/2002
+  type: book
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Proceedings of the workshop on memory systems performance (mSP 2002), june
+    16, 2002 and the international symposium on memory management (iSMM 2002), june
+    20-21, 2002, berlin, germany
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=512429
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/SuzukiKT95
+  type: paper-conference
+  author:
+  - family: Suzuki
+    given: Mitsugu
+  - family: Koide
+    given: Hiroshi
+  - family: Terashima
+    given: Motoaki
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: MOA - a fast sliding compaction scheme for a large storage space
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '197-210'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_25
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Joisha06
+  type: paper-conference
+  author:
+  - family: Joisha
+    given: Pramod G.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Compiler optimizations for nondeferred reference-counting garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '150-161'
+  URL: http://doi.acm.org/10.1145/1133956.1133976
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/Edelson92
+  type: paper-conference
+  author:
+  - family: Edelson
+    given: Daniel R.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Precompiling c++ for garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '299-314'
+  volume: '637'
+  DOI: 10.1007/BFb0017197
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/CheremR06
+  type: paper-conference
+  author:
+  - family: Cherem
+    given: Sigmund
+  - family: Rugina
+    given: Radu
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Compile-time deallocation of individual objects
+  container-title: ISMM
+  publisher: ACM
+  page: '138-149'
+  URL: http://doi.acm.org/10.1145/1133956.1133975
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/95
+  type: book
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Memory management, international workshop iWMM 95, kinross, uK, september
+    27-29, 1995, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '986'
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/BoehmS09
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  - family: Spertus
+    given: Mike
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Garbage collection in the next c++ standard
+  container-title: ISMM
+  publisher: ACM
+  page: '30-38'
+  URL: http://doi.acm.org/10.1145/1542431.1542437
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/NaeemL09
+  type: paper-conference
+  author:
+  - family: Naeem
+    given: Nomair A.
+  - family: Lhoták
+    given: Ondrej
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Efficient alias set analysis using sSA form
+  container-title: ISMM
+  publisher: ACM
+  page: '79-88'
+  URL: http://doi.acm.org/10.1145/1542431.1542443
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/JulaR09
+  type: paper-conference
+  author:
+  - family: Jula
+    given: Alin
+  - family: Rauchwerger
+    given: Lawrence
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Two memory allocators that use hints to improve locality
+  container-title: ISMM
+  publisher: ACM
+  page: '109-118'
+  URL: http://doi.acm.org/10.1145/1542431.1542447
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/AignerHKLSSU11
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Martin Aigner
+  - family: Haas
+    given: Andreas
+  - family: Kirsch
+    given: Christoph M.
+  - family: Lippautz
+    given: Michael
+  - family: Sokolova
+    given: Ana
+  - family: Stroka
+    given: Stephanie
+  - family: Unterweger
+    given: Andreas
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Short-term memory for self-collecting mutators
+  container-title: ISMM
+  publisher: ACM
+  page: '99-108'
+  URL: http://doi.acm.org/10.1145/1993478.1993493
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/AzaguryKPY98
+  type: paper-conference
+  author:
+  - family: Azagury
+    given: Alain
+  - family: Kolodner
+    given: Elliot K.
+  - family: Petrank
+    given: Erez
+  - family: Yehudai
+    given: Zvi
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: 'Combining card marking with remembered sets: How to save scanning time'
+  title-short: Combining card marking with remembered sets
+  container-title: ISMM
+  publisher: ACM
+  page: '10-19'
+  URL: http://doi.acm.org/10.1145/286860.286862
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/HirzelHDH02
+  type: paper-conference
+  author:
+  - family: Hirzel
+    given: Martin
+  - family: Henkel
+    given: Johannes
+  - family: Diwan
+    given: Amer
+  - family: Hind
+    given: Michael
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Understanding the connectivity of heap objects
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '143-156'
+  URL: http://doi.acm.org/10.1145/773039.512435
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/Steensgaard00
+  type: paper-conference
+  author:
+  - family: Steensgaard
+    given: Bjarne
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Thread-specific heaps for multi-threaded programs
+  container-title: ISMM
+  publisher: ACM
+  page: '18-24'
+  URL: http://doi.acm.org/10.1145/362422.362432
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/PrintezisD00
+  type: paper-conference
+  author:
+  - family: Printezis
+    given: Tony
+  - family: Detlefs
+    given: David
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: A generational mostly-concurrent garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '143-154'
+  URL: http://doi.acm.org/10.1145/362422.362480
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/Vengerov09
+  type: paper-conference
+  author:
+  - family: Vengerov
+    given: David
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Modeling, analysis and throughput optimization of a generational garbage
+    collector
+  container-title: ISMM
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/1542431.1542433
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/OanceaMW09
+  type: paper-conference
+  author:
+  - family: Oancea
+    given: Cosmin E.
+  - family: Mycroft
+    given: Alan
+  - family: Watt
+    given: Stephen M.
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: A new approach to parallelising tracing algorithms
+  container-title: ISMM
+  publisher: ACM
+  page: '10-19'
+  URL: http://doi.acm.org/10.1145/1542431.1542434
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/UgawaIY10
+  type: paper-conference
+  author:
+  - family: Ugawa
+    given: Tomoharu
+  - family: Iwasaki
+    given: Hideya
+  - family: Yuasa
+    given: Taiichi
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Improved replication-based incremental garbage collection for embedded systems
+  container-title: ISMM
+  publisher: ACM
+  page: '73-82'
+  URL: http://doi.acm.org/10.1145/1806651.1806664
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/PlakalF00
+  type: paper-conference
+  author:
+  - family: Plakal
+    given: Manoj
+  - family: Fischer
+    given: Charles N.
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Concurrent garbage collection using program slices on multithreaded processors
+  container-title: ISMM
+  publisher: ACM
+  page: '94-100'
+  URL: http://doi.acm.org/10.1145/362422.362468
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/MarlowHJJ08
+  type: paper-conference
+  author:
+  - family: Marlow
+    given: Simon
+  - family: '0001'
+    given: Tim Harris
+  - family: James
+    given: Roshan P.
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Parallel generational-copying garbage collection with a block-structured
+    heap
+  container-title: ISMM
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1375634.1375637
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/LaroseF98
+  type: paper-conference
+  author:
+  - family: Larose
+    given: Martin
+  - family: Feeley
+    given: Marc
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: A compacting incremental collector and its performance in a production quality
+    compiler
+  container-title: ISMM
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/286860.286861
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/ChinNPQ08
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  - family: Nguyen
+    given: Huu Hai
+  - family: Popeea
+    given: Corneliu
+  - family: Qin
+    given: Shengchao
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Analysing memory resource bounds for low-level programs
+  container-title: ISMM
+  publisher: ACM
+  page: '151-160'
+  URL: http://doi.acm.org/10.1145/1375634.1375656
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/ColnetCZ98
+  type: paper-conference
+  author:
+  - family: Colnet
+    given: Dominique
+  - family: Coucaud
+    given: Philippe
+  - family: Zendra
+    given: Olivier
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Compiler support to customize the mark and sweep algorithm
+  container-title: ISMM
+  publisher: ACM
+  page: '154-165'
+  URL: http://doi.acm.org/10.1145/286860.286877
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/Piquer95
+  type: paper-conference
+  author:
+  - family: Piquer
+    given: José M.
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: 'Indirect mark and sweep: A distributed gC'
+  title-short: Indirect mark and sweep
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '267-282'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_28
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Dickman00
+  type: paper-conference
+  author:
+  - family: Dickman
+    given: Peter
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Diffusion tree restructuring for indirect reference counting
+  container-title: ISMM
+  publisher: ACM
+  page: '167-177'
+  URL: http://doi.acm.org/10.1145/362422.362485
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/Nilsen95
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin D.
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Progress in hardware-assisted real-time garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355-379'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_34
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/ZakkakP14
+  type: paper-conference
+  author:
+  - family: Zakkak
+    given: Foivos S.
+  - family: Pratikakis
+    given: Polyvios
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: 'JDMM: A java memory model for non-cache-coherent memory architectures'
+  title-short: JDMM
+  container-title: ISMM
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/2602988.2602999
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/NethercoteM02
+  type: paper-conference
+  author:
+  - family: Nethercote
+    given: Nicholas
+  - family: Mycroft
+    given: Alan
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: The cache behaviour of large lazy functional programs on stock hardware
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '44-55'
+  URL: http://doi.acm.org/10.1145/773039.773044
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/PlainfosseS95
+  type: paper-conference
+  author:
+  - family: Plainfossé
+    given: David
+  - family: Shapiro
+    given: Marc
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: A survey of distributed garbage collection techniques
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '211-249'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_26
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/AlmasiCP02
+  type: paper-conference
+  author:
+  - family: Almasi
+    given: George S.
+  - family: Cascaval
+    given: Calin
+  - family: Padua
+    given: David A.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Calculating stack distances efficiently
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '37-43'
+  URL: http://doi.acm.org/10.1145/773039.773043
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/RitsonUJ14
+  type: paper-conference
+  author:
+  - family: Ritson
+    given: Carl G.
+  - family: Ugawa
+    given: Tomoharu
+  - family: Jones
+    given: Richard E.
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Exploring garbage collection with haswell hardware transactional memory
+  container-title: ISMM
+  publisher: ACM
+  page: '105-115'
+  URL: http://doi.acm.org/10.1145/2602988.2602992
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/VeldemaP11
+  type: paper-conference
+  author:
+  - family: Veldema
+    given: Ronald
+  - family: Philippsen
+    given: Michael
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Iterative data-parallel mark&sweep on a gPU
+  container-title: ISMM
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1993478.1993480
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/Seward92
+  type: paper-conference
+  author:
+  - family: Seward
+    given: Julian
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Generational garbage collection for lazy graph reduction
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-217'
+  volume: '637'
+  DOI: 10.1007/BFb0017191
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/Ykman-CouvreurLTC02
+  type: paper-conference
+  author:
+  - family: Ykman-Couvreur
+    given: Chantal
+  - family: Lambrecht
+    given: J.
+  - family: Togt
+    given: A. Van Der
+  - family: Catthoor
+    given: Francky
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Multi-ovjective abstract data type refinement for mapping tables in telecom
+    network applications
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '65-75'
+  URL: http://doi.acm.org/10.1145/773039.773046
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/McIlroyDS08
+  type: paper-conference
+  author:
+  - family: McIlroy
+    given: Ross
+  - family: Dickman
+    given: Peter
+  - family: Sventek
+    given: Joe
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Efficient dynamic heap allocation of scratch-pad memory
+  container-title: ISMM
+  publisher: ACM
+  page: '31-40'
+  URL: http://doi.acm.org/10.1145/1375634.1375640
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/Rojemo92
+  type: paper-conference
+  author:
+  - family: Röjemo
+    given: Niklas
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: A concurrent generational garbage collector for a parallel graph reducer
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '440-453'
+  volume: '637'
+  DOI: 10.1007/BFb0017206
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/JohanssonSW02
+  type: paper-conference
+  author:
+  - family: Johansson
+    given: Erik
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Wilhelmsson
+    given: Jesper
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Heap architectures for concurrent languages using message passing
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '195-206'
+  URL: http://doi.acm.org/10.1145/773039.512440
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/AignerK13
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Martin Aigner
+  - family: Kirsch
+    given: Christoph M.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: 'ACDC: Towards a universal mutator for benchmarking heap management systems'
+  title-short: ACDC
+  container-title: ISMM
+  publisher: ACM
+  page: '75-84'
+  URL: http://doi.acm.org/10.1145/2464157.2464161
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/CheremR04
+  type: paper-conference
+  author:
+  - family: Cherem
+    given: Sigmund
+  - family: Rugina
+    given: Radu
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Region analysis and transformation for java programs
+  container-title: ISMM
+  publisher: ACM
+  page: '85-96'
+  URL: http://doi.acm.org/10.1145/1029873.1029884
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/Boehm00
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Reducing garbage collector cache misses
+  container-title: ISMM
+  publisher: ACM
+  page: '59-64'
+  URL: http://doi.acm.org/10.1145/362422.362438
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/TeneIW11
+  type: paper-conference
+  author:
+  - family: Tene
+    given: Gil
+  - family: Iyengar
+    given: Balaji
+  - family: Wolf
+    given: Michael
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: 'C4: The continuously concurrent compacting collector'
+  title-short: C4
+  container-title: ISMM
+  publisher: ACM
+  page: '79-88'
+  URL: http://doi.acm.org/10.1145/1993478.1993491
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/Tarditi00
+  type: paper-conference
+  author:
+  - family: Tarditi
+    given: David
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Compact garbage collection tables
+  container-title: ISMM
+  publisher: ACM
+  page: '50-58'
+  URL: http://doi.acm.org/10.1145/362422.362437
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/StanchinaM07
+  type: paper-conference
+  author:
+  - family: Stanchina
+    given: Sylvain
+  - family: Meyer
+    given: Matthias
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: 'Mark-sweep or copying?: A “best of both worlds” algorithm and a hardware-supported
+    real-time implementation'
+  title-short: Mark-sweep or copying?
+  container-title: ISMM
+  publisher: ACM
+  page: '173-182'
+  URL: http://doi.acm.org/10.1145/1296907.1296928
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/MatthewsS95
+  type: paper-conference
+  author:
+  - family: Matthews
+    given: David C. J.
+  - family: Sergent
+    given: Thierry Le
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: 'LEMMA: A distributed shared memory with global and local garbage collection'
+  title-short: LEMMA
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '297-311'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_30
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/ShahamKS00
+  type: paper-conference
+  author:
+  - family: Shaham
+    given: Ran
+  - family: Kolodner
+    given: Elliot K.
+  - family: Sagiv
+    given: Shmuel
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: On the effectiveness of gC in java
+  container-title: ISMM
+  publisher: ACM
+  page: '12-17'
+  URL: http://doi.acm.org/10.1145/362422.362430
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/KaplanMC02
+  type: paper-conference
+  author:
+  - family: Kaplan
+    given: Scott F.
+  - family: McGeoch
+    given: Lyle A.
+  - family: Cole
+    given: Megan F.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Adaptive caching for demand prepaging
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '221-232'
+  URL: http://doi.acm.org/10.1145/773039.512445
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/PhalkeG95
+  type: paper-conference
+  author:
+  - family: Phalke
+    given: Vidyadhar
+  - family: Gopinath
+    given: B.
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: A miss history-based architecture for cache prefetching
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '381-398'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_35
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Rodriguez-RiveraSF98
+  type: paper-conference
+  author:
+  - family: Rodriguez-Rivera
+    given: Gustavo
+  - family: Spertus
+    given: Michael
+  - family: Fiterman
+    given: Charles
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: A non-fragmenting nonMmoving, garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '79-85'
+  URL: http://doi.acm.org/10.1145/286860.286869
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/Ben-YitzhakGKKL02
+  type: paper-conference
+  author:
+  - family: Ben-Yitzhak
+    given: Ori
+  - family: Goft
+    given: Irit
+  - family: Kolodner
+    given: Elliot K.
+  - family: Kuiper
+    given: Kean
+  - family: Leikehman
+    given: Victor
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: An algorithm for parallel incremental compaction
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '207-212'
+  URL: http://doi.acm.org/10.1145/773039.512442
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/CliffordPST14
+  type: paper-conference
+  author:
+  - family: Clifford
+    given: Daniel
+  - family: Payer
+    given: Hannes
+  - family: Starzinger
+    given: Michael
+  - family: Titzer
+    given: Ben
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Allocation folding based on dominance
+  container-title: ISMM
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/2602988.2602994
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/LamWM92
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Michael S.
+  - family: Wilson
+    given: Paul R.
+  - family: Moher
+    given: Thomas G.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Object type directed garbage collection to improve locality
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '404-425'
+  volume: '637'
+  DOI: 10.1007/BFb0017204
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/GuD12
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Xiaoming
+  - family: Ding
+    given: Chen
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: A generalized theory of collaborative caching
+  container-title: ISMM
+  publisher: ACM
+  page: '109-120'
+  URL: http://doi.acm.org/10.1145/2258996.2259012
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/DomaniGKLPS02
+  type: paper-conference
+  author:
+  - family: Domani
+    given: Tamar
+  - family: Goldshtein
+    given: Gal
+  - family: Kolodner
+    given: Elliot K.
+  - family: Lewis
+    given: Ethan
+  - family: Petrank
+    given: Erez
+  - family: Sheinwald
+    given: Dafna
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Thread-local heaps for java
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '183-194'
+  URL: http://doi.acm.org/10.1145/773039.512439
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/WangNG13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yan
+  - family: Neamtiu
+    given: Iulian
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Generating sound and effective memory debuggers
+  container-title: ISMM
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/2464157.2464159
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/Mateu92
+  type: paper-conference
+  author:
+  - family: Mateu
+    given: Luis
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: An efficient implementation for coroutines
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '230-247'
+  volume: '637'
+  DOI: 10.1007/BFb0017193
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/Musuvathi13
+  type: paper-conference
+  author:
+  - family: Musuvathi
+    given: Madanlal
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Safety-first approach to memory consistency models
+  container-title: ISMM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2464157.2466479
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/HicksHMN98
+  type: paper-conference
+  author:
+  - family: Hicks
+    given: Michael W.
+  - family: Hornof
+    given: Luke
+  - family: Moore
+    given: Jonathan T.
+  - family: Nettles
+    given: Scott
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: A study of large object spaces
+  container-title: ISMM
+  publisher: ACM
+  page: '138-145'
+  URL: http://doi.acm.org/10.1145/286860.286875
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/KaliberaJ13
+  type: paper-conference
+  author:
+  - family: Kalibera
+    given: Tomas
+  - family: Jones
+    given: Richard E.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Rigorous benchmarking in reasonable time
+  container-title: ISMM
+  publisher: ACM
+  page: '63-74'
+  URL: http://doi.acm.org/10.1145/2464157.2464160
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/Siebert98
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Guaranteeing non-disruptiveness and real-time deadlines in an incremental
+    garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '130-137'
+  URL: http://doi.acm.org/10.1145/286860.286874
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/JuulJ92
+  type: paper-conference
+  author:
+  - family: Juul
+    given: Niels Christian
+  - family: Jul
+    given: Eric
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Comprehensive and robust garbage collection in a distributed system
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-115'
+  volume: '637'
+  DOI: 10.1007/BFb0017185
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/CutlerM15
+  type: paper-conference
+  author:
+  - family: Cutler
+    given: Cody
+  - family: Morris
+    given: Robert
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Reducing pause times with clustered collection
+  container-title: ISMM
+  publisher: ACM
+  page: '131-142'
+  URL: http://doi.acm.org/10.1145/2754169.2754184
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/SerranoZ09
+  type: paper-conference
+  author:
+  - family: Serrano
+    given: Mauricio J.
+  - family: Zhuang
+    given: Xiaotong
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Placement optimization using data context collected during garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '69-78'
+  URL: http://doi.acm.org/10.1145/1542431.1542442
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/2006
+  type: book
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Proceedings of the 5th international symposium on memory management, iSMM
+    2006, ottawa, ontario, canada, june 10-11, 2006
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1133956
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/LattnerA02
+  type: paper-conference
+  author:
+  - family: Lattner
+    given: Chris
+  - family: Adve
+    given: Vikram S.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Automatic pool allocation for disjoint data structures
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/773039.773041
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/Wadler95
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: 'Static analysis refuses to stay still: Prospects of static analysis for
+    dynamic allocation (abstract)'
+  title-short: Static analysis refuses to stay still
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_20
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Hamilton95
+  type: paper-conference
+  author:
+  - family: Hamilton
+    given: Geoff W.
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Compile-time garbage collection for lazy functional languages
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '119-144'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_21
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/BegB10
+  type: paper-conference
+  author:
+  - family: Beg
+    given: Mirza
+  - family: Beek
+    given: Peter
+    dropping-particle: van
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: A graph theoretic approach to cache-conscious placement of data for direct
+    mapped caches
+  container-title: ISMM
+  publisher: ACM
+  page: '113-120'
+  URL: http://doi.acm.org/10.1145/1806651.1806670
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/SomanDK06
+  type: paper-conference
+  author:
+  - family: Soman
+    given: Sunil
+  - family: Daynès
+    given: Laurent
+  - family: Krintz
+    given: Chandra
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Task-aware garbage collection in a multi-tasking virtual machine
+  container-title: ISMM
+  publisher: ACM
+  page: '64-73'
+  URL: http://doi.acm.org/10.1145/1133956.1133965
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/KeroNL07
+  type: paper-conference
+  author:
+  - family: Kero
+    given: Martin
+  - family: Nordlander
+    given: Johan
+  - family: Lindgren
+    given: Per
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: A correct and useful incremental copying garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '129-140'
+  URL: http://doi.acm.org/10.1145/1296907.1296924
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/Tofte98
+  type: paper-conference
+  author:
+  - family: Tofte
+    given: Mads
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: A brief introduction to regions
+  container-title: ISMM
+  publisher: ACM
+  page: '186-195'
+  URL: http://doi.acm.org/10.1145/286860.286882
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/Mutlu11
+  type: paper-conference
+  author:
+  - family: Mutlu
+    given: Onur
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: 'Memory systems in the many-core era: Challenges, opportunities, and solution
+    directions'
+  title-short: Memory systems in the many-core era
+  container-title: ISMM
+  publisher: ACM
+  page: '77-78'
+  URL: http://doi.acm.org/10.1145/1993478.1993489
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/HudsonMSW00
+  type: paper-conference
+  author:
+  - family: Hudson
+    given: Richard L.
+  - family: Moss
+    given: J. Eliot B.
+  - family: Subramoney
+    given: Sreenivas
+  - family: Washburn
+    given: Weldon
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: 'Cycles to recycle: Garbage collection on the iA-64'
+  title-short: Cycles to recycle
+  container-title: ISMM
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/362422.362470
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/KjelsoJ95
+  type: paper-conference
+  author:
+  - family: Kjelsø
+    given: Morten
+  - family: Jones
+    given: Simon
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Memory management in flash-memory disks with data compression
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '399-413'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_36
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/UnnikrishnanS09
+  type: paper-conference
+  author:
+  - family: Unnikrishnan
+    given: Leena
+  - family: Stoller
+    given: Scott D.
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Parametric heap usage analysis for functional programs
+  container-title: ISMM
+  publisher: ACM
+  page: '139-148'
+  URL: http://doi.acm.org/10.1145/1542431.1542451
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/DuvvuruSTSHZ92
+  type: paper-conference
+  author:
+  - family: Duvvuru
+    given: S.
+  - family: Sundararajan
+    given: R.
+  - family: Tick
+    given: Evan
+  - family: Sastry
+    given: A. V. S.
+  - family: Hansen
+    given: L.
+  - family: Zhong
+    given: X.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: A compile-time memory-reuse scheme for concurrent logic programs
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '264-276'
+  volume: '637'
+  DOI: 10.1007/BFb0017195
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/AzimiSSWB07
+  type: paper-conference
+  author:
+  - family: Azimi
+    given: Reza
+  - family: Soares
+    given: Livio
+  - family: Stumm
+    given: Michael
+  - family: Walsh
+    given: Thomas
+  - family: Brown
+    given: Angela Demke
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: 'Path: Page access tracking to improve memory management'
+  title-short: Path
+  container-title: ISMM
+  publisher: ACM
+  page: '31-42'
+  URL: http://doi.acm.org/10.1145/1296907.1296914
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/Mendelson06
+  type: paper-conference
+  author:
+  - family: Mendelson
+    given: Avi
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Memory management challenges in the power-aware computing era
+  container-title: ISMM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1133956.1133957
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/DiceG02
+  type: paper-conference
+  author:
+  - family: Dice
+    given: David
+  - family: Garthwaite
+    given: Alex
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Mostly lock-free malloc
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '269-280'
+  URL: http://doi.acm.org/10.1145/773039.512451
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/ReamesN13
+  type: paper-conference
+  author:
+  - family: Reames
+    given: Philip
+  - family: Necula
+    given: George C.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: 'Towards hinted collection: Annotations for decreasing garbage collector
+    pause times'
+  title-short: Towards hinted collection
+  container-title: ISMM
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2464157.2464158
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/NettlesOP92
+  type: paper-conference
+  author:
+  - family: Nettles
+    given: Scott
+  - family: O’Toole
+    given: James
+  - family: Pierce
+    given: David
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Replication-based incremental copying collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357-364'
+  volume: '637'
+  DOI: 10.1007/BFb0017201
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/Baker92
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Henry G.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: NREVERSAL of fortune - the thermodynamics of garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '507-524'
+  volume: '637'
+  DOI: 10.1007/BFb0017210
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/GayEB07
+  type: paper-conference
+  author:
+  - family: Gay
+    given: David
+  - family: Ennals
+    given: Robert
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Safe manual memory management
+  container-title: ISMM
+  publisher: ACM
+  page: '2-14'
+  URL: http://doi.acm.org/10.1145/1296907.1296911
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/MarionJR07
+  type: paper-conference
+  author:
+  - family: Marion
+    given: Sebastien
+  - family: Jones
+    given: Richard E.
+  - family: Ryder
+    given: Chris
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Decrypting the java gene pool
+  container-title: ISMM
+  publisher: ACM
+  page: '67-78'
+  URL: http://doi.acm.org/10.1145/1296907.1296918
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/AlbertGG09
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Genaim
+    given: Samir
+  - family: Gómez-Zamalloa
+    given: Miguel
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Live heap space analysis for languages with garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '129-138'
+  URL: http://doi.acm.org/10.1145/1542431.1542450
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/KolodnerW92
+  type: paper-conference
+  author:
+  - family: Kolodner
+    given: Elliot K.
+  - family: Weihl
+    given: William E.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Atomic garbage collection
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '365-387'
+  volume: '637'
+  DOI: 10.1007/BFb0017202
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/2007
+  type: book
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Proceedings of the 6th international symposium on memory management, iSMM
+    2007, montreal, quebec, canada, october 21-22, 2007
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1296907
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/CohenP15
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Nachshon
+  - family: Petrank
+    given: Erez
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Data structure aware garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '28-40'
+  URL: http://doi.acm.org/10.1145/2754169.2754176
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/ChungM00
+  type: paper-conference
+  author:
+  - family: Chung
+    given: Yoo C.
+  - family: Moon
+    given: Soo-Mook
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Memory allocation with lazy fits
+  container-title: ISMM
+  publisher: ACM
+  page: '65-70'
+  URL: http://doi.acm.org/10.1145/362422.362457
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/CheremR07
+  type: paper-conference
+  author:
+  - family: Cherem
+    given: Sigmund
+  - family: Rugina
+    given: Radu
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Uniqueness inference for compile-time object deallocation
+  container-title: ISMM
+  publisher: ACM
+  page: '117-128'
+  URL: http://doi.acm.org/10.1145/1296907.1296923
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/LopesCC02
+  type: paper-conference
+  author:
+  - family: Lopes
+    given: Ricardo
+  - family: Castro
+    given: Luís Fernando
+  - family: Costa
+    given: Vítor Santos
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: 'From simulation to practice: Cache performance study of a prolog system'
+  title-short: From simulation to practice
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '56-64'
+  URL: http://doi.acm.org/10.1145/773039.773045
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/PizloPS08
+  type: paper-conference
+  author:
+  - family: Pizlo
+    given: Filip
+  - family: Petrank
+    given: Erez
+  - family: Steensgaard
+    given: Bjarne
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: 'Path specialization: Reducing phased execution overheads'
+  title-short: Path specialization
+  container-title: ISMM
+  publisher: ACM
+  page: '81-90'
+  URL: http://doi.acm.org/10.1145/1375634.1375647
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/2000
+  type: book
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: ISMM 2000, international symposium on memory management, minneapolis, minnesota,
+    october 15-16, 2000 (in conjunction with oOPSLA 2000), conference proceedings
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=362422
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/ZhaoBA10
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Qin
+  - family: Bruening
+    given: Derek
+  - family: Amarasinghe
+    given: Saman P.
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Efficient memory shadowing for 64-bit architectures
+  container-title: ISMM
+  publisher: ACM
+  page: '93-102'
+  URL: http://doi.acm.org/10.1145/1806651.1806667
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/HellyerJH10
+  type: paper-conference
+  author:
+  - family: Hellyer
+    given: Laurence
+  - family: Jones
+    given: Richard E.
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: The locality of concurrent write barriers
+  container-title: ISMM
+  publisher: ACM
+  page: '83-92'
+  URL: http://doi.acm.org/10.1145/1806651.1806666
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/CheadleFMJW04
+  type: paper-conference
+  author:
+  - family: Cheadle
+    given: Andrew M.
+  - family: Field
+    given: A. J.
+  - family: Marlow
+    given: Simon
+  - family: Jones
+    given: Simon L. Peyton
+  - family: While
+    given: R. Lyndon
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: 'Exploring the barrier to entry: Incremental generational garbage collection
+    for haskell'
+  title-short: Exploring the barrier to entry
+  container-title: ISMM
+  publisher: ACM
+  page: '163-174'
+  URL: http://doi.acm.org/10.1145/1029873.1029893
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/CameronSV15
+  type: paper-conference
+  author:
+  - family: Cameron
+    given: Callum
+  - family: Singer
+    given: Jeremy
+  - family: Vengerov
+    given: David
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: 'The judgment of forseti: Economic utility for dynamic heap sizing of multiple
+    runtimes'
+  title-short: The judgment of forseti
+  container-title: ISMM
+  publisher: ACM
+  page: '143-156'
+  URL: http://doi.acm.org/10.1145/2754169.2754180
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/BlackburnH04
+  type: paper-conference
+  author:
+  - family: Blackburn
+    given: Stephen M.
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: 'Barriers: Friend or foe?'
+  title-short: Barriers
+  container-title: ISMM
+  publisher: ACM
+  page: '143-151'
+  URL: http://doi.acm.org/10.1145/1029873.1029891
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/TereiAV14
+  type: paper-conference
+  author:
+  - family: Terei
+    given: David
+  - family: Aiken
+    given: Alex
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: 'M3: High-performance memory management from off-the-shelf components'
+  title-short: M3
+  container-title: ISMM
+  publisher: ACM
+  page: '3-13'
+  URL: http://doi.acm.org/10.1145/2602988.2602995
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/QianH02
+  type: paper-conference
+  author:
+  - family: Qian
+    given: Feng
+  - family: Hendren
+    given: Laurie J.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: An adaptive, region-based allocator for java
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '233-244'
+  URL: http://doi.acm.org/10.1145/773039.512446
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/RicciGM13
+  type: paper-conference
+  author:
+  - family: Ricci
+    given: Nathan P.
+  - family: Guyer
+    given: Samuel Z.
+  - family: Moss
+    given: J. Eliot B.
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: 'Elephant tracks: Portable production of complete and precise gc traces'
+  title-short: Elephant tracks
+  container-title: ISMM
+  publisher: ACM
+  page: '109-118'
+  URL: http://doi.acm.org/10.1145/2464157.2466484
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/HicksMGJ04
+  type: paper-conference
+  author:
+  - family: Hicks
+    given: Michael W.
+  - family: Morrisett
+    given: J. Gregory
+  - family: Grossman
+    given: Dan
+  - family: Jim
+    given: Trevor
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Experience with safe manual memory-management in cyclone
+  container-title: ISMM
+  publisher: ACM
+  page: '73-84'
+  URL: http://doi.acm.org/10.1145/1029873.1029883
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/BrockGBD13
+  type: paper-conference
+  author:
+  - family: Brock
+    given: Jacob
+  - family: Gu
+    given: Xiaoming
+  - family: Bao
+    given: Bin
+  - family: Ding
+    given: Chen
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: 'Pacman: Program-assisted cache management'
+  title-short: Pacman
+  container-title: ISMM
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/2464157.2466482
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/IyengarGWM12
+  type: paper-conference
+  author:
+  - family: Iyengar
+    given: Balaji
+  - family: Gehringer
+    given: Edward F.
+  - family: Wolf
+    given: Michael
+  - family: Manivannan
+    given: Karthikeyan
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Scalable concurrent and parallel mark
+  container-title: ISMM
+  publisher: ACM
+  page: '61-72'
+  URL: http://doi.acm.org/10.1145/2258996.2259006
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/Tarau11
+  type: paper-conference
+  author:
+  - family: Tarau
+    given: Paul
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Integrated symbol table, engine and heap memory management in multi-engine
+    prolog
+  container-title: ISMM
+  publisher: ACM
+  page: '129-138'
+  URL: http://doi.acm.org/10.1145/1993478.1993497
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/Anderson10
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Todd A.
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Optimizations in a private nursery-based garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '21-30'
+  URL: http://doi.acm.org/10.1145/1806651.1806655
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/Henderson02
+  type: paper-conference
+  author:
+  - family: Henderson
+    given: Fergus
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Accurate garbage collection in an uncooperative environment
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '256-263'
+  URL: http://doi.acm.org/10.1145/773039.512449
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/Pirinen98
+  type: paper-conference
+  author:
+  - family: Pirinen
+    given: Pekka P.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Barrier techniques for incremental tracing
+  container-title: ISMM
+  publisher: ACM
+  page: '20-25'
+  URL: http://doi.acm.org/10.1145/286860.286863
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/ZhangKSDHO06
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Chengliang
+  - family: Kelsey
+    given: Kirk
+  - family: Shen
+    given: Xipeng
+  - family: Ding
+    given: Chen
+  - family: Hertz
+    given: Matthew
+  - family: Ogihara
+    given: Mitsunori
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Program-level adaptive memory management
+  container-title: ISMM
+  publisher: ACM
+  page: '174-183'
+  URL: http://doi.acm.org/10.1145/1133956.1133979
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/SagonasW04
+  type: paper-conference
+  author:
+  - family: Sagonas
+    given: Konstantinos F.
+  - family: Wilhelmsson
+    given: Jesper
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Message analysis-guided allocation and low-pause incremental garbage collection
+    in a concurrent language
+  container-title: ISMM
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1029873.1029875
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/DemoenS98
+  type: paper-conference
+  author:
+  - family: Demoen
+    given: Bart
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Memory management for prolog with tabling
+  container-title: ISMM
+  publisher: ACM
+  page: '97-106'
+  URL: http://doi.acm.org/10.1145/286860.286871
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/CliffordPST15
+  type: paper-conference
+  author:
+  - family: Clifford
+    given: Daniel
+  - family: Payer
+    given: Hannes
+  - family: Stanton
+    given: Michael
+  - family: Titzer
+    given: Ben
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: 'Memento mori: Dynamic allocation-site-based optimizations'
+  title-short: Memento mori
+  container-title: ISMM
+  publisher: ACM
+  page: '105-117'
+  URL: http://doi.acm.org/10.1145/2754169.2754181
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Smaragdakis04
+  type: paper-conference
+  author:
+  - family: Smaragdakis
+    given: Yannis
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: General adaptive replacement policies
+  container-title: ISMM
+  publisher: ACM
+  page: '108-119'
+  URL: http://doi.acm.org/10.1145/1029873.1029887
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/HuelsbergenW98
+  type: paper-conference
+  author:
+  - family: Huelsbergen
+    given: Lorenz
+  - family: Winterbottom
+    given: Phil
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Very concurrent mark-&-sweep garbage collection without fine-grain synchronization
+  container-title: ISMM
+  publisher: ACM
+  page: '166-175'
+  URL: http://doi.acm.org/10.1145/286860.286878
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/EndoT02
+  type: paper-conference
+  author:
+  - family: Endo
+    given: Toshio
+  - family: Taura
+    given: Kenjiro
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Reducing pause time of conservative collectors
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '119-131'
+  URL: http://doi.acm.org/10.1145/773039.512432
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/RatnakarN14
+  type: paper-conference
+  author:
+  - family: Ratnakar
+    given: Bollu
+  - family: Nasre
+    given: Rupesh
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Push-pull constraint graph for efficient points-to analysis
+  container-title: ISMM
+  publisher: ACM
+  page: '25-33'
+  URL: http://doi.acm.org/10.1145/2602988.2602989
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/KimKKJ15
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Sang-Hoon
+  - family: Kwon
+    given: Sejun
+  - family: Kim
+    given: Jin-Soo
+  - family: Jeong
+    given: Jinkyu
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Controlling physical memory fragmentation in mobile systems
+  container-title: ISMM
+  publisher: ACM
+  page: '1-14'
+  URL: http://doi.acm.org/10.1145/2754169.2754179
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Rojemo95
+  type: paper-conference
+  author:
+  - family: Röjemo
+    given: Niklas
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: Generational garbage collection without temporary space leaks for lazy functional
+    languages
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-162'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_22
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/AgesenG00
+  type: paper-conference
+  author:
+  - family: Agesen
+    given: Ole
+  - family: Garthwaite
+    given: Alex
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Efficient object sampling via weak references
+  container-title: ISMM
+  publisher: ACM
+  page: '121-126'
+  URL: http://doi.acm.org/10.1145/362422.362473
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/WallaceR98
+  type: paper-conference
+  author:
+  - family: Wallace
+    given: Malcolm
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: 'The bits between the lambdas: Binary data in a lazy functional language'
+  title-short: The bits between the lambdas
+  container-title: ISMM
+  publisher: ACM
+  page: '107-117'
+  URL: http://doi.acm.org/10.1145/286860.286872
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/GarnerBF11
+  type: paper-conference
+  author:
+  - family: Garner
+    given: Robin
+  - family: Blackburn
+    given: Stephen M.
+  - family: Frampton
+    given: Daniel
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: A comprehensive evaluation of object scanning techniques
+  container-title: ISMM
+  publisher: ACM
+  page: '33-42'
+  URL: http://doi.acm.org/10.1145/1993478.1993484
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/SeweMSABRG12
+  type: paper-conference
+  author:
+  - family: Sewe
+    given: Andreas
+  - family: Mezini
+    given: Mira
+  - family: Sarimbekov
+    given: Aibek
+  - family: Ansaloni
+    given: Danilo
+  - family: Binder
+    given: Walter
+  - family: Ricci
+    given: Nathan P.
+  - family: Guyer
+    given: Samuel Z.
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: 'New scala() instance of java: A comparison of the memory behaviour of
+    java and scala programs'
+  title-short: New scala() instance of java
+  container-title: ISMM
+  publisher: ACM
+  page: '97-108'
+  URL: http://doi.acm.org/10.1145/2258996.2259010
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/ChenKVI04
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Guangyu
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Vijaykrishnan
+    given: Narayanan
+  - family: Irwin
+    given: Mary Jane
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Field level analysis for heap space optimization in embedded java environments
+  container-title: ISMM
+  publisher: ACM
+  page: '131-142'
+  URL: http://doi.acm.org/10.1145/1029873.1029889
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/2013
+  type: book
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: International symposium on memory management, iSMM ’13, seattle, wA, uSA
+    - june 20 - 20, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2491894
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/Rodriguez-RiveraSF00
+  type: paper-conference
+  author:
+  - family: Rodriguez-Rivera
+    given: Gustavo
+  - family: Spertus
+    given: Michael
+  - family: Fiterman
+    given: Charles
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: Conservative garbage collection for general memory allocators
+  container-title: ISMM
+  publisher: ACM
+  page: '71-79'
+  URL: http://doi.acm.org/10.1145/362422.362464
+  ISBN: '1-58113-263-8'
+
+- id: conf/iwmm/Siebert10
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Concurrent, parallel, real-time garbage-collection
+  container-title: ISMM
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1806651.1806654
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/YangBFH12
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Xi
+  - family: Blackburn
+    given: Stephen M.
+  - family: Frampton
+    given: Daniel
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Barriers reconsidered, friendlier still!
+  container-title: ISMM
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/2258996.2259004
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/AfekDM11
+  type: paper-conference
+  author:
+  - family: Afek
+    given: Yehuda
+  - family: Dice
+    given: David
+  - family: Morrison
+    given: Adam
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Cache index-aware memory allocation
+  container-title: ISMM
+  publisher: ACM
+  page: '55-64'
+  URL: http://doi.acm.org/10.1145/1993478.1993486
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/ChilimbiL98
+  type: paper-conference
+  author:
+  - family: Chilimbi
+    given: Trishul M.
+  - family: Larus
+    given: James R.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Using generational garbage collection to implement cache-conscious data placement
+  container-title: ISMM
+  publisher: ACM
+  page: '37-48'
+  URL: http://doi.acm.org/10.1145/286860.286865
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/Nasre12
+  type: paper-conference
+  author:
+  - family: Nasre
+    given: Rupesh
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Exploiting the structure of the constraint graph for efficient points-to
+    analysis
+  container-title: ISMM
+  publisher: ACM
+  page: '121-132'
+  URL: http://doi.acm.org/10.1145/2258996.2259013
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/Puaut92
+  type: paper-conference
+  author:
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Distributed garbage collection of active objects with no global synchronisation
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-164'
+  volume: '637'
+  DOI: 10.1007/BFb0017188
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/MajoG11
+  type: paper-conference
+  author:
+  - family: Majo
+    given: Zoltan
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: 'Memory management in nUMA multicore systems: Trapped between cache contention
+    and interconnect overhead'
+  title-short: Memory management in nUMA multicore systems
+  container-title: ISMM
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1993478.1993481
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/ZhongC08
+  type: paper-conference
+  author:
+  - family: Zhong
+    given: Yutao
+  - family: Chang
+    given: Wentao
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Sampling-based program locality approximation
+  container-title: ISMM
+  publisher: ACM
+  page: '91-100'
+  URL: http://doi.acm.org/10.1145/1375634.1375648
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/SmithM98
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Frederick
+  - family: Morrisett
+    given: J. Gregory
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Comparing mostly-copying and mark-sweep conservative collection
+  container-title: ISMM
+  publisher: ACM
+  page: '68-78'
+  URL: http://doi.acm.org/10.1145/286860.286868
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/RothW98
+  type: paper-conference
+  author:
+  - family: Roth
+    given: David J.
+  - family: Wise
+    given: David S.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: One-bit counts between unique and sticky
+  container-title: ISMM
+  publisher: ACM
+  page: '49-56'
+  URL: http://doi.acm.org/10.1145/286860.286866
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/MarronKH09
+  type: paper-conference
+  author:
+  - family: Marron
+    given: Mark
+  - family: Kapur
+    given: Deepak
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Identification of logically related heap regions
+  container-title: ISMM
+  publisher: ACM
+  page: '89-98'
+  URL: http://doi.acm.org/10.1145/1542431.1542445
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/JungY08
+  type: paper-conference
+  author:
+  - family: Jung
+    given: Yungbum
+  - family: Yi
+    given: Kwangkeun
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Practical memory leak detector based on parameterized procedural summaries
+  container-title: ISMM
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/1375634.1375653
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/OCallahan12
+  type: paper-conference
+  author:
+  - family: O’Callahan
+    given: Robert
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Why is your web browser using so much memory?
+  container-title: ISMM
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2258996.2258998
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/DetersC02
+  type: paper-conference
+  author:
+  - family: Deters
+    given: Morgan
+  - family: Cytron
+    given: Ron
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Automated discovery of scoped memory regions for real-time java
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '132-142'
+  URL: http://doi.acm.org/10.1145/773039.512433
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/LangendoenMV92
+  type: paper-conference
+  author:
+  - family: Langendoen
+    given: Koen
+  - family: Muller
+    given: Henk L.
+  - family: Vree
+    given: Willem G.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Memory management for parallel tasks in shared memory
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-178'
+  volume: '637'
+  DOI: 10.1007/BFb0017189
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/2014
+  type: book
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: International symposium on memory management, iSMM ’14, edinburgh, united
+    kingdom, june 12, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2602988
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/HazelwoodLC09
+  type: paper-conference
+  author:
+  - family: Hazelwood
+    given: Kim M.
+  - family: Lueck
+    given: Greg
+  - family: Cohn
+    given: Robert
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Scalable support for multithreaded applications on dynamic binary instrumentation
+    systems
+  container-title: ISMM
+  publisher: ACM
+  page: '20-29'
+  URL: http://doi.acm.org/10.1145/1542431.1542435
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/Delacour92
+  type: paper-conference
+  author:
+  - family: Delacour
+    given: V.
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Allocation regions & implementation contracts
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '426-439'
+  volume: '637'
+  DOI: 10.1007/BFb0017205
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/PetricekS10
+  type: paper-conference
+  author:
+  - family: Petricek
+    given: Tomas
+  - family: Syme
+    given: Don
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: 'Collecting hollywood’s garbage: Avoiding space-leaks in composite events'
+  title-short: Collecting hollywood’s garbage
+  container-title: ISMM
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/1806651.1806662
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/2015
+  type: book
+  editor:
+  - family: Hosking
+    given: Antony L.
+  issued:
+  - year: '2015'
+  title: Proceedings of the 2015 aCM sIGPLAN international symposium on memory management,
+    iSMM 2015, portland, oR, uSA, june 13-14, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2754169
+  ISBN: '978-1-4503-3589-8'
+
+- id: conf/iwmm/Sewell10
+  type: paper-conference
+  author:
+  - family: Sewell
+    given: Peter
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Memory, an elusive abstraction
+  container-title: ISMM
+  publisher: ACM
+  page: '51-52'
+  URL: http://doi.acm.org/10.1145/1806651.1806660
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/SartorHM08
+  type: paper-conference
+  author:
+  - family: Sartor
+    given: Jennifer B.
+  - family: Hirzel
+    given: Martin
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: 'No bit left behind: The limits of heap data compression'
+  title-short: No bit left behind
+  container-title: ISMM
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/1375634.1375651
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/Virding95
+  type: paper-conference
+  author:
+  - family: Virding
+    given: Robert
+  editor:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1995'
+  title: A garbage collector for the concurrent real-time language erlang
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '343-354'
+  volume: '986'
+  DOI: 10.1007/3-540-60368-9_33
+  ISBN: '3-540-60368-9'
+
+- id: conf/iwmm/Hayes92
+  type: paper-conference
+  author:
+  - family: Hayes
+    given: Barry
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Finalization in the collector interface
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-298'
+  volume: '637'
+  DOI: 10.1007/BFb0017196
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/SiegwartH06
+  type: paper-conference
+  author:
+  - family: Siegwart
+    given: David
+  - family: Hirzel
+    given: Martin
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Improving locality with parallel hierarchical copying gC
+  container-title: ISMM
+  publisher: ACM
+  page: '52-63'
+  URL: http://doi.acm.org/10.1145/1133956.1133964
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/SingerBWC07
+  type: paper-conference
+  author:
+  - family: Singer
+    given: Jeremy
+  - family: Brown
+    given: Gavin
+  - family: Watson
+    given: Ian
+  - family: Cavazos
+    given: John
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Intelligent selection of application-specific garbage collectors
+  container-title: ISMM
+  publisher: ACM
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/1296907.1296920
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/LarsonK98
+  type: paper-conference
+  author:
+  - family: Larson
+    given: Per-Åke
+  - family: Krishnan
+    given: Murali
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: Memory allocation for long-running server applications
+  container-title: ISMM
+  publisher: ACM
+  page: '176-185'
+  URL: http://doi.acm.org/10.1145/286860.286880
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/JohnstoneW98
+  type: paper-conference
+  author:
+  - family: Johnstone
+    given: Mark S.
+  - family: Wilson
+    given: Paul R.
+  editor:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1998'
+  title: 'The memory fragmentation problem: Solved?'
+  title-short: The memory fragmentation problem
+  container-title: ISMM
+  publisher: ACM
+  page: '26-36'
+  URL: http://doi.acm.org/10.1145/286860.286864
+  ISBN: '1-58113-114-3'
+
+- id: conf/iwmm/InoueN12
+  type: paper-conference
+  author:
+  - family: Inoue
+    given: Hiroshi
+  - family: Nakatani
+    given: Toshio
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: Identifying the sources of cache misses in java programs without relying
+    on hardware counters
+  container-title: ISMM
+  publisher: ACM
+  page: '133-142'
+  URL: http://doi.acm.org/10.1145/2258996.2259014
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/ShahamKS02
+  type: paper-conference
+  author:
+  - family: Shaham
+    given: Ran
+  - family: Kolodner
+    given: Elliot K.
+  - family: Sagiv
+    given: Shmuel
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Estimating the impact of heap liveness information on space consumption in
+    java
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '171-182'
+  URL: http://doi.acm.org/10.1145/773039.512437
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/DingZ02
+  type: paper-conference
+  author:
+  - family: Ding
+    given: Chen
+  - family: Zhong
+    given: Yutao
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: Compiler-directed run-time monitoring of program data access
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/773039.773040
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/JumpM09
+  type: paper-conference
+  author:
+  - family: Jump
+    given: Maria
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Dynamic shape analysis via degree metrics
+  container-title: ISMM
+  publisher: ACM
+  page: '119-128'
+  URL: http://doi.acm.org/10.1145/1542431.1542449
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/2010
+  type: book
+  editor:
+  - family: Vitek
+    given: Jan
+  issued:
+  - year: '2010'
+  title: Proceedings of the 9th international symposium on memory management, iSMM
+    2010, toronto, ontario, canada, june 5-6, 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1806651
+  ISBN: '978-1-4503-0054-4'
+
+- id: conf/iwmm/NagarajanJG09
+  type: paper-conference
+  author:
+  - family: Nagarajan
+    given: Vijay
+  - family: Jeffrey
+    given: Dennis
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Kolodner
+    given: Hillel
+  issued:
+  - year: '2009'
+  title: Self-recovery in server programs
+  container-title: ISMM
+  publisher: ACM
+  page: '49-58'
+  URL: http://doi.acm.org/10.1145/1542431.1542439
+  ISBN: '978-1-60558-347-1'
+
+- id: conf/iwmm/JumpBM04
+  type: paper-conference
+  author:
+  - family: Jump
+    given: Maria
+  - family: Blackburn
+    given: Stephen M.
+  - family: McKinley
+    given: Kathryn S.
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Dynamic object sampling for pretenuring
+  container-title: ISMM
+  publisher: ACM
+  page: '152-162'
+  URL: http://doi.acm.org/10.1145/1029873.1029892
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/IyengarTWG12
+  type: paper-conference
+  author:
+  - family: Iyengar
+    given: Balaji
+  - family: Tene
+    given: Gil
+  - family: Wolf
+    given: Michael
+  - family: Gehringer
+    given: Edward F.
+  editor:
+  - family: Vechev
+    given: Martin T.
+  issued:
+  - year: '2012'
+  title: 'The collie: A wait-free compacting collector'
+  title-short: The collie
+  container-title: ISMM
+  publisher: ACM
+  page: '85-96'
+  URL: http://doi.acm.org/10.1145/2258996.2259009
+  ISBN: '978-1-4503-1350-6'
+
+- id: conf/iwmm/WagnerGWEF11
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Gregor
+  - family: Gal
+    given: Andreas
+  - family: Wimmer
+    given: Christian
+  - family: Eich
+    given: Brendan
+  - family: Franz
+    given: Michael
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2011'
+  title: Compartmental memory management in a modern web browser
+  container-title: ISMM
+  publisher: ACM
+  page: '119-128'
+  URL: http://doi.acm.org/10.1145/1993478.1993496
+  ISBN: '978-1-4503-0263-0'
+
+- id: conf/iwmm/Yuasa92
+  type: paper-conference
+  author:
+  - family: Yuasa
+    given: Taiichi
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Memory management and garbage collection of an extended common lisp system
+    for massively parallel sIMD architecture
+  container-title: IWMM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '490-506'
+  volume: '637'
+  DOI: 10.1007/BFb0017209
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/Siebert08
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Fridtjof
+  editor:
+  - family: Jones
+    given: Richard E.
+  issued:
+  - year: '2008'
+  title: Limits of parallel marking garbage collection
+  container-title: ISMM
+  publisher: ACM
+  page: '21-29'
+  URL: http://doi.acm.org/10.1145/1375634.1375638
+  ISBN: '978-1-60558-134-7'
+
+- id: conf/iwmm/EgielskiHZ14
+  type: paper-conference
+  author:
+  - family: Egielski
+    given: Ian J.
+  - family: Huang
+    given: Jesse
+  - family: Zhang
+    given: Eddy Z.
+  editor:
+  - family: Grove
+    given: David
+  issued:
+  - year: '2014'
+  title: Massive atomics for massive parallelism on gPUs
+  container-title: ISMM
+  publisher: ACM
+  page: '93-103'
+  URL: http://doi.acm.org/10.1145/2602988.2602993
+  ISBN: '978-1-4503-2921-7'
+
+- id: conf/iwmm/1992
+  type: book
+  editor:
+  - family: Bekkers
+    given: Yves
+  issued:
+  - year: '1992'
+  title: Memory management, international workshop iWMM 92, st. malo, france, september
+    17-19, 1992, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '637'
+  ISBN: 3-540-55940-X
+
+- id: conf/iwmm/AlbertGG07
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Genaim
+    given: Samir
+  - family: Gómez-Zamalloa
+    given: Miguel
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Heap space analysis for java bytecode
+  container-title: ISMM
+  publisher: ACM
+  page: '105-116'
+  URL: http://doi.acm.org/10.1145/1296907.1296922
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/MorikawaUI13
+  type: paper-conference
+  author:
+  - family: Morikawa
+    given: Kazuya
+  - family: Ugawa
+    given: Tomoharu
+  - family: Iwasaki
+    given: Hideya
+  editor:
+  - family: Cheng
+    given: Perry
+  issued:
+  - year: '2013'
+  title: Adaptive scanning reduces sweep time for the lisp2 mark-compact garbage collector
+  container-title: ISMM
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/2464157.2466480
+  ISBN: '978-1-4503-2100-6'
+
+- id: conf/iwmm/NguyenR07
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Huu Hai
+  - family: Rinard
+    given: Martin C.
+  editor:
+  - family: Morrisett
+    given: Greg
+  issued:
+  - year: '2007'
+  title: Detecting and eliminating memory leaks using cyclic memory allocation
+  container-title: ISMM
+  publisher: ACM
+  page: '15-30'
+  URL: http://doi.acm.org/10.1145/1296907.1296912
+  ISBN: '978-1-59593-893-0'
+
+- id: conf/iwmm/2004
+  type: book
+  editor:
+  - family: Bacon
+    given: David F.
+  issued:
+  - year: '2004'
+  title: Proceedings of the 4th international symposium on memory management, iSMM
+    2004, vancouver, bC, canada, october 24-25, 2004
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1029873
+  ISBN: '1-58113-945-4'
+
+- id: conf/iwmm/Hosking06
+  type: paper-conference
+  author:
+  - family: Hosking
+    given: Antony L.
+  editor:
+  - family: Petrank
+    given: Erez
+  issued:
+  - year: '2006'
+  title: Portable, mostly-concurrent, mostly-copying garbage collection for multi-processors
+  container-title: ISMM
+  publisher: ACM
+  page: '40-51'
+  URL: http://doi.acm.org/10.1145/1133956.1133963
+  ISBN: '1-59593-221-6'
+
+- id: conf/iwmm/SchulzTJK02
+  type: paper-conference
+  author:
+  - family: Schulz
+    given: Martin
+  - family: Tao
+    given: Jie
+  - family: Jeitner
+    given: Jürgen
+  - family: Karl
+    given: Wolfgang
+  editor:
+  - family: Boehm
+    given: Hans-Juergen
+  issued:
+  - year: '2002'
+  title: A proposal for a new hardware cache monitoring architecture
+  container-title: MSP/ISMM
+  publisher: ACM
+  page: '76-85'
+  URL: http://doi.acm.org/10.1145/773039.773047
+  ISBN: '1-58113-539-4'
+
+- id: conf/iwmm/FitzgeraldT00
+  type: paper-conference
+  author:
+  - family: Fitzgerald
+    given: Robert P.
+  - family: Tarditi
+    given: David
+  editor:
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '2000'
+  title: The case for profile-directed selection of garbage collectors
+  container-title: ISMM
+  publisher: ACM
+  page: '111-120'
+  URL: http://doi.acm.org/10.1145/362422.362472
+  ISBN: '1-58113-263-8'
+...

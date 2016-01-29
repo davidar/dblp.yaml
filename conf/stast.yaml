@@ -1,0 +1,818 @@
+---
+references:
+- id: conf/stast/MaguireR15
+  type: paper-conference
+  author:
+  - family: Maguire
+    given: Joseph
+  - family: Renaud
+    given: Karen
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: Alternative authentication in the wild
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '32-39'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2015.13
+  DOI: 10.1109/STAST.2015.13
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/JakobssonS12
+  type: paper-conference
+  author:
+  - family: Jakobsson
+    given: Markus
+  - family: Siadati
+    given: Hossein
+  issued:
+  - year: '2012'
+  title: 'SpoofKiller: You can teach people how to pay, but not how to pay attention'
+  title-short: SpoofKiller
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '3-10'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.12
+  DOI: 10.1109/STAST.2012.12
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/MatteucciMPW11
+  type: paper-conference
+  author:
+  - family: Matteucci
+    given: Ilaria
+  - family: Mori
+    given: Paolo
+  - family: Petrocchi
+    given: Marinella
+  - family: Wiegand
+    given: Luca
+  issued:
+  - year: '2011'
+  title: Controlled data sharing in e-health
+  container-title: STAST
+  publisher: IEEE
+  page: '17-23'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059251
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/CostanteHP11
+  type: paper-conference
+  author:
+  - family: Costante
+    given: Elisa
+  - family: Hartog
+    given: Jerry
+    dropping-particle: den
+  - family: Petkovic
+    given: Milan
+  issued:
+  - year: '2011'
+  title: 'On-line trust perception: What really matters'
+  title-short: On-line trust perception
+  container-title: STAST
+  publisher: IEEE
+  page: '52-59'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059256
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/VolkamerSBK13
+  type: paper-conference
+  author:
+  - family: Volkamer
+    given: Melanie
+  - family: Stockhardt
+    given: Simon
+  - family: Bartsch
+    given: Steffen
+  - family: Kauer
+    given: Michaela
+  issued:
+  - year: '2013'
+  title: Adopting the cMU/APWG anti-phishing landing page idea for germany
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '46-52'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.12
+  DOI: 10.1109/STAST.2013.12
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/LoserNHN11
+  type: paper-conference
+  author:
+  - family: Loser
+    given: Kai-Uwe
+  - family: Nolte
+    given: Alexander
+  - family: Herrmann
+    given: Thomas
+  - family: Neues
+    given: Haiko
+    dropping-particle: te
+  issued:
+  - year: '2011'
+  title: Information security management systems and socio-technical walkthroughs
+  container-title: STAST
+  publisher: IEEE
+  page: '45-51'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059255
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/NochensonH12
+  type: paper-conference
+  author:
+  - family: Nochenson
+    given: Alan
+  - family: Heimann
+    given: C. F. Larry
+  issued:
+  - year: '2012'
+  title: Optimal security investments in networks of varying size and topology
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '43-47'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.14
+  DOI: 10.1109/STAST.2012.14
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/RajbhandariS11
+  type: paper-conference
+  author:
+  - family: Rajbhandari
+    given: Lisa
+  - family: Snekkenes
+    given: Einar
+  issued:
+  - year: '2011'
+  title: An approach to measure effectiveness of control for risk analysis with game
+    theory
+  container-title: STAST
+  publisher: IEEE
+  page: '24-29'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059252
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/Guttman12
+  type: paper-conference
+  author:
+  - family: Guttman
+    given: Joshua D.
+  issued:
+  - year: '2012'
+  title: Trust engineering via security protocols
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '1-2'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.15
+  DOI: 10.1109/STAST.2012.15
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/KrausWM14
+  type: paper-conference
+  author:
+  - family: Kraus
+    given: Lydia
+  - family: Wechsung
+    given: Ina
+  - family: Möller
+    given: Sebastian
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: Using statistical information to communicate android permission risks to
+    users
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '48-55'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.15
+  DOI: 10.1109/STAST.2014.15
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/BoenderIKP14
+  type: paper-conference
+  author:
+  - family: Boender
+    given: Jaap
+  - family: Ivanova
+    given: Marieta Georgieva
+  - family: Kammüller
+    given: Florian
+  - family: Primiero
+    given: Giuseppe
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: 'Modeling human behaviour with higher order logic: Insider threats'
+  title-short: Modeling human behaviour with higher order logic
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '31-39'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.13
+  DOI: 10.1109/STAST.2014.13
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/KarayumakKOVV11
+  type: paper-conference
+  author:
+  - family: Karayumak
+    given: Fatih
+  - family: Kauer
+    given: Michaela
+  - family: Olembo
+    given: Maina M.
+  - family: Volk
+    given: Tobias
+  - family: Volkamer
+    given: Melanie
+  issued:
+  - year: '2011'
+  title: User study of the improved helios voting system interfaces
+  container-title: STAST
+  publisher: IEEE
+  page: '37-44'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059254
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/MartimianoMOC14
+  type: paper-conference
+  author:
+  - family: Martimiano
+    given: Taciane
+  - family: Martina
+    given: Jean Everson
+  - family: Olembo
+    given: Maina M.
+  - family: Carlos
+    given: Marcelo Carlomagno
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: Modelling user devices in security ceremonies
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '16-23'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.11
+  DOI: 10.1109/STAST.2014.11
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/2012
+  type: book
+  issued:
+  - year: '2012'
+  title: 2nd workshop on socio-technical aspects in security and trust, sTAST 2012,
+    cambridge, mA, uSA, june 25, 2012
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6362318
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/2011
+  type: book
+  issued:
+  - year: '2011'
+  title: 1st workshop on socio-technical aspects in security and trust, sTAST 2011,
+    milan, italy, september 8, 2011
+  publisher: IEEE
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/UebelackerQ14
+  type: paper-conference
+  author:
+  - family: Uebelacker
+    given: Sven
+  - family: Quiel
+    given: Susanne
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: The social engineering personality framework
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '24-30'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.12
+  DOI: 10.1109/STAST.2014.12
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/Coles-KempR12
+  type: paper-conference
+  author:
+  - family: Coles-Kemp
+    given: Lizzie
+  - family: Ryan
+    given: Peter Y. A.
+  issued:
+  - year: '2012'
+  title: Foreword from the programme chairs - sTAST 2012
+  container-title: STAST
+  publisher: IEEE Computer Society
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.5
+  DOI: 10.1109/STAST.2012.5
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/ParkinE15
+  type: paper-conference
+  author:
+  - family: Parkin
+    given: Simon E.
+  - family: Epili
+    given: Sanket
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: A technique for using employee perception of security to support usability
+    diagnostics
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '1-8'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2015.9
+  DOI: 10.1109/STAST.2015.9
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/JakobssonS12a
+  type: paper-conference
+  author:
+  - family: Jakobsson
+    given: Markus
+  - family: Siadati
+    given: Hossein
+  issued:
+  - year: '2012'
+  title: Improved visual preference authentication
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '27-34'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.13
+  DOI: 10.1109/STAST.2012.13
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/LastdragerMHJ13
+  type: paper-conference
+  author:
+  - family: Lastdrager
+    given: Elmer
+  - family: Montoya
+    given: Lorena
+  - family: Hartel
+    given: Pieter H.
+  - family: Junger
+    given: Marianne
+  issued:
+  - year: '2013'
+  title: Applying the lost-letter technique to assess iT risk behaviour
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '2-9'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.15
+  DOI: 10.1109/STAST.2013.15
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/JeskeCB14
+  type: paper-conference
+  author:
+  - family: Jeske
+    given: Debora
+  - family: Coventry
+    given: Lynne M.
+  - family: Briggs
+    given: Pamela
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: Decision justifications for wireless network selection
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '1-7'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.9
+  DOI: 10.1109/STAST.2014.9
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/MundiePH13
+  type: paper-conference
+  author:
+  - family: Mundie
+    given: David A.
+  - family: Perl
+    given: Samuel J.
+  - family: Huth
+    given: Carly L.
+  issued:
+  - year: '2013'
+  title: 'Toward an ontology for insider threat research: Varieties of insider threat
+    definitions'
+  title-short: Toward an ontology for insider threat research
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '26-36'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.14
+  DOI: 10.1109/STAST.2013.14
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/BellaL12
+  type: paper-conference
+  author:
+  - family: Bella
+    given: Giampaolo
+  - family: Lenzini
+    given: Gabriele
+  issued:
+  - year: '2012'
+  title: Foreword from the workshop chairs - sTAST 2012
+  container-title: STAST
+  publisher: IEEE Computer Society
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.4
+  DOI: 10.1109/STAST.2012.4
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/Worton12
+  type: paper-conference
+  author:
+  - family: Worton
+    given: Katharine E.
+  issued:
+  - year: '2012'
+  title: Using socio-technical and resilience frameworks to anticipate threat
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '19-26'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.16
+  DOI: 10.1109/STAST.2012.16
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/SarMC11
+  type: paper-conference
+  author:
+  - family: Sar
+    given: Manon
+    dropping-particle: van der
+  - family: Mulder
+    given: Ingrid
+  - family: Choenni
+    given: Sunil
+  issued:
+  - year: '2011'
+  title: 'Camera use in the public domain: Towards a “big sister” approach'
+  title-short: Camera use in the public domain
+  container-title: STAST
+  publisher: IEEE
+  page: '30-36'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059253
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/JansenL15
+  type: paper-conference
+  author:
+  - family: Jansen
+    given: Jurjen
+  - family: Leukfeldt
+    given: Eric Rutger
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: 'How people help fraudsters steal their money: An analysis of 600 online
+    banking fraud cases'
+  title-short: How people help fraudsters steal their money
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '24-31'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2015.12
+  DOI: 10.1109/STAST.2015.12
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/NurseCGL12
+  type: paper-conference
+  author:
+  - family: Nurse
+    given: Jason R. C.
+  - family: Creese
+    given: Sadie
+  - family: Goldsmith
+    given: Michael
+  - family: Lamberts
+    given: Koen
+  issued:
+  - year: '2012'
+  title: Using information trustworthiness advice in decision making
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '35-42'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.10
+  DOI: 10.1109/STAST.2012.10
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/DalpiazPG11
+  type: paper-conference
+  author:
+  - family: Dalpiaz
+    given: Fabiano
+  - family: Paja
+    given: Elda
+  - family: Giorgini
+    given: Paolo
+  issued:
+  - year: '2011'
+  title: Security requirements engineering via commitments
+  container-title: STAST
+  publisher: IEEE
+  page: '1-8'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059249
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/JanicWV13
+  type: paper-conference
+  author:
+  - family: Janic
+    given: Milena
+  - family: Wijbenga
+    given: Jan Pieter
+  - family: Veugen
+    given: Thijs
+  issued:
+  - year: '2013'
+  title: 'Transparency enhancing tools (tETs): An overview'
+  title-short: Transparency enhancing tools (tETs)
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '18-25'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.11
+  DOI: 10.1109/STAST.2013.11
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/NurseS12
+  type: paper-conference
+  author:
+  - family: Nurse
+    given: Jason R. C.
+  - family: Sinclair
+    given: Jane E.
+  issued:
+  - year: '2012'
+  title: Towards a model to support the reconciliation of security actions across
+    enterprises
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '11-18'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2012.11
+  DOI: 10.1109/STAST.2012.11
+  ISBN: '978-1-4673-2748-0'
+
+- id: conf/stast/TembeHMMK13
+  type: paper-conference
+  author:
+  - family: Tembe
+    given: Rucha
+  - family: Hong
+    given: Kyung Wha
+  - family: Murphy-Hill
+    given: Emerson R.
+  - family: Mayhorn
+    given: Christopher B.
+  - family: Kelley
+    given: Christopher M.
+  issued:
+  - year: '2013'
+  title: American and indian conceptualizations of phishing
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '37-45'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.10
+  DOI: 10.1109/STAST.2013.10
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/BuckleyNLGC14
+  type: paper-conference
+  author:
+  - family: Buckley
+    given: Oliver
+  - family: Nurse
+    given: Jason R. C.
+  - family: Legg
+    given: Philip A.
+  - family: Goldsmith
+    given: Michael
+  - family: Creese
+    given: Sadie
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: Reflecting on the ability of enterprise security policy to address accidental
+    insider threat
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '8-15'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.10
+  DOI: 10.1109/STAST.2014.10
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/AfrozISCG13
+  type: paper-conference
+  author:
+  - family: Afroz
+    given: Sadia
+  - family: Islam
+    given: Aylin Caliskan
+  - family: Santell
+    given: Jordan
+  - family: Chapin
+    given: Aaron
+  - family: Greenstadt
+    given: Rachel
+  issued:
+  - year: '2013'
+  title: How privacy flaws affect consumer perception
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '10-17'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.13
+  DOI: 10.1109/STAST.2013.13
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/KiljanVE14
+  type: paper-conference
+  author:
+  - family: Kiljan
+    given: Sven
+  - family: Vranken
+    given: Harald P. E.
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: 'What you enter is what you sign: Input integrity in an online banking
+    environment'
+  title-short: What you enter is what you sign
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '40-47'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2014.14
+  DOI: 10.1109/STAST.2014.14
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/InglesantS11
+  type: paper-conference
+  author:
+  - family: Inglesant
+    given: Philip
+  - family: Sasse
+    given: Martina Angela
+  issued:
+  - year: '2011'
+  title: 'Information security as organizational power: A framework for re-thinking
+    security policies'
+  title-short: Information security as organizational power
+  container-title: STAST
+  publisher: IEEE
+  page: '9-16'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059250
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/2013
+  type: book
+  issued:
+  - year: '2013'
+  title: Third workshop on socio-technical aspects in security and trust, sTAST 2013,
+    new orleans, lA, uSA, june 29, 2013
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6690964
+  ISBN: '978-0-7695-5065-7'
+
+- id: conf/stast/BulleeMPJH15
+  type: paper-conference
+  author:
+  - family: Bullee
+    given: Jan-Willem
+  - family: Montoya
+    given: Lorena
+  - family: Pieters
+    given: Wolter
+  - family: Junger
+    given: Marianne
+  - family: Hartel
+    given: Pieter H.
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: 'Regression nodes: Extending attack trees with data from social sciences'
+  title-short: Regression nodes
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '17-23'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2015.11
+  DOI: 10.1109/STAST.2015.11
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/NurseCGL11
+  type: paper-conference
+  author:
+  - family: Nurse
+    given: Jason R. C.
+  - family: Creese
+    given: Sadie
+  - family: Goldsmith
+    given: Michael
+  - family: Lamberts
+    given: Koen
+  issued:
+  - year: '2011'
+  title: 'Trustworthy and effective communication of cybersecurity risks: A review'
+  title-short: Trustworthy and effective communication of cybersecurity risks
+  container-title: STAST
+  publisher: IEEE
+  page: '60-68'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6045371
+  DOI: 10.1109/STAST.2011.6059257
+  ISBN: '978-1-4577-1181-7'
+
+- id: conf/stast/2014
+  type: book
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2014'
+  title: 2014 workshop on socio-technical aspects in security and trust, sTAST 2014,
+    vienna, austria, july 18, 2014
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6975727
+  ISBN: '978-1-4799-7901-1'
+
+- id: conf/stast/2015
+  type: book
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: 2015 workshop on socio-technical aspects in security and trust, sTAST 2015,
+    verona, italy, july 13, 2015
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7351959
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/FerreiraL15
+  type: paper-conference
+  author:
+  - family: Ferreira
+    given: Ana
+  - family: Lenzini
+    given: Gabriele
+  editor:
+  - family: Bella
+    given: Giampaolo
+  issued:
+  - year: '2015'
+  title: An analysis of social engineering principles in effective phishing
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '9-16'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2015.10
+  DOI: 10.1109/STAST.2015.10
+  ISBN: '978-1-5090-0178-1'
+
+- id: conf/stast/Martina13
+  type: paper-conference
+  author:
+  - family: Martina
+    given: Jean Everson
+  issued:
+  - year: '2013'
+  title: 'The ever changing threat model: A social-technical perspective'
+  title-short: The ever changing threat model
+  container-title: STAST
+  publisher: IEEE Computer Society
+  page: '1'
+  URL: http://doi.ieeecomputersociety.org/10.1109/STAST.2013.16
+  DOI: 10.1109/STAST.2013.16
+  ISBN: '978-0-7695-5065-7'
+...

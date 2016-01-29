@@ -1,0 +1,962 @@
+---
+references:
+- id: conf/dai/Haegg96
+  type: paper-conference
+  author:
+  - family: Haegg
+    given: Staffan
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: A sentinel approach to fault handling in multi-agent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-195'
+  volume: '1286'
+  DOI: 10.1007/BFb0030090
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/Moulin98
+  type: paper-conference
+  author:
+  - family: Moulin
+    given: Bernard
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: An awareness-based model for agents involved in reporting activities
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-121'
+  volume: '1544'
+  DOI: 10.1007/10693067_8
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/WangS98
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Hongxue
+  - family: Slaney
+    given: John K.
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: 'GISM: A language for modelling and developing agent-based intelligent
+    systems'
+  title-short: GISM
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-136'
+  volume: '1544'
+  DOI: 10.1007/10693067_9
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/MoulinB95
+  type: paper-conference
+  author:
+  - family: Moulin
+    given: Bernard
+  - family: Brassard
+    given: Mario
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A scenario-based design method and an environment for the development of
+    multiagent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-232'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_32
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/ScottJS98
+  type: paper-conference
+  author:
+  - family: Scott
+    given: Andrew
+  - family: Jenkin
+    given: Karen
+  - family: Senjen
+    given: Rye
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Design of an agent-based, multi-user scheduling implementation
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-165'
+  volume: '1544'
+  DOI: 10.1007/10693067_11
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Dorin98
+  type: paper-conference
+  author:
+  - family: Dorin
+    given: Alan
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Physically based, self-organizing cellular automata
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-87'
+  volume: '1544'
+  DOI: 10.1007/10693067_6
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/dInvernoL96
+  type: paper-conference
+  author:
+  - family: d’Inverno
+    given: Mark
+  - family: Luck
+    given: Michael
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: 'Making and breaking engagements: An operational analysis of agent relationships'
+  title-short: Making and breaking engagements
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '48-62'
+  volume: '1286'
+  DOI: 10.1007/BFb0030081
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/ReedLFG96
+  type: paper-conference
+  author:
+  - family: Reed
+    given: Chris
+  - family: Long
+    given: Derek
+  - family: Fox
+    given: Maria
+  - family: Garagnani
+    given: Max
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Persuasion as a form of inter-agent negotiation
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-136'
+  volume: '1286'
+  DOI: 10.1007/BFb0030086
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/Davidsson95
+  type: paper-conference
+  author:
+  - family: Davidsson
+    given: Paul
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: 'A linearly quasi-anticipatory autonomous agent architecture: Some preliminary
+    experiments'
+  title-short: A linearly quasi-anticipatory autonomous agent architecture
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-203'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_30
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/ChainbiJH98
+  type: paper-conference
+  author:
+  - family: Chainbi
+    given: Walid
+  - family: Jmaiel
+    given: Mohamed
+  - family: Hamadou
+    given: Abdelmajid Ben
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Conception, behavioral semantics and formal specification of multi-agent
+    systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-28'
+  volume: '1544'
+  DOI: 10.1007/10693067_2
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Wobcke95
+  type: paper-conference
+  author:
+  - family: Wobcke
+    given: Wayne
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Plans and the revison of intentions
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-114'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_24
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/1998
+  type: book
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: 'Multi-agent systems: Theories, languages, and applications, 4th australian
+    workshop on distributed artificial intelligence, brisbane, queensland, australia,
+    july 13, 1998, selected papers'
+  title-short: Multi-agent systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1544'
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Glaser96
+  type: paper-conference
+  author:
+  - family: Glaser
+    given: Norbert
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: The coMoMAS methodology and enironment for multi-agent system development
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '1286'
+  DOI: 10.1007/BFb0030078
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/Lukose96
+  type: paper-conference
+  author:
+  - family: Lukose
+    given: Dickson
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Modelling extendible mobile agents
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-47'
+  volume: '1286'
+  DOI: 10.1007/BFb0030080
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/WangYLO98
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xiao Feng
+  - family: Yi
+    given: Xun
+  - family: Lam
+    given: Kwok-Yan
+  - family: Okamoto
+    given: Eiji
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Secure information gathering agent for internet trading
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-193'
+  volume: '1544'
+  DOI: 10.1007/10693067_13
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Luckd98
+  type: paper-conference
+  author:
+  - family: Luck
+    given: Michael
+  - family: d’Inverno
+    given: Mark
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Motivated behavior for goal adoption
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-73'
+  volume: '1544'
+  DOI: 10.1007/10693067_5
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Waern98
+  type: paper-conference
+  author:
+  - family: Waern
+    given: Annika
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Service contract negotiation - agent-based support for open service environments
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-104'
+  volume: '1544'
+  DOI: 10.1007/10693067_7
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/KendallMJ95
+  type: paper-conference
+  author:
+  - family: Kendall
+    given: Elizabeth A.
+  - family: Malkoun
+    given: Margaret T.
+  - family: Jiang
+    given: Chong H.
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A methodology for developing agent based systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-99'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_23
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/YangZ95
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Hongxia
+  - family: Zhang
+    given: Chengqi
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Definition and application of a comprehensive framework for distributed problem
+    solving
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_17
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/Carlsson95
+  type: paper-conference
+  author:
+  - family: Carlsson
+    given: Bengt
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: An evolutionary model of multi-agent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-69'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_21
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/OssowskiG95
+  type: paper-conference
+  author:
+  - family: Ossowski
+    given: Sascha
+  - family: García-Serrano
+    given: Ana
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A knowledge-level model of co-ordination
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '46-57'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_20
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/YangZ96
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Hongxia
+  - family: Zhang
+    given: Chengqi
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Application of mAS in implementing rational iP routers on the priced internet
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-180'
+  volume: '1286'
+  DOI: 10.1007/BFb0030089
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/ClarkRH98
+  type: paper-conference
+  author:
+  - family: Clark
+    given: Keith L.
+  - family: '0001'
+    given: Peter J. Robinson
+  - family: Hagen
+    given: Richard
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Programming internet based dAI applications in qu-prolog
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-151'
+  volume: '1544'
+  DOI: 10.1007/10693067_10
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/dInvernoL95
+  type: paper-conference
+  author:
+  - family: d’Inverno
+    given: Mark
+  - family: Luck
+    given: Michael
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A formal view of social dependence networks
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-129'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_25
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/AmbroszkiewiczMP98
+  type: paper-conference
+  author:
+  - family: Ambroszkiewicz
+    given: Stanislaw
+  - family: Matyja
+    given: Olaf
+  - family: Penczek
+    given: Wojciech
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Team formation by self-interested mobile agents
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-15'
+  volume: '1544'
+  DOI: 10.1007/10693067_1
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/ZhangZ95
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Minjie
+  - family: Zhang
+    given: Chengqi
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Neural network strategies for solving synthesis problems in non-conflilct
+    cases in distributed expert systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-188'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_29
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/Rao95
+  type: paper-conference
+  author:
+  - family: Rao
+    given: Anand S.
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: 'Integrated agent architecture: Execution and recognition of mental-states'
+  title-short: Integrated agent architecture
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '159-173'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_28
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/HeCKASI96a
+  type: paper-conference
+  author:
+  - family: He
+    given: Lifeng
+  - family: Chao
+    given: Yuyan
+  - family: Kato
+    given: Shohei
+  - family: Araki
+    given: Tetsuo
+  - family: Seki
+    given: Hirohisa
+  - family: Itoh
+    given: Hidenori
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Implementing an automated reasoning system for multi-agent knowledge and
+    time
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-165'
+  volume: '1286'
+  DOI: 10.1007/BFb0030088
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/ZhangZ96
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Minjie
+  - family: Zhang
+    given: Chengqi
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Methodologies of solution synthesis in distributed expert systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-151'
+  volume: '1286'
+  DOI: 10.1007/BFb0030087
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/MundayDCL95
+  type: paper-conference
+  author:
+  - family: Munday
+    given: C.
+  - family: Dangedej
+    given: J.
+  - family: Cross
+    given: T.
+  - family: Lukose
+    given: Dickson
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Motivation and perception mechanisms in mobile agents for electronic commerce
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-158'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_27
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/KuriharaOS98
+  type: paper-conference
+  author:
+  - family: Kurihara
+    given: Satoshi
+  - family: Onai
+    given: Rikio
+  - family: Sugawara
+    given: Toshiharu
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Multi-agent reinforcement learning system integrating exploitation and exploration-oriented
+    learning
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-57'
+  volume: '1544'
+  DOI: 10.1007/10693067_4
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/SugawaraK98
+  type: paper-conference
+  author:
+  - family: Sugawara
+    given: Toshiharu
+  - family: Kurihara
+    given: Satoshi
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: Learning message-related coordination control in multiagent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-44'
+  volume: '1544'
+  DOI: 10.1007/10693067_3
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/Lelouche98
+  type: paper-conference
+  author:
+  - family: Lelouche
+    given: Ruddy
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1998'
+  title: A team of agents cooperating for intelligent tutoring
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-182'
+  volume: '1544'
+  DOI: 10.1007/10693067_12
+  ISBN: '3-540-65477-1'
+
+- id: conf/dai/BeloN95
+  type: paper-conference
+  author:
+  - family: Belo
+    given: Orlando
+  - family: Neves
+    given: José
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Cooperation among opportunistic agents on a distributed environment
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-215'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_31
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/KendallM96
+  type: paper-conference
+  author:
+  - family: Kendall
+    given: Elizabeth A.
+  - family: Malkoun
+    given: Margaret T.
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Design patterns for the development of multi-agent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-31'
+  volume: '1286'
+  DOI: 10.1007/BFb0030079
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/1995
+  type: book
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: 'Distributed artificial intelligence: Architecture and modelling, first
+    australian workshop on dAI, canberra, aCT, australia, november 13, 1995, proceedings'
+  title-short: Distributed artificial intelligence
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1087'
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/CavedonT95
+  type: paper-conference
+  author:
+  - family: Cavedon
+    given: Lawrence
+  - family: Tidhar
+    given: Gil
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A logical framework for multi-agent systems and joint attitudes
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '16-30'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_18
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/Ekenberg96
+  type: paper-conference
+  author:
+  - family: Ekenberg
+    given: Love
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Detecting conflicts in multi-agent systems
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '106-119'
+  volume: '1286'
+  DOI: 10.1007/BFb0030085
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/SommarugaC95
+  type: paper-conference
+  author:
+  - family: Sommaruga
+    given: Lorenzo
+  - family: Catenazzi
+    given: Nadia
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: From practice to theory in designing autonomous agents
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-143'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_26
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/Jamison96
+  type: paper-conference
+  author:
+  - family: Jamison
+    given: Wilfred C.
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: 'ACACIA: An agency based collaboration framework for heterogeneous multi-agent
+    systems'
+  title-short: ACACIA
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '76-91'
+  volume: '1286'
+  DOI: 10.1007/BFb0030083
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/Luckd95
+  type: paper-conference
+  author:
+  - family: Luck
+    given: Michael
+  - family: d’Inverno
+    given: Mark
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: Engagement and cooperating in motivated agent modelling
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-84'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_22
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/DeckerSW96
+  type: paper-conference
+  author:
+  - family: Decker
+    given: Keith
+  - family: Sycara
+    given: Katia P.
+  - family: Williamson
+    given: Mike
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: Cloning for intelligent adaptive information agents
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-75'
+  volume: '1286'
+  DOI: 10.1007/BFb0030082
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/1996
+  type: book
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1997'
+  title: 'Multi-agent systems: Methodologies and applications, second australian
+    workshop on distributed artificial intelligence, cairns, queensland, australia,
+    august 27, 1996, revised papers'
+  title-short: Multi-agent systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1286'
+  ISBN: '3-540-63412-6'
+
+- id: conf/dai/ShehoryK95
+  type: paper-conference
+  author:
+  - family: Shehory
+    given: Onn
+  - family: Kraus
+    given: Sarit
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1995'
+  title: A kernel-oriented model for autonomous-agent coalition-formation in general
+    environments
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '31-45'
+  volume: '1087'
+  DOI: 10.1007/3-540-61314-5_19
+  ISBN: '3-540-61314-5'
+
+- id: conf/dai/HeCKASI96
+  type: paper-conference
+  author:
+  - family: He
+    given: Lifeng
+  - family: Chao
+    given: Yuyan
+  - family: Kato
+    given: Shohei
+  - family: Araki
+    given: Tetsuo
+  - family: Seki
+    given: Hirohisa
+  - family: Itoh
+    given: Hidenori
+  editor:
+  - family: Zhang
+    given: Chengqi
+  issued:
+  - year: '1996'
+  title: A multi-agent cooperative reasoning system for amalgamated knowledge bases
+  container-title: DAI
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-105'
+  volume: '1286'
+  DOI: 10.1007/BFb0030084
+  ISBN: '3-540-63412-6'
+...

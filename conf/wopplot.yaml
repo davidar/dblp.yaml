@@ -1,0 +1,945 @@
+---
+references:
+- id: conf/wopplot/Weidner86
+  type: paper-conference
+  author:
+  - family: Weidner
+    given: P.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: MIMD algorithms and their implementation
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-86'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_6
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Caianiello89
+  type: paper-conference
+  author:
+  - family: Caianiello
+    given: Eduardo R.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Systems and uncertainty
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-66'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_3
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/CantoniF86
+  type: paper-conference
+  author:
+  - family: Cantoni
+    given: Virginio
+  - family: Ferretti
+    given: Marco
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Pyramidal architectures for image processing
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-74'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_5
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/AllenL89
+  type: paper-conference
+  author:
+  - family: Allen
+    given: P. M.
+  - family: Lesser
+    given: M. J.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: 'Evolution: Travelling in an imaginary landscape'
+  title-short: Evolution
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '419-441'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_25
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Lucadou89
+  type: paper-conference
+  author:
+  - family: Lucadou
+    given: Walter
+    dropping-particle: v.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Complementarity and non-locality in complex systems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-55'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_2
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Gorges-Schleuter89
+  type: paper-conference
+  author:
+  - family: Gorges-Schleuter
+    given: Martina
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: ASPARAGOS, a parallel genetic algorithm and population genetics
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '407-418'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_24
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/ScarpettaS86
+  type: paper-conference
+  author:
+  - family: Scarpetta
+    given: G.
+  - family: Simoncelli
+    given: G.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Self-organizing hierarchical modular systems
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-119'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_7
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Schuster89
+  type: paper-conference
+  author:
+  - family: Schuster
+    given: Peter
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Optimization and complexity in molecular biology and physics
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '364-387'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_21
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Mundemann89
+  type: paper-conference
+  author:
+  - family: Mündemann
+    given: Friedhelm
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Self-organization in computational systems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '315-325'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_18
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/HauserHMM89
+  type: paper-conference
+  author:
+  - family: Hauser
+    given: Rainer
+  - family: Horner
+    given: H.
+  - family: Männer
+    given: Reinhard
+  - family: Makhaniok
+    given: Mikhail
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Architectural considerations for nERV - a general purpose neural network
+    simulation system
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-195'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_11
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/1989
+  type: book
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1991'
+  title: 'Parallelism, learning, evolution, workshop on evolutionary models and
+    strategies, neubiberg, germany, march 10-11, 1989, workshop on parallel processing:
+    Logic, organization, and technology - wOPPLOT 89, wildbad kreuth, germany, july
+    24-28, 1989'
+  title-short: Parallelism, learning, evolution, workshop on evolutionary models and
+    strategies, neubiberg, germany, march 10-11, 1989, workshop on parallel processing
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '565'
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Fritsch89
+  type: paper-conference
+  author:
+  - family: Fritsch
+    given: Gerhard
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Multipurpose and special purpose computers
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-120'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_6
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/MehringS86
+  type: paper-conference
+  author:
+  - family: Mehring
+    given: M.
+  - family: Sixl
+    given: H.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: 'Molecular electronics: Storage and transport'
+  title-short: Molecular electronics
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '11-28'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_2
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Eikmeyer89
+  type: paper-conference
+  author:
+  - family: Eikmeyer
+    given: Hans-Jürgen
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Connectionist models of utterance production
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-230'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_13
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Molzberger89
+  type: paper-conference
+  author:
+  - family: Molzberger
+    given: Peter
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: On parallel consciousness
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_1
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/PensiniMG89
+  type: paper-conference
+  author:
+  - family: Pensini
+    given: Maria Pia
+  - family: Mauri
+    given: Giancarlo
+  - family: Gardin
+    given: Francesco
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Flowshop and travelling salesman problem
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-182'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_10
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/RitterS86
+  type: paper-conference
+  author:
+  - family: Ritter
+    given: Helge J.
+  - family: Schulten
+    given: Klaus
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Planning a dynamic trajectory via path finding in discretized phase space
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '29-39'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_3
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Dalenoort89
+  type: paper-conference
+  author:
+  - family: Dalenoort
+    given: G. J.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Self-organization of informational systems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-242'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_14
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Lohmann89
+  type: paper-conference
+  author:
+  - family: Lohmann
+    given: Reinhard
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Selforganization by evolutionary strategies in visual systems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '500-508'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_29
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/HesserMS89
+  type: paper-conference
+  author:
+  - family: Hesser
+    given: Jürgen
+  - family: Männer
+    given: Reinhard
+  - family: Stucky
+    given: Oliver
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: On steiner trees and genetic algorithms
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '509-525'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_30
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Eisele86
+  type: paper-conference
+  author:
+  - family: Eisele
+    given: Ignaz
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Technological developments for three-dimensional circuitry
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-10'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_1
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Quadranti89
+  type: paper-conference
+  author:
+  - family: Quadranti
+    given: Piergiorgio
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: The construction of space and the logics of quantum mechanics
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-93'
+  volume: '565'
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Gernert89
+  type: paper-conference
+  author:
+  - family: Gernert
+    given: Dieter
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Cellular automata and the concept of space
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-102'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_5
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/BertoniGMS86
+  type: paper-conference
+  author:
+  - family: Bertoni
+    given: Alberto
+  - family: Goldwurm
+    given: Massimiliano
+  - family: Mauri
+    given: Giancarlo
+  - family: Sabadini
+    given: Nicoletta
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Parallel algorithms and the classification of problems
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '206-226'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_15
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Dobson89
+  type: paper-conference
+  author:
+  - family: Dobson
+    given: Vernon G.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: 'Associative neural networks in analog vLSI: Advantages of decrementing
+    algorithms'
+  title-short: Associative neural networks in analog vLSI
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-218'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_12
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Fritsch86
+  type: paper-conference
+  author:
+  - family: Fritsch
+    given: Gerhard
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Numerical simulation of physical phenomena by parallel computing
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-57'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_4
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Knecht89
+  type: paper-conference
+  author:
+  - family: Knecht
+    given: Renate
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Implementation of divide-and-conquer algorithms on multiprocessors
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-136'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_7
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Atmanspacher89
+  type: paper-conference
+  author:
+  - family: Atmanspacher
+    given: Harald
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Incommensurability of liouvillean dynamics and information dynamics
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '482-499'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_28
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Becker86
+  type: paper-conference
+  author:
+  - family: Becker
+    given: Jörg D.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Structure and parallel processing
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-165'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_11
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Molzberger86
+  type: paper-conference
+  author:
+  - family: Molzberger
+    given: Peter
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Analyzing mental representation by means of nLP (neuro linguistic programming)
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-135'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_8
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/RuckertG86
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Ulrich Rückert
+  - family: Goser
+    given: Karl
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Adaptive associate systems for vLSI
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-184'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_12
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Becker89
+  type: paper-conference
+  author:
+  - family: Becker
+    given: Jörg D.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: 'Adaptation and extension: Learning in rigid systems'
+  title-short: Adaptation and extension
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '326-334'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_19
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/MakhaniokCMS89
+  type: paper-conference
+  author:
+  - family: Makhaniok
+    given: Mikhail
+  - family: Cherniavsky
+    given: Victor
+  - family: Männer
+    given: Reinhard
+  - family: Stucky
+    given: Oliver
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Effective implementation of distributed arbitration in multiprocessor systems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-156'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_9
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Muller86
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Albrecht A. C.
+    dropping-particle: von
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Towards a complex notion of time
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-157'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_10
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/KatsikasN89
+  type: paper-conference
+  author:
+  - family: Katsikas
+    given: Anastassis A.
+  - family: Nicolis
+    given: John S.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Chaotic dynamics of generating markov partitions, and linguistic sequences
+    mimicking zipf’s law
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '335-363'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_20
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Forshaw86
+  type: paper-conference
+  author:
+  - family: Forshaw
+    given: M. R. B.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Pattern storage and associative memory in quasi-neural networks
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '185-197'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_13
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Schwefel89
+  type: paper-conference
+  author:
+  - family: Schwefel
+    given: Hans-Paul
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Understanding evolution as a collective strategy for groping in the dark
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '388-397'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_22
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Ablay89
+  type: paper-conference
+  author:
+  - family: Ablay
+    given: Paul
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Ten theses regarding the design of controlled evolutionary strategies
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '457-481'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_27
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Banzhaf89
+  type: paper-conference
+  author:
+  - family: Banzhaf
+    given: Wolfgang
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Finding the global minimum of a low-dimensional spin-glass model
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '442-456'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_26
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/CaianielloM86
+  type: paper-conference
+  author:
+  - family: Caianiello
+    given: Eduardo R.
+  - family: Marinaro
+    given: Maria
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: Neural nets and cellular automata
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-205'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_14
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Wermus89
+  type: paper-conference
+  author:
+  - family: Wermus
+    given: Henri
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Logic of cognitive representations and their evolution
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '274-303'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_16
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/AtmanspacherKS89
+  type: paper-conference
+  author:
+  - family: Atmanspacher
+    given: Harald
+  - family: Krueger
+    given: F. R.
+  - family: Scheingraber
+    given: Herbert
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: A modal propositional calculus for quantum facts and dynamical theories
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304-314'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_17
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/1986
+  type: book
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1987'
+  title: 'WOPPLOT 86 - parallel processing: Logic, organization, and technology,
+    proceedings of a workshop, neubiberg, germany, july 2-4, 1986'
+  title-short: WOPPLOT 86 - parallel processing
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '253'
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Brewka86
+  type: paper-conference
+  author:
+  - family: Brewka
+    given: Gerhard
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1986'
+  title: 'Nonmonotonic reasoning: Formalizations and implementations'
+  title-short: Nonmonotonic reasoning
+  container-title: WOPPLOT
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-149'
+  volume: '253'
+  DOI: 10.1007/3-540-18022-2_9
+  ISBN: '3-540-18022-2'
+
+- id: conf/wopplot/Rieger89
+  type: paper-conference
+  author:
+  - family: Rieger
+    given: Burghard B.
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Distributed semantic representations of word meanings
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '243-273'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_15
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Vollmar89
+  type: paper-conference
+  author:
+  - family: Vollmar
+    given: Roland
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Some remarks on synchronization problems
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-147'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_8
+  ISBN: '3-540-55027-5'
+
+- id: conf/wopplot/Muhlenbein89
+  type: paper-conference
+  author:
+  - family: Mühlenbein
+    given: Heinz
+  editor:
+  - family: Becker
+    given: Jörg D.
+  issued:
+  - year: '1989'
+  title: Parallel genetic algorithms, population genetics, and combinatorial optimization
+  container-title: Parallelism, learning, evolution
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '398-406'
+  volume: '565'
+  DOI: 10.1007/3-540-55027-5_23
+  ISBN: '3-540-55027-5'
+...

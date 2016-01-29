@@ -1,0 +1,522 @@
+---
+references:
+- id: conf/xmlsec/WoutersPFR02
+  type: paper-conference
+  author:
+  - family: Wouters
+    given: Karel
+  - family: Preneel
+    given: Bart
+  - family: Ferreres
+    given: Ana Isabel González-Tablas
+  - family: Ribagorda
+    given: Arturo
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Towards an xML format for time-stamps
+  container-title: XML security
+  publisher: ACM
+  page: '61-70'
+  URL: http://doi.acm.org/10.1145/764792.764802
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/Boyer03
+  type: paper-conference
+  author:
+  - family: Boyer
+    given: John M.
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: 'Bulletproof business process automation: Securing xML forms with document
+    subset signatures'
+  title-short: Bulletproof business process automation
+  container-title: XML security
+  publisher: ACM
+  page: '104-111'
+  URL: http://doi.acm.org/10.1145/968559.968576
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/CremoniniVDS03
+  type: paper-conference
+  author:
+  - family: Cremonini
+    given: Marco
+  - family: Vimercati
+    given: Sabrina De Capitani
+    dropping-particle: di
+  - family: Damiani
+    given: Ernesto
+  - family: Samarati
+    given: Pierangela
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: An xML-based approach to combine firewalls and web services security specifications
+  container-title: XML security
+  publisher: ACM
+  page: '69-78'
+  URL: http://doi.acm.org/10.1145/968559.968571
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/GordonP02
+  type: paper-conference
+  author:
+  - family: Gordon
+    given: Andrew D.
+  - family: Pucella
+    given: Riccardo
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Validating a web service security abstraction by typing
+  container-title: XML security
+  publisher: ACM
+  page: '18-29'
+  URL: http://doi.acm.org/10.1145/764792.764797
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/QinA03
+  type: paper-conference
+  author:
+  - family: Qin
+    given: Li
+  - family: Atluri
+    given: Vijayalakshmi
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Concept-level access control for the semantic web
+  container-title: XML security
+  publisher: ACM
+  page: '94-103'
+  URL: http://doi.acm.org/10.1145/968559.968575
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/Siebenlist03
+  type: paper-conference
+  author:
+  - family: Siebenlist
+    given: Frank
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: 'Grid security: Requirements, plans and ongoing efforts'
+  title-short: Grid security
+  container-title: XML security
+  publisher: ACM
+  page: '38'
+  URL: http://doi.acm.org/10.1145/968559.968565
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/KoshutanskiM03
+  type: paper-conference
+  author:
+  - family: Koshutanski
+    given: Hristo
+  - family: Massacci
+    given: Fabio
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: An access control framework for business processes for web services
+  container-title: XML security
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/968559.968562
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/2003
+  type: book
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Proceedings of the 2003 aCM workshop on xML security, fairfax, vA, uSA, october
+    31, 2003
+  publisher: ACM
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/GoelCR03
+  type: paper-conference
+  author:
+  - family: Goel
+    given: Siddhartha K.
+  - family: Clifton
+    given: Chris
+  - family: Rosenthal
+    given: Arnon
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Derived access control specification for xML
+  container-title: XML security
+  publisher: ACM
+  page: '1-14'
+  URL: http://doi.acm.org/10.1145/968559.968561
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/DamianiVS02
+  type: paper-conference
+  author:
+  - family: Damiani
+    given: Ernesto
+  - family: Vimercati
+    given: Sabrina De Capitani
+    dropping-particle: di
+  - family: Samarati
+    given: Pierangela
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Towards securing xML web services
+  container-title: XML security
+  publisher: ACM
+  page: '90-96'
+  URL: http://doi.acm.org/10.1145/764792.764806
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/GowadiaF03
+  type: paper-conference
+  author:
+  - family: Gowadia
+    given: Vaibhav
+  - family: Farkas
+    given: Csilla
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: RDF metadata for xML access control
+  container-title: XML security
+  publisher: ACM
+  page: '39-48'
+  URL: http://doi.acm.org/10.1145/968559.968567
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/ParkMS03
+  type: paper-conference
+  author:
+  - family: Park
+    given: Namje
+  - family: Moon
+    given: Kiyoung
+  - family: Sohn
+    given: Sungwon
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Certificate validation service using xKMS for computational grid
+  container-title: XML security
+  publisher: ACM
+  page: '112-120'
+  URL: http://doi.acm.org/10.1145/968559.968577
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/ImamuraCM02
+  type: paper-conference
+  author:
+  - family: Imamura
+    given: Takeshi
+  - family: Clark
+    given: Andy
+  - family: Maruyama
+    given: Hiroshi
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: A stream-based implementation of xML encryption
+  container-title: XML security
+  publisher: ACM
+  page: '11-17'
+  URL: http://doi.acm.org/10.1145/764792.764795
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/MaruyamaNH03
+  type: paper-conference
+  author:
+  - family: Maruyama
+    given: Hiroshi
+  - family: Nakamura
+    given: Taiga
+  - family: Hsieh
+    given: Tony
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Optimistic fair contract signing for web services
+  container-title: XML security
+  publisher: ACM
+  page: '79-85'
+  URL: http://doi.acm.org/10.1145/968559.968572
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/AdamsB02
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Carlisle
+  - family: Boeyen
+    given: Sharon
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: 'UDDI and wSDL extensions for web service: A security framework'
+  title-short: UDDI and wSDL extensions for web service
+  container-title: XML security
+  publisher: ACM
+  page: '30-35'
+  URL: http://doi.acm.org/10.1145/764792.764798
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/Geuer-Pollmann02
+  type: paper-conference
+  author:
+  - family: Geuer-Pollmann
+    given: Christian
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: XML pool encryption
+  container-title: XML security
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/764792.764794
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/2002
+  type: book
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Proceedings of the 2002 aCM workshop on xML security, fairfax, vA, uSA, november
+    22, 2002
+  publisher: ACM
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/LorchPLKS03
+  type: paper-conference
+  author:
+  - family: Lorch
+    given: Markus
+  - family: Proctor
+    given: Seth
+  - family: Lepro
+    given: Rebekah
+  - family: Kafura
+    given: Dennis G.
+  - family: Shah
+    given: Sumit
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: First experiences using xACML for access control in distributed systems
+  container-title: XML security
+  publisher: ACM
+  page: '25-37'
+  URL: http://doi.acm.org/10.1145/968559.968563
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/PolivyT02
+  type: paper-conference
+  author:
+  - family: Polivy
+    given: Daniel J.
+  - family: Tamassia
+    given: Roberto
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Authenticating distributed data using web services and xML signatures
+  container-title: XML security
+  publisher: ACM
+  page: '80-89'
+  URL: http://doi.acm.org/10.1145/764792.764805
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/ShigetomiOI03
+  type: paper-conference
+  author:
+  - family: Shigetomi
+    given: Rie
+  - family: Otsuka
+    given: Akira
+  - family: Imai
+    given: Hideki
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Anonymous authentication scheme for xML security standard with refreshable
+    tokens
+  container-title: XML security
+  publisher: ACM
+  page: '86-93'
+  URL: http://doi.acm.org/10.1145/968559.968573
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/WangLDRNV02
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xin
+  - family: Lao
+    given: Guillermo
+  - family: DeMartini
+    given: Thomas
+  - family: Reddy
+    given: Hari
+  - family: Nguyen
+    given: Mai
+  - family: Valenzuela
+    given: Edgar
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: XrML - eXtensible rights markup language
+  container-title: XML security
+  publisher: ACM
+  page: '71-79'
+  URL: http://doi.acm.org/10.1145/764792.764803
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/KuoH02
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: C. Joncheng
+  - family: Humenn
+    given: Polar
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Dynamically authorized role-based access control for secure distributed computation
+  container-title: XML security
+  publisher: ACM
+  page: '97-103'
+  URL: http://doi.acm.org/10.1145/764792.764807
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/GummadiYSR03
+  type: paper-conference
+  author:
+  - family: Gummadi
+    given: Abhilash
+  - family: Yoon
+    given: Jong P.
+  - family: Shah
+    given: Biren
+  - family: '0001'
+    given: Vijay V. Raghavan
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: A bitmap-based access control for restricted views of xML documents
+  container-title: XML security
+  publisher: ACM
+  page: '60-68'
+  URL: http://doi.acm.org/10.1145/968559.968569
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/LimPS03
+  type: paper-conference
+  author:
+  - family: Lim
+    given: Chung-Hwan
+  - family: Park
+    given: Seog
+  - family: Son
+    given: Sang Hyuk
+  editor:
+  - family: Jajodia
+    given: Sushil
+  issued:
+  - year: '2003'
+  title: Access control of xML documents considering update operations
+  container-title: XML security
+  publisher: ACM
+  page: '49-59'
+  URL: http://doi.acm.org/10.1145/968559.968568
+  ISBN: 1-58113-777-X
+
+- id: conf/xmlsec/Kraft02
+  type: paper-conference
+  author:
+  - family: Kraft
+    given: Reiner
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Designing a distributed access control processor for network services on
+    the web
+  container-title: XML security
+  publisher: ACM
+  page: '36-52'
+  URL: http://doi.acm.org/10.1145/764792.764799
+  ISBN: '1-58113-632-3'
+
+- id: conf/xmlsec/KodaliW02
+  type: paper-conference
+  author:
+  - family: Kodali
+    given: Naren
+  - family: Wijesekera
+    given: Duminda
+  editor:
+  - family: Kudo
+    given: Michiharu
+  issued:
+  - year: '2002'
+  title: Regulating access to sMIL formatted pay-per-view movies
+  container-title: XML security
+  publisher: ACM
+  page: '53-60'
+  URL: http://doi.acm.org/10.1145/764792.764801
+  ISBN: '1-58113-632-3'
+...

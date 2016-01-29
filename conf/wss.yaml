@@ -1,0 +1,877 @@
+---
+references:
+- id: conf/wss/GartnerP99
+  type: paper-conference
+  author:
+  - family: Gärtner
+    given: Felix C.
+  - family: Pagnia
+    given: Henning
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Self-stabilizing load distribution for replicated servers on a per-access
+    basis
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '102-109'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/1999
+  type: book
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: 1999 iCDCS workshop on self-stabilizing systems, austin, texas, june 5, 1999,
+    proceedings
+  publisher: IEEE Computer Society
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/GoudaHA01
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Huang
+    given: Chin-Tser
+  - family: Arora
+    given: Anish
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: On the security and vulnerability of pING
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-135'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_9
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/BeauquierGJ01
+  type: paper-conference
+  author:
+  - family: Beauquier
+    given: Joffroy
+  - family: Gradinariu
+    given: Maria
+  - family: Johnen
+    given: Colette
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Cross-over composition - enforcement of fairness under unfair adversary
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-34'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_2
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/CobbG01
+  type: paper-conference
+  author:
+  - family: Cobb
+    given: Jorge Arturo
+  - family: Gouda
+    given: Mohamed G.
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Stabilization of routing in directed networks
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-66'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_4
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/UedaKMF97
+  type: paper-conference
+  author:
+  - family: Ueda
+    given: Eiichiro
+  - family: Katayama
+    given: Yoshiaki
+  - family: Masuzawa
+    given: Toshimitsu
+  - family: Fujiwara
+    given: Hideo
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: A latency-optimal superstabilizing mutual exclusion protocol
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '110-124'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/2001
+  type: book
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Self-stabilizing systems, 5th international workshop, wSS 2001, lisbon, portugal,
+    october 1-2, 2001, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2194'
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/GoudaS99
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Schneider
+    given: Marco
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Stabilization of maximal metric trees
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '10-17'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/DolevH01
+  type: paper-conference
+  author:
+  - family: Dolev
+    given: Shlomi
+  - family: Herman
+    given: Ted
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Dijkstra’s self-stabilizing algorithm in unsupportive environments
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-81'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_5
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/TheelG99
+  type: paper-conference
+  author:
+  - family: Theel
+    given: Oliver E.
+  - family: Gärtner
+    given: Felix C.
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: An exercise in proving convergence through transfer functions
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '41-47'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/KulkarniRS99
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: Sandeep S.
+  - family: Rushby
+    given: John M.
+  - family: Shankar
+    given: Natarajan
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: A case-study in component-based mechanical verification of fault-tolerant
+    programs
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '33-40'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/HuangL99
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Shing-Tsaan
+  - family: Liu
+    given: Tzong-Jye
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Phase synchronization on asynchronous uniform rings with odd size
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '54-61'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/BeauquierDT99
+  type: paper-conference
+  author:
+  - family: Beauquier
+    given: Joffroy
+  - family: Datta
+    given: Ajoy Kumar
+  - family: Tixeuil
+    given: Sébastien
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Self-stabilizing census with cut-through constraint
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '70-77'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/Ghosh01
+  type: paper-conference
+  author:
+  - family: Ghosh
+    given: Sukumar
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Cooperating mobile agents and stabilization
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_1
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/GoudaH97
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Haddix
+    given: F. Furman
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: The linear alternator
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '31-47'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/KulkarniR01
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: Sandeep S.
+  - family: Ravikant
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Stabilizing causal deterministic merge
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-199'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_13
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/GhoshH99
+  type: paper-conference
+  author:
+  - family: Ghosh
+    given: Sukumar
+  - family: He
+    given: Xin
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Scalable self-stabilization
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '18-24'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/BurketK97
+  type: paper-conference
+  author:
+  - family: Burket
+    given: Karlo
+  - family: Koch
+    given: Ruppert
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Self-stabilizing multiple-sender/single-receiver protocol
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '170-184'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/GoudaH99
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  - family: Haddix
+    given: F. Furman
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: The alternator
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '48-53'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/BuiDPV99
+  type: paper-conference
+  author:
+  - family: Bui
+    given: Alain
+  - family: Datta
+    given: Ajoy Kumar
+  - family: Petit
+    given: Franck
+  - family: Villain
+    given: Vincent
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: State-optimal snap-stabilizing pIF in tree networks
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '78-85'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/Johnen97
+  type: paper-conference
+  author:
+  - family: Johnen
+    given: Colette
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Memory-efficient self-stabilizing algorithm to construct bFS spanning trees
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '125-140'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/BeauquierK97
+  type: paper-conference
+  author:
+  - family: Beauquier
+    given: Joffroy
+  - family: Kekkonen-Moneta
+    given: Synnöve
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: On fTSS-solvable distributed problems
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '64-79'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/Gouda01
+  type: paper-conference
+  author:
+  - family: Gouda
+    given: Mohamed G.
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: The theory of weak stabilization
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-123'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_8
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/Varghese97
+  type: paper-conference
+  author:
+  - family: Varghese
+    given: George
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Compositional proofs of self-stabilizing protocols
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '80-94'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/AbrahamDHK97
+  type: paper-conference
+  author:
+  - family: Abraham
+    given: Uri
+  - family: Dolev
+    given: Shlomi
+  - family: Herman
+    given: Ted
+  - family: Koll
+    given: Irit
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Self-stabilizing l-exclusion
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '48-63'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/LakhnechS97
+  type: paper-conference
+  author:
+  - family: Lakhnech
+    given: Yassine
+  - family: Siegel
+    given: Michael
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Deductive verification of stabilizing systems
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '201-216'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/Tixeuil01
+  type: paper-conference
+  author:
+  - family: Tixeuil
+    given: Sébastien
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: On a space-optimal distributed traversal algorithm
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-228'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_15
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/BoldiV97
+  type: paper-conference
+  author:
+  - family: Boldi
+    given: Paolo
+  - family: Vigna
+    given: Sebastiano
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Self-stabilizing universal algorithms
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '141-156'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/KakugawaMN97
+  type: paper-conference
+  author:
+  - family: Kakugawa
+    given: Hirotsugu
+  - family: Mizuno
+    given: Masaaki
+  - family: Nesterenko
+    given: Mikhail
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: 'Development of self-stabilizing distributed algorithms using transformation:
+    Case studies'
+  title-short: Development of self-stabilizing distributed algorithms using transformation
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '16-30'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/GhoshP97
+  type: paper-conference
+  author:
+  - family: Ghosh
+    given: Sukumar
+  - family: Pemmaraju
+    given: Sriram V.
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Tradeoffs in fault-containing self-stabilization
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '157-169'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/GartnerP01
+  type: paper-conference
+  author:
+  - family: Gärtner
+    given: Felix C.
+  - family: Pleisch
+    given: Stefan
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: (Im)Possibilities of predicate detection in crash-affected systems
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-113'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_7
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/Alima99
+  type: paper-conference
+  author:
+  - family: Alima
+    given: Luc Onana
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Self-stabilizing max-heap
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '94-101'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/CostelloV99
+  type: paper-conference
+  author:
+  - family: Costello
+    given: Adam M.
+  - family: Varghese
+    given: George
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: The fDDI mAC meets self-stabilization
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '1-9'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/KulkarniA97
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: Sandeep S.
+  - family: Arora
+    given: Anish
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Compositional design of multitolerant repetitive byzantine agreement
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '1-15'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/HermanM01
+  type: paper-conference
+  author:
+  - family: Herman
+    given: Ted
+  - family: Masuzawa
+    given: Toshimitsu
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Self-stabilizing agent traversal
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-166'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_11
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/HadidV01
+  type: paper-conference
+  author:
+  - family: Hadid
+    given: Rachid
+  - family: Villain
+    given: Vincent
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: 'A new efficient tool for the design of self-stabilizing l-exclusion algorithms:
+    The controller'
+  title-short: A new efficient tool for the design of self-stabilizing l-exclusion
+    algorithms
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-151'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_10
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/HowellNM99
+  type: paper-conference
+  author:
+  - family: Howell
+    given: Rodney R.
+  - family: Nesterenko
+    given: Mikhail
+  - family: Mizuno
+    given: Masaaki
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Finite-state self-stabilizing protocols in message-passing systems
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '62-69'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/CobbW97
+  type: paper-conference
+  author:
+  - family: Cobb
+    given: Jorge Arturo
+  - family: Waris
+    given: Mohamed
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: 'Propagated timestamps: A scheme for the stabilization of maximum-flow
+    routing protocols'
+  title-short: Propagated timestamps
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '185-200'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/DolevS01
+  type: paper-conference
+  author:
+  - family: Dolev
+    given: Shlomi
+  - family: Schiller
+    given: Elad
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Communication adaptive self-stabilizing group membership service
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '82-97'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_6
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/DolevH99
+  type: paper-conference
+  author:
+  - family: Dolev
+    given: Shlomi
+  - family: Herman
+    given: Ted
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Parallel composition of stabilizing algorithms
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '25-32'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/BeauquierHS01
+  type: paper-conference
+  author:
+  - family: Beauquier
+    given: Joffroy
+  - family: Hérault
+    given: Thomas
+  - family: Schiller
+    given: Elad
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Easy stabilization with an agent
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-50'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_3
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/Petit01
+  type: paper-conference
+  author:
+  - family: Petit
+    given: Franck
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: Fast self-stabilizing depth-first token circulation
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-215'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_14
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/AroraG97
+  type: paper-conference
+  author:
+  - family: Arora
+    given: Anish
+  - family: Gouda
+    given: Mohamed G.
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: Delay-insensitive stabilization
+  container-title: WSS
+  publisher: Carleton University Press
+  page: '95-109'
+  ISBN: '0-88629-333-2'
+
+- id: conf/wss/HermanP01
+  type: paper-conference
+  author:
+  - family: Herman
+    given: Ted
+  - family: Pirwani
+    given: Imran A.
+  editor:
+  - family: Datta
+    given: Ajoy Kumar
+  issued:
+  - year: '2001'
+  title: A composite stabilizing data structure
+  container-title: WSS
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-182'
+  volume: '2194'
+  DOI: 10.1007/3-540-45438-1_12
+  ISBN: '3-540-42653-1'
+
+- id: conf/wss/Ciuffoletti99
+  type: paper-conference
+  author:
+  - family: Ciuffoletti
+    given: Augusto
+  editor:
+  - family: Arora
+    given: Anish
+  issued:
+  - year: '1999'
+  title: Self-stabilizing clock synchronization in a hierarchical network
+  container-title: WSS
+  publisher: IEEE Computer Society
+  page: '86-93'
+  ISBN: '0-7695-0228-8'
+
+- id: conf/wss/1997
+  type: book
+  editor:
+  - family: Ghosh
+    given: Sukumar
+  issued:
+  - year: '1997'
+  title: 3rd workshop on self-stabilizing systems, santa barbara, california, august,
+    1997, proceedings
+  publisher: Carleton University Press
+  ISBN: '0-88629-333-2'
+...

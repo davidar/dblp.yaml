@@ -1,0 +1,5989 @@
+---
+references:
+- id: conf/asm/HansenL14
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Dominik
+  - family: Leuschel
+    given: Michael
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Translating b to tLA + for validation with tLC
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-55'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_4
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Odersky00
+  type: paper-conference
+  author:
+  - family: Odersky
+    given: Martin
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Objects + views = components?
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '50-68'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_5
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/BorgerS14
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Schewe
+    given: Klaus-Dieter
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Specifying transaction control to serialize concurrent program executions
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-157'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_13
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Gurevich05
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2005'
+  title: Behavioral computation theory 2005
+  container-title: Abstract state machines
+  page: '72'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/gurevich.ps
+
+- id: conf/asm/Nowack05
+  type: paper-conference
+  author:
+  - family: Nowack
+    given: Antje
+  issued:
+  - year: '2005'
+  title: A polynomial-time slicing algorithm
+  container-title: Abstract state machines
+  page: '313-328'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/antjeNowack.ps
+
+- id: conf/asm/Zamulin98
+  type: paper-conference
+  author:
+  - family: Zamulin
+    given: Alexandre V.
+  issued:
+  - year: '1998'
+  title: Object-oriented abstract state machines
+  container-title: Workshop on abstract state machines
+  page: '1-21'
+
+- id: conf/asm/DIppolitoFGLM10
+  type: paper-conference
+  author:
+  - family: D’Ippolito
+    given: Nicolás
+  - family: Frias
+    given: Marcelo F.
+  - family: Galeotti
+    given: Juan P.
+  - family: Lanzarotti
+    given: Esteban
+  - family: Mera
+    given: Sergio
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Alloy+HotCore: A fast approximation to unsat core'
+  title-short: Alloy+HotCore
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-173'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_13
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Spielmann00
+  type: paper-conference
+  author:
+  - family: Spielmann
+    given: Marc
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Model checking abstract state machines and beyond
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '323-340'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_18
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/ButlerLS05
+  type: paper-conference
+  author:
+  - family: Butler
+    given: Michael J.
+  - family: Leuschel
+    given: Michael
+  - family: Snook
+    given: Colin F.
+  issued:
+  - year: '2005'
+  title: Tools for system validation with b abstract machines
+  container-title: Abstract state machines
+  page: '57-69'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/asm-mjb.ps
+
+- id: conf/asm/Nowack04
+  type: paper-conference
+  author:
+  - family: Nowack
+    given: Antje
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Slicing abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-201'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_14
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/ArcainiGR10
+  type: paper-conference
+  author:
+  - family: Arcaini
+    given: Paolo
+  - family: Gargantini
+    given: Angelo
+  - family: Riccobene
+    given: Elvinia
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'AsmetaSMV: A way to link high-level aSM models to low-level nuSMV specifications'
+  title-short: AsmetaSMV
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61-74'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_6
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/BanachPJS05
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  - family: Poppleton
+    given: Michael
+  - family: Jeske
+    given: Czeslaw
+  - family: Stepney
+    given: Susan
+  issued:
+  - year: '2005'
+  title: Retrenchment and the mondex electronic purse
+  container-title: Abstract state machines
+  page: '41-48'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/ret.asm.mondex.short.ps
+
+- id: conf/asm/WilliamsPP10
+  type: paper-conference
+  author:
+  - family: Williams
+    given: James R.
+  - family: Polack
+    given: Fiona A. C.
+  - family: Paige
+    given: Richard F.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Formal analysis in model management: Exploiting the power of cZT'
+  title-short: Formal analysis in model management
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_46
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/HanebergGRS05
+  type: paper-conference
+  author:
+  - family: Haneberg
+    given: Dominik
+  - family: Grandy
+    given: Holger
+  - family: Reif
+    given: Wolfgang
+  - family: Schellhorn
+    given: Gerhard
+  issued:
+  - year: '2005'
+  title: 'Verifying security protocols: An aSM approach'
+  title-short: Verifying security protocols
+  container-title: Abstract state machines
+  page: '247-262'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/haneberg.ps
+
+- id: conf/asm/GueryRR14
+  type: paper-conference
+  author:
+  - family: Guéry
+    given: Jérôme
+  - family: Rolland
+    given: Olivier
+  - family: Rehm
+    given: Joris
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Fixed-point arithmetic modeled in b software using reals
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '298-302'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_28
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/JacksonK10
+  type: paper-conference
+  author:
+  - family: Jackson
+    given: Daniel
+  - family: Kang
+    given: Eunsuk
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: A structure for dependability arguments
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_1
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/GawanmehTW03
+  type: paper-conference
+  author:
+  - family: Gawanmeh
+    given: Amjad
+  - family: Tahar
+    given: Sofiène
+  - family: Winter
+    given: Kirsten
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Interfacing aSM with the mDG tool
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '278-292'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_16
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/GurevichY04
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  - family: Yavorskiy
+    given: Rostislav
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Observations on the decidability of transitions
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-168'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_12
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/GurevichT03
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  - family: Tillmann
+    given: Nikolai
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Partial updates exploration iI
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-86'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_4
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/RomanP03
+  type: paper-conference
+  author:
+  - family: Roman
+    given: Gruia-Catalin
+  - family: Payton
+    given: Jamie
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Mobile uNITY schemas for agent coordination
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-150'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_7
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Rust03
+  type: paper-conference
+  author:
+  - family: Rust
+    given: Heinrich
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: A non-standard approach to operational semantics for timed systems
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '423-424'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_34
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/DerrickB03
+  type: paper-conference
+  author:
+  - family: Derrick
+    given: John
+  - family: Boiten
+    given: Eerke A.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Recent advances in refinement
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-56'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_3
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Filali-AmineL10
+  type: paper-conference
+  author:
+  - family: Filali-Amine
+    given: Mamoun
+  - family: Lawall
+    given: Julia L.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Development of a synchronous subset of aADL
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '245-258'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_19
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/KalinovKPPS03
+  type: paper-conference
+  author:
+  - family: Kalinov
+    given: Alexey
+  - family: Kossatchev
+    given: Alexander S.
+  - family: Petrenko
+    given: Alexander K.
+  - family: Posypkin
+    given: Mikhail
+  - family: Shishkov
+    given: Vladimir
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Using aSM specifications for compiler testing
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '415'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_29
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/ShaoGKP10
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Danhua
+  - family: Gopinath
+    given: Divya
+  - family: Khurshid
+    given: Sarfraz
+  - family: Perry
+    given: Dewayne E.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: A case for using data-flow analysis to optimize incremental scope-bounded
+    checking
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '392-393'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_30
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/HerberleL98
+  type: paper-conference
+  author:
+  - family: Heberle
+    given: Andreas
+  - family: Löwe
+    given: Welf
+  issued:
+  - year: '1998'
+  title: On aSM-based specification of programming language semantics and reusable
+    correct compilations
+  container-title: Workshop on abstract state machines
+  page: '68-90'
+
+- id: conf/asm/IrelandGB10
+  type: paper-conference
+  author:
+  - family: Ireland
+    given: Andrew
+  - family: Grov
+    given: Gudmund
+  - family: Butler
+    given: Michael J.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Reasoned modelling critics: Turning failed proofs into modelling guidance'
+  title-short: Reasoned modelling critics
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '189-202'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_15
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Reynolds10
+  type: paper-conference
+  author:
+  - family: Reynolds
+    given: Mark C.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Lightweight modeling of java virtual machine security constraints
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-159'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_12
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/WuS10
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Nicolas
+  - family: Simpson
+    given: Andrew
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Towards formally templated relational database representations in z
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '363-376'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_27
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/MashkoorM10
+  type: paper-conference
+  author:
+  - family: Mashkoor
+    given: Atif
+  - family: Matoussi
+    given: Abderrahman
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Towards validation of requirements models
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '404'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_38
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Blass00
+  type: paper-conference
+  author:
+  - family: Blass
+    given: Andreas
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Abstract state machines and pure mathematics
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-21'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_2
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/JonesP08
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Cliff B.
+  - family: Pierce
+    given: Ken G.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Splitting atoms with rely/Guarantee conditions coupled with data reification
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '360-377'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_47
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Newcombe14
+  type: paper-conference
+  author:
+  - family: Newcombe
+    given: Chris
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Why amazon chose tLA +
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-39'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_3
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/MilicevicEJ14
+  type: paper-conference
+  author:
+  - family: Milicevic
+    given: Aleksandar
+  - family: Efrati
+    given: Ido
+  - family: Jackson
+    given: Daniel
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: ΑRby - an embedding of alloy in ruby
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '56-71'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_5
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/GrovIL12
+  type: paper-conference
+  author:
+  - family: Grov
+    given: Gudmund
+  - family: Ireland
+    given: Andrew
+  - family: Llano
+    given: Maria Teresa
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Refinement plans for informed formal design
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '208-222'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_15
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/ZimmermannD03
+  type: paper-conference
+  author:
+  - family: Zimmermann
+    given: Wolf
+  - family: Dold
+    given: Axel
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: A framework for modeling the semantics of expression evaluation with abstract
+    state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '391-406'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_23
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/SlissenkoC05
+  type: paper-conference
+  author:
+  - family: Slissenko
+    given: Anatol
+  - family: Cohen
+    given: Joëlle
+  issued:
+  - year: '2005'
+  title: On implementations of instantaneous actions real-time aSM by aSM with delays
+  container-title: Abstract state machines
+  page: '387-396'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/slissenko.ps
+
+- id: conf/asm/ArthoDGHLPRV03
+  type: paper-conference
+  author:
+  - family: Artho
+    given: Cyrille
+  - family: Drusinsky
+    given: Doron
+  - family: Goldberg
+    given: Allen
+  - family: Havelund
+    given: Klaus
+  - family: Lowry
+    given: Michael R.
+  - family: Pasareanu
+    given: Corina S.
+  - family: Rosu
+    given: Grigore
+  - family: Visser
+    given: Willem
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Experiments with test case generation and runtime analysis
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-107'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_5
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/MilicevicJ12
+  type: paper-conference
+  author:
+  - family: Milicevic
+    given: Aleksandar
+  - family: Jackson
+    given: Daniel
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Preventing arithmetic overflows in alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-121'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_8
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/JulliandMT08
+  type: paper-conference
+  author:
+  - family: Julliand
+    given: Jacques
+  - family: Masson
+    given: Pierre-Alain
+  - family: Tissot
+    given: Régis
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Generating tests from b specifications and test purposes
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '139-152'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_12
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Jacob10
+  type: paper-conference
+  author:
+  - family: Jacob
+    given: Jeremy L.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Trace specifications in alloy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-117'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_9
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/DadeauLMP08
+  type: paper-conference
+  author:
+  - family: Dadeau
+    given: Frédéric
+  - family: Lamboley
+    given: Julien
+  - family: Moutet
+    given: Thierry
+  - family: Potet
+    given: Marie-Laure
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A verifiable conformance relationship between smart card applets and b security
+    models
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-250'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_19
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/BicarreguiAAMP08
+  type: paper-conference
+  author:
+  - family: Bicarregui
+    given: Juan
+  - family: Arenas
+    given: Alvaro
+  - family: Aziz
+    given: Benjamin
+  - family: Massonet
+    given: Philippe
+  - family: Ponsard
+    given: Christophe
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Towards modelling obligations in event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-194'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_15
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/ShahirFG12
+  type: paper-conference
+  author:
+  - family: Shahir
+    given: Hamed Yaghoubi
+  - family: Farahbod
+    given: Roozbeh
+  - family: Glässer
+    given: Uwe
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Refactoring abstract state machine models
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '345-348'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_28
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Taylor12
+  type: paper-conference
+  author:
+  - family: Taylor
+    given: Ramsay
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Verification of hardware interaction properties of software
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '308-322'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_22
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Taylor08
+  type: paper-conference
+  author:
+  - family: Taylor
+    given: Ramsay
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Separation of z operations
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '350'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_38
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/FarahbodG08
+  type: paper-conference
+  author:
+  - family: Farahbod
+    given: Roozbeh
+  - family: Glässer
+    given: Uwe
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Dynamic resource configuration & management for distributed information fusion
+    in maritime surveillance
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '343'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_31
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Ait-SadouneA10
+  type: paper-conference
+  author:
+  - family: Aït-Sadoune
+    given: Idir
+  - family: Ameur
+    given: Yamine Aït
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: A proof based approach for formal verification of transactional bPEL web
+    services
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '405-406'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_39
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/ZulkoskiKYRC14
+  type: paper-conference
+  author:
+  - family: Zulkoski
+    given: Ed
+  - family: Kleynhans
+    given: Chris
+  - family: Yee
+    given: Ming-Ho
+  - family: Rayside
+    given: Derek
+  - family: Czarnecki
+    given: Krzysztof
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Optimizing alloy for multi-objective software product line configuration
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '328-333'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_34
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/BoitenJ14
+  type: paper-conference
+  author:
+  - family: Boiten
+    given: Eerke A.
+  - family: Jacob
+    given: Jeremy
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Sealed containers in z
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-141'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_12
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/BlassGB00
+  type: paper-conference
+  author:
+  - family: Blass
+    given: Andreas
+  - family: Gurevich
+    given: Yuri
+  - family: Bussche
+    given: Jan Van
+    dropping-particle: den
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Abstract state machines and computationally complete query languages
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-33'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_3
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/FisherL04
+  type: paper-conference
+  author:
+  - family: Fisher
+    given: Michael
+  - family: Lisitsa
+    given: Alexei
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Monodic aSMs and temporal verification
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-110'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_8
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Deharbe10
+  type: paper-conference
+  author:
+  - family: Déharbe
+    given: David
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Automatic verification for a class of proof obligations with sMT-solvers
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-230'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_17
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/TreharneTSE08
+  type: paper-conference
+  author:
+  - family: Treharne
+    given: Helen
+  - family: Turner
+    given: Edward
+  - family: Schneider
+    given: Steve
+  - family: Evans
+    given: Neil
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Object modelling in the systemB industrial project
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '359'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_46
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Schulte03
+  type: paper-conference
+  author:
+  - family: Schulte
+    given: Wolfram
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Parallelism versus nondeterminism - on the semantics of abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '425'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_35
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/DausendR14
+  type: paper-conference
+  author:
+  - family: Dausend
+    given: Marcel
+  - family: Raschke
+    given: Alexander
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Introducing aspect-oriented specification for abstract state machines
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-187'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_15
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/ComandurSB05
+  type: paper-conference
+  author:
+  - family: Comandur
+    given: Seshadhri
+  - family: Seth
+    given: Anil
+  - family: Biswas
+    given: Somenath
+  issued:
+  - year: '2005'
+  title: RAM simulation of bGS model of abstract state machines
+  container-title: Abstract state machines
+  page: '377-386'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/seshadhri.ps
+
+- id: conf/asm/BeierleK08
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  - family: Kern-Isberner
+    given: Gabriele
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A verified asmL implementation of belief revision
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '98-111'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_9
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/2003
+  type: book
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Abstract state machines, advances in theory and practice, 10th international
+    workshop, aSM 2003, taormina, italy, march 3-7, 2003, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2589'
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/DoldGVZ98
+  type: paper-conference
+  author:
+  - family: Dold
+    given: Axel
+  - family: Gaul
+    given: Thilo
+  - family: Vialard
+    given: Vincent
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '1998'
+  title: ASM-based mechanized verification of compiler back-ends
+  container-title: Workshop on abstract state machines
+  page: '50-67'
+
+- id: conf/asm/PereverzevaBFLT14
+  type: paper-conference
+  author:
+  - family: Pereverzeva
+    given: Inna
+  - family: Butler
+    given: Michael J.
+  - family: Fathabadi
+    given: Asieh Salehi
+  - family: Laibinis
+    given: Linas
+  - family: Troubitsyna
+    given: Elena
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Formal derivation of distributed mapReduce
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-254'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_21
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/AndaryPV05
+  type: paper-conference
+  author:
+  - family: Andary
+    given: Philippe
+  - family: Patrou
+    given: Bruno
+  - family: Valarcher
+    given: Pierre
+  issued:
+  - year: '2005'
+  title: About implementation of primitive recursive algorithms
+  container-title: Abstract state machines
+  page: '77-90'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/andary.ps
+
+- id: conf/asm/Hanisch04
+  type: paper-conference
+  author:
+  - family: Hanisch
+    given: Hans-Michael
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Closed-loop modeling and related problems of embedded control systems in
+    engineering
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '6-19'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_2
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/RosenzweigR04
+  type: paper-conference
+  author:
+  - family: Rosenzweig
+    given: Dean
+  - family: Runje
+    given: Davor
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: The cryptographic abstract machine
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-217'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_15
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/PowerSS10
+  type: paper-conference
+  author:
+  - family: Power
+    given: David J.
+  - family: Slaymaker
+    given: Mark
+  - family: Simpson
+    given: Andrew
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: On the modelling and analysis of amazon web services access policies
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '394'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_31
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/HallerstedeLP10
+  type: paper-conference
+  author:
+  - family: Hallerstede
+    given: Stefan
+  - family: Leuschel
+    given: Michael
+  - family: Plagge
+    given: Daniel
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Refinement-animation for event-b - towards a method of validation
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-301'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_22
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/RosnerGPF10
+  type: paper-conference
+  author:
+  - family: Rosner
+    given: Nicolás
+  - family: Galeotti
+    given: Juan P.
+  - family: Pombo
+    given: Carlos López
+  - family: Frias
+    given: Marcelo F.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'ParAlloy: Towards a framework for efficient parallel analysis of alloy
+    models'
+  title-short: ParAlloy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '396-397'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_33
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Gurevich04
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Intra-step interaction
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-5'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_1
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/CaterH00
+  type: paper-conference
+  author:
+  - family: Cater
+    given: Steven C.
+  - family: Huggins
+    given: James K.
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: An aSM dynamic semantics for standard mL
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-222'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_12
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/CohenS08
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Joëlle
+  - family: Slissenko
+    given: Anatol
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Stability of real-time abstract state machines under desynchronization
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_29
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/DahoB08
+  type: paper-conference
+  author:
+  - family: Daho
+    given: Hocine El-Habib
+  - family: Benhamamouch
+    given: Djilali
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Formal verification of aSM models using tLA+
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '356'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_43
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/CraigB10
+  type: paper-conference
+  author:
+  - family: Craig
+    given: Iain
+  - family: Börger
+    given: Egon
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Synchronous message passing and semaphores: An equivalence proof'
+  title-short: Synchronous message passing and semaphores
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-33'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_3
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/NelsonDFK12
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Timothy
+  - family: Dougherty
+    given: Daniel J.
+  - family: Fisler
+    given: Kathi
+  - family: Krishnamurthi
+    given: Shriram
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Toward a more complete alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-149'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_10
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/SabatierBRG12
+  type: paper-conference
+  author:
+  - family: Sabatier
+    given: Denis
+  - family: Burdy
+    given: Lilian
+  - family: Requet
+    given: Antoine
+  - family: Guéry
+    given: Jérôme
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Formal proofs for the nYCT line 7 (flushing) modernization project
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '369-372'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_34
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/CampbellV05
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Colin
+  - family: Veanes
+    given: Margus
+  issued:
+  - year: '2005'
+  title: State exploration with multiple state groupings
+  container-title: Abstract state machines
+  page: '119-130'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/groupings.ps
+
+- id: conf/asm/ScheweZ05
+  type: paper-conference
+  author:
+  - family: Schewe
+    given: Klaus-Dieter
+  - family: Zhao
+    given: Jane
+  issued:
+  - year: '2005'
+  title: ASM ground model and refinement for data warehouses
+  container-title: Abstract state machines
+  page: '369-376'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/KDSchewe.ps
+
+- id: conf/asm/GurgelMOD10
+  type: paper-conference
+  author:
+  - family: Gurgel
+    given: Alessandro Cavalcante
+  - family: Medeiros
+    given: Valério Gutemberg
+    dropping-particle: de
+  - family: Oliveira
+    given: Marcel Vinicius Medeiros
+  - family: Déharbe
+    given: David Boris Paul
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Integrating sMT-solvers in z and b tools
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '412-413'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_45
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Ait-SadouneA08
+  type: paper-conference
+  author:
+  - family: Aït-Sadoune
+    given: Idir
+  - family: Ameur
+    given: Yamine Aït
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Verification and validation of web service composition using event b method
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '339-340'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_28
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/HayesC12
+  type: paper-conference
+  author:
+  - family: Hayes
+    given: Ian J.
+  - family: Colvin
+    given: Robert
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: 'Integrated operational semantics: Small-step, big-step and multi-step'
+  title-short: Integrated operational semantics
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-35'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_2
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/CuadradoKR03
+  type: paper-conference
+  author:
+  - family: Cuadrado
+    given: Daniel Lázaro
+  - family: '0001'
+    given: Peter Koch
+  - family: Ravn
+    given: Anders P.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: AsmL specification of a ptolemy iI scheduler
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '417'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_31
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/SorgePB10
+  type: paper-conference
+  author:
+  - family: Sorge
+    given: Jennifer
+  - family: Poppleton
+    given: Michael
+  - family: Butler
+    given: Michael J.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: A basis for feature-oriented modelling in event-b
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '409'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_42
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/CarioniGRS08
+  type: paper-conference
+  author:
+  - family: Carioni
+    given: Alessandro
+  - family: Gargantini
+    given: Angelo
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A scenario-based validation language for aSMs
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-84'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_7
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/GurevichSW00
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  - family: Schulte
+    given: Wolfram
+  - family: Wallace
+    given: Charles
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Investigating java concurrency using abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-176'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_10
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/2012
+  type: book
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Abstract state machines, alloy, b, vDM, and z - third international conference,
+    aBZ 2012, pisa, italy, june 18-21, 2012. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/ScheweW12
+  type: paper-conference
+  author:
+  - family: Schewe
+    given: Klaus-Dieter
+  - family: Wang
+    given: Qing
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A simplified parallel aSM thesis
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341-344'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_27
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/ScandurraGGGR05
+  type: paper-conference
+  author:
+  - family: Scandurra
+    given: Patrizia
+  - family: Gargantini
+    given: Angelo
+  - family: Genovese
+    given: Claudia
+  - family: Genovese
+    given: Tiziana
+  - family: Riccobene
+    given: Elvinia
+  issued:
+  - year: '2005'
+  title: A concrete syntax derived from the abstract state machine metamodel
+  container-title: Abstract state machines
+  page: '345-368'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/scandurra.ps.gz
+
+- id: conf/asm/FilatovY05
+  type: paper-conference
+  author:
+  - family: Filatov
+    given: Vladimir
+  - family: Yavorskiy
+    given: Rostislav
+  issued:
+  - year: '2005'
+  title: Scenario based analysis of linear computations
+  container-title: Abstract state machines
+  page: '167-174'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/Filatov.ps
+
+- id: conf/asm/CohenS00
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Joëlle
+  - family: Slissenko
+    given: Anatol
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: On verification of refinements of timed distributed algorithms
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-49'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_4
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/BienemannKST05
+  type: paper-conference
+  author:
+  - family: Bienemann
+    given: Alexander
+  - family: Kramer
+    given: Zalan
+  - family: Schmidt
+    given: Peggy
+  - family: Thalheim
+    given: Bernhard
+  issued:
+  - year: '2005'
+  title: 'ASM support for validation of specifications: Lessons learned from an
+    eGovernment project'
+  title-short: ASM support for validation of specifications
+  container-title: Abstract state machines
+  page: '417-'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/asm05BinKraSchTha.ps
+
+- id: conf/asm/Banach08a
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'UseCase-wise development: Retrenchment for event-b'
+  title-short: UseCase-wise development
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '167-180'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_14
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Schellhorn05
+  type: paper-conference
+  author:
+  - family: Schellhorn
+    given: Gerhard
+  issued:
+  - year: '2005'
+  title: ASMs and refinement of state-based systems
+  container-title: Abstract state machines
+  page: '74-75'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/abstract-schellhorn.ps
+
+- id: conf/asm/BorgerCG12
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Cisternino
+    given: Antonio
+  - family: Gervasi
+    given: Vincenzo
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Contribution to a rigorous analysis of web application frameworks
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_1
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/HugginsMW03
+  type: paper-conference
+  author:
+  - family: Huggins
+    given: James K.
+  - family: Mayo
+    given: Jean
+  - family: Wallace
+    given: Charles
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: 'Teaching aSMs, teaching with aSMs: Opportunities in undergraduate education'
+  title-short: Teaching aSMs, teaching with aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '414'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_28
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Stevens03
+  type: paper-conference
+  author:
+  - family: Stevens
+    given: Perdita
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: UML and concurrency
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '151-165'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_8
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Hall08
+  type: paper-conference
+  author:
+  - family: Hall
+    given: Anthony
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Integrating z into large projects tools and techniques
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '337'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_26
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/BanachZSW12b
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  - family: Zhu
+    given: Huibiao
+  - family: Su
+    given: Wen
+  - family: Wu
+    given: Xiaofeng
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: 'Continuous behaviour in event-b: A sketch'
+  title-short: Continuous behaviour in event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349-352'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_29
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/CatanoR10
+  type: paper-conference
+  author:
+  - family: Cataño
+    given: Néstor
+  - family: Rueda
+    given: Camilo
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Matelas: A predicate calculus common formal definition for social networking'
+  title-short: Matelas
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '259-272'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_20
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/FarahbodGV04
+  type: paper-conference
+  author:
+  - family: Farahbod
+    given: Roozbeh
+  - family: Glässer
+    given: Uwe
+  - family: Vajihollahi
+    given: Mona
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Specification and validation of the business process execution language for
+    web services
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-94'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_7
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/SchellhornB08
+  type: paper-conference
+  author:
+  - family: Schellhorn
+    given: Gerhard
+  - family: Banach
+    given: Richard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A concept-driven construction of the mondex protocol using three refinements
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-70'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_6
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/KangJ08
+  type: paper-conference
+  author:
+  - family: Kang
+    given: Eunsuk
+  - family: Jackson
+    given: Daniel
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Formal modeling and analysis of a flash filesystem in alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-308'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_23
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Bertolino03
+  type: paper-conference
+  author:
+  - family: Bertolino
+    given: Antonia
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Software testing research and practice
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-21'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_1
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/MirandolaPS12
+  type: paper-conference
+  author:
+  - family: Mirandola
+    given: Raffaela
+  - family: Potena
+    given: Pasqualina
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A reliability prediction method for abstract state machines
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '336-340'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_26
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Banach14
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Invariant guided system decomposition
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '271-276'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_23
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/DunneZ10
+  type: paper-conference
+  author:
+  - family: Dunne
+    given: Steve
+  - family: Zeyda
+    given: Frank
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Reactivising classical b
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '302-318'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_23
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Langmaack04
+  type: paper-conference
+  author:
+  - family: Langmaack
+    given: Hans
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: An aLGOL-view on turbo aSM
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-37'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_3
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Shankar00
+  type: paper-conference
+  author:
+  - family: Shankar
+    given: Natarajan
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Symbolic analysis of transition systems
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '287-302'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_16
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/GomesDMM10
+  type: paper-conference
+  author:
+  - family: Gomes
+    given: Bruno Emerson Gurgel
+  - family: Déharbe
+    given: David
+  - family: Moreira
+    given: Anamaria Martins
+  - family: Moraes
+    given: Katia
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Applying the b method for the rigorous development of smart card applications
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-216'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_16
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/BorgerT08
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Thalheim
+    given: Bernhard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'Modeling workflows, interaction patterns, web services and business processes:
+    The aSM-based approach'
+  title-short: Modeling workflows, interaction patterns, web services and business
+    processes
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '24-38'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_3
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/AwhadW03
+  type: paper-conference
+  author:
+  - family: Awhad
+    given: Varsha
+  - family: Wallace
+    given: Charles
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: A unified formal specification and analysis of the new java memory models
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '166-185'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_9
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/DunneC08
+  type: paper-conference
+  author:
+  - family: Dunne
+    given: Steve
+  - family: Conroy
+    given: Stacey
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A practical single refinement method for b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-208'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_16
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/2008
+  type: book
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Abstract state machines, b and z, first international conference, aBZ 2008,
+    london, uK, september 16-18, 2008. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5238'
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/BorgerB03
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Bolognesi
+    given: Tommaso
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Remarks on turbo aSMs for functional equations and recursion schemes
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-228'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_12
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Durand98
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Arnaud Durand
+  issued:
+  - year: '1998'
+  title: Modeling cache coherence protocol - a case study with fLASH
+  container-title: Workshop on abstract state machines
+  page: '111-126'
+
+- id: conf/asm/JonesLS12
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Cliff B.
+  - family: Lovert
+    given: Matthew J.
+  - family: Steggles
+    given: L. Jason
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A semantic analysis of logics that cope with partial terms
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '252-265'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_18
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/FalcarinC03
+  type: paper-conference
+  author:
+  - family: Falcarin
+    given: Paolo
+  - family: Cavarra
+    given: Alessandra
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Designing the parlay call-control using aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '411-412'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_26
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/SchellhornEPHR14
+  type: paper-conference
+  author:
+  - family: Schellhorn
+    given: Gerhard
+  - family: Ernst
+    given: Gidon
+  - family: Pfähler
+    given: Jörg
+  - family: Haneberg
+    given: Dominik
+  - family: Reif
+    given: Wolfgang
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Development of a verified flash file system
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9-24'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_2
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/AndreAAL10
+  type: paper-conference
+  author:
+  - family: André
+    given: Pascal
+  - family: Ardourel
+    given: Gilles
+  - family: Attiogbé
+    given: Christian
+  - family: Lanoix
+    given: Arnaud
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Using event-b to verify the kmelia components and their assemblies
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '410'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_43
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/BanachZSW12
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  - family: Zhu
+    given: Huibiao
+  - family: Su
+    given: Wen
+  - family: Wu
+    given: Xiaofeng
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: ASM and controller synthesis
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-64'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_4
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Binemann-ZdanowiczT03
+  type: paper-conference
+  author:
+  - family: Binemann-Zdanowicz
+    given: Aleksander
+  - family: Thalheim
+    given: Bernhard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Modeling information services on the basis of aSM semantics
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '408-410'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_25
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Buttner08
+  type: paper-conference
+  author:
+  - family: Büttner
+    given: Wolfram
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Complex hardware modules can now be made free of functional errors without
+    sacrificing productivity
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-3'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_1
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Winter00
+  type: paper-conference
+  author:
+  - family: Winter
+    given: Kirsten
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: 'Towards a methodology for model checking aSM: Lessons learned from the
+    fLASH case study'
+  title-short: Towards a methodology for model checking aSM
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341-360'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_19
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/EschbachGGP00
+  type: paper-conference
+  author:
+  - family: Eschbach
+    given: Robert
+  - family: Glässer
+    given: Uwe
+  - family: Gotzhein
+    given: Reinhard
+  - family: Prinz
+    given: Andreas
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: 'On the formal semantics of sDL-2000: A compilation approach based on an
+    abstract sDL machine'
+  title-short: On the formal semantics of sDL-2000
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '242-265'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_14
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/SousaSS12
+  type: paper-conference
+  author:
+  - family: Sousa
+    given: Thiago C.
+    dropping-particle: de
+  - family: Silva
+    given: Paulo Sérgio Muniz
+  - family: Snook
+    given: Colin F.
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A practical event-b refinement method based on a uML-driven development process
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357-360'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_31
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/BanachZSW12a
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  - family: Zhu
+    given: Huibiao
+  - family: Su
+    given: Wen
+  - family: Wu
+    given: Xiaofeng
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Continuous aSM, and a pacemaker sensing fragment
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '65-78'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_5
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Castillo98
+  type: paper-conference
+  author:
+  - family: Castillo
+    given: Giuseppe Del
+  issued:
+  - year: '1998'
+  title: 'The aSM workbench: An open and extensible tool environment for abstract
+    state machines'
+  title-short: The aSM workbench
+  container-title: Workshop on abstract state machines
+  page: '139-154'
+
+- id: conf/asm/Kardos05
+  type: paper-conference
+  author:
+  - family: Kardos
+    given: Martin
+  issued:
+  - year: '2005'
+  title: An approach to model checking asmL specifications
+  container-title: Abstract state machines
+  page: '289-304'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/kardos.ps
+
+- id: conf/asm/Glesner04
+  type: paper-conference
+  author:
+  - family: Glesner
+    given: Sabine
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: An aSM semantics for sSA intermediate representations
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '144-160'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_11
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/2005
+  type: book
+  issued:
+  - year: '2005'
+  title: Proceedings of the 12th international workshop on abstract state machines,
+    aSM 2005, march 8-11, 2005, paris, france
+
+- id: conf/asm/ZenzaroGS14
+  type: paper-conference
+  author:
+  - family: Zenzaro
+    given: Simone
+  - family: Gervasi
+    given: Vincenzo
+  - family: Soldani
+    given: Jacopo
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: 'WebASM: An abstract state machine execution environment for the web'
+  title-short: WebASM
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-221'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_19
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/WangJ12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Ting
+  - family: Ji
+    given: Dongyao
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Active attacking multicast key management protocol using alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '164-177'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_12
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/BarbosaD12
+  type: paper-conference
+  author:
+  - family: Barbosa
+    given: Haniel
+  - family: Déharbe
+    given: David
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Formal verification of pLC programs using the b method
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '353-356'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_30
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/CavarraRS03
+  type: paper-conference
+  author:
+  - family: Cavarra
+    given: Alessandra
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Integrating uML static and dynamic views and formalizing the interaction
+    mechanismof uML state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-243'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_13
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/JulliandSBM10
+  type: paper-conference
+  author:
+  - family: Julliand
+    given: Jacques
+  - family: Stouls
+    given: Nicolas
+  - family: Bué
+    given: Pierre-Christophe
+  - family: Masson
+    given: Pierre-Alain
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: B model abstraction combining syntactic and semantic methods
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '408'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_41
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/MalikGL10
+  type: paper-conference
+  author:
+  - family: Malik
+    given: Petra
+  - family: Groves
+    given: Lindsay
+  - family: Lenihan
+    given: Clare
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Translating z to alloy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '377-390'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_28
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/GradelN03
+  type: paper-conference
+  author:
+  - family: Grädel
+    given: Erich
+  - family: Nowack
+    given: Antje
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Quantum computing and abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-323'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_18
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/GrafP05
+  type: paper-conference
+  author:
+  - family: Graf
+    given: Susanne
+  - family: Prinz
+    given: Andreas
+  issued:
+  - year: '2005'
+  title: Time in state machines
+  container-title: Abstract state machines
+  page: '217-232'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/GrafPrinzASM2005-pgnb.pdf
+
+- id: conf/asm/Cook05
+  type: paper-conference
+  author:
+  - family: Cook
+    given: Byron
+  issued:
+  - year: '2005'
+  title: Finding bugs in device drivers with static driver verifier
+  container-title: Abstract state machines
+  page: '71'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/abstract-cook.ps
+
+- id: conf/asm/BrantinghamGKSV05
+  type: paper-conference
+  author:
+  - family: Brantingham
+    given: Patricia L.
+  - family: Glässer
+    given: Uwe
+  - family: Kinney
+    given: B.
+  - family: Singh
+    given: Komal
+  - family: Vajihollahi
+    given: Mona
+  issued:
+  - year: '2005'
+  title: 'Modeling urban crime patterns: Viewing multi-agent systems as abstract
+    state machines'
+  title-short: Modeling urban crime patterns
+  container-title: Abstract state machines
+  page: '101-118'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/brantingham.ps
+
+- id: conf/asm/ErnstPSR14
+  type: paper-conference
+  author:
+  - family: Ernst
+    given: Gidon
+  - family: Pfähler
+    given: Jörg
+  - family: Schellhorn
+    given: Gerhard
+  - family: Reif
+    given: Wolfgang
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Modular refinement for submachines of aSMs
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '188-203'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_16
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/VernonZC10
+  type: paper-conference
+  author:
+  - family: Vernon
+    given: Michael
+  - family: Zeyda
+    given: Frank
+  - family: Cavalcanti
+    given: Ana
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Communication systems in clawZ
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '334-348'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_25
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/AyoubWSS10
+  type: paper-conference
+  author:
+  - family: Ayoub
+    given: Anaheed
+  - family: Wahba
+    given: Ayman M.
+  - family: Salem
+    given: Ashraf M.
+  - family: Sheirah
+    given: Mohamed A.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Code synthesis for timed automata: A comparison using case study'
+  title-short: Code synthesis for timed automata
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '403'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_37
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/HallerstedeH12
+  type: paper-conference
+  author:
+  - family: Hallerstede
+    given: Stefan
+  - family: Hoang
+    given: Thai Son
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Refinement by interface instantiation
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-237'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_16
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Cavarra08
+  type: paper-conference
+  author:
+  - family: Cavarra
+    given: Alessandra
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Data flow analysis and testing of abstract state machines
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-97'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_8
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/AmalioPZ08
+  type: paper-conference
+  author:
+  - family: Amálio
+    given: Nuno
+  - family: Polack
+    given: Fiona
+  - family: Zhang
+    given: Jing
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Autonomous objects and bottom-up composition in zOO applied to a case study
+    of biological reactivity
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '323-336'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_25
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/HassanSAL10
+  type: paper-conference
+  author:
+  - family: Hassan
+    given: Waël
+  - family: Slimani
+    given: Nadera
+  - family: Adi
+    given: Kamel
+  - family: Logrippo
+    given: Luigi
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Secrecy uML method for model transformations
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '400'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_35
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/TurnerBL10
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Edd
+  - family: Butler
+    given: Michael J.
+  - family: Leuschel
+    given: Michael
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: A refinement-based correctness proof of symmetry reduced model checking
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-244'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_18
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/RiccobeneS14
+  type: paper-conference
+  author:
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Towards aSM-based formal specification of self-adaptive systems
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-209'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_17
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/NalbandyanGSW14
+  type: paper-conference
+  author:
+  - family: Nalbandyan
+    given: Narek
+  - family: Glässer
+    given: Uwe
+  - family: Shahir
+    given: Hamed Yaghoubi
+  - family: Wehn
+    given: Hans
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Distributed situation analysis - a formal semantic framework
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-173'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_14
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/GrieskampNTV03
+  type: paper-conference
+  author:
+  - family: Grieskamp
+    given: Wolfgang
+  - family: Nachmanson
+    given: Lev
+  - family: Tillmann
+    given: Nikolai
+  - family: Veanes
+    given: Margus
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Test case generation from asmL specifications
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '413'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_27
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/BeierleK03
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Christoph
+  - family: Kern-Isberner
+    given: Gabriele
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Modelling conditional knowledge discovery and belief revision by abstract
+    state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-203'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_10
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/AsmundoR03
+  type: paper-conference
+  author:
+  - family: Asmundo
+    given: Marianna Nicolosi
+  - family: Riccobene
+    given: Elvinia
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Consistent integration for sequential abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-340'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_19
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Benassa08
+  type: paper-conference
+  author:
+  - family: Benassa
+    given: Nazim
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Modelling attacker’s knowledge for cascade cryptographic protocols
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '251-264'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_20
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/PrinzT03
+  type: paper-conference
+  author:
+  - family: Prinz
+    given: Andreas
+  - family: Thalheim
+    given: Bernhard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: ASM specification of database systems
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '418'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_32
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/ZaeemK10
+  type: paper-conference
+  author:
+  - family: Zaeem
+    given: Razieh Nokhbeh
+  - family: Khurshid
+    given: Sarfraz
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Introducing specification-based data structure repair using alloy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '398-399'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_34
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/GargantiniRS08
+  type: paper-conference
+  author:
+  - family: Gargantini
+    given: Angelo
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Exploiting the aSM method for validation & verification of embedded systems
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '348'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_36
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/DerrickNS08
+  type: paper-conference
+  author:
+  - family: Derrick
+    given: John
+  - family: North
+    given: Siobhán
+  - family: Simons
+    given: Anthony J. H.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Z2SAL - building a model checker for z
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '280-293'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_22
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/GargantiniRR03
+  type: paper-conference
+  author:
+  - family: Gargantini
+    given: Angelo
+  - family: Riccobene
+    given: Elvinia
+  - family: Rinzivillo
+    given: Salvatore
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Using spin to generate testsfrom aSM specifications
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '263-277'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_15
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/TeichKW00
+  type: paper-conference
+  author:
+  - family: Teich
+    given: Jürgen
+  - family: Kutter
+    given: Philipp W.
+  - family: Weper
+    given: Ralph
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Description and simulation of microprocessor instruction sets using aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-286'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_15
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/Ober03
+  type: paper-conference
+  author:
+  - family: Ober
+    given: Ileana
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: An aSM semantics of uML derived from the meta-model and incorporating actions
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '356-371'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_21
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/LeuschelS14
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  - family: Schneider
+    given: David
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Towards b as a high-level constraint modelling language - solving the jobs
+    puzzle challenge
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-116'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_8
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/AbrialBHV08
+  type: paper-conference
+  author:
+  - family: Abrial
+    given: Jean-Raymond
+  - family: Butler
+    given: Michael J.
+  - family: Hallerstede
+    given: Stefan
+  - family: Voisin
+    given: Laurent
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A roadmap for the rodin toolset
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '347'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_35
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/SlaymakerPS10
+  type: paper-conference
+  author:
+  - family: Slaymaker
+    given: Mark
+  - family: Power
+    given: David J.
+  - family: Simpson
+    given: Andrew
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Formalising and validating rBAC-to-xACML translation using lightweight formal
+    methods
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349-362'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_26
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Gervasi12
+  type: paper-conference
+  author:
+  - family: Gervasi
+    given: Vincenzo
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: An aSM model of concurrency in a web browser
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '79-93'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_6
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/GammaitoniK14
+  type: paper-conference
+  author:
+  - family: Gammaitoni
+    given: Loïc
+  - family: Kelsen
+    given: Pierre
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Domain-specific visualization of alloy instances
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '324-327'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_33
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/DevyaninKKPS14
+  type: paper-conference
+  author:
+  - family: Devyanin
+    given: Petr N.
+  - family: Khoroshilov
+    given: Alexey V.
+  - family: Kuliamin
+    given: Victor V.
+  - family: Petrenko
+    given: Alexander K.
+  - family: Shchepetkov
+    given: Ilya V.
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Formal verification of oS security model with alloy and event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-313'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_30
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/JulaF05
+  type: paper-conference
+  author:
+  - family: Jula
+    given: Horatiu
+  - family: Fruja
+    given: Nicu G.
+  issued:
+  - year: '2005'
+  title: An executable specification of c++
+  container-title: Abstract state machines
+  page: '275-288'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/jula-fruja.ps
+
+- id: conf/asm/IliasovTLRVIL10
+  type: paper-conference
+  author:
+  - family: Iliasov
+    given: Alexei
+  - family: Troubitsyna
+    given: Elena
+  - family: Laibinis
+    given: Linas
+  - family: Romanovsky
+    given: Alexander
+  - family: Varpaaniemi
+    given: Kimmo
+  - family: Ilic
+    given: Dubravka
+  - family: Latvala
+    given: Timo
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Supporting reuse in event b development: Modularisation approach'
+  title-short: Supporting reuse in event b development
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-188'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_14
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/StarkB04
+  type: paper-conference
+  author:
+  - family: Stärk
+    given: Robert F.
+  - family: Börger
+    given: Egon
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: An aSM specification of c\# threads and the .nET memory model
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-60'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_4
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/RosenzweigRS03
+  type: paper-conference
+  author:
+  - family: Rosenzweig
+    given: Dean
+  - family: Runje
+    given: Davor
+  - family: Slani
+    given: Neva
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: 'Privacy, abstract encryption and protocols: An aSM model - part i'
+  title-short: Privacy, abstract encryption and protocols
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '372-390'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_22
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/CristiaF12
+  type: paper-conference
+  author:
+  - family: Cristiá
+    given: Maximiliano
+  - family: Frydman
+    given: Claudia S.
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Extending the test template framework to deal with axiomatic descriptions,
+    quantifiers and set comprehensions
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '280-293'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_20
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/HabibiT05
+  type: paper-conference
+  author:
+  - family: Habibi
+    given: Ali
+  - family: Tahar
+    given: Sofiène
+  issued:
+  - year: '2005'
+  title: AsmL semantics in fixpoint
+  container-title: Abstract state machines
+  page: '233-246'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/habibi05AsmL.ps
+
+- id: conf/asm/WoodcockB08
+  type: paper-conference
+  author:
+  - family: Woodcock
+    given: Jim
+  - family: Boca
+    given: Paul
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: ABZ2008 vSR-net workshop
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '378-379'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_48
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/RiccobeneS04
+  type: paper-conference
+  author:
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Towards an interchange language for aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-126'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_9
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Boiten08
+  type: paper-conference
+  author:
+  - family: Boiten
+    given: Eerke A.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: From aBZ to cryptography
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '353'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_40
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/MatoussiGL08
+  type: paper-conference
+  author:
+  - family: Matoussi
+    given: Abderrahman
+  - family: Gervais
+    given: Frédéric
+  - family: Laleau
+    given: Régine
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: A first attempt to express kAOS refinement patterns with event b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '338'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_27
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/MontaghamiR14
+  type: paper-conference
+  author:
+  - family: Montaghami
+    given: Vajih
+  - family: Rayside
+    given: Derek
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Staged evaluation of partial instances in a relational model finder
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '318-323'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_32
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Meyer03
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Bertrand
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: A framework for proving contract-equipped classes
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-125'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_6
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/ElstermannSF12
+  type: paper-conference
+  author:
+  - family: Elstermann
+    given: Matthes
+  - family: Seese
+    given: Detlef
+  - family: Fleischmann
+    given: Albert
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Using the arbitrator pattern for dynamic process-instance extension in a
+    work-flow management system
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '323-326'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_23
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/AbrialSZ12
+  type: paper-conference
+  author:
+  - family: Abrial
+    given: Jean-Raymond
+  - family: Su
+    given: Wen
+  - family: Zhu
+    given: Huibiao
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Formalizing hybrid systems with event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-193'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_13
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/DeharbeGM08
+  type: paper-conference
+  author:
+  - family: Déharbe
+    given: David
+  - family: Gomes
+    given: Bruno Emerson Gurgel
+  - family: Moreira
+    given: Anamaria Martins
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'BSmart: A tool for the development of java card applications with the
+    b method'
+  title-short: BSmart
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '351-352'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_39
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Edmunds14
+  type: paper-conference
+  author:
+  - family: Edmunds
+    given: Andrew
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Templates for event-b code generation
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '284-289'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_25
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Anlauff00
+  type: paper-conference
+  author:
+  - family: Anlauff
+    given: Matthias
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: XASM - an extensible, component-based aSM language
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-90'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_6
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/Hassine10
+  type: paper-conference
+  author:
+  - family: Hassine
+    given: Jameleddine
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: AsmL-based concurrency semantic variations for timed use case maps
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-46'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_4
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Jula05
+  type: paper-conference
+  author:
+  - family: Jula
+    given: Horatiu
+  issued:
+  - year: '2005'
+  title: ASM semantics for c++ 2.0
+  container-title: Abstract state machines
+  page: '263-274'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/jula.ps
+
+- id: conf/asm/EdmundsBMSL12
+  type: paper-conference
+  author:
+  - family: Edmunds
+    given: Andrew
+  - family: Butler
+    given: Michael J.
+  - family: Maamria
+    given: Issam
+  - family: Silva
+    given: Renato
+  - family: Lovell
+    given: Chris
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: 'Event-b code generation: Type extension with theories'
+  title-short: Event-b code generation
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '365-368'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_33
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/BarnettBGSV00
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Michael Barnett
+  - family: Börger
+    given: Egon
+  - family: Gurevich
+    given: Yuri
+  - family: Schulte
+    given: Wolfram
+  - family: Veanes
+    given: Margus
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: 'Using abstract state machines at microsoft: A case study'
+  title-short: Using abstract state machines at microsoft
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '367-379'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_21
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/FahlandR05
+  type: paper-conference
+  author:
+  - family: Fahland
+    given: Dirk
+  - family: Reisig
+    given: Wolfgang
+  issued:
+  - year: '2005'
+  title: 'ASM-based semantics for bPEL: The negative control flow'
+  title-short: ASM-based semantics for bPEL
+  container-title: Abstract state machines
+  page: '131-152'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/fahland_bpel_event_fault.ps
+
+- id: conf/asm/SousaR10
+  type: paper-conference
+  author:
+  - family: Sousa
+    given: Thiago C.
+    dropping-particle: de
+  - family: Russo
+    given: Aryldo G.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Starting b specifications from use cases
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '411'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_44
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/UttingM08
+  type: paper-conference
+  author:
+  - family: Utting
+    given: Mark
+  - family: Malik
+    given: Petra
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Unit testing of z specifications
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-322'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_24
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/TiberghienMS10
+  type: paper-conference
+  author:
+  - family: Tiberghien
+    given: Alban
+  - family: Merle
+    given: Philippe
+  - family: Seinturier
+    given: Lionel
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Specifying self-configurable component-based systems with fracToy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-104'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_8
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Hallerstede14
+  type: paper-conference
+  author:
+  - family: Hallerstede
+    given: Stefan
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Quasi-lexicographic convergence
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-100'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_7
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/VoisinA14
+  type: paper-conference
+  author:
+  - family: Voisin
+    given: Laurent
+  - family: Abrial
+    given: Jean-Raymond
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: The rodin platform has turned ten
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_1
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/BeauquierBS05
+  type: paper-conference
+  author:
+  - family: Beauquier
+    given: Danièle
+  - family: Börger
+    given: Egon
+  - family: Slissenko
+    given: Anatol
+  issued:
+  - year: '2005'
+  title: Introduction
+  container-title: Abstract state machines
+  page: '5-10'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/IntroProcAsm05.ps
+
+- id: conf/asm/Abrial05
+  type: paper-conference
+  author:
+  - family: Abrial
+    given: Jean-Raymond
+  issued:
+  - year: '2005'
+  title: Refinement, decomposition and instantiation of discrete models
+  container-title: Abstract state machines
+  page: '17-40'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/ref_dcp_ins_final2.ps
+
+- id: conf/asm/MatoussiP10
+  type: paper-conference
+  author:
+  - family: Matoussi
+    given: Abderrahman
+  - family: Petit
+    given: Dorian
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Improving traceability between kAOS requirements models and b specifications
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '401-402'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_36
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Reisig03
+  type: paper-conference
+  author:
+  - family: Reisig
+    given: Wolfgang
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: The computable kernel of aSM
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '421-422'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_33
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/BarnettST03
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Michael Barnett
+  - family: Schulte
+    given: Wolfram
+  - family: Tillmann
+    given: Nikolai
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Using asmL for runtime verification
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '407'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_24
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/Leuschel08
+  type: paper-conference
+  author:
+  - family: Leuschel
+    given: Michael
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'The high road to formal validation:'
+  title-short: The high road to formal validation
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '4-23'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_2
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Hallerstede10
+  type: paper-conference
+  author:
+  - family: Hallerstede
+    given: Stefan
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Structured event-b models and proofs
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '273-286'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_21
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/LuzzanaRRS12
+  type: paper-conference
+  author:
+  - family: Luzzana
+    given: Andrea
+  - family: Rossetti
+    given: Mattia
+  - family: Righettini
+    given: Paolo
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Modeling synchronization/Communication patterns in vision-based robot control
+    applications using aSMs
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '331-335'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_25
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/MetayerC08
+  type: paper-conference
+  author:
+  - family: Metayer
+    given: Christophe
+  - family: Clabaut
+    given: Mathieu
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: DIR 41 case study
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_44
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/HoangA10
+  type: paper-conference
+  author:
+  - family: Hoang
+    given: Thai Son
+  - family: Abrial
+    given: Jean-Raymond
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Event-b decomposition for parallel programs
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '319-333'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_24
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/AltenhofenF10
+  type: paper-conference
+  author:
+  - family: Altenhofen
+    given: Michael
+  - family: Farahbod
+    given: Roozbeh
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Bârun: A scripting language for coreASM'
+  title-short: Bârun
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-60'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_5
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/ConchonI14
+  type: paper-conference
+  author:
+  - family: Conchon
+    given: Sylvain
+  - family: Iguernelala
+    given: Mohamed
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Tuning the alt-ergo sMT solver for b proof obligations
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-297'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_27
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Cunha14
+  type: paper-conference
+  author:
+  - family: Cunha
+    given: Alcino
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Bounded model checking of temporal formulas with alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-308'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_29
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/MaiaIB98
+  type: paper-conference
+  author:
+  - family: Almeida Maia
+    given: Marcelo
+    dropping-particle: de
+  - family: Iorio
+    given: Vladimir Oliveira Di
+  - family: Silva Bigonha
+    given: Roberto
+    dropping-particle: da
+  issued:
+  - year: '1998'
+  title: Interacting abstract state machines
+  container-title: Workshop on abstract state machines
+  page: '37-49'
+
+- id: conf/asm/Maldonado-LopezCD14
+  type: paper-conference
+  author:
+  - family: Maldonado-Lopez
+    given: Ferney A.
+  - family: Chavarriaga
+    given: Jaime
+  - family: Donoso
+    given: Yezid
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Detecting network policy conflicts using alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '314-317'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_31
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/MaamriaBER10
+  type: paper-conference
+  author:
+  - family: Maamria
+    given: Issam
+  - family: Butler
+    given: Michael J.
+  - family: Edmunds
+    given: Andrew
+  - family: Rezazadeh
+    given: Abdolbaghi
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: On an extensible rule-based prover for event-b
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '407'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_40
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/ChaudemarCS08
+  type: paper-conference
+  author:
+  - family: Chaudemar
+    given: Jean-Charles
+  - family: Castel
+    given: Charles
+  - family: Seguin
+    given: Christel
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'FDIR architectures for autonomous spacecraft: Specification and assessment
+    with event-b'
+  title-short: FDIR architectures for autonomous spacecraft
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '358'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_45
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/GargantiniR00
+  type: paper-conference
+  author:
+  - family: Gargantini
+    given: Angelo
+  - family: Riccobene
+    given: Elvinia
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Encoding abstract state machines in pVS
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '303-322'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_17
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/FurstHBSM14
+  type: paper-conference
+  author:
+  - family: Fürst
+    given: Andreas
+  - family: Hoang
+    given: Thai Son
+  - family: Basin
+    given: David A.
+  - family: Sato
+    given: Naoto
+  - family: Miyazaki
+    given: Kunihiko
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Formal system modelling using abstract data types in event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-237'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_20
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/RiccobeneS10
+  type: paper-conference
+  author:
+  - family: Riccobene
+    given: Elvinia
+  - family: Scandurra
+    given: Patrizia
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: An executable semantics of the systemC uML profile
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-90'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_7
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/BagheriS10
+  type: paper-conference
+  author:
+  - family: Bagheri
+    given: Hamid
+  - family: Sullivan
+    given: Kevin J.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Architecture as an independent variable for aspect-oriented application descriptions
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '395'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_32
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Fruja05
+  type: paper-conference
+  author:
+  - family: Fruja
+    given: Nicu G.
+  issued:
+  - year: '2005'
+  title: A modular design for the common language runtime (cLR) architecture
+  container-title: Abstract state machines
+  page: '175-200'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/fruja.ps
+
+- id: conf/asm/DadeauKT08
+  type: paper-conference
+  author:
+  - family: Dadeau
+    given: Frédéric
+  - family: Kermadec
+    given: Adrien De
+  - family: Tissot
+    given: Régis
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Combining scenario- and model-based testing to ensure pOSIX compliance
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-166'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_13
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Wright08
+  type: paper-conference
+  author:
+  - family: Wright
+    given: Stephen
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Using eventB to create a virtual machine instruction set architecture
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-279'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_21
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/2000
+  type: book
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Abstract state machines, theory and applications, international workshop,
+    aSM 2000, monte verità, switzerland, march 19-24, 2000, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1912'
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/Borger05a
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2005'
+  title: Design pattern abstractions and abstract state machines
+  container-title: Abstract state machines
+  page: '91-100'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/DesignPattern.ps
+
+- id: conf/asm/Hallerstede08
+  type: paper-conference
+  author:
+  - family: Hallerstede
+    given: Stefan
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: On the purpose of event-b proof obligations
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-138'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_11
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/HuynhFMLD14
+  type: paper-conference
+  author:
+  - family: Huynh
+    given: Nghi
+  - family: Frappier
+    given: Marc
+  - family: Mammar
+    given: Amel
+  - family: Laleau
+    given: Régine
+  - family: Desharnais
+    given: Jules
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Validating the rBAC aNSI 2012 standard using b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '255-270'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_22
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Fruja04
+  type: paper-conference
+  author:
+  - family: Fruja
+    given: Nicu G.
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Specification and implementation problems for c\#
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-143'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_10
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/DincaIMS12
+  type: paper-conference
+  author:
+  - family: Dinca
+    given: Ionut
+  - family: Ipate
+    given: Florentin
+  - family: Mierla
+    given: Laurentiu
+  - family: Stefanescu
+    given: Alin
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Learn and test for event-b - a rodin plugin
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-364'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_32
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/WangST08
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Qing
+  - family: Schewe
+    given: Klaus-Dieter
+  - family: Thalheim
+    given: Bernhard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: XML database transformations with tree updates
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '342'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_30
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/BolognesiB03
+  type: paper-conference
+  author:
+  - family: Bolognesi
+    given: Tommaso
+  - family: Börger
+    given: Egon
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Abstract state processes
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '22-32'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_2
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/MontaghamiR12
+  type: paper-conference
+  author:
+  - family: Montaghami
+    given: Vajih
+  - family: Rayside
+    given: Derek
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Extending alloy with partial instances
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-135'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_9
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/HasanT10
+  type: paper-conference
+  author:
+  - family: Hasan
+    given: Osman
+  - family: Tahar
+    given: Sofiène
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'Formal probabilistic analysis: A higher-order logic based approach'
+  title-short: Formal probabilistic analysis
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '2-19'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_2
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Reisig00
+  type: paper-conference
+  author:
+  - family: Reisig
+    given: Wolfgang
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Towards an aSM thesis for unconventional algorithms
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-130'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_8
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/Requet08
+  type: paper-conference
+  author:
+  - family: Requet
+    given: Antoine
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'BART: A tool for automatic refinement'
+  title-short: BART
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '345'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_33
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/MarriottZC12
+  type: paper-conference
+  author:
+  - family: Marriott
+    given: Chris
+  - family: Zeyda
+    given: Frank
+  - family: Cavalcanti
+    given: Ana
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A tool chain for the automatic generation of circus specifications of simulink
+    diagrams
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '294-307'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_21
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/TangT05
+  type: paper-conference
+  author:
+  - family: Tang
+    given: Calvin Kai Fan
+  - family: Ternovska
+    given: Eugenia
+  issued:
+  - year: '2005'
+  title: Model checking abstract state machines with answer set programming
+  container-title: Abstract state machines
+  page: '397-416'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/tang-ternovska.ps
+
+- id: conf/asm/AndriamiarinaMS14
+  type: paper-conference
+  author:
+  - family: Andriamiarina
+    given: Manamiary Bruno
+  - family: Méry
+    given: Dominique
+  - family: Singh
+    given: Neeraj Kumar
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Analysis of self-⋆ and p2P systems using refinement
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '117-123'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_9
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/SnookB08
+  type: paper-conference
+  author:
+  - family: Snook
+    given: Colin F.
+  - family: Butler
+    given: Michael J.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'UML-b: A plug-in for the event-b tool set'
+  title-short: UML-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '344'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_32
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Tonino98
+  type: paper-conference
+  author:
+  - family: Tonino
+    given: Hans
+  issued:
+  - year: '1998'
+  title: A sound and complete sOS-semantics for non-distributed deterministic abstract
+    state machines
+  container-title: Workshop on abstract state machines
+  page: '91-110'
+
+- id: conf/asm/Borger00
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Abstract state machines at the cusp of the millenium
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-8'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_1
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/VeanesS08
+  type: paper-conference
+  author:
+  - family: Veanes
+    given: Margus
+  - family: Saabas
+    given: Ando
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Using satisfiability modulo theories to analyze abstract state machines (abstract)
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '355'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_42
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Borger05
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2005'
+  title: 'The aSM method: A cornerstone in computer science education'
+  title-short: The aSM method
+  container-title: Abstract state machines
+  page: '49-56'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/TeachAsm.ps
+
+- id: conf/asm/Robinson08
+  type: paper-conference
+  author:
+  - family: Robinson
+    given: Ken
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Reconciling axiomatic and model-based specifications reprised
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-236'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_18
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/KobayashiIH14
+  type: paper-conference
+  author:
+  - family: Kobayashi
+    given: Tsutomu
+  - family: Ishikawa
+    given: Fuyuki
+  - family: Honiden
+    given: Shinichi
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Understanding and planning event-b refinement through primitive rationales
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-283'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_24
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/GoosZ00
+  type: paper-conference
+  author:
+  - family: Goos
+    given: Gerhard
+  - family: Zimmermann
+    given: Wolf
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Verifying compilers and aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-202'
+  volume: '1912'
+  URL: http://link.springer.de/link/service/series/0558/bibs/1912/19120177.htm
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/BeckersKKS08
+  type: paper-conference
+  author:
+  - family: Beckers
+    given: Jörg
+  - family: Klünder
+    given: Daniel
+  - family: Kowalewski
+    given: Stefan
+  - family: Schlich
+    given: Bastian
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Direct support for model checking abstract state machines by utilizing simulation
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-124'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_10
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/Woodcock05
+  type: paper-conference
+  author:
+  - family: Woodcock
+    given: Jim
+  issued:
+  - year: '2005'
+  title: Unifying program refinement calculi
+  container-title: Abstract state machines
+  page: '76'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/woodcock.ps
+
+- id: conf/asm/ArcainiBG12
+  type: paper-conference
+  author:
+  - family: Arcaini
+    given: Paolo
+  - family: Bolis
+    given: Francesco
+  - family: Gargantini
+    given: Angelo
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Test generation for sequential nets of abstract state machines
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-50'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_3
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/MichelGV10
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: David Michel
+  - family: Gervais
+    given: Frédéric
+  - family: Valarcher
+    given: Pierre
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: 'B-aSM: Specification of aSM à la b'
+  title-short: B-aSM
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '391'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_29
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/MentreMFA12
+  type: paper-conference
+  author:
+  - family: Mentré
+    given: David
+  - family: Marché
+    given: Claude
+  - family: Filliâtre
+    given: Jean-Christophe
+  - family: Asuka
+    given: Masashi
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Discharging proof obligations from atelier b using multiple automated provers
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '238-251'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_17
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/Banach08
+  type: paper-conference
+  author:
+  - family: Banach
+    given: Richard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Model based refinement and the tools of tomorrow
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '42-56'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_5
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/NovikovY05
+  type: paper-conference
+  author:
+  - family: Novikov
+    given: Andrey
+  - family: Yavorskiy
+    given: Rostislav
+  issued:
+  - year: '2005'
+  title: Applying formal semantics of an object-oriented language to program invariant
+    checking
+  container-title: Abstract state machines
+  page: '305-312'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/novikov.ps
+
+- id: conf/asm/KhouryAH10
+  type: paper-conference
+  author:
+  - family: Khoury
+    given: Joud
+  - family: Abdallah
+    given: Chaouki T.
+  - family: Heileman
+    given: Gregory L.
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Towards formalizing network architectural descriptions
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-145'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_11
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Nowack03
+  type: paper-conference
+  author:
+  - family: Nowack
+    given: Antje
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Deciding the verification problem for abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '341-355'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_20
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/VakiliD12
+  type: paper-conference
+  author:
+  - family: Vakili
+    given: Amirhossein
+  - family: Day
+    given: Nancy A.
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Temporal logic model checking in alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-163'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_11
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/FrujaS03
+  type: paper-conference
+  author:
+  - family: Fruja
+    given: Nicu G.
+  - family: Stärk
+    given: Robert F.
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: The hidden computation stepsof turbo abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '244-262'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_14
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/NearJ10
+  type: paper-conference
+  author:
+  - family: Near
+    given: Joseph P.
+  - family: Jackson
+    given: Daniel
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: An imperative extension to alloy
+  container-title: ASM
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-131'
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1_10
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/DeharbeFGV12
+  type: paper-conference
+  author:
+  - family: Déharbe
+    given: David
+  - family: Fontaine
+    given: Pascal
+  - family: Guyot
+    given: Yoann
+  - family: Voisin
+    given: Laurent
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: SMT solvers for rodin
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-207'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_14
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/FarahbodGG05
+  type: paper-conference
+  author:
+  - family: Farahbod
+    given: Roozbeh
+  - family: Gervasi
+    given: Vincenzo
+  - family: Glässer
+    given: Uwe
+  issued:
+  - year: '2005'
+  title: 'CoreASM: An extensible aSM execution engine'
+  title-short: CoreASM
+  container-title: Abstract state machines
+  page: '153-166'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/CoreASM-ASM2005.ps
+
+- id: conf/asm/2014
+  type: book
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Abstract state machines, alloy, b, tLA, vDM, and z - 4th international conference,
+    aBZ 2014, toulouse, france, june 2-6, 2014. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Rust04
+  type: paper-conference
+  author:
+  - family: Rust
+    given: Heinrich
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Modeling discretely timed systems using different magnitudes of non-standard
+    reals
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '218-233'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_16
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/NanchenS04
+  type: paper-conference
+  author:
+  - family: Nanchen
+    given: Stanislas
+  - family: Stärk
+    given: Robert F.
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: A security logic for abstract state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-185'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_13
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Zamulin00
+  type: paper-conference
+  author:
+  - family: Zamulin
+    given: Alexandre V.
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Generic facilities in object-oriented aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-111'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_7
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/BorgerPS00
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Päppinghaus
+    given: Peter
+  - family: '0001'
+    given: Joachim Schmid
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Report on a practical application of aSMs in software design
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '361-366'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_20
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/BellaR98
+  type: paper-conference
+  author:
+  - family: Bella
+    given: Giampaolo
+  - family: Riccobene
+    given: Elvinia
+  issued:
+  - year: '1998'
+  title: A realistic environment for crypto-protocol analyses by aSMs
+  container-title: Workshop on abstract state machines
+  page: '127-138'
+
+- id: conf/asm/PaivaTFV05
+  type: paper-conference
+  author:
+  - family: Paiva
+    given: Ana C. R.
+  - family: Tillmann
+    given: Nikolai
+  - family: Faria
+    given: João C. P.
+  - family: Vidal
+    given: Raul F. A. M.
+  issued:
+  - year: '2005'
+  title: Modeling and testing hierarchical gUIs
+  container-title: Abstract state machines
+  page: '329-344'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/AnaCRPaiva.ps
+
+- id: conf/asm/OberD08
+  type: paper-conference
+  author:
+  - family: Ober
+    given: Ileana
+  - family: Dib
+    given: Ali Abou
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Using aSM to achieve executability within a family of dSL
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '354'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_41
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/AbiteboulDM05
+  type: paper-conference
+  author:
+  - family: Abiteboul
+    given: Serge
+  - family: Davidson
+    given: Susan B.
+  - family: Milo
+    given: Tova
+  issued:
+  - year: '2005'
+  title: Active xML and data activation
+  container-title: Abstract state machines
+  page: '11-16'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/AbiteboulDM05.ps
+
+- id: conf/asm/SulskusP12
+  type: paper-conference
+  author:
+  - family: Sulskus
+    given: Gintautas
+  - family: Poppleton
+    given: Michael
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A pattern for modelling fault tolerant systems in event-b
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '373-376'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_35
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/MatosM08
+  type: paper-conference
+  author:
+  - family: Matos
+    given: Paulo J.
+  - family: Marques-Silva
+    given: João
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Model checking event-b by encoding into alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '346'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_34
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/GawanmehHT05
+  type: paper-conference
+  author:
+  - family: Gawanmeh
+    given: Amjad
+  - family: Habibi
+    given: Ali
+  - family: Tahar
+    given: Sofiène
+  issued:
+  - year: '2005'
+  title: Embedding and verification of pSL using asmL
+  container-title: Abstract state machines
+  page: '201-216'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/gawanmeh.ps
+
+- id: conf/asm/Schellhorn08
+  type: paper-conference
+  author:
+  - family: Schellhorn
+    given: Gerhard
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: 'Refinement of state-based systems: ASMs and big commuting diagrams (abstract)'
+  title-short: Refinement of state-based systems
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-41'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_4
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/GurevichR00
+  type: paper-conference
+  author:
+  - family: Gurevich
+    given: Yuri
+  - family: Rosenzweig
+    given: Dean
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: 'Partially ordered runs: A case study'
+  title-short: Partially ordered runs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-150'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_9
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/Bussche04
+  type: paper-conference
+  author:
+  - family: Bussche
+    given: Jan Van
+    dropping-particle: den
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Finite cursor machines in database query processing
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '61'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_5
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/2010
+  type: book
+  editor:
+  - family: Frappier
+    given: Marc
+  issued:
+  - year: '2010'
+  title: Abstract state machines, alloy, b and z, second international conference,
+    aBZ 2010, orford, qC, canada, february 22-25, 2010. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5977'
+  DOI: 10.1007/978-3-642-11811-1
+  ISBN: '978-3-642-11810-4'
+
+- id: conf/asm/Glesner03
+  type: paper-conference
+  author:
+  - family: Glesner
+    given: Sabine
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: 'ASMs versus natural semantics: A comparison with new insights'
+  title-short: ASMs versus natural semantics
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '293-308'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_17
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/AyedDBIL14
+  type: paper-conference
+  author:
+  - family: Ayed
+    given: Rahma Ben
+  - family: Dutilleul
+    given: Simon Collart
+  - family: Bon
+    given: Philippe
+  - family: Idani
+    given: Akram
+  - family: Ledru
+    given: Yves
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: B formal validation of eRTMS/ETCS railway operating rules
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-129'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_10
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/BorgerCR00
+  type: paper-conference
+  author:
+  - family: Börger
+    given: Egon
+  - family: Cavarra
+    given: Alessandra
+  - family: Riccobene
+    given: Elvinia
+  editor:
+  - family: Gurevich
+    given: Yuri
+  issued:
+  - year: '2000'
+  title: Modeling the dynamics of uML state machines
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '223-241'
+  volume: '1912'
+  DOI: 10.1007/3-540-44518-8_13
+  ISBN: '3-540-67959-6'
+
+- id: conf/asm/FraikinFS12
+  type: paper-conference
+  author:
+  - family: Fraikin
+    given: Benoît
+  - family: Frappier
+    given: Marc
+  - family: St.-Denis
+    given: Richard
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Modeling the supervisory control theory with alloy
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '94-107'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_7
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/DelahayeDMM14
+  type: paper-conference
+  author:
+  - family: Delahaye
+    given: David
+  - family: Dubois
+    given: Catherine
+  - family: Marché
+    given: Claude
+  - family: Mentré
+    given: David
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: 'The bWare project: Building a proof platform for the automated verification
+    of b proof obligations'
+  title-short: The bWare project
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '290-293'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_26
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/NielsenLL12
+  type: paper-conference
+  author:
+  - family: Nielsen
+    given: Claus Ballegaard
+  - family: Lausdahl
+    given: Kenneth
+  - family: Larsen
+    given: Peter Gorm
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: Combining vDM with executable code
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '266-279'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_19
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/LezuoK12
+  type: paper-conference
+  author:
+  - family: Lezuo
+    given: Roland
+  - family: Krall
+    given: Andreas
+  editor:
+  - family: Derrick
+    given: John
+  issued:
+  - year: '2012'
+  title: A unified processor model for compiler verification and simulation using
+    aSM
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '327-330'
+  volume: '7316'
+  DOI: 10.1007/978-3-642-30885-7_24
+  ISBN: '978-3-642-30884-0'
+
+- id: conf/asm/IsasaJNH14
+  type: paper-conference
+  author:
+  - family: Isasa
+    given: José Antonio Esparza
+  - family: Jørgensen
+    given: Peter Würtz Vinther
+  - family: Nielsen
+    given: Claus Ballegård
+  - family: Hallerstede
+    given: Stefan
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Modelling energy consumption in embedded systems with vDM-rT
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '130-135'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_11
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/SmithL14
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Graeme
+  - family: Li
+    given: Qin
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: 'MAZE: An extension of object-z for multi-agent systems'
+  title-short: MAZE
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-85'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_6
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/Leino05
+  type: paper-conference
+  author:
+  - family: Leino
+    given: K. Rustan M.
+  issued:
+  - year: '2005'
+  title: Program verification and programming methodology
+  container-title: Abstract state machines
+  page: '73'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/krml154.ps
+
+- id: conf/asm/DiesenST98
+  type: paper-conference
+  author:
+  - family: Diesen
+    given: Dag
+  - family: Svendsen
+    given: Trond Ove
+  - family: Thorstensen
+    given: Bjørn
+  issued:
+  - year: '1998'
+  title: Developing new aSM-tools
+  container-title: Workshop on abstract state machines
+  page: '155-158'
+
+- id: conf/asm/2004
+  type: book
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Abstract state machines 2004. advances in theory and practice, 11th international
+    workshop, aSM 2004, lutherstadt wittenberg, germany, may 24-28, 2004. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3052'
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Schonfeld98
+  type: paper-conference
+  author:
+  - family: Schönfeld
+    given: Wolfgang
+  issued:
+  - year: '1998'
+  title: Interacting abstract state machines
+  container-title: Workshop on abstract state machines
+  page: '22-36'
+
+- id: conf/asm/GurgelCO08
+  type: paper-conference
+  author:
+  - family: Gurgel
+    given: Alessandro Cavalcante
+  - family: Castro
+    given: Cristiano Gurgel
+    dropping-particle: de
+  - family: Oliveira
+    given: Marcel Vinicius Medeiros
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: Tool support for the circusRefinement calculus
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '349'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_37
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/CavarraK04
+  type: paper-conference
+  author:
+  - family: Cavarra
+    given: Alessandra
+  - family: Filipe
+    given: Juliana Küster
+  editor:
+  - family: Zimmermann
+    given: Wolf
+  issued:
+  - year: '2004'
+  title: Formalizing liveness-enriched sequence diagrams using aSMs
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '62-77'
+  volume: '3052'
+  DOI: 10.1007/978-3-540-24773-9_6
+  ISBN: '3-540-22094-1'
+
+- id: conf/asm/Comon-Lundh05
+  type: paper-conference
+  author:
+  - family: Comon-Lundh
+    given: Hubert
+  issued:
+  - year: '2005'
+  title: Normal attacks on security protocols
+  container-title: Abstract state machines
+  page: '70'
+  URL: http://www.univ-paris12.fr/lacl/dima/asm05/comon.ps
+
+- id: conf/asm/Poppleton08
+  type: paper-conference
+  author:
+  - family: Poppleton
+    given: Michael
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2008'
+  title: The composition of event-b models
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '209-222'
+  volume: '5238'
+  DOI: 10.1007/978-3-540-87603-8_17
+  ISBN: '978-3-540-87602-1'
+
+- id: conf/asm/KardosN03
+  type: paper-conference
+  author:
+  - family: Kardos
+    given: Martin
+  - family: '0002'
+    given: Ulrich Nickel
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: ASMs as integration platform towards verification and validation of distributed
+    production control systems at multiple levels of abstraction
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '416'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_30
+  ISBN: '3-540-00624-9'
+
+- id: conf/asm/PrinzS14
+  type: paper-conference
+  author:
+  - family: Prinz
+    given: Andreas
+  - family: Sherratt
+    given: Edel
+  editor:
+  - family: Ameur
+    given: Yamine Aït
+  issued:
+  - year: '2014'
+  title: Distributed aSM - pitfalls and solutions
+  container-title: ABZ
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '210-215'
+  volume: '8477'
+  DOI: 10.1007/978-3-662-43652-3_18
+  ISBN: '978-3-662-43651-6'
+
+- id: conf/asm/BenczurGL03
+  type: paper-conference
+  author:
+  - family: Benczúr
+    given: András A.
+  - family: Glässer
+    given: Uwe
+  - family: Lukovszki
+    given: Tamás
+  editor:
+  - family: Börger
+    given: Egon
+  issued:
+  - year: '2003'
+  title: Formal description of a distributed location service for mobile ad hoc networks
+  container-title: Abstract state machines
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '204-217'
+  volume: '2589'
+  DOI: 10.1007/3-540-36498-6_11
+  ISBN: '3-540-00624-9'
+...

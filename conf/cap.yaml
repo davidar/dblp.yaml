@@ -1,0 +1,1499 @@
+---
+references:
+- id: conf/cap/NeunM90
+  type: paper-conference
+  author:
+  - family: Neun
+    given: Winfried
+  - family: Melenk
+    given: Herbert
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Very large gröbner basis calculations
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-99'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_7
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/Senechaud90
+  type: paper-conference
+  author:
+  - family: Sénéchaud
+    given: Pascale
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Boolean gröbner bases and their mIMD implementation
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-114'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_8
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/MonaganP10
+  type: paper-conference
+  author:
+  - family: Monagan
+    given: Michael B.
+  - family: Pearce
+    given: Roman
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel sparse polynomial division using heaps
+  container-title: PASCO
+  publisher: ACM
+  page: '105-111'
+  URL: http://doi.acm.org/10.1145/1837210.1837227
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/MonteliusH97
+  type: paper-conference
+  author:
+  - family: Montelius
+    given: Johan
+  - family: Haridi
+    given: Seif
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: 'An evaluation of penny: A system for fine grain implicit parallelism'
+  title-short: An evaluation of penny
+  container-title: PASCO
+  publisher: ACM
+  page: '46-57'
+  URL: http://doi.acm.org/10.1145/266670.266686
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/HaqueHM10
+  type: paper-conference
+  author:
+  - family: Haque
+    given: Sardar Anisul
+  - family: Hossain
+    given: Shahadat
+  - family: Maza
+    given: Marc Moreno
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Cache friendly sparse matrix-vector multiplication
+  container-title: PASCO
+  publisher: ACM
+  page: '175-176'
+  URL: http://doi.acm.org/10.1145/1837210.1837238
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/VerscheldeY10
+  type: paper-conference
+  author:
+  - family: Verschelde
+    given: Jan
+  - family: Yoffe
+    given: Genady
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Polynomial homotopies on multicore workstations
+  container-title: PASCO
+  publisher: ACM
+  page: '131-140'
+  URL: http://doi.acm.org/10.1145/1837210.1837230
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/MonaganP15
+  type: paper-conference
+  author:
+  - family: Monagan
+    given: Michael B.
+  - family: Pearce
+    given: Roman
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: A compact parallel implementation of f4
+  container-title: PASCO
+  publisher: ACM
+  page: '95-100'
+  URL: http://doi.acm.org/10.1145/2790282.2790293
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Giesbrecht97
+  type: paper-conference
+  author:
+  - family: Giesbrecht
+    given: Mark
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Efficient parallel solution of sparse systems of linear diophantine equations
+  container-title: PASCO
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/266670.266678
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/LeisersonMLX10
+  type: paper-conference
+  author:
+  - family: Leiserson
+    given: Charles E.
+  - family: Maza
+    given: Marc Moreno
+  - family: Li
+    given: Liyun
+  - family: Xie
+    given: Yuzhen
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel computation of the minimal elements of a poset
+  container-title: PASCO
+  publisher: ACM
+  page: '53-62'
+  URL: http://doi.acm.org/10.1145/1837210.1837221
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Johnson10
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Jeremy R.
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Automated performance tuning
+  container-title: PASCO
+  publisher: ACM
+  page: '20-21'
+  URL: http://doi.acm.org/10.1145/1837210.1837215
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/NguyenR10
+  type: paper-conference
+  author:
+  - family: Nguyen
+    given: Hong Diep
+  - family: Revol
+    given: Nathalie
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: High performance linear algebra using interval arithmetic
+  container-title: PASCO
+  publisher: ACM
+  page: '171-172'
+  URL: http://doi.acm.org/10.1145/1837210.1837236
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Cesari97
+  type: paper-conference
+  author:
+  - family: Cesari
+    given: Giovanni
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: 'CALYPSO: A computer algebra library for parallel symbolic computation'
+  title-short: CALYPSO
+  container-title: PASCO
+  publisher: ACM
+  page: '204-216'
+  URL: http://doi.acm.org/10.1145/266670.266730
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/KonovalovL10
+  type: paper-conference
+  author:
+  - family: Konovalov
+    given: Alexander
+  - family: Linton
+    given: Steve
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel computations in modular group algebras
+  container-title: PASCO
+  publisher: ACM
+  page: '141-149'
+  URL: http://doi.acm.org/10.1145/1837210.1837231
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/MengVJMFX10
+  type: paper-conference
+  author:
+  - family: Meng
+    given: Lingchuan
+  - family: Voronenko
+    given: Yevgen
+  - family: Johnson
+    given: Jeremy R.
+  - family: Maza
+    given: Marc Moreno
+  - family: Franchetti
+    given: Franz
+  - family: Xie
+    given: Yuzhen
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Spiral-generated modular fFT algorithms
+  container-title: PASCO
+  publisher: ACM
+  page: '169-170'
+  URL: http://doi.acm.org/10.1145/1837210.1837235
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/SibertMJ90
+  type: paper-conference
+  author:
+  - family: Sibert
+    given: Ernest E.
+  - family: Mattson
+    given: Harold F.
+  - family: Jackson
+    given: Paul
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Finite field arithmetic using the connection machine
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-61'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_4
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/Kaltofen10
+  type: paper-conference
+  author:
+  - family: Kaltofen
+    given: Erich
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: 'Fifteen years after dSC and wLSS2 what parallel computations i do today:
+    Invited lecture at pASCO 2010'
+  title-short: Fifteen years after dSC and wLSS2 what parallel computations i do today
+  container-title: PASCO
+  publisher: ACM
+  page: '10-17'
+  URL: http://doi.acm.org/10.1145/1837210.1837213
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/JeannerodMMRBJKM10
+  type: paper-conference
+  author:
+  - family: Jeannerod
+    given: Claude-Pierre
+  - family: Mouilleron
+    given: Christophe
+  - family: Muller
+    given: Jean-Michel
+  - family: Revy
+    given: Guillaume
+  - family: Bertin
+    given: Christian
+  - family: Jourdan-Lu
+    given: Jingyan
+  - family: Knochel
+    given: Herve
+  - family: Monat
+    given: Christophe
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Techniques and tools for implementing iEEE 754 floating-point arithmetic
+    on vLIW integer processors
+  container-title: PASCO
+  publisher: ACM
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/1837210.1837212
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/MuraoF97
+  type: paper-conference
+  author:
+  - family: Murao
+    given: Hirokazu
+  - family: Fujise
+    given: Tetsuro
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Towards an efficient implementation of a fast algorithm for multipoint polynomial
+    evaluation and its parallel processing
+  container-title: PASCO
+  publisher: ACM
+  page: '24-30'
+  URL: http://doi.acm.org/10.1145/266670.266680
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/HaridiRS97
+  type: paper-conference
+  author:
+  - family: Haridi
+    given: Seif
+  - family: Roy
+    given: Peter Van
+  - family: Smolka
+    given: Gert
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: An overview of the design of distributed oz
+  container-title: PASCO
+  publisher: ACM
+  page: '176-187'
+  URL: http://doi.acm.org/10.1145/266670.266726
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/Wang97
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Paul S.
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Tools for parallel/distributed mathematical computation
+  container-title: PASCO
+  publisher: ACM
+  page: '188-195'
+  URL: http://doi.acm.org/10.1145/266670.266727
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/GautierR97
+  type: paper-conference
+  author:
+  - family: Gautier
+    given: Thierry
+  - family: Roch
+    given: Jean-Louis
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: NC2 computation of gcd-free basis and application to parallel algebraic numbers
+    computation
+  container-title: PASCO
+  publisher: ACM
+  page: '31-37'
+  URL: http://doi.acm.org/10.1145/266670.266682
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/LangloisMT10
+  type: paper-conference
+  author:
+  - family: Langlois
+    given: Philippe
+  - family: Martel
+    given: Matthieu
+  - family: Thévenoux
+    given: Laurent
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: 'Accuracy versus time: A case study with summation algorithms'
+  title-short: Accuracy versus time
+  container-title: PASCO
+  publisher: ACM
+  page: '121-130'
+  URL: http://doi.acm.org/10.1145/1837210.1837229
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/KatoSI97
+  type: paper-conference
+  author:
+  - family: Kato
+    given: Shohei
+  - family: Seki
+    given: Hirohisa
+  - family: Itoh
+    given: Hidenori
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: A parallel implementation of cost-based abductive reasoning
+  container-title: PASCO
+  publisher: ACM
+  page: '111-118'
+  URL: http://doi.acm.org/10.1145/266670.266699
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/SalemEG15
+  type: paper-conference
+  author:
+  - family: Salem
+    given: Fatima K. Abu
+  - family: El-Harake
+    given: Khalil
+  - family: Gemayel
+    given: Karl
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Cache oblivious sparse polynomial factoring using the funnel heap
+  container-title: PASCO
+  publisher: ACM
+  page: '7-15'
+  URL: http://doi.acm.org/10.1145/2790282.2790283
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Eberly97
+  type: paper-conference
+  author:
+  - family: Eberly
+    given: Wayne
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: 'Processor-efficient parallel matrix inversion over abstract fields: Two
+    extensions'
+  title-short: Processor-efficient parallel matrix inversion over abstract fields
+  container-title: PASCO
+  publisher: ACM
+  page: '38-45'
+  URL: http://doi.acm.org/10.1145/266670.266684
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/Gastineau10
+  type: paper-conference
+  author:
+  - family: Gastineau
+    given: Mickaël
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: 'Parallel operations of sparse polynomials on multicores: I. multiplication
+    and poisson bracket'
+  title-short: Parallel operations of sparse polynomials on multicores
+  container-title: PASCO
+  publisher: ACM
+  page: '44-52'
+  URL: http://doi.acm.org/10.1145/1837210.1837220
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Zima97
+  type: paper-conference
+  author:
+  - family: Zima
+    given: Eugene V.
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Mixed representation of polynomials oriented towards fast parallel shift
+  container-title: PASCO
+  publisher: ACM
+  page: '150-155'
+  URL: http://doi.acm.org/10.1145/266670.266718
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/GautierRSV15
+  type: paper-conference
+  author:
+  - family: Gautier
+    given: Thierry
+  - family: Roch
+    given: Jean-Louis
+  - family: Sultan
+    given: Ziad
+  - family: Vialla
+    given: Bastien
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Parallel algebraic linear algebra dedicated interface
+  container-title: PASCO
+  publisher: ACM
+  page: '34-43'
+  URL: http://doi.acm.org/10.1145/2790282.2790286
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/KhochtaliRT15
+  type: paper-conference
+  author:
+  - family: Khochtali
+    given: Mohamed
+  - family: Roche
+    given: Daniel S.
+  - family: Tian
+    given: Xisen
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Parallel sparse interpolation using small primes
+  container-title: PASCO
+  publisher: ACM
+  page: '70-77'
+  URL: http://doi.acm.org/10.1145/2790282.2790290
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Kuchlin90
+  type: paper-conference
+  author:
+  - family: Küchlin
+    given: Wolfgang
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: The s-threads environment for parallel symbolic computation
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_1
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/DumasGR10
+  type: paper-conference
+  author:
+  - family: Dumas
+    given: Jean-Guillaume
+  - family: Gautier
+    given: Thierry
+  - family: Roch
+    given: Jean-Louis
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Generic design of chinese remaindering schemes
+  container-title: PASCO
+  publisher: ACM
+  page: '26-34'
+  URL: http://doi.acm.org/10.1145/1837210.1837218
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/GibsonM15
+  type: paper-conference
+  author:
+  - family: Gibson
+    given: Matthew
+  - family: Monagan
+    given: Michael B.
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Optimizing and parallelizing the modular gCD algorithm
+  container-title: PASCO
+  publisher: ACM
+  page: '44-52'
+  URL: http://doi.acm.org/10.1145/2790282.2790287
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Szanto97
+  type: paper-conference
+  author:
+  - family: Szántó
+    given: Ágnes
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Complexity of the wu-ritt decomposition
+  container-title: PASCO
+  publisher: ACM
+  page: '139-149'
+  URL: http://doi.acm.org/10.1145/266670.266716
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/Bonacina97
+  type: paper-conference
+  author:
+  - family: Bonacina
+    given: Maria Paola
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Experiments with subdivision of search in distributed theorem proving
+  container-title: PASCO
+  publisher: ACM
+  page: '88-100'
+  URL: http://doi.acm.org/10.1145/266670.266696
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/HuangP97
+  type: paper-conference
+  author:
+  - family: Huang
+    given: Xiaohan
+  - family: Pan
+    given: Victor Y.
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Fast rectangular matrix multiplications and improving parallel matrix computations
+  container-title: PASCO
+  publisher: ACM
+  page: '11-23'
+  URL: http://doi.acm.org/10.1145/266670.266679
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/1990
+  type: book
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1992'
+  title: Computer algebra and parallelism, second international workshop, ithaca,
+    uSA, may 9-11, 1990
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '584'
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/NormanF97
+  type: paper-conference
+  author:
+  - family: Norman
+    given: Arthur
+  - family: Fitch
+    given: John P.
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: 'CABAL: Polynomial and power series algebra on a parallel computer'
+  title-short: CABAL
+  container-title: PASCO
+  publisher: ACM
+  page: '196-203'
+  URL: http://doi.acm.org/10.1145/266670.266729
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/FaugereL10
+  type: paper-conference
+  author:
+  - family: Faugère
+    given: Jean-Charles
+  - family: Lachartre
+    given: Sylvain
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel gaussian elimination for gröbner bases computations in finite fields
+  container-title: PASCO
+  publisher: ACM
+  page: '89-97'
+  URL: http://doi.acm.org/10.1145/1837210.1837225
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/GuptaP97
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Gopal
+  - family: Pontelli
+    given: Enrico
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Extended dynamic dependent and-parallelism in aCE
+  container-title: PASCO
+  publisher: ACM
+  page: '68-79'
+  URL: http://doi.acm.org/10.1145/266670.266691
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/TeoCT97
+  type: paper-conference
+  author:
+  - family: Teo
+    given: Yong Meng
+  - family: Chin
+    given: Wei-Ngan
+  - family: Tan
+    given: Soon Huat
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Deriving efficient parallel programs for complex recurrences
+  container-title: PASCO
+  publisher: ACM
+  page: '101-110'
+  URL: http://doi.acm.org/10.1145/266670.266697
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/KunkleSC10
+  type: paper-conference
+  author:
+  - family: Kunkle
+    given: Daniel
+  - family: Slavici
+    given: Vlad
+  - family: Cooperman
+    given: Gene
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel disk-based computation for large, monolithic binary decision diagrams
+  container-title: PASCO
+  publisher: ACM
+  page: '63-72'
+  URL: http://doi.acm.org/10.1145/1837210.1837222
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/CostaBD97
+  type: paper-conference
+  author:
+  - family: Costa
+    given: Vítor Santos
+  - family: Bianchini
+    given: Ricardo
+  - family: Castro Dutra
+    given: Inês
+    dropping-particle: de
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Evaluating parallel logic programming systems on scalable multiprocessors
+  container-title: PASCO
+  publisher: ACM
+  page: '58-67'
+  URL: http://doi.acm.org/10.1145/266670.266687
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/HauensteinL15
+  type: paper-conference
+  author:
+  - family: Hauenstein
+    given: Jonathan D.
+  - family: Jr.
+    given: Alan C. Liddell
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: A hybrid symbolic-numeric approach to exceptional sets of generically zero-dimensional
+    systems
+  container-title: PASCO
+  publisher: ACM
+  page: '53-60'
+  URL: http://doi.acm.org/10.1145/2790282.2790288
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/CollinsJK90
+  type: paper-conference
+  author:
+  - family: Collins
+    given: George E.
+  - family: Johnson
+    given: Jeremy R.
+  - family: Küchlin
+    given: Wolfgang
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Parallel real root isolation using the coefficient sign variation method
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-87'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_6
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/BehrendsKLLN10
+  type: paper-conference
+  author:
+  - family: Behrends
+    given: Reimer
+  - family: Konovalov
+    given: Alexander
+  - family: Linton
+    given: Steve
+  - family: Lübeck
+    given: Frank
+  - family: Neunhöffer
+    given: Max
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallelising the computational algebra system gAP
+  container-title: PASCO
+  publisher: ACM
+  page: '177-178'
+  URL: http://doi.acm.org/10.1145/1837210.1837239
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Glauert97
+  type: paper-conference
+  author:
+  - family: Glauert
+    given: John
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: 'Object graph rewriting: An experimental parallel implementation'
+  title-short: Object graph rewriting
+  container-title: PASCO
+  publisher: ACM
+  page: '119-128'
+  URL: http://doi.acm.org/10.1145/266670.266709
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/BachmannSG97
+  type: paper-conference
+  author:
+  - family: Bachmann
+    given: Olaf
+  - family: Schönemann
+    given: Hans
+  - family: Gray
+    given: Simon
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: A proposal for syntactic data integration math protocols
+  container-title: PASCO
+  publisher: ACM
+  page: '165-175'
+  URL: http://doi.acm.org/10.1145/266670.266724
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/LawM15
+  type: paper-conference
+  author:
+  - family: Law
+    given: Marshall
+  - family: Monagan
+    given: Michael B.
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: A parallel implementation for polynomial multiplication modulo a prime
+  container-title: PASCO
+  publisher: ACM
+  page: '78-86'
+  URL: http://doi.acm.org/10.1145/2790282.2790291
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/JavadiM10
+  type: paper-conference
+  author:
+  - family: Javadi
+    given: Seyed Mohammad Mahdi
+  - family: Monagan
+    given: Michael B.
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel sparse polynomial interpolation over finite fields
+  container-title: PASCO
+  publisher: ACM
+  page: '160-168'
+  URL: http://doi.acm.org/10.1145/1837210.1837233
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/JacquinRRA10
+  type: paper-conference
+  author:
+  - family: Jacquin
+    given: Ludovic
+  - family: Roca
+    given: Vincent
+  - family: Roch
+    given: Jean-Louis
+  - family: Ali
+    given: Mohamed Al
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel arithmetic encryption for high-bandwidth communications on multicore/GPGPU
+    platforms
+  container-title: PASCO
+  publisher: ACM
+  page: '73-79'
+  URL: http://doi.acm.org/10.1145/1837210.1837223
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/ArnoldM10
+  type: paper-conference
+  author:
+  - family: Arnold
+    given: Andrew
+  - family: Monagan
+    given: Michael B.
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: A high-performance algorithm for calculating cyclotomic polynomials
+  container-title: PASCO
+  publisher: ACM
+  page: '112-120'
+  URL: http://doi.acm.org/10.1145/1837210.1837228
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/SperberTK97
+  type: paper-conference
+  author:
+  - family: Sperber
+    given: Michael
+  - family: Thiemann
+    given: Peter
+  - family: Klaeren
+    given: Herbert
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Distributed partial evaluation
+  container-title: PASCO
+  publisher: ACM
+  page: '80-87'
+  URL: http://doi.acm.org/10.1145/266670.266695
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/Emeliyanenko10
+  type: paper-conference
+  author:
+  - family: Emeliyanenko
+    given: Pavel
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: A complete modular resultant algorithm targeted for realization on graphics
+    hardware
+  container-title: PASCO
+  publisher: ACM
+  page: '35-43'
+  URL: http://doi.acm.org/10.1145/1837210.1837219
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/LiR10
+  type: paper-conference
+  author:
+  - family: Li
+    given: Yue
+  - family: Reis
+    given: Gabriel Dos
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: A quantitative study of reductions in algebraic libraries
+  container-title: PASCO
+  publisher: ACM
+  page: '98-104'
+  URL: http://doi.acm.org/10.1145/1837210.1837226
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/NovocinSSY15
+  type: paper-conference
+  author:
+  - family: Novocin
+    given: Andrew
+  - family: Saunders
+    given: B. David
+  - family: Stachnik
+    given: Alexander
+  - family: Youse
+    given: Bryan S.
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: 3-ranks for strongly regular graphs
+  container-title: PASCO
+  publisher: ACM
+  page: '101-108'
+  URL: http://doi.acm.org/10.1145/2790282.2790295
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Seitz90
+  type: paper-conference
+  author:
+  - family: Seitz
+    given: Steffen
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Algebraic computing on a local net
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-31'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_2
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/KumuraA10
+  type: paper-conference
+  author:
+  - family: Kumura
+    given: Kinji
+  - family: Anai
+    given: Hirokazu
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Parallel computation of determinants of matrices with polynomial entries
+    for robust control design
+  container-title: PASCO
+  publisher: ACM
+  page: '173-174'
+  URL: http://doi.acm.org/10.1145/1837210.1837237
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Weeks90
+  type: paper-conference
+  author:
+  - family: Weeks
+    given: Dennis
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: Embarrassingly parallel algorithms for algebraic number arithmetic
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '63-70'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_5
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/VerscheldeY15
+  type: paper-conference
+  author:
+  - family: Verschelde
+    given: Jan
+  - family: Yu
+    given: Xiangcheng
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Accelerating polynomial homotopy continuation on a graphics processing unit
+    with double double and quad double arithmetic
+  container-title: PASCO
+  publisher: ACM
+  page: '109-118'
+  URL: http://doi.acm.org/10.1145/2790282.2790294
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Roch90
+  type: paper-conference
+  author:
+  - family: Roch
+    given: Jean-Louis
+  editor:
+  - family: Zippel
+    given: Richard
+  issued:
+  - year: '1990'
+  title: An environment for parallel algebraic computation
+  container-title: CAP
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '33-50'
+  volume: '584'
+  DOI: 10.1007/3-540-55328-2_3
+  ISBN: '3-540-55328-2'
+
+- id: conf/cap/Lam97
+  type: paper-conference
+  author:
+  - family: Lam
+    given: Monica
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Maximizing performance on parallel machines (abstract)
+  container-title: PASCO
+  publisher: ACM
+  page: '129'
+  URL: http://doi.acm.org/10.1145/266670.266712
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/BokuDFS15
+  type: paper-conference
+  author:
+  - family: Boku
+    given: Dereje Kifle
+  - family: Decker
+    given: Wolfram
+  - family: Fieker
+    given: Claus
+  - family: Steenpaß
+    given: Andreas
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Gröbner bases over algebraic number fields
+  container-title: PASCO
+  publisher: ACM
+  page: '16-24'
+  URL: http://doi.acm.org/10.1145/2790282.2790284
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Kunkle10
+  type: paper-conference
+  author:
+  - family: Kunkle
+    given: Daniel
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: 'Roomy: A system for space limited computations'
+  title-short: Roomy
+  container-title: PASCO
+  publisher: ACM
+  page: '22-25'
+  URL: http://doi.acm.org/10.1145/1837210.1837216
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Steel15
+  type: paper-conference
+  author:
+  - family: Steel
+    given: Allan K.
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Direct solution of the (11, 9, 8)-minRank problem by the block wiedemann
+    algorithm in magma with a tesla gPU
+  container-title: PASCO
+  publisher: ACM
+  page: '2-6'
+  URL: http://doi.acm.org/10.1145/2790282.2791392
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/BoyerDG10
+  type: paper-conference
+  author:
+  - family: Boyer
+    given: Brice
+  - family: Dumas
+    given: Jean-Guillaume
+  - family: Giorgi
+    given: Pascal
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Exact sparse matrix-vector multiplication on gPU’s and multicore architectures
+  container-title: PASCO
+  publisher: ACM
+  page: '80-88'
+  URL: http://doi.acm.org/10.1145/1837210.1837224
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/Salem10
+  type: paper-conference
+  author:
+  - family: Salem
+    given: Fatima K. Abu
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Cache-oblivious polygon indecomposability testing
+  container-title: PASCO
+  publisher: ACM
+  page: '150-159'
+  URL: http://doi.acm.org/10.1145/1837210.1837232
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/2015
+  type: book
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Proceedings of the 2015 international workshop on parallel symbolic computation,
+    pASCO 2015, bath, united kingdom, july 10-12, 2015
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2790282
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/MengJ15
+  type: paper-conference
+  author:
+  - family: Meng
+    given: Lingchuan
+  - family: Johnson
+    given: Jeremy R.
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: High performance implementation of the inverse tFT
+  container-title: PASCO
+  publisher: ACM
+  page: '87-94'
+  URL: http://doi.acm.org/10.1145/2790282.2790292
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Bernardin97
+  type: paper-conference
+  author:
+  - family: Bernardin
+    given: Laurent
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Maple on a massively parallel, distributed memory machine
+  container-title: PASCO
+  publisher: ACM
+  page: '217-222'
+  URL: http://doi.acm.org/10.1145/266670.266732
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/2010
+  type: book
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Proceedings of the 4th international workshop on parallel symbolic computation,
+    pASCO 2010, july 21-23, 2010, grenoble, france
+  publisher: ACM
+  ISBN: '978-1-4503-0067-4'
+
+- id: conf/cap/NoroM97
+  type: paper-conference
+  author:
+  - family: Noro
+    given: Masayuki
+  - family: McKay
+    given: John
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Computation of replicable functions on risa/Asir
+  container-title: PASCO
+  publisher: ACM
+  page: '130-138'
+  URL: http://doi.acm.org/10.1145/266670.266713
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/HayakawaIM15
+  type: paper-conference
+  author:
+  - family: Hayakawa
+    given: Hiroki
+  - family: Ishida
+    given: Naoaki
+  - family: Murao
+    given: Hirokazu
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: GPU-acceleration of optimal permutation-puzzle solving
+  container-title: PASCO
+  publisher: ACM
+  page: '61-69'
+  URL: http://doi.acm.org/10.1145/2790282.2790289
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/1997
+  type: book
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Proceedings of the 2nd international workshop on parallel symbolic computation,
+    pASCO 1997, july 20-22, 1997, kihei, hawaii, uSA
+  publisher: ACM
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/OhnoIMNTG97
+  type: paper-conference
+  author:
+  - family: Ohno
+    given: Kazuhiko
+  - family: Ikawa
+    given: Masahiko
+  - family: Mori
+    given: Shin-ichiro
+  - family: Nakashima
+    given: Hiroshi
+  - family: Tomita
+    given: Shinji
+  - family: Goshima
+    given: Masahiro
+  editor:
+  - family: Hong
+    given: Hoon
+  issued:
+  - year: '1997'
+  title: Improvement of message communication in concurrent logic language
+  container-title: PASCO
+  publisher: ACM
+  page: '156-164'
+  URL: http://doi.acm.org/10.1145/266670.266720
+  ISBN: '0-89791-951-3'
+
+- id: conf/cap/GastineauL15
+  type: paper-conference
+  author:
+  - family: Gastineau
+    given: Mickaël
+  - family: Laskar
+    given: Jacques
+  editor:
+  - family: Dumas
+    given: Jean-Guillaume
+  issued:
+  - year: '2015'
+  title: Parallel sparse multivariate polynomial division
+  container-title: PASCO
+  publisher: ACM
+  page: '25-33'
+  URL: http://doi.acm.org/10.1145/2790282.2790285
+  ISBN: '978-1-4503-3599-7'
+
+- id: conf/cap/Lewin-Berlin10
+  type: paper-conference
+  author:
+  - family: Lewin-Berlin
+    given: Stephen
+  editor:
+  - family: Maza
+    given: Marc Moreno
+  issued:
+  - year: '2010'
+  title: Exploiting multicore systems with cilk
+  container-title: PASCO
+  publisher: ACM
+  page: '18-19'
+  URL: http://doi.acm.org/10.1145/1837210.1837214
+  ISBN: '978-1-4503-0067-4'
+...

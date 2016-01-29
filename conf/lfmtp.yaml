@@ -1,0 +1,550 @@
+---
+references:
+- id: conf/lfmtp/Adams09
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Robin Adams
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Coercive subtyping in lambda-free logical frameworks
+  container-title: LFMTP
+  publisher: ACM
+  page: '30-39'
+  URL: http://doi.acm.org/10.1145/1577824.1577830
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/2009
+  type: book
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Proceedings of the fourth international workshop on logical frameworks
+    and meta-languages: Theory and practice, lFMTP ’09, mcGill university, montreal,
+    canada, august 2, 2009'
+  title-short: Proceedings of the fourth international workshop on logical frameworks
+    and meta-languages
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1577824
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/BelangerC14
+  type: paper-conference
+  author:
+  - family: Bélanger
+    given: Olivier Savary
+  - family: Chaudhuri
+    given: Kaustuv
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Automatically deriving schematic theorems for dynamic contexts
+  container-title: LFMTP
+  publisher: ACM
+  page: '9: 1-9: 8'
+  URL: http://doi.acm.org/10.1145/2631172.2631181
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/Brady14
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: 'Idris: Implementing a dependently typed programming language'
+  title-short: Idris
+  container-title: LFMTP
+  publisher: ACM
+  page: '2: 1'
+  URL: http://doi.acm.org/10.1145/2631172.2631174
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/WestbrookSA09
+  type: paper-conference
+  author:
+  - family: Westbrook
+    given: Edwin M.
+  - family: Stump
+    given: Aaron
+  - family: Austin
+    given: Evan
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'The calculus of nominal inductive constructions: An intensional approach
+    to encoding name-bindings'
+  title-short: The calculus of nominal inductive constructions
+  container-title: LFMTP
+  publisher: ACM
+  page: '74-83'
+  URL: http://doi.acm.org/10.1145/1577824.1577836
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/GabbayM09
+  type: paper-conference
+  author:
+  - family: Gabbay
+    given: Murdoch James
+  - family: Mulligan
+    given: Dominic P.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Universal algebra over lambda-terms and nominal terms: The connection
+    in logic between nominal techniques and higher-order variables'
+  title-short: Universal algebra over lambda-terms and nominal terms
+  container-title: LFMTP
+  publisher: ACM
+  page: '64-73'
+  URL: http://doi.acm.org/10.1145/1577824.1577835
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/Honsell13
+  type: paper-conference
+  author:
+  - family: Honsell
+    given: Furio
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: '25 years of formal proof cultures: Some problems, some philosophy, bright
+    future'
+  title-short: 25 years of formal proof cultures
+  container-title: LFMTP
+  publisher: ACM
+  page: '37-42'
+  URL: http://doi.acm.org/10.1145/2503887.2503896
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/CiaffaglioneS14
+  type: paper-conference
+  author:
+  - family: Ciaffaglione
+    given: Alberto
+  - family: Scagnetto
+    given: Ivan
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Internal adequacy of bookkeeping in coq
+  container-title: LFMTP
+  publisher: ACM
+  page: '8: 1-8: 8'
+  URL: http://doi.acm.org/10.1145/2631172.2631180
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/Miller13
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Dale
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: 'Foundational proof certificates: Making proof universal and permanent'
+  title-short: Foundational proof certificates
+  container-title: LFMTP
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/2503887.2503894
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/Cervesato14
+  type: paper-conference
+  author:
+  - family: Cervesato
+    given: Iliano
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Proof-theoretic foundations of indexing in logic programming
+  container-title: LFMTP
+  publisher: ACM
+  page: '7: 1-7: 9'
+  URL: http://doi.acm.org/10.1145/2631172.2631179
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/WangN13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yuting
+  - family: Nadathur
+    given: Gopalan
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: Towards extracting explicit proofs from totality checking in twelf
+  container-title: LFMTP
+  publisher: ACM
+  page: '55-66'
+  URL: http://doi.acm.org/10.1145/2503887.2503893
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/AltenkirchLR14
+  type: paper-conference
+  author:
+  - family: Altenkirch
+    given: Thorsten
+  - family: Li
+    given: Nuo
+  - family: Rypacek
+    given: Ondrej
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Some constructions on ω-groupoids
+  container-title: LFMTP
+  publisher: ACM
+  page: '4: 1-4: 8'
+  URL: http://doi.acm.org/10.1145/2631172.2631176
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/Crary09
+  type: paper-conference
+  author:
+  - family: Crary
+    given: Karl
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: A syntactic account of singleton types via hereditary substitution
+  container-title: LFMTP
+  publisher: ACM
+  page: '21-29'
+  URL: http://doi.acm.org/10.1145/1577824.1577829
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/DoczkalS09
+  type: paper-conference
+  author:
+  - family: Doczkal
+    given: Christian
+  - family: Schwinghammer
+    given: Jan
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: 'Formalizing a strong normalization proof for moggi’s computational metalanguage:
+    A case study in isabelle/HOL-nominal'
+  title-short: Formalizing a strong normalization proof for moggi’s computational
+    metalanguage
+  container-title: LFMTP
+  publisher: ACM
+  page: '57-63'
+  URL: http://doi.acm.org/10.1145/1577824.1577834
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/AnandR14
+  type: paper-conference
+  author:
+  - family: Anand
+    given: Abhishek
+  - family: Rahli
+    given: Vincent
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: A generic approach to proofs about substitution
+  container-title: LFMTP
+  publisher: ACM
+  page: '5: 1-5: 8'
+  URL: http://doi.acm.org/10.1145/2631172.2631177
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/RasmussenF13
+  type: paper-conference
+  author:
+  - family: Rasmussen
+    given: Ulrik
+  - family: Filinski
+    given: Andrzej
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: Structural logical relations with case analysis and equality reasoning
+  container-title: LFMTP
+  publisher: ACM
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/2503887.2503891
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/Brock-Nannestad14
+  type: paper-conference
+  author:
+  - family: Brock-Nannestad
+    given: Taus
+  - family: Guenot
+    given: Nicolas
+  - family: Murawska
+    given: Agata
+  - family: Schürmann
+    given: Carsten
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Hybrid extensions in a logical framework
+  container-title: LFMTP
+  publisher: ACM
+  page: '6: 1-6: 8'
+  URL: http://doi.acm.org/10.1145/2631172.2631178
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/GunterOP09
+  type: paper-conference
+  author:
+  - family: Gunter
+    given: Elsa L.
+  - family: Osborn
+    given: Christopher J.
+  - family: '0001'
+    given: Andrei Popescu
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Theory support for weak higher order abstract syntax in isabelle/HOL
+  container-title: LFMTP
+  publisher: ACM
+  page: '12-20'
+  URL: http://doi.acm.org/10.1145/1577824.1577827
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/Reed09
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Jason Reed
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Higher-order constraint simplification in dependent type theory
+  container-title: LFMTP
+  publisher: ACM
+  page: '49-56'
+  URL: http://doi.acm.org/10.1145/1577824.1577832
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/Bengtson14
+  type: paper-conference
+  author:
+  - family: Bengtson
+    given: Jesper
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: Session types meet separation logic
+  container-title: LFMTP
+  publisher: ACM
+  page: '1: 1'
+  URL: http://doi.acm.org/10.1145/2631172.2631173
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/RabeS09
+  type: paper-conference
+  author:
+  - family: Rabe
+    given: Florian
+  - family: Schürmann
+    given: Carsten
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: A practical module system for lF
+  container-title: LFMTP
+  publisher: ACM
+  page: '40-48'
+  URL: http://doi.acm.org/10.1145/1577824.1577831
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/FarooqueGM13
+  type: paper-conference
+  author:
+  - family: Farooque
+    given: Mahfuza
+  - family: Graham-Lengrand
+    given: Stéphane
+  - family: Mahboubi
+    given: Assia
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: A bisimulation between dPLL(T) and a proof-search strategy for the focused
+    sequent calculus
+  container-title: LFMTP
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/2503887.2503892
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/DoornGW13
+  type: paper-conference
+  author:
+  - family: Doorn
+    given: Floris
+    dropping-particle: van
+  - family: Geuvers
+    given: Herman
+  - family: Wiedijk
+    given: Freek
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: Explicit convertibility proofs in pure type systems
+  container-title: LFMTP
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/2503887.2503890
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/2013
+  type: book
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: 'Proceedings of the eighth aCM sIGPLAN international workshop on logical
+    frameworks & meta-languages: Theory & practice, lFMTP 2013, boston, massachusetts,
+    uSA, september 23, 2013'
+  title-short: Proceedings of the eighth aCM sIGPLAN international workshop on logical
+    frameworks & meta-languages
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2503887
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/2014
+  type: book
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: 'Proceedings of the 2014 international workshop on logical frameworks and
+    meta-languages: Theory and practice, lFMTP ’14, vienna, austria, july 17, 2014'
+  title-short: Proceedings of the 2014 international workshop on logical frameworks
+    and meta-languages
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2631172
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/BurelD09
+  type: paper-conference
+  author:
+  - family: Burel
+    given: Guillaume
+  - family: Dowek
+    given: Gilles
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: How can we prove that a proof search method is not an instance of another?
+  container-title: LFMTP
+  publisher: ACM
+  page: '84-87'
+  URL: http://doi.acm.org/10.1145/1577824.1577838
+  ISBN: '978-1-60558-529-1'
+
+- id: conf/lfmtp/Nadathur14
+  type: paper-conference
+  author:
+  - family: Nadathur
+    given: Gopalan
+  editor:
+  - family: Felty
+    given: Amy P.
+  issued:
+  - year: '2014'
+  title: A framework for the verified transformation of functional programs
+  container-title: LFMTP
+  publisher: ACM
+  page: '3: 1'
+  URL: http://doi.acm.org/10.1145/2631172.2631175
+  ISBN: '978-1-4503-2817-3'
+
+- id: conf/lfmtp/CaveP13
+  type: paper-conference
+  author:
+  - family: Cave
+    given: Andrew
+  - family: Pientka
+    given: Brigitte
+  editor:
+  - family: Momigliano
+    given: Alberto
+  issued:
+  - year: '2013'
+  title: First-class substitutions in contextual type theory
+  container-title: LFMTP
+  publisher: ACM
+  page: '15-24'
+  URL: http://doi.acm.org/10.1145/2503887.2503889
+  ISBN: '978-1-4503-2382-6'
+
+- id: conf/lfmtp/Howe09
+  type: paper-conference
+  author:
+  - family: Howe
+    given: Douglas J.
+  editor:
+  - family: Cheney
+    given: James
+  issued:
+  - year: '2009'
+  title: Higher-order abstract syntax in classical higher-order logic
+  container-title: LFMTP
+  publisher: ACM
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/1577824.1577826
+  ISBN: '978-1-60558-529-1'
+...

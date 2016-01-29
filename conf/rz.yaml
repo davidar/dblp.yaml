@@ -1,0 +1,5082 @@
+---
+references:
+- id: conf/rz/1987
+  type: book
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Organisation und betrieb der verteilten datenverarbeitung, 7. gI-fachgespräch
+    über rechenzentren, münchen, 5.-6. märz 1987, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/KorstS75
+  type: paper-conference
+  author:
+  - family: Korst
+    given: A. J.
+    dropping-particle: van der
+  - family: Schrammel
+    given: P. K.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: System migration and migration tools
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '222-231'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Winkens91
+  type: paper-conference
+  author:
+  - family: Winkens
+    given: Ralf-Peter
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Das datennetz der universität mannheim
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '262-274'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/1980
+  type: book
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Entwicklungstendenzen wissenschaftlicher rechenzentren, kolloquium, göttingen,
+    19.-20. june 1980
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Lohse85
+  type: paper-conference
+  author:
+  - family: Lohse
+    given: Hans-Hinrich
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Ablaufsicherung und abstimmkontrolle von batch-läfen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '182-195'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/WeeseL87
+  type: paper-conference
+  author:
+  - family: Weese
+    given: Eckart
+  - family: Lessing
+    given: Günter
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Die risiko-profil-methode als ganzheitliche sicherheitskonzeption für den
+    eDV-bereich und das unternehmen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '72-82'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Weiss93
+  type: paper-conference
+  author:
+  - family: Weiß
+    given: Dieter
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Verteilte online-informationssysteme
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '276-287'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Wendler81
+  type: paper-conference
+  author:
+  - family: Wendler
+    given: K.
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Möglichkeiten der produktionssteuerung in einer datenfabrik
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '213-228'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Heigert87
+  type: paper-conference
+  author:
+  - family: Heigert
+    given: Johannes
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Das deutsche forschungsnetz - konzept zur integration schneller kommunikationsdienste
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '210-218'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/SellF95
+  type: paper-conference
+  author:
+  - family: Sell
+    given: Wolfgang
+  - family: Fichtel
+    given: Hartmut
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Datenservices an einem höchstleistungsrechenzentrum
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '224-237'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Hermanni91
+  type: paper-conference
+  author:
+  - family: Hermanni
+    given: Steffen
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Einbindung von anwendern in die konzeption, auswahl und einführung von integrierten
+    informationssystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '28-37'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Heim77
+  type: paper-conference
+  author:
+  - family: Heim
+    given: Klaus
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Dezentraler zugriff für dialog- und stapelverarbeitung eines universitätsrechenzentrums
+    mit hilfe eines kleinrechnernetzes
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '99-114'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/HeilbronnerN95
+  type: paper-conference
+  author:
+  - family: Heilbronner
+    given: Stephen
+  - family: Neumair
+    given: Bernhard
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: 'Management mobiler endsysteme: Anforderungen bei der integration in bestehende
+    managementsysteme'
+  title-short: Management mobiler endsysteme
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '117-131'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/RippelJK81
+  type: paper-conference
+  author:
+  - family: Rippel
+    given: G.
+  - family: Jasper
+    given: Erich
+  - family: Kneip
+    given: W.
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Massenspeichersysteme - ein erster schritt auf dem weg zum operateurlosen
+    betrieb
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '177-187'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Luckenbach87
+  type: paper-conference
+  author:
+  - family: Luckenbach
+    given: Thomas
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Auf dem weg zum iSDN? - erfahrungsbericht von der inbetriebnahme/dem betrieb
+    einer pABX (nixdorf dVS 8818) an der tU-berlin
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '184-193'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Page95
+  type: paper-conference
+  author:
+  - family: Page
+    given: Rolf
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Das dV-versorgungskonzept einer ingenieurwissenschaftlichen großforschungseinrichtung
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '49-59'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Mell77
+  type: paper-conference
+  author:
+  - family: Mell
+    given: Wolf-Dieter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Ressourcen-dezentralisierung als alternative für große multiuser-systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '123-126'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Muller85
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Berthold
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Aufgaben und organisation eines benutzerservice-zentrums -erfahrungsbericht
+    eines information centre-
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '83-102'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Haarmann85
+  type: paper-conference
+  author:
+  - family: Haarmann
+    given: Thomas
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Haben hochschulrechenzentren eine zukunft?
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '75-82'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Kiel85
+  type: paper-conference
+  author:
+  - family: Kiel
+    given: Dieter
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Die dezentrale datenverarbeitung -chance oder überforderung der verwaltung
+    -
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '16-29'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Truol85
+  type: paper-conference
+  author:
+  - family: Truöl
+    given: Klaus
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Aufbau eines deutschen forschungsnetzes
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '114-125'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Bartsch89
+  type: paper-conference
+  author:
+  - family: Bartsch
+    given: Michael
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Schlichten statt richten. das schlichtungsverfahren der deutschen gesellschaft
+    für informationstechnik und recht
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '128-140'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Kachel87
+  type: paper-conference
+  author:
+  - family: Kachel
+    given: Ida
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Vorgehensweise bei der rationalisierung und automatisierung eines produktiven
+    dV-betriebs
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '123-139'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/BurkleG81
+  type: paper-conference
+  author:
+  - family: Bürkle
+    given: Martin
+  - family: Gottschewski
+    given: Jürgen
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Organisatorische und technische maßnahmen gleitender rechnerablösung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '200-212'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Pralle81
+  type: paper-conference
+  author:
+  - family: Pralle
+    given: Helmut
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Auswirkungen der organisatorischen und technischen entwicklungstendenzen
+    auf großrechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '166-168'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Schneider95
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Gerhard
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Zentrale sicherung dezentraler daten
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '238-252'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Wolf77
+  type: paper-conference
+  author:
+  - family: Wolf
+    given: F.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Bemerkungen zur rechenbedarfs- und rechenzeitentwicklung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '175-189'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/SchreinerZ95
+  type: paper-conference
+  author:
+  - family: Schreiner
+    given: Günther
+  - family: Zorn
+    given: Werner
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Generic management architecture (gEMA) - ein neuer netzwerkmanagementansatz
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '132-145'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Knopper93
+  type: paper-conference
+  author:
+  - family: Knopper
+    given: Hendrik
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Sind verteilte systeme beherrschbar?
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '49-63'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Sova77
+  type: paper-conference
+  author:
+  - family: Sova
+    given: Oldrich
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Maschinelle zusammenstellung des jobstreams als vorselektion für ein betriebssystem
+    bei multiprogramming (modell cUSEP)
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '38-57'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Brandt87
+  type: paper-conference
+  author:
+  - family: Brandt
+    given: Peter
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Sicherheitseinrichtungen in modernen gPC-betriebssystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '83-100'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Haller75
+  type: paper-conference
+  author:
+  - family: Haller
+    given: V.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Zum betriebsablauf in einem industrie-forschungs-rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '157-164'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Muhlenbein77
+  type: paper-conference
+  author:
+  - family: Mühlenbein
+    given: Heinz
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Ein vorschlag zur leistungsbeschreibung von interaktiven dV-systemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '213-232'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Schwichtenberg89
+  type: paper-conference
+  author:
+  - family: Schwichtenberg
+    given: Günter
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Ist die datenverarbeitung im hochschulbereich noch koordinierbar?
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '20-31'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/HeilerE95
+  type: paper-conference
+  author:
+  - family: Heiler
+    given: Kirsten
+  - family: Ewald
+    given: Karl
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Modellierung von konfigurationsvorgängen für das management von netzkomponenten
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '146-162'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Grieger93
+  type: paper-conference
+  author:
+  - family: Grieger
+    given: Wilfried
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Abrechnungsverfahren auf verteilten systemen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '288-297'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Klett93
+  type: paper-conference
+  author:
+  - family: Klett
+    given: Gerhard
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Sicherheit in client-server-architekturen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '199-205'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Sieg77
+  type: paper-conference
+  author:
+  - family: Sieg
+    given: Hans-Chr.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Konzept für ein diagnose- und gestaltungsinstrumentarium zur rationalisierung
+    von rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '190-200'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Kutz97
+  type: paper-conference
+  author:
+  - family: Kütz
+    given: Martin
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Das rechenzentrum als aktive kraft im business process reengineering
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '36-52'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Gaffal81
+  type: paper-conference
+  author:
+  - family: Gaffal
+    given: Franz
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Automatisierung der hochschulverwaltung in den uSA
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '130-141'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Stoffel87
+  type: paper-conference
+  author:
+  - family: Stoffel
+    given: Clemens
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Erfahrung mit einer kommerziellen anwendung auf einem verteilten unix-system
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-10'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Sellmer93
+  type: paper-conference
+  author:
+  - family: Sellmer
+    given: Uwe
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: RZ-outsourcing in verbindung mit lokalen netzwerk-architekturen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '135-144'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Driessen75
+  type: paper-conference
+  author:
+  - family: Driessen
+    given: L. J.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Performance evaluation by monitoring
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '232-254'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Roithmayr87
+  type: paper-conference
+  author:
+  - family: Roithmayr
+    given: Friedrich
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Das sicherungssystem in informationssystemen - analyse eines security-falls
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '61-71'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Muller83
+  type: paper-conference
+  author:
+  - family: Müller
+    given: G.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Teleservice
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '61-74'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Wendler83
+  type: paper-conference
+  author:
+  - family: Wendler
+    given: K.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Das produktions-informationssystem in einer datenfabrik- dargestellt am beispiel
+    der dATEV
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '130-146'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/BarthelF95
+  type: paper-conference
+  author:
+  - family: Barthel
+    given: Carsten
+  - family: Fink
+    given: Jürgen
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Prozeß- und verfahrenseinführung in dezentralen uNIX-systemen
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '275-286'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Bruch89
+  type: paper-conference
+  author:
+  - family: Bruch
+    given: Bert
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Beherrschbarkeit und grenzen der dezentralen dV
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '15-19'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Wagener80
+  type: paper-conference
+  author:
+  - family: Wagener
+    given: B.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Kompabilitätsprobleme bei editoren in verteilten rechnersystemen
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '14-21'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/BachbauerB81
+  type: paper-conference
+  author:
+  - family: Bachbauer
+    given: Gerd
+  - family: Bodendorf
+    given: Freimut
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Unterstützung der benutzer von statistikpaketen, insbesondere erleichterung
+    der anwendung von sPSS durch eine methodenbankumgebung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '151-165'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Wall80
+  type: paper-conference
+  author:
+  - family: Wall
+    given: Dieter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Zur verteilung der rechnerressourcen auf die anwender
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '37-47'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Jochum83
+  type: paper-conference
+  author:
+  - family: Jochum
+    given: H. G.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Probleme und realisierung eines unbedienten rechenzentrumsBetriebes
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '51-60'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Pfaffenberger75
+  type: paper-conference
+  author:
+  - family: Pfaffenberger
+    given: Hans
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Betriebsablauf in einer rZ-gMBH
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '114-118'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Held80
+  type: paper-conference
+  author:
+  - family: Held
+    given: W.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Kosten und nutzen von rechnernetzen in hochschulen
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '62-85'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Hain87
+  type: paper-conference
+  author:
+  - family: Hain
+    given: Heiz G.
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Rationalisierung im outputmanagement - ein erfahrungsbericht
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '150-157'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Sokolovsky77
+  type: paper-conference
+  author:
+  - family: Sokolovsky
+    given: Z.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Die funktion des datenbank-administrators im eDV-bereich
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '281-295'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Richter93
+  type: paper-conference
+  author:
+  - family: Richter
+    given: Uwe H.
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Open software foundation: Standards für verteilte systemumgebungen'
+  title-short: Open software foundation
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '1-17'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/FelschH81
+  type: paper-conference
+  author:
+  - family: Felsch
+    given: H.
+  - family: Hahn
+    given: R.
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Der einsatz von mikrorechnern im hochschulbereich
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '98-107'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/1993
+  type: book
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Verteilte systeme - organisation und betrieb, proceedings des 10. gI-fachgesprächs
+    über rechenzentren am 16.-17. september 1993 in gießen
+  publisher: Deutscher Universitäts Verlag
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Kirchhoff95
+  type: paper-conference
+  author:
+  - family: Kirchhoff
+    given: Thomas
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Externe wartung von pC-netzwerken
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '201-211'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Roithmayr85
+  type: paper-conference
+  author:
+  - family: Roithmayr
+    given: Friedrich
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Ein vorentscheidungsmodell zur bestimmung des zentralisations- bzw. dezentralisationsgrades
+    für informationssysteme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '45-57'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Holthaus89
+  type: paper-conference
+  author:
+  - family: Holthaus
+    given: R.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Durchführung von wirtschaftlichkeitsbeurteilungen bei neuen informations-
+    und kommunikationstechniken
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '84-103'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/GebhardtRBA91
+  type: paper-conference
+  author:
+  - family: Gebhardt
+    given: Reinhold
+  - family: Roggenbuck
+    given: Stefan
+  - family: Breuning
+    given: R.
+  - family: Ameling
+    given: Walter
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: 'MV/Open: Ein konzeptioneller rahmen für die entwicklung offener anwendungen
+    in verteilten systemen'
+  title-short: MV/Open
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '293-301'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Weck93
+  type: paper-conference
+  author:
+  - family: Weck
+    given: Gerhard
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Sicherheitsprobleme vernetzter uNIX-systeme
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '29-48'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Mertens93
+  type: paper-conference
+  author:
+  - family: Mertens
+    given: Burkhard
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Workstation und rechenzentrum: La belle et la bête'
+  title-short: Workstation und rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '263-275'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Pralle77
+  type: paper-conference
+  author:
+  - family: Pralle
+    given: Helmut
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Strukturprobleme wissenschaftlicher rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '306-310'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Wohr75
+  type: paper-conference
+  author:
+  - family: Wöhr
+    given: P.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Der betrieb von software-testrechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '165-180'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Stehle87
+  type: paper-conference
+  author:
+  - family: Stehle
+    given: Werner
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Erfahrungen bei der glasfaserverkabelung im universitätsbereich
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '201-209'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Henke81
+  type: paper-conference
+  author:
+  - family: Henke
+    given: Heinrich
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Effizienzuntersuchungen amerikanischer hochschulrechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '142-150'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Heib97
+  type: paper-conference
+  author:
+  - family: Heib
+    given: Michael
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Debis-iISMA-integrated information systems management architecture
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '234-248'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/1989
+  type: book
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Organisation der datenverarbeitung, an der schwelle der 90er jahre, 8. gI-fachgespräch
+    über rechenzentren, düsseldorf, 2.-3. märz 1989, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/DanischS93
+  type: paper-conference
+  author:
+  - family: Danisch
+    given: Hadmut
+  - family: Stempel
+    given: Steffen
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Installation und wartung eines homogenen uNIX-netzes
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '115-127'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Brauer80
+  type: paper-conference
+  author:
+  - family: Brauer
+    given: K.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Portabilität numerischer software
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '22-36'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Bayer75
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: G.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Transparenz und flexibilität bei der bedienung des benutzers
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '44-47'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/FeldmannHZ75
+  type: paper-conference
+  author:
+  - family: Feldmann
+    given: Harry
+  - family: Henkelmann
+    given: D.
+  - family: Zöller
+    given: G.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Das programmdokumentationssystem pROGDOK des regionalen rZ der universität
+    hamburg
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '25-27'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Harper97
+  type: paper-conference
+  author:
+  - family: Harper
+    given: Michael J.
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: The role of the network in disaster recovery planning
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '123-131'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/1991
+  type: book
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Organisation und betrieb von informationssystemen, 9. gI-fachgespräch über
+    rechenzentren, dortmund, 14.-15. märz 1991, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Koch87
+  type: paper-conference
+  author:
+  - family: Koch
+    given: Hans
+    dropping-particle: von
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Verteilte transaktionsverarbeitung und verteilte datenbanken - konzepte und
+    produkte
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '40-50'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Ackerschott93
+  type: paper-conference
+  author:
+  - family: Ackerschott
+    given: Harald
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Computer-aided-selling in dezentralisierten vertriebsorganisationen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '64-71'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/BreiholdtK85
+  type: paper-conference
+  author:
+  - family: Breiholdt
+    given: K.
+  - family: Krüger
+    given: J.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Changemanagement der ofDV -systemverwaltung-
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '167-181'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Frick83
+  type: paper-conference
+  author:
+  - family: Frick
+    given: Helmut
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Das campus-netz mEDUSA - erfahrungen und zukünfige entwicklungen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '220-232'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/MunchHO89
+  type: paper-conference
+  author:
+  - family: Münch
+    given: Jochen W.
+  - family: Hofmann
+    given: Lothar
+  - family: Ostermann
+    given: R.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Durchsatzmessungen auf einem breitbandnetz
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '250-262'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Helbig93
+  type: paper-conference
+  author:
+  - family: Helbig
+    given: Christina
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Geschützter teilbereich in einem verteilten system - pilotprojekt der max-planck-gesellschaft
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '188-198'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/FriedrichKS89
+  type: paper-conference
+  author:
+  - family: Friedrich
+    given: Peter
+  - family: Kruse
+    given: Rudolf
+  - family: Struckmann
+    given: Werner
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Das salzgitter-modell - ein beispiel für die zusammenarbeit zwischen hochschule
+    und industrie bei der entwicklung komplexer software-systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '214-222'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/HerzogS91
+  type: paper-conference
+  author:
+  - family: Herzog
+    given: Holger
+  - family: Sünderhaft
+    given: Konrad
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Offene architektur für verteilte heterogene systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '302-311'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/FelschBDEP77
+  type: paper-conference
+  author:
+  - family: Felsch
+    given: H.
+  - family: Bayer
+    given: G.
+  - family: Dirlewanger
+    given: Werner
+  - family: Ebert
+    given: R.
+  - family: Pralle
+    given: Helmut
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Zukünftige entwicklung von rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '154-159'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Niemann93
+  type: paper-conference
+  author:
+  - family: Niemann
+    given: Klaus D.
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Anwendungsentwicklung für client-server-architekturen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '72-80'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Jasper77
+  type: paper-conference
+  author:
+  - family: Jasper
+    given: Erich
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Arbeitsvorbereitung als möglichkeit zur steigerung der effizienz auch im
+    hochschulrechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '13-22'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Pee85
+  type: paper-conference
+  author:
+  - family: Pée
+    given: A.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Netzwerkmanagement -eine herausforderung-
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '142-157'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Burr93
+  type: paper-conference
+  author:
+  - family: Burr
+    given: Barbara
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Integriertes information-management: Der weg von der benutzerberatung
+    zum informations- und kommunikationszentrum'
+  title-short: Integriertes information-management
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '313-323'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Strugalla83
+  type: paper-conference
+  author:
+  - family: Strugalla
+    given: R.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Konzeptionelle überlegungen zum thema messen und tunen in großrechensystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '75-82'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Hammelmann85
+  type: paper-conference
+  author:
+  - family: Hämmelmann
+    given: Gerhard
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Rechenzentrum der zukunft -organisation und betrieb eines bS2000-softwareentwicklungsrechenzentrums
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '207-214'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Wall97
+  type: paper-conference
+  author:
+  - family: Wall
+    given: Friederike
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Prozeßorientiertes controlling der dienstleistungsqualität von rechenzentren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '97-122'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Zeutzius97
+  type: paper-conference
+  author:
+  - family: Zeutzius
+    given: Bernard
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Commercial internet and the need for security
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '132-140'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/MartinLS77
+  type: paper-conference
+  author:
+  - family: Martin
+    given: R.
+  - family: Lortz
+    given: B.
+  - family: Schreiner
+    given: Adolf
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Konfigurierung von dV-anlagen mit hilfe des einsatzes von hardware- und software-monitoren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '233-249'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Beerman89
+  type: paper-conference
+  author:
+  - family: Beerman
+    given: Rainer
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Automatisierung des betriebs von hochleistungsdruckern in einem druckerzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '178-185'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Kohler77
+  type: paper-conference
+  author:
+  - family: Köhler
+    given: W.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Überlegungen zur technisch-organisatorischen zusammenarbeit in einem verbundsystem
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '127-140'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Franke95
+  type: paper-conference
+  author:
+  - family: Franke
+    given: Peter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Organisation und betrieb von dV-versorgungssystemen an fachhochschulen
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '60-73'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Hogrefe75
+  type: paper-conference
+  author:
+  - family: Hogrefe
+    given: H. D.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Die übergabe von informationssystemen in die verantwortung eines rZ
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '20-24'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Warns89
+  type: paper-conference
+  author:
+  - family: Warns
+    given: R.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: RZ-automatisierung mit methoden der 4. generation
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '163-171'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Liesen75
+  type: paper-conference
+  author:
+  - family: Liesen
+    given: Arndt
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Ein begleitpapier zur materialflußsteuerung im rZ
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '28-33'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Schwichtenberg77
+  type: paper-conference
+  author:
+  - family: Schwichtenberg
+    given: Günter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Konzept für eine anlagenunabhängige betriebsstatistik von datenverarbeitungssystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '169-174'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Burkhardt91
+  type: paper-conference
+  author:
+  - family: Burkhardt
+    given: Heinz Jürgen
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Offene systeme - von der normung zur nutzung (hauptvortrag)
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '190-207'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/HossfeldM77
+  type: paper-conference
+  author:
+  - family: Hossfeld
+    given: Friedel
+  - family: Mertens
+    given: Burkhard
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Computing in der großforschung, ziele und struktur des jülicher systems
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '250-267'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Pralle80
+  type: paper-conference
+  author:
+  - family: Pralle
+    given: Helmut
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Aufgaben wissenschaftlicher rechenzentren auf dem gebiet der informationstechnik
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '119-128'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/WolfN95
+  type: paper-conference
+  author:
+  - family: Wolf
+    given: Thomas
+  - family: Noelle
+    given: Peter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Vom rechenzentrum zum zentrum für informations- und kommunikationstechnik
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '21-31'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/RothSV85
+  type: paper-conference
+  author:
+  - family: Roth
+    given: C.
+  - family: Schütt
+    given: Thomas E.
+  - family: Vogel
+    given: P.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Dezentrale rechnerversorgung eines informatikinstituts -ein erfahrungsbericht-
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '30-44'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/DonhauserJ83
+  type: paper-conference
+  author:
+  - family: Donhauser
+    given: Helmuth
+  - family: Jaufmann
+    given: Stefan
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Kapazitätsplanung von rechenzentren mit hilfe analytischer modellierungsverfahren
+    - das modellierungsverfahren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '15-29'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Schreiner77
+  type: paper-conference
+  author:
+  - family: Schreiner
+    given: Adolf
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Das rechenzentrum - eine überholte organisationsform versuch eines resümees
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '163-166'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Hultzsch83
+  type: paper-conference
+  author:
+  - family: Hultzsch
+    given: Hagen
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Aufgaben und lösungswege für die dV in einem forschungszentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '160-175'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Gorres77
+  type: paper-conference
+  author:
+  - family: Görres
+    given: J.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Das rechenzentrum für remotestations-orientierte datenverarbeitung in einem
+    großen industrieunternehmen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '115-122'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/ValtaADJ93
+  type: paper-conference
+  author:
+  - family: Valta
+    given: Robert
+  - family: Apostolescu
+    given: Victor
+  - family: Dreo
+    given: Gabi
+  - family: Jager
+    given: Riaan
+    dropping-particle: de
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Unterstützung der fehlerdiagnose durch ein trouble-ticket-system: Anforderungen,
+    design und einsatzerfahrungen'
+  title-short: Unterstützung der fehlerdiagnose durch ein trouble-ticket-system
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '145-154'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Stahl87
+  type: paper-conference
+  author:
+  - family: Stahl
+    given: Wolfgang
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Anwenderorientierte messungen in verteilten datenverarbeitungssystem
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '182-183'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Mitschke81
+  type: paper-conference
+  author:
+  - family: Mitschke
+    given: H.
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Ablaufkontrolle und installations-management in einem mehrzweckrechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '188-199'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/DeeckeL75
+  type: paper-conference
+  author:
+  - family: Deecke
+    given: G.
+  - family: Lortz
+    given: B.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Leistungsmessung mit hilfe von accounting-daten
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '217-221'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Schukraft83
+  type: paper-conference
+  author:
+  - family: Schukraft
+    given: F.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Probleme und lösungen einer rZ-langfristplanung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-14'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Mickel81
+  type: paper-conference
+  author:
+  - family: Mickel
+    given: Klaus-Peter
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Ein algorithmus zur ermittlung der kostengünstigsten anzahl von bildschirmgeräten
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '64-73'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Windfuhr75
+  type: paper-conference
+  author:
+  - family: Windfuhr
+    given: Manfred
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: RZ - ein produktionsbetrieb
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-19'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/BeutelspacherR89
+  type: paper-conference
+  author:
+  - family: Beutelspacher
+    given: Albrecht
+  - family: Rosenbaum
+    given: Ute
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Sicherer zugang zu betriebssystemen mit der chip-karte
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '186-193'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Graef75
+  type: paper-conference
+  author:
+  - family: Graef
+    given: Martin A.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Strukturelle veränderungen im rZ bei einbeziehung von fernverarbeitung und
+    rechnerverbund
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '57-63'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/1977
+  type: book
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1978'
+  title: Organisation von rechenzentren, fachgespräch der gI, göttingen, 11./12. oktober
+    1977, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Gerhards91
+  type: paper-conference
+  author:
+  - family: Gerhards
+    given: Michael
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Technische und organisatorische integration heterogener hardware- und softwarekomponenten
+    in einem einheitlichen informations-sicherheitssystem
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '127-134'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Kastenmuller97
+  type: paper-conference
+  author:
+  - family: Kastenmüller
+    given: Simon
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Die bedeutung des sNMP für das system-management heterogener systeme
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '189-215'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Herlet89
+  type: paper-conference
+  author:
+  - family: Herlet
+    given: J.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Die rolle des hierarchischen speicher-management bei modernen betriebssystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '104-112'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Wagener91
+  type: paper-conference
+  author:
+  - family: Wagener
+    given: Günter
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Rationeller austausch von geschäftsdaten in der konsumgüterwirtschaft
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '326-333'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Puchan91
+  type: paper-conference
+  author:
+  - family: Puchan
+    given: Jörg
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Strategische planung von informationssystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '85-95'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/SengerS77
+  type: paper-conference
+  author:
+  - family: Senger
+    given: R.
+  - family: Seibt
+    given: Dietrich
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Software für das rechenzentrum - analyse des bedarfs und angebots
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '81-96'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Hertweck80
+  type: paper-conference
+  author:
+  - family: Hertweck
+    given: Friedrich
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Terminalsysteme für wissenschaftliche anwender - schlußfolgerungen aus den
+    erfahrungen mit aMOS
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '86-101'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Kiel81
+  type: paper-conference
+  author:
+  - family: Kiel
+    given: Dieter
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Eckwerte für leistungsmessung und kapazitätsplanung - absichten in niedersachsen
+    -
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '40-51'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Horster93
+  type: paper-conference
+  author:
+  - family: Horster
+    given: Patrick
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Ein sicherheitskonzept für verteilte systeme
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '224-236'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Achilles87
+  type: paper-conference
+  author:
+  - family: Achilles
+    given: Albrecht
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Einsatz von datenbanken im universitären bereich
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '51-60'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/1975
+  type: book
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1976'
+  title: Betrieb von rechenzentren, workshop der gI, karlsruhe, 23./24. september
+    1975, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Werner87
+  type: paper-conference
+  author:
+  - family: Werner
+    given: Günter
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: IM - erfahrung bei der hypobank aG - stand und planung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '158-168'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Krafft87
+  type: paper-conference
+  author:
+  - family: Krafft
+    given: Volkmar
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Massnahmen zur rZ-automatisierung und rationalisierung bei dATEV
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '140-149'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Schwab81
+  type: paper-conference
+  author:
+  - family: Schwab
+    given: J.
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Vorgehensweise bei erstellung eines katastrophenplanes für rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '26-39'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Stadler93
+  type: paper-conference
+  author:
+  - family: Stadler
+    given: Wolfgang
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Einführung verteilter systeme in einem unternehmen der markenartikelindustrie
+    - organisatorische konsequenzen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '128-134'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Rothenwaldt95
+  type: paper-conference
+  author:
+  - family: Rothenwaldt
+    given: Torsten
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Desastertolerante verteilte systeme
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '98-116'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/SeilerH89
+  type: paper-conference
+  author:
+  - family: Seiler
+    given: H.
+  - family: Haas
+    given: H.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Netzdokumentationssysteme - realisierungsstand und erfahrungen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '239-249'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Gotze85
+  type: paper-conference
+  author:
+  - family: Götze
+    given: W.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Praktische back-up-lösungen zur sicherung der kontinuität der datenverarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '229-244'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/BurkleG83
+  type: paper-conference
+  author:
+  - family: Bürkle
+    given: Martin
+  - family: Gottschewski
+    given: Jürgen
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: DV - zentrale ohne hardware? Konzepte für eine zukunftsweisende dV - struktur
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '273-307'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Kiel77
+  type: paper-conference
+  author:
+  - family: Kiel
+    given: Dieter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Einfluß und ausmaß der forderung nach wirtschaftlichkeit in der organisation
+    von rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '201-212'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Haupt80
+  type: paper-conference
+  author:
+  - family: Haupt
+    given: Dieter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Zukünftige entwicklung der rechnerversorgung an hochschulen
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '146-163'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Peischl75
+  type: paper-conference
+  author:
+  - family: Peischl
+    given: Ferdinand
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Rechnerplanung im münchener hochschulbereich
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '48-56'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Filipp91
+  type: paper-conference
+  author:
+  - family: Filipp
+    given: Helmut
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: 'ASK-sISY: Ein multilinguales software-informationssystem'
+  title-short: ASK-sISY
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '22-27'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Kopke91
+  type: paper-conference
+  author:
+  - family: Köpke
+    given: Martin
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Verteilte datensicherung bei der dr. materna gmbH oder wie man ein lokales
+    netz effizient sichert
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '155-166'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Nilgens87
+  type: paper-conference
+  author:
+  - family: Nilgens
+    given: Michael
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Datensicherung beim pC
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '119-122'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Trampedach75
+  type: paper-conference
+  author:
+  - family: Trampedach
+    given: Kurt
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Probleme und methoden der ablaufplanung im rZ
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '119-127'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Renz93
+  type: paper-conference
+  author:
+  - family: Renz
+    given: Robert
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Rightsizing mit sun: Eine heterogene client-server-umgebung am beispiel
+    des neuen münchener flughafens mUC iI'
+  title-short: Rightsizing mit sun
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '306-312'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/MiggeN95
+  type: paper-conference
+  author:
+  - family: Migge
+    given: Armin
+  - family: Nietschke
+    given: Norbert
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Programm-einsatz-verfahren (pEV) in einer heterogenen systemwelt
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '321-339'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Pressmar95
+  type: paper-conference
+  author:
+  - family: Preßmar
+    given: Dieter B.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Ein portables softwaresystem zur kostenverrechnung in rechenzentren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '310-320'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/1983
+  type: book
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Betrieb von dV-systemen in der zukunft, 5. gI-fachgespräch über rechenzentren,
+    tübingen, 17.-18. märz 1983, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Hieke89
+  type: paper-conference
+  author:
+  - family: Hieke
+    given: D.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: 'Benutzer-datenverarbeitung: Ohne konzept?'
+  title-short: Benutzer-datenverarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '32-45'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Grund77
+  type: paper-conference
+  author:
+  - family: Grund
+    given: 'E.'
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Teilnehmerbetrieb in 3 schichten
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '275-280'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Michels93
+  type: paper-conference
+  author:
+  - family: Michels
+    given: Hartmut
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Einsatz zentraler massenspeichersysteme zur automatischen datenverwaltung
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '176-187'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Schreiner80
+  type: paper-conference
+  author:
+  - family: Schreiner
+    given: Adolf
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Empirische untersuchungen über das nachfrageprofil für eDV-leistungen an
+    universitäten
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '137-145'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Kastenmuller89
+  type: paper-conference
+  author:
+  - family: Kastenmüller
+    given: Simon
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Vom rechenzentrum zum kommunikations- und informationszentrum - betrieb von
+    informationssystemen in den 90er jahren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '56-83'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Neidhardt97
+  type: paper-conference
+  author:
+  - family: Neidhardt
+    given: Dietmar
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Plattformübergreifendes drucken
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '160-188'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Garbe91
+  type: paper-conference
+  author:
+  - family: Garbe
+    given: Klaus
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Netzmanagement in heterogenen systemen - status quo und tendenzen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '208-216'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Sternberger83
+  type: paper-conference
+  author:
+  - family: Sternberger
+    given: Klaus
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Bildschirmtext-rechnerverbund im ausbildungsbereich der fernuniversität
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '261-272'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/SwalveBBG95
+  type: paper-conference
+  author:
+  - family: Swalve
+    given: Hermann
+  - family: Bruns
+    given: Erich
+  - family: Brandt
+    given: Horst
+  - family: Glodek
+    given: Peter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Die rolle des anwenders aus der sicht eines naturwissenschaftlichen universitätsinstitutes
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '253-262'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Otto97
+  type: paper-conference
+  author:
+  - family: Otto
+    given: Thomas
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Theoretische spezifika der kostenrechnung in dV-kompetenzzentren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '53-81'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Windfuhr77
+  type: paper-conference
+  author:
+  - family: Windfuhr
+    given: Manfred
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Organisation und führung großer datenbestände
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '23-37'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/BittmannHL85
+  type: paper-conference
+  author:
+  - family: Bittmann
+    given: Peter
+  - family: Hegering
+    given: Heinz-Gerd
+  - family: Lohrmann
+    given: J.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Entscheidungskriterien für den einsatz und die auswahl von dezentralen arbeitsplatzsystemen
+    in hochschulumgebung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '58-74'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Wollschlager93
+  type: paper-conference
+  author:
+  - family: Wollschläger
+    given: Lothar
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Zentrale datensicherung bei dezentraler datenhaltung
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '155-165'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Turowski95
+  type: paper-conference
+  author:
+  - family: Turowski
+    given: Stefan
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Unterstützung dezentraler workstation-cluster durch zentrale dienste
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '263-274'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/BrunnsteinF89
+  type: paper-conference
+  author:
+  - family: Brunnstein
+    given: Klaus
+  - family: Fischer-Hübner
+    given: Simone
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Risikoanalyse verteilter und vernetzter systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-14'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Koke87
+  type: paper-conference
+  author:
+  - family: Koke
+    given: Hartmut
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Einsatz von vAX-systemen als server in lokalen pC-netzwerken - erfahrungen
+    bei aufbau und betrieb von iBM pC- und iBM token-ring netzwerken im verbund mit
+    vAX-rechnersystemen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '194-200'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/CordesL91
+  type: paper-conference
+  author:
+  - family: Cordes
+    given: Ralf
+  - family: Leicher
+    given: G.
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: OSI-standards zur unterstützung für den transfer multimedialer informationen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '285-292'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Friedel97
+  type: paper-conference
+  author:
+  - family: Friedel
+    given: Torsten
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: 'Leistungen innovativer rechenzentren: Tagesaktuelle informationen für
+    hotline, telefonanlage und telefonbuch'
+  title-short: Leistungen innovativer rechenzentren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '27-35'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Volkmer91
+  type: paper-conference
+  author:
+  - family: Volkmer
+    given: Peter
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: RSA basierte sicherheitsdienste für die kommunikationstechnik
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '249-261'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Dedie83
+  type: paper-conference
+  author:
+  - family: Dedié
+    given: G.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Last- und systemregelung im bS 2000
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '40-50'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Graef83
+  type: paper-conference
+  author:
+  - family: Graef
+    given: Martin A.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Das rechenzentrums-personal der zukunft
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '334-341'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Anders95
+  type: paper-conference
+  author:
+  - family: Anders
+    given: Stefan
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: /Sw - software-installation und -verteilung in einem heterogenen uNIX-netz
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '340-350'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/BottgerF93
+  type: paper-conference
+  author:
+  - family: Böttger
+    given: Manfred
+  - family: Fox
+    given: Dirk
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: SECUVISOR - ein technisches schutzkonzept für lokale netzwerke
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '248-262'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Henze95
+  type: paper-conference
+  author:
+  - family: Henze
+    given: Rolf
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Zentrum für kommunikation und informationsverarbeitung anspruch, wirklichkeit
+    und ausblick
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '3-20'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/GottschickNT93
+  type: paper-conference
+  author:
+  - family: Gottschick
+    given: Jan
+  - family: Nentwig
+    given: Lutz
+  - family: Timmermann
+    given: Malte
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: ICOMA - ein werkzeug für ein integriertes konfigurationsmanagement
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '81-93'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Hohmann85
+  type: paper-conference
+  author:
+  - family: Hohmann
+    given: H. D.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Rechnerunterstützte planung und steuerung des produktionsablaufes in der
+    stapelverarbeitung mit dem programmsystem oPC
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '196-198'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Lebrecht91
+  type: paper-conference
+  author:
+  - family: Lebrecht
+    given: Alf
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Die anwendung des cIM-konzeptes auf den dV-betrieb, dargestellt am beispiel
+    der produktionsplanung und -steuerung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '167-189'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Schliffer81
+  type: paper-conference
+  author:
+  - family: Schliffer
+    given: Wolfgang
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Datensicherungsmaßnahmen und objektschutz in einem zentralen rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '10-25'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Ilten87
+  type: paper-conference
+  author:
+  - family: Ilten
+    given: David F.
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Beispiele für moderne benutzerumgebungen durch verteilte datenverarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '11-18'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/WittenburgP95
+  type: paper-conference
+  author:
+  - family: Wittenburg
+    given: Peter
+  - family: Plesser
+    given: Theo
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: WWW-server/Browser als informationsdrehscheibe im lokalen netzwerk
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '163-176'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Bauknecht81
+  type: paper-conference
+  author:
+  - family: Bauknecht
+    given: Kurt
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Dezentralisierung in universitätsrechenzentren - gründe, schritte und erfahrungen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '74-87'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Hampe93
+  type: paper-conference
+  author:
+  - family: Hampe
+    given: J. Felix
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: 'Software-maintenance in lAN-/wAN-umgebungen: Probleme und lösungsansätze'
+  title-short: Software-maintenance in lAN-/wAN-umgebungen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '18-28'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Muhlen89
+  type: paper-conference
+  author:
+  - family: Mühlen
+    given: Rainer A. H.
+    dropping-particle: von zur
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Flächenentwicklung von rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '231-238'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Krcmar91
+  type: paper-conference
+  author:
+  - family: Krcmar
+    given: Helmut
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Das aufgabenspektrum im informationsmanagement - ein meinungsbild in deutschen
+    unternehmen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '44-61'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/BauspiessHS93
+  type: paper-conference
+  author:
+  - family: Bauspieß
+    given: Fritz
+  - family: Horster
+    given: Patrick
+  - family: Stempel
+    given: Steffen
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Sicherheit durch netzwerktrennung
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '206-223'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/MunchHFKWE91
+  type: paper-conference
+  author:
+  - family: Münch
+    given: Jochen W.
+  - family: Hofmann
+    given: Lothar
+  - family: Fischer
+    given: Günther
+  - family: Köhler
+    given: Klaus
+  - family: Weller
+    given: Jörg
+  - family: Emmerich
+    given: Lutz
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Organisatorische anforderungen an ein netzmanagementsystem zur verwaltung
+    heterogener netze
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '217-242'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Steinle91
+  type: paper-conference
+  author:
+  - family: Steinle
+    given: Dieter
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Kriterien für konzeption und betrieb von unternehmensweiten netzen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '243-248'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Eckert91
+  type: paper-conference
+  author:
+  - family: Eckert
+    given: Harald
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: 'Einsatz und wartung eines wissensbasierten benutzerführungssystems am
+    rechenzentrum: Erfahrungen und problematik aus sicht des informationsmanagements'
+  title-short: Einsatz und wartung eines wissensbasierten benutzerführungssystems
+    am rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '106-116'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Zorn75
+  type: paper-conference
+  author:
+  - family: Zorn
+    given: Werner
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Systemoptimierung mit hilfe von synthetischen belastungsprofilen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '255-269'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/SzyperskiK91
+  type: paper-conference
+  author:
+  - family: Szyperski
+    given: Norbert
+  - family: Kronen
+    given: Juliane
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Informationstechnik- und unternehmensstrategie im wechselspiel - outsourcing
+    und strategische allianzen als wichtige alternativen (hauptvortrag)
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-21'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Lehner91
+  type: paper-conference
+  author:
+  - family: Lehner
+    given: Franz
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Softwarewartung als organisations- und managementaufgabe - probleme, empirische
+    befunde und lösungsvorschläge -
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '62-84'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Graef80
+  type: paper-conference
+  author:
+  - family: Graef
+    given: Martin A.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Bewertbarkeit der dienstleistungen des rechenzentrums
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '48-61'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/HennrichSW83
+  type: paper-conference
+  author:
+  - family: Hennrich
+    given: H.-J.
+  - family: Spengler
+    given: N.
+  - family: Wrobel
+    given: H.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: File access monitor system in cMS
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '83-95'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/WaskovY83
+  type: paper-conference
+  author:
+  - family: Waskov
+    given: S. T.
+  - family: Yeryomin
+    given: Yu. I.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Systems of measure for evaluation of computer centre performance as a tool
+    for its management
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '96-109'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Kredel91
+  type: paper-conference
+  author:
+  - family: Kredel
+    given: Lutz
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Outsourcing - strategie-variante für verteilte systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '38-43'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Hammer93
+  type: paper-conference
+  author:
+  - family: Hammer
+    given: Klaus
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Wissenschaftliche datenkommunikation an der tU “otto von guericke” magdeburg
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '298-305'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Wall95
+  type: paper-conference
+  author:
+  - family: Wall
+    given: Friederike
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: “Organizational fit” der dV-organisation gestaltungsempfehlungen und planungsverfahren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '32-48'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Kreutz89
+  type: paper-conference
+  author:
+  - family: Kreutz
+    given: Hartwig
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Sicherheit in öffentlichen netzen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '194-204'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Trefz83
+  type: paper-conference
+  author:
+  - family: Trefz
+    given: Wolfgang
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Anforderungen an das rechenzentrum der zukunft
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '308-333'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Grieger95
+  type: paper-conference
+  author:
+  - family: Grieger
+    given: Wilfried
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Integration eines systems zur abrechnung personeller dienste in ein abrechnungssystem
+    maschineller leistungen
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '300-309'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Zahrnt89
+  type: paper-conference
+  author:
+  - family: Zahrnt
+    given: Christoph
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Überlassung von standardprogrammen - was darf der anwender tun?
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '150-162'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Bergmann97
+  type: paper-conference
+  author:
+  - family: Bergmann
+    given: Helmut
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Das iBM megazentrum - eine europäische konsolidierung
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '141-147'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Wichmann75
+  type: paper-conference
+  author:
+  - family: Wichmann
+    given: A.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Einsatz von timesharing systemen als arbeitsmittel in der arbeitsvorbereitung
+    eines rZ
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '128-156'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Rademacher97
+  type: paper-conference
+  author:
+  - family: Rademacher
+    given: Malte
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Die neue rolle von speichersystemen im iT-service-zentrum
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '148-159'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/NastanskiH85
+  type: paper-conference
+  author:
+  - family: Nastanski
+    given: Ludwig
+  - family: Hildebrandt
+    given: Bernhard
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Integration von verteilten pC-workstations in die organisation und den betrieb
+    der informationsverarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-15'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Bayer80
+  type: paper-conference
+  author:
+  - family: Bayer
+    given: G.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Die textverarbeitung und das hochschulrechenzentrum
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '129-136'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Sass83
+  type: paper-conference
+  author:
+  - family: Sass
+    given: P.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Bildschirmtext und rechenverbund
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '246-260'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Schwichtenberg95
+  type: paper-conference
+  author:
+  - family: Schwichtenberg
+    given: Günter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: 'Rechner, netze, experten: Die ständige migration'
+  title-short: Rechner, netze, experten
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '351-369'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Baetke89
+  type: paper-conference
+  author:
+  - family: Baetke
+    given: Frank
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: ASAP - ein neues verfahren zur ausführung parallelisierbarer programme in
+    durchsatzorientierten umgebungen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '113-127'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/WittenburgB95
+  type: paper-conference
+  author:
+  - family: Wittenburg
+    given: Peter
+  - family: Broeder
+    given: Daan
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Die explosion der datenmengen und ihre handlung in wissenschaftlichen instituten
+    unter der berücksichtigung der forderung nach isochroner präsentation
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '212-223'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Thoma81
+  type: paper-conference
+  author:
+  - family: Thoma
+    given: Helmut
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Zur qualitätssicherung in rechenzentren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '229-242'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Billing80
+  type: paper-conference
+  author:
+  - family: Billing
+    given: Heinz
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Die göttinger rechenmaschinen g1, g2, g3
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-13'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Beierle89
+  type: paper-conference
+  author:
+  - family: Beierle
+    given: Martin
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Sicherheit in uNIX
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '205-213'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Sippel97
+  type: paper-conference
+  author:
+  - family: Sippel
+    given: Reinhard
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Systemmanagement in verteilten dV-umgebungen
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '216-233'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Wall77
+  type: paper-conference
+  author:
+  - family: Wall
+    given: Dieter
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Organisatorische merkmale des produktionsbetriebes rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '3-10'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Haberkamm75
+  type: paper-conference
+  author:
+  - family: Haberkamm
+    given: Gerd
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Die kostenrechnung der dV unter berücksichtigung des job-accounting
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '181-206'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Luttermann77
+  type: paper-conference
+  author:
+  - family: Luttermann
+    given: Hermann
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Der service des rechenzentrums und der gesamtablauf der eDV-projekte der
+    benutzer
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '296-305'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Rameil91
+  type: paper-conference
+  author:
+  - family: Rameil
+    given: Wolfgang
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Das information-center als teil des informationsmanagements im unternehmen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '96-105'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Rackles75
+  type: paper-conference
+  author:
+  - family: Rackles
+    given: R.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Der betriebsablauf in einem konzern-rZ
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '73-104'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Koreimann77
+  type: paper-conference
+  author:
+  - family: Koreimann
+    given: D. S.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Change management - organisation und steuerung von änderungsanforderungen
+    an das rechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '58-80'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Peter95
+  type: paper-conference
+  author:
+  - family: Peter
+    given: Gerhard
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Zusammenarbeit rechenzentrum hochschulverwaltung
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '74-82'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Pasedach77
+  type: paper-conference
+  author:
+  - family: Pasedach
+    given: Klaus
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Aufgaben und organisation des rechenzentrums in der industriellen forschung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '268-274'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/Czap91
+  type: paper-conference
+  author:
+  - family: Czap
+    given: Hans
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Kommunikation dezentraler betrieblicher anwendungen (hauptvortrag)
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '275-284'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Hoffmann83
+  type: paper-conference
+  author:
+  - family: Hoffmann
+    given: Geerd-R.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Die entwicklung der rechnerkonfiguation im eZMW
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '176-186'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Haas91
+  type: paper-conference
+  author:
+  - family: Haas
+    given: Ingbert
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Verteilung von sicherheitsfunktionen in datennetzen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '135-146'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Hartmann87
+  type: paper-conference
+  author:
+  - family: Hartmann
+    given: Gerg
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Information center bei iBM deutschland gmbH - erfahrungsbericht
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '33-39'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Hessling91
+  type: paper-conference
+  author:
+  - family: Heßling
+    given: Reinhold
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: 24-stunden-dialog-betrieb für eine iMS-datenbank-anwendung in einem industriellen
+    großrechenzentrum
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '147-154'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Hattrup89
+  type: paper-conference
+  author:
+  - family: Hattrup
+    given: N.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Bewertung der analytischen modellbindung für performance-überwachung und
+    kapazitätsplanung aus praxissicht
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '223-230'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Gruber75
+  type: paper-conference
+  author:
+  - family: Gruber
+    given: Klaus-Peter
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Weiterbelastung von rZ-kosten
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '207-216'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/1995
+  type: book
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Organisation und betrieb von dV-versorungssystemen, vorträge der 11. gI-fachtagung
+    über rechenzentren am 30. november und 1. dezember 1995 in göttingen
+  publisher: Deutscher Universitäts Verlag
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Knauer81
+  type: paper-conference
+  author:
+  - family: Knauer
+    given: Bernd
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Einsatz von mikrorechnern bei der laborautomatisierung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '108-115'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Hoffmeister87
+  type: paper-conference
+  author:
+  - family: Hoffmeister
+    given: Frank
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Ein ansatz zur abwehr von computerviren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '101-110'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Hahn85
+  type: paper-conference
+  author:
+  - family: Hahn
+    given: F.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Integrierte dienste zum netzmanagement - definition - konzepte - lösungen
+    -
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '126-141'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Schriefer81
+  type: paper-conference
+  author:
+  - family: Schriefer
+    given: Dirk
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Leistungsbewertungsstrategie für timesharing-systeme
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '52-63'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Will85
+  type: paper-conference
+  author:
+  - family: Will
+    given: H.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: 'AVAS: Ein auftragsverwaltungs- und -abwicklungssystem für das betriebssystem
+    bS2000'
+  title-short: AVAS
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '199-206'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Kortmann89
+  type: paper-conference
+  author:
+  - family: Kortmann
+    given: Richard
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Volltextsuche bei der benutzerberatung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '172-177'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Schafer91
+  type: paper-conference
+  author:
+  - family: Schäfer
+    given: Georg
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: Landessystemkonzept baden-württemberg - vereinheitlichung der kommunikation,
+    rechenzentren und datenhaltung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '312-325'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/FreudenthalerK87
+  type: paper-conference
+  author:
+  - family: Freudenthaler
+    given: Kurt
+  - family: Kessenauer
+    given: Horst
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: Entwicklung der zentralen und dezentralen datenverarbeitung im technisch-wissenschaftlichen
+    bereich eines unternehmens des großanlagenbaues
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '19-32'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Bohm85
+  type: paper-conference
+  author:
+  - family: Böhm
+    given: K.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Probleme des datenschutzes und der datensicherheit im information center-konzept
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '103-113'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Zilahi-Szabo83
+  type: paper-conference
+  author:
+  - family: Zilahi-Szabó
+    given: Miklós Géza
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Dienstleistungsabrechnung bei zentraler und dezentraler verarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '147-159'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Kastenmuller85
+  type: paper-conference
+  author:
+  - family: Kastenmüller
+    given: Simon
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Sicherheit der datenverarbeitung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '215-228'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Grund81
+  type: paper-conference
+  author:
+  - family: Grund
+    given: 'E.'
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Vom operateur zum qualifizierten eDV-mitarbeiter
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '169-176'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/1981
+  type: book
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Organisation und betrieb von rechenzentren, fachgespräch der gI, erlangen,
+    12./13. märz 1981, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Pohl75
+  type: paper-conference
+  author:
+  - family: Pohl
+    given: H.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Zur beurteilung der verfügbarkeit von rechensystemen und die absicherung
+    im wartungsvertrag
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '34-43'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Roithmayr83
+  type: paper-conference
+  author:
+  - family: Roithmayr
+    given: Friedrich
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Zukünftige aufgaben und organisationsformen von universitäts-rechenzentren
+    im blick auf die technische entwicklung bei steigender resourcennachfrage und
+    weiteren haushaltskürzungen
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '278-219'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Dirlewanger81
+  type: paper-conference
+  author:
+  - family: Dirlewanger
+    given: Werner
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Integration von funktionen betrieblicher rechenzentren in den technisch-wissenschaftlichen
+    rechenbetrieb
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '116-129'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/ChristmannS97
+  type: paper-conference
+  author:
+  - family: Christmann
+    given: Andreas
+  - family: Schwichtenberg
+    given: Günter
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: KIT200x - eine expertenumfrage über die zukunft der kommunikations- und informationstechnik
+    jenseits der jahrtausendwende
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '1-26'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Sporri83
+  type: paper-conference
+  author:
+  - family: Spörri
+    given: W.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Planung und realisierung eines neuen rechenzentrums
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '118-129'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Hoffmann89
+  type: paper-conference
+  author:
+  - family: Hoffmann
+    given: Geerd-R.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: ECFILE-datenhaltung in einem verteilten rechensystem
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '46-55'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/1985
+  type: book
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Organisation und betrieb der informationsverarbeitung, 6. gI-fachgespräch
+    über rechenzentren, kassel, 21./22. märz 1985, proceedings
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Grieger97
+  type: paper-conference
+  author:
+  - family: Grieger
+    given: Wilfried
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Empirische ergebnisse der kostenrechnung in einem dV-kompetenzzentrum
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Hüthig Verlag
+  page: '82-96'
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Sova81
+  type: paper-conference
+  author:
+  - family: Sova
+    given: Oldrich
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Computergestützte dokumentation des datenschutzbeauftragten
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '1-9'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+
+- id: conf/rz/Hoffmann85
+  type: paper-conference
+  author:
+  - family: Hoffmann
+    given: Geerd-R.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Supercomputer als mehrprozessoranlage -erfahrungen und ergebnisse-
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '245-259'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Siebert75
+  type: paper-conference
+  author:
+  - family: Siebert
+    given: Hermann J.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Interaktive datenverarbeitung im bereich entwicklung und forschung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '64-72'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Nagel95
+  type: paper-conference
+  author:
+  - family: Nagel
+    given: Wolfgang E.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Effektive nutzung von parallelrechnern in rechenzentrumsumgebungen
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '189-200'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Hildebrand80
+  type: paper-conference
+  author:
+  - family: Hildebrand
+    given: Th.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1980'
+  title: Offene kommunikationssysteme - eine chance für einheitlichen zugang zu rechenzentren
+  container-title: Entwicklungstendenzen wissenschaftlicher rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '102-118'
+  volume: '37'
+  ISBN: '3-540-10491-7'
+
+- id: conf/rz/Nauroth89
+  type: paper-conference
+  author:
+  - family: Nauroth
+    given: Dieter M.
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Versagt der rechtsschutz für computerprogramme? Zur bedeutung des urheberrechtsschutzes
+    für dV-verträge
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '141-149'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Urbas77
+  type: paper-conference
+  author:
+  - family: Urbas
+    given: Werner
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1977'
+  title: Einsatz von kleinrechnern in den verwaltungen der max-planck-institute
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '141-153'
+  volume: '15'
+  ISBN: '3-540-08878-4'
+
+- id: conf/rz/GurichHP91
+  type: paper-conference
+  author:
+  - family: Gürich
+    given: Wolfgang
+  - family: Homberg
+    given: Willi
+  - family: Peters
+    given: Helge
+  editor:
+  - family: Schwichtenberg
+    given: Günter
+  issued:
+  - year: '1991'
+  title: 'Rechnergestütztes problem-management: Aufgaben und funktionen in einer
+    heterogenen dV-umgebung'
+  title-short: Rechnergestütztes problem-management
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '117-126'
+  volume: '279'
+  ISBN: '3-540-54250-7'
+
+- id: conf/rz/Kiel83
+  type: paper-conference
+  author:
+  - family: Kiel
+    given: Dieter
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Das medizinische rechenzentrum in gegenwart und zukunft
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '187-206'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Heinz83
+  type: paper-conference
+  author:
+  - family: Heinz
+    given: R.
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Rechenzentren, raumplanung und gebäudetechnik, entwicklungstendenzen für
+    die nächsten jahren
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '110-117'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Schwiderski75
+  type: paper-conference
+  author:
+  - family: Schwiderski
+    given: G.
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Betriebsablauf in einem prozeßrechenzentrum der eisen- und stahlindustrie
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '105-113'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/Heihoff93
+  type: paper-conference
+  author:
+  - family: Heihoff
+    given: K.
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Storage-management-lösungen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '166-175'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Kraft87
+  type: paper-conference
+  author:
+  - family: Kraft
+    given: Detlev
+  editor:
+  - family: Peischl
+    given: Ferdinand
+  issued:
+  - year: '1987'
+  title: IBIS - intelligente betriebsüberwachung mit integrierter systemsteuerung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '169-181'
+  volume: '134'
+  ISBN: 3-540-17222-X
+
+- id: conf/rz/Wagner85
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: F.
+  editor:
+  - family: Dirlewanger
+    given: Werner
+  issued:
+  - year: '1985'
+  title: Automatisierung des rechenzentrumsbetriebes
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '158-166'
+  volume: '96'
+  ISBN: '3-540-15207-5'
+
+- id: conf/rz/Spaniol89
+  type: paper-conference
+  author:
+  - family: Spaniol
+    given: Otto
+  editor:
+  - family: Knop
+    given: Jan
+    dropping-particle: von
+  issued:
+  - year: '1989'
+  title: Hochgeschwindigkeitsnetze
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '263-276'
+  volume: '207'
+  ISBN: '3-540-51030-3'
+
+- id: conf/rz/Docter93
+  type: paper-conference
+  author:
+  - family: Docter
+    given: Jutta
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Integration eines massiv-parallelen rechners in die produktionsumgebung eines
+    rechenzentrums
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '94-102'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Lindemann75
+  type: paper-conference
+  author:
+  - family: Lindemann
+  editor:
+  - family: Schreiner
+    given: Adolf
+  issued:
+  - year: '1975'
+  title: Datenschutz und datensicherung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '270-283'
+  volume: '2'
+  ISBN: '3-540-07621-2'
+
+- id: conf/rz/KellerN95
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Alexander
+  - family: Neumair
+    given: Bernhard
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: 'Systems management middleware: Verteilte objektorientierte technologien
+    für das systemmanagement'
+  title-short: Systems management middleware
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '83-97'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/Herrmann93
+  type: paper-conference
+  author:
+  - family: Herrmann
+    given: Gaby
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Lastverteilung in verteilten systemen
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '103-114'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/Thomas83
+  type: paper-conference
+  author:
+  - family: II
+    given: Bernd Thomas
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Erfahrungen mit einem lokalen breitbandnetz
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '233-245'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Gerling95
+  type: paper-conference
+  author:
+  - family: Gerling
+    given: Rainer W.
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Rechtliche probleme in datennetzen und rechenzentren
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '287-299'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/1997
+  type: book
+  editor:
+  - family: Grundel
+    given: Herbert
+  issued:
+  - year: '1997'
+  title: Struktur und leistungsspektrum innovativer rechenzentren, vorträge der 12.
+    gI-fachtagung über rechenzentren, stuttgart-möhringen, 19. und 20. juni 1997
+  publisher: Hüthig Verlag
+  ISBN: '3-7785-2630-8'
+
+- id: conf/rz/Wichmann93
+  type: paper-conference
+  author:
+  - family: Wichmann
+    given: Peer
+  editor:
+  - family: Löw
+    given: Hans-Peter
+  issued:
+  - year: '1993'
+  title: Eine sicherheitsarchitektur für verteilte systeme am beispiel von dSSA
+  container-title: GI-fachgespräch über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '237-247'
+  ISBN: '3-8244-2047-3'
+
+- id: conf/rz/HombergS95
+  type: paper-conference
+  author:
+  - family: Homberg
+    given: Willi
+  - family: Schumacher
+    given: Herbert
+  editor:
+  - family: Wall
+    given: Dieter
+  issued:
+  - year: '1995'
+  title: Organisation eines netzwerkweiten druckbetriebs
+  container-title: GI-fachtagung über rechenzentren
+  publisher: Deutscher Universitäts Verlag
+  page: '177-188'
+  ISBN: '3-8244-2069-4'
+
+- id: conf/rz/JaufmannD83
+  type: paper-conference
+  author:
+  - family: Jaufmann
+    given: Helmuth
+  - family: Donhauser
+    given: Helmuth
+  editor:
+  - family: Graef
+    given: Martin A.
+  issued:
+  - year: '1983'
+  title: Kapazitätsplanung von rechenzentren mit hilfe analytischer modellierungsverfahren
+    - beispiele zur konfigurationsplanung
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '30-39'
+  volume: '69'
+  ISBN: '3-540-12315-6'
+
+- id: conf/rz/Lortz81
+  type: paper-conference
+  author:
+  - family: Lortz
+    given: Bruno
+  editor:
+  - family: Wolf
+    given: Franz
+  issued:
+  - year: '1981'
+  title: Datenverbund in einem rechenzentrum mit mehreren rechnern verschiedener hersteller
+  container-title: GI-fachgespräch über rechenzentren
+  collection-title: Informatik-fachberichte
+  publisher: Springer
+  page: '88-97'
+  volume: '46'
+  ISBN: '3-540-10831-9'
+...

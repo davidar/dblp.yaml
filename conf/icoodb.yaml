@@ -1,0 +1,874 @@
+---
+references:
+- id: conf/icoodb/Petkovic08
+  type: paper-conference
+  author:
+  - family: Petkovic
+    given: Dusan
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: 'Type and table hierarchies in sQL: 2003 and an enterprise dBMS: A comparison'
+  title-short: Type and table hierarchies in sQL
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '219-236'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/JarkeJNQS09
+  type: paper-conference
+  author:
+  - family: Jarke
+    given: Matthias
+  - family: Jeusfeld
+    given: Manfred A.
+  - family: Nissen
+    given: Hans W.
+  - family: Quix
+    given: Christoph
+  - family: Staudt
+    given: Martin
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: 'Metamodelling with datalog and classes: ConceptBase at the age of 21'
+  title-short: Metamodelling with datalog and classes
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-112'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_6
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/GrossniklausSZN10
+  type: paper-conference
+  author:
+  - family: Grossniklaus
+    given: Michael
+  - family: Spindler
+    given: Alexandre
+    dropping-particle: de
+  - family: Zimmerli
+    given: Christoph
+  - family: Norrie
+    given: Moira C.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: A flexible object model and algebra for uniform access to object databases
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-69'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_8
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/AlagicBJ10
+  type: paper-conference
+  author:
+  - family: Alagic
+    given: Suad
+  - family: Bernstein
+    given: Philip A.
+  - family: Jairath
+    given: Ruchi
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Object-oriented constraints for xML schema
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-117'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_11
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/2009
+  type: book
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2010'
+  title: Object databases, second international conference, iCOODB 2009, zurich, switzerland,
+    july 1-3, 2009. revised papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/FaldaHKSS08
+  type: paper-conference
+  author:
+  - family: Falda
+    given: Grzegorz
+  - family: Habela
+    given: Piotr
+  - family: Kaczmarski
+    given: Krzysztof
+  - family: Stencel
+    given: Krzysztof
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Object-oriented database prototype as a model execution engine for executable
+    uML
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '167-178'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/CvetkovicJ10
+  type: paper-conference
+  author:
+  - family: Cvetkovic
+    given: Stevica
+  - family: Jankovic
+    given: Dragan
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: A comparative study of the features and performance of oRM tools in a .nET
+    environment
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-158'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_14
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/NorrieGDSVL08
+  type: paper-conference
+  author:
+  - family: Norrie
+    given: Moira C.
+  - family: Grossniklaus
+    given: Michael
+  - family: Decurtins
+    given: Corsin
+  - family: Spindler
+    given: Alexandre
+    dropping-particle: de
+  - family: Vancea
+    given: Andrei
+  - family: Leone
+    given: Stefania
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Semantic data management for db4o
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '21-38'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/CeriBCGV10
+  type: paper-conference
+  author:
+  - family: Ceri
+    given: Stefano
+  - family: Braga
+    given: Daniele
+  - family: Corcoglioniti
+    given: Francesco
+  - family: Grossniklaus
+    given: Michael
+  - family: Vadacca
+    given: Salvatore
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Search computing challenges and directions
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-5'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_1
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/Baeza-Yates10
+  type: paper-conference
+  author:
+  - family: Baeza-Yates
+    given: Ricardo A.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Searching the web of objects
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '6-7'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_2
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/Cook10
+  type: paper-conference
+  author:
+  - family: Cook
+    given: William R.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Unifying remote data, remote procedures, and web services
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '8'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_3
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/Grossniklaus10
+  type: paper-conference
+  author:
+  - family: Grossniklaus
+    given: Michael
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: The case for object databases in cloud data management
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-39'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_6
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/AlagicRB09
+  type: paper-conference
+  author:
+  - family: Alagic
+    given: Suad
+  - family: Royer
+    given: Mark
+  - family: Briggs
+    given: David
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Verification technology for object-oriented/XML transactions
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '23-40'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_2
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/BertinoCB09
+  type: paper-conference
+  author:
+  - family: Bertino
+    given: Elisa
+  - family: Camossi
+    given: Elena
+  - family: Bertolotto
+    given: Michela
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: 'Multi-granular spatio-temporal object models: Concepts and research directions'
+  title-short: Multi-granular spatio-temporal object models
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '132-148'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_8
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/2008
+  type: book
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Object databases, first international conference, iCOODB 2008, berlin, germany,
+    march 13-14, 2008. proceedings
+  publisher: Tribun EU
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/AdamusHKKLPSSTW08
+  type: paper-conference
+  author:
+  - family: Adamus
+    given: Radoslaw
+  - family: Habela
+    given: Piotr
+  - family: Kaczmarski
+    given: Krzysztof
+  - family: Kowalski
+    given: Tomasz Marek
+  - family: Lentner
+    given: Michal
+  - family: Pieciukiewicz
+    given: Tomasz
+  - family: Stencel
+    given: Krzysztof
+  - family: Subieta
+    given: Kazimierz
+  - family: Trzaska
+    given: Mariusz
+  - family: Wislicki
+    given: Jacek
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Overview of the project oDRA
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '179-198'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/SignerN09
+  type: paper-conference
+  author:
+  - family: Signer
+    given: Beat
+  - family: Norrie
+    given: Moira C.
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Active components as a method for coupling data and services - a database-driven
+    application development process
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-76'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_4
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/ZaschkeN10
+  type: paper-conference
+  author:
+  - family: Zäschke
+    given: Tilmann
+  - family: Norrie
+    given: Moira C.
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Revisiting schema evolution in object databases in support of agile development
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '10-24'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_5
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/BlejaKAS09
+  type: paper-conference
+  author:
+  - family: Bleja
+    given: Michal
+  - family: Kowalski
+    given: Tomasz Marek
+  - family: Adamus
+    given: Radoslaw
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Optimization of object-oriented queries involving weakly dependent subqueries
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-94'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_5
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/BuchnerMN10
+  type: paper-conference
+  author:
+  - family: Büchner
+    given: Thomas
+  - family: Matthes
+    given: Florian
+  - family: Neubert
+    given: Christian
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Data model driven implementation of web cooperation systems with tricia
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '70-84'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_9
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/JinP08
+  type: paper-conference
+  author:
+  - family: Jin
+    given: Ruihua
+  - family: Piccioni
+    given: Marco
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Eiffel for .nET binding for db4o
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '161-166'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/Kopteff08
+  type: paper-conference
+  author:
+  - family: Kopteff
+    given: Mikael
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: The usasge and performance of object databases compared with oRM tools in
+    a java environment
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '199-218'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/ChenKSV10
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Tao
+  - family: Khan
+    given: Arif
+  - family: '0001'
+    given: Markus Schneider
+  - family: Viswanathan
+    given: Ganesh
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: 'IBLOB: Complex object management in databases through intelligent binary
+    large objects'
+  title-short: IBLOB
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-99'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_10
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/Garcia09
+  type: paper-conference
+  author:
+  - family: Garcia
+    given: Miguel
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: 'Compiler plugins can handle nested languages: AST-level expansion of lINQ
+    queries for java'
+  title-short: Compiler plugins can handle nested languages
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-58'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_3
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/ElizabethRR08
+  type: paper-conference
+  author:
+  - family: Elizabeth
+    given: Shanti
+  - family: Raja
+    given: Kirutthika
+  - family: Rathanaswamy
+    given: Nadarajan
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: An indexing method for handling queries on set-valued attributes in object-oriented
+    databases
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '143-160'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/TorresSG10
+  type: paper-conference
+  author:
+  - family: Torres
+    given: Manuel
+  - family: Samos
+    given: José
+  - family: Garví
+    given: Eladio
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Closing schemas in object-relational databases
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '133-146'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_13
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/PieciukiewiczSS08
+  type: paper-conference
+  author:
+  - family: Pieciukiewicz
+    given: Tomasz
+  - family: Subieta
+    given: Kazimierz
+  - family: Stencel
+    given: Krzysztof
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Recursive query processing in sBQL
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '57-76'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/Friedrich08
+  type: paper-conference
+  author:
+  - family: Friedrich
+    given: Sten
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: RINQ - concept of a ruby integrated query language
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '237-251'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/AdamusHKLS08
+  type: paper-conference
+  author:
+  - family: Adamus
+    given: Radoslaw
+  - family: Habela
+    given: Piotr
+  - family: Kaczmarski
+    given: Krzysztof
+  - family: Lentner
+    given: Michal
+  - family: Stencel
+    given: Krzysztof
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Stack-based architecture and stack-based query language
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '77-96'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/CybulaS10
+  type: paper-conference
+  author:
+  - family: Cybula
+    given: Piotr
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Query optimization by result caching in the stack-based approach
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '40-54'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_7
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/KenscheQLG10
+  type: paper-conference
+  author:
+  - family: Kensche
+    given: David
+  - family: Quix
+    given: Christoph
+  - family: '0002'
+    given: Xiang Li
+  - family: Geisler
+    given: Sandra
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: 'Solving oRM by mAGIC: MApping generatIon and composition'
+  title-short: Solving oRM by mAGIC
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-132'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_12
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/AlagicB09
+  type: paper-conference
+  author:
+  - family: Alagic
+    given: Suad
+  - family: Bernstein
+    given: Philip A.
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Mapping xSD to oO schemas
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-166'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_9
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/WideniusKLGGN10
+  type: paper-conference
+  author:
+  - family: Widenius
+    given: Ulf Michael
+  - family: Keith
+    given: Michael
+  - family: Linskey
+    given: Patrick
+  - family: Greene
+    given: Robert
+  - family: Guzenda
+    given: Leon
+  - family: Neubauer
+    given: Peter
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Keynote panel “new and old data stores”
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '9'
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9_4
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/KowalskiWKAS08
+  type: paper-conference
+  author:
+  - family: Kowalski
+    given: Tomasz Marek
+  - family: Wislicki
+    given: Jacek
+  - family: Kuliberda
+    given: Kamil
+  - family: Adamus
+    given: Radoslaw
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Optimization of indices in oDRA
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '97-118'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/DearleKM09
+  type: paper-conference
+  author:
+  - family: Dearle
+    given: Alan
+  - family: Kirby
+    given: Graham N. C.
+  - family: Morrison
+    given: Ronald
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Orthogonal persistence revisited
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-22'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_1
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/2010
+  type: book
+  editor:
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '2010'
+  title: Objects and databases - third international conference, iCOODB 2010, frankfurt/Main,
+    germany, september 28-30, 2010. proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6348'
+  DOI: 10.1007/978-3-642-16092-9
+  ISBN: '978-3-642-16091-2'
+
+- id: conf/icoodb/GrossniklausLSN09
+  type: paper-conference
+  author:
+  - family: Grossniklaus
+    given: Michael
+  - family: Leone
+    given: Stefania
+  - family: Spindler
+    given: Alexandre
+    dropping-particle: de
+  - family: Norrie
+    given: Moira C.
+  editor:
+  - family: Norrie
+    given: Moira C.
+  issued:
+  - year: '2009'
+  title: Unified event model for object databases
+  container-title: ICOODB
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-131'
+  volume: '5936'
+  DOI: 10.1007/978-3-642-14681-7_7
+  ISBN: '978-3-642-14680-0'
+
+- id: conf/icoodb/AdamusKSS08
+  type: paper-conference
+  author:
+  - family: Adamus
+    given: Radoslaw
+  - family: Kaczmarski
+    given: Krzysztof
+  - family: Stencel
+    given: Krzysztof
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: SBQL object views - unlimited mapping updatability
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '119-140'
+  ISBN: '978-80-7399-412-9'
+
+- id: conf/icoodb/WislickiKKAS08
+  type: paper-conference
+  author:
+  - family: Wislicki
+    given: Jacek
+  - family: Kuliberda
+    given: Kamil
+  - family: Kowalski
+    given: Tomasz Marek
+  - family: Adamus
+    given: Radoslaw
+  - family: Subieta
+    given: Kazimierz
+  editor:
+  - family: Edlich
+    given: Stefan
+  issued:
+  - year: '2008'
+  title: Implementation and testing of sBQL object-relational wrapper supporting query
+    optimisation
+  container-title: ICOODB
+  publisher: Tribun EU
+  page: '39-56'
+  ISBN: '978-80-7399-412-9'
+...

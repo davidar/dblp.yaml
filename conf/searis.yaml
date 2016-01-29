@@ -1,0 +1,588 @@
+---
+references:
+- id: conf/searis/PavlikV12
+  type: paper-conference
+  author:
+  - family: Pavlik
+    given: Ryan A.
+  - family: Vance
+    given: Judy M.
+  issued:
+  - year: '2012'
+  title: 'VR juggLua: A framework for vR applications combining lua, openSceneGraph,
+    and vR juggler'
+  title-short: VR juggLua
+  container-title: SEARIS
+  publisher: IEEE
+  page: '29-35'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231166
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/DuvalBJ14
+  type: paper-conference
+  author:
+  - family: Duval
+    given: Thierry
+  - family: Blouin
+    given: Arnaud
+  - family: Jézéquel
+    given: Jean-Marc
+  issued:
+  - year: '2014'
+  title: 'When model driven engineering meets virtual reality: Feedback from application
+    to the collaviz framework'
+  title-short: When model driven engineering meets virtual reality
+  container-title: SEARIS
+  publisher: IEEE
+  page: '27-34'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152798
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/DidierCMO12
+  type: paper-conference
+  author:
+  - family: Didier
+    given: Jean-Yves
+  - family: Chouiten
+    given: Mehdi
+  - family: Mallem
+    given: Malik
+  - family: Otmane
+    given: Samir
+  issued:
+  - year: '2012'
+  title: 'ARCS: A framework with extended software integration capabilities to build
+    augmented reality applications'
+  title-short: ARCS
+  container-title: SEARIS
+  publisher: IEEE
+  page: '60-67'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231170
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/ValkovBBS12
+  type: paper-conference
+  author:
+  - family: Valkov
+    given: Dimitar
+  - family: Bolte
+    given: Benjamin
+  - family: Bruder
+    given: Gerd
+  - family: Steinicke
+    given: Frank
+  issued:
+  - year: '2012'
+  title: Viargo - a generic virtual reality interaction library
+  container-title: SEARIS
+  publisher: IEEE
+  page: '23-28'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231177
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/SchneegansLBSF14
+  type: paper-conference
+  author:
+  - family: Schneegans
+    given: Simon
+  - family: Lauer
+    given: Felix
+  - family: Bernstein
+    given: Andreas-C.
+  - family: Schollmeyer
+    given: Andre
+  - family: '0001'
+    given: Bernd Froehlich
+  issued:
+  - year: '2014'
+  title: Guacamole - an extensible scene graph and rendering framework based on deferred
+    shading
+  container-title: SEARIS
+  publisher: IEEE
+  page: '35-42'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152799
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/ChevaillierTBLDSQ12
+  type: paper-conference
+  author:
+  - family: Chevaillier
+    given: Pierre
+  - family: Trinh
+    given: Thanh-Hai
+  - family: Barange
+    given: Mukesh
+  - family: Loor
+    given: Pierre De
+  - family: Devillers
+    given: Frédéric
+  - family: Soler
+    given: Julien
+  - family: Querrec
+    given: Ronan
+  issued:
+  - year: '2012'
+  title: Semantic modeling of virtual environments using mASCARET
+  container-title: SEARIS
+  publisher: IEEE
+  page: '1-8'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231174
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/HaubrichSHMB14
+  type: paper-conference
+  author:
+  - family: Haubrich
+    given: Tobias
+  - family: Seele
+    given: Sven
+  - family: Herpers
+    given: Rainer
+  - family: Muller
+    given: Martin E.
+  - family: Becker
+    given: Peter
+  issued:
+  - year: '2014'
+  title: 'A semantic road network model for traffic simulations in virtual environments:
+    Generation and integration'
+  title-short: A semantic road network model for traffic simulations in virtual environments
+  container-title: SEARIS
+  publisher: IEEE
+  page: '43-50'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152800
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/2012
+  type: book
+  issued:
+  - year: '2012'
+  title: 5th workshop on software engineering and architectures for realtime interactive
+    systems, sEARIS 2012, costa mesa, cA, uSA, march 5, 2012
+  publisher: IEEE
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/Figueroa12
+  type: paper-conference
+  author:
+  - family: Figueroa
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: What vR developers can learn from 20 years of uIMS
+  container-title: SEARIS
+  publisher: IEEE
+  page: '18-22'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231176
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/WiebuschL14
+  type: paper-conference
+  author:
+  - family: Wiebusch
+    given: Dennis
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2014'
+  title: A uniform semantic-based access model for realtime interactive systems
+  container-title: SEARIS
+  publisher: IEEE
+  page: '51-58'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152801
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/LacocheDAMR14
+  type: paper-conference
+  author:
+  - family: Lacoche
+    given: Jeremy
+  - family: Duval
+    given: Thierry
+  - family: Arnaldi
+    given: Bruno
+  - family: Maisel
+    given: Eric
+  - family: Royan
+    given: Jérôme
+  issued:
+  - year: '2014'
+  title: A survey of plasticity in 3D user interfaces
+  container-title: SEARIS
+  publisher: IEEE
+  page: '19-26'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152797
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/WiebuschL12
+  type: paper-conference
+  author:
+  - family: Wiebusch
+    given: Dennis
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2012'
+  title: Enhanced decoupling of components in intelligent realtime interactive systems
+    using ontologies
+  container-title: SEARIS
+  publisher: IEEE
+  page: '43-51'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231168
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/LatoschikS14
+  type: paper-conference
+  author:
+  - family: Latoschik
+    given: Marc Erich
+  - family: Stuerzlinger
+    given: Wolfgang
+  issued:
+  - year: '2014'
+  title: On the art of the evaluation and presentation of rIS-engineering
+  container-title: SEARIS
+  publisher: IEEE
+  page: '9-17'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152796
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/SonsSKRS13
+  type: paper-conference
+  author:
+  - family: Sons
+    given: Kristian
+  - family: Schlinkmann
+    given: Christian
+  - family: Klein
+    given: Felix
+  - family: Rubinstein
+    given: Dmitri
+  - family: Slusallek
+    given: Philipp
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: 'Xml3d.js: Architecture of a polyfill implementation of xML3D'
+  title-short: Xml3d.js
+  container-title: SEARIS
+  publisher: IEEE
+  page: '17-24'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798104
+
+- id: conf/searis/DornerFGB14
+  type: paper-conference
+  author:
+  - family: Dörner
+    given: Ralf
+  - family: Frechenhäuser
+    given: Sven
+  - family: Gerken
+    given: Katharina
+  - family: Berdux
+    given: Jörg
+  issued:
+  - year: '2014'
+  title: A 3D metaphor for authoring realtime interactive systems supporting different
+    author roles
+  container-title: SEARIS
+  publisher: IEEE
+  page: '1-8'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152795
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/LatoschikT12
+  type: paper-conference
+  author:
+  - family: Latoschik
+    given: Marc Erich
+  - family: Tramberend
+    given: Henrik
+  issued:
+  - year: '2012'
+  title: A scala-based actor-entity architecture for intelligent interactive simulations
+  container-title: SEARIS
+  publisher: IEEE
+  page: '9-17'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231175
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/RehfeldTL13
+  type: paper-conference
+  author:
+  - family: Rehfeld
+    given: Stephan
+  - family: Tramberend
+    given: Henrik
+  - family: Latoschik
+    given: Marc Erich
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: An actor-based distribution model for realtime interactive systems
+  container-title: SEARIS
+  publisher: IEEE
+  page: '9-16'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798103
+
+- id: conf/searis/KnottWHK14
+  type: paper-conference
+  author:
+  - family: Knott
+    given: Thomas
+  - family: Weyers
+    given: Benjamin
+  - family: Hentschel
+    given: Bernd
+  - family: Kuhlen
+    given: Torsten
+  issued:
+  - year: '2014'
+  title: Data-flow oriented software framework for the development of haptic-enabled
+    physics simulations
+  container-title: SEARIS
+  publisher: IEEE
+  page: '65-72'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152803
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/ZielinskiMSMK14
+  type: paper-conference
+  author:
+  - family: Zielinski
+    given: David J.
+  - family: McMahan
+    given: Ryan P.
+  - family: Shokur
+    given: Solaiman
+  - family: Morya
+    given: Edgard
+  - family: Kopper
+    given: Regis
+  issued:
+  - year: '2014'
+  title: Enabling closed-source applications for virtual reality via openGL intercept-based
+    techniques
+  container-title: SEARIS
+  publisher: IEEE
+  page: '59-64'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  DOI: 10.1109/SEARIS.2014.7152802
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/OhlWS13
+  type: paper-conference
+  author:
+  - family: Ohl
+    given: Stephan
+  - family: Willert
+    given: Malte
+  - family: Staadt
+    given: Oliver G.
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: A distributed camera library design for telepresence
+  container-title: SEARIS
+  publisher: IEEE
+  page: '1-8'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798102
+
+- id: conf/searis/SinghGM12
+  type: paper-conference
+  author:
+  - family: Singh
+    given: H. Lally
+  - family: Gracanin
+    given: Denis
+  - family: Matkovic
+    given: Kresimir
+  issued:
+  - year: '2012'
+  title: Software scalability engineering for distributed virtual environments
+  container-title: SEARIS
+  publisher: IEEE
+  page: '52-59'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231169
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/MobiusKK13
+  type: paper-conference
+  author:
+  - family: Möbius
+    given: Jan
+  - family: Kremer
+    given: Michael
+  - family: Kobbelt
+    given: Leif
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: OpenFlipper - a highly modular framework for processing and visualization
+    of complex geometric models
+  container-title: SEARIS
+  publisher: IEEE
+  page: '25-32'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798105
+
+- id: conf/searis/2013
+  type: book
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: 6th workshop on software engineering and architectures for realtime interactive
+    systems, sEARIS 2013, orlando, fL, uSA, march 17, 2013
+  publisher: IEEE
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+
+- id: conf/searis/2014
+  type: book
+  issued:
+  - year: '2014'
+  title: 7th iEEE workshop on software engineering and architectures for realtime
+    interactive systems, sEARIS 2014, minneapolis, mN, uSA, march 30, 2014
+  publisher: IEEE
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7145506
+  ISBN: '978-1-4799-9955-2'
+
+- id: conf/searis/SigitovRMH13
+  type: paper-conference
+  author:
+  - family: Sigitov
+    given: Anton
+  - family: Roth
+    given: Thorsten
+  - family: Mannuß
+    given: Florian
+  - family: Hinkenjann
+    given: André
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: 'DRiVE: An example of distributed rendering in virtual environments'
+  title-short: DRiVE
+  container-title: SEARIS
+  publisher: IEEE
+  page: '33-40'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798106
+
+- id: conf/searis/AiL12
+  type: paper-conference
+  author:
+  - family: Ai
+    given: Zhuming
+  - family: Livingston
+    given: Mark A.
+  issued:
+  - year: '2012'
+  title: Configurable semi-autonomic animated animal characters in interactive virtual
+    reality applications
+  container-title: SEARIS
+  publisher: IEEE
+  page: '68-73'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231171
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/Lechner13
+  type: paper-conference
+  author:
+  - family: Lechner
+    given: Martin
+  editor:
+  - family: Latoschik
+    given: Marc Erich
+  issued:
+  - year: '2013'
+  title: ARML 2.0 in the context of existing aR data formats
+  container-title: SEARIS
+  publisher: IEEE
+  page: '41-47'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6784150
+  DOI: 10.1109/SEARIS.2013.6798107
+
+- id: conf/searis/BernierCTB12
+  type: paper-conference
+  author:
+  - family: Bernier
+    given: Emmanuel
+  - family: Chellali
+    given: Ryad
+  - family: Thouvenin
+    given: Indira Mouttapa
+  - family: Blom
+    given: Kristopher J.
+  issued:
+  - year: '2012'
+  title: The iCEA plug-in for virtual reality, immersive creation and edition of animation
+  container-title: SEARIS
+  publisher: IEEE
+  page: '36-42'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231167
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/Figueroa12a
+  type: paper-conference
+  author:
+  - family: Figueroa
+    given: Pablo
+  issued:
+  - year: '2012'
+  title: Panel on open source software for rIS
+  container-title: SEARIS
+  publisher: IEEE
+  page: '74-76'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231172
+  ISBN: '978-1-4673-1249-3'
+
+- id: conf/searis/Wingrave12
+  type: paper-conference
+  author:
+  - family: Wingrave
+    given: Chadwick A.
+  issued:
+  - year: '2012'
+  title: SEARIS’s personally inspiring papers in review
+  container-title: SEARIS
+  publisher: IEEE
+  page: '77-80'
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6222072
+  DOI: 10.1109/SEARIS.2012.6231173
+  ISBN: '978-1-4673-1249-3'
+...

@@ -1,0 +1,519 @@
+---
+references:
+- id: conf/iopads/KallahallaJ99
+  type: paper-conference
+  author:
+  - family: Kallahalla
+    given: Mahesh
+  - family: Varman
+    given: Peter J.
+  issued:
+  - year: '1999'
+  title: Optimal read-once parallel disk scheduling
+  container-title: IOPADS
+  page: '68-77'
+  URL: http://doi.acm.org/10.1145/301816.301835
+
+- id: conf/iopads/MadhyasthaR97
+  type: paper-conference
+  author:
+  - family: Madhyastha
+    given: Tara M.
+  - family: Reed
+    given: Daniel A.
+  issued:
+  - year: '1997'
+  title: Input/Output access pattern classification using hidden markov models
+  container-title: IOPADS
+  page: '57-67'
+  URL: http://doi.acm.org/10.1145/266220.266226
+
+- id: conf/iopads/SchwabeSH96
+  type: paper-conference
+  author:
+  - family: Schwabe
+    given: Eric J.
+  - family: Sutherland
+    given: Ian M.
+  - family: Holmer
+    given: Bruce K.
+  issued:
+  - year: '1996'
+  title: Evaluating approximately balanced parity-declustered data layouts for disk
+    arrays
+  container-title: IOPADS
+  page: '41-54'
+  URL: http://doi.acm.org/10.1145/236017.236031
+
+- id: conf/iopads/ZhouWCL99
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Yuanyuan
+  - family: Wang
+    given: Limin
+  - family: Clark
+    given: Douglas W.
+  - family: Li
+    given: Kai
+  issued:
+  - year: '1999'
+  title: Thread scheduling for out-of-core applications with memory server on multicomputers
+  container-title: IOPADS
+  page: '57-67'
+  URL: http://doi.acm.org/10.1145/301816.301833
+
+- id: conf/iopads/AcharyaUBMBHSS96
+  type: paper-conference
+  author:
+  - family: Acharya
+    given: Anurag
+  - family: Uysal
+    given: Mustafa
+  - family: Bennett
+    given: Robert
+  - family: Mendelson
+    given: Assaf
+  - family: Beynon
+    given: Michael D.
+  - family: Hollingsworth
+    given: Jeffrey K.
+  - family: Saltz
+    given: Joel H.
+  - family: Sussman
+    given: Alan
+  issued:
+  - year: '1996'
+  title: Tuning the performance of i/O-intensive parallel applications
+  container-title: IOPADS
+  page: '15-27'
+  URL: http://doi.acm.org/10.1145/236017.236027
+
+- id: conf/iopads/ChangSD97
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Tai-Sheng
+  - family: Shim
+    given: Sangyup
+  - family: Du
+    given: David Hung-Chang
+  issued:
+  - year: '1997'
+  title: The scalability of spatial reuse based serial storage interfaces
+  container-title: IOPADS
+  page: '93-101'
+  URL: http://doi.acm.org/10.1145/266220.266229
+
+- id: conf/iopads/BarveGHMSV99
+  type: paper-conference
+  author:
+  - family: Barve
+    given: Rakesh D.
+  - family: Gibbons
+    given: Phillip B.
+  - family: Hillyer
+    given: Bruce
+  - family: Matias
+    given: Yossi
+  - family: Shriver
+    given: Elizabeth A. M.
+  - family: Vitter
+    given: Jeffrey Scott
+  issued:
+  - year: '1999'
+  title: Round-like behavior in multiple disks on a bus
+  container-title: IOPADS
+  page: '1-9'
+  URL: http://doi.acm.org/10.1145/301816.301821
+
+- id: conf/iopads/PrabhakarAASS97
+  type: paper-conference
+  author:
+  - family: Prabhakar
+    given: Sunil
+  - family: Agrawal
+    given: Divyakant
+  - family: Abbadi
+    given: Amr El
+  - family: Singh
+    given: Ambuj K.
+  - family: Smith
+    given: Terrence
+  issued:
+  - year: '1997'
+  title: Browsing and placement of multiresolution images on parallel disks
+  container-title: IOPADS
+  page: '102-113'
+  URL: http://doi.acm.org/10.1145/266220.266230
+
+- id: conf/iopads/ChenWSKCS96
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Ying
+  - family: Winslett
+    given: Marianne
+  - family: Seamons
+    given: Kent E.
+  - family: Kuo
+    given: Szu-Wen
+  - family: Cho
+    given: Yong
+  - family: Subramaniam
+    given: Mahesh
+  issued:
+  - year: '1996'
+  title: Scalable message passing in panda
+  container-title: IOPADS
+  page: '109-121'
+  URL: http://doi.acm.org/10.1145/236017.236042
+
+- id: conf/iopads/Arpaci-DusseauATCHPY99
+  type: paper-conference
+  author:
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Anderson
+    given: Eric
+  - family: Treuhaft
+    given: Noah
+  - family: Culler
+    given: David E.
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Patterson
+    given: David A.
+  - family: Yelick
+    given: Katherine A.
+  issued:
+  - year: '1999'
+  title: 'Cluster i/O with river: Making the fast case common'
+  title-short: Cluster i/O with river
+  container-title: IOPADS
+  page: '10-22'
+  URL: http://doi.acm.org/10.1145/301816.301823
+
+- id: conf/iopads/MooreHQ96
+  type: paper-conference
+  author:
+  - family: Moore
+    given: Jason A.
+  - family: Hatcher
+    given: Philip J.
+  - family: Quinn
+    given: Michael J.
+  issued:
+  - year: '1996'
+  title: Efficient data-parallel files via automatic mode detection
+  container-title: IOPADS
+  page: '1'
+  URL: http://doi.acm.org/10.1145/236017.236025
+
+- id: conf/iopads/BurnsL97
+  type: paper-conference
+  author:
+  - family: Burns
+    given: Randal C.
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '1997'
+  title: Efficient distributed backup with delta compression
+  container-title: IOPADS
+  page: '27-36'
+  URL: http://doi.acm.org/10.1145/266220.266223
+
+- id: conf/iopads/ThakurGL99
+  type: paper-conference
+  author:
+  - family: Thakur
+    given: Rajeev
+  - family: Gropp
+    given: William
+  - family: Lusk
+    given: Ewing L.
+  issued:
+  - year: '1999'
+  title: On implementing mPI-iO portably and with high performance
+  container-title: IOPADS
+  page: '23-32'
+  URL: http://doi.acm.org/10.1145/301816.301826
+
+- id: conf/iopads/KriegerS96
+  type: paper-conference
+  author:
+  - family: Krieger
+    given: Orran
+  - family: Stumm
+    given: Michael
+  issued:
+  - year: '1996'
+  title: HFS a performance-oriented flexible file system based on building-block compositions
+  container-title: IOPADS
+  page: '95-108'
+  URL: http://doi.acm.org/10.1145/236017.236041
+
+- id: conf/iopads/CormenWN97
+  type: paper-conference
+  author:
+  - family: Cormen
+    given: Thomas H.
+  - family: Wegmann
+    given: Jake
+  - family: Nicol
+    given: David M.
+  issued:
+  - year: '1997'
+  title: Multiprocessor out-of-core fFTs with distributed memory and parallel disks
+    (extended abstract)
+  container-title: IOPADS
+  page: '68-78'
+  URL: http://doi.acm.org/10.1145/266220.266227
+
+- id: conf/iopads/KuoWCLC99
+  type: paper-conference
+  author:
+  - family: Kuo
+    given: Szu-Wen
+  - family: Winslett
+    given: Marianne
+  - family: Cho
+    given: Yong
+  - family: Lee
+    given: Jonghyun
+  - family: Chen
+    given: Ying
+  issued:
+  - year: '1999'
+  title: Efficient input and output for scientific simulations
+  container-title: IOPADS
+  page: '33-44'
+  URL: http://doi.acm.org/10.1145/301816.301828
+
+- id: conf/iopads/Soloviev96
+  type: paper-conference
+  author:
+  - family: Soloviev
+    given: Valery
+  issued:
+  - year: '1996'
+  title: Prefetching in segmented disk cache for multi-disk systems
+  container-title: IOPADS
+  page: '69-82'
+  URL: http://doi.acm.org/10.1145/236017.236037
+
+- id: conf/iopads/NieuwejaarK96
+  type: paper-conference
+  author:
+  - family: Nieuwejaar
+    given: Nils
+  - family: Kotz
+    given: David
+  issued:
+  - year: '1996'
+  title: Performance of the gallery parallel file system
+  container-title: IOPADS
+  page: '83-94'
+  URL: http://doi.acm.org/10.1145/236017.236038
+
+- id: conf/iopads/CortesGL97
+  type: paper-conference
+  author:
+  - family: Cortes
+    given: Toni
+  - family: Girona
+    given: Sergi
+  - family: Labarta
+    given: Jesús
+  issued:
+  - year: '1997'
+  title: Design issues of a cooperative cache with no coherence problems
+  container-title: IOPADS
+  page: '37-46'
+  URL: http://doi.acm.org/10.1145/266220.266224
+
+- id: conf/iopads/Weissman99
+  type: paper-conference
+  author:
+  - family: Weissman
+    given: Jon B.
+  issued:
+  - year: '1999'
+  title: 'Smart file objects: A remote file access paradigm'
+  title-short: Smart file objects
+  container-title: IOPADS
+  page: '89-97'
+  URL: http://doi.acm.org/10.1145/301816.301842
+
+- id: conf/iopads/KandemirCRK97
+  type: paper-conference
+  author:
+  - family: Kandemir
+    given: Mahmut T.
+  - family: Choudhary
+    given: Alok N.
+  - family: Ramanujam
+    given: J.
+  - family: Kandaswamy
+    given: Meenakshi A.
+  issued:
+  - year: '1997'
+  title: A unified compiler algorithm for optimizing locality, parallelism and communication
+    in out-of-core computations
+  container-title: IOPADS
+  page: '79-92'
+  URL: http://doi.acm.org/10.1145/266220.266228
+
+- id: conf/iopads/Wisniewski96
+  type: paper-conference
+  author:
+  - family: Wisniewski
+    given: Leonard F.
+  issued:
+  - year: '1996'
+  title: Structured permuting in place on parallel disk systems
+  container-title: IOPADS
+  page: '128-139'
+  URL: http://doi.acm.org/10.1145/236017.236047
+
+- id: conf/iopads/BarveKVV97
+  type: paper-conference
+  author:
+  - family: Barve
+    given: Rakesh D.
+  - family: Kallahalla
+    given: Mahesh
+  - family: Varman
+    given: Peter J.
+  - family: Vitter
+    given: Jeffrey Scott
+  issued:
+  - year: '1997'
+  title: Competitive parallel disk prefetching and buffer management
+  container-title: IOPADS
+  page: '47-56'
+  URL: http://doi.acm.org/10.1145/266220.266225
+
+- id: conf/iopads/Armen96
+  type: paper-conference
+  author:
+  - family: Armen
+    given: Chris
+  issued:
+  - year: '1996'
+  title: Bounds on the separation of two parallel disk models
+  container-title: IOPADS
+  page: '122-127'
+  URL: http://doi.acm.org/10.1145/236017.236044
+
+- id: conf/iopads/PurakayasthaEK96
+  type: paper-conference
+  author:
+  - family: Purakayastha
+    given: Apratim
+  - family: Ellis
+    given: Carla Schlatter
+  - family: Kotz
+    given: David
+  issued:
+  - year: '1996'
+  title: ENWRICH a compute-processor write caching scheme for parallel file systems
+  container-title: IOPADS
+  page: '55-68'
+  URL: http://doi.acm.org/10.1145/236017.236034
+
+- id: conf/iopads/BesterFKTT99
+  type: paper-conference
+  author:
+  - family: Bester
+    given: Joseph
+  - family: Foster
+    given: Ian T.
+  - family: Kesselman
+    given: Carl
+  - family: Tedesco
+    given: Jean
+  - family: Tuecke
+    given: Steven
+  issued:
+  - year: '1999'
+  title: 'GASS: A data movement and access service for wide area computing systems'
+  title-short: GASS
+  container-title: IOPADS
+  page: '78-88'
+  URL: http://doi.acm.org/10.1145/301816.301839
+
+- id: conf/iopads/MacheLLG99
+  type: paper-conference
+  author:
+  - family: Mache
+    given: Jens
+  - family: Lo
+    given: Virginia Mary
+  - family: Livingston
+    given: Marilynn
+  - family: Garg
+    given: Sharad
+  issued:
+  - year: '1999'
+  title: The impact of spatial layout of jobs on parallel i/O performance
+  container-title: IOPADS
+  page: '45-56'
+  URL: http://doi.acm.org/10.1145/301816.301830
+
+- id: conf/iopads/ToledoG96
+  type: paper-conference
+  author:
+  - family: Toledo
+    given: Sivan
+  - family: Gustavson
+    given: Fred G.
+  issued:
+  - year: '1996'
+  title: The design and implementation of sOLAR, a portable library for scalable out-of-core
+    linear algebra computations
+  container-title: IOPADS
+  page: '28-40'
+  URL: http://doi.acm.org/10.1145/236017.236029
+
+- id: conf/iopads/FosterKKM97
+  type: paper-conference
+  author:
+  - family: Foster
+    given: Ian T.
+  - family: Jr.
+    given: David R. Kohr
+  - family: Krishnaiyer
+    given: Rakesh
+  - family: Mogill
+    given: Jace
+  issued:
+  - year: '1997'
+  title: Remote i/O fast access to distant storage
+  container-title: IOPADS
+  page: '14-25'
+  URL: http://doi.acm.org/10.1145/266220.266222
+
+- id: conf/iopads/ChoWSCKS97
+  type: paper-conference
+  author:
+  - family: Cho
+    given: Yong
+  - family: Winslett
+    given: Marianne
+  - family: Subramaniam
+    given: Mahesh
+  - family: Chen
+    given: Ying
+  - family: Kuo
+    given: Szu-Wen
+  - family: Seamons
+    given: Kent E.
+  issued:
+  - year: '1997'
+  title: Exploiting local data in parallel array i/O on a practical network of workstations
+  container-title: IOPADS
+  page: '1-13'
+  URL: http://doi.acm.org/10.1145/266220.266221
+...

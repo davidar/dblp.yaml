@@ -1,0 +1,513 @@
+---
+references:
+- id: conf/fmsp/Petersen98
+  type: paper-conference
+  author:
+  - family: Petersen
+    given: Jakob Lyng
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: 'Automatic verification of railway interlocking systems: A case study'
+  title-short: Automatic verification of railway interlocking systems
+  container-title: FMSP
+  publisher: ACM
+  page: '1-6'
+  URL: http://doi.acm.org/10.1145/298595.298597
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/Feather98
+  type: paper-conference
+  author:
+  - family: Feather
+    given: Martin S.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Low-cost pathways towards formal methods use
+  container-title: FMSP
+  publisher: ACM
+  page: '85-91'
+  URL: http://doi.acm.org/10.1145/298595.298862
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/Smith00
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Douglas R.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Software synthesis and applications (abstract only)
+  container-title: FMSP
+  publisher: ACM
+  page: '73'
+  URL: http://doi.acm.org/10.1145/349360.351139
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/MermetM98
+  type: paper-conference
+  author:
+  - family: Mermet
+    given: Bruno
+  - family: Méry
+    given: Dominique
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: 'Service specifications: To b, or not to b'
+  title-short: Service specifications
+  container-title: FMSP
+  publisher: ACM
+  page: '62-69'
+  URL: http://doi.acm.org/10.1145/298595.298859
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/1998
+  type: book
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Proceedings of the second workshop on formal methods in software practice,
+    march 4-5, 1998, clearwater beach, florida, uSA
+  publisher: ACM
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/Leveson00
+  type: paper-conference
+  author:
+  - family: Leveson
+    given: Nancy G.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Completeness in formal specification language design for process-control
+    systems
+  container-title: FMSP
+  publisher: ACM
+  page: '75-87'
+  URL: http://doi.acm.org/10.1145/349360.351140
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/AgerholmLR98
+  type: paper-conference
+  author:
+  - family: Agerholm
+    given: Sten
+  - family: Lecoeur
+    given: Pierre-Jean
+  - family: Reichert
+    given: Etienne
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: 'Formal specification and validation at work: A case study using vDM-sL'
+  title-short: Formal specification and validation at work
+  container-title: FMSP
+  publisher: ACM
+  page: '78-84'
+  URL: http://doi.acm.org/10.1145/298595.298861
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/BhargavanGO00
+  type: paper-conference
+  author:
+  - family: Bhargavan
+    given: Karthikeyan
+  - family: Gunter
+    given: Carl A.
+  - family: Obradovic
+    given: Davor
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Fault origin adjudication
+  container-title: FMSP
+  publisher: ACM
+  page: '61-71'
+  URL: http://doi.acm.org/10.1145/349360.351132
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/ParkSHCD98
+  type: paper-conference
+  author:
+  - family: Park
+    given: David Y. W.
+  - family: Skakkebæk
+    given: Jens U.
+  - family: Heimdahl
+    given: Mats Per Erik
+  - family: Czerny
+    given: Barbara J.
+  - family: Dill
+    given: David L.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Checking properties of safety critical specifications using efficient decision
+    procedures
+  container-title: FMSP
+  publisher: ACM
+  page: '34-43'
+  URL: http://doi.acm.org/10.1145/298595.298603
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/ArcherHR00
+  type: paper-conference
+  author:
+  - family: Archer
+    given: Myla
+  - family: Heitmeyer
+    given: Constance L.
+  - family: Riccobene
+    given: Elvinia
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: 'Using tAME to prove invariants of automata models: Two case studies'
+  title-short: Using tAME to prove invariants of automata models
+  container-title: FMSP
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/349360.351127
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/Holzmann98
+  type: paper-conference
+  author:
+  - family: Holzmann
+    given: Gerard J.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Designing executable abstractions
+  container-title: FMSP
+  publisher: ACM
+  page: '103-108'
+  URL: http://doi.acm.org/10.1145/298595.298864
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/MartinWV00
+  type: paper-conference
+  author:
+  - family: Martin
+    given: W. B.
+  - family: White
+    given: P. D.
+  - family: Vanfleet
+    given: W. Mark
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: 'Government, industry, and academia: Teaming to design high confidence
+    information security applications'
+  title-short: Government, industry, and academia
+  container-title: FMSP
+  publisher: ACM
+  page: '37-47'
+  URL: http://doi.acm.org/10.1145/349360.351128
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/MelcherW98
+  type: paper-conference
+  author:
+  - family: Melcher
+    given: Helmut
+  - family: Winkelmann
+    given: Klaus
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Controller synthesis for the “production cell” case study
+  container-title: FMSP
+  publisher: ACM
+  page: '24-33'
+  URL: http://doi.acm.org/10.1145/298595.298601
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/Chen98
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Liang
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Verification of an audio control protocol within real time process algebra
+  container-title: FMSP
+  publisher: ACM
+  page: '70-77'
+  URL: http://doi.acm.org/10.1145/298595.298860
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/TheesG98
+  type: paper-conference
+  author:
+  - family: Thees
+    given: Joachim
+  - family: Gotzhein
+    given: Reinhard
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: 'The experimental estelle compiler: Automatic generation of implementations
+    from formal specifications'
+  title-short: The experimental estelle compiler
+  container-title: FMSP
+  publisher: ACM
+  page: '54-61'
+  URL: http://doi.acm.org/10.1145/298595.298858
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/PenixMFRAW98
+  type: paper-conference
+  author:
+  - family: Penix
+    given: John
+  - family: Martin
+    given: Dale E.
+  - family: Frey
+    given: Peter
+  - family: Radhakrishnan
+    given: Ramanan
+  - family: Alexander
+    given: Perry
+  - family: Wilsey
+    given: Philip A.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Experiences in verifying parallel simulation algorithms
+  container-title: FMSP
+  publisher: ACM
+  page: '16-23'
+  URL: http://doi.acm.org/10.1145/298595.298600
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/VisserPP00
+  type: paper-conference
+  author:
+  - family: Visser
+    given: Willem
+  - family: Park
+    given: Seungjoon
+  - family: Penix
+    given: John
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Using predicate abstraction to reduce object-oriented programs for model
+    checking
+  container-title: FMSP
+  publisher: ACM
+  page: '3-182'
+  URL: http://doi.acm.org/10.1145/349360.351125
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/KongAD00
+  type: paper-conference
+  author:
+  - family: Kong
+    given: Cindy
+  - family: Alexander
+    given: Perry
+  - family: Dieckman
+    given: Darryl D.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Formal modeling of active network nodes using pVS
+  container-title: FMSP
+  publisher: ACM
+  page: '49-59'
+  URL: http://doi.acm.org/10.1145/349360.351130
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/DwyerAC98
+  type: paper-conference
+  author:
+  - family: Dwyer
+    given: Matthew B.
+  - family: Avrunin
+    given: George S.
+  - family: Corbett
+    given: James C.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Property specification patterns for finite-state verification
+  container-title: FMSP
+  publisher: ACM
+  page: '7-15'
+  URL: http://doi.acm.org/10.1145/298595.298598
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/2000
+  type: book
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Proceedings of the third workshop on formal methods in software practice,
+    2000, portland, oregon, uSA
+  publisher: ACM
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/Miller98
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Steven P.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: Specifying the mode logic of a flight guidance system in coRE and sCR
+  container-title: FMSP
+  publisher: ACM
+  page: '44-53'
+  URL: http://doi.acm.org/10.1145/298595.298856
+  ISBN: '0-89791-954-8'
+
+- id: conf/fmsp/Dill00
+  type: paper-conference
+  author:
+  - family: Dill
+    given: David L.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Model checking java programs
+  container-title: FMSP
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/349360.351124
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/KlarlundMS00
+  type: paper-conference
+  author:
+  - family: Klarlund
+    given: Nils
+  - family: Møller
+    given: Anders
+  - family: Schwartzbach
+    given: Michael I.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: 'DSD: A schema language for xML'
+  title-short: DSD
+  container-title: FMSP
+  publisher: ACM
+  page: '101-111'
+  URL: http://doi.acm.org/10.1145/349360.351158
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/OlderogR00
+  type: paper-conference
+  author:
+  - family: Olderog
+    given: Ernst-Rüdiger
+  - family: Ravn
+    given: Anders P.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: Completeness in formal specification language design for process-control
+    systems
+  container-title: FMSP
+  publisher: ACM
+  page: '89-100'
+  URL: http://doi.acm.org/10.1145/349360.351142
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/Hall00
+  type: paper-conference
+  author:
+  - family: Hall
+    given: Robert J.
+  editor:
+  - family: Heimdahl
+    given: Mats Per Erik
+  issued:
+  - year: '2000'
+  title: 'Specification, validation, and synthesis of email agent controllers: A
+    case study in function rich reactive system design'
+  title-short: Specification, validation, and synthesis of email agent controllers
+  container-title: FMSP
+  publisher: ACM
+  page: '13-23'
+  URL: http://doi.acm.org/10.1145/349360.351126
+  ISBN: 1-58113-262-X
+
+- id: conf/fmsp/HeitmeyerKL98
+  type: paper-conference
+  author:
+  - family: Heitmeyer
+    given: Constance L.
+  - family: Kirby
+    given: James
+  - family: Labaw
+    given: Bruce G.
+  editor:
+  - family: Ardis
+    given: Mark A.
+  issued:
+  - year: '1998'
+  title: 'Applying the sCR requirements method to a weapons control panel: An experience
+    report'
+  title-short: Applying the sCR requirements method to a weapons control panel
+  container-title: FMSP
+  publisher: ACM
+  page: '92-102'
+  URL: http://doi.acm.org/10.1145/298595.298863
+  ISBN: '0-89791-954-8'
+...

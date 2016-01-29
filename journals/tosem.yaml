@@ -1,0 +1,7404 @@
+---
+references:
+- id: journals/tosem/FlemingSPBBLK13
+  type: article-journal
+  author:
+  - family: Fleming
+    given: Scott D.
+  - family: Scaffidi
+    given: Christopher
+  - family: Piorkowski
+    given: David
+  - family: Burnett
+    given: Margaret M.
+  - family: Bellamy
+    given: Rachel K. E.
+  - family: Lawrance
+    given: Joseph
+  - family: Kwan
+    given: Irwin
+  issued:
+  - year: '2013'
+  title: An information foraging theory perspective on tools for debugging, refactoring,
+    and reuse tasks
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '14'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430551
+
+- id: journals/tosem/SchneiderMT92
+  type: article-journal
+  author:
+  - family: Schneider
+    given: G. Michael
+  - family: Martin
+    given: Johnny
+  - family: Tsai
+    given: W. T.
+  issued:
+  - year: '1992'
+  title: An experimental study of fault detection in user requirements documents
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '188-204'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/128894.128897
+
+- id: journals/tosem/ZhangE14
+  type: article-journal
+  author:
+  - family: Zhang
+    given: Pingyu
+  - family: Elbaum
+    given: Sebastian G.
+  issued:
+  - year: '2014'
+  title: 'Amplifying tests to validate exception handling code: An extended study
+    in the mobile application domain'
+  title-short: Amplifying tests to validate exception handling code
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 32:1-32:28
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2652483
+
+- id: journals/tosem/BrandV96
+  type: article-journal
+  author:
+  - family: Brand
+    given: Mark
+    dropping-particle: van den
+  - family: Visser
+    given: Eelco
+  issued:
+  - year: '1996'
+  title: Generation of formatters for context-free languages
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-41'
+  volume: '5'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/226155.226156
+
+- id: journals/tosem/ChenTC01
+  type: article-journal
+  author:
+  - family: Chen
+    given: Huo Yan
+  - family: Tse
+    given: T. H.
+  - family: Chen
+    given: Tsong Yueh
+  issued:
+  - year: '2001'
+  title: 'TACCLE: A methodology for object-oriented software testing at the class
+    and cluster levels'
+  title-short: TACCLE
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '56-109'
+  volume: '10'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/366378.366380
+
+- id: journals/tosem/X03
+  type: article-journal
+  issued:
+  - year: '2003'
+  title: Reviewers 2002
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '105'
+  volume: '12'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/839268.839273
+
+- id: journals/tosem/XuR13
+  type: article-journal
+  author:
+  - family: Xu
+    given: Guoqing
+    dropping-particle: (Harry)
+  - family: Rountev
+    given: Atanas
+  issued:
+  - year: '2013'
+  title: Precise memory leak detection for java software using container profiling
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '17'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491511
+
+- id: journals/tosem/KapoorB07
+  type: article-journal
+  author:
+  - family: Kapoor
+    given: Kalpesh
+  - family: Bowen
+    given: Jonathan P.
+  issued:
+  - year: '2007'
+  title: Test conditions for fault classes in boolean specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1243987.1243988
+
+- id: journals/tosem/WassermannGSD07
+  type: article-journal
+  author:
+  - family: Wassermann
+    given: Gary
+  - family: Gould
+    given: Carl
+  - family: Su
+    given: Zhendong
+  - family: Devanbu
+    given: Premkumar T.
+  issued:
+  - year: '2007'
+  title: Static checking of dynamically generated queries in database applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1276933.1276935
+
+- id: journals/tosem/FischbeinDBCU12
+  type: article-journal
+  author:
+  - family: Fischbein
+    given: Dario
+  - family: D’Ippolito
+    given: Nicolás
+  - family: Brunet
+    given: Greg
+  - family: Chechik
+    given: Marsha
+  - family: Uchitel
+    given: Sebastián
+  issued:
+  - year: '2012'
+  title: Weak alphabet merging of partial behavior models
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '9'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089119
+
+- id: journals/tosem/SiegelMAC08
+  type: article-journal
+  author:
+  - family: Siegel
+    given: Stephen F.
+  - family: Mironova
+    given: Anastasia
+  - family: Avrunin
+    given: George S.
+  - family: Clarke
+    given: Lori A.
+  issued:
+  - year: '2008'
+  title: Combining symbolic execution with model checking to verify parallel numerical
+    programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348256
+
+- id: journals/tosem/Corbett00
+  type: article-journal
+  author:
+  - family: Corbett
+    given: James C.
+  issued:
+  - year: '2000'
+  title: Using shape analysis to reduce finite-state models of concurrent java programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '51-93'
+  volume: '9'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/332740.332741
+
+- id: journals/tosem/LuciaFOT07
+  type: article-journal
+  author:
+  - family: Lucia
+    given: Andrea De
+  - family: Fasano
+    given: Fausto
+  - family: Oliveto
+    given: Rocco
+  - family: Tortora
+    given: Genoveffa
+  issued:
+  - year: '2007'
+  title: Recovering traceability links in software artifact management systems using
+    information retrieval methods
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1276933.1276934
+
+- id: journals/tosem/Weyuker96
+  type: article-journal
+  author:
+  - family: Weyuker
+    given: Elaine J.
+  issued:
+  - year: '1996'
+  title: Using failure cost information for testing and reliability assessment
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '87-98'
+  volume: '5'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/227607.227608
+
+- id: journals/tosem/AnvikM11
+  type: article-journal
+  author:
+  - family: Anvik
+    given: John
+  - family: Murphy
+    given: Gail C.
+  issued:
+  - year: '2011'
+  title: 'Reducing the effort of bug report triage: Recommenders for development-oriented
+    decisions'
+  title-short: Reducing the effort of bug report triage
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '10'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000794
+
+- id: journals/tosem/AllenG97
+  type: article-journal
+  author:
+  - family: Allen
+    given: Robert
+  - family: Garlan
+    given: David
+  issued:
+  - year: '1997'
+  title: A formal basis for architectural connection
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '213-249'
+  volume: '6'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/258077.258078
+
+- id: journals/tosem/DenaroPT13
+  type: article-journal
+  author:
+  - family: Denaro
+    given: Giovanni
+  - family: Pezzè
+    given: Mauro
+  - family: Tosi
+    given: Davide
+  issued:
+  - year: '2013'
+  title: 'Test-and-adapt: An approach for improving service interchangeability'
+  title-short: Test-and-adapt
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '28'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522921
+
+- id: journals/tosem/ZaveJ93
+  type: article-journal
+  author:
+  - family: Zave
+    given: Pamela
+  - family: Jackson
+    given: Michael
+  issued:
+  - year: '1993'
+  title: Conjunction as composition
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '379-411'
+  volume: '2'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/158431.158438
+
+- id: journals/tosem/MasriA14
+  type: article-journal
+  author:
+  - family: Masri
+    given: Wes
+  - family: Assi
+    given: Rawad Abou
+  issued:
+  - year: '2014'
+  title: Prevalence of coincidental correctness and mitigation of its impact on fault
+    localization
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 8:1-8:28
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559932
+
+- id: journals/tosem/ZeilAW92
+  type: article-journal
+  author:
+  - family: Zeil
+    given: Steven J.
+  - family: Afifi
+    given: Faten H.
+  - family: White
+    given: Lee J.
+  issued:
+  - year: '1992'
+  title: Detection of linear errors via domain testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '422-451'
+  volume: '1'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/136586.136590
+
+- id: journals/tosem/YoungTLNB95
+  type: article-journal
+  author:
+  - family: Young
+    given: Michal
+  - family: Taylor
+    given: Richard N.
+  - family: Levine
+    given: David L.
+  - family: Nies
+    given: Kari A.
+  - family: Brodbeck
+    given: Debra
+  issued:
+  - year: '1995'
+  title: 'A concurrency analysis tool suite for ada programs: Rational, design,
+    and preliminary experience'
+  title-short: A concurrency analysis tool suite for ada programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '65-106'
+  volume: '4'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/201055.201080
+
+- id: journals/tosem/SinhaHR01
+  type: article-journal
+  author:
+  - family: Sinha
+    given: Saurabh
+  - family: Harrold
+    given: Mary Jean
+  - family: Rothermel
+    given: Gregg
+  issued:
+  - year: '2001'
+  title: Interprocedural control dependence
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '209-254'
+  volume: '10'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/367008.367022
+
+- id: journals/tosem/WurschGG13
+  type: article-journal
+  author:
+  - family: Würsch
+    given: Michael
+  - family: Giger
+    given: Emanuel
+  - family: Gall
+    given: Harald C.
+  issued:
+  - year: '2013'
+  title: Evaluating a query framework for software evolution data
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '38'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522931
+
+- id: journals/tosem/KaramSD08
+  type: article-journal
+  author:
+  - family: Karam
+    given: Marcel R.
+  - family: Smedley
+    given: Trevor J.
+  - family: Dascalu
+    given: Sergiu M.
+  issued:
+  - year: '2008'
+  title: Unit-level test adequacy criteria for visual dataflow languages and a testing
+    methodology
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1391984.1391985
+
+- id: journals/tosem/X02
+  type: article-journal
+  issued:
+  - year: '2002'
+  title: Obituary
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '385'
+  volume: '11'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/606612.606613
+
+- id: journals/tosem/DagenaisR11
+  type: article-journal
+  author:
+  - family: Dagenais
+    given: Barthélémy
+  - family: Robillard
+    given: Martin P.
+  issued:
+  - year: '2011'
+  title: Recommending adaptive changes for framework evolution
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '19'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000805
+
+- id: journals/tosem/TappendenM14
+  type: article-journal
+  author:
+  - family: Tappenden
+    given: Andrew F.
+  - family: Miller
+    given: James
+  issued:
+  - year: '2014'
+  title: Automated cookie collection testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 3:1-3:40
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559936
+
+- id: journals/tosem/ZambonelliJW03
+  type: article-journal
+  author:
+  - family: Zambonelli
+    given: Franco
+  - family: Jennings
+    given: Nicholas R.
+  - family: Wooldridge
+    given: Michael
+  issued:
+  - year: '2003'
+  title: 'Developing multiagent systems: The gaia methodology'
+  title-short: Developing multiagent systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '317-370'
+  volume: '12'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/958961.958963
+
+- id: journals/tosem/OsterweilGKW05
+  type: article-journal
+  author:
+  - family: Osterweil
+    given: Leon J.
+  - family: Ghezzi
+    given: Carlo
+  - family: Kramer
+    given: Jeff
+  - family: Wolf
+    given: Alexander L.
+  issued:
+  - year: '2005'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '381-382'
+  volume: '14'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1101815.1101816
+
+- id: journals/tosem/ArnoldVY11
+  type: article-journal
+  author:
+  - family: Arnold
+    given: Matthew
+  - family: Vechev
+    given: Martin T.
+  - family: Yahav
+    given: Eran
+  issued:
+  - year: '2011'
+  title: 'QVM: An efficient runtime for detecting defects in deployed systems'
+  title-short: QVM
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '2'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063241
+
+- id: journals/tosem/AmbriolaCF97
+  type: article-journal
+  author:
+  - family: Ambriola
+    given: Vincenzo
+  - family: Conradi
+    given: Reidar
+  - family: Fuggetta
+    given: Alfonso
+  issued:
+  - year: '1997'
+  title: Assessing process-centered software engineering environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '283-328'
+  volume: '6'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/258077.258080
+
+- id: journals/tosem/RosaDUD13
+  type: article-journal
+  author:
+  - family: Rosa
+    given: Marcello La
+  - family: Dumas
+    given: Marlon
+  - family: Uba
+    given: Reina
+  - family: Dijkman
+    given: Remco M.
+  issued:
+  - year: '2013'
+  title: 'Business process model merging: An approach to business process consolidation'
+  title-short: Business process model merging
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '11'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430547
+
+- id: journals/tosem/MedvidovicRRR02
+  type: article-journal
+  author:
+  - family: Medvidovic
+    given: Nenad
+  - family: Rosenblum
+    given: David S.
+  - family: Redmiles
+    given: David F.
+  - family: Robbins
+    given: Jason E.
+  issued:
+  - year: '2002'
+  title: Modeling software architectures in the unified modeling language
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '2-57'
+  volume: '11'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/504087.504088
+
+- id: journals/tosem/CobleighAC08
+  type: article-journal
+  author:
+  - family: Cobleigh
+    given: Jamieson M.
+  - family: Avrunin
+    given: George S.
+  - family: Clarke
+    given: Lori A.
+  issued:
+  - year: '2008'
+  title: 'Breaking up is hard to do: An evaluation of automated assume-guarantee
+    reasoning'
+  title-short: Breaking up is hard to do
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348253
+
+- id: journals/tosem/BriandFNSY14
+  type: article-journal
+  author:
+  - family: Briand
+    given: Lionel C.
+  - family: Falessi
+    given: Davide
+  - family: Nejati
+    given: Shiva
+  - family: Sabetzadeh
+    given: Mehrdad
+  - family: Yue
+    given: Tao
+  issued:
+  - year: '2014'
+  title: 'Traceability and sysML design slices to support safety inspections: A
+    controlled experiment'
+  title-short: Traceability and sysML design slices to support safety inspections
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 9:1-9:43
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559978
+
+- id: journals/tosem/Eshuis06
+  type: article-journal
+  author:
+  - family: Eshuis
+    given: Rik
+  issued:
+  - year: '2006'
+  title: Symbolic model checking of uML activity diagrams
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-38'
+  volume: '15'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1125808.1125809
+
+- id: journals/tosem/HuntVT98
+  type: article-journal
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Vo
+    given: Kiem-Phong
+  - family: Tichy
+    given: Walter F.
+  issued:
+  - year: '1998'
+  title: 'Delta algorithms: An empirical analysis'
+  title-short: Delta algorithms
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '192-214'
+  volume: '7'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/279310.279321
+
+- id: journals/tosem/GanesanL14
+  type: article-journal
+  author:
+  - family: Ganesan
+    given: Dharmalingam
+  - family: Lindvall
+    given: Mikael
+  issued:
+  - year: '2014'
+  title: 'ADAM: External dependency-driven architecture discovery and analysis of
+    quality attributes'
+  title-short: ADAM
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 17:1-17:51
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2529998
+
+- id: journals/tosem/BowdidgeG98
+  type: article-journal
+  author:
+  - family: Bowdidge
+    given: Robert W.
+  - family: Griswold
+    given: William G.
+  issued:
+  - year: '1998'
+  title: Supporting the restructuring of data abstractions through manipulation of
+    a program visualization
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '109-157'
+  volume: '7'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/279310.279312
+
+- id: journals/tosem/BanachZSW14
+  type: article-journal
+  author:
+  - family: Banach
+    given: Richard
+  - family: Zhu
+    given: Huibiao
+  - family: Su
+    given: Wen
+  - family: Wu
+    given: Xiaofeng
+  issued:
+  - year: '2014'
+  title: A continuous aSM modelling approach to pacemaker sensing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 2:1-2:40
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2610375
+
+- id: journals/tosem/McMinnBH09
+  type: article-journal
+  author:
+  - family: McMinn
+    given: Phil
+  - family: Binkley
+    given: David
+  - family: Harman
+    given: Mark
+  issued:
+  - year: '2009'
+  title: Empirical evaluation of a nesting testability transformation for evolutionary
+    testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1525880.1525884
+
+- id: journals/tosem/Snelting96
+  type: article-journal
+  author:
+  - family: Snelting
+    given: Gregor
+  issued:
+  - year: '1996'
+  title: Reengineering of configurations based on mathematical concept analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '146-189'
+  volume: '5'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/227607.227613
+
+- id: journals/tosem/DemskyL13
+  type: article-journal
+  author:
+  - family: Demsky
+    given: Brian
+  - family: Lam
+    given: Patrick
+  issued:
+  - year: '2013'
+  title: 'Views: Synthesizing fine-grained concurrency control'
+  title-short: Views
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '4'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430538
+
+- id: journals/tosem/BoddenTI14
+  type: article-journal
+  author:
+  - family: Bodden
+    given: Eric
+  - family: Tanter
+    given: Éric
+  - family: Inostroza
+    given: Milton
+  issued:
+  - year: '2014'
+  title: Join point interfaces for safe and flexible decoupling of aspects
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 7:1-7:41
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559933
+
+- id: journals/tosem/DemilloO93
+  type: article-journal
+  author:
+  - family: DeMillo
+    given: Richard A.
+  - family: Offutt
+    given: A. Jefferson
+  issued:
+  - year: '1993'
+  title: Experimental results from an automatic test case generator
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '109-127'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/151257.151258
+
+- id: journals/tosem/BatoryJMH02
+  type: article-journal
+  author:
+  - family: Batory
+    given: Don S.
+  - family: Johnson
+    given: Clay
+  - family: MacDonald
+    given: Bob
+  - family: Heeder
+    given: Dale
+    dropping-particle: von
+  issued:
+  - year: '2002'
+  title: 'Achieving extensibility through product-lines and domain-specific languages:
+    A case study'
+  title-short: Achieving extensibility through product-lines and domain-specific languages
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '191-214'
+  volume: '11'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/505145.505147
+
+- id: journals/tosem/IslamC14
+  type: article-journal
+  author:
+  - family: Islam
+    given: Mainul
+  - family: Csallner
+    given: Christoph
+  issued:
+  - year: '2014'
+  title: Generating test cases for programs that are coded against interfaces and
+    annotations
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '21'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2544135
+
+- id: journals/tosem/RajanS09
+  type: article-journal
+  author:
+  - family: Rajan
+    given: Hridesh
+  - family: Sullivan
+    given: Kevin J.
+  issued:
+  - year: '2009'
+  title: Unifying aspect- and object-oriented design
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1555392.1555396
+
+- id: journals/tosem/XieM07
+  type: article-journal
+  author:
+  - family: Xie
+    given: Qing
+  - family: Memon
+    given: Atif M.
+  issued:
+  - year: '2007'
+  title: Designing and comparing automated test oracles for gUI-based software applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1189748.1189752
+
+- id: journals/tosem/MaozHK11
+  type: article-journal
+  author:
+  - family: Maoz
+    given: Shahar
+  - family: Harel
+    given: David
+  - family: Kleinbort
+    given: Asaf
+  issued:
+  - year: '2011'
+  title: 'A compiler for multimodal scenarios: Transforming lSCs into aspectJ'
+  title-short: A compiler for multimodal scenarios
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '18'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000804
+
+- id: journals/tosem/Adrion92
+  type: article-journal
+  author:
+  - family: Adrion
+    given: W. Richards
+  issued:
+  - year: '1992'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-4'
+  volume: '1'
+  issue: '1'
+
+- id: journals/tosem/TanZZ09
+  type: article-journal
+  author:
+  - family: Tan
+    given: Hee Beng Kuan
+  - family: Zhao
+    given: Yuan
+  - family: Zhang
+    given: Hongyu
+  issued:
+  - year: '2009'
+  title: Conceptual data model-based software size estimation for information systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1571629.1571630
+
+- id: journals/tosem/Forgacs94
+  type: article-journal
+  author:
+  - family: Forgács
+    given: István
+  issued:
+  - year: '1994'
+  title: Double iterative framework for flow-sensitive interprocedural data flow analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '29-55'
+  volume: '3'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/174634.174635
+
+- id: journals/tosem/TateishiPT13
+  type: article-journal
+  author:
+  - family: Tateishi
+    given: Takaaki
+  - family: Pistoia
+    given: Marco
+  - family: Tripp
+    given: Omer
+  issued:
+  - year: '2013'
+  title: Path- and index-sensitive string analysis based on monadic second-order logic
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '33'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522926
+
+- id: journals/tosem/Callison95
+  type: article-journal
+  author:
+  - family: Callison
+    given: H. Rebecca
+  issued:
+  - year: '1995'
+  title: A time-sensitive object model for real-time systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '287-317'
+  volume: '4'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/214013.214021
+
+- id: journals/tosem/Egyed02
+  type: article-journal
+  author:
+  - family: Egyed
+    given: Alexander
+  issued:
+  - year: '2002'
+  title: Automated abstraction of class diagrams
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '449-491'
+  volume: '11'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/606612.606616
+
+- id: journals/tosem/PradellaMP13
+  type: article-journal
+  author:
+  - family: Pradella
+    given: Matteo
+  - family: Morzenti
+    given: Angelo
+  - family: Pietro
+    given: Pierluigi San
+  issued:
+  - year: '2013'
+  title: Bounded satisfiability checking of metric temporal logic specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '20'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491514
+
+- id: journals/tosem/BarrettCTW96
+  type: article-journal
+  author:
+  - family: Barrett
+    given: Daniel J.
+  - family: Clarke
+    given: Lori A.
+  - family: Tarr
+    given: Peri L.
+  - family: Wise
+    given: Alexander E.
+  issued:
+  - year: '1996'
+  title: A framework for event-based software integration
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '378-421'
+  volume: '5'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/235321.235324
+
+- id: journals/tosem/MeyersB07
+  type: article-journal
+  author:
+  - family: Meyers
+    given: Timothy M.
+  - family: Binkley
+    given: David
+  issued:
+  - year: '2007'
+  title: An empirical study of slice-based cohesion and coupling metrics
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1314493.1314495
+
+- id: journals/tosem/YangPRK14
+  type: article-journal
+  author:
+  - family: Yang
+    given: Guowei
+  - family: Person
+    given: Suzette
+  - family: Rungta
+    given: Neha
+  - family: Khurshid
+    given: Sarfraz
+  issued:
+  - year: '2014'
+  title: Directed incremental symbolic execution
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 3:1-3:42
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2629536
+
+- id: journals/tosem/StolABLF14
+  type: article-journal
+  author:
+  - family: Stol
+    given: Klaas-Jan
+  - family: Avgeriou
+    given: Paris
+  - family: Babar
+    given: Muhammad Ali
+  - family: Lucas
+    given: Yan
+  - family: Fitzgerald
+    given: Brian
+  issued:
+  - year: '2014'
+  title: Key factors for adopting inner source
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 18:1-18:35
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2533685
+
+- id: journals/tosem/Ghezzi05
+  type: article-journal
+  author:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '2005'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '119-123'
+  volume: '14'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1061254.1061255
+
+- id: journals/tosem/EmamM15
+  type: article-journal
+  author:
+  - family: Emam
+    given: Seyedeh Sepideh
+  - family: Miller
+    given: James
+  issued:
+  - year: '2015'
+  title: Test case prioritization using extended digraphs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '6'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2789209
+
+- id: journals/tosem/GhezziMRS03
+  type: article-journal
+  author:
+  - family: Ghezzi
+    given: Carlo
+  - family: Magee
+    given: Jeff
+  - family: Rombach
+    given: H. Dieter
+  - family: Soffa
+    given: Mary Lou
+  issued:
+  - year: '2003'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-2'
+  volume: '12'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/839268.839269
+
+- id: journals/tosem/XieCKX13
+  type: article-journal
+  author:
+  - family: Xie
+    given: Xiaoyuan
+  - family: Chen
+    given: Tsong Yueh
+  - family: Kuo
+    given: Fei-Ching
+  - family: Xu
+    given: Baowen
+  issued:
+  - year: '2013'
+  title: A theoretical analysis of the risk evaluation formulas for spectrum-based
+    fault localization
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '31'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522924
+
+- id: journals/tosem/KastnerATS12
+  type: article-journal
+  author:
+  - family: Kästner
+    given: Christian
+  - family: Apel
+    given: Sven
+  - family: Thüm
+    given: Thomas
+  - family: Saake
+    given: Gunter
+  issued:
+  - year: '2012'
+  title: Type checking annotation-based product lines
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '14'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211617
+
+- id: journals/tosem/LauY05
+  type: article-journal
+  author:
+  - family: Lau
+    given: Man Fai
+  - family: Yu
+    given: Yuen-Tak
+  issued:
+  - year: '2005'
+  title: An extended fault class hierarchy for specification-based testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '247-276'
+  volume: '14'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1072997.1072998
+
+- id: journals/tosem/HuntT98
+  type: article-journal
+  author:
+  - family: Hunt
+    given: James J.
+  - family: Tichy
+    given: Walter F.
+  issued:
+  - year: '1998'
+  title: 'Addendum to “delta algorithms: An empirical analysis”'
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '449'
+  volume: '7'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/292182.292200
+
+- id: journals/tosem/BrogiPT10
+  type: article-journal
+  author:
+  - family: Brogi
+    given: Antonio
+  - family: Popescu
+    given: Razvan
+  - family: Tanca
+    given: Matteo
+  issued:
+  - year: '2010'
+  title: 'Design and implementation of sator: A web service aggregator'
+  title-short: Design and implementation of sator
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1656250.1656254
+
+- id: journals/tosem/MarinDM07
+  type: article-journal
+  author:
+  - family: Marin
+    given: Marius
+  - family: Deursen
+    given: Arie
+    dropping-particle: van
+  - family: Moonen
+    given: Leon
+  issued:
+  - year: '2007'
+  title: Identifying crosscutting concerns using fan-in analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1314493.1314496
+
+- id: journals/tosem/HowdenH95
+  type: article-journal
+  author:
+  - family: Howden
+    given: William E.
+  - family: Huang
+    given: Yudong
+  issued:
+  - year: '1995'
+  title: Software trustability analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '36-64'
+  volume: '4'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/201055.201058
+
+- id: journals/tosem/Notkin13
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2013'
+  title: Editorial - looking back
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2431201
+
+- id: journals/tosem/SneltingRK06
+  type: article-journal
+  author:
+  - family: Snelting
+    given: Gregor
+  - family: Robschink
+    given: Torsten
+  - family: Krinke
+    given: Jens
+  issued:
+  - year: '2006'
+  title: Efficient path conditions in dependence graphs for software safety analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '410-457'
+  volume: '15'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1178625.1178628
+
+- id: journals/tosem/Adrion92a
+  type: article-journal
+  author:
+  - family: Adrion
+    given: W. Richards
+  issued:
+  - year: '1992'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '133'
+  volume: '1'
+  issue: '2'
+
+- id: journals/tosem/RoshandelHMM04
+  type: article-journal
+  author:
+  - family: Roshandel
+    given: Roshanak
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Mikic-Rakic
+    given: Marija
+  - family: Medvidovic
+    given: Nenad
+  issued:
+  - year: '2004'
+  title: Mae - a system model and environment for managing architectural evolution
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '240-276'
+  volume: '13'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1018210.1018213
+
+- id: journals/tosem/Rosenblum13a
+  type: article-journal
+  author:
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2013'
+  title: 'In memoriam: David notkin (1955-2013)'
+  title-short: In memoriam
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '16'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491510
+
+- id: journals/tosem/BaresiP98
+  type: article-journal
+  author:
+  - family: Baresi
+    given: Luciano
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '1998'
+  title: Toward formalizing structured analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '80-107'
+  volume: '7'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/268411.268429
+
+- id: journals/tosem/AdamsTW94
+  type: article-journal
+  author:
+  - family: Adams
+    given: Rolf
+  - family: Tichy
+    given: Walter F.
+  - family: Weinert
+    given: Annette
+  issued:
+  - year: '1994'
+  title: The cost of selective recompilation and environment processing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3-28'
+  volume: '3'
+  issue: '1'
+  note: 'comment ACM Trans. Softw. Eng. Methodol. 4(2): 214-215 (1995)'
+  URL: http://doi.acm.org/10.1145/174634.174637
+
+- id: journals/tosem/Klint93
+  type: article-journal
+  author:
+  - family: Klint
+    given: Paul
+  issued:
+  - year: '1993'
+  title: A meta-environment for generating programming environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '176-201'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/151257.151260
+
+- id: journals/tosem/DuranteSV03
+  type: article-journal
+  author:
+  - family: Durante
+    given: Luca
+  - family: Sisto
+    given: Riccardo
+  - family: Valenzano
+    given: Adriano
+  issued:
+  - year: '2003'
+  title: Automatic testing equivalence verification of spi calculus specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '222-284'
+  volume: '12'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/941566.941570
+
+- id: journals/tosem/TsuchiyaK02
+  type: article-journal
+  author:
+  - family: Tsuchiya
+    given: Tatsuhiro
+  - family: Kikuno
+    given: Tohru
+  issued:
+  - year: '2002'
+  title: On fault classes and error detection capability of specification-based testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '58-62'
+  volume: '11'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/504087.504089
+
+- id: journals/tosem/AbowdAG95
+  type: article-journal
+  author:
+  - family: Abowd
+    given: Gregory D.
+  - family: Allen
+    given: Robert J.
+  - family: Garlan
+    given: David
+  issued:
+  - year: '1995'
+  title: Formalizing style to understand descriptions of software architecture
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '319-364'
+  volume: '4'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/226241.226244
+
+- id: journals/tosem/FriasPBAM05
+  type: article-journal
+  author:
+  - family: Frias
+    given: Marcelo F.
+  - family: Pombo
+    given: Carlos López
+  - family: Baum
+    given: Gabriel A.
+  - family: Aguirre
+    given: Nazareno
+  - family: Maibaum
+    given: T. S. E.
+  issued:
+  - year: '2005'
+  title: 'Reasoning about static and dynamic properties in alloy: A purely relational
+    approach'
+  title-short: Reasoning about static and dynamic properties in alloy
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '478-526'
+  volume: '14'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1101815.1101819
+
+- id: journals/tosem/MurphyNGL98
+  type: article-journal
+  author:
+  - family: Murphy
+    given: Gail C.
+  - family: Notkin
+    given: David
+  - family: Griswold
+    given: William G.
+  - family: Lan
+    given: Erica S.-C.
+  issued:
+  - year: '1998'
+  title: An empirical study of static call graph extractors
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '158-191'
+  volume: '7'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/279310.279314
+
+- id: journals/tosem/GruschkeJ07
+  type: article-journal
+  author:
+  - family: Gruschke
+    given: Tanja M.
+  - family: Jørgensen
+    given: Magne
+  issued:
+  - year: '2007'
+  title: The role of outcome feedback in improving the uncertainty assessment of software
+    development effort estimates
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/13487689.13487693
+
+- id: journals/tosem/RomanMP97
+  type: article-journal
+  author:
+  - family: Roman
+    given: Gruia-Catalin
+  - family: McCann
+    given: Peter J.
+  - family: Plun
+    given: Jerome Y.
+  issued:
+  - year: '1997'
+  title: 'Mobile uNITY: Reasoning and specification in mobile computing'
+  title-short: Mobile uNITY
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '250-282'
+  volume: '6'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/258077.258079
+
+- id: journals/tosem/LaymanBZ14
+  type: article-journal
+  author:
+  - family: Layman
+    given: Lucas
+  - family: Basili
+    given: Victor R.
+  - family: Zelkowitz
+    given: Marvin V.
+  issued:
+  - year: '2014'
+  title: A methodology for exposing risk in achieving emergent system properties
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '22'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2560048
+
+- id: journals/tosem/MeneelySW12
+  type: article-journal
+  author:
+  - family: Meneely
+    given: Andrew
+  - family: Smith
+    given: Ben H.
+  - family: Williams
+    given: Laurie
+  issued:
+  - year: '2012'
+  title: 'Validating software metrics: A spectrum of philosophies'
+  title-short: Validating software metrics
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '24'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377661
+
+- id: journals/tosem/StoleeED14
+  type: article-journal
+  author:
+  - family: Stolee
+    given: Kathryn T.
+  - family: Elbaum
+    given: Sebastian G.
+  - family: Dobos
+    given: Daniel
+  issued:
+  - year: '2014'
+  title: Solving the search for source code
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '26'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2581377
+
+- id: journals/tosem/HallZBS14
+  type: article-journal
+  author:
+  - family: Hall
+    given: Tracy
+  - family: '0008'
+    given: Min Zhang
+  - family: Bowes
+    given: David
+  - family: Sun
+    given: Yi
+  issued:
+  - year: '2014'
+  title: Some code smells have a significant but small effect on faults
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 33:1-33:39
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2629648
+
+- id: journals/tosem/MillerS03
+  type: article-journal
+  author:
+  - family: Miller
+    given: Tim
+  - family: Strooper
+    given: Paul A.
+  issued:
+  - year: '2003'
+  title: A framework and tool support for the systematic testing of model-based specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '409-439'
+  volume: '12'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/990010.990012
+
+- id: journals/tosem/CaiS12
+  type: article-journal
+  author:
+  - family: Cai
+    given: Yuanfang
+  - family: Sullivan
+    given: Kevin J.
+  issued:
+  - year: '2012'
+  title: A formal model for automated software modularity and evolvability analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '21'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377658
+
+- id: journals/tosem/JaccheriPL98
+  type: article-journal
+  author:
+  - family: Jaccheri
+    given: Maria Letizia
+  - family: Picco
+    given: Gian Pietro
+  - family: Lago
+    given: Patricia
+  issued:
+  - year: '1998'
+  title: Eliciting software process models with the e3 language
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '368-410'
+  volume: '7'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/292182.292194
+
+- id: journals/tosem/Kuhn99
+  type: article-journal
+  author:
+  - family: Kuhn
+    given: D. Richard
+  issued:
+  - year: '1999'
+  title: Fault classes and error detection capability of specification-based testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '411-424'
+  volume: '8'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/322993.322996
+
+- id: journals/tosem/Notkin12
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2012'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '7'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089117
+
+- id: journals/tosem/ErwigW11
+  type: article-journal
+  author:
+  - family: Erwig
+    given: Martin
+  - family: Walkingshaw
+    given: Eric
+  issued:
+  - year: '2011'
+  title: 'The choice calculus: A representation for software variation'
+  title-short: The choice calculus
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '6'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063245
+
+- id: journals/tosem/DuranteFG00
+  type: article-journal
+  author:
+  - family: Durante
+    given: Antonio
+  - family: Focardi
+    given: Riccardo
+  - family: Gorrieri
+    given: Roberto
+  issued:
+  - year: '2000'
+  title: A compiler for analyzing cryptographic protocols using noninterference
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '488-528'
+  volume: '9'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/363516.363532
+
+- id: journals/tosem/MurphyPR06
+  type: article-journal
+  author:
+  - family: Murphy
+    given: Amy L.
+  - family: Picco
+    given: Gian Pietro
+  - family: Roman
+    given: Gruia-Catalin
+  issued:
+  - year: '2006'
+  title: 'LIME: A coordination model and middleware supporting mobility of hosts
+    and agents'
+  title-short: LIME
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '279-328'
+  volume: '15'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1151695.1151698
+
+- id: journals/tosem/SullivanN92
+  type: article-journal
+  author:
+  - family: Sullivan
+    given: Kevin J.
+  - family: Notkin
+    given: David
+  issued:
+  - year: '1992'
+  title: Reconciling environment integration and software evolution
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '229-268'
+  volume: '1'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/131736.131744
+
+- id: journals/tosem/PodgurskiP93
+  type: article-journal
+  author:
+  - family: Podgurski
+    given: Andy
+  - family: Pierce
+    given: Lynn
+  issued:
+  - year: '1993'
+  title: Retrieving reusable software by sampling behaviour
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '286-303'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/152388.152392
+
+- id: journals/tosem/BaresiM07
+  type: article-journal
+  author:
+  - family: Baresi
+    given: Luciano
+  - family: Morasca
+    given: Sandro
+  issued:
+  - year: '2007'
+  title: Three empirical studies on estimating the design effort of web applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1276933.1276936
+
+- id: journals/tosem/BalabanM13
+  type: article-journal
+  author:
+  - family: Balaban
+    given: Mira
+  - family: Maraee
+    given: Azzam
+  issued:
+  - year: '2013'
+  title: Finite satisfiability of uML class diagrams with constrained class hierarchy
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '24'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491518
+
+- id: journals/tosem/BavotaGOPL14
+  type: article-journal
+  author:
+  - family: Bavota
+    given: Gabriele
+  - family: Gethers
+    given: Malcom
+  - family: Oliveto
+    given: Rocco
+  - family: Poshyvanyk
+    given: Denys
+  - family: Lucia
+    given: Andrea De
+  issued:
+  - year: '2014'
+  title: Improving software modularization via automated analysis of latent topics
+    and dependencies
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 4:1-4:33
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559935
+
+- id: journals/tosem/ZhuB13
+  type: article-journal
+  author:
+  - family: Zhu
+    given: Hong
+  - family: Bayley
+    given: Ian
+  issued:
+  - year: '2013'
+  title: An algebra of design patterns
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '23'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491517
+
+- id: journals/tosem/EstublierLHCCTW05
+  type: article-journal
+  author:
+  - family: Estublier
+    given: Jacky
+  - family: Leblang
+    given: David B.
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Conradi
+    given: Reidar
+  - family: Clemm
+    given: Geoffrey
+  - family: Tichy
+    given: Walter F.
+  - family: Weber
+    given: Darcy Wiborg
+  issued:
+  - year: '2005'
+  title: Impact of software engineering research on the practice of software configuration
+    management
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '383-430'
+  volume: '14'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1101815.1101817
+
+- id: journals/tosem/ClarkeJM00
+  type: article-journal
+  author:
+  - family: Clarke
+    given: Edmund M.
+  - family: Jha
+    given: Somesh
+  - family: Marrero
+    given: Wilfredo R.
+  issued:
+  - year: '2000'
+  title: Verifying security protocols with brutus
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '443-487'
+  volume: '9'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/363516.363528
+
+- id: journals/tosem/BernardoCD02
+  type: article-journal
+  author:
+  - family: Bernardo
+    given: Marco
+  - family: Ciancarini
+    given: Paolo
+  - family: Donatiello
+    given: Lorenzo
+  issued:
+  - year: '2002'
+  title: Architecting families of software systems with process algebras
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '386-426'
+  volume: '11'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/606612.606614
+
+- id: journals/tosem/UchitelKM04
+  type: article-journal
+  author:
+  - family: Uchitel
+    given: Sebastián
+  - family: Kramer
+    given: Jeff
+  - family: Magee
+    given: Jeff
+  issued:
+  - year: '2004'
+  title: Incremental elaboration of scenario-based specifications and behavior models
+    using implied scenarios
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '37-85'
+  volume: '13'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1005561.1005563
+
+- id: journals/tosem/0001NRN15
+  type: article-journal
+  author:
+  - family: '0001'
+    given: Robert Dyer
+  - family: Nguyen
+    given: Hoan Anh
+  - family: Rajan
+    given: Hridesh
+  - family: Nguyen
+    given: Tien N.
+  issued:
+  - year: '2015'
+  title: 'Boa: Ultra-large-scale software repository and source-code mining'
+  title-short: Boa
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '7'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2803171
+
+- id: journals/tosem/LeS13
+  type: article-journal
+  author:
+  - family: Le
+    given: Wei
+  - family: Soffa
+    given: Mary Lou
+  issued:
+  - year: '2013'
+  title: 'Marple: Detecting faults in path segments using automatically generated
+    analyses'
+  title-short: Marple
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '18'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491512
+
+- id: journals/tosem/ChakiSV13
+  type: article-journal
+  author:
+  - family: Chaki
+    given: Sagar
+  - family: Schallhart
+    given: Christian
+  - family: Veith
+    given: Helmut
+  issued:
+  - year: '2013'
+  title: Verification across intellectual property boundaries
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '15'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430550
+
+- id: journals/tosem/WalkinshawB13
+  type: article-journal
+  author:
+  - family: Walkinshaw
+    given: Neil
+  - family: Bogdanov
+    given: Kirill
+  issued:
+  - year: '2013'
+  title: Automated comparison of state-based software models in terms of their language
+    and structure
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '13'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430549
+
+- id: journals/tosem/KrishnamurthiF07
+  type: article-journal
+  author:
+  - family: Krishnamurthi
+    given: Shriram
+  - family: Fisler
+    given: Kathi
+  issued:
+  - year: '2007'
+  title: Foundations of incremental aspect model-checking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1217295.1217296
+
+- id: journals/tosem/AliRLDT15
+  type: article-journal
+  author:
+  - family: Ali
+    given: Karim
+  - family: Rapoport
+    given: Marianna
+  - family: Lhoták
+    given: Ondrej
+  - family: Dolby
+    given: Julian
+  - family: Tip
+    given: Frank
+  issued:
+  - year: '2015'
+  title: Type-based call graph construction algorithms for scala
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '9'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2824234
+
+- id: journals/tosem/Reiss99
+  type: article-journal
+  author:
+  - family: Reiss
+    given: Steven P.
+  issued:
+  - year: '1999'
+  title: The desert environment
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '297-342'
+  volume: '8'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/322993.322994
+
+- id: journals/tosem/FisherRBCCB06
+  type: article-journal
+  author:
+  - family: II
+    given: Marc Fisher
+  - family: Rothermel
+    given: Gregg
+  - family: Brown
+    given: Darren
+  - family: Cao
+    given: Mingming
+  - family: Cook
+    given: Curtis R.
+  - family: Burnett
+    given: Margaret M.
+  issued:
+  - year: '2006'
+  title: Integrating automated test generation into the wYSIWYT spreadsheet testing
+    methodology
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '150-194'
+  volume: '15'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1131421.1131423
+
+- id: journals/tosem/LopesWF03
+  type: article-journal
+  author:
+  - family: Lopes
+    given: Antónia
+  - family: Wermelinger
+    given: Michel
+  - family: Fiadeiro
+    given: José Luiz
+  issued:
+  - year: '2003'
+  title: High-order architectural connectors
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '64-104'
+  volume: '12'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/839268.839272
+
+- id: journals/tosem/HenkelRD08
+  type: article-journal
+  author:
+  - family: Henkel
+    given: Johannes
+  - family: Reichenbach
+    given: Christoph
+  - family: Diwan
+    given: Amer
+  issued:
+  - year: '2008'
+  title: Developing and debugging algebraic specifications for java classes
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1363102.1363105
+
+- id: journals/tosem/CrowV98
+  type: article-journal
+  author:
+  - family: Crow
+    given: Judith
+  - family: Vito
+    given: Ben L. Di
+  issued:
+  - year: '1998'
+  title: 'Formalizing space shuttle software requirements: Four case studies'
+  title-short: Formalizing space shuttle software requirements
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '296-332'
+  volume: '7'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/287000.287023
+
+- id: journals/tosem/Notkin08a
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2008'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1363102.1363103
+
+- id: journals/tosem/GuptaSH97
+  type: article-journal
+  author:
+  - family: Gupta
+    given: Rajiv
+  - family: Soffa
+    given: Mary Lou
+  - family: Howard
+    given: John
+  issued:
+  - year: '1997'
+  title: 'Hybrid slicing: Integrating dynamic information with static analysis'
+  title-short: Hybrid slicing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '370-397'
+  volume: '6'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/261640.261644
+
+- id: journals/tosem/MinskyU00
+  type: article-journal
+  author:
+  - family: Minsky
+    given: Naftaly H.
+  - family: Ungureanu
+    given: Victoria
+  issued:
+  - year: '2000'
+  title: 'Law-governed interaction: A coordination and control mechanism for heterogeneous
+    distributed systems'
+  title-short: Law-governed interaction
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '273-305'
+  volume: '9'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/352591.352592
+
+- id: journals/tosem/StreckerM12
+  type: article-journal
+  author:
+  - family: Strecker
+    given: Jaymie
+  - family: Memon
+    given: Atif M.
+  issued:
+  - year: '2012'
+  title: Accounting for defect characteristics in evaluations of testing techniques
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '17'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211620
+
+- id: journals/tosem/DoongF94
+  type: article-journal
+  author:
+  - family: Doong
+    given: Roong-Ko
+  - family: Frankl
+    given: Phyllis G.
+  issued:
+  - year: '1994'
+  title: The aSTOOT approach to testing object-oriented programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '101-130'
+  volume: '3'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/192218.192221
+
+- id: journals/tosem/Notkin08
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2008'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348251
+
+- id: journals/tosem/PorterSMV98
+  type: article-journal
+  author:
+  - family: Porter
+    given: Adam A.
+  - family: Siy
+    given: Harvey P.
+  - family: Mockus
+    given: Audris
+  - family: Votta
+    given: Lawrence G.
+  issued:
+  - year: '1998'
+  title: Understanding the sources of variation in software inspections
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '41-79'
+  volume: '7'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/268411.268421
+
+- id: journals/tosem/MasriP09
+  type: article-journal
+  author:
+  - family: Masri
+    given: Wes
+  - family: Podgurski
+    given: Andy
+  issued:
+  - year: '2009'
+  title: Measuring the strength of information flows in programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1571629.1571631
+
+- id: journals/tosem/DoppkeHW98
+  type: article-journal
+  author:
+  - family: Doppke
+    given: John C.
+  - family: Heimbigner
+    given: Dennis
+  - family: Wolf
+    given: Alexander L.
+  issued:
+  - year: '1998'
+  title: Software process modeling and execution within virtual environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-40'
+  volume: '7'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/268411.268415
+
+- id: journals/tosem/MollerS14
+  type: article-journal
+  author:
+  - family: Møller
+    given: Anders
+  - family: Schwarz
+    given: Mathias
+  issued:
+  - year: '2014'
+  title: Automated detection of client-state manipulation vulnerabilities
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 29:1-29:30
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2531921
+
+- id: journals/tosem/RothermelEMKQ04
+  type: article-journal
+  author:
+  - family: Rothermel
+    given: Gregg
+  - family: Elbaum
+    given: Sebastian G.
+  - family: Malishevsky
+    given: Alexey G.
+  - family: Kallakuri
+    given: Praveen
+  - family: Qiu
+    given: Xuemei
+  issued:
+  - year: '2004'
+  title: On test suite composition and cost-effective regression testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '277-331'
+  volume: '13'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1027092.1027093
+
+- id: journals/tosem/JaloteMS07
+  type: article-journal
+  author:
+  - family: Jalote
+    given: Pankaj
+  - family: Murphy
+    given: Brendan
+  - family: Sharma
+    given: Vibhu Saujanya
+  issued:
+  - year: '2007'
+  title: Post-release reliability growth in software products
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/13487689.13487690
+
+- id: journals/tosem/FelderM94
+  type: article-journal
+  author:
+  - family: Felder
+    given: Miguel
+  - family: Morzenti
+    given: Angelo
+  issued:
+  - year: '1994'
+  title: Validating real-time systems by history-checking tRIO specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '308-339'
+  volume: '3'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/201024.201034
+
+- id: journals/tosem/MaalejTRK14
+  type: article-journal
+  author:
+  - family: Maalej
+    given: Walid
+  - family: Tiarks
+    given: Rebecca
+  - family: Roehm
+    given: Tobias
+  - family: Koschke
+    given: Rainer
+  issued:
+  - year: '2014'
+  title: On the comprehension of program comprehension
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 31:1-31:37
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2622669
+
+- id: journals/tosem/ThiranHHB06
+  type: article-journal
+  author:
+  - family: Thiran
+    given: Philippe
+  - family: Hainaut
+    given: Jean-Luc
+  - family: Houben
+    given: Geert-Jan
+  - family: Benslimane
+    given: Djamal
+  issued:
+  - year: '2006'
+  title: Wrapper-based evolution of legacy information systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '329-359'
+  volume: '15'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1178625.1178626
+
+- id: journals/tosem/Pons02
+  type: article-journal
+  author:
+  - family: Pons
+    given: Alexander P.
+  issued:
+  - year: '2002'
+  title: Temporal abstract classes and virtual temporal specifications for real-time
+    systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '291-308'
+  volume: '11'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/567793.567794
+
+- id: journals/tosem/McCannR99
+  type: article-journal
+  author:
+  - family: McCann
+    given: Peter J.
+  - family: Roman
+    given: Gruia-Catalin
+  issued:
+  - year: '1999'
+  title: Modeling mobile iP in mobile uNITY
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '115-146'
+  volume: '8'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/304399.304400
+
+- id: journals/tosem/ScannielloGRTD15
+  type: article-journal
+  author:
+  - family: Scanniello
+    given: Giuseppe
+  - family: Gravino
+    given: Carmine
+  - family: Risi
+    given: Michele
+  - family: Tortora
+    given: Genoveffa
+  - family: Dodero
+    given: Gabriella
+  issued:
+  - year: '2015'
+  title: 'Documenting design-pattern instances: A family of experiments on source-code
+    comprehensibility'
+  title-short: Documenting design-pattern instances
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '14'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2699696
+
+- id: journals/tosem/FeltyN03
+  type: article-journal
+  author:
+  - family: Felty
+    given: Amy P.
+  - family: Namjoshi
+    given: Kedar S.
+  issued:
+  - year: '2003'
+  title: Feature specification and automated conflict detection
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3-27'
+  volume: '12'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/839268.839270
+
+- id: journals/tosem/BehjatiNB14
+  type: article-journal
+  author:
+  - family: Behjati
+    given: Razieh
+  - family: Nejati
+    given: Shiva
+  - family: Briand
+    given: Lionel C.
+  issued:
+  - year: '2014'
+  title: Architecture-level configuration of large-scale embedded software systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '25'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2581376
+
+- id: journals/tosem/MorzentiP94
+  type: article-journal
+  author:
+  - family: Morzenti
+    given: Angelo
+  - family: Pietro
+    given: Pierluigi San
+  issued:
+  - year: '1994'
+  title: Object-oriented logical specification of time-critical systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '56-98'
+  volume: '3'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/174634.174636
+
+- id: journals/tosem/MahmoudB15
+  type: article-journal
+  author:
+  - family: Mahmoud
+    given: Anas
+  - family: Bradshaw
+    given: Gary
+  issued:
+  - year: '2015'
+  title: Estimating semantic relatedness in source code
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '10'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2824251
+
+- id: journals/tosem/LaraGC14
+  type: article-journal
+  author:
+  - family: Lara
+    given: Juan
+    dropping-particle: de
+  - family: Guerra
+    given: Esther
+  - family: Cuadrado
+    given: Jesús Sánchez
+  issued:
+  - year: '2014'
+  title: When and how to use multilevel modelling
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 12:1-12:46
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2685615
+
+- id: journals/tosem/VenkatasubramanianTA04
+  type: article-journal
+  author:
+  - family: Venkatasubramanian
+    given: Nalini
+  - family: Talcott
+    given: Carolyn L.
+  - family: Agha
+    given: Gul
+  issued:
+  - year: '2004'
+  title: A formal model for reasoning about adaptive qoS-enabled middleware
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '86-147'
+  volume: '13'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1005561.1005564
+
+- id: journals/tosem/Duala-EkokoR10
+  type: article-journal
+  author:
+  - family: Duala-Ekoko
+    given: Ekwa
+  - family: Robillard
+    given: Martin P.
+  issued:
+  - year: '2010'
+  title: 'Clone region descriptors: Representing and tracking duplication in source
+    code'
+  title-short: Clone region descriptors
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1767751.1767754
+
+- id: journals/tosem/GamatieGGT07
+  type: article-journal
+  author:
+  - family: Gamatié
+    given: Abdoulaye
+  - family: Gautier
+    given: Thierry
+  - family: Guernic
+    given: Paul Le
+  - family: Talpin
+    given: Jean-Pierre
+  issued:
+  - year: '2007'
+  title: Polychronous design of embedded real-time applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1217295.1217298
+
+- id: journals/tosem/HaoZZRM14
+  type: article-journal
+  author:
+  - family: Hao
+    given: Dan
+  - family: Zhang
+    given: Lingming
+  - family: '0023'
+    given: Lu Zhang
+  - family: Rothermel
+    given: Gregg
+  - family: Mei
+    given: Hong
+  issued:
+  - year: '2014'
+  title: A unified test case prioritization approach
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 10:1-10:31
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2685614
+
+- id: journals/tosem/DamianiFB99
+  type: article-journal
+  author:
+  - family: Damiani
+    given: Ernesto
+  - family: Fugini
+    given: Maria Grazia
+  - family: Bellettini
+    given: Carlo
+  issued:
+  - year: '1999'
+  title: A hierarchy-aware approach to faceted classification of objected-oriented
+    components
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '215-262'
+  volume: '8'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/310663.310665
+
+- id: journals/tosem/DamianiFB99a
+  type: article-journal
+  author:
+  - family: Damiani
+    given: Ernesto
+  - family: Fugini
+    given: Maria Grazia
+  - family: Bellettini
+    given: Carlo
+  issued:
+  - year: '1999'
+  title: 'Corrigenda: A hierarchy-aware approach to faceted classification of object-oriented
+    components'
+  title-short: Corrigenda
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '425-472'
+  volume: '8'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/322993.322997
+
+- id: journals/tosem/DevalbuJ97
+  type: article-journal
+  author:
+  - family: Devanbu
+    given: Premkumar T.
+  - family: Jones
+    given: Mark A.
+  issued:
+  - year: '1997'
+  title: The use of description logics in kBSE systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '141-172'
+  volume: '6'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/248233.248253
+
+- id: journals/tosem/KlintLV05
+  type: article-journal
+  author:
+  - family: Klint
+    given: Paul
+  - family: Lämmel
+    given: Ralf
+  - family: Verhoef
+    given: Chris
+  issued:
+  - year: '2005'
+  title: Toward an engineering discipline for grammarware
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '331-380'
+  volume: '14'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1072997.1073000
+
+- id: journals/tosem/SanthiarPK14
+  type: article-journal
+  author:
+  - family: Santhiar
+    given: Anirudh
+  - family: Pandita
+    given: Omesh
+  - family: Kanade
+    given: Aditya
+  issued:
+  - year: '2014'
+  title: Mining unit tests for discovery and migration of math aPIs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 4:1-4:33
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2629506
+
+- id: journals/tosem/LiangH02
+  type: article-journal
+  author:
+  - family: Liang
+    given: Donglin
+  - family: Harrold
+    given: Mary Jean
+  issued:
+  - year: '2002'
+  title: Equivalence analysis and its application in improving the efficiency of program
+    slicing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '347-383'
+  volume: '11'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/567793.567796
+
+- id: journals/tosem/ZaremskiW95
+  type: article-journal
+  author:
+  - family: Zaremski
+    given: Amy Moormann
+  - family: Wing
+    given: Jeannette M.
+  issued:
+  - year: '1995'
+  title: 'Signature matching: A tool for using software libraries'
+  title-short: Signature matching
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '146-170'
+  volume: '4'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/210134.210179
+
+- id: journals/tosem/HolmesW12
+  type: article-journal
+  author:
+  - family: Holmes
+    given: Reid
+  - family: Walker
+    given: Robert J.
+  issued:
+  - year: '2012'
+  title: Systematizing pragmatic software reuse
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '20'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377657
+
+- id: journals/tosem/SistlaGE00
+  type: article-journal
+  author:
+  - family: Sistla
+    given: A. Prasad
+  - family: Gyuris
+    given: Viktor
+  - family: Emerson
+    given: E. Allen
+  issued:
+  - year: '2000'
+  title: 'SMC: A symmetry-based model checker for verification of safety and liveness
+    properties'
+  title-short: SMC
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '133-166'
+  volume: '9'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/350887.350891
+
+- id: journals/tosem/Hierons06
+  type: article-journal
+  author:
+  - family: Hierons
+    given: Robert M.
+  issued:
+  - year: '2006'
+  title: Avoiding coincidental correctness in boundary value analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '227-241'
+  volume: '15'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1151695.1151696
+
+- id: journals/tosem/PoshyvanykGM12
+  type: article-journal
+  author:
+  - family: Poshyvanyk
+    given: Denys
+  - family: Gethers
+    given: Malcom
+  - family: Marcus
+    given: Andrian
+  issued:
+  - year: '2012'
+  title: Concept location using formal concept analysis and information retrieval
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '23'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377660
+
+- id: journals/tosem/Robillard07
+  type: article-journal
+  author:
+  - family: Robillard
+    given: Martin P.
+  issued:
+  - year: '2007'
+  title: Topology analysis of software dependencies
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/13487689.13487691
+
+- id: journals/tosem/MyersL00
+  type: article-journal
+  author:
+  - family: Myers
+    given: Andrew C.
+  - family: Liskov
+    given: Barbara
+  issued:
+  - year: '2000'
+  title: Protecting privacy using the decentralized label model
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '410-442'
+  volume: '9'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/363516.363526
+
+- id: journals/tosem/OffuttLRUZ96
+  type: article-journal
+  author:
+  - family: Offutt
+    given: A. Jefferson
+  - family: Lee
+    given: Ammei
+  - family: Rothermel
+    given: Gregg
+  - family: Untch
+    given: Roland H.
+  - family: Zapf
+    given: Christian
+  issued:
+  - year: '1996'
+  title: An experimental determination of sufficient mutant operators
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '99-118'
+  volume: '5'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/227607.227610
+
+- id: journals/tosem/CiapessoniMCMM99
+  type: article-journal
+  author:
+  - family: Ciapessoni
+    given: Emanuele
+  - family: Mirandola
+    given: Piergiorgio
+  - family: Coen-Porisini
+    given: Alberto
+  - family: Mandrioli
+    given: Dino
+  - family: Morzenti
+    given: Angelo
+  issued:
+  - year: '1999'
+  title: 'From formal models to formally based methods: An industrial experience'
+  title-short: From formal models to formally based methods
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '79-113'
+  volume: '8'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/295558.295566
+
+- id: journals/tosem/RobillardM07
+  type: article-journal
+  author:
+  - family: Robillard
+    given: Martin P.
+  - family: Murphy
+    given: Gail C.
+  issued:
+  - year: '2007'
+  title: Representing concerns in source code
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1189748.1189751
+
+- id: journals/tosem/CugolaNFG96
+  type: article-journal
+  author:
+  - family: Cugola
+    given: Gianpaolo
+  - family: Nitto
+    given: Elisabetta Di
+  - family: Fuggetta
+    given: Alfonso
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '1996'
+  title: A framework for formalizing inconsistencies and deviations in human-centered
+    systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '191-230'
+  volume: '5'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/234426.234427
+
+- id: journals/tosem/Hierons02
+  type: article-journal
+  author:
+  - family: Hierons
+    given: Robert M.
+  issued:
+  - year: '2002'
+  title: Comparing test sets and criteria in the presence of test hypotheses and fault
+    domains
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '427-448'
+  volume: '11'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/606612.606615
+
+- id: journals/tosem/Brett95
+  type: article-journal
+  author:
+  - family: Brett
+    given: Bevin R.
+  issued:
+  - year: '1995'
+  title: Comments on “the cost of selective recompilation and environment processing”
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '214-215'
+  volume: '4'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/210134.210435
+
+- id: journals/tosem/EmmerichAS07
+  type: article-journal
+  author:
+  - family: Emmerich
+    given: Wolfgang
+  - family: Aoyama
+    given: Mikio
+  - family: Sventek
+    given: Joe
+  issued:
+  - year: '2007'
+  title: The impact of research on the development of middleware technology
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/13487689.13487692
+
+- id: journals/tosem/Rosenblum14a
+  type: article-journal
+  author:
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2014'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 11:1-11:4
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2581373
+
+- id: journals/tosem/KulkarniAT12
+  type: article-journal
+  author:
+  - family: Kulkarni
+    given: Devdatta
+  - family: '0002'
+    given: Tanvir Ahmed
+  - family: Tripathi
+    given: Anand
+  issued:
+  - year: '2012'
+  title: A generative programming framework for context-aware cSCW applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '11'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089121
+
+- id: journals/tosem/TipD01
+  type: article-journal
+  author:
+  - family: Tip
+    given: Frank
+  - family: Dinesh
+    given: T. B.
+  issued:
+  - year: '2001'
+  title: A slicing-based approach for locating type errors
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '5-55'
+  volume: '10'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/366378.366379
+
+- id: journals/tosem/ChenY11
+  type: article-journal
+  author:
+  - family: Chen
+    given: Jinjun
+  - family: Yang
+    given: Yun
+  issued:
+  - year: '2011'
+  title: Temporal dependency-based checkpoint selection for dynamic verification of
+    temporal constraints in scientific workflow systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '9'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000793
+
+- id: journals/tosem/GencelD08
+  type: article-journal
+  author:
+  - family: Gencel
+    given: Çigdem
+  - family: Demirörs
+    given: Onur
+  issued:
+  - year: '2008'
+  title: Functional size measurement revisited
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1363102.1363106
+
+- id: journals/tosem/DuriBDS94
+  type: article-journal
+  author:
+  - family: Duri
+    given: Sastry
+  - family: Buy
+    given: Ugo A.
+  - family: Devarapalli
+    given: R.
+  - family: Shatz
+    given: Sol M.
+  issued:
+  - year: '1994'
+  title: Application and experimental evaluation of state space reduction methods
+    for deadlock analysis in ada
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '340-380'
+  volume: '3'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/201024.201038
+
+- id: journals/tosem/Jackson95
+  type: article-journal
+  author:
+  - family: Jackson
+    given: Daniel
+  issued:
+  - year: '1995'
+  title: 'Aspect: Detecting bugs with abstract dependences'
+  title-short: Aspect
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '109-145'
+  volume: '4'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/210134.210135
+
+- id: journals/tosem/BrambillaCFM06
+  type: article-journal
+  author:
+  - family: '0001'
+    given: Marco Brambilla
+  - family: Ceri
+    given: Stefano
+  - family: Fraternali
+    given: Piero
+  - family: Manolescu
+    given: Ioana
+  issued:
+  - year: '2006'
+  title: Process modeling in web applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '360-409'
+  volume: '15'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1178625.1178627
+
+- id: journals/tosem/DiepDE11
+  type: article-journal
+  author:
+  - family: Diep
+    given: Madeline
+  - family: Dwyer
+    given: Matthew B.
+  - family: Elbaum
+    given: Sebastian G.
+  issued:
+  - year: '2011'
+  title: Lattice-based sampling for path property monitoring
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '5'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063244
+
+- id: journals/tosem/BasiliCC92
+  type: article-journal
+  author:
+  - family: Basili
+    given: Victor R.
+  - family: Caldiera
+    given: Gianluigi
+  - family: Cantone
+    given: Giovanni
+  issued:
+  - year: '1992'
+  title: A reference architecture for the component factory
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '53-80'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/125489.122823
+
+- id: journals/tosem/BeauvaisRGHGT01
+  type: article-journal
+  author:
+  - family: Beauvais
+    given: Jean-René
+  - family: Rutten
+    given: Éric
+  - family: Gautier
+    given: Thierry
+  - family: Houdebine
+    given: Roland
+  - family: Guernic
+    given: Paul Le
+  - family: Tang
+    given: Y.-M.
+  issued:
+  - year: '2001'
+  title: Modeling statecharts and activitycharts as signal equations
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '397-451'
+  volume: '10'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/384189.384191
+
+- id: journals/tosem/MillsG00
+  type: article-journal
+  author:
+  - family: Mills
+    given: Kevin L.
+  - family: Gomaa
+    given: Hassan
+  issued:
+  - year: '2000'
+  title: A knowledge-based method for inferring semantic concepts from visual models
+    of system behavior
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '306-337'
+  volume: '9'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/352591.352594
+
+- id: journals/tosem/Dillon93
+  type: article-journal
+  author:
+  - family: Dillon
+    given: Laura K.
+  issued:
+  - year: '1993'
+  title: A visual model for ada tasking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '311-345'
+  volume: '2'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/158431.158432
+
+- id: journals/tosem/PohlWDHJK99
+  type: article-journal
+  author:
+  - family: Pohl
+    given: Klaus
+  - family: Weidenhaupt
+    given: Klaus
+  - family: Dömges
+    given: Ralf
+  - family: Haumer
+    given: Peter
+  - family: Jarke
+    given: Matthias
+  - family: Klamma
+    given: Ralf
+  issued:
+  - year: '1999'
+  title: 'PRIME - toward process-integrated modeling environments: 1'
+  title-short: PRIME - toward process-integrated modeling environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '343-410'
+  volume: '8'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/322993.322995
+
+- id: journals/tosem/FongC00
+  type: article-journal
+  author:
+  - family: Fong
+    given: Philip W. L.
+  - family: Cameron
+    given: Robert D.
+  issued:
+  - year: '2000'
+  title: 'Proof linking: Modular verification of mobile programs in the presence
+    of lazy, dynamic linking'
+  title-short: Proof linking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '379-409'
+  volume: '9'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/363516.363523
+
+- id: journals/tosem/BauerLW09
+  type: article-journal
+  author:
+  - family: Bauer
+    given: Lujo
+  - family: Ligatti
+    given: Jay
+  - family: Walker
+    given: David
+  issued:
+  - year: '2009'
+  title: Composing expressive runtime security policies
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1525880.1525882
+
+- id: journals/tosem/OuyangDAHM09
+  type: article-journal
+  author:
+  - family: Ouyang
+    given: Chun
+  - family: Dumas
+    given: Marlon
+  - family: Aalst
+    given: Wil M. P.
+    dropping-particle: van der
+  - family: Hofstede
+    given: Arthur H. M.
+    dropping-particle: ter
+  - family: Mendling
+    given: Jan
+  issued:
+  - year: '2009'
+  title: From business process models to process-oriented software systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1555392.1555395
+
+- id: journals/tosem/GervasiZ05
+  type: article-journal
+  author:
+  - family: Gervasi
+    given: Vincenzo
+  - family: Zowghi
+    given: Didar
+  issued:
+  - year: '2005'
+  title: Reasoning about inconsistencies in natural language requirements
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '277-330'
+  volume: '14'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1072997.1072999
+
+- id: journals/tosem/FritzMMOH14
+  type: article-journal
+  author:
+  - family: Fritz
+    given: Thomas
+  - family: Murphy
+    given: Gail C.
+  - family: Murphy-Hill
+    given: Emerson R.
+  - family: Ou
+    given: Jingwen
+  - family: Hill
+    given: Emily
+  issued:
+  - year: '2014'
+  title: 'Degree-of-knowledge: Modeling a developer’s knowledge of code'
+  title-short: Degree-of-knowledge
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 14:1-14:42
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2512207
+
+- id: journals/tosem/RigbyGCS14
+  type: article-journal
+  author:
+  - family: Rigby
+    given: Peter C.
+  - family: Germán
+    given: Daniel M.
+  - family: Cowen
+    given: Laura
+  - family: Storey
+    given: Margaret-Anne D.
+  issued:
+  - year: '2014'
+  title: 'Peer review on open-source software projects: Parameters, statistical
+    models, and theory'
+  title-short: Peer review on open-source software projects
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 35:1-35:33
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2594458
+
+- id: journals/tosem/CarzanigaGPP15
+  type: article-journal
+  author:
+  - family: Carzaniga
+    given: Antonio
+  - family: Gorla
+    given: Alessandra
+  - family: Perino
+    given: Nicolò
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2015'
+  title: 'Automatic workarounds: Exploiting the intrinsic redundancy of web applications'
+  title-short: Automatic workarounds
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '16'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2755970
+
+- id: journals/tosem/DyerR10
+  type: article-journal
+  author:
+  - family: '0001'
+    given: Robert Dyer
+  - family: Rajan
+    given: Hridesh
+  issued:
+  - year: '2010'
+  title: Supporting dynamic aspect-oriented features
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1824760.1824764
+
+- id: journals/tosem/HarmanP15
+  type: article-journal
+  author:
+  - family: Harman
+    given: Mark
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2015'
+  title: Introduction to the special issue on iSSTA 2013
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '21'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2809789
+
+- id: journals/tosem/SahinKBD14
+  type: article-journal
+  author:
+  - family: Sahin
+    given: Dilan
+  - family: Kessentini
+    given: Marouane
+  - family: Bechikh
+    given: Slim
+  - family: Deb
+    given: Kalyanmoy
+  issued:
+  - year: '2014'
+  title: Code-smell detection as a bilevel problem
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 6:1-6:44
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2675067
+
+- id: journals/tosem/PerrySV01
+  type: article-journal
+  author:
+  - family: Perry
+    given: Dewayne E.
+  - family: Siy
+    given: Harvey P.
+  - family: Votta
+    given: Lawrence G.
+  issued:
+  - year: '2001'
+  title: 'Parallel changes in large-scale software development: An observational
+    case study'
+  title-short: Parallel changes in large-scale software development
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '308-337'
+  volume: '10'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/383876.383878
+
+- id: journals/tosem/CasoBGU13
+  type: article-journal
+  author:
+  - family: Caso
+    given: Guido
+    dropping-particle: de
+  - family: Braberman
+    given: Víctor A.
+  - family: Garbervetsky
+    given: Diego
+  - family: Uchitel
+    given: Sebastián
+  issued:
+  - year: '2013'
+  title: Enabledness-based program abstractions for behavior validation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '25'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491519
+
+- id: journals/tosem/DIppolitoBPU13
+  type: article-journal
+  author:
+  - family: D’Ippolito
+    given: Nicolás
+  - family: Braberman
+    given: Víctor A.
+  - family: Piterman
+    given: Nir
+  - family: Uchitel
+    given: Sebastián
+  issued:
+  - year: '2013'
+  title: Synthesizing nonanomalous event-based controllers for liveness goals
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '9'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430543
+
+- id: journals/tosem/DwyerR15
+  type: article-journal
+  author:
+  - family: Dwyer
+    given: Matthew B.
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2015'
+  title: Editorial journal-first publication for the software engineering community
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2837717
+
+- id: journals/tosem/TyszerowiczY92
+  type: article-journal
+  author:
+  - family: Tyszberowicz
+    given: Shmuel S.
+  - family: Yehudai
+    given: Amiram
+  issued:
+  - year: '1992'
+  title: OBSERV - a prototyping language and environment
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '269-309'
+  volume: '1'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/131736.131751
+
+- id: journals/tosem/FerrariGMP03
+  type: article-journal
+  author:
+  - family: Ferrari
+    given: Gian Luigi
+  - family: Gnesi
+    given: Stefania
+  - family: Montanari
+    given: Ugo
+  - family: Pistore
+    given: Marco
+  issued:
+  - year: '2003'
+  title: A model-checking verification environment for mobile processes
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '440-473'
+  volume: '12'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/990010.990013
+
+- id: journals/tosem/Hierons14
+  type: article-journal
+  author:
+  - family: Hierons
+    given: Robert M.
+  issued:
+  - year: '2014'
+  title: Combining centralised and distributed testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 5:1-5:29
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2661296
+
+- id: journals/tosem/OrsoSH04
+  type: article-journal
+  author:
+  - family: Orso
+    given: Alessandro
+  - family: Sinha
+    given: Saurabh
+  - family: Harrold
+    given: Mary Jean
+  issued:
+  - year: '2004'
+  title: Classifying data dependences in the presence of pointers for program comprehension,
+    testing, and debugging
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '199-239'
+  volume: '13'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1018210.1018212
+
+- id: journals/tosem/DietzLRA15
+  type: article-journal
+  author:
+  - family: Dietz
+    given: Will
+  - family: Li
+    given: Peng
+  - family: Regehr
+    given: John
+  - family: Adve
+    given: Vikram S.
+  issued:
+  - year: '2015'
+  title: Understanding integer overflow in c/C++
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '2'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2743019
+
+- id: journals/tosem/GligoricGZSAM15
+  type: article-journal
+  author:
+  - family: Gligoric
+    given: Milos
+  - family: Groce
+    given: Alex
+  - family: Zhang
+    given: Chaoqiang
+  - family: Sharma
+    given: Rohan
+  - family: Alipour
+    given: Mohammad Amin
+  - family: Marinov
+    given: Darko
+  issued:
+  - year: '2015'
+  title: Guidelines for coverage-based comparisons of non-adequate test suites
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '22'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2660767
+
+- id: journals/tosem/Jezequel99
+  type: article-journal
+  author:
+  - family: Jézéquel
+    given: Jean-Marc
+  issued:
+  - year: '1999'
+  title: Reifying variants in configuration management
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '284-295'
+  volume: '8'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/310663.310668
+
+- id: journals/tosem/NguyenKWF14
+  type: article-journal
+  author:
+  - family: Nguyen
+    given: ThanhVu
+  - family: Kapur
+    given: Deepak
+  - family: Weimer
+    given: Westley
+  - family: Forrest
+    given: Stephanie
+  issued:
+  - year: '2014'
+  title: 'DIG: A dynamic invariant generator for polynomial and array invariants'
+  title-short: DIG
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 30:1-30:30
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2556782
+
+- id: journals/tosem/Rosenblum14b
+  type: article-journal
+  author:
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2014'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 27:1
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2656368
+
+- id: journals/tosem/FelderP02
+  type: article-journal
+  author:
+  - family: Felder
+    given: Miguel
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2002'
+  title: A formal design notation for real-time systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '149-190'
+  volume: '11'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/505145.505146
+
+- id: journals/tosem/Notkin07a
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2007'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1217295.1237801
+
+- id: journals/tosem/MurukannaiahS15
+  type: article-journal
+  author:
+  - family: Murukannaiah
+    given: Pradeep K.
+  - family: Singh
+    given: Munindar P.
+  issued:
+  - year: '2015'
+  title: 'Platys: An active learning framework for place-aware application development
+    and its evaluation'
+  title-short: Platys
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '19'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2729976
+
+- id: journals/tosem/TilevichS09
+  type: article-journal
+  author:
+  - family: Tilevich
+    given: Eli
+  - family: Smaragdakis
+    given: Yannis
+  issued:
+  - year: '2009'
+  title: 'J-orchestra: Enhancing java programs with distribution capabilities'
+  title-short: J-orchestra
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1555392.1555394
+
+- id: journals/tosem/HaesevoetsWH14
+  type: article-journal
+  author:
+  - family: Haesevoets
+    given: Robrecht
+  - family: Weyns
+    given: Danny
+  - family: Holvoet
+    given: Tom
+  issued:
+  - year: '2014'
+  title: Architecture-centric support for adaptive service collaborations
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 2:1-2:40
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559937
+
+- id: journals/tosem/FuggettaLMCOO98
+  type: article-journal
+  author:
+  - family: Fuggetta
+    given: Alfonso
+  - family: Lavazza
+    given: Luigi
+  - family: Morasca
+    given: Sandro
+  - family: Cinti
+    given: Stefano
+  - family: Oldano
+    given: Giandomenico
+  - family: Orazi
+    given: Elena
+  issued:
+  - year: '1998'
+  title: Applying gQM in an industrial software factory
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '411-448'
+  volume: '7'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/292182.292197
+
+- id: journals/tosem/GargantiniM01
+  type: article-journal
+  author:
+  - family: Gargantini
+    given: Angelo
+  - family: Morzenti
+    given: Angelo
+  issued:
+  - year: '2001'
+  title: Automated deductive requirements analysis of critical systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '255-307'
+  volume: '10'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/383876.383877
+
+- id: journals/tosem/PongeBCT10
+  type: article-journal
+  author:
+  - family: Ponge
+    given: Julien
+  - family: Benatallah
+    given: Boualem
+  - family: Casati
+    given: Fabio
+  - family: Toumani
+    given: Farouk
+  issued:
+  - year: '2010'
+  title: Analysis and applications of timed service protocols
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1734229.1734230
+
+- id: journals/tosem/KaiserK93
+  type: article-journal
+  author:
+  - family: Kaiser
+    given: Gail E.
+  - family: Kaplan
+    given: Simon M.
+  issued:
+  - year: '1993'
+  title: Parallel and distributed incremental attribute evaluation algorithms for
+    multiuser software development environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '47-92'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/151299.151312
+
+- id: journals/tosem/LouridasL00
+  type: article-journal
+  author:
+  - family: Louridas
+    given: Panagiotis
+  - family: Loucopoulos
+    given: Pericles
+  issued:
+  - year: '2000'
+  title: A generic model for reflective design
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '199-237'
+  volume: '9'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/350887.350895
+
+- id: journals/tosem/BauerLS11
+  type: article-journal
+  author:
+  - family: '0002'
+    given: Andreas Bauer
+  - family: Leucker
+    given: Martin
+  - family: Schallhart
+    given: Christian
+  issued:
+  - year: '2011'
+  title: Runtime verification for lTL and tLTL
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '14'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000800
+
+- id: journals/tosem/Ostroff99
+  type: article-journal
+  author:
+  - family: Ostroff
+    given: Jonathan S.
+  issued:
+  - year: '1999'
+  title: Composition and refinement of discrte real-time systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-48'
+  volume: '8'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/295558.295560
+
+- id: journals/tosem/FriasPGA07
+  type: article-journal
+  author:
+  - family: Frias
+    given: Marcelo F.
+  - family: Pombo
+    given: Carlos López
+  - family: Galeotti
+    given: Juan P.
+  - family: Aguirre
+    given: Nazareno
+  issued:
+  - year: '2007'
+  title: Efficient analysis of dynAlloy specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1314493.1314497
+
+- id: journals/tosem/TrammellBS92
+  type: article-journal
+  author:
+  - family: Trammell
+    given: Carmen J.
+  - family: Binder
+    given: Leon H.
+  - family: Snyder
+    given: Cathrine E.
+  issued:
+  - year: '1992'
+  title: 'The automated production control documentation system: A case study in
+    cleanroom software engineering'
+  title-short: The automated production control documentation system
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '81-94'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/125489.122826
+
+- id: journals/tosem/SinhaS06
+  type: article-journal
+  author:
+  - family: Sinha
+    given: Avik
+  - family: Smidts
+    given: Carol
+  issued:
+  - year: '2006'
+  title: 'HOTTest: A model-based test design technique for enhanced testing of domain-specific
+    applications'
+  title-short: HOTTest
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '242-278'
+  volume: '15'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1151695.1151697
+
+- id: journals/tosem/FinkYDRG08
+  type: article-journal
+  author:
+  - family: Fink
+    given: Stephen J.
+  - family: Yahav
+    given: Eran
+  - family: Dor
+    given: Nurit
+  - family: Ramalingam
+    given: G.
+  - family: Geay
+    given: Emmanuel
+  issued:
+  - year: '2008'
+  title: Effective typestate verification in the presence of aliasing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348255
+
+- id: journals/tosem/AkgulM04
+  type: article-journal
+  author:
+  - family: Akgul
+    given: Tankut
+  - family: III
+    given: Vincent John Mooney
+  issued:
+  - year: '2004'
+  title: Assembly instruction level reverse execution for debugging
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '149-198'
+  volume: '13'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1018210.1018211
+
+- id: journals/tosem/OstertagHDB92
+  type: article-journal
+  author:
+  - family: Ostertag
+    given: Eduardo
+  - family: Hendler
+    given: James A.
+  - family: Díaz
+    given: Rubén Prieto
+  - family: Braun
+    given: Christine
+  issued:
+  - year: '1992'
+  title: 'Computing similarity in a reuse library system: An aI-based approach'
+  title-short: Computing similarity in a reuse library system
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '205-228'
+  volume: '1'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/131736.131739
+
+- id: journals/tosem/RiccaSTRA14
+  type: article-journal
+  author:
+  - family: Ricca
+    given: Filippo
+  - family: Scanniello
+    given: Giuseppe
+  - family: Torchiano
+    given: Marco
+  - family: Reggio
+    given: Gianna
+  - family: Astesiano
+    given: Egidio
+  issued:
+  - year: '2014'
+  title: Assessing the effect of screen mockups on the comprehension of functional
+    requirements
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 1:1-1:38
+  volume: '24'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2629457
+
+- id: journals/tosem/MameiZ09
+  type: article-journal
+  author:
+  - family: Mamei
+    given: Marco
+  - family: Zambonelli
+    given: Franco
+  issued:
+  - year: '2009'
+  title: 'Programming pervasive and mobile computing applications: The tOTA approach'
+  title-short: Programming pervasive and mobile computing applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1538942.1538945
+
+- id: journals/tosem/BinkleyHR95
+  type: article-journal
+  author:
+  - family: Binkley
+    given: David
+  - family: Horwitz
+    given: Susan
+  - family: Reps
+    given: Thomas W.
+  issued:
+  - year: '1995'
+  title: Program integration for languages with procedure calls
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3-35'
+  volume: '4'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/201055.201056
+
+- id: journals/tosem/Notkin10
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2010'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1656250.1656251
+
+- id: journals/tosem/00010DLSA13
+  type: article-journal
+  author:
+  - family: '0001'
+    given: Jun Sun
+  - family: '0003'
+    given: Yang Liu
+  - family: Dong
+    given: Jin Song
+  - family: '0012'
+    given: Yan Liu
+  - family: Shi
+    given: Ling
+  - family: André
+    given: Étienne
+  issued:
+  - year: '2013'
+  title: Modeling and verifying hierarchical real-time systems using stateful timed
+    cSP
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430537
+
+- id: journals/tosem/SteimannPAK10
+  type: article-journal
+  author:
+  - family: Steimann
+    given: Friedrich
+  - family: Pawlitzki
+    given: Thomas
+  - family: Apel
+    given: Sven
+  - family: Kästner
+    given: Christian
+  issued:
+  - year: '2010'
+  title: Types and modularity for implicit invocation with implicit announcement
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1767751.1767752
+
+- id: journals/tosem/HeitmeyerJL96
+  type: article-journal
+  author:
+  - family: Heitmeyer
+    given: Constance L.
+  - family: Jeffords
+    given: Ralph D.
+  - family: Labaw
+    given: Bruce G.
+  issued:
+  - year: '1996'
+  title: Automated consistency checking of requirements specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '231-261'
+  volume: '5'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/234426.234431
+
+- id: journals/tosem/ChenDSM10
+  type: article-journal
+  author:
+  - family: Chen
+    given: Chunqing
+  - family: Dong
+    given: Jin Song
+  - family: '0001'
+    given: Jun Sun
+  - family: Martin
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: A verification system for interval-based specification languages
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1734229.1734232
+
+- id: journals/tosem/LouridasSV08
+  type: article-journal
+  author:
+  - family: Louridas
+    given: Panagiotis
+  - family: Spinellis
+    given: Diomidis
+  - family: Vlachos
+    given: Vasileios
+  issued:
+  - year: '2008'
+  title: Power laws in software
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1391984.1391986
+
+- id: journals/tosem/MoscatoPF14
+  type: article-journal
+  author:
+  - family: Moscato
+    given: Mariano M.
+  - family: Pombo
+    given: Carlos López
+  - family: Frias
+    given: Marcelo F.
+  issued:
+  - year: '2014'
+  title: 'Dynamite: A tool for the verification of alloy models based on pVS'
+  title-short: Dynamite
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 20:1-20:37
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2544136
+
+- id: journals/tosem/SnookB06
+  type: article-journal
+  author:
+  - family: Snook
+    given: Colin F.
+  - family: Butler
+    given: Michael J.
+  issued:
+  - year: '2006'
+  title: 'UML-b: Formal modeling and design aided by uML'
+  title-short: UML-b
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '92-122'
+  volume: '15'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1125808.1125811
+
+- id: journals/tosem/Dillon97
+  type: article-journal
+  author:
+  - family: Dillon
+    given: Laura K.
+  issued:
+  - year: '1997'
+  title: Task dependence and termination in ada
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '80-110'
+  volume: '6'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/237432.237459
+
+- id: journals/tosem/LuK14
+  type: article-journal
+  author:
+  - family: Lu
+    given: Lunjin
+  - family: Kim
+    given: Dae-Kyoo
+  issued:
+  - year: '2014'
+  title: 'Required behavior of sequence diagrams: Semantics and conformance'
+  title-short: Required behavior of sequence diagrams
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 15:1-15:28
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2523108
+
+- id: journals/tosem/ZellerS97
+  type: article-journal
+  author:
+  - family: Zeller
+    given: Andreas
+  - family: Snelting
+    given: Gregor
+  issued:
+  - year: '1997'
+  title: Unified versioning through feature logic
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '398-441'
+  volume: '6'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/261640.261654
+
+- id: journals/tosem/WhittakerP93
+  type: article-journal
+  author:
+  - family: Whittaker
+    given: James A.
+  - family: Poore
+    given: Jesse H.
+  issued:
+  - year: '1993'
+  title: Markow analysis of software specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '93-106'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/151299.151326
+
+- id: journals/tosem/LizcanoASL13
+  type: article-journal
+  author:
+  - family: Lizcano
+    given: David
+  - family: Alonso
+    given: Fernando
+  - family: Soriano
+    given: Javier
+  - family: López
+    given: Genoveva
+  issued:
+  - year: '2013'
+  title: A web-centred approach to end-user software engineering
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '36'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522929
+
+- id: journals/tosem/HuangZS08
+  type: article-journal
+  author:
+  - family: Huang
+    given: Shan Shan
+  - family: Zook
+    given: David
+  - family: Smaragdakis
+    given: Yannis
+  issued:
+  - year: '2008'
+  title: Domain-specific languages and program generation with meta-aspectJ
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1416563.1416566
+
+- id: journals/tosem/YooHC13
+  type: article-journal
+  author:
+  - family: Yoo
+    given: Shin
+  - family: Harman
+    given: Mark
+  - family: Clark
+    given: David
+  issued:
+  - year: '2013'
+  title: 'Fault localization prioritization: Comparing information-theoretic and
+    coverage-based approaches'
+  title-short: Fault localization prioritization
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '19'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491513
+
+- id: journals/tosem/BasinDL06
+  type: article-journal
+  author:
+  - family: Basin
+    given: David A.
+  - family: Doser
+    given: Jürgen
+  - family: Lodderstedt
+    given: Torsten
+  issued:
+  - year: '2006'
+  title: 'Model driven security: From uML models to access control infrastructures'
+  title-short: Model driven security
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '39-91'
+  volume: '15'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1125808.1125810
+
+- id: journals/tosem/Broy93
+  type: article-journal
+  author:
+  - family: Broy
+    given: Manfred
+  issued:
+  - year: '1993'
+  title: Functional specification of time-sensitive communicating systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-46'
+  volume: '2'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/151299.151302
+
+- id: journals/tosem/Parisi-PresicceP94
+  type: article-journal
+  author:
+  - family: Parisi-Presicce
+    given: Francesco
+  - family: Pierantonio
+    given: Alfonso
+  issued:
+  - year: '1994'
+  title: An algebraic theory of class specification
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '166-199'
+  volume: '3'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/192218.192235
+
+- id: journals/tosem/RoychoudhuryGS12
+  type: article-journal
+  author:
+  - family: Roychoudhury
+    given: Abhik
+  - family: Goel
+    given: Ankit
+  - family: Sengupta
+    given: Bikram
+  issued:
+  - year: '2012'
+  title: Symbolic message sequence charts
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '12'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089122
+
+- id: journals/tosem/MattssonFLL12
+  type: article-journal
+  author:
+  - family: Mattsson
+    given: Anders
+  - family: Fitzgerald
+    given: Brian
+  - family: Lundell
+    given: Björn
+  - family: Lings
+    given: Brian
+  issued:
+  - year: '2012'
+  title: An approach for modeling architectural design rules in uML and its application
+    to embedded software
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '10'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089120
+
+- id: journals/tosem/CounsellSC06
+  type: article-journal
+  author:
+  - family: Counsell
+    given: Steve
+  - family: Swift
+    given: Stephen
+  - family: Crampton
+    given: Jason
+  issued:
+  - year: '2006'
+  title: The interpretation and utility of three cohesion metrics for object-oriented
+    design
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '123-149'
+  volume: '15'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1131421.1131422
+
+- id: journals/tosem/DevanbuRW96
+  type: article-journal
+  author:
+  - family: Devanbu
+    given: Premkumar T.
+  - family: Rosenblum
+    given: David S.
+  - family: Wolf
+    given: Alexander L.
+  issued:
+  - year: '1996'
+  title: Generating testing and analysis tools with aria
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '42-62'
+  volume: '5'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/226155.226157
+
+- id: journals/tosem/SullivanGRSCST10
+  type: article-journal
+  author:
+  - family: Sullivan
+    given: Kevin J.
+  - family: Griswold
+    given: William G.
+  - family: Rajan
+    given: Hridesh
+  - family: Song
+    given: Yuanyuan
+  - family: Cai
+    given: Yuanfang
+  - family: Shonle
+    given: Macneil
+  - family: Tewari
+    given: Nishit
+  issued:
+  - year: '2010'
+  title: Modular aspect-oriented design with xPIs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1824760.1824762
+
+- id: journals/tosem/MilanovaRR05
+  type: article-journal
+  author:
+  - family: Milanova
+    given: Ana
+  - family: Rountev
+    given: Atanas
+  - family: Ryder
+    given: Barbara G.
+  issued:
+  - year: '2005'
+  title: Parameterized object sensitivity for points-to analysis for java
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-41'
+  volume: '14'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1044834.1044835
+
+- id: journals/tosem/Rosenblum14
+  type: article-journal
+  author:
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2014'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 1:1-1:2
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559939
+
+- id: journals/tosem/HoffmanE13
+  type: article-journal
+  author:
+  - family: Hoffman
+    given: Kevin J.
+  - family: Eugster
+    given: Patrick
+  issued:
+  - year: '2013'
+  title: Trading obliviousness for modularity with cooperative aspect-oriented programming
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '22'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491516
+
+- id: journals/tosem/HuangZZ13
+  type: article-journal
+  author:
+  - family: Huang
+    given: Jeff
+  - family: Zhou
+    given: Jinguo
+  - family: Zhang
+    given: Charles
+  issued:
+  - year: '2013'
+  title: Scaling predictive analysis of concurrent programs by removing trace redundancy
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '8'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430542
+
+- id: journals/tosem/WhittleJ10
+  type: article-journal
+  author:
+  - family: Whittle
+    given: Jon
+  - family: Jayaraman
+    given: Praveen K.
+  issued:
+  - year: '2010'
+  title: Synthesizing hierarchical state machines from expressive scenario descriptions
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1656250.1656252
+
+- id: journals/tosem/Devanbu99
+  type: article-journal
+  author:
+  - family: Devanbu
+    given: Premkumar T.
+  issued:
+  - year: '1999'
+  title: GENOA - a customizable, front-end-retargetable source code analysis framework
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '177-212'
+  volume: '8'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/304399.304402
+
+- id: journals/tosem/McMinnWK15
+  type: article-journal
+  author:
+  - family: McMinn
+    given: Phil
+  - family: Wright
+    given: Chris J.
+  - family: Kapfhammer
+    given: Gregory M.
+  issued:
+  - year: '2015'
+  title: The effectiveness of test coverage criteria for relational database schema
+    integrity constraints
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '8'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2818639
+
+- id: journals/tosem/FantechiGLMPT12
+  type: article-journal
+  author:
+  - family: Fantechi
+    given: Alessandro
+  - family: Gnesi
+    given: Stefania
+  - family: Lapadula
+    given: Alessandro
+  - family: Mazzanti
+    given: Franco
+  - family: Pugliese
+    given: Rosario
+  - family: Tiezzi
+    given: Francesco
+  issued:
+  - year: '2012'
+  title: A logical verification methodology for service-oriented computing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '16'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211619
+
+- id: journals/tosem/McMillanPGXF13
+  type: article-journal
+  author:
+  - family: McMillan
+    given: Collin
+  - family: Poshyvanyk
+    given: Denys
+  - family: Grechanik
+    given: Mark
+  - family: Xie
+    given: Qing
+  - family: Fu
+    given: Chen
+  issued:
+  - year: '2013'
+  title: 'Portfolio: Searching for relevant functions and their usages in millions
+    of lines of code'
+  title-short: Portfolio
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '37'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522930
+
+- id: journals/tosem/YueBL15
+  type: article-journal
+  author:
+  - family: Yue
+    given: Tao
+  - family: Briand
+    given: Lionel C.
+  - family: Labiche
+    given: Yvan
+  issued:
+  - year: '2015'
+  title: 'AToucan: An automated framework to derive uML analysis models from use
+    case models'
+  title-short: AToucan
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '13'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2699697
+
+- id: journals/tosem/AdamsTW95
+  type: article-journal
+  author:
+  - family: Adams
+    given: Rolf
+  - family: Tichy
+    given: Walter F.
+  - family: Weinert
+    given: Annette
+  issued:
+  - year: '1995'
+  title: Authors’ response
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '217-219'
+  volume: '4'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/210134.210438
+
+- id: journals/tosem/QiRLV12
+  type: article-journal
+  author:
+  - family: Qi
+    given: Dawei
+  - family: Roychoudhury
+    given: Abhik
+  - family: Liang
+    given: Zhenkai
+  - family: Vaswani
+    given: Kapil
+  issued:
+  - year: '2012'
+  title: 'DARWIN: An approach to debugging evolving programs'
+  title-short: DARWIN
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '19'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211622
+
+- id: journals/tosem/ZaveJ97
+  type: article-journal
+  author:
+  - family: Zave
+    given: Pamela
+  - family: Jackson
+    given: Michael
+  issued:
+  - year: '1997'
+  title: Four dark corners of requirements engineering
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-30'
+  volume: '6'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/237432.237434
+
+- id: journals/tosem/RobillardM03
+  type: article-journal
+  author:
+  - family: Robillard
+    given: Martin P.
+  - family: Murphy
+    given: Gail C.
+  issued:
+  - year: '2003'
+  title: Static analysis to support the evolution of exception structure in object-oriented
+    systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '191-221'
+  volume: '12'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/941566.941569
+
+- id: journals/tosem/AlesioBNG15
+  type: article-journal
+  author:
+  - family: Alesio
+    given: Stefano Di
+  - family: Briand
+    given: Lionel C.
+  - family: Nejati
+    given: Shiva
+  - family: Gotlieb
+    given: Arnaud
+  issued:
+  - year: '2015'
+  title: Combining genetic algorithms and constraint programming to support stress
+    testing of task deadlines
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '4'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2818640
+
+- id: journals/tosem/Ciancarini93
+  type: article-journal
+  author:
+  - family: Ciancarini
+    given: Paolo
+  issued:
+  - year: '1993'
+  title: Coordinating rule-based software processes with eSP
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '203-227'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/152388.152393
+
+- id: journals/tosem/HarmanKMPRY14
+  type: article-journal
+  author:
+  - family: Harman
+    given: Mark
+  - family: Krinke
+    given: Jens
+  - family: Medina-Bulo
+    given: Inmaculada
+  - family: Palomo-Lozano
+    given: Francisco
+  - family: Ren
+    given: Jian
+  - family: Yoo
+    given: Shin
+  issued:
+  - year: '2014'
+  title: Exact scalable sensitivity analysis for the next release problem
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 19:1-19:31
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2537853
+
+- id: journals/tosem/YangHR92
+  type: article-journal
+  author:
+  - family: Yang
+    given: Wuu
+  - family: Horwitz
+    given: Susan
+  - family: Reps
+    given: Thomas W.
+  issued:
+  - year: '1992'
+  title: A program integration algorithm that accommodates semantics-preserving transformations
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '310-354'
+  volume: '1'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/131736.131756
+
+- id: journals/tosem/ZhaoZLSY06
+  type: article-journal
+  author:
+  - family: Zhao
+    given: Wei
+  - family: '0023'
+    given: Lu Zhang
+  - family: Liu
+    given: Yin
+  - family: Sun
+    given: Jiasu
+  - family: Yang
+    given: Fuqing
+  issued:
+  - year: '2006'
+  title: 'SNIAFL: Towards a static noninteractive approach to feature location'
+  title-short: SNIAFL
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '195-226'
+  volume: '15'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1131421.1131424
+
+- id: journals/tosem/PiccoRM01
+  type: article-journal
+  author:
+  - family: Picco
+    given: Gian Pietro
+  - family: Roman
+    given: Gruia-Catalin
+  - family: McCann
+    given: Peter J.
+  issued:
+  - year: '2001'
+  title: Reasoning about code mobility with mobile uNITY
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '338-395'
+  volume: '10'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/383876.383879
+
+- id: journals/tosem/RothermelBLDS01
+  type: article-journal
+  author:
+  - family: Rothermel
+    given: Gregg
+  - family: Burnett
+    given: Margaret M.
+  - family: Li
+    given: Lixin
+  - family: DuPuis
+    given: Christopher
+  - family: Sheretov
+    given: Andrei
+  issued:
+  - year: '2001'
+  title: A methodology for testing spreadsheets
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '110-147'
+  volume: '10'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/366378.366385
+
+- id: journals/tosem/XuMARSS14
+  type: article-journal
+  author:
+  - family: Xu
+    given: Guoqing
+    dropping-particle: (Harry)
+  - family: Mitchell
+    given: Nick
+  - family: Arnold
+    given: Matthew
+  - family: Rountev
+    given: Atanas
+  - family: Schonberg
+    given: Edith
+  - family: Sevitsky
+    given: Gary
+  issued:
+  - year: '2014'
+  title: Scalable runtime bloat detection using abstract dynamic slicing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '23'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2560047
+
+- id: journals/tosem/SuttonHO95
+  type: article-journal
+  author:
+  - family: Jr.
+    given: Stanley M. Sutton
+  - family: Heimbigner
+    given: Dennis
+  - family: Osterweil
+    given: Leon J.
+  issued:
+  - year: '1995'
+  title: 'APPL/A: A language for software process programming'
+  title-short: APPL/A
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '221-286'
+  volume: '4'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/214013.214017
+
+- id: journals/tosem/TilevichG11
+  type: article-journal
+  author:
+  - family: Tilevich
+    given: Eli
+  - family: Gopal
+    given: Sriram
+  issued:
+  - year: '2011'
+  title: Expressive and extensible parameter passing for distributed object systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063242
+
+- id: journals/tosem/FraserA14
+  type: article-journal
+  author:
+  - family: Fraser
+    given: Gordon
+  - family: Arcuri
+    given: Andrea
+  issued:
+  - year: '2014'
+  title: A large-scale evaluation of automated unit test generation using evoSuite
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 8:1-8:42
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2685612
+
+- id: journals/tosem/OlenderO92
+  type: article-journal
+  author:
+  - family: Olender
+    given: Kurt M.
+  - family: Osterweil
+    given: Leon J.
+  issued:
+  - year: '1992'
+  title: Interprocedural static analysis of sequencing constraints
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '21-52'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/125489.122822
+
+- id: journals/tosem/DillonKMMR94
+  type: article-journal
+  author:
+  - family: Dillon
+    given: Laura K.
+  - family: Kutty
+    given: George
+  - family: Moser
+    given: Louise E.
+  - family: Melliar-Smith
+    given: P. M.
+  - family: Ramakrishna
+    given: Y. S.
+  issued:
+  - year: '1994'
+  title: A graphical interval logic for specifying concurrent systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '131-165'
+  volume: '3'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/192218.192226
+
+- id: journals/tosem/ChechikDEG03
+  type: article-journal
+  author:
+  - family: Chechik
+    given: Marsha
+  - family: Devereux
+    given: Benet
+  - family: Easterbrook
+    given: Steve M.
+  - family: Gurfinkel
+    given: Arie
+  issued:
+  - year: '2003'
+  title: Multi-valued symbolic model-checking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '371-408'
+  volume: '12'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/990010.990011
+
+- id: journals/tosem/BultanGL00
+  type: article-journal
+  author:
+  - family: Bultan
+    given: Tevfik
+  - family: Gerber
+    given: Richard
+  - family: League
+    given: Christopher
+  issued:
+  - year: '2000'
+  title: 'Composite model-checking: Verification with type-specific symbolic representations'
+  title-short: Composite model-checking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3-50'
+  volume: '9'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/332740.332746
+
+- id: journals/tosem/NieL11
+  type: article-journal
+  author:
+  - family: Nie
+    given: Changhai
+  - family: Leung
+    given: Hareton
+  issued:
+  - year: '2011'
+  title: The minimal failure-causing schema of combinatorial testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '15'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000801
+
+- id: journals/tosem/BergadanoG96
+  type: article-journal
+  author:
+  - family: Bergadano
+    given: Francesco
+  - family: Gunetti
+    given: Daniele
+  issued:
+  - year: '1996'
+  title: Testing by means of inductive program learning
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '119-145'
+  volume: '5'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/227607.227611
+
+- id: journals/tosem/Hierons09
+  type: article-journal
+  author:
+  - family: Hierons
+    given: Robert M.
+  issued:
+  - year: '2009'
+  title: Verdict functions in testing with a fault domain or test hypotheses
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1538942.1538944
+
+- id: journals/tosem/NijjarBB15
+  type: article-journal
+  author:
+  - family: Nijjar
+    given: Jaideep
+  - family: Bocic
+    given: Ivan
+  - family: Bultan
+    given: Tevfik
+  issued:
+  - year: '2015'
+  title: Data model property inference, verification, and repair for web applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '25'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2699691
+
+- id: journals/tosem/BibleRR01
+  type: article-journal
+  author:
+  - family: Bible
+    given: John
+  - family: Rothermel
+    given: Gregg
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2001'
+  title: A comparative study of coarse- and fine-grained safe regression test-selection
+    techniques
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '149-183'
+  volume: '10'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/367008.367015
+
+- id: journals/tosem/LiCZL14
+  type: article-journal
+  author:
+  - family: Li
+    given: Yueqi
+  - family: Cheung
+    given: Shing-Chi
+  - family: Zhang
+    given: Xiangyu
+  - family: Liu
+    given: Yepang
+  issued:
+  - year: '2014'
+  title: Scaling up symbolic analysis by removing z-equivalent states
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 34:1-34:32
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2652484
+
+- id: journals/tosem/EbnenasirK11
+  type: article-journal
+  author:
+  - family: Ebnenasir
+    given: Ali
+  - family: Kulkarni
+    given: Sandeep S.
+  issued:
+  - year: '2011'
+  title: Feasibility of stepwise design of multitolerant programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063240
+
+- id: journals/tosem/SmaragdakisB02
+  type: article-journal
+  author:
+  - family: Smaragdakis
+    given: Yannis
+  - family: Batory
+    given: Don S.
+  issued:
+  - year: '2002'
+  title: 'Mixin layers: An object-oriented implementation technique for refinements
+    and collaboration-based designs'
+  title-short: Mixin layers
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '215-255'
+  volume: '11'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/505145.505148
+
+- id: journals/tosem/MarinGPVA13
+  type: article-journal
+  author:
+  - family: Marín
+    given: Beatriz
+  - family: Giachetti
+    given: Giovanni
+  - family: Pastor
+    given: Oscar
+  - family: Vos
+    given: Tanja E. J.
+  - family: Abran
+    given: Alain
+  issued:
+  - year: '2013'
+  title: Using a functional size measurement procedure to evaluate the quality of
+    models in mDD environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '26'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491520
+
+- id: journals/tosem/JenningsGB12
+  type: article-journal
+  author:
+  - family: Jennings
+    given: Paul
+  - family: Ghosh
+    given: Arka P.
+  - family: Basu
+    given: Samik
+  issued:
+  - year: '2012'
+  title: A two-phase approximation for model checking probabilistic unbounded until
+    properties of probabilistic systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '18'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211621
+
+- id: journals/tosem/MonperrusM13
+  type: article-journal
+  author:
+  - family: Monperrus
+    given: Martin
+  - family: Mezini
+    given: Mira
+  issued:
+  - year: '2013'
+  title: Detecting missing method calls as violations of the majority rule
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '7'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430541
+
+- id: journals/tosem/Notkin07
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2007'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1189748.1189749
+
+- id: journals/tosem/CookW98
+  type: article-journal
+  author:
+  - family: Cook
+    given: Jonathan E.
+  - family: Wolf
+    given: Alexander L.
+  issued:
+  - year: '1998'
+  title: Discovering models of software processes from event-based data
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '215-249'
+  volume: '7'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/287000.287001
+
+- id: journals/tosem/GoelRT09
+  type: article-journal
+  author:
+  - family: Goel
+    given: Ankit
+  - family: Roychoudhury
+    given: Abhik
+  - family: Thiagarajan
+    given: P. S.
+  issued:
+  - year: '2009'
+  title: Interacting process classes
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1538942.1538943
+
+- id: journals/tosem/Kiper92
+  type: article-journal
+  author:
+  - family: Kiper
+    given: James D.
+  issued:
+  - year: '1992'
+  title: Structural testing of rule-based expert systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '168-187'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/128894.128896
+
+- id: journals/tosem/EldibWS14
+  type: article-journal
+  author:
+  - family: Eldib
+    given: Hassan
+  - family: Wang
+    given: Chao
+  - family: Schaumont
+    given: Patrick
+  issued:
+  - year: '2014'
+  title: Formal verification of software countermeasures against side-channel attacks
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 11:1-11:24
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2685616
+
+- id: journals/tosem/Jackson02
+  type: article-journal
+  author:
+  - family: Jackson
+    given: Daniel
+  issued:
+  - year: '2002'
+  title: 'Alloy: A lightweight object modelling notation'
+  title-short: Alloy
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '256-290'
+  volume: '11'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/505145.505149
+
+- id: journals/tosem/CeccatoMMNT15
+  type: article-journal
+  author:
+  - family: Ceccato
+    given: Mariano
+  - family: Marchetto
+    given: Alessandro
+  - family: Mariani
+    given: Leonardo
+  - family: Nguyen
+    given: Cu D.
+  - family: Tonella
+    given: Paolo
+  issued:
+  - year: '2015'
+  title: Do automatically generated test cases make debugging easier? An experimental
+    assessment of debugging effectiveness and efficiency
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '5'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2768829
+
+- id: journals/tosem/AllenG98
+  type: article-journal
+  author:
+  - family: Allen
+    given: Robert
+  - family: Garlan
+    given: David
+  issued:
+  - year: '1998'
+  title: 'Errata: A formal basis for architectural connection'
+  title-short: Errata
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '333-334'
+  volume: '7'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/287000.287031
+
+- id: journals/tosem/ErwigF05
+  type: article-journal
+  author:
+  - family: Erwig
+    given: Martin
+  - family: Fu
+    given: Zhe
+  issued:
+  - year: '2005'
+  title: Software reuse for scientific computing through program generation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '168-198'
+  volume: '14'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1061254.1061257
+
+- id: journals/tosem/ChangMP13
+  type: article-journal
+  author:
+  - family: Chang
+    given: Hervé
+  - family: Mariani
+    given: Leonardo
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2013'
+  title: Exception handlers for healing component-based systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '30'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522923
+
+- id: journals/tosem/Rosenblum13
+  type: article-journal
+  author:
+  - family: Rosenblum
+    given: David S.
+  issued:
+  - year: '2013'
+  title: Editorial - looking forward
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '2'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2431202
+
+- id: journals/tosem/YiQTR15
+  type: article-journal
+  author:
+  - family: Yi
+    given: Jooyong
+  - family: Qi
+    given: Dawei
+  - family: Tan
+    given: Shin Hwei
+  - family: Roychoudhury
+    given: Abhik
+  issued:
+  - year: '2015'
+  title: Software change contracts
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '18'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2729973
+
+- id: journals/tosem/ProkschLM15
+  type: article-journal
+  author:
+  - family: Proksch
+    given: Sebastian
+  - family: Lerch
+    given: Johannes
+  - family: Mezini
+    given: Mira
+  issued:
+  - year: '2015'
+  title: Intelligent code completion with bayesian networks
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '3'
+  volume: '25'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2744200
+
+- id: journals/tosem/ChenTCC98
+  type: article-journal
+  author:
+  - family: Chen
+    given: Huo Yan
+  - family: Tse
+    given: T. H.
+  - family: Chan
+    given: F. T.
+  - family: Chen
+    given: Tsong Yueh
+  issued:
+  - year: '1998'
+  title: 'In black and white: An integrated approach to class-level testing of object-oriented
+    programs'
+  title-short: In black and white
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '250-295'
+  volume: '7'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/287000.287004
+
+- id: journals/tosem/KeidarKLS02
+  type: article-journal
+  author:
+  - family: Keidar
+    given: Idit
+  - family: Khazan
+    given: Roger
+  - family: Lynch
+    given: Nancy A.
+  - family: Shvartsman
+    given: Alexander A.
+  issued:
+  - year: '2002'
+  title: An inheritance-based technique for building simulation proofs incrementally
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '63-91'
+  volume: '11'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/504087.504090
+
+- id: journals/tosem/ZhengL13
+  type: article-journal
+  author:
+  - family: Zheng
+    given: Zibin
+  - family: Lyu
+    given: Michael R.
+  issued:
+  - year: '2013'
+  title: Personalized reliability prediction of web services
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '12'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430548
+
+- id: journals/tosem/RothermelH97
+  type: article-journal
+  author:
+  - family: Rothermel
+    given: Gregg
+  - family: Harrold
+    given: Mary Jean
+  issued:
+  - year: '1997'
+  title: A safe, efficient regression test selection technique
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '173-210'
+  volume: '6'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/248233.248262
+
+- id: journals/tosem/GravesHKPR01
+  type: article-journal
+  author:
+  - family: Graves
+    given: Todd L.
+  - family: Harrold
+    given: Mary Jean
+  - family: Kim
+    given: Jung-Min
+  - family: Porter
+    given: Adam A.
+  - family: Rothermel
+    given: Gregg
+  issued:
+  - year: '2001'
+  title: An empirical study of regression test selection techiques
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '184-208'
+  volume: '10'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/367008.367020
+
+- id: journals/tosem/HemmatiAB13
+  type: article-journal
+  author:
+  - family: Hemmati
+    given: Hadi
+  - family: Arcuri
+    given: Andrea
+  - family: Briand
+    given: Lionel C.
+  issued:
+  - year: '2013'
+  title: Achieving scalable model-based testing through test case diversity
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '6'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430540
+
+- id: journals/tosem/ShermanGD15
+  type: article-journal
+  author:
+  - family: Sherman
+    given: Elena
+  - family: Garvin
+    given: Brady J.
+  - family: Dwyer
+    given: Matthew B.
+  issued:
+  - year: '2015'
+  title: Deciding type-based partial-order constraints for path-sensitive analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '15'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2755971
+
+- id: journals/tosem/DesaiCS09
+  type: article-journal
+  author:
+  - family: Desai
+    given: Nirmit
+  - family: Chopra
+    given: Amit K.
+  - family: Singh
+    given: Munindar P.
+  issued:
+  - year: '2009'
+  title: 'Amoeba: A methodology for modeling and evolving cross-organizational business
+    processes'
+  title-short: Amoeba
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1571629.1571632
+
+- id: journals/tosem/Zave04
+  type: article-journal
+  author:
+  - family: Zave
+    given: Pamela
+  issued:
+  - year: '2004'
+  title: Address translation in telecommunication features
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '1-36'
+  volume: '13'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1005561.1005562
+
+- id: journals/tosem/LiuYYC14
+  type: article-journal
+  author:
+  - family: Liu
+    given: Xiao
+  - family: Yang
+    given: Yun
+  - family: Yuan
+    given: Dong
+  - family: Chen
+    given: Jinjun
+  issued:
+  - year: '2014'
+  title: Do we need to handle every temporal violation in scientific workflow systems?
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 5:1-5:34
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559938
+
+- id: journals/tosem/BroyKM07
+  type: article-journal
+  author:
+  - family: Broy
+    given: Manfred
+  - family: Krüger
+    given: Ingolf H.
+  - family: Meisinger
+    given: Michael
+  issued:
+  - year: '2007'
+  title: A formal model of services
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1189748.1189753
+
+- id: journals/tosem/FrancescoLSV14
+  type: article-journal
+  author:
+  - family: Francesco
+    given: Nicoletta De
+  - family: Lettieri
+    given: Giuseppe
+  - family: Santone
+    given: Antonella
+  - family: Vaglini
+    given: Gigliola
+  issued:
+  - year: '2014'
+  title: 'GreASE: A tool for efficient “nonequivalence” checking'
+  title-short: GreASE
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '24'
+  volume: '23'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2560563
+
+- id: journals/tosem/EngelsLNSS92
+  type: article-journal
+  author:
+  - family: Engels
+    given: Gregor
+  - family: Lewerentz
+    given: Claus
+  - family: Nagl
+    given: Manfred
+  - family: Schäfer
+    given: Wilhelm
+  - family: Schürr
+    given: Andy
+  issued:
+  - year: '1992'
+  title: 'Building integrated software development environments part i: Tool specification'
+  title-short: Building integrated software development environments part i
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '135-167'
+  volume: '1'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/128894.128895
+
+- id: journals/tosem/Bernhard94
+  type: article-journal
+  author:
+  - family: Bernhard
+    given: Philip J.
+  issued:
+  - year: '1994'
+  title: A reduced test suite for protocol conformance testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '201-220'
+  volume: '3'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/196092.196088
+
+- id: journals/tosem/ChenM08
+  type: article-journal
+  author:
+  - family: Chen
+    given: Tsong Yueh
+  - family: Merkel
+    given: Robert G.
+  issued:
+  - year: '2008'
+  title: An upper bound on software testing effectiveness
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1363102.1363107
+
+- id: journals/tosem/ScannielloGGCT14
+  type: article-journal
+  author:
+  - family: Scanniello
+    given: Giuseppe
+  - family: Gravino
+    given: Carmine
+  - family: Genero
+    given: Marcela
+  - family: Cruz-Lemus
+    given: José A.
+  - family: Tortora
+    given: Genoveffa
+  issued:
+  - year: '2014'
+  title: On the impact of uML analysis models on source-code comprehensibility and
+    modifiability
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 13:1-13:26
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2491912
+
+- id: journals/tosem/Jackson95a
+  type: article-journal
+  author:
+  - family: Jackson
+    given: Daniel
+  issued:
+  - year: '1995'
+  title: Structuring z specifications with views
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '365-389'
+  volume: '4'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/226241.226249
+
+- id: journals/tosem/NaishLR11
+  type: article-journal
+  author:
+  - family: Naish
+    given: Lee
+  - family: Lee
+    given: Hua Jie
+  - family: Ramamohanarao
+    given: Kotagiri
+  issued:
+  - year: '2011'
+  title: A model for spectra-based software diagnosis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '11'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000795
+
+- id: journals/tosem/PaytonJRR10
+  type: article-journal
+  author:
+  - family: Payton
+    given: Jamie
+  - family: Julien
+    given: Christine
+  - family: Roman
+    given: Gruia-Catalin
+  - family: Rajamani
+    given: Vasanth
+  issued:
+  - year: '2010'
+  title: Semantic self-assessment of query results in dynamic environments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1734229.1734231
+
+- id: journals/tosem/BreauxAD08
+  type: article-journal
+  author:
+  - family: Breaux
+    given: Travis D.
+  - family: Antón
+    given: Annie I.
+  - family: Doyle
+    given: Jon
+  issued:
+  - year: '2008'
+  title: 'Semantic parameterization: A process for modeling domain descriptions'
+  title-short: Semantic parameterization
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1416563.1416565
+
+- id: journals/tosem/MoserRKMD97
+  type: article-journal
+  author:
+  - family: Moser
+    given: Louise E.
+  - family: Ramakrishna
+    given: Y. S.
+  - family: Kutty
+    given: George
+  - family: Melliar-Smith
+    given: P. M.
+  - family: Dillon
+    given: Laura K.
+  issued:
+  - year: '1997'
+  title: A graphical environment for the design of concurrent real-time systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '31-79'
+  volume: '6'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/237432.237438
+
+- id: journals/tosem/WhighamOM15
+  type: article-journal
+  author:
+  - family: Whigham
+    given: Peter A.
+  - family: Owen
+    given: Caitlin A.
+  - family: MacDonell
+    given: Stephen G.
+  issued:
+  - year: '2015'
+  title: A baseline model for software effort estimation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '20'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2738037
+
+- id: journals/tosem/Ghezzi07
+  type: article-journal
+  author:
+  - family: Ghezzi
+    given: Carlo
+  issued:
+  - year: '2007'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1189748.1189750
+
+- id: journals/tosem/Notkin07b
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2007'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1314493.1314494
+
+- id: journals/tosem/CheungK96
+  type: article-journal
+  author:
+  - family: Cheung
+    given: Shing-Chi
+  - family: Kramer
+    given: Jeff
+  issued:
+  - year: '1996'
+  title: Context constraints for compositional reachability analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '334-377'
+  volume: '5'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/235321.235323
+
+- id: journals/tosem/FraserSMAP15
+  type: article-journal
+  author:
+  - family: Fraser
+    given: Gordon
+  - family: Staats
+    given: Matt
+  - family: McMinn
+    given: Phil
+  - family: Arcuri
+    given: Andrea
+  - family: Padberg
+    given: Frank
+  issued:
+  - year: '2015'
+  title: Does automated unit test generation really help software testers? A controlled
+    empirical study
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '23'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2699688
+
+- id: journals/tosem/NentwichEFE03
+  type: article-journal
+  author:
+  - family: Nentwich
+    given: Christian
+  - family: Emmerich
+    given: Wolfgang
+  - family: Finkelstein
+    given: Anthony
+  - family: Ellmer
+    given: Ernst
+  issued:
+  - year: '2003'
+  title: Flexible consistency checking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '28-63'
+  volume: '12'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/839268.839271
+
+- id: journals/tosem/FergusonK96
+  type: article-journal
+  author:
+  - family: Ferguson
+    given: Roger
+  - family: Korel
+    given: Bogdan
+  issued:
+  - year: '1996'
+  title: The chaining approach for software test data generation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '63-86'
+  volume: '5'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/226155.226158
+
+- id: journals/tosem/MockusFH02
+  type: article-journal
+  author:
+  - family: Mockus
+    given: Audris
+  - family: Fielding
+    given: Roy T.
+  - family: Herbsleb
+    given: James D.
+  issued:
+  - year: '2002'
+  title: 'Two case studies of open source software development: Apache and mozilla'
+  title-short: Two case studies of open source software development
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '309-346'
+  volume: '11'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/567793.567795
+
+- id: journals/tosem/Notkin09
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  issued:
+  - year: '2009'
+  title: Editorial
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1525880.1525881
+
+- id: journals/tosem/BinkleyHL11
+  type: article-journal
+  author:
+  - family: Binkley
+    given: David
+  - family: Harman
+    given: Mark
+  - family: Lakhotia
+    given: Kiran
+  issued:
+  - year: '2011'
+  title: 'FlagRemover: A testability transformation for transforming loop-assigned
+    flags'
+  title-short: FlagRemover
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '12'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000796
+
+- id: journals/tosem/PodgurskiMMWY99
+  type: article-journal
+  author:
+  - family: Podgurski
+    given: Andy
+  - family: Masri
+    given: Wassim
+  - family: McCleese
+    given: Yolanda
+  - family: Wolff
+    given: Francis G.
+  - family: Yang
+    given: Charles
+  issued:
+  - year: '1999'
+  title: Estimation of software reliability by stratified sampling
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '263-283'
+  volume: '8'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/310663.310667
+
+- id: journals/tosem/HunterN98
+  type: article-journal
+  author:
+  - family: Hunter
+    given: Anthony
+  - family: Nuseibeh
+    given: Bashar
+  issued:
+  - year: '1998'
+  title: 'Managing inconsistent specifications: Reasoning, analysis, and action'
+  title-short: Managing inconsistent specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '335-367'
+  volume: '7'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/292182.292187
+
+- id: journals/tosem/MartignoniPRRB13
+  type: article-journal
+  author:
+  - family: Martignoni
+    given: Lorenzo
+  - family: Paleari
+    given: Roberto
+  - family: Reina
+    given: Alessandro
+  - family: Roglia
+    given: Giampaolo Fresi
+  - family: Bruschi
+    given: Danilo
+  issued:
+  - year: '2013'
+  title: A methodology for testing cPU emulators
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '29'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522922
+
+- id: journals/tosem/CreveuilR94
+  type: article-journal
+  author:
+  - family: Creveuil
+    given: Christian
+  - family: Roman
+    given: Gruia-Catalin
+  issued:
+  - year: '1994'
+  title: Formal specification and designof a message router
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '271-307'
+  volume: '3'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/201024.201026
+
+- id: journals/tosem/Singh10
+  type: article-journal
+  author:
+  - family: Singh
+    given: Param Vir
+  issued:
+  - year: '2010'
+  title: 'The small-world effect: The influence of macro-level properties of developer
+    collaboration networks on open-source project success'
+  title-short: The small-world effect
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1824760.1824763
+
+- id: journals/tosem/QiNR13
+  type: article-journal
+  author:
+  - family: Qi
+    given: Dawei
+  - family: Nguyen
+    given: Hoang D. T.
+  - family: Roychoudhury
+    given: Abhik
+  issued:
+  - year: '2013'
+  title: Path exploration based on symbolic output
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '32'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522925
+
+- id: journals/tosem/JinO15
+  type: article-journal
+  author:
+  - family: Jin
+    given: Wei
+  - family: Orso
+    given: Alessandro
+  issued:
+  - year: '2015'
+  title: Automated support for reproducing and debugging field failures
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '26'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2774218
+
+- id: journals/tosem/BerstelCRP05
+  type: article-journal
+  author:
+  - family: Berstel
+    given: Jean
+  - family: Crespi-Reghizzi
+    given: Stefano
+  - family: Roussel
+    given: Gilles
+  - family: Pietro
+    given: Pierluigi San
+  issued:
+  - year: '2005'
+  title: A scalable formal method for design and automatic checking of user interfaces
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '124-167'
+  volume: '14'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1061254.1061256
+
+- id: journals/tosem/DehlingerL11
+  type: article-journal
+  author:
+  - family: Dehlinger
+    given: Josh
+  - family: Lutz
+    given: Robyn R.
+  issued:
+  - year: '2011'
+  title: 'Gaia-pL: A product line engineering approach for efficiently designing
+    multiagent systems'
+  title-short: Gaia-pL
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '17'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000803
+
+- id: journals/tosem/BrandKV03
+  type: article-journal
+  author:
+  - family: Brand
+    given: Mark
+    dropping-particle: van den
+  - family: Klint
+    given: Paul
+  - family: Vinju
+    given: Jurgen J.
+  issued:
+  - year: '2003'
+  title: Term rewriting with traversal functions
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '152-190'
+  volume: '12'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/941566.941568
+
+- id: journals/tosem/Hamlet09
+  type: article-journal
+  author:
+  - family: Hamlet
+    given: Dick
+  issued:
+  - year: '2009'
+  title: Tools and experiments supporting a testing-based theory of component composition
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1525880.1525885
+
+- id: journals/tosem/XuCCY10
+  type: article-journal
+  author:
+  - family: Xu
+    given: Chang
+  - family: Cheung
+    given: S. C.
+  - family: Chan
+    given: W. K.
+  - family: Ye
+    given: Chunyang
+  issued:
+  - year: '2010'
+  title: Partial constraint checking for context consistency in pervasive computing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '19'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1656250.1656253
+
+- id: journals/tosem/0022SLLR13
+  type: article-journal
+  author:
+  - family: '0022'
+    given: Wei Zhang
+  - family: Sun
+    given: Chong
+  - family: Lim
+    given: Junghee
+  - family: Lu
+    given: Shan
+  - family: Reps
+    given: Thomas W.
+  issued:
+  - year: '2013'
+  title: 'ConMem: Detecting crash-triggering concurrency bugs through an effect-oriented
+    approach'
+  title-short: ConMem
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '10'
+  volume: '22'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2430545.2430546
+
+- id: journals/tosem/PanWX14
+  type: article-journal
+  author:
+  - family: Pan
+    given: Kai
+  - family: Wu
+    given: Xintao
+  - family: Xie
+    given: Tao
+  issued:
+  - year: '2014'
+  title: Guided test generation for database applications via synthesized database
+    interactions
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 12:1-12:27
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2491529
+
+- id: journals/tosem/ShonleGL12
+  type: article-journal
+  author:
+  - family: Shonle
+    given: Macneil
+  - family: Griswold
+    given: William G.
+  - family: Lerner
+    given: Sorin
+  issued:
+  - year: '2012'
+  title: A framework for the checking and refactoring of crosscutting concepts
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '15'
+  volume: '21'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2211616.2211618
+
+- id: journals/tosem/JengW94
+  type: article-journal
+  author:
+  - family: Jeng
+    given: Bingchiang
+  - family: Weyuker
+    given: Elaine J.
+  issued:
+  - year: '1994'
+  title: A simplified domain-testing strategy
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '254-270'
+  volume: '3'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/196092.193171
+
+- id: journals/tosem/NotkinP08
+  type: article-journal
+  author:
+  - family: Notkin
+    given: David
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2008'
+  title: Introduction to the special section from the aCM international symposium
+    on software testing and analysis (iSSTA 2006)
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348252
+
+- id: journals/tosem/MinkuY13
+  type: article-journal
+  author:
+  - family: Minku
+    given: Leandro L.
+  - family: Yao
+    given: Xin
+  issued:
+  - year: '2013'
+  title: Software effort estimation as a multiobjective learning problem
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '35'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522928
+
+- id: journals/tosem/FalessiBCCK13
+  type: article-journal
+  author:
+  - family: Falessi
+    given: Davide
+  - family: Briand
+    given: Lionel C.
+  - family: Cantone
+    given: Giovanni
+  - family: Capilla
+    given: Rafael
+  - family: Kruchten
+    given: Philippe
+  issued:
+  - year: '2013'
+  title: The value of design rationale information
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '21'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491515
+
+- id: journals/tosem/CheonL94
+  type: article-journal
+  author:
+  - family: Cheon
+    given: Yoonsik
+  - family: Leavens
+    given: Gary T.
+  issued:
+  - year: '1994'
+  title: The larch/Smalltalk interface specification language
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '221-253'
+  volume: '3'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/196092.195325
+
+- id: journals/tosem/CimattiRST12
+  type: article-journal
+  author:
+  - family: Cimatti
+    given: Alessandro
+  - family: Roveri
+    given: Marco
+  - family: Susi
+    given: Angelo
+  - family: Tonetta
+    given: Stefano
+  issued:
+  - year: '2012'
+  title: 'Validation of requirements for hybrid systems: A formal approach'
+  title-short: Validation of requirements for hybrid systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '22'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377659
+
+- id: journals/tosem/CostagliolaDP04
+  type: article-journal
+  author:
+  - family: Costagliola
+    given: Gennaro
+  - family: Deufemia
+    given: Vincenzo
+  - family: Polese
+    given: Giuseppe
+  issued:
+  - year: '2004'
+  title: A framework for modeling and implementing visual notations with applications
+    to software engineering
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '431-487'
+  volume: '13'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1040291.1040293
+
+- id: journals/tosem/BallanceGV92
+  type: article-journal
+  author:
+  - family: Ballance
+    given: Robert A.
+  - family: Graham
+    given: Susan L.
+  - family: Vanter
+    given: Michael L. Van
+    dropping-particle: de
+  issued:
+  - year: '1992'
+  title: The pan language-based editing system
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '95-127'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/125489.122804
+
+- id: journals/tosem/MurphyP14
+  type: article-journal
+  author:
+  - family: Murphy
+    given: Gail C.
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2014'
+  title: Introduction to the special issue international conference on software engineering
+    (iCSE 2012)
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 28:1-28:2
+  volume: '23'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2658849
+
+- id: journals/tosem/SinnigCK13
+  type: article-journal
+  author:
+  - family: Sinnig
+    given: Daniel
+  - family: Chalin
+    given: Patrice
+  - family: Khendek
+    given: Ferhat
+  issued:
+  - year: '2013'
+  title: 'Use case and task models: An integrated development methodology and its
+    formal foundation'
+  title-short: Use case and task models
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '27'
+  volume: '22'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2491509.2491521
+
+- id: journals/tosem/LhotakH08
+  type: article-journal
+  author:
+  - family: Lhoták
+    given: Ondrej
+  - family: Hendren
+    given: Laurie J.
+  issued:
+  - year: '2008'
+  title: Evaluating the benefits of context-sensitive points-to analysis using a bDD-based
+    implementation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1391984.1391987
+
+- id: journals/tosem/InverardiWY00
+  type: article-journal
+  author:
+  - family: Inverardi
+    given: Paola
+  - family: Wolf
+    given: Alexander L.
+  - family: Yankelevich
+    given: Daniel
+  issued:
+  - year: '2000'
+  title: Static checking of system behaviors using derived component assumptions
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '239-272'
+  volume: '9'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/352591.352593
+
+- id: journals/tosem/SimURL11
+  type: article-journal
+  author:
+  - family: Sim
+    given: Susan Elliott
+  - family: Umarji
+    given: Medha
+  - family: Ratanotayanon
+    given: Sukanya
+  - family: Lopes
+    given: Cristina V.
+  issued:
+  - year: '2011'
+  title: How well do search engines support code retrieval on the web?
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '4'
+  volume: '21'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2063239.2063243
+
+- id: journals/tosem/ZaremskiW97
+  type: article-journal
+  author:
+  - family: Zaremski
+    given: Amy Moormann
+  - family: Wing
+    given: Jeannette M.
+  issued:
+  - year: '1997'
+  title: Specification matching of software components
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '333-369'
+  volume: '6'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/261640.261641
+
+- id: journals/tosem/KiezunGAGHE12
+  type: article-journal
+  author:
+  - family: Kiezun
+    given: Adam
+  - family: Ganesh
+    given: Vijay
+  - family: Artzi
+    given: Shay
+  - family: Guo
+    given: Philip J.
+  - family: Hooimeijer
+    given: Pieter
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2012'
+  title: 'HAMPI: A solver for word equations over strings, regular expressions,
+    and context-free grammars'
+  title-short: HAMPI
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '25'
+  volume: '21'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2377656.2377662
+
+- id: journals/tosem/HallBBRS09
+  type: article-journal
+  author:
+  - family: Hall
+    given: Tracy
+  - family: Baddoo
+    given: Nathan
+  - family: Beecham
+    given: Sarah
+  - family: Robinson
+    given: Hugh
+  - family: Sharp
+    given: Helen
+  issued:
+  - year: '2009'
+  title: A systematic review of theory use in studies investigating the motivations
+    of software engineers
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1525880.1525883
+
+- id: journals/tosem/Al-DallalB12
+  type: article-journal
+  author:
+  - family: Al-Dallal
+    given: Jehad
+  - family: Briand
+    given: Lionel C.
+  issued:
+  - year: '2012'
+  title: A precise method-method interaction-based cohesion metric for object-oriented
+    classes
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '8'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089118
+
+- id: journals/tosem/ChenCX11
+  type: article-journal
+  author:
+  - family: Chen
+    given: Zhenyu
+  - family: Chen
+    given: Tsong Yueh
+  - family: Xu
+    given: Baowen
+  issued:
+  - year: '2011'
+  title: A revisit of fault class hierarchies in general boolean specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '13'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000797
+
+- id: journals/tosem/RadoiD15
+  type: article-journal
+  author:
+  - family: Radoi
+    given: Cosmin
+  - family: Dig
+    given: Danny
+  issued:
+  - year: '2015'
+  title: Effective techniques for static race detection in java parallel loops
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '24'
+  volume: '24'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2729975
+
+- id: journals/tosem/MkaouerKSKBD015
+  type: article-journal
+  author:
+  - family: Mkaouer
+    given: Wiem
+  - family: Kessentini
+    given: Marouane
+  - family: Shaout
+    given: Adnan
+  - family: Koligheu
+    given: Patrice
+  - family: Bechikh
+    given: Slim
+  - family: Deb
+    given: Kalyanmoy
+  - family: '0001'
+    given: Ali Ouni
+  issued:
+  - year: '2015'
+  title: Many-objective software remodularization using nSGA-iII
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '17'
+  volume: '24'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2729974
+
+- id: journals/tosem/Memon08
+  type: article-journal
+  author:
+  - family: Memon
+    given: Atif M.
+  issued:
+  - year: '2008'
+  title: Automatically repairing event sequence-based gUI test suites for regression
+    testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1416563.1416564
+
+- id: journals/tosem/QueraltT12
+  type: article-journal
+  author:
+  - family: Queralt
+    given: Anna
+  - family: Teniente
+    given: Ernest
+  issued:
+  - year: '2012'
+  title: Verification and validation of uML conceptual schemas with oCL constraints
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '13'
+  volume: '21'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2089116.2089123
+
+- id: journals/tosem/ZhouXLC14
+  type: article-journal
+  author:
+  - family: Zhou
+    given: Yuming
+  - family: Xu
+    given: Baowen
+  - family: Leung
+    given: Hareton
+  - family: Chen
+    given: Lin
+  issued:
+  - year: '2014'
+  title: An in-depth study of the potentially confounding effect of class size in
+    fault prediction
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 10:1-10:51
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2556777
+
+- id: journals/tosem/KoM10
+  type: article-journal
+  author:
+  - family: Ko
+    given: Andrew J.
+  - family: Myers
+    given: Brad A.
+  issued:
+  - year: '2010'
+  title: Extracting and answering why and why not questions about java program output
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1824760.1824761
+
+- id: journals/tosem/HarelK92
+  type: article-journal
+  author:
+  - family: Harel
+    given: David
+  - family: Kahana
+    given: Chaim-Arie
+  issued:
+  - year: '1992'
+  title: On statecharts with overlapping
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '399-421'
+  volume: '1'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/136586.136589
+
+- id: journals/tosem/MilesGMM11
+  type: article-journal
+  author:
+  - family: Miles
+    given: Simon
+  - family: Groth
+    given: Paul T.
+  - family: Munroe
+    given: Steve
+  - family: Moreau
+    given: Luc
+  issued:
+  - year: '2011'
+  title: 'PrIMe: A methodology for developing provenance-aware applications'
+  title-short: PrIMe
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '8'
+  volume: '20'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/2000791.2000792
+
+- id: journals/tosem/DashofyHT05
+  type: article-journal
+  author:
+  - family: Dashofy
+    given: Eric M.
+  - family: Hoek
+    given: André
+    dropping-particle: van der
+  - family: Taylor
+    given: Richard N.
+  issued:
+  - year: '2005'
+  title: A comprehensive approach for the development of modular software architecture
+    description languages
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '199-245'
+  volume: '14'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1061254.1061258
+
+- id: journals/tosem/XieM08
+  type: article-journal
+  author:
+  - family: Xie
+    given: Qing
+  - family: Memon
+    given: Atif M.
+  issued:
+  - year: '2008'
+  title: Using a pilot study to derive a gUI model for automated testing
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '18'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1416563.1416567
+
+- id: journals/tosem/GandhiL11
+  type: article-journal
+  author:
+  - family: Gandhi
+    given: Robin A.
+  - family: Lee
+    given: Seok Won
+  issued:
+  - year: '2011'
+  title: Discovering multidimensional correlations among regulatory requirements to
+    understand risk
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '16'
+  volume: '20'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2000799.2000802
+
+- id: journals/tosem/BatoryO92
+  type: article-journal
+  author:
+  - family: Batory
+    given: Don S.
+  - family: O’Malley
+    given: Sean W.
+  issued:
+  - year: '1992'
+  title: The design and implementation of hierarchical software systems with reusable
+    components
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '355-398'
+  volume: '1'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/136586.136587
+
+- id: journals/tosem/KholyBEQD14
+  type: article-journal
+  author:
+  - family: Kholy
+    given: Warda El
+  - family: Bentahar
+    given: Jamal
+  - family: El-Menshawy
+    given: Mohamed
+  - family: Qu
+    given: Hongyang
+  - family: Dssouli
+    given: Rachida
+  issued:
+  - year: '2014'
+  title: 'Conditional commitments: Reasoning and model checking'
+  title-short: Conditional commitments
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 9:1-9:49
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2685613
+
+- id: journals/tosem/Henninger97
+  type: article-journal
+  author:
+  - family: Henninger
+    given: Scott
+  issued:
+  - year: '1997'
+  title: An evolutionary approach to constructing effective software reuse repositories
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '111-140'
+  volume: '6'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/248233.248242
+
+- id: journals/tosem/KramerK04
+  type: article-journal
+  author:
+  - family: '0001'
+    given: Stefan Kramer
+  - family: Kaindl
+    given: Hermann
+  issued:
+  - year: '2004'
+  title: Coupling and cohesion metrics for knowledge-based systems using frames and
+    rules
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '332-358'
+  volume: '13'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1027092.1027094
+
+- id: journals/tosem/UnterkalmsteinerFG14
+  type: article-journal
+  author:
+  - family: Unterkalmsteiner
+    given: Michael
+  - family: Feldt
+    given: Robert
+  - family: Gorschek
+    given: Tony
+  issued:
+  - year: '2014'
+  title: A taxonomy for requirements engineering and software test alignment
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 16:1-16:38
+  volume: '23'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2523088
+
+- id: journals/tosem/CiancariniFM00
+  type: article-journal
+  author:
+  - family: Ciancarini
+    given: Paolo
+  - family: Franzé
+    given: Francesco
+  - family: Mascolo
+    given: Cecilia
+  issued:
+  - year: '2000'
+  title: Using a coordination language to specify and analyze systems containing mobile
+    components
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '167-198'
+  volume: '9'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/350887.350893
+
+- id: journals/tosem/MurphyN96
+  type: article-journal
+  author:
+  - family: Murphy
+    given: Gail C.
+  - family: Notkin
+    given: David
+  issued:
+  - year: '1996'
+  title: Lightweight lexical source model extraction
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '262-292'
+  volume: '5'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/234426.234441
+
+- id: journals/tosem/CookW99
+  type: article-journal
+  author:
+  - family: Cook
+    given: Jonathan E.
+  - family: Wolf
+    given: Alexander L.
+  issued:
+  - year: '1999'
+  title: 'Software process validation: Quantitatively measuring the correspondence
+    of a process to a model'
+  title-short: Software process validation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '147-176'
+  volume: '8'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/304399.304401
+
+- id: journals/tosem/DwyerCCN04
+  type: article-journal
+  author:
+  - family: Dwyer
+    given: Matthew B.
+  - family: Clarke
+    given: Lori A.
+  - family: Cobleigh
+    given: Jamieson M.
+  - family: Naumovich
+    given: Gleb
+  issued:
+  - year: '2004'
+  title: Flow analysis for verifying properties of concurrent software systems
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '359-430'
+  volume: '13'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1040291.1040292
+
+- id: journals/tosem/BasuS07
+  type: article-journal
+  author:
+  - family: Basu
+    given: Samik
+  - family: Smolka
+    given: Scott A.
+  issued:
+  - year: '2007'
+  title: Model checking the java metalocking algorithm
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1243987.1243990
+
+- id: journals/tosem/GiswoldN93
+  type: article-journal
+  author:
+  - family: Griswold
+    given: William G.
+  - family: Notkin
+    given: David
+  issued:
+  - year: '1993'
+  title: Automated assistance for program restructuring
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '228-269'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/152388.152389
+
+- id: journals/tosem/SommervilleR05
+  type: article-journal
+  author:
+  - family: Sommerville
+    given: Ian
+  - family: Ransom
+    given: Jane
+  issued:
+  - year: '2005'
+  title: An empirical study of industrial requirements engineering process assessment
+    and improvement
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '85-117'
+  volume: '14'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1044834.1044837
+
+- id: journals/tosem/CheungK99
+  type: article-journal
+  author:
+  - family: Cheung
+    given: Shing-Chi
+  - family: Kramer
+    given: Jeff
+  issued:
+  - year: '1999'
+  title: Checking safety properties using compositional reachability analysis
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '49-78'
+  volume: '8'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/295558.295570
+
+- id: journals/tosem/VouillonC13
+  type: article-journal
+  author:
+  - family: Vouillon
+    given: Jérôme
+  - family: Cosmo
+    given: Roberto Di
+  issued:
+  - year: '2013'
+  title: On software component co-installability
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '34'
+  volume: '22'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/2522920.2522927
+
+- id: journals/tosem/BinkleyGH07
+  type: article-journal
+  author:
+  - family: Binkley
+    given: David
+  - family: Gold
+    given: Nicolas
+  - family: Harman
+    given: Mark
+  issued:
+  - year: '2007'
+  title: An empirical study of static program slice size
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1217295.1217297
+
+- id: journals/tosem/Offutt92
+  type: article-journal
+  author:
+  - family: Offutt
+    given: A. Jefferson
+  issued:
+  - year: '1992'
+  title: Investigations of the software testing coupling effect
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '5-20'
+  volume: '1'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/125489.125473
+
+- id: journals/tosem/BonifatiCCFP01
+  type: article-journal
+  author:
+  - family: Bonifati
+    given: Angela
+  - family: Cattaneo
+    given: Fabiano
+  - family: Ceri
+    given: Stefano
+  - family: Fuggetta
+    given: Alfonso
+  - family: Paraboschi
+    given: Stefano
+  issued:
+  - year: '2001'
+  title: Designing data marts for data warehouses
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '452-483'
+  volume: '10'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/384189.384190
+
+- id: journals/tosem/CsallnerSX08
+  type: article-journal
+  author:
+  - family: Csallner
+    given: Christoph
+  - family: Smaragdakis
+    given: Yannis
+  - family: Xie
+    given: Tao
+  issued:
+  - year: '2008'
+  title: 'DSD-crasher: A hybrid analysis tool for bug finding'
+  title-short: DSD-crasher
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348254
+
+- id: journals/tosem/WallachAF00
+  type: article-journal
+  author:
+  - family: Wallach
+    given: Dan S.
+  - family: Appel
+    given: Andrew W.
+  - family: Felten
+    given: Edward W.
+  issued:
+  - year: '2000'
+  title: 'SAFKASI: A security mechanism for language-based systems'
+  title-short: SAFKASI
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '341-378'
+  volume: '9'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/363516.363520
+
+- id: journals/tosem/WangME93
+  type: article-journal
+  author:
+  - family: Wang
+    given: Farn
+  - family: Mok
+    given: Aloysius K.
+  - family: Emerson
+    given: E. Allen
+  issued:
+  - year: '1993'
+  title: Distributed real-time system specification and verification in aPTL
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '346-378'
+  volume: '2'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/158431.158434
+
+- id: journals/tosem/RyderSB05
+  type: article-journal
+  author:
+  - family: Ryder
+    given: Barbara G.
+  - family: Soffa
+    given: Mary Lou
+  - family: Burnett
+    given: Margaret M.
+  issued:
+  - year: '2005'
+  title: The impact of software engineering research on modern programming languages
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '431-477'
+  volume: '14'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/1101815.1101818
+
+- id: journals/tosem/FeldmanS93
+  type: article-journal
+  author:
+  - family: Feldman
+    given: Yishai A.
+  - family: Schneider
+    given: Haim
+  issued:
+  - year: '1993'
+  title: Simulating reactive systems by deduction
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '128-175'
+  volume: '2'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/151257.151259
+
+- id: journals/tosem/Tiwana08
+  type: article-journal
+  author:
+  - family: Tiwana
+    given: Amrit
+  issued:
+  - year: '2008'
+  title: 'Impact of classes of development coordination tools on software development
+    performance: A multinational empirical study'
+  title-short: Impact of classes of development coordination tools on software development
+    performance
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/1348250.1348257
+
+- id: journals/tosem/HarelN96
+  type: article-journal
+  author:
+  - family: Harel
+    given: David
+  - family: Naamad
+    given: Amnon
+  issued:
+  - year: '1996'
+  title: The sTATEMATE semantics of statecharts
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '293-333'
+  volume: '5'
+  issue: '4'
+  URL: http://doi.acm.org/10.1145/235321.235322
+
+- id: journals/tosem/LiRCS14
+  type: article-journal
+  author:
+  - family: Li
+    given: Kaituo
+  - family: Reichenbach
+    given: Christoph
+  - family: Csallner
+    given: Christoph
+  - family: Smaragdakis
+    given: Yannis
+  issued:
+  - year: '2014'
+  title: 'Residual investigation: Predictive and precise bug detection'
+  title-short: Residual investigation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 7:1-7:32
+  volume: '24'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/2656201
+
+- id: journals/tosem/CohenF03
+  type: article-journal
+  author:
+  - family: Cohen
+    given: Yossi
+  - family: Feldman
+    given: Yishai A.
+  issued:
+  - year: '2003'
+  title: Automatic high-quality reengineering of database programs by abstraction,
+    transformation and reimplementation
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '285-316'
+  volume: '12'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/958961.958962
+
+- id: journals/tosem/PaigeBO07
+  type: article-journal
+  author:
+  - family: Paige
+    given: Richard F.
+  - family: Brooke
+    given: Phillip J.
+  - family: Ostroff
+    given: Jonathan S.
+  issued:
+  - year: '2007'
+  title: Metamodel-based model conformance and multiview consistency checking
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '16'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1243987.1243989
+
+- id: journals/tosem/ConboyF10
+  type: article-journal
+  author:
+  - family: Conboy
+    given: Kieran
+  - family: Fitzgerald
+    given: Brian
+  issued:
+  - year: '2010'
+  title: 'Method and developer characteristics for effective agile method tailoring:
+    A study of xP expert opinion'
+  title-short: Method and developer characteristics for effective agile method tailoring
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '20'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1767751.1767753
+
+- id: journals/tosem/Gunter00
+  type: article-journal
+  author:
+  - family: Gunter
+    given: Carl A.
+  issued:
+  - year: '2000'
+  title: Abstracting dependencies between software configuration items
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '94-131'
+  volume: '9'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/332740.332743
+
+- id: journals/tosem/BaresiP05
+  type: article-journal
+  author:
+  - family: Baresi
+    given: Luciano
+  - family: Pezzè
+    given: Mauro
+  issued:
+  - year: '2005'
+  title: Formal interpreters for diagram notations
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '42-84'
+  volume: '14'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/1044834.1044836
+
+- id: journals/tosem/Petrenko97
+  type: article-journal
+  author:
+  - family: Petrenko
+    given: Alexandre
+  issued:
+  - year: '1997'
+  title: Technical correspondence comments on “a reduced test suite for protocol conformance
+    testing”
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '329-331'
+  volume: '6'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/258077.265733
+
+- id: journals/tosem/SchreflS02
+  type: article-journal
+  author:
+  - family: Schrefl
+    given: Michael
+  - family: Stumptner
+    given: Markus
+  issued:
+  - year: '2002'
+  title: Behavior-consistent specialization of object life cycles
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '92-148'
+  volume: '11'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/504087.504091
+
+- id: journals/tosem/HarroldGS93
+  type: article-journal
+  author:
+  - family: Harrold
+    given: Mary Jean
+  - family: Gupta
+    given: Rajiv
+  - family: Soffa
+    given: Mary Lou
+  issued:
+  - year: '1993'
+  title: A methodology for controlling the size of a test suite
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '270-285'
+  volume: '2'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/152388.152391
+
+- id: journals/tosem/MariMST14
+  type: article-journal
+  author:
+  - family: Mari
+    given: Federico
+  - family: Melatti
+    given: Igor
+  - family: Salvo
+    given: Ivano
+  - family: Tronci
+    given: Enrico
+  issued:
+  - year: '2014'
+  title: Model-based synthesis of control software from system-level formal specifications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: 6:1-6:42
+  volume: '23'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2559934
+
+- id: journals/tosem/MohagheghiC08
+  type: article-journal
+  author:
+  - family: Mohagheghi
+    given: Parastoo
+  - family: Conradi
+    given: Reidar
+  issued:
+  - year: '2008'
+  title: An empirical investigation of software reuse benefits in a large telecom
+    product
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  volume: '17'
+  issue: '3'
+  URL: http://doi.acm.org/10.1145/1363102.1363104
+
+- id: journals/tosem/YueBL13
+  type: article-journal
+  author:
+  - family: Yue
+    given: Tao
+  - family: Briand
+    given: Lionel C.
+  - family: Labiche
+    given: Yvan
+  issued:
+  - year: '2013'
+  title: 'Facilitating the transition from use case models to analysis models: Approach
+    and experiments'
+  title-short: Facilitating the transition from use case models to analysis models
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '5'
+  volume: '22'
+  issue: '1'
+  URL: http://doi.acm.org/10.1145/2430536.2430539
+
+- id: journals/tosem/Coen-PorisiniPRM03
+  type: article-journal
+  author:
+  - family: Coen-Porisini
+    given: Alberto
+  - family: Pradella
+    given: Matteo
+  - family: Rossi
+    given: Matteo
+  - family: Mandrioli
+    given: Dino
+  issued:
+  - year: '2003'
+  title: A formal approach for designing cORBA-based applications
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '107-151'
+  volume: '12'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/941566.941567
+
+- id: journals/tosem/PezzeTY95
+  type: article-journal
+  author:
+  - family: Pezzè
+    given: Mauro
+  - family: Taylor
+    given: Richard N.
+  - family: Young
+    given: Michal
+  issued:
+  - year: '1995'
+  title: Graph models for reachability of concurrent programs
+  container-title: ACM Trans. Softw. Eng. Methodol.
+  page: '171-213'
+  volume: '4'
+  issue: '2'
+  URL: http://doi.acm.org/10.1145/210134.210180
+...

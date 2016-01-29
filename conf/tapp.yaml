@@ -1,0 +1,1665 @@
+---
+references:
+- id: conf/tapp/MackoC11
+  type: paper-conference
+  author:
+  - family: Macko
+    given: Peter
+  - family: Chiarini
+    given: Marc
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Collecting provenance via the xen hypervisor
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/collecting-provenance-xen-hypervisor
+
+- id: conf/tapp/Chiarini11
+  type: paper-conference
+  author:
+  - family: Chiarini
+    given: Marc
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Provenance for system troubleshooting
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-system-troubleshooting
+
+- id: conf/tapp/DeyBKSML14
+  type: paper-conference
+  author:
+  - family: Dey
+    given: Saumen C.
+  - family: Belhajjame
+    given: Khalid
+  - family: Koop
+    given: David
+  - family: Song
+    given: Tianhong
+  - family: Missier
+    given: Paolo
+  - family: Ludäscher
+    given: Bertram
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 'UP & dOWN: Improving provenance precision by combining workflow- and trace-level
+    information'
+  title-short: UP & dOWN
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/dey
+
+- id: conf/tapp/ChapmanAB12
+  type: paper-conference
+  author:
+  - family: Chapman
+    given: Adriane
+  - family: Allen
+    given: M. David
+  - family: Blaustein
+    given: Barbara T.
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: 'It’s about the data: Provenance as a tool for assessing data fitness'
+  title-short: It’s about the data
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/chapman
+
+- id: conf/tapp/KoopF14
+  type: paper-conference
+  author:
+  - family: Koop
+    given: David
+  - family: Freire
+    given: Juliana
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Reorganizing workflow evolution provenance
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/koop
+
+- id: conf/tapp/SilvaSRG10
+  type: paper-conference
+  author:
+  - family: Silva
+    given: Paulo Pinheiro
+    dropping-particle: da
+  - family: Salayandia
+    given: Leonardo
+  - family: Rio
+    given: Nicholas Del
+  - family: Gates
+    given: Ann Q.
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: On the use of abstract workflows to capture scientific process provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/use-abstract-workflows-capture-scientific-process-provenance
+
+- id: conf/tapp/MarinhoMWBM11
+  type: paper-conference
+  author:
+  - family: Marinho
+    given: Anderson
+  - family: Mattoso
+    given: Marta
+  - family: Werner
+    given: Cláudia
+  - family: Braganholo
+    given: Vanessa
+  - family: Murta
+    given: Leonardo
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'Challenges in managing implicit and abstract provenance data: Experiences
+    with provManager'
+  title-short: Challenges in managing implicit and abstract provenance data
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/challenges-managing-implicit-and-abstract-provenance-data-experiences-provmanager
+
+- id: conf/tapp/GlavicSAM13
+  type: paper-conference
+  author:
+  - family: Glavic
+    given: Boris
+  - family: Siddique
+    given: Javed
+  - family: Andritsos
+    given: Periklis
+  - family: Miller
+    given: Renée J.
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: Provenance for data mining
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/glavic
+
+- id: conf/tapp/ArabGRGG14
+  type: paper-conference
+  author:
+  - family: Arab
+    given: Bahareh
+  - family: Gawlick
+    given: Dieter
+  - family: Radhakrishnan
+    given: Venkatesh
+  - family: Guo
+    given: Hao
+  - family: Glavic
+    given: Boris
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: A generic provenance middleware for queries, updates, and transactions
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/arab
+
+- id: conf/tapp/ZhaoBBLO13
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Xiang
+  - family: Boose
+    given: Emery R.
+  - family: Brun
+    given: Yuriy
+  - family: Lerner
+    given: Barbara Staudt
+  - family: Osterweil
+    given: Leon J.
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: Supporting undo and redo in scientific data analysis
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/zhao
+
+- id: conf/tapp/MeliouGS11
+  type: paper-conference
+  author:
+  - family: Meliou
+    given: Alexandra
+  - family: Gatterbauer
+    given: Wolfgang
+  - family: Suciu
+    given: Dan
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Bringing provenance to its full potential using causal reasoning
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/bringing-provenance-its-full-potential-using-causal-reasoning
+
+- id: conf/tapp/Zavodny11
+  type: paper-conference
+  author:
+  - family: Závodný
+    given: Jakub
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: On factorisation of provenance polynomials
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/factorisation-provenance-polynomials
+
+- id: conf/tapp/VasilakopoulosK11
+  type: paper-conference
+  author:
+  - family: Vasilakopoulos
+    given: Angelos
+  - family: Kantere
+    given: Verena
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Efficient query computing for uncertain possibilistic databases with provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/efficient-query-computing-uncertain-possibilistic-databases-provenance
+
+- id: conf/tapp/LernerB14
+  type: paper-conference
+  author:
+  - family: Lerner
+    given: Barbara
+  - family: Boose
+    given: Emery R.
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 'RDataTracker: Collecting provenance in an interactive scripting environment'
+  title-short: RDataTracker
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/lerner
+
+- id: conf/tapp/BunemanCK12
+  type: paper-conference
+  author:
+  - family: Buneman
+    given: Peter
+  - family: Cheney
+    given: James
+  - family: Kostylev
+    given: Egor V.
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Hierarchical models of provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/buneman
+
+- id: conf/tapp/AkoushSH13
+  type: paper-conference
+  author:
+  - family: Akoush
+    given: Sherif
+  - family: Sohan
+    given: Ripduman
+  - family: Hopper
+    given: Andy
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'HadoopProv: Towards provenance as a first class citizen in mapReduce'
+  title-short: HadoopProv
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/akoush
+
+- id: conf/tapp/GawlickR11
+  type: paper-conference
+  author:
+  - family: Gawlick
+    given: Dieter
+  - family: Radhakrishnan
+    given: Venkatesh
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Fine grain provenance using temporal databases
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/fine-grain-provenance-using-temporal-databases
+
+- id: conf/tapp/GadelhaMWF11
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Luiz M. R. Gadelha
+  - family: Mattoso
+    given: Marta
+  - family: Wilde
+    given: Michael
+  - family: Foster
+    given: Ian T.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Provenance query patterns for many-task scientific computing
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-query-patterns-many-task-scientific-computing
+
+- id: conf/tapp/HowisonSD12
+  type: paper-conference
+  author:
+  - family: Howison
+    given: Mark
+  - family: Sinnott-Armstrong
+    given: Nicholas A.
+  - family: Dunn
+    given: Casey W.
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: BioLite, a lightweight bioinformatics framework with automated tracking of
+    diagnostics and provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/howison
+
+- id: conf/tapp/AbbadiL11
+  type: paper-conference
+  author:
+  - family: Abbadi
+    given: Imad M.
+  - family: Lyle
+    given: John
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Challenges for provenance in cloud computing
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/challenges-provenance-cloud-computing
+
+- id: conf/tapp/AndersonC12
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Paul
+  - family: Cheney
+    given: James
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Toward provenance-based security for configuration languages
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/anderson
+
+- id: conf/tapp/DeyRL13
+  type: paper-conference
+  author:
+  - family: Dey
+    given: Saumen C.
+  - family: Riddle
+    given: Sean
+  - family: Ludäscher
+    given: Bertram
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'Provenance analyzer: Exploring provenance semantics with logic rules'
+  title-short: Provenance analyzer
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/dey
+
+- id: conf/tapp/AinyDDM14
+  type: paper-conference
+  author:
+  - family: Ainy
+    given: Eleanor
+  - family: Davidson
+    given: Susan B.
+  - family: Deutch
+    given: Daniel
+  - family: Milo
+    given: Tova
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Approximated provenance for complex applications
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/ainy
+
+- id: conf/tapp/HalpinC11
+  type: paper-conference
+  author:
+  - family: Halpin
+    given: Harry
+  - family: Cheney
+    given: James
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Dynamic provenance for sPARQL updates using named graphs
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/dynamic-provenance-sparql-updates-using-named-graphs
+
+- id: conf/tapp/BauerGST11
+  type: paper-conference
+  author:
+  - family: Bauer
+    given: Bela
+  - family: Gukelberger
+    given: Jan
+  - family: Surer
+    given: Brigitte
+  - family: Troyer
+    given: Matthias
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Publishing provenance-rich scientific papers
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/publishing-provenance-rich-scientific-papers
+
+- id: conf/tapp/TariqAG12
+  type: paper-conference
+  author:
+  - family: Tariq
+    given: Dawood
+  - family: Ali
+    given: Maisem
+  - family: Gehani
+    given: Ashish
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Towards automated collection of application-level data provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/tariq
+
+- id: conf/tapp/2012
+  type: book
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: 4th workshop on the theory and practice of provenance, taPP’12, boston, mA,
+    uSA, june 14-15, 2012
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A340
+
+- id: conf/tapp/ProbstH14
+  type: paper-conference
+  author:
+  - family: Probst
+    given: Christian W.
+  - family: Hansen
+    given: René Rydhof
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Model-based abstraction of data provenance
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/probst
+
+- id: conf/tapp/Elsaesser10
+  type: paper-conference
+  author:
+  - family: Elsaesser
+    given: Chris
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: Provenance-based belief
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/provenance-based-belief
+
+- id: conf/tapp/MackoS12
+  type: paper-conference
+  author:
+  - family: Macko
+    given: Peter
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: A general-purpose provenance library
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/macko
+
+- id: conf/tapp/RachapalliKT12
+  type: paper-conference
+  author:
+  - family: Rachapalli
+    given: Jyothsna
+  - family: Kantarcioglu
+    given: Murat
+  - family: Thuraisingham
+    given: Bhavani M.
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Tag-based information flow analysis for document classification in provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/rachapalli
+
+- id: conf/tapp/2011
+  type: book
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 3rd workshop on the theory and practice of provenance, taPP’11, heraklion,
+    crete, greece, june 20-21, 2011
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A325
+
+- id: conf/tapp/HustedQG13
+  type: paper-conference
+  author:
+  - family: Husted
+    given: Nathaniel
+  - family: Quresi
+    given: Sharjeel
+  - family: Gehani
+    given: Ashish
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'Android provenance: Diagnosing device disorders'
+  title-short: Android provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/husted
+
+- id: conf/tapp/GuoS12
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Philip J.
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: 'BURRITO: Wrapping your lab notebook in computational infrastructure'
+  title-short: BURRITO
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/guo
+
+- id: conf/tapp/ZhaoLOBE12
+  type: paper-conference
+  author:
+  - family: Zhao
+    given: Xiang
+  - family: Lerner
+    given: Barbara Staudt
+  - family: Osterweil
+    given: Leon J.
+  - family: Boose
+    given: Emery R.
+  - family: Ellison
+    given: Aaron M.
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Provenance support for rework
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/zhao
+
+- id: conf/tapp/GlavicM11
+  type: paper-conference
+  author:
+  - family: Glavic
+    given: Boris
+  - family: Miller
+    given: Renée J.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Reexamining some holy grails of data provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/reexamining-some-holy-grails-data-provenance
+
+- id: conf/tapp/BrauerCH14
+  type: paper-conference
+  author:
+  - family: Brauer
+    given: Peer
+  - family: Czerniak
+    given: Andreas
+  - family: Hasselbring
+    given: Wilhelm
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 'Start smart and finish wise: The kiel marine science provenance-aware
+    data management approach'
+  title-short: Start smart and finish wise
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/brauer
+
+- id: conf/tapp/DavisAA12
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Delmar B.
+  - family: Asuncion
+    given: Hazeline U.
+  - family: Abdulla
+    given: Ghaleb
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: 'Experiment explorer: Lightweight provenance search over metadata'
+  title-short: Experiment explorer
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/davis
+
+- id: conf/tapp/JonesSM11
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Stephanie
+  - family: Strong
+    given: Christina R.
+  - family: Miller
+    given: Ethan L.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Tracking emigrant data via transient provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/tracking-emigrant-data-transient-provenance
+
+- id: conf/tapp/CarataSRH13
+  type: paper-conference
+  author:
+  - family: Carata
+    given: Lucian
+  - family: Sohan
+    given: Ripduman
+  - family: Rice
+    given: Andrew C.
+  - family: Hopper
+    given: Andy
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'IPAPI: Designing an improved provenance aPI'
+  title-short: IPAPI
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/carata
+
+- id: conf/tapp/LuttenbergerS14
+  type: paper-conference
+  author:
+  - family: Luttenberger
+    given: Michael
+  - family: Schlund
+    given: Maximilian
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Regular expressions for provenance
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/luttenberger
+
+- id: conf/tapp/BaoDM11
+  type: paper-conference
+  author:
+  - family: Bao
+    given: Zhuowei
+  - family: Davidson
+    given: Susan B.
+  - family: Milo
+    given: Tova
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: A fine-grained workflow model with provenance-aware security views
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/fine-grained-workflow-model-provenance-aware-security-views
+
+- id: conf/tapp/GatterbauerMS11
+  type: paper-conference
+  author:
+  - family: Gatterbauer
+    given: Wolfgang
+  - family: Meliou
+    given: Alexandra
+  - family: Suciu
+    given: Dan
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Default-all is dangerous!
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/default-all-dangerous
+
+- id: conf/tapp/AllenCBS11
+  type: paper-conference
+  author:
+  - family: Allen
+    given: M. David
+  - family: Chapman
+    given: Adriane
+  - family: Blaustein
+    given: Barbara T.
+  - family: Seligman
+    given: Len
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'Getting it together: Enabling multi-organization provenance exchange'
+  title-short: Getting it together
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/getting-it-together-enabling-multi-organization-provenance-exchange
+
+- id: conf/tapp/GehaniT14
+  type: paper-conference
+  author:
+  - family: Gehani
+    given: Ashish
+  - family: Tariq
+    given: Dawood
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Provenance integration
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/gehani
+
+- id: conf/tapp/Missier11
+  type: paper-conference
+  author:
+  - family: Missier
+    given: Paolo
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Incremental workflow improvement through analysis of its data provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/incremental-workflow-improvement-through-analysis-its-data-provenance
+
+- id: conf/tapp/ArcherD10
+  type: paper-conference
+  author:
+  - family: Archer
+    given: David W.
+  - family: Delcambre
+    given: Lois M. L.
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: A conceptual model and predicate language for data selection and projection
+    based on provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/conceptual-model-and-predicate-language-data-selection-and-projection-based
+
+- id: conf/tapp/GuoE10
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Philip J.
+  - family: Engler
+    given: Dawson R.
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: 'Towards practical incremental recomputation for scientists: An implementation
+    for the python language'
+  title-short: Towards practical incremental recomputation for scientists
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/towards-practical-incremental-recomputation-scientists-implementation-python
+
+- id: conf/tapp/XieMLAFT11
+  type: paper-conference
+  author:
+  - family: Xie
+    given: Yulai
+  - family: Muniswamy-Reddy
+    given: Kiran-Kumar
+  - family: Long
+    given: Darrell D. E.
+  - family: Amer
+    given: Ahmed
+  - family: Feng
+    given: Dan
+  - family: Tan
+    given: Zhipeng
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Compressing provenance graphs
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/compressing-provenance-graphs
+
+- id: conf/tapp/CoeDAC14
+  type: paper-conference
+  author:
+  - family: Coe
+    given: G. Blake
+  - family: Doty
+    given: R. Christopher
+  - family: Allen
+    given: M. David
+  - family: Chapman
+    given: Adriane
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Provenance capture disparities highlighted through datasets
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/coe
+
+- id: conf/tapp/BalakrishnanBSH14
+  type: paper-conference
+  author:
+  - family: Balakrishnan
+    given: Nikilesh
+  - family: Bytheway
+    given: Thomas
+  - family: Sohan
+    given: Ripduman
+  - family: Hopper
+    given: Andy
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 'Report from the coalFace: Lessons learnt building a general-purpose always-on
+    provenance system'
+  title-short: Report from the coalFace
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/balakrishnan
+
+- id: conf/tapp/MissierDBCL13
+  type: paper-conference
+  author:
+  - family: Missier
+    given: Paolo
+  - family: Dey
+    given: Saumen C.
+  - family: Belhajjame
+    given: Khalid
+  - family: Cuevas-Vicenttín
+    given: Víctor
+  - family: Ludäscher
+    given: Bertram
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'D-pROV: Extending the pROV provenance model with workflow structure'
+  title-short: D-pROV
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/missier
+
+- id: conf/tapp/TilmesYH10
+  type: paper-conference
+  author:
+  - family: Tilmes
+    given: Curt
+  - family: Yesha
+    given: Yelena
+  - family: Halem
+    given: Milton
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: Provenance artifact identification in the atmospheric composition processing
+    system (aCPS)
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/provenance-artifact-identification-atmospheric-composition-processing-system-acps
+
+- id: conf/tapp/AmsterdamerDT11
+  type: paper-conference
+  author:
+  - family: Amsterdamer
+    given: Yael
+  - family: Deutch
+    given: Daniel
+  - family: Tannen
+    given: Val
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: On the limitations of provenance for queries with difference
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/limitations-provenance-queries-difference
+
+- id: conf/tapp/DonaldsonF11
+  type: paper-conference
+  author:
+  - family: Donaldson
+    given: Devan Ray
+  - family: Fear
+    given: Kathleen
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'Provenance, end-user trust and reuse: An empirical investigation'
+  title-short: Provenance, end-user trust and reuse
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-end-user-trust-and-reuse-empirical-investigation
+
+- id: conf/tapp/LyleM10
+  type: paper-conference
+  author:
+  - family: Lyle
+    given: John
+  - family: Martin
+    given: Andrew
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: 'Trusted computing and provenance: Better together'
+  title-short: Trusted computing and provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/trusted-computing-and-provenance-better-together
+
+- id: conf/tapp/ChirigatiSF13
+  type: paper-conference
+  author:
+  - family: Chirigati
+    given: Fernando Seabra
+  - family: Shasha
+    given: Dennis
+  - family: Freire
+    given: Juliana
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'ReproZip: Using provenance to support computational reproducibility'
+  title-short: ReproZip
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/chirigati
+
+- id: conf/tapp/MackoS11
+  type: paper-conference
+  author:
+  - family: Macko
+    given: Peter
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'Provenance map orbiter: Interactive exploration of large provenance graphs'
+  title-short: Provenance map orbiter
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-map-orbiter-interactive-exploration-large-provenance-graphs
+
+- id: conf/tapp/SchalerSS12
+  type: paper-conference
+  author:
+  - family: Schäler
+    given: Martin
+  - family: Schulze
+    given: Sandro
+  - family: Saake
+    given: Gunter
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Toward provenance capturing as cross-cutting concern
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/sch%C3%A4ler
+
+- id: conf/tapp/ZengHLLA11
+  type: paper-conference
+  author:
+  - family: Zeng
+    given: Reng
+  - family: He
+    given: Xudong
+  - family: Li
+    given: Jiafei
+  - family: Liu
+    given: Zheng
+  - family: Aalst
+    given: Wil M. P.
+    dropping-particle: van der
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: A method to build and analyze scientific workflows from provenance through
+    process mining
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/method-build-and-analyze-scientific-workflows-provenance-through-process-mining
+
+- id: conf/tapp/PhamMF13
+  type: paper-conference
+  author:
+  - family: Pham
+    given: Quan
+  - family: Malik
+    given: Tanu
+  - family: Foster
+    given: Ian T.
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: Using provenance for repeatability
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/pham
+
+- id: conf/tapp/GambleG14
+  type: paper-conference
+  author:
+  - family: Gamble
+    given: Matthew
+  - family: Goble
+    given: Carole A.
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 'Influence factor: Extending the pROV model with a quantitative measure
+    of influence'
+  title-short: Influence factor
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/gamble
+
+- id: conf/tapp/AcarBCBKV10
+  type: paper-conference
+  author:
+  - family: Acar
+    given: Umut A.
+  - family: Buneman
+    given: Peter
+  - family: Cheney
+    given: James
+  - family: Bussche
+    given: Jan Van
+    dropping-particle: den
+  - family: Kwasnikowska
+    given: Natalia
+  - family: Vansummeren
+    given: Stijn
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: A graph model of data and workflow provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/graph-model-data-and-workflow-provenance
+
+- id: conf/tapp/DoerrT11
+  type: paper-conference
+  author:
+  - family: Doerr
+    given: Martin
+  - family: Theodoridou
+    given: Maria
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'CRMdig: A generic digital provenance model for scientific observation'
+  title-short: CRMdig
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/crmdig-generic-digital-provenance-model-scientific-observation
+
+- id: conf/tapp/BidoitHT14
+  type: paper-conference
+  author:
+  - family: Bidoit
+    given: Nicole
+  - family: Herschel
+    given: Melanie
+  - family: Tzompanaki
+    given: Katerina
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Immutably answering why-not questions for equivalent conjunctive queries
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/bidoit
+
+- id: conf/tapp/AngelinoBHM11
+  type: paper-conference
+  author:
+  - family: Angelino
+    given: Elaine
+  - family: Braun
+    given: Uri
+  - family: Holland
+    given: David A.
+  - family: Margo
+    given: Daniel W.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Provenance integration requires reconciliation
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation
+
+- id: conf/tapp/BalakrishnanBSH13
+  type: paper-conference
+  author:
+  - family: Balakrishnan
+    given: Nikilesh
+  - family: Bytheway
+    given: Thomas
+  - family: Sohan
+    given: Ripduman
+  - family: Hopper
+    given: Andy
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 'OPUS: A lightweight system for observational provenance in user space'
+  title-short: OPUS
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/balakrishnan
+
+- id: conf/tapp/ZhouDHIL11
+  type: paper-conference
+  author:
+  - family: Zhou
+    given: Wenchao
+  - family: Ding
+    given: Ling
+  - family: Haeberlen
+    given: Andreas
+  - family: Ives
+    given: Zachary G.
+  - family: Loo
+    given: Boon Thau
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: 'TAP: Time-aware provenance for distributed systems'
+  title-short: TAP
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/tap-time-aware-provenance-distributed-systems
+
+- id: conf/tapp/2013
+  type: book
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: 5th workshop on the theory and practice of provenance, taPP’13, lombard,
+    iL, uSA, april 2-3, 2013
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A380
+
+- id: conf/tapp/Dey0BL12
+  type: paper-conference
+  author:
+  - family: Dey
+    given: Saumen C.
+  - family: '0003'
+    given: Sven Köhler
+  - family: Bowers
+    given: Shawn
+  - family: Ludäscher
+    given: Bertram
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Datalog as a lingua franca for provenance querying and reasoning
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/dey
+
+- id: conf/tapp/BraunSCBAS10
+  type: paper-conference
+  author:
+  - family: Braun
+    given: Uri
+  - family: Seltzer
+    given: Margo I.
+  - family: Chapman
+    given: Adriane
+  - family: Blaustein
+    given: Barbara T.
+  - family: Allen
+    given: M. David
+  - family: Seligman
+    given: Len
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: 'Towards query interoperability: PASSing pLUS'
+  title-short: Towards query interoperability
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/towards-query-interoperability-passing-plus
+
+- id: conf/tapp/MooreG13
+  type: paper-conference
+  author:
+  - family: Moore
+    given: Scott
+  - family: Gehani
+    given: Ashish
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: Declaratively processing provenance metadata
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/moore
+
+- id: conf/tapp/Kulkarni13
+  type: paper-conference
+  author:
+  - family: Kulkarni
+    given: Devdatta
+  editor:
+  - family: Meliou
+    given: Alexandra
+  issued:
+  - year: '2013'
+  title: A provenance model for key-value systems
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp13/technical-sessions/presentation/kulkarni
+
+- id: conf/tapp/GatesB11
+  type: paper-conference
+  author:
+  - family: Gates
+    given: Carrie
+  - family: Bishop
+    given: Matt
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: One of these records is not like the others
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/one-these-records-not-others
+
+- id: conf/tapp/0001PS12
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Dang Nguyen
+  - family: Park
+    given: Jaehong
+  - family: Sandhu
+    given: Ravi
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Dependency path patterns as the foundation of access control in provenance-aware
+    systems
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/nguyen
+
+- id: conf/tapp/2014
+  type: book
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: 6th workshop on the theory and practice of provenance, taPP’14, cologne,
+    germany, june 12-13, 2014
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014
+
+- id: conf/tapp/McDanielBMSZW10
+  type: paper-conference
+  author:
+  - family: McDaniel
+    given: Patrick
+  - family: Butler
+    given: Kevin R. B.
+  - family: McLaughlin
+    given: Stephen E.
+  - family: Sion
+    given: Radu
+  - family: Zadok
+    given: Erez
+  - family: Winslett
+    given: Marianne
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: Towards a secure and efficient system for end-to-end provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/towards-secure-and-efficient-system-end-end-provenance
+
+- id: conf/tapp/GaoZ12
+  type: paper-conference
+  author:
+  - family: Gao
+    given: Shi
+  - family: Zaniolo
+    given: Carlo
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Provenance management in databases under schema evolution
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/gao
+
+- id: conf/tapp/IvesHFG12
+  type: paper-conference
+  author:
+  - family: Ives
+    given: Zachary G.
+  - family: Haeberlen
+    given: Andreas
+  - family: Feng
+    given: Tao
+  - family: Gatterbauer
+    given: Wolfgang
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Querying provenance for ranking and recommending
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/ives
+
+- id: conf/tapp/2010
+  type: book
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: 2nd workshop on the theory and practice of provenance, taPP’10, san jose,
+    cA, uSA, february 22, 2010
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A42
+
+- id: conf/tapp/Rosenthal11
+  type: paper-conference
+  author:
+  - family: Rosenthal
+    given: Arnon
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Provenance needs incentives for everyone
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-needs-incentives-everyone
+
+- id: conf/tapp/MartinLN12
+  type: paper-conference
+  author:
+  - family: Martin
+    given: Andrew
+  - family: Lyle
+    given: John
+  - family: Namiluko
+    given: Cornelius
+  editor:
+  - family: Acar
+    given: Umut A.
+  issued:
+  - year: '2012'
+  title: Provenance as a security control
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp12/workshop-program/presentation/martin
+
+- id: conf/tapp/IkedaW10
+  type: paper-conference
+  author:
+  - family: Ikeda
+    given: Robert
+  - family: Widom
+    given: Jennifer
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: 'Panda: A system for provenance and data'
+  title-short: Panda
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/panda-system-provenance-and-data
+
+- id: conf/tapp/Riddle0L14
+  type: paper-conference
+  author:
+  - family: Riddle
+    given: Sean
+  - family: '0003'
+    given: Sven Köhler
+  - family: Ludäscher
+    given: Bertram
+  editor:
+  - family: Chapman
+    given: Adriane
+  issued:
+  - year: '2014'
+  title: Towards constraint provenance games
+  container-title: TAPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp2014/agenda/presentation/riddle
+
+- id: conf/tapp/MargoS10
+  type: paper-conference
+  author:
+  - family: Margo
+    given: Daniel W.
+  - family: Smogor
+    given: Robin
+  editor:
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '2010'
+  title: Using provenance to extract semantic file attributes
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp-10/using-provenance-extract-semantic-file-attributes
+
+- id: conf/tapp/CadenheadKT11
+  type: paper-conference
+  author:
+  - family: Cadenhead
+    given: Tyrone
+  - family: Kantarcioglu
+    given: Murat
+  - family: Thuraisingham
+    given: Bhavani M.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: A framework for policies over provenance
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/framework-policies-over-provenance
+
+- id: conf/tapp/ZhangJ11
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Jing
+  - family: Jagadish
+    given: H. V.
+  editor:
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '2011'
+  title: Provenance in dynamic data systems
+  container-title: TaPP
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/tapp11/provenance-dynamic-data-systems
+...

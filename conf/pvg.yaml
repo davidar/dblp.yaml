@@ -1,0 +1,770 @@
+---
+references:
+- id: conf/pvg/ZhangBB01
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Xiaoyu
+  - family: Bajaj
+    given: Chandrajit L.
+  - family: Blanke
+    given: William J.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Scalable isosurface visualization of massive datasets on cOTS clusters
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '51-58'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502136
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/WeberOKSBHS03
+  type: paper-conference
+  author:
+  - family: Weber
+    given: Gunther H.
+  - family: Öhler
+    given: Martin
+  - family: Kreylos
+    given: Oliver
+  - family: Shalf
+    given: John
+  - family: Bethel
+    given: E. Wes
+  - family: Hamann
+    given: Bernd
+  - family: Scheuermann
+    given: Gerik
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Parallel cell projection rendering of adaptive mesh refinement data
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '51-60'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/TurnerCEFHHKMRRSWYI01
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Russell J.
+  - family: Chaturvedi
+    given: Kabir
+  - family: Edwards
+    given: Nathan
+  - family: Fasulo
+    given: Daniel P.
+  - family: Halpern
+    given: Aaron L.
+  - family: Huson
+    given: Daniel H.
+  - family: Kohlbacher
+    given: Oliver
+  - family: Miller
+    given: Jason R.
+  - family: Reinert
+    given: Knut
+  - family: Remington
+    given: Karin A.
+  - family: Schwartz
+    given: Russell
+  - family: Walenz
+    given: Brian
+  - family: Yooseph
+    given: Shibu
+  - family: Istrail
+    given: Sorin
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Visualization challenges for a new cyberpharmaceutical computing paradigm
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '7-18'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502127
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/2003
+  type: book
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Proceedings of the iEEE symposium on parallel and large-data visualization
+    and graphics 2003, october 20-21, 2003, seattle, wA, uSA
+  publisher: IEEE
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/2001
+  type: book
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Proceedings of the iEEE 2001 symposium on parallel and large-data visualization
+    and graphics, pVG 2001, san diego, california, uSA, october 22-23, 2001
+  publisher: IEEE
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/Saltz03
+  type: paper-conference
+  author:
+  - family: Saltz
+    given: Joel H.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Middleware infrastructure for large-scale data management
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/CrossnoAM01
+  type: paper-conference
+  author:
+  - family: Crossno
+    given: Patricia
+  - family: Angel
+    given: Edward
+  - family: Munich
+    given: David
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: 'Case study: Visualizing ocean currents with color and dithering'
+  title-short: Case study
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '37-40'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502132
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/Baptista03
+  type: paper-conference
+  author:
+  - family: Baptista
+    given: António M.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Understanding ecosystems through observation and simulation
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/LaMarP03
+  type: paper-conference
+  author:
+  - family: LaMar
+    given: Eric
+  - family: Pascucci
+    given: Valerio
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: A multi-layered image cache for scientific visualization
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '61-68'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/BinottoCF03
+  type: paper-conference
+  author:
+  - family: Binotto
+    given: Alécio Pedro Delazari
+  - family: Comba
+    given: João
+  - family: Freitas
+    given: Carla Maria Dal Sasso
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Real-time volume rendering of time-varying data using a fragment-shader compression
+    approach
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '69-76'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/BartzSSCGOCJT01
+  type: paper-conference
+  author:
+  - family: Bartz
+    given: Dirk
+  - family: Staneker
+    given: Dirk
+  - family: Straßer
+    given: Wolfgang
+  - family: Cripe
+    given: Brian
+  - family: Gaskins
+    given: Tom
+  - family: Orton
+    given: Kristann
+  - family: Carter
+    given: Michael B.
+  - family: Johannsen
+    given: Andreas
+  - family: Trom
+    given: Jeff
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: 'Jupiter: A toolkit for interactive large model visualization'
+  title-short: Jupiter
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '129-134'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502150
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/BennettCMMW01
+  type: paper-conference
+  author:
+  - family: Bennett
+    given: Janine
+  - family: Cook
+    given: Richard
+  - family: Max
+    given: Nelson L.
+  - family: May
+    given: Deborah
+  - family: Williams
+    given: Peter L.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Parallelizing a high accuracy hardware-assisted volume renderer for meshes
+    with arbitrary polyhedra
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '101-106'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502144
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/StompelMLAP03
+  type: paper-conference
+  author:
+  - family: Stompel
+    given: Aleksander
+  - family: Ma
+    given: Kwan-Liu
+  - family: Lum
+    given: Eric B.
+  - family: Ahrens
+    given: James P.
+  - family: Patchett
+    given: John
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: 'SLIC: Scheduled linear image compositing for parallel volume rendering'
+  title-short: SLIC
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '33-40'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/ChenSJ03
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Jian
+  - family: Silver
+    given: Deborah
+  - family: Jiang
+    given: Lian
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: 'The feature tree: Visualizing feature tracking in distributed aMR datasets'
+  title-short: The feature tree
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '103-110'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/StanekerBM03
+  type: paper-conference
+  author:
+  - family: Staneker
+    given: Dirk
+  - family: Bartz
+    given: Dirk
+  - family: Meißner
+    given: Michael
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Improving occlusion query efficiency with occupancy maps
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '111-118'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/GaoS01
+  type: paper-conference
+  author:
+  - family: Gao
+    given: Jinzhu
+  - family: Shen
+    given: Han-Wei
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Parallel view-dependent isosurface extraction using multi-pass occlusion
+    culling
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '67-74'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502138
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/CorreaKS03
+  type: paper-conference
+  author:
+  - family: Corrêa
+    given: Wagner Toledo
+  - family: Klosowski
+    given: James T.
+  - family: Silva
+    given: Cláudio T.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Visibility-based prefetching for interactive out-of-core rendering
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '1-8'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/BruckschenKHJ01
+  type: paper-conference
+  author:
+  - family: Bruckschen
+    given: Ralph
+  - family: Kuester
+    given: Falko
+  - family: Hamann
+    given: Bernd
+  - family: Joy
+    given: Kenneth I.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Real-time out-of-core visualization of particle traces
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '45-50'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502134
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/ChiangFSW01
+  type: paper-conference
+  author:
+  - family: Chiang
+    given: Yi-Jen
+  - family: Farias
+    given: Ricardo C.
+  - family: Silva
+    given: Cláudio T.
+  - family: Wei
+    given: Bin
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: A unified infrastructure for parallel out-of-core isosurface extraction and
+    volume rendering of unstructured grids
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '59-66'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502137
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/MurakiLMOL03
+  type: paper-conference
+  author:
+  - family: Muraki
+    given: Shigeru
+  - family: Lum
+    given: Eric B.
+  - family: Ma
+    given: Kwan-Liu
+  - family: Ogata
+    given: Masato
+  - family: Liu
+    given: Xuezhen
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: A pC cluster system for simultaneous interactive volumetric modeling and
+    visualization
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '95-102'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/MeissnerGSPL01
+  type: paper-conference
+  author:
+  - family: Meißner
+    given: Michael
+  - family: Grimm
+    given: S.
+  - family: Straßer
+    given: Wolfgang
+  - family: Packer
+    given: J.
+  - family: Latimer
+    given: Dairsie
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Parallel volume rendering on a single-chip sIMD architecture
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '107-113'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502146
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/SamantaFL01
+  type: paper-conference
+  author:
+  - family: Samanta
+    given: Rudrajit
+  - family: Funkhouser
+    given: Thomas A.
+  - family: Li
+    given: Kai
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Parallel rendering with k-way replication
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '75-84'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502140
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/MorelandT03
+  type: paper-conference
+  author:
+  - family: Moreland
+    given: Kenneth
+  - family: Thompson
+    given: David S.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: From cluster to wall with vTK
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '25-32'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/BethelPB03
+  type: paper-conference
+  author:
+  - family: Bethel
+    given: E. Wes
+  - family: Humphreys
+    given: Greg
+  - family: Paul
+    given: Brian E.
+  - family: Brederson
+    given: J. Dean
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Sort-first, distributed memory parallel visualization and rendering
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '41-50'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/DeMarlePHGH03
+  type: paper-conference
+  author:
+  - family: DeMarle
+    given: David E.
+  - family: Parker
+    given: Steven G.
+  - family: Hartner
+    given: Mark
+  - family: Gribble
+    given: Christiaan P.
+  - family: Hansen
+    given: Charles D.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Distributed interactive ray tracing for large volume visualization
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '87-94'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/ZhangN03
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Huijuan
+  - family: Newman
+    given: Timothy S.
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Efficient parallel out-of-core isosurface extraction
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '9-16'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/CruzGGR01
+  type: paper-conference
+  author:
+  - family: Cruz
+    given: Luis M.
+    dropping-particle: de la
+  - family: García
+    given: Ian
+  - family: Godoy
+    given: Victor
+  - family: Ramos
+    given: Eduardo
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: 'Case study: Parallel lagrangian visualization applied to natural convective
+    flows'
+  title-short: Case study
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '41-44'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502133
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/MeredithM01
+  type: paper-conference
+  author:
+  - family: Meredith
+    given: Jeremy S.
+  - family: Ma
+    given: Kwan-Liu
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Multiresolution view-dependent splat based volume rendering of large irregular
+    data
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '93-99'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502143
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/DeyGH01
+  type: paper-conference
+  author:
+  - family: Dey
+    given: Tamal K.
+  - family: Giesen
+    given: Joachim
+  - family: Hudson
+    given: James
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Delaunay based shape reconstruction from large data
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '19-27'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502129
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/LombeydaMSBH01
+  type: paper-conference
+  author:
+  - family: Lombeyda
+    given: Santiago V.
+  - family: Moll
+    given: Laurent
+  - family: Shand
+    given: Mark
+  - family: Breen
+    given: David E.
+  - family: Heirich
+    given: Alan
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Scalable interactive volume rendering using off-the-shelf components
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '115-121'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502147
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/WaldBS03
+  type: paper-conference
+  author:
+  - family: Wald
+    given: Ingo
+  - family: Benthin
+    given: Carsten
+  - family: Slusallek
+    given: Philipp
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: Distributed interactive ray tracing of dynamic scenes
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '77-86'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/BrodskyP03
+  type: paper-conference
+  author:
+  - family: Brodsky
+    given: Dmitry
+  - family: Pedersen
+    given: Jan Bækgaard
+  editor:
+  - family: Koning
+    given: Anton H. J.
+  issued:
+  - year: '2003'
+  title: A parallel framework for simplification of massive meshes
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '17-24'
+  ISBN: 0-7803-8122-X
+
+- id: conf/pvg/LawHA01
+  type: paper-conference
+  author:
+  - family: Law
+    given: C. Charles
+  - family: Henderson
+    given: Amy
+  - family: Ahrens
+    given: James P.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: 'An application architecture for large data visualization: A case study'
+  title-short: An application architecture for large data visualization
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '125-128'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502149
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/ReinhardSH01
+  type: paper-conference
+  author:
+  - family: Reinhard
+    given: Erik
+  - family: Shirley
+    given: Peter
+  - family: Hansen
+    given: Charles D.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Parallel point reprojection
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '29-35'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502130
+  ISBN: '0-7803-7223-9'
+
+- id: conf/pvg/MorelandWP01
+  type: paper-conference
+  author:
+  - family: Moreland
+    given: Kenneth
+  - family: Wylie
+    given: Brian N.
+  - family: Pavlakos
+    given: Constantine J.
+  editor:
+  - family: Breen
+    given: David E.
+  issued:
+  - year: '2001'
+  title: Sort-last parallel rendering for viewing extremely large data sets on tile
+    displays
+  container-title: IEEE symposium on parallel and large-data visualization and graphics
+  publisher: IEEE
+  page: '85-92'
+  URL: http://portal.acm.org/citation.cfm?id=502125.502141
+  ISBN: '0-7803-7223-9'
+...

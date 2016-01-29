@@ -1,0 +1,846 @@
+---
+references:
+- id: conf/jfla/Maingaud09
+  type: paper-conference
+  author:
+  - family: Maingaud
+    given: Séverine
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: 'Un modèle de l’assistant à la preuve: PAF!'
+  title-short: Un modèle de l’assistant à la preuve
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '351-382'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/MandelP14
+  type: paper-conference
+  author:
+  - family: Mandel
+    given: Louis
+  - family: Pasteur
+    given: Cédric
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Exécution efficace de programmes reactiveML
+  container-title: JFLA
+  page: '49-64'
+
+- id: conf/jfla/BaroM03
+  type: paper-conference
+  author:
+  - family: Baro
+    given: Sylvain
+  - family: Manoury
+    given: Pierre
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Un système x raisonner formellement sur les programmes mL
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '49-62'
+
+- id: conf/jfla/PedrotDS14
+  type: paper-conference
+  author:
+  - family: Pédrot
+    given: Pierre-Marie
+  - family: Doumane
+    given: Amina
+  - family: Saurin
+    given: Alexis
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: 'Nécessité faite loi : De la réduction linéaire de tête à l’évaluation
+    paresseuse'
+  title-short: Nécessité faite loi
+  container-title: JFLA
+  page: '175-189'
+
+- id: conf/jfla/MandelG14
+  type: paper-conference
+  author:
+  - family: Mandel
+    given: Louis
+  - family: Guatto
+    given: Adrien
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Réseaux de kahn à rafales et horloges entières
+  container-title: JFLA
+  page: '93-108'
+
+- id: conf/jfla/Furuse01
+  type: paper-conference
+  author:
+  - family: Furuse
+    given: Jun
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Generic polymorphism in mL
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '75-96'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/DumasDEP14
+  type: paper-conference
+  author:
+  - family: Dumas
+    given: Jean-Guillaume
+  - family: Duval
+    given: Dominique
+  - family: Ekici
+    given: Burak
+  - family: Pous
+    given: Damien
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Formal verification in coq of program properties involving the global state
+    effect
+  container-title: JFLA
+  page: '1-16'
+
+- id: conf/jfla/2009
+  type: book
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: JFLA 2009, vingtièmes journées francophones des langages applicatifs, saint
+    quentin sur isère, france, january 31 - february 3, 2009. proceedings
+  collection-title: Studia informatica universalis
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/Karczmarczuk01
+  type: paper-conference
+  author:
+  - family: Karczmarczuk
+    given: Jerzy
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Calcul des adjoints et programmation paresseuse
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '145-156'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/Prost01
+  type: paper-conference
+  author:
+  - family: Prost
+    given: Frédéric
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: On the semantics of non-interference type-based analysis
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '97-112'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/BardouFKL09
+  type: paper-conference
+  author:
+  - family: Bardou
+    given: Romain
+  - family: Filliâtre
+    given: Jean-Christophe
+  - family: Kanig
+    given: Johannes
+  - family: Lescuyer
+    given: Stéphane
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Faire bonne figure avec mlpost
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '477-507'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/2003
+  type: book
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Journées francophones des langages applicatifs (jFLA’03), chamrousse, france,
+    janvier 2003
+  collection-title: Collection didactique
+  publisher: INRIA
+
+- id: conf/jfla/BoulifaM03
+  type: paper-conference
+  author:
+  - family: Boulifa
+    given: Rabéa
+  - family: Mezghiche
+    given: Mohamed
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Another implementation technique for functional programming languages
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '37-48'
+
+- id: conf/jfla/2001
+  type: book
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Journées francophones des langages applicatifs (jFLA’01), pontarlier, france,
+    janvier, 2001
+  collection-title: Collection didactique
+  publisher: INRIA
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/DuboisGJ03
+  type: paper-conference
+  author:
+  - family: Dubois
+    given: Catherine
+  - family: Grandguillot
+    given: J.
+  - family: Jaume
+    given: Mathieu
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: 'Réutilisation de preuves formelles : Une étude pour le système foC'
+  title-short: Réutilisation de preuves formelles
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '63-75'
+
+- id: conf/jfla/Plaindoux01
+  type: paper-conference
+  author:
+  - family: Plaindoux
+    given: Didier
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: 'Programmation fonctionnelle et xML: PaX'
+  title-short: Programmation fonctionnelle et xML
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '129-144'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/Signoles09
+  type: paper-conference
+  author:
+  - family: Signoles
+    given: Julien
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: 'Foncteurs impératifs et composés: La notion de projets dans frama-c'
+  title-short: Foncteurs impératifs et composés
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '245-280'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/Glondu09
+  type: paper-conference
+  author:
+  - family: Glondu
+    given: Stéphane
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Extraction certifiée dans coq-en-coq
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '383-410'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/RusuC09
+  type: paper-conference
+  author:
+  - family: Rusu
+    given: Vlad
+  - family: Clavel
+    given: Manuel
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Vérification d’invariants pour des systèmes spécifiés en logique de réécriture
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '317-350'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/Chilles03
+  type: paper-conference
+  author:
+  - family: Chillès
+    given: Alain
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Du fonctionnel en prépa
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '93-94'
+
+- id: conf/jfla/HenrioS03
+  type: paper-conference
+  author:
+  - family: Henrio
+    given: Ludovic
+  - family: Serpette
+    given: Bernard P.
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: A parametrized polyvariant bytecode verifier
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '95-110'
+
+- id: conf/jfla/CuoqP01
+  type: paper-conference
+  author:
+  - family: Cuoq
+    given: Pascal
+  - family: Pouzet
+    given: Marc
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Causalité modulaire dans un langage de flots synchrone
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '113-128'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/BagnolDS14
+  type: paper-conference
+  author:
+  - family: Bagnol
+    given: Marc
+  - family: Doumane
+    given: Amina
+  - family: Saurin
+    given: Alexis
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Analyse de dépendances et correction des réseaux de preuve
+  container-title: JFLA
+  page: '159-174'
+
+- id: conf/jfla/ParigotS09
+  type: paper-conference
+  author:
+  - family: Parigot
+    given: Didier
+  - family: Serpette
+    given: Bernard P.
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Qui sème la fonction, récolte le tuyau typé
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '225-244'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/BosserA03
+  type: paper-conference
+  author:
+  - family: Bosser
+    given: Anne-Gwenn
+  - family: Alberti
+    given: Francisco
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: L’expérience sCOL, un langage pour des applications internet multi-utilisateurs
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '125-138'
+
+- id: conf/jfla/AmeurBPW03
+  type: paper-conference
+  author:
+  - family: Ameur
+    given: Yamine Aït
+  - family: Boniol
+    given: Frédéric
+  - family: Pairault
+    given: S.
+  - family: Wiels
+    given: Virginie
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Analyse de robustesse de systèmes avioniques
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '111-124'
+
+- id: conf/jfla/Guesdon09
+  type: paper-conference
+  author:
+  - family: Guesdon
+    given: Maxence
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Fouille au code oCaml par analyse de dépendances
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '445-476'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/HiraiA14
+  type: paper-conference
+  author:
+  - family: Hirai
+    given: Yoichi
+  - family: Affeldt
+    given: Reynald
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: What could coq do for database software? - a progress report
+  container-title: JFLA
+  page: '33-48'
+
+- id: conf/jfla/Chicli01
+  type: paper-conference
+  author:
+  - family: Chicli
+    given: Laurent
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Une formalisation des faisceaux et des schémas affines en théorie des types
+    avec coq
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '17-32'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/BodinJS14
+  type: paper-conference
+  author:
+  - family: Bodin
+    given: Martin
+  - family: Jensen
+    given: Thomas
+  - family: Schmitt
+    given: Alan
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Pretty-big-step-semantics-based certified abstract interpretation
+  container-title: JFLA
+  page: '109-130'
+
+- id: conf/jfla/ConchonDMM14
+  type: paper-conference
+  author:
+  - family: Conchon
+    given: Sylvain
+  - family: Declerck
+    given: David
+  - family: Maranget
+    given: Luc
+  - family: Mebsout
+    given: Alain
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: 'Vérification de programmes c concurrents avec cubicle : Enfoncer les barrières'
+  title-short: Vérification de programmes c concurrents avec cubicle
+  container-title: JFLA
+  page: '17-32'
+
+- id: conf/jfla/Husson14
+  type: paper-conference
+  author:
+  - family: Husson
+    given: Adrien
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Une sémantique statique pour mongoDB
+  container-title: JFLA
+  page: '77-92'
+
+- id: conf/jfla/FalcouS03
+  type: paper-conference
+  author:
+  - family: Falcou
+    given: Joel
+  - family: Sérot
+    given: Jocelyn
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: 'CamlG4 : Une bibliothèque de calcul parallèle pour objective caml'
+  title-short: CamlG4
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '139-152'
+
+- id: conf/jfla/Maranget03
+  type: paper-conference
+  author:
+  - family: Maranget
+    given: Luc
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Les avertissements du filtrage
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '3-20'
+
+- id: conf/jfla/SerpetteMC14
+  type: paper-conference
+  author:
+  - family: Serpette
+    given: Bernard P.
+  - family: Manoury
+    given: Pascal
+  - family: Chailloux
+    given: Emmanuel
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Unification des couleurs dans un $\lambda$-calcul polychrome
+  container-title: JFLA
+  page: '65-76'
+
+- id: conf/jfla/Pottier01
+  type: paper-conference
+  author:
+  - family: Pottier
+    given: Loic
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Extraction dans le calcul des constructions inductives
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '49-58'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/DelahayeM01
+  type: paper-conference
+  author:
+  - family: Delahaye
+    given: David
+  - family: Mayero
+    given: Micaela
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Field, une procédure de décision pour les nombres réels en coq
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '33-48'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/Signoles14
+  type: paper-conference
+  author:
+  - family: Signoles
+    given: Julien
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: Comment un chameau peut-il écrire un journal ?
+  container-title: JFLA
+  page: '131-148'
+
+- id: conf/jfla/GavaL03
+  type: paper-conference
+  author:
+  - family: Gava
+    given: Frédéric
+  - family: Loulergue
+    given: Frédéric
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Synthèse de types pour bulk synchronous parallel mL
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '153-168'
+
+- id: conf/jfla/MagaudB01
+  type: paper-conference
+  author:
+  - family: Magaud
+    given: Nicolas
+  - family: Bertot
+    given: Yves
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: 'Changement de représentation des structures de données en coq: Le cas
+    des entiers naturels'
+  title-short: Changement de représentation des structures de données en coq
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '1-16'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/Saiu09
+  type: paper-conference
+  author:
+  - family: Saiu
+    given: Luca
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: 'Vers une programmation fonctionnelle en appel par valeur sur systèmes
+    multi-coeurs : Évaluation asynchrone et ramasse-miettes parallèle'
+  title-short: Vers une programmation fonctionnelle en appel par valeur sur systèmes
+    multi-coeurs
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '281-316'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+
+- id: conf/jfla/2014
+  type: book
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: 25\. journées francophones des langages applicatifs, fréjus, france, january
+    8-11, 2014
+
+- id: conf/jfla/CohenMG03
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: Julien
+  - family: Michel
+    given: Olivier
+  - family: Giavitto
+    given: Jean-Louis
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Filtrage et règles de réécriture sur des structures indexées par des groupes
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '77-92'
+
+- id: conf/jfla/PousS14
+  type: paper-conference
+  author:
+  - family: Pous
+    given: Damien
+  - family: Schmitt
+    given: Alan
+  editor:
+  - family: Tasson
+    given: Christine
+  issued:
+  - year: '2014'
+  title: De la kAM avec un processus d’Ordre supe’rieur
+  container-title: JFLA
+  page: '149-158'
+
+- id: conf/jfla/Signoles03
+  type: paper-conference
+  author:
+  - family: Signoles
+    given: Julien
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: Calcul statique des applications de modules paramétrés
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '21-36'
+
+- id: conf/jfla/Eber03
+  type: paper-conference
+  author:
+  - family: Eber
+    given: Jean-Marc
+  editor:
+  - family: Filliâtre
+    given: Jean-Christophe
+  issued:
+  - year: '2003'
+  title: 'OCaml dans l’industrie financière: Expérience industrielle d’une utilisation
+    intensive et stratégique du langage oCaml dans un projet novateur'
+  title-short: OCaml dans l’industrie financière
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '1-2'
+
+- id: conf/jfla/Prevosto01
+  type: paper-conference
+  author:
+  - family: Prevosto
+    given: Virgile
+  editor:
+  - family: Castéran
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: Prototype d’interface utilisateur de la librairie fOC
+  container-title: JFLA
+  collection-title: Collection didactique
+  publisher: INRIA
+  page: '59-74'
+  ISBN: '2-7261-1154-8'
+
+- id: conf/jfla/MandelP09
+  type: paper-conference
+  author:
+  - family: Mandel
+    given: Louis
+  - family: Plateau
+    given: Florence
+  editor:
+  - family: Schmitt
+    given: Alan
+  issued:
+  - year: '2009'
+  title: Abstraction d’horloges dans les systèmes synchrones flot de données
+  container-title: JFLA
+  collection-title: Studia informatica universalis
+  page: '411-444'
+  volume: '7.2'
+  ISBN: '978-2-7056-6917-1'
+...

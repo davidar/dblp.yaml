@@ -1,0 +1,3121 @@
+---
+references:
+- id: conf/iccl/CrawfordOHW92
+  type: paper-conference
+  author:
+  - family: Crawford
+    given: Richard H.
+  - family: Olsson
+    given: Ronald A.
+  - family: Ho
+    given: W. Wilson
+  - family: Wee
+    given: Christopher E.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Semantic issues in the design of languages for debugging
+  container-title: ICCL
+  publisher: IEEE
+  page: '252-261'
+  DOI: 10.1109/ICCL.1992.185489
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/AletanL88
+  type: paper-conference
+  author:
+  - family: Aletan
+    given: Samuel O.
+  - family: Lively
+    given: William
+  issued:
+  - year: '1988'
+  title: Architectural design methodology for supporting high level programming languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '356-363'
+  DOI: 10.1109/ICCL.1988.13084
+
+- id: conf/iccl/RusP88
+  type: paper-conference
+  author:
+  - family: Rus
+    given: Teodor
+  - family: Peau
+    given: J. P. Le
+  issued:
+  - year: '1988'
+  title: Language specification by multi-axiom grammars
+  container-title: ICCL
+  publisher: IEEE
+  page: '110-118'
+  DOI: 10.1109/ICCL.1988.13049
+
+- id: conf/iccl/RowstronW98
+  type: paper-conference
+  author:
+  - family: Rowstron
+    given: Antony I. T.
+  - family: Wray
+    given: Stuart
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: A run-time system for wCL
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '78-96'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_4
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/SheardS88
+  type: paper-conference
+  author:
+  - family: Sheard
+    given: Tim
+  - family: Stemple
+    given: David W.
+  issued:
+  - year: '1988'
+  title: The precise control of inheritance and the inheritance of theory in the aDABTPL
+    language
+  container-title: ICCL
+  publisher: IEEE
+  page: '194-201'
+  DOI: 10.1109/ICCL.1988.13064
+
+- id: conf/iccl/Yeh88
+  type: paper-conference
+  author:
+  - family: Yeh
+    given: Raymond T.
+  issued:
+  - year: '1988'
+  title: Report on a business definition language system
+  container-title: ICCL
+  publisher: IEEE
+  page: '177-183'
+  DOI: 10.1109/ICCL.1988.13062
+
+- id: conf/iccl/MoreauQ98
+  type: paper-conference
+  author:
+  - family: Moreau
+    given: Luc
+  - family: Queinnec
+    given: Christian
+  issued:
+  - year: '1998'
+  title: Distributed computations driven by resource consumption
+  container-title: ICCL
+  page: '68-'
+  URL: http://computer.org/proceedings/iccl/8454/84540068abs.htm
+
+- id: conf/iccl/1988
+  type: book
+  issued:
+  - year: '1988'
+  title: 1988 internation conference on computer languages, october 9-13, 1988, miami,
+    florida, uSA
+  publisher: IEEE
+
+- id: conf/iccl/Jensen94
+  type: paper-conference
+  author:
+  - family: Jensen
+    given: Thomas P.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Abstract interpretation over algebraic data types
+  container-title: ICCL
+  publisher: IEEE Computer Society
+
+- id: conf/iccl/PalsbergS94
+  type: paper-conference
+  author:
+  - family: Palsberg
+    given: Jens
+  - family: Schwartzbach
+    given: Michael I.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Binding-time analysis: Abstract interpretation versus type inference'
+  title-short: Binding-time analysis
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '277-288'
+
+- id: conf/iccl/PandeyB94
+  type: paper-conference
+  author:
+  - family: Pandey
+    given: Raju
+  - family: Browne
+    given: James C.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: A compositional approach to concurrent object-oriented programming
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '124-135'
+
+- id: conf/iccl/Trescher92
+  type: paper-conference
+  author:
+  - family: Trescher
+    given: J. A.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Compositional specification of parallel time-critical systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '212-221'
+  DOI: 10.1109/ICCL.1992.185485
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Revesz90
+  type: paper-conference
+  author:
+  - family: Révész
+    given: György E.
+  issued:
+  - year: '1990'
+  title: Parallel graph-reduction with a shared memory multiprocessor system
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '33-38'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Palsberg92
+  type: paper-conference
+  author:
+  - family: Palsberg
+    given: Jens
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: An automatically generated and provably correct compiler for a subset of
+    ada
+  container-title: ICCL
+  publisher: IEEE
+  page: '117-126'
+  DOI: 10.1109/ICCL.1992.185474
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/BagrodiaC88
+  type: paper-conference
+  author:
+  - family: Bagrodia
+    given: Rajive
+  - family: Chandy
+    given: K. Mani
+  issued:
+  - year: '1988'
+  title: Programming the connection machine
+  container-title: ICCL
+  publisher: IEEE
+  page: '50-57'
+  DOI: 10.1109/ICCL.1988.13042
+
+- id: conf/iccl/CorradiL90
+  type: paper-conference
+  author:
+  - family: Corradi
+    given: Antonio
+  - family: Leonardi
+    given: Letizia
+  issued:
+  - year: '1990'
+  title: Parallelism in object-oriented programming languages
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '271-280'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/BalKT90
+  type: paper-conference
+  author:
+  - family: Bal
+    given: Henri E.
+  - family: Kaashoek
+    given: M. Frans
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1990'
+  title: Experience with distributed programming in oRCA
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '79-89'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/ChangJA88
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Carl K.
+  - family: Jiang
+    given: Tsang Ming
+  - family: Aoyama
+    given: Mikio
+  issued:
+  - year: '1988'
+  title: A specification language for real-time distributed systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '258-265'
+  DOI: 10.1109/ICCL.1988.13072
+
+- id: conf/iccl/LiuS98
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  - family: Stoller
+    given: Scott D.
+  issued:
+  - year: '1998'
+  title: Loop optimization for aggregate array computations
+  container-title: ICCL
+  page: '262-271'
+  URL: http://computer.org/proceedings/iccl/8454/84540262abs.htm
+
+- id: conf/iccl/FenwickP98
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: James B. Fenwick
+  - family: Pollock
+    given: Lori L.
+  issued:
+  - year: '1998'
+  title: Data flow analysis across tuplespace process boundaries
+  container-title: ICCL
+  page: '272-'
+  URL: http://computer.org/proceedings/iccl/8454/84540272abs.htm
+
+- id: conf/iccl/SewellWP98
+  type: paper-conference
+  author:
+  - family: Sewell
+    given: Peter
+  - family: Wojciechowski
+    given: Pawel T.
+  - family: Pierce
+    given: Benjamin C.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: 'Location-independent communication for mobile agents: A two-level architecture'
+  title-short: Location-independent communication for mobile agents
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-31'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_1
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/ShawW92
+  type: paper-conference
+  author:
+  - family: Shaw
+    given: Mary
+  - family: Wulf
+    given: William A.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Toward relaxing assumptions in languages and the1r implementations
+  container-title: ICCL
+  publisher: IEEE
+  page: '202-211'
+  DOI: 10.1109/ICCL.1992.185484
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Freeman-BensonB92
+  type: paper-conference
+  author:
+  - family: Freeman-Benson
+    given: Bjørn N.
+  - family: Borning
+    given: Alan
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: The design and implementation of kaleidoscope’90-a constraint imperative
+    programming language
+  container-title: ICCL
+  publisher: IEEE
+  page: '174-180'
+  DOI: 10.1109/ICCL.1992.185480
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/YauJ88
+  type: paper-conference
+  author:
+  - family: Yau
+    given: Stephen S.
+  - family: Jia
+    given: Xiaoping
+  issued:
+  - year: '1988'
+  title: Visual languages and software specifications
+  container-title: ICCL
+  publisher: IEEE
+  page: '322-328'
+  DOI: 10.1109/ICCL.1988.13080
+
+- id: conf/iccl/AlpuenteFRV94
+  type: paper-conference
+  author:
+  - family: Alpuente
+    given: María
+  - family: Falaschi
+    given: Moreno
+  - family: Ramis
+    given: María José
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: A compositional semantics for conditional term rewriting systems
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '171-182'
+
+- id: conf/iccl/ChinTH98
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  - family: Takano
+    given: Akihiko
+  - family: Hu
+    given: Zhenjiang
+  issued:
+  - year: '1998'
+  title: Parallelization via context preservation
+  container-title: ICCL
+  page: '153-'
+  URL: http://computer.org/proceedings/iccl/8454/84540153abs.htm
+
+- id: conf/iccl/Knoop98
+  type: paper-conference
+  author:
+  - family: Knoop
+    given: Jens
+  issued:
+  - year: '1998'
+  title: Formal callability and its relevance and application to interprocedural data-flow
+    analysis
+  container-title: ICCL
+  page: '252-261'
+  URL: http://computer.org/proceedings/iccl/8454/84540252abs.htm
+
+- id: conf/iccl/CousotC94
+  type: paper-conference
+  author:
+  - family: Cousot
+    given: Patrick
+  - family: Cousot
+    given: Radhia
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Invited talk: Higher order abstract interpretation (and application to
+    comportment analysis generalizing strictness, termination, projection, and pER
+    analysis'
+  title-short: Invited talk
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '95-112'
+
+- id: conf/iccl/WandC98
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  - family: Clinger
+    given: William D.
+  issued:
+  - year: '1998'
+  title: Set constraints for destructive array update optimization
+  container-title: ICCL
+  page: '184-'
+  URL: http://dlib.computer.org/conferen/iccl/8454/pdf/84540184.pdf
+
+- id: conf/iccl/HitchensR94
+  type: paper-conference
+  author:
+  - family: Hitchens
+    given: Michael
+  - family: Rosenberg
+    given: John
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: A three-level object-based model
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '148-158'
+
+- id: conf/iccl/KaiserH90
+  type: paper-conference
+  author:
+  - family: Kaiser
+    given: Gail E.
+  - family: Hailpern
+    given: Brent
+  issued:
+  - year: '1990'
+  title: An object model of shared data
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '136-144'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/WechslerR88
+  type: paper-conference
+  author:
+  - family: Wechsler
+    given: Harry
+  - family: Rine
+    given: David C.
+  issued:
+  - year: '1988'
+  title: Object oriented programming (oOP) and its relevance to designing intelligent
+    software systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '242-248'
+  DOI: 10.1109/ICCL.1988.13070
+
+- id: conf/iccl/CookH94
+  type: paper-conference
+  author:
+  - family: Cook
+    given: Todd A.
+  - family: Harcourt
+    given: Edwin A.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: A functional specification language for instruction set architectures
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '11-19'
+
+- id: conf/iccl/HansonK90
+  type: paper-conference
+  author:
+  - family: Hanson
+    given: David R.
+  - family: Kobayashi
+    given: Makoto
+  issued:
+  - year: '1990'
+  title: EZ processes
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '90-97'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/SugimotoST92
+  type: paper-conference
+  author:
+  - family: Sugimoto
+    given: Shigeo
+  - family: Sakaguchi
+    given: Tetsuo
+  - family: Tabata
+    given: Koichi
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Layered architecture of multiple programming language system for multiparadigm
+    programming
+  container-title: ICCL
+  publisher: IEEE
+  page: '190-199'
+  DOI: 10.1109/ICCL.1992.185482
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CarrollC94
+  type: paper-conference
+  author:
+  - family: Chu-Carroll
+    given: Mark
+  - family: Pollock
+    given: Lori L.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Composites: Trees for data parallel programming'
+  title-short: Composites
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '43-54'
+
+- id: conf/iccl/Bal92
+  type: paper-conference
+  author:
+  - family: Bal
+    given: Henri E.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Parallel programming in sR
+  container-title: ICCL
+  publisher: IEEE
+  page: '310-319'
+  DOI: 10.1109/ICCL.1992.185495
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CordyG90
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: James R.
+  - family: Graham
+    given: T. C. Nicholas
+  issued:
+  - year: '1990'
+  title: 'GVL: A graphical, functional language for the specification of output
+    in programming languages'
+  title-short: GVL
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '11-22'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Zimmermann92
+  type: paper-conference
+  author:
+  - family: Zimmermann
+    given: W.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Complexity issues in the design of functional languages with explicit parallelism
+  container-title: ICCL
+  publisher: IEEE
+  page: '34-43'
+  DOI: 10.1109/ICCL.1992.185466
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/ZhongIE88
+  type: paper-conference
+  author:
+  - family: Zhong
+    given: Y.
+  - family: Ishizuka
+    given: S.
+  - family: Enari
+    given: R.
+  issued:
+  - year: '1988'
+  title: Integrating abstract data types with object-oriented programming by specification-based
+    approach
+  container-title: ICCL
+  publisher: IEEE
+  page: '202-209'
+  DOI: 10.1109/ICCL.1988.13066
+
+- id: conf/iccl/LandryA94
+  type: paper-conference
+  author:
+  - family: Landry
+    given: Kenneth D.
+  - family: Arthur
+    given: James D.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Achieving asynchronous speedup while preserving synchronous semantics:
+    An implementation of instructional footprinting in linda'
+  title-short: Achieving asynchronous speedup while preserving synchronous semantics
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '55-63'
+
+- id: conf/iccl/KamelG88
+  type: paper-conference
+  author:
+  - family: Kamel
+    given: R. F.
+  - family: Gammage
+    given: Neil D.
+  issued:
+  - year: '1988'
+  title: Experience with rendezvous \[tasking and communication model\]
+  container-title: ICCL
+  publisher: IEEE
+  page: '143-149'
+  DOI: 10.1109/ICCL.1988.13053
+
+- id: conf/iccl/Fruhwirth88
+  type: paper-conference
+  author:
+  - family: Frühwirth
+    given: Thom W.
+  issued:
+  - year: '1988'
+  title: Type inference by program transformation and partial evaluation
+  container-title: ICCL
+  publisher: IEEE
+  page: '347-354'
+  DOI: 10.1109/ICCL.1988.13083
+
+- id: conf/iccl/RodriguesLRL94
+  type: paper-conference
+  author:
+  - family: Rodrigues
+    given: Marcos A.
+  - family: Loftus
+    given: Chris W.
+  - family: Ratcliffe
+    given: Mark
+  - family: Li
+    given: Youfu
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Structure notation of dynamic systems: A pictorial language approach'
+  title-short: Structure notation of dynamic systems
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '219-228'
+
+- id: conf/iccl/Waters88
+  type: paper-conference
+  author:
+  - family: Waters
+    given: Richard C.
+  issued:
+  - year: '1988'
+  title: Using obviously synchronizable series expressions instead of loops
+  container-title: ICCL
+  publisher: IEEE
+  page: '338-346'
+  DOI: 10.1109/ICCL.1988.13082
+
+- id: conf/iccl/Sitaraman92
+  type: paper-conference
+  author:
+  - family: Sitaraman
+    given: Murali
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: A class of programming language mechanisms to facilitate multiple implementations
+    of the same specification
+  container-title: ICCL
+  publisher: IEEE
+  page: '272-281'
+  DOI: 10.1109/ICCL.1992.185491
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/1998w
+  type: book
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1999'
+  title: Internet programming languages, iCCL’98 workshop, chicago, iL, uSA, may 13,
+    1998, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1686'
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/RoychoudhuryRRS98
+  type: paper-conference
+  author:
+  - family: Roychoudhury
+    given: Abhik
+  - family: Ramakrishnan
+    given: C. R.
+  - family: Ramakrishnan
+    given: I. V.
+  - family: Sekar
+    given: R. C.
+  issued:
+  - year: '1998'
+  title: A conservative technique to improve deterministic evaluation of logic programs
+  container-title: ICCL
+  page: '196-205'
+  URL: http://computer.org/proceedings/iccl/8454/84540196abs.htm
+
+- id: conf/iccl/KojimaS94
+  type: paper-conference
+  author:
+  - family: Kojima
+    given: Taizo
+  - family: Sugimoto
+    given: Akira
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Customizing c++ to improve the reusability of class libraries
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '64-73'
+
+- id: conf/iccl/QuinnH90
+  type: paper-conference
+  author:
+  - family: Quinn
+    given: Michael J.
+  - family: Hatcher
+    given: Philip J.
+  issued:
+  - year: '1990'
+  title: Compiling sIMD programs for mIMD architectures
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '291-296'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/NatarajanL88
+  type: paper-conference
+  author:
+  - family: Natarajan
+    given: S.
+  - family: Lin
+    given: K.-J.
+  issued:
+  - year: '1988'
+  title: 'FLEX: Towards flexible real-time programs'
+  title-short: FLEX
+  container-title: ICCL
+  publisher: IEEE
+  page: '272-279'
+  DOI: 10.1109/ICCL.1988.13074
+
+- id: conf/iccl/Ramming98
+  type: paper-conference
+  author:
+  - family: Ramming
+    given: J. Christopher
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: 'PML: A language interface to distributed voice-response units'
+  title-short: PML
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-112'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_5
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/MatthewsCL98
+  type: paper-conference
+  author:
+  - family: Matthews
+    given: John
+  - family: Cook
+    given: Byron
+  - family: Launchbury
+    given: John
+  issued:
+  - year: '1998'
+  title: Microprocessor specification in hawk
+  container-title: ICCL
+  page: '90-101'
+  URL: http://computer.org/proceedings/iccl/8454/84540090abs.htm
+
+- id: conf/iccl/PooleEJW98
+  type: paper-conference
+  author:
+  - family: Poole
+    given: Ian
+  - family: Ewington
+    given: Craig
+  - family: Joones
+    given: Arthur
+  - family: Wille
+    given: Steve
+  issued:
+  - year: '1998'
+  title: Combining functional and object-oriented programming methodologies in a large
+    commercial application
+  container-title: ICCL
+  page: '111-'
+  URL: http://computer.org/proceedings/iccl/8454/84540111abs.htm
+
+- id: conf/iccl/LinL88
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Yen-Chun
+  - family: Lin
+    given: Ferng-Ching
+  issued:
+  - year: '1988'
+  title: The use of aFP to design regular array algorithms
+  container-title: ICCL
+  publisher: IEEE
+  page: '388-395'
+  DOI: 10.1109/ICCL.1988.13088
+
+- id: conf/iccl/Ossher90
+  type: paper-conference
+  author:
+  - family: Ossher
+    given: Harold
+  issued:
+  - year: '1990'
+  title: Multi-dimensional organization and browsing of object-oriented systems
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '128-135'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/JonesGBDM90
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Neil D.
+  - family: Gomard
+    given: Carsten K.
+  - family: Bondorf
+    given: Anders
+  - family: Danvy
+    given: Olivier
+  - family: Mogensen
+    given: Torben Æ.
+  issued:
+  - year: '1990'
+  title: A self-applicable partial evaluator for the lambda calculus
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '49-58'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/HendrenG92
+  type: paper-conference
+  author:
+  - family: Hendren
+    given: Laurie J.
+  - family: Gao
+    given: Guang R.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: 'Designing programming languages for analyzability: A fresh look at pointer
+    data structures'
+  title-short: Designing programming languages for analyzability
+  container-title: ICCL
+  publisher: IEEE
+  page: '242-251'
+  DOI: 10.1109/ICCL.1992.185488
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/ChinSG88
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Shiu-Kai
+  - family: Stabler
+    given: Edward P.
+  - family: Greene
+    given: Kevin J.
+  issued:
+  - year: '1988'
+  title: Using higher order logic and functional languages to synthesize correct hardware
+  container-title: ICCL
+  publisher: IEEE
+  page: '396-403'
+  DOI: 10.1109/ICCL.1988.13089
+
+- id: conf/iccl/YoderC94
+  type: paper-conference
+  author:
+  - family: Yoder
+    given: Alan G.
+  - family: Cohn
+    given: David L.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Real spreadsheets for real programmers
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '20-30'
+
+- id: conf/iccl/JourdanLMR94
+  type: paper-conference
+  author:
+  - family: Jourdan
+    given: Muriel
+  - family: Lagnier
+    given: Fabienne
+  - family: Maraninchi
+    given: Florence
+  - family: Raymond
+    given: Pascal
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: A multiparadigm language for reactive systems
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '211-218'
+
+- id: conf/iccl/BarbacciW90
+  type: paper-conference
+  author:
+  - family: Barbacci
+    given: Mario
+  - family: Wing
+    given: Jeannette M.
+  issued:
+  - year: '1990'
+  title: A language for distributed applications
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '59-68'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Farnum92
+  type: paper-conference
+  author:
+  - family: Farnum
+    given: Charles
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Dora-an environment for experimenting with compiler optimizers
+  container-title: ICCL
+  publisher: IEEE
+  page: '86-95'
+  DOI: 10.1109/ICCL.1992.185471
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/LaddR94
+  type: paper-conference
+  author:
+  - family: Ladd
+    given: David A.
+  - family: Ramming
+    given: J. Christopher
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'A\*: A language for implementing language processors'
+  title-short: A\*
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '1-10'
+
+- id: conf/iccl/BurgerD98
+  type: paper-conference
+  author:
+  - family: Burger
+    given: Robert G.
+  - family: Dybvig
+    given: R. Kent
+  issued:
+  - year: '1998'
+  title: An infrastructure for profile-driven dynamic recompilation
+  container-title: ICCL
+  page: '240-'
+  URL: http://computer.org/proceedings/iccl/8454/84540240abs.htm
+
+- id: conf/iccl/Chen88
+  type: paper-conference
+  author:
+  - family: Chen
+    given: C. Y. Roger
+  issued:
+  - year: '1988'
+  title: TOBOL - a new methodology for the top-to-bottom level hardware description
+    in vLSI design-automation systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '404-411'
+  DOI: 10.1109/ICCL.1988.13090
+
+- id: conf/iccl/VitekC98
+  type: paper-conference
+  author:
+  - family: Vitek
+    given: Jan
+  - family: Castagna
+    given: Giuseppe
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: 'Seal: A framework for secure mobile computations'
+  title-short: Seal
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '47-77'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_3
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/RoyBHC98
+  type: paper-conference
+  author:
+  - family: Roy
+    given: Peter Van
+  - family: Brand
+    given: Per
+  - family: Haridi
+    given: Seif
+  - family: Collet
+    given: Raphaël
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: A lightweight object migration protocol
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '32-46'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_2
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/PollockS90
+  type: paper-conference
+  author:
+  - family: Pollock
+    given: Lori L.
+  - family: Soffa
+    given: Mary Lou
+  issued:
+  - year: '1990'
+  title: Incremental global optimization for faster recompilations
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '281-290'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/DiNitto88
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: S. A. DiNitto
+  issued:
+  - year: '1988'
+  title: Future directions in programming languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '169-176'
+  DOI: 10.1109/ICCL.1988.13061
+
+- id: conf/iccl/Pucella98
+  type: paper-conference
+  author:
+  - family: Pucella
+    given: Riccardo
+  issued:
+  - year: '1998'
+  title: Reactive programming in standard mL
+  container-title: ICCL
+  page: '48-'
+  URL: http://computer.org/proceedings/iccl/8454/84540048abs.htm
+
+- id: conf/iccl/ColbyJJLP98
+  type: paper-conference
+  author:
+  - family: Colby
+    given: Christopher
+  - family: Jagadeesan
+    given: Lalita Jategaonkar
+  - family: Jagadeesan
+    given: Radha
+  - family: Läufer
+    given: Konstantin
+  - family: Puchol
+    given: Carlos
+  issued:
+  - year: '1998'
+  title: 'Design and implementation of triveni: A process-algebraic aPI for threads
+    + events'
+  title-short: Design and implementation of triveni
+  container-title: ICCL
+  page: '58-67'
+  URL: http://computer.org/proceedings/iccl/8454/84540058abs.htm
+
+- id: conf/iccl/VorthmannL88
+  type: paper-conference
+  author:
+  - family: Vorthmann
+    given: Scott A.
+  - family: LeBlanc
+    given: Richard J.
+  issued:
+  - year: '1988'
+  title: A naming specification language for syntax-directed editors
+  container-title: ICCL
+  publisher: IEEE
+  page: '250-257'
+  DOI: 10.1109/ICCL.1988.13071
+
+- id: conf/iccl/FrancezF90
+  type: paper-conference
+  author:
+  - family: Francez
+    given: Nissim
+  - family: Forman
+    given: Ira R.
+  issued:
+  - year: '1990'
+  title: Conflict propogation
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '155-168'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Thrift88
+  type: paper-conference
+  author:
+  - family: Thrift
+    given: Philip R.
+  issued:
+  - year: '1988'
+  title: 'Common lisp relations: An extension of lisp for logic programming'
+  title-short: Common lisp relations
+  container-title: ICCL
+  publisher: IEEE
+  page: '332-337'
+  DOI: 10.1109/ICCL.1988.13081
+
+- id: conf/iccl/Berzins88
+  type: paper-conference
+  author:
+  - family: Berzins
+    given: Valdis
+  issued:
+  - year: '1988'
+  title: The design of software interfaces in spec
+  container-title: ICCL
+  publisher: IEEE
+  page: '266-270'
+  DOI: 10.1109/ICCL.1988.13073
+
+- id: conf/iccl/HsiaA88
+  type: paper-conference
+  author:
+  - family: Hsia
+    given: Yen-Teh
+  - family: Ambler
+    given: Allen L.
+  issued:
+  - year: '1988'
+  title: Programming through pictorial transformations
+  container-title: ICCL
+  publisher: IEEE
+  page: '10-16'
+  DOI: 10.1109/ICCL.1988.13037
+
+- id: conf/iccl/GuptaBF98
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Rajiv
+  - family: Berson
+    given: David A.
+  - family: Fang
+    given: Jesse Zhixi
+  issued:
+  - year: '1998'
+  title: Path profile guided partial redundancy elimination using speculation
+  container-title: ICCL
+  page: '230-239'
+  URL: http://computer.org/proceedings/iccl/8454/84540230abs.htm
+
+- id: conf/iccl/GluckJ94
+  type: paper-conference
+  author:
+  - family: Glück
+    given: Robert
+  - family: Jørgensen
+    given: Jesper
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Generating optimizing specializers
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '183-194'
+
+- id: conf/iccl/Yoshikawa92
+  type: paper-conference
+  author:
+  - family: Yoshikawa
+    given: T.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: A visual knowledge representation language for layout problem
+  container-title: ICCL
+  publisher: IEEE
+  page: '181-189'
+  DOI: 10.1109/ICCL.1992.185481
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/MernikLEAZ98
+  type: paper-conference
+  author:
+  - family: Mernik
+    given: Marjan
+  - family: Lenic
+    given: Mitja
+  - family: Avdicausevic
+    given: Enis
+  - family: Zumer
+    given: Viljem
+  issued:
+  - year: '1998'
+  title: The template and multiple inheritance approach into attribute grammars
+  container-title: ICCL
+  page: '102-110'
+  URL: http://computer.org/proceedings/iccl/8454/84540102abs.htm
+
+- id: conf/iccl/JensenMT98
+  type: paper-conference
+  author:
+  - family: Jensen
+    given: Thomas P.
+  - family: Métayer
+    given: Daniel Le
+  - family: Thorn
+    given: Tommy
+  issued:
+  - year: '1998'
+  title: 'Security and dynamic class loading in java: A formalization'
+  title-short: Security and dynamic class loading in java
+  container-title: ICCL
+  page: '4-15'
+  URL: http://dlib.computer.org/conferen/iccl/8454/pdf/84540004.pdf
+
+- id: conf/iccl/FerroD94
+  type: paper-conference
+  author:
+  - family: Ferro
+    given: Manuel Vilares
+  - family: Dion
+    given: Bernard
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Efficient incremental parsing for context-free languages
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '241-252'
+
+- id: conf/iccl/KilpatrickSO90
+  type: paper-conference
+  author:
+  - family: Kilpatrick
+    given: Carol
+  - family: Schwan
+    given: Karsten
+  - family: Ogle
+    given: David M.
+  issued:
+  - year: '1990'
+  title: Using languages for capture, analysis and display of performance information
+    for parallel and distributed applications
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '180-189'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/DuW88
+  type: paper-conference
+  author:
+  - family: Du
+    given: Weichang
+  - family: Wadge
+    given: William W.
+  issued:
+  - year: '1988'
+  title: An intentional language as the basis of a 3-d spreadsheet design
+  container-title: ICCL
+  publisher: IEEE
+  page: '2-9'
+  DOI: 10.1109/ICCL.1988.13036
+
+- id: conf/iccl/1990
+  type: book
+  issued:
+  - year: '1990'
+  title: 1990 internation conference on computer languages, march 12-15 1990, new
+    orleans, louisiana, uSA
+  publisher: IEEE Computer Society
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/LeeZ94
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Arthur H.
+  - family: Zachary
+    given: Joseph L.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Using metaprogramming to add persistence to cLOS
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '136-147'
+
+- id: conf/iccl/BeckmanK98
+  type: paper-conference
+  author:
+  - family: Beckman
+    given: M.
+  - family: Kamin
+    given: Samuel N.
+  issued:
+  - year: '1998'
+  title: Controlled self-applicable on-line partial evaluation, using strategies
+  container-title: ICCL
+  page: '143-152'
+  URL: http://dlib.computer.org/conferen/iccl/8454/pdf/84540143.pdf
+
+- id: conf/iccl/GunaseelanL92
+  type: paper-conference
+  author:
+  - family: Gunaseelan
+    given: L.
+  - family: LeBlanc
+    given: Richard J.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: 'Distributed eiffel: A language for programming multi-granular distributed
+    objects on the clouds operating system'
+  title-short: Distributed eiffel
+  container-title: ICCL
+  publisher: IEEE
+  page: '331-340'
+  DOI: 10.1109/ICCL.1992.185497
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/HorspoolV92
+  type: paper-conference
+  author:
+  - family: Horspool
+    given: R. Nigel
+  - family: Vitek
+    given: Jan
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Static analysis of postScript code
+  container-title: ICCL
+  publisher: IEEE
+  page: '14-23'
+  DOI: 10.1109/ICCL.1992.185464
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Zobel92
+  type: paper-conference
+  author:
+  - family: Zobel
+    given: Angelika
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Program structure as basis for parallelizing global register allocation
+  container-title: ICCL
+  publisher: IEEE
+  page: '262-271'
+  DOI: 10.1109/ICCL.1992.185490
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/1994
+  type: book
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Proceedings of the iEEE computer society 1994 international conference on
+    computer languages, may 16-19, 1994, toulouse, france
+  publisher: IEEE Computer Society
+
+- id: conf/iccl/Mally88
+  type: paper-conference
+  author:
+  - family: Mally
+    given: C.
+  issued:
+  - year: '1988'
+  title: Structure and generation of computer languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '58-64'
+  DOI: 10.1109/ICCL.1988.13043
+
+- id: conf/iccl/Jagannathan90
+  type: paper-conference
+  author:
+  - family: Jagannathan
+    given: Suresh
+  issued:
+  - year: '1990'
+  title: Coercion as a metaphor for computatiion
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '116-127'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/AtarashiKHY90
+  type: paper-conference
+  author:
+  - family: Atarashi
+    given: Atsushi
+  - family: Konagaya
+    given: Akihiko
+  - family: Habata
+    given: Shinichi
+  - family: Yokota
+    given: Minoru
+  issued:
+  - year: '1990'
+  title: Implementation and evaluation of dynamic predicates on the sequential inference
+    machine cHI
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '236-244'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/VollmerH92
+  type: paper-conference
+  author:
+  - family: Vollmer
+    given: Jürgen
+  - family: Hoffart
+    given: R.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Modula-p-a language for parallel programming definition and implementation
+    on a transputer network
+  container-title: ICCL
+  publisher: IEEE
+  page: '54-64'
+  DOI: 10.1109/ICCL.1992.185468
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Gadkari92
+  type: paper-conference
+  author:
+  - family: Gadkari
+    given: Sanjay
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: 'Abstract data groups: Structuring distributed programs as layers'
+  title-short: Abstract data groups
+  container-title: ICCL
+  publisher: IEEE
+  page: '222-231'
+  DOI: 10.1109/ICCL.1992.185486
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/YasumatsuD94
+  type: paper-conference
+  author:
+  - family: Yasumatsu
+    given: Kazuki
+  - family: Doi
+    given: Norihisa
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'SPiCE: A system for translating smalltalk programs into a c environment'
+  title-short: SPiCE
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '113-123'
+
+- id: conf/iccl/LeeRF94
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Yong-Fong
+  - family: Ryder
+    given: Barbara G.
+  - family: Fiuczynski
+    given: Marc E.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Region analysis: A parallel elimination method for data flow analysis'
+  title-short: Region analysis
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '31-42'
+
+- id: conf/iccl/YinTY88
+  type: paper-conference
+  author:
+  - family: Yin
+    given: W. P.
+  - family: Tanik
+    given: Murat M.
+  - family: Yun
+    given: David Y. Y.
+  issued:
+  - year: '1988'
+  title: 'Software design representation: Design object descriptive attribute notation
+    (dODAN)'
+  title-short: Software design representation
+  container-title: ICCL
+  publisher: IEEE
+  page: '431-436'
+  DOI: 10.1109/ICCL.1988.13093
+
+- id: conf/iccl/BaldassariBB88
+  type: paper-conference
+  author:
+  - family: Baldassari
+    given: Marco
+  - family: Berti
+    given: V.
+  - family: Bruno
+    given: Giorgio
+  issued:
+  - year: '1988'
+  title: Object-oriented conceptual programming based on pROT nets
+  container-title: ICCL
+  publisher: IEEE
+  page: '226-233'
+  DOI: 10.1109/ICCL.1988.13068
+
+- id: conf/iccl/JouvelotG88
+  type: paper-conference
+  author:
+  - family: Jouvelot
+    given: Pierre
+  - family: Gifford
+    given: David K.
+  issued:
+  - year: '1988'
+  title: The fX-87 interpreter
+  container-title: ICCL
+  publisher: IEEE
+  page: '65-72'
+  DOI: 10.1109/ICCL.1988.13044
+
+- id: conf/iccl/Liu98
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Yanhong A.
+  issued:
+  - year: '1998'
+  title: Dependence analysis for recursive data
+  container-title: ICCL
+  page: '206-215'
+  URL: http://computer.org/proceedings/iccl/8454/84540206abs.htm
+
+- id: conf/iccl/OnderG98
+  type: paper-conference
+  author:
+  - family: Önder
+    given: Soner
+  - family: Gupta
+    given: Rajiv
+  issued:
+  - year: '1998'
+  title: Automatic generation of microarchitecture simulators
+  container-title: ICCL
+  page: '80-89'
+  URL: http://computer.org/proceedings/iccl/8454/84540080abs.htm
+
+- id: conf/iccl/PurtiloA90
+  type: paper-conference
+  author:
+  - family: Purtilo
+    given: James M.
+  - family: Atlee
+    given: Joanne M.
+  issued:
+  - year: '1990'
+  title: Improving module reuse by interface adaption
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '208-217'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/GarthwaiteN98
+  type: paper-conference
+  author:
+  - family: Garthwaite
+    given: Alex
+  - family: Nettles
+    given: Scott
+  issued:
+  - year: '1998'
+  title: Transactions for java
+  container-title: ICCL
+  page: '16-27'
+  URL: http://computer.org/proceedings/iccl/8454/84540016abs.htm
+
+- id: conf/iccl/Stasko90
+  type: paper-conference
+  author:
+  - family: Stasko
+    given: John T.
+  issued:
+  - year: '1990'
+  title: A practical animation language for software developement
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '1-10'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/OudshoornM88
+  type: paper-conference
+  author:
+  - family: Oudshoorn
+    given: Michael J.
+  - family: Marlin
+    given: Chris D.
+  issued:
+  - year: '1988'
+  title: Describing data control in programming languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '100-109'
+  DOI: 10.1109/ICCL.1988.13048
+
+- id: conf/iccl/Jagannathan94
+  type: paper-conference
+  author:
+  - family: Jagannathan
+    given: Suresh
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Dynamic modules in higher-order languages
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '74-87'
+
+- id: conf/iccl/GolshaniSW88
+  type: paper-conference
+  author:
+  - family: Golshani
+    given: Forouzan
+  - family: Scott
+    given: W. T.
+  - family: White
+    given: P. D.
+  issued:
+  - year: '1988'
+  title: Languages for intelligent specification systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '304-311'
+  DOI: 10.1109/ICCL.1988.13078
+
+- id: conf/iccl/BalT88
+  type: paper-conference
+  author:
+  - family: Bal
+    given: Henri E.
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1988'
+  title: Distributed programming with shared data
+  container-title: ICCL
+  publisher: IEEE
+  page: '82-91'
+  DOI: 10.1109/ICCL.1988.13046
+
+- id: conf/iccl/SzymanskiFHJSS94
+  type: paper-conference
+  author:
+  - family: Szymanski
+    given: Boleslaw K.
+  - family: Feo
+    given: John
+  - family: Hicks
+    given: J.
+  - family: Jagannathan
+    given: J.
+  - family: Sarkar
+    given: Vivek
+  - family: Skillicorn
+    given: David B.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Is there a future for functional languages in parallel programming?
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '299-304'
+
+- id: conf/iccl/HarroldS90
+  type: paper-conference
+  author:
+  - family: Harrold
+    given: Mary Jean
+  - family: Soffa
+    given: Mary Lou
+  issued:
+  - year: '1990'
+  title: Computation of interprocedural definition and use dependencies
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '297-306'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/PierroW98
+  type: paper-conference
+  author:
+  - family: Pierro
+    given: Alessandra Di
+  - family: Wiklicky
+    given: Herbert
+  issued:
+  - year: '1998'
+  title: An operational semantics for probabilistic concurrent constraint programming
+  container-title: ICCL
+  page: '174-183'
+  URL: http://computer.org/proceedings/iccl/8454/84540174abs.htm
+
+- id: conf/iccl/Dutt90
+  type: paper-conference
+  author:
+  - family: Dutt
+    given: Nikil D.
+  issued:
+  - year: '1990'
+  title: 'LEGEND: A language for generic component library description'
+  title-short: LEGEND
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '198-207'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Thiemann92
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Optimizing structural recursion in functional programs
+  container-title: ICCL
+  publisher: IEEE
+  page: '76-85'
+  DOI: 10.1109/ICCL.1992.185470
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Deutsch92
+  type: paper-conference
+  author:
+  - family: Deutsch
+    given: A.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: A storeless model of aliasing and its abstractions using finite representations
+    of right-regular equivalence relations
+  container-title: ICCL
+  publisher: IEEE
+  page: '2-13'
+  DOI: 10.1109/ICCL.1992.185463
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/TsaiWA88
+  type: paper-conference
+  author:
+  - family: Tsai
+    given: Jeffrey J. P.
+  - family: Weigert
+    given: Thomas J.
+  - family: Aoyama
+    given: M.
+  issued:
+  - year: '1988'
+  title: A declarative approach to software requirement specification languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '414-421'
+  DOI: 10.1109/ICCL.1988.13091
+
+- id: conf/iccl/MartinZDB90
+  type: paper-conference
+  author:
+  - family: Martin
+    given: Chris
+  - family: Zhao
+    given: Wei
+  - family: Doherty
+    given: Graeme
+  - family: Bohonis
+    given: Andrew
+  issued:
+  - year: '1990'
+  title: 'GARTL: A real-time programming language based on multi-version computation'
+  title-short: GARTL
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '107-115'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/CodognetF92
+  type: paper-conference
+  author:
+  - family: Codognet
+    given: Philippe
+  - family: Filé
+    given: Gilberto
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Computations, abstractions and constraints in logic programs
+  container-title: ICCL
+  publisher: IEEE
+  page: '155-164'
+  DOI: 10.1109/ICCL.1992.185478
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/HuraBC88
+  type: paper-conference
+  author:
+  - family: Hura
+    given: Gurdeep S.
+  - family: Buell
+    given: M. A. Costarellam C. G.
+  - family: Cvetanovic
+    given: M. M.
+  issued:
+  - year: '1988'
+  title: 'PNSOFT: A menu-driven software package for petri-net modeling and analysis'
+  title-short: PNSOFT
+  container-title: ICCL
+  publisher: IEEE
+  page: '41-47'
+  DOI: 10.1109/ICCL.1988.13041
+
+- id: conf/iccl/Klein92
+  type: paper-conference
+  author:
+  - family: Klein
+    given: 'E.'
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Parallel ordered attribute grammars
+  container-title: ICCL
+  publisher: IEEE
+  page: '106-116'
+  DOI: 10.1109/ICCL.1992.185473
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/MadhavjiDPT88
+  type: paper-conference
+  author:
+  - family: Madhavji
+    given: Nazim H.
+  - family: Desharnais
+    given: Jules
+  - family: Pinsonneault
+    given: Luc
+  - family: Toubache
+    given: Kamel
+  issued:
+  - year: '1988'
+  title: Adapting modules to an integrated programming environment
+  container-title: ICCL
+  publisher: IEEE
+  page: '364-371'
+  DOI: 10.1109/ICCL.1988.13085
+
+- id: conf/iccl/HicksKMGN98
+  type: paper-conference
+  author:
+  - family: Hicks
+    given: Michael W.
+  - family: Kakkar
+    given: Pankaj
+  - family: Moore
+    given: Jonathan T.
+  - family: Gunter
+    given: Carl A.
+  - family: Nettles
+    given: Scott
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: Network programming using pLAN
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-143'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_7
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/GargR88
+  type: paper-conference
+  author:
+  - family: Garg
+    given: Vijay K.
+  - family: Ramamoorthy
+    given: C. V.
+  issued:
+  - year: '1988'
+  title: High level communication primitives for concurrent systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '92-99'
+  DOI: 10.1109/ICCL.1988.13047
+
+- id: conf/iccl/Duggan98
+  type: paper-conference
+  author:
+  - family: Duggan
+    given: Dominic
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1998'
+  title: 'Derivatives: A construct for internet programming'
+  title-short: Derivatives
+  container-title: 'ICCL workshop: Internet programming languages'
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-126'
+  volume: '1686'
+  DOI: 10.1007/3-540-47959-7_6
+  ISBN: '3-540-66673-7'
+
+- id: conf/iccl/Hansen90
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Wilfred J.
+  issued:
+  - year: '1990'
+  title: 'Enhancing documents with embedded programs: How ness insets in the andrew
+    toolKit'
+  title-short: Enhancing documents with embedded programs
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '23-32'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/GrossmanKK88
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Fred
+  - family: Klerer
+    given: Robert J.
+  - family: Klerer
+    given: Melvin
+  issued:
+  - year: '1988'
+  title: A language for high-level programming of mathematical applications
+  container-title: ICCL
+  publisher: IEEE
+  page: '31-40'
+  DOI: 10.1109/ICCL.1988.13040
+
+- id: conf/iccl/ClamenLNW90
+  type: paper-conference
+  author:
+  - family: Clamen
+    given: Stewart M.
+  - family: Leibengood
+    given: Linda D.
+  - family: Nettles
+    given: Scott
+  - family: Wing
+    given: Jeannette M.
+  issued:
+  - year: '1990'
+  title: Reliable distributed computing with avalon/Common lisp
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '169-179'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Amarel88
+  type: paper-conference
+  author:
+  - family: Amarel
+    given: Saul
+  issued:
+  - year: '1988'
+  title: On the representation of problems in artificial intelligence
+  container-title: ICCL
+  publisher: IEEE
+  page: '168'
+  DOI: 10.1109/ICCL.1988.13060
+
+- id: conf/iccl/Ciancarini90
+  type: paper-conference
+  author:
+  - family: Ciancarini
+    given: Paolo
+  issued:
+  - year: '1990'
+  title: Coordination languages for open system design
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '252-260'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/HearneJ90
+  type: paper-conference
+  author:
+  - family: Hearne
+    given: James W.
+  - family: Jusak
+    given: Debra S.
+  issued:
+  - year: '1990'
+  title: 'The tahiti programming language: Events as first-class objects'
+  title-short: The tahiti programming language
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '245-251'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/ChowH94
+  type: paper-conference
+  author:
+  - family: Chow
+    given: Jyh-Herng
+  - family: III
+    given: Williams Ludwell Harrison
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: State space reduction in abstract interpretation of parallel programs
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '265-276'
+
+- id: conf/iccl/KimSR88
+  type: paper-conference
+  author:
+  - family: Kim
+    given: M. H.
+  - family: Shim
+    given: Young-Chul
+  - family: Ramamoorthy
+    given: C. V.
+  issued:
+  - year: '1988'
+  title: 'APAS: The ada programming assistant system'
+  title-short: APAS
+  container-title: ICCL
+  publisher: IEEE
+  page: '379-386'
+  DOI: 10.1109/ICCL.1988.13087
+
+- id: conf/iccl/SatohT94
+  type: paper-conference
+  author:
+  - family: Satoh
+    given: Ichiro
+  - family: Tokoro
+    given: Mario
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Semantics for a real-time object-oriented programming language
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '159-170'
+
+- id: conf/iccl/Bourbakis88
+  type: paper-conference
+  author:
+  - family: Bourbakis
+    given: Nikolaos G.
+  issued:
+  - year: '1988'
+  title: Specifications for the development of a software environment for evaluation
+    and translation of assembly languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '372-378'
+  DOI: 10.1109/ICCL.1988.13086
+
+- id: conf/iccl/SnodgrassY88
+  type: paper-conference
+  author:
+  - family: Snodgrass
+    given: J. G.
+  - family: Yun
+    given: David Y. Y.
+  issued:
+  - year: '1988'
+  title: Software requirements specification from a cognitive psychology perspective
+  container-title: ICCL
+  publisher: IEEE
+  page: '422-430'
+  DOI: 10.1109/ICCL.1988.13092
+
+- id: conf/iccl/YangH98
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Hongseok
+  - family: Huang
+    given: Howard
+  issued:
+  - year: '1998'
+  title: Type reconstruction for syntactic control of interference, part 2
+  container-title: ICCL
+  page: '164-173'
+  URL: http://computer.org/proceedings/iccl/8454/84540164abs.htm
+
+- id: conf/iccl/Pulli88
+  type: paper-conference
+  author:
+  - family: Pulli
+    given: P. J.
+  issued:
+  - year: '1988'
+  title: Execution of structured analysis specifications with an object oriented petri
+    net approach
+  container-title: ICCL
+  publisher: IEEE
+  page: '286-293'
+  DOI: 10.1109/ICCL.1988.13076
+
+- id: conf/iccl/PaoliJ90
+  type: paper-conference
+  author:
+  - family: Paoli
+    given: Flavio De
+  - family: Jazayeri
+    given: Mehdi
+  issued:
+  - year: '1990'
+  title: 'FLAME: A language for distributed programming'
+  title-short: FLAME
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '69-78'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/HarrisonK98
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: William L.
+  - family: Kamin
+    given: Samuel N.
+  issued:
+  - year: '1998'
+  title: Modular compilers based on monad transformers
+  container-title: ICCL
+  page: '122-131'
+  URL: http://computer.org/proceedings/iccl/8454/84540122abs.htm
+
+- id: conf/iccl/ChanC94
+  type: paper-conference
+  author:
+  - family: Chan
+    given: K. Gary
+  - family: Chau
+    given: H. Lewis
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Visual language for behavioral specifications of reactive systems
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '200-210'
+
+- id: conf/iccl/CordyP90
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: James R.
+  - family: Promislow
+    given: Eric
+  issued:
+  - year: '1990'
+  title: Specification and automatic prototype implementation of polymorphic objects
+    in tURING using the tXL dialect processor
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '145-154'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/IerusalimschyCR98
+  type: paper-conference
+  author:
+  - family: Ierusalimschy
+    given: Roberto
+  - family: Cerqueira
+    given: Renato
+  - family: La Rocque Rodriguez
+    given: Noemi
+    dropping-particle: de
+  issued:
+  - year: '1998'
+  title: Using reflexivity to interface with cORBA
+  container-title: ICCL
+  page: '39-'
+  URL: http://computer.org/proceedings/iccl/8454/84540039abs.htm
+
+- id: conf/iccl/HwangDC88
+  type: paper-conference
+  author:
+  - family: Hwang
+    given: J. C.
+  - family: Du
+    given: M. W.
+  - family: Chou
+    given: C. R.
+  issued:
+  - year: '1988'
+  title: The influence of language semantics on program slices
+  container-title: ICCL
+  publisher: IEEE
+  page: '120-127'
+  DOI: 10.1109/ICCL.1988.13050
+
+- id: conf/iccl/Chandy88
+  type: paper-conference
+  author:
+  - family: Chandy
+    given: K. Mani
+  issued:
+  - year: '1988'
+  title: Programming parallel computers
+  container-title: ICCL
+  publisher: IEEE
+  page: '314-321'
+  DOI: 10.1109/ICCL.1988.13079
+
+- id: conf/iccl/ZualkernanT88
+  type: paper-conference
+  author:
+  - family: Zualkernan
+    given: Imran A.
+  - family: Tsai
+    given: Wei-Tek
+  issued:
+  - year: '1988'
+  title: Are knowledge representations the answer to requirement analysis?
+  container-title: ICCL
+  publisher: IEEE
+  page: '437-443'
+  DOI: 10.1109/ICCL.1988.13094
+
+- id: conf/iccl/Gupta92
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: R.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: SPMD execution of programs with dynamic data structures on distributed memory
+    machines
+  container-title: ICCL
+  publisher: IEEE
+  page: '232-241'
+  DOI: 10.1109/ICCL.1992.185487
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/ReddyK92
+  type: paper-conference
+  author:
+  - family: Reddy
+    given: Uday S.
+  - family: Kamin
+    given: Samuel N.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: On the power of abstract interpretation
+  container-title: ICCL
+  publisher: IEEE
+  page: '24-33'
+  DOI: 10.1109/ICCL.1992.185465
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/IbrahimC90
+  type: paper-conference
+  author:
+  - family: Ibrahim
+    given: Mamdouh H.
+  - family: Cummins
+    given: Fred A.
+  issued:
+  - year: '1990'
+  title: 'KSL/Logic: Integration of logic with objects'
+  title-short: KSL/Logic
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '228-235'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/CordyHP88
+  type: paper-conference
+  author:
+  - family: Cordy
+    given: James R.
+  - family: Halpern-Hamu
+    given: Charles D.
+  - family: Promislow
+    given: Eric
+  issued:
+  - year: '1988'
+  title: 'TXL: A rapid prototyping system for programming language dialects'
+  title-short: TXL
+  container-title: ICCL
+  publisher: IEEE
+  page: '280-285'
+  DOI: 10.1109/ICCL.1988.13075
+
+- id: conf/iccl/CollbergTL98
+  type: paper-conference
+  author:
+  - family: Collberg
+    given: Christian S.
+  - family: Thomborson
+    given: Clark D.
+  - family: Low
+    given: Douglas
+  issued:
+  - year: '1998'
+  title: Breaking abstractions and unstructuring data structures
+  container-title: ICCL
+  page: '28-38'
+  URL: http://computer.org/proceedings/iccl/8454/84540028abs.htm
+
+- id: conf/iccl/BrachaL92
+  type: paper-conference
+  author:
+  - family: Bracha
+    given: Gilad
+  - family: Lindstrom
+    given: Gary
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Modularity meets inheritance
+  container-title: ICCL
+  publisher: IEEE
+  page: '282-290'
+  DOI: 10.1109/ICCL.1992.185492
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/KoopmanLS90
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Philip J. Koopman
+  - family: '0001'
+    given: Peter Lee
+  - family: Siewiorek
+    given: Daniel P.
+  issued:
+  - year: '1990'
+  title: Cache performance of combinator graph reduction
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '39-48'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/ChangBDGHH88
+  type: paper-conference
+  author:
+  - family: Chang
+    given: C. K.
+  - family: Brackett
+    given: John W.
+  - family: Davis
+    given: A. M.
+  - family: Grabon
+    given: P. C.
+  - family: Haizuka
+    given: T.
+  - family: Hsia
+    given: P.
+  issued:
+  - year: '1988'
+  title: Specification languages-assessment and trends
+  container-title: ICCL
+  publisher: IEEE
+  page: '160-165'
+  DOI: 10.1109/ICCL.1988.13055
+
+- id: conf/iccl/Diaz-GonzalesU88
+  type: paper-conference
+  author:
+  - family: Diaz-Gonzales
+    given: J. P.
+  - family: Urban
+    given: Joseph E.
+  issued:
+  - year: '1988'
+  title: 'Language aspects of eNVISAGER: An object-oriented environment for the
+    specification of real-time systems'
+  title-short: Language aspects of eNVISAGER
+  container-title: ICCL
+  publisher: IEEE
+  page: '214-225'
+  DOI: 10.1109/ICCL.1988.13067
+
+- id: conf/iccl/BahsounBCFNW94
+  type: paper-conference
+  author:
+  - family: Bahsoun
+    given: Jean Paul
+  - family: Briot
+    given: Jean-Pierre
+  - family: Caromel
+    given: Denis
+  - family: Féraud
+    given: Louis
+  - family: Nierstrasz
+    given: Oscar
+  - family: Wegner
+    given: Peter
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: How could object-oriented concepts and parallelism cohabit?
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '195-199'
+
+- id: conf/iccl/BahsounFB90
+  type: paper-conference
+  author:
+  - family: Bahsoun
+    given: Jean Paul
+  - family: Féraud
+    given: Louis
+  - family: Bétourné
+    given: Claude
+  issued:
+  - year: '1990'
+  title: A “two degrees of freedom” approach for parallel programming
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '261-270'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/BassiouniL88
+  type: paper-conference
+  author:
+  - family: Bassiouni
+    given: Mostafa A.
+  - family: Llewellyn
+    given: Mark J.
+  issued:
+  - year: '1988'
+  title: Generalized logical operators for temporal languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '128-134'
+  DOI: 10.1109/ICCL.1988.13051
+
+- id: conf/iccl/Ruthing98
+  type: paper-conference
+  author:
+  - family: Rüthing
+    given: Oliver
+  issued:
+  - year: '1998'
+  title: Optimal code motion in the presence of large expressions
+  container-title: ICCL
+  page: '216-'
+  URL: http://computer.org/proceedings/iccl/8454/84540216abs.htm
+
+- id: conf/iccl/GlasgowJ88
+  type: paper-conference
+  author:
+  - family: Glasgow
+    given: Janice I.
+  - family: Jenkins
+    given: Michael A.
+  issued:
+  - year: '1988'
+  title: Array theory, logic and the nial language
+  container-title: ICCL
+  publisher: IEEE
+  page: '296-303'
+  DOI: 10.1109/ICCL.1988.13077
+
+- id: conf/iccl/IbrahimC88
+  type: paper-conference
+  author:
+  - family: Ibrahim
+    given: Mamdouh H.
+  - family: Cummins
+    given: Fred A.
+  issued:
+  - year: '1988'
+  title: 'KSL: A reflective object-oriented programming language'
+  title-short: KSL
+  container-title: ICCL
+  publisher: IEEE
+  page: '186-193'
+  DOI: 10.1109/ICCL.1988.13063
+
+- id: conf/iccl/Budd92
+  type: paper-conference
+  author:
+  - family: Budd
+    given: Timothy A.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Multiparadigm data structures in leda
+  container-title: ICCL
+  publisher: IEEE
+  page: '165-173'
+  DOI: 10.1109/ICCL.1992.185479
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/HarrisonO90
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: William H.
+  - family: Ossher
+    given: Harold
+  issued:
+  - year: '1990'
+  title: 'Subdivided procedures: A language extension supporting extensible programming'
+  title-short: Subdivided procedures
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '190-197'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/PetterssonF92
+  type: paper-conference
+  author:
+  - family: Pettersson
+    given: Mikael
+  - family: Fritzson
+    given: Peter
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: DML - a meta-language and system for the generation of practical and efficient
+    compilers from denotational specifications
+  container-title: ICCL
+  publisher: IEEE
+  page: '127-136'
+  DOI: 10.1109/ICCL.1992.185475
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Tosten88
+  type: paper-conference
+  author:
+  - family: Tosten
+    given: Rodney S.
+  issued:
+  - year: '1988'
+  title: Data security in an object-oriented environment such as smalltalk-80
+  container-title: ICCL
+  publisher: IEEE
+  page: '234-241'
+  DOI: 10.1109/ICCL.1988.13069
+
+- id: conf/iccl/ErosaH94
+  type: paper-conference
+  author:
+  - family: Erosa
+    given: Ana M.
+  - family: Hendren
+    given: Laurie J.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: 'Taming control flow: A structured approach to eliminating goto statements'
+  title-short: Taming control flow
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '229-240'
+
+- id: conf/iccl/HatcherT88
+  type: paper-conference
+  author:
+  - family: Hatcher
+    given: Philip J.
+  - family: Tuller
+    given: J. W.
+  issued:
+  - year: '1988'
+  title: Efficient retargetable compiler code generation
+  container-title: ICCL
+  publisher: IEEE
+  page: '25-30'
+  DOI: 10.1109/ICCL.1988.13039
+
+- id: conf/iccl/LuG92
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Lunjin
+  - family: Greenfield
+    given: Peter
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Abstract fixpoint semantics and abstract procedural semantics of definite
+    logic programs
+  container-title: ICCL
+  publisher: IEEE
+  page: '147-154'
+  DOI: 10.1109/ICCL.1992.185477
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/LaiC94
+  type: paper-conference
+  author:
+  - family: Lai
+    given: Feipei
+  - family: Chao
+    given: Yung-kuang
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: The complementary relationship of interprocedural register allocation and
+    inlining
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '253-264'
+
+- id: conf/iccl/HarrisonO92
+  type: paper-conference
+  author:
+  - family: Harrison
+    given: William H.
+  - family: Ossher
+    given: Harold
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Attaching instance variables to method realization1 instead of classes
+  container-title: ICCL
+  publisher: IEEE
+  page: '291-299'
+  DOI: 10.1109/ICCL.1992.185493
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CrowlL92
+  type: paper-conference
+  author:
+  - family: Crowl
+    given: Lawrence A.
+  - family: LeBlanc
+    given: Thomas J.
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Control abstraction in parallel programming languages
+  container-title: ICCL
+  publisher: IEEE
+  page: '44-53'
+  DOI: 10.1109/ICCL.1992.185467
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Jong88
+  type: paper-conference
+  author:
+  - family: Jong
+    given: V. J.
+    dropping-particle: de
+  issued:
+  - year: '1988'
+  title: Symbolic dimension bound checking in a matrix language
+  container-title: ICCL
+  publisher: IEEE
+  page: '73-80'
+  DOI: 10.1109/ICCL.1988.13045
+
+- id: conf/iccl/Herath88
+  type: paper-conference
+  author:
+  - family: Herath
+    given: H.
+  issued:
+  - year: '1988'
+  title: Languages in electrotechnical laboratory’s dataflow machines
+  container-title: ICCL
+  publisher: IEEE
+  page: '150-157'
+  DOI: 10.1109/ICCL.1988.13054
+
+- id: conf/iccl/YangC92
+  type: paper-conference
+  author:
+  - family: Yang
+    given: J. Allan
+  - family: Choo
+    given: Young-il
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Metalinguistic features for formal parallel-program transformation
+  container-title: ICCL
+  publisher: IEEE
+  page: '65-75'
+  DOI: 10.1109/ICCL.1992.185469
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Narain90
+  type: paper-conference
+  author:
+  - family: Narain
+    given: Sanjai
+  issued:
+  - year: '1990'
+  title: Lazy evaluation in logic programming
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '218-227'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/AlashqurSL92
+  type: paper-conference
+  author:
+  - family: Alashqur
+    given: A. M.
+  - family: Su
+    given: Stanley Y. W.
+  - family: Lam
+    given: Herman
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Constraint specification on object-oriented databases
+  container-title: ICCL
+  publisher: IEEE
+  page: '300-309'
+  DOI: 10.1109/ICCL.1992.185494
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CharlierH92
+  type: paper-conference
+  author:
+  - family: Charlier
+    given: Baudouin Le
+  - family: Hentenryck
+    given: Pascal Van
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Experimental evaluation of a generic abstract interpretation algorithm for
+    prolog
+  container-title: ICCL
+  publisher: IEEE
+  page: '137-146'
+  DOI: 10.1109/ICCL.1992.185476
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/NoelHCL98
+  type: paper-conference
+  author:
+  - family: Noël
+    given: François
+  - family: Hornof
+    given: Luke
+  - family: Consel
+    given: Charles
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '1998'
+  title: 'Automatic, template-based run-time specialization: Implementation and
+    experimental study'
+  title-short: Automatic, template-based run-time specialization
+  container-title: ICCL
+  page: '132-142'
+  URL: http://computer.org/proceedings/iccl/8454/84540132abs.htm
+
+- id: conf/iccl/McCrosky88
+  type: paper-conference
+  author:
+  - family: McCrosky
+    given: Carl
+  issued:
+  - year: '1988'
+  title: The elimination of intermediate containers in the evaluation of first-class
+    array expressions
+  container-title: ICCL
+  publisher: IEEE
+  page: '135-142'
+  DOI: 10.1109/ICCL.1988.13052
+
+- id: conf/iccl/1992
+  type: book
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: ICCL’92, proceedings of the 1992 international conference on computer languages,
+    oakland, california, uSA, 20-23 apr 1992
+  publisher: IEEE
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CuiG90
+  type: paper-conference
+  author:
+  - family: Cui
+    given: Qian
+  - family: Gannon
+    given: John D.
+  issued:
+  - year: '1990'
+  title: Data-oriented exception handling in ada
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '98-106'
+  ISBN: '0-8186-2036-6'
+
+- id: conf/iccl/Volpano94
+  type: paper-conference
+  author:
+  - family: Volpano
+    given: Dennis M.
+  editor:
+  - family: Bal
+    given: Henri E.
+  issued:
+  - year: '1994'
+  title: Haskell-style overloading is nP-hard
+  container-title: ICCL
+  publisher: IEEE Computer Society
+  page: '88-94'
+
+- id: conf/iccl/AuerbachBGGGKLRSSYY92
+  type: paper-conference
+  author:
+  - family: Auerbach
+    given: Joshua S.
+  - family: Bacon
+    given: David F.
+  - family: Goldberg
+    given: Arthur P.
+  - family: Goldszmidt
+    given: Germán S.
+  - family: Gopal
+    given: Ajei S.
+  - family: Kennedy
+    given: Mark T.
+  - family: Lowry
+    given: Andy
+  - family: Russell
+    given: James R.
+  - family: Silverman
+    given: William
+  - family: Strom
+    given: Robert E.
+  - family: Yellin
+    given: Daniel M.
+  - family: Yemini
+    given: Shaula
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: High-level language support for programming distributed systems
+  container-title: ICCL
+  publisher: IEEE
+  page: '320-330'
+  DOI: 10.1109/ICCL.1992.185496
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/CooperHK92
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Keith D.
+  - family: Hall
+    given: Mary W.
+  - family: Kennedy
+    given: Ken
+  editor:
+  - family: Cordy
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Procedure cloning
+  container-title: ICCL
+  publisher: IEEE
+  page: '96-105'
+  DOI: 10.1109/ICCL.1992.185472
+  ISBN: '0-8186-2585-6'
+
+- id: conf/iccl/Bermudez88
+  type: paper-conference
+  author:
+  - family: Bermudez
+    given: Manuel E.
+  issued:
+  - year: '1988'
+  title: A unifying model for lookahead lR parsing
+  container-title: ICCL
+  publisher: IEEE
+  page: '18-24'
+  DOI: 10.1109/ICCL.1988.13038
+...

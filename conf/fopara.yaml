@@ -1,0 +1,697 @@
+---
+references:
+- id: conf/fopara/AveryKM09
+  type: paper-conference
+  author:
+  - family: Avery
+    given: James
+  - family: Kristiansen
+    given: Lars
+  - family: Moyen
+    given: Jean-Yves
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Static complexity analysis of higher order programs
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-99'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_6
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/LoidlJ09
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Jost
+    given: Steffen
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Improvements to a resource analysis for hume
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-33'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_2
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/MontenegroPS09
+  type: paper-conference
+  author:
+  - family: Montenegro
+    given: Manuel
+  - family: Peña
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: A space consumption analysis by abstract interpretation
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-50'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_3
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/MontenegroSEP11
+  type: paper-conference
+  author:
+  - family: Montenegro
+    given: Manuel
+  - family: Shkaravska
+    given: Olha
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Peña
+    given: Ricardo
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Interpolation-based height analysis for improving a recurrence solver
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-53'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_3
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/Eguchi13
+  type: paper-conference
+  author:
+  - family: Eguchi
+    given: Naohi
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: Predicative lexicographic path orders - an application of term rewriting
+    to the region of primitive recursive functions
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-92'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_5
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/Lopez-GarciaDBH11
+  type: paper-conference
+  author:
+  - family: López-García
+    given: Pedro
+  - family: Darmawan
+    given: Luthfi
+  - family: Bueno
+    given: Francisco
+  - family: Hermenegildo
+    given: Manuel V.
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: 'Interval-based resource usage verification: Formalization and prototype'
+  title-short: Interval-based resource usage verification
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-71'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_4
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/2009
+  type: book
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2010'
+  title: Foundational and practical aspects of resource analysis - first international
+    workshop, fOPARA 2009, eindhoven, the netherlands, november 6, 2009, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/LoidlG13
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Grov
+    given: Gudmund
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: Reasoning about resources in the embedded systems language hume
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '110-126'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_7
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/ShkaravskaET13
+  type: paper-conference
+  author:
+  - family: Shkaravska
+    given: Olha
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Tamalet
+    given: Alejandro
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: Collected size semantics for strict functional programs over general polymorphic
+    lists
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '143-159'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_9
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/CanaveseCOPR13
+  type: paper-conference
+  author:
+  - family: Canavese
+    given: Daniele
+  - family: Cesena
+    given: Emanuele
+  - family: Ouchary
+    given: Rachid
+  - family: Pedicini
+    given: Marco
+  - family: Roversi
+    given: Luca
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: Can a light typing discipline be compatible with an efficient implementation
+    of finite fields inversion?
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-57'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_3
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/Mogbil09
+  type: paper-conference
+  author:
+  - family: Mogbil
+    given: Virgile
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Non-deterministic boolean proof nets
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-145'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_9
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/2011
+  type: book
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2012'
+  title: Foundational and practical aspects of resource analysis - second international
+    workshop, fOPARA 2011, madrid, spain, may 19, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/AsavoaeAL11
+  type: paper-conference
+  author:
+  - family: Asavoae
+    given: Mihail
+  - family: Asavoae
+    given: Irina Mariuca
+  - family: Lucanu
+    given: Dorel
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: On abstractions for timing analysis in the $\mathbbK$ framework
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-107'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_6
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/LagoT11
+  type: paper-conference
+  author:
+  - family: Lago
+    given: Ugo Dal
+  - family: Toldin
+    given: Paolo Parisen
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: A higher-order characterization of probabilistic polynomial time
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_1
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/AmadioR11
+  type: paper-conference
+  author:
+  - family: Amadio
+    given: Roberto M.
+  - family: Régis-Gianas
+    given: Yann
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Certifying and reasoning on cost annotations of functional programs
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-89'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_5
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/AlbertAGHP09
+  type: paper-conference
+  author:
+  - family: Albert
+    given: Elvira
+  - family: Arenas
+    given: Puri
+  - family: Genaim
+    given: Samir
+  - family: Herraiz
+    given: Israel
+  - family: Puebla
+    given: German
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Comparing cost functions in resource analysis
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_1
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/HerrmannH11
+  type: paper-conference
+  author:
+  - family: Herrmann
+    given: Christoph A.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Counter automata for parameterised timing analysis of box-based systems
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-141'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_8
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/Gomaa09
+  type: paper-conference
+  author:
+  - family: Gomaa
+    given: Walid
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Polynomial time computation in the context of recursive analysis
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '146-162'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_10
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/LagoM09
+  type: paper-conference
+  author:
+  - family: Lago
+    given: Ugo Dal
+  - family: Martini
+    given: Simone
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Derivational complexity is an invariant cost model
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-113'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_7
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/AmadioABBCGMMMPPRCST13
+  type: paper-conference
+  author:
+  - family: Amadio
+    given: Roberto M.
+  - family: Ayache
+    given: Nicholas
+  - family: Bobot
+    given: François
+  - family: Boender
+    given: Jaap
+  - family: Campbell
+    given: Brian
+  - family: Garnier
+    given: Ilias
+  - family: Madet
+    given: Antoine
+  - family: McKinna
+    given: James
+  - family: Mulligan
+    given: Dominic P.
+  - family: Piccolo
+    given: Mauro
+  - family: Pollack
+    given: Randy
+  - family: Régis-Gianas
+    given: Yann
+  - family: Coen
+    given: Claudio Sacerdoti
+  - family: Stark
+    given: Ian
+  - family: Tranquilli
+    given: Paolo
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: Certified complexity (cerCo)
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_1
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/RodriguesPFS11
+  type: paper-conference
+  author:
+  - family: Rodrigues
+    given: Vitor
+  - family: Pedroso
+    given: João Pedro
+  - family: Florido
+    given: Mário
+  - family: Sousa
+    given: Simão Melo
+    dropping-particle: de
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Certifying execution time
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-125'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_7
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/AsavoaeA13
+  type: paper-conference
+  author:
+  - family: Asavoae
+    given: Mihail
+  - family: Asavoae
+    given: Irina Mariuca
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: On the modular integration of abstract semantics for wCET analysis
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-37'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_2
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/Perrinel13
+  type: paper-conference
+  author:
+  - family: Perrinel
+    given: Matthieu
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: On paths-based criteria for polynomial time complexity in proof-nets
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '127-142'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_8
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/TrinderCLM09
+  type: paper-conference
+  author:
+  - family: Trinder
+    given: Philip W.
+  - family: Cole
+    given: Murray
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Michaelson
+    given: Greg
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Characterising effective resource analyses for parallel and distributed coordination
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '67-83'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_5
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/2013
+  type: book
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2014'
+  title: Foundational and practical aspects of resource analysis - third international
+    workshop, fOPARA 2013, bertinoro, italy, august 29-31, 2013, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/PierroW13
+  type: paper-conference
+  author:
+  - family: Pierro
+    given: Alessandra Di
+  - family: Wiklicky
+    given: Herbert
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: 'Probabilistic analysis of programs: A weak limit approach'
+  title-short: Probabilistic analysis of programs
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-76'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_4
+  ISBN: '978-3-319-12465-0'
+
+- id: conf/fopara/RoversiV09
+  type: paper-conference
+  author:
+  - family: Roversi
+    given: Luca
+  - family: Vercelli
+    given: Luca
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: A local criterion for polynomial-time stratified computations
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '114-130'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_8
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/CesenaPR11
+  type: paper-conference
+  author:
+  - family: Cesena
+    given: Emanuele
+  - family: Pedicini
+    given: Marco
+  - family: Roversi
+    given: Luca
+  editor:
+  - family: Peña
+    given: Ricardo
+  issued:
+  - year: '2011'
+  title: Typing a core binary-field arithmetic in a light logic
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-35'
+  volume: '7177'
+  DOI: 10.1007/978-3-642-32495-6_2
+  ISBN: '978-3-642-32494-9'
+
+- id: conf/fopara/GaboardiP09
+  type: paper-conference
+  author:
+  - family: Gaboardi
+    given: Marco
+  - family: Péchoux
+    given: Romain
+  editor:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  issued:
+  - year: '2009'
+  title: Global and local space properties of stream programs
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-66'
+  volume: '6324'
+  DOI: 10.1007/978-3-642-15331-0_4
+  ISBN: '978-3-642-15330-3'
+
+- id: conf/fopara/KerstenTGE13
+  type: paper-conference
+  author:
+  - family: Kersten
+    given: Rody
+  - family: Toldin
+    given: Paolo Parisen
+  - family: Gastel
+    given: Bernard
+    dropping-particle: van
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Lago
+    given: Ugo Dal
+  issued:
+  - year: '2013'
+  title: A hoare logic for energy consumption analysis
+  container-title: FOPARA
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '93-109'
+  volume: '8552'
+  DOI: 10.1007/978-3-319-12466-7_6
+  ISBN: '978-3-319-12465-0'
+...

@@ -1,0 +1,497 @@
+---
+references:
+- id: conf/cosps/SohnKKSY01
+  type: paper-conference
+  author:
+  - family: Sohn
+    given: Andrew
+  - family: Kodama
+    given: Yuetsu
+  - family: Ku
+    given: Jui-Yuan
+  - family: Sato
+    given: Mitsuhisa
+  - family: Yamaguchi
+    given: Yoshinori
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Tolerating communication latency through dynamic thread invocation in a multithreaded
+    architecture
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '525-552'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_15
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/PalermoHB01
+  type: paper-conference
+  author:
+  - family: Palermo
+    given: Daniel J.
+  - family: IV
+    given: Eugene W. Hodges
+  - family: Banerjee
+    given: Prithviraj
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Compiler optimization of dynamic data distributions for distributed-memory
+    multicomputers
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '445-484'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_13
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/TuP01
+  type: paper-conference
+  author:
+  - family: Tu
+    given: Peng
+  - family: Padua
+    given: David A.
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Automatic array privatization
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-284'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_8
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/DarteRV01
+  type: paper-conference
+  author:
+  - family: Darte
+    given: Alain
+  - family: Robert
+    given: Yves
+  - family: Vivien
+    given: Frédéric
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Loop parallelization algorithms
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-172'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_5
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/2001
+  type: book
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Compiler optimizations for scalable parallel systems languages, compilation
+    techniques, and run time systems
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1808'
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/AdveM01
+  type: paper-conference
+  author:
+  - family: Adve
+    given: Vikram S.
+  - family: Mellor-Crummey
+    given: John M.
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Advanced code generation for high performance fortran
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '553-596'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_16
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/PandeB01
+  type: paper-conference
+  author:
+  - family: Pande
+    given: Santosh
+  - family: Bali
+    given: Tareq
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: A compilation method for communication-efficient partitioning of dOALL loops
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '413-444'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_12
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/CarlisleR01
+  type: paper-conference
+  author:
+  - family: Carlisle
+    given: Martin C.
+  - family: Rogers
+    given: Anne
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Supporting dynamic data structures with olden
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '709-750'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_20
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/ShihHS01
+  type: paper-conference
+  author:
+  - family: Shih
+    given: Kuei-Ping
+  - family: Huang
+    given: Chua-Huang
+  - family: Sheu
+    given: Jang-Ping
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Communication-free partitioning of nested loops
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '339-384'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_10
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/Gupta01a
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Rajiv
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: SPMD execution in the presence of dynamic data structures
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '683-708'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_19
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/GaudiotDFBNM01
+  type: paper-conference
+  author:
+  - family: Gaudiot
+    given: Jean-Luc
+  - family: DeBoni
+    given: Thomas
+  - family: Feo
+    given: John
+  - family: Böhm
+    given: A. P. Wim
+  - family: Najjar
+    given: Walid A.
+  - family: Miller
+    given: Patrick
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: 'The sisal project: Real world functional programming'
+  title-short: The sisal project
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '45-72'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_2
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/LiGL01
+  type: paper-conference
+  author:
+  - family: Li
+    given: Zhiyuan
+  - family: Gu
+    given: Junjie
+  - family: Lee
+    given: Gyungho
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Interprocedural analysis based on guarded array regions
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '221-246'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_7
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/Gupta01
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Manish
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: A framework for global communication analysis and optimizations
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '485-524'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_14
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/Ramanujam01
+  type: paper-conference
+  author:
+  - family: Ramanujam
+    given: J.
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Integer lattice based methods for local address generation for block-cyclic
+    distributions
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '597-648'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_17
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/Feautrier01
+  type: paper-conference
+  author:
+  - family: Feautrier
+    given: Paul
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Array dataflow analysis
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '173-220'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_6
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/GannonBJGL01
+  type: paper-conference
+  author:
+  - family: Gannon
+    given: Dennis
+  - family: Beckman
+    given: Peter H.
+  - family: Johnson
+    given: Elizabeth
+  - family: Green
+    given: Todd
+  - family: Levine
+    given: Mike
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: HPC++ and the hPC++Lib toolkit
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-108'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_3
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/DarbhaA01
+  type: paper-conference
+  author:
+  - family: Darbha
+    given: Sekhar
+  - family: Agrawal
+    given: Dharma P.
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: A duplication based compile time scheduling method for task parallelism
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '649-682'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_18
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/KennedyK01
+  type: paper-conference
+  author:
+  - family: Kennedy
+    given: Ken
+  - family: Koelbel
+    given: Charles
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: High performance fortran 2.0
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '3-44'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_1
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/DasHSS01
+  type: paper-conference
+  author:
+  - family: Das
+    given: Raja
+  - family: Hwang
+    given: Yuan-Shin
+  - family: Saltz
+    given: Joel H.
+  - family: Sussman
+    given: Alan
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Runtime and compiler support for irregular computations
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '751-778'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_21
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/KotlyarBKPS01
+  type: paper-conference
+  author:
+  - family: Kotlyar
+    given: Vladimir
+  - family: Bau
+    given: David
+  - family: Kodukula
+    given: Induprakas
+  - family: Pingali
+    given: Keshav
+  - family: Stodghill
+    given: Paul
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Solving alignment using elementary linear algebra
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '385-412'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_11
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/KumarA01
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Sandeep
+  - family: Agrawal
+    given: Dharma P.
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: A concurrency abstraction model for avoiding inheritance anomaly in object-oriented
+    programs
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-140'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_4
+  ISBN: '3-540-41945-4'
+
+- id: conf/cosps/AgarwalKBN01
+  type: paper-conference
+  author:
+  - family: Agarwal
+    given: Anant
+  - family: Kranz
+    given: David A.
+  - family: Barua
+    given: Rajeev
+  - family: Natarajan
+    given: Venkat
+  editor:
+  - family: Pande
+    given: Santosh
+  issued:
+  - year: '2001'
+  title: Optimal tiling for minimizing communication in distributed shared-memory
+    multiprocessors
+  container-title: Compiler optimizations for scalable parallel systems languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-338'
+  volume: '1808'
+  DOI: 10.1007/3-540-45403-9_9
+  ISBN: '3-540-41945-4'
+...

@@ -1,0 +1,3416 @@
+---
+references:
+- id: conf/wcet/NenovaK09
+  type: paper-conference
+  author:
+  - family: Nenova
+    given: Stefana
+  - family: Kästner
+    given: Daniel
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Worst-case timing estimation and architecture exploration in early design
+    phases
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2280
+
+- id: conf/wcet/PrantlKKKS09
+  type: paper-conference
+  author:
+  - family: Prantl
+    given: Adrian
+  - family: Knoop
+    given: Jens
+  - family: Kirner
+    given: Raimund
+  - family: Kadlec
+    given: Albrecht
+  - family: Schordan
+    given: Markus
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: From trusted annotations to verified knowledge
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2282
+
+- id: conf/wcet/PlazarLM09
+  type: paper-conference
+  author:
+  - family: Plazar
+    given: Sascha
+  - family: Lokuciejewski
+    given: Paul
+  - family: Marwedel
+    given: Peter
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: WCET-aware software based cache partitioning for multi-task real-time systems
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2286
+
+- id: conf/wcet/MittermayrB12
+  type: paper-conference
+  author:
+  - family: Mittermayr
+    given: Robert
+  - family: Blieberger
+    given: Johann
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Timing analysis of concurrent programs
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '59-68'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.59
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/PettersZH07
+  type: paper-conference
+  author:
+  - family: Petters
+    given: Stefan M.
+  - family: Zadarnowski
+    given: Patryk
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Measurements or static analysis or both?
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1188
+
+- id: conf/wcet/BettsB05
+  type: paper-conference
+  author:
+  - family: Betts
+    given: Adam
+  - family: Bernat
+    given: Guillem
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Issues using the nexus interface for measurement-based wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/807
+
+- id: conf/wcet/GarridoZP13
+  type: paper-conference
+  author:
+  - family: Garrido
+    given: Jorge
+  - family: Zamorano
+    given: Juan
+  - family: Puente
+    given: Juan Antonio
+    dropping-particle: de la
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Static analysis of wCET in a satellite software subsystem
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '87-96'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.87
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/KelterHMF13
+  type: paper-conference
+  author:
+  - family: Kelter
+    given: Timon
+  - family: Harde
+    given: Tim
+  - family: Marwedel
+    given: Peter
+  - family: Falk
+    given: Heiko
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Evaluation of resource arbitration methods for multi-core real-time systems
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '1-10'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.1
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/CasseOR15
+  type: paper-conference
+  author:
+  - family: Cassé
+    given: Hugues
+  - family: Ozaktas
+    given: Haluk
+  - family: Rochange
+    given: Christine
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: A framework to quantify the overestimations of static wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '1-10'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.1
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/WilhelmC10
+  type: paper-conference
+  author:
+  - family: Wilhelm
+    given: Stephan
+  - family: Cullmann
+    given: Christoph
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Integrating abstract caches with symbolic pipeline analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '36-43'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.36
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/PuschnerS08
+  type: paper-conference
+  author:
+  - family: Puschner
+    given: Peter P.
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: On composable system timing, task timing, and wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1662
+
+- id: conf/wcet/HuberPP12
+  type: paper-conference
+  author:
+  - family: Huber
+    given: Benedikt
+  - family: Prokesch
+    given: Daniel
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: A formal framework for precise parametric wCET formulas
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '91-102'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.91
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/NemerCSBM06
+  type: paper-conference
+  author:
+  - family: Nemer
+    given: Fadia
+  - family: Cassé
+    given: Hugues
+  - family: Sainrat
+    given: Pascal
+  - family: Bahsoun
+    given: Jean Paul
+  - family: Michiel
+    given: Marianne De
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: 'PapaBench: A free real-time benchmark'
+  title-short: PapaBench
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/678
+
+- id: conf/wcet/GustafssonE08
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Jan
+  - family: Ermedahl
+    given: Andreas
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Merging techniques for faster derivation of wCET flow information using abstract
+    execution
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1658
+
+- id: conf/wcet/RochangeBSGWUPM10
+  type: paper-conference
+  author:
+  - family: Rochange
+    given: Christine
+  - family: Bonenfant
+    given: Armelle
+  - family: Sainrat
+    given: Pascal
+  - family: Gerdes
+    given: Mike
+  - family: Wolf
+    given: Julian
+  - family: Ungerer
+    given: Theo
+  - family: Petrov
+    given: Zlatko
+  - family: Mikulu
+    given: Frantisek
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: WCET analysis of a parallel 3D multigrid solver executed on the mERASA multi-core
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '90-100'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.90
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/CazorlaVQA13
+  type: paper-conference
+  author:
+  - family: Cazorla
+    given: Francisco J.
+  - family: Vardanega
+    given: Tullio
+  - family: Quiñones
+    given: Eduardo
+  - family: Abella
+    given: Jaume
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Upper-bounding program execution time with extreme value theory
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '64-76'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.64
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/FernandezAQRVC14
+  type: paper-conference
+  author:
+  - family: Fernandez
+    given: Gabriel
+  - family: Abella
+    given: Jaume
+  - family: Quiñones
+    given: Eduardo
+  - family: Rochange
+    given: Christine
+  - family: Vardanega
+    given: Tullio
+  - family: Cazorla
+    given: Francisco J.
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: 'Contention in multicore hardware shared resources: Understanding of the
+    state of the art'
+  title-short: Contention in multicore hardware shared resources
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '31-42'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.31
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/ErmedahlGL05
+  type: paper-conference
+  author:
+  - family: Ermedahl
+    given: Andreas
+  - family: Gustafsson
+    given: Jan
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Experiences from industrial wCET analysis case studies
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/811
+
+- id: conf/wcet/SchoeberlP09
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Is chip-multiprocessing the end of real-time scheduling?
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2288
+
+- id: conf/wcet/Wegener12
+  type: paper-conference
+  author:
+  - family: Wegener
+    given: Simon
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Computing same block relations for relational cache analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '25-37'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.25
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/PrantlSK08
+  type: paper-conference
+  author:
+  - family: Prantl
+    given: Adrian
+  - family: Schordan
+    given: Markus
+  - family: Knoop
+    given: Jens
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: TuBound - a conceptually new tool for worst-case execution time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1661
+
+- id: conf/wcet/Lisper03
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Fully automatic, parametric worst-case execution time analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '99-102'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/2009
+  type: book
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: 9th intl. workshop on worst-case execution time analysis, wCET 2009, dublin,
+    ireland, july 1-3, 2009
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/portals/09004/
+
+- id: conf/wcet/AsavoaeMR13
+  type: paper-conference
+  author:
+  - family: Asavoae
+    given: Mihail
+  - family: Maiza
+    given: Claire
+  - family: Raymond
+    given: Pascal
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: 'Program semantics in model-based wCET analysis: A state of the art perspective'
+  title-short: Program semantics in model-based wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '32-41'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.32
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/WagemannDHSS15
+  type: paper-conference
+  author:
+  - family: Wägemann
+    given: Peter
+  - family: Distler
+    given: Tobias
+  - family: Hönig
+    given: Timo
+  - family: Sieh
+    given: Volkmar
+  - family: Schröder-Preikschat
+    given: Wolfgang
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: 'GenE: A benchmark generator for wCET analysis'
+  title-short: GenE
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '33-43'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.33
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/GuedesC03
+  type: paper-conference
+  author:
+  - family: Guedes
+    given: Paulo Abadie
+  - family: Cavalcante
+    given: Sérgio Vanderlei
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: On the design of an extensible platform for flow analysis of java using abstract
+    interpretation
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '47-50'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/2003
+  type: book
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Proceedings of the 3rd international workshop on worst-case execution time
+    analysis, wCET 2003 - a satellite event to eCRTS 2003, polytechnic institute of
+    porto, portugal, july 1, 2003
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/Gebhard10
+  type: paper-conference
+  author:
+  - family: Gebhard
+    given: Gernot
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Timing anomalies reloaded
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '1-10'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.1
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/Williams05
+  type: paper-conference
+  author:
+  - family: Williams
+    given: Nicky
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: WCET measurment using midified path testing
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/809
+
+- id: conf/wcet/CasseBS13
+  type: paper-conference
+  author:
+  - family: Cassé
+    given: Hugues
+  - family: Birée
+    given: Florian
+  - family: Sainrat
+    given: Pascal
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Multi-architecture value analysis for machine code
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '42-52'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.42
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/HolstiGKL15
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  - family: Gustafsson
+    given: Jan
+  - family: Källberg
+    given: Linus
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Analysing switch-case code with abstract execution
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '85-94'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.85
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/HerrmannBHJLP07
+  type: paper-conference
+  author:
+  - family: Herrmann
+    given: Christoph A.
+  - family: Bonenfant
+    given: Armelle
+  - family: Hammond
+    given: Kevin
+  - family: Jost
+    given: Steffen
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Pointon
+    given: Robert F.
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Automatic amortised worst-case execution time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1186
+
+- id: conf/wcet/SundmarkPSET07
+  type: paper-conference
+  author:
+  - family: Sundmark
+    given: Daniel
+  - family: Pettersson
+    given: Anders
+  - family: Sandberg
+    given: Christer
+  - family: Ermedahl
+    given: Andreas
+  - family: Thane
+    given: Henrik
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Finding dU-paths for testing of multi-tasking real-time systems using wCET
+    analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1191
+
+- id: conf/wcet/NelisYPFBQVM14
+  type: paper-conference
+  author:
+  - family: Nélis
+    given: Vincent
+  - family: Yomsi
+    given: Patrick Meumeu
+  - family: Pinho
+    given: Luís Miguel
+  - family: Fonseca
+    given: José Carlos
+  - family: Bertogna
+    given: Marko
+  - family: Quiñones
+    given: Eduardo
+  - family: Vargas
+    given: Roberto
+  - family: Marongiu
+    given: Andrea
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: The challenge of time-predictability in modern many-core architectures
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '63-72'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.63
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/Zolda08
+  type: paper-conference
+  author:
+  - family: Zolda
+    given: Michael
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: 'INFER: Interactive timing profiles based on bayesian networks'
+  title-short: INFER
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1669
+
+- id: conf/wcet/ChenMRS05
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Ting
+  - family: Mitra
+    given: Tulika
+  - family: Roychoudhury
+    given: Abhik
+  - family: Suhendra
+    given: Vivy
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Exploiting branch constraints without exhaustive path enumeration
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/816
+
+- id: conf/wcet/HaupenthalH13
+  type: paper-conference
+  author:
+  - family: Haupenthal
+    given: Florian
+  - family: Herter
+    given: Jörg
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: 'PRADA: Predictable allocations by deferred actions'
+  title-short: PRADA
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '77-86'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.77
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/Lisper14
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: Principles for value annotation languages
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '1-10'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.1
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/BallabrigaC08
+  type: paper-conference
+  author:
+  - family: Ballabriga
+    given: Clément
+  - family: Cassé
+    given: Hugues
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Improving the wCET computation time by iPET using control flow graph partitioning
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1670
+
+- id: conf/wcet/Potop-ButucaruP13
+  type: paper-conference
+  author:
+  - family: Potop-Butucaru
+    given: Dumitru
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Integrated worst-case execution time estimation of multicore applications
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '21-31'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.21
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/FredrikssonNEN07
+  type: paper-conference
+  author:
+  - family: Fredriksson
+    given: Johan
+  - family: Nolte
+    given: Thomas
+  - family: Ermedahl
+    given: Andreas
+  - family: Nolin
+    given: Mikael
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Clustering worst-case execution times for software components
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1185
+
+- id: conf/wcet/BygdeL08
+  type: paper-conference
+  author:
+  - family: Bygde
+    given: Stefan
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Towards an automatic parametric wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1659
+
+- id: conf/wcet/2012
+  type: book
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: 12th international workshop on worst-case execution time analysis, wCET 2012,
+    july 10, 2012, pisa, italy
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '23'
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/RuizC15
+  type: paper-conference
+  author:
+  - family: Ruiz
+    given: Jordy
+  - family: Cassé
+    given: Hugues
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Using sMT solving for the lookup of infeasible paths in binary programs
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '95-104'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.95
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/WhithamA08
+  type: paper-conference
+  author:
+  - family: Whitham
+    given: Jack
+  - family: Audsley
+    given: Neil C.
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Traces as a solution to pessimism and modeling costs in wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1666
+
+- id: conf/wcet/GustavssonGL12
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Andreas
+  - family: Gustafsson
+    given: Jan
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Toward static timing analysis of parallel software
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '38-47'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.38
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/Wilhelm05
+  type: paper-conference
+  author:
+  - family: Wilhelm
+    given: Reinhard
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: 2005 wCET preface - message from the workshop chair
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/817
+
+- id: conf/wcet/BaldovinMV12
+  type: paper-conference
+  author:
+  - family: Baldovin
+    given: Andrea
+  - family: Mezzetti
+    given: Enrico
+  - family: Vardanega
+    given: Tullio
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: A time-composable operating system
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '69-80'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.69
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/2008
+  type: book
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: 8th intl. workshop on worst-case execution time (wCET) analysis, prague,
+    czech republic, july 1, 2008
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/portals/08003/
+
+- id: conf/wcet/X12
+  type: paper-conference
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Frontmatter, table of contents, preface, workshop organization, list of authors
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.i
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/CassezHO12
+  type: paper-conference
+  author:
+  - family: Cassez
+    given: Franck
+  - family: Hansen
+    given: René Rydhof
+  - family: Olesen
+    given: Mads Chr.
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: What is a timing anomaly?
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '1-12'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.1
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/CullmannM07
+  type: paper-conference
+  author:
+  - family: Cullmann
+    given: Christoph
+  - family: Martin
+    given: Florian
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Data-flow based detection of loop bounds
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1193
+
+- id: conf/wcet/X13
+  type: paper-conference
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Frontmatter, table of contents, preface, workshop organization
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.i
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/Li03
+  type: paper-conference
+  author:
+  - family: Li
+    given: Xianfeng
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: A survey of methods to improve iLP-based wCET analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '57-60'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/GarridoBPAZ12
+  type: paper-conference
+  author:
+  - family: Garrido
+    given: Jorge
+  - family: Brosnan
+    given: Daniel
+  - family: Puente
+    given: Juan Antonio
+    dropping-particle: de la
+  - family: Alonso
+    given: Alejandro
+  - family: Zamorano
+    given: Juan
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Analysis of wCET in an experimental satellite software development
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '81-90'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.81
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/KirnerKPSK08
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  - family: Kadlec
+    given: Albrecht
+  - family: Prantl
+    given: Adrian
+  - family: Schordan
+    given: Markus
+  - family: Knoop
+    given: Jens
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: 'Towards a common wCET annotation language: Essential ingredients'
+  title-short: Towards a common wCET annotation language
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1657
+
+- id: conf/wcet/GriffinB10
+  type: paper-conference
+  author:
+  - family: Griffin
+    given: David
+  - family: Burns
+    given: Alan
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Realism in statistical analysis of worst case execution times
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '44-53'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.44
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/BallabrigaFL15
+  type: paper-conference
+  author:
+  - family: Ballabriga
+    given: Clément
+  - family: Forget
+    given: Julien
+  - family: Lipari
+    given: Giuseppe
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Context-sensitive parametric wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '55-64'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.55
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/KirnerP05
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Classification of code annotations and discussion of compiler-support for
+    worst-case execution time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/815
+
+- id: conf/wcet/2005
+  type: book
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2007'
+  title: 5th intl. workshop on worst-case execution time (wCET) analysis, july 5,
+    2005, palma de mallorca, spain
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/portals/06903/
+
+- id: conf/wcet/Lisper10
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Frontmatter, preface, table of contents, workshop organization
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.i
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/Mueller06a
+  type: paper-conference
+  author:
+  - family: Mueller
+    given: Frank
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: 2006 wCET abstracts collection - 6th intl. workshop on worst-case execution
+    time (wCET) analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/680
+
+- id: conf/wcet/DevergeP05
+  type: paper-conference
+  author:
+  - family: Deverge
+    given: Jean-François
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Safe measurement-based wCET estimation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/808
+
+- id: conf/wcet/Holsti09
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: WCET 2009 – preface to 9th international workshop on worst-case execution
+    time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2295
+
+- id: conf/wcet/StattelmannM10
+  type: paper-conference
+  author:
+  - family: Stattelmann
+    given: Stefan
+  - family: Martin
+    given: Florian
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: On the use of context information for precise measurement-based execution
+    time estimation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '64-76'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.64
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/Holsti08
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: 'Computing time as a program variable: A way around infeasible paths'
+  title-short: Computing time as a program variable
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1660
+
+- id: conf/wcet/SchlieckerISE06
+  type: paper-conference
+  author:
+  - family: Schliecker
+    given: Simon
+  - family: Ivers
+    given: Matthias
+  - family: Staschulat
+    given: Jan
+  - family: Ernst
+    given: Rolf
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: A framework for the busy time calculation of multiple correlated events
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/676
+
+- id: conf/wcet/StaschulatSIE05
+  type: paper-conference
+  author:
+  - family: Staschulat
+    given: Jan
+  - family: Schliecker
+    given: Simon
+  - family: Ivers
+    given: Matthias
+  - family: Ernst
+    given: Rolf
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Analysis of memory latencies in multi-processor systems
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/813
+
+- id: conf/wcet/BiereKKZ13
+  type: paper-conference
+  author:
+  - family: Biere
+    given: Armin
+  - family: Knoop
+    given: Jens
+  - family: Kovács
+    given: Laura
+  - family: Zwirchmayr
+    given: Jakob
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: 'The auspicious couple: Symbolic execution and wCET analysis'
+  title-short: The auspicious couple
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '53-63'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.53
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/AltmeyerLMRR15
+  type: paper-conference
+  author:
+  - family: Altmeyer
+    given: Sebastian
+  - family: Lisper
+    given: Björn
+  - family: Maiza
+    given: Claire
+  - family: Reineke
+    given: Jan
+  - family: Rochange
+    given: Christine
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: 'WCET and mixed-criticality: What does confidence in wCET estimations depend
+    upon?'
+  title-short: WCET and mixed-criticality
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '65-74'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.65
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/KirnerP03
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Discussion of misconceptions about wCET analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '61-64'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/BernatCP03
+  type: paper-conference
+  author:
+  - family: Bernat
+    given: Guillem
+  - family: Colin
+    given: Antoine
+  - family: Petters
+    given: Stefan M.
+  issued:
+  - year: '2003'
+  title: PWCET, a tool for probabilistic wCET analysis of real-time systems
+  container-title: WCET
+  page: '21-38'
+
+- id: conf/wcet/HammondFHDHJLMPSSW06
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Ferdinand
+    given: Christian
+  - family: Heckmann
+    given: Reinhold
+  - family: Dyckhoff
+    given: Roy
+  - family: '0001'
+    given: Martin Hofmann
+  - family: Jost
+    given: Steffen
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Michaelson
+    given: Greg
+  - family: Pointon
+    given: Robert F.
+  - family: Scaife
+    given: Norman
+  - family: Sérot
+    given: Jocelyn
+  - family: Wallace
+    given: Andy
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Towards formally verifiable wCET analysis for a functional programming language
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/677
+
+- id: conf/wcet/HuberP10
+  type: paper-conference
+  author:
+  - family: Huber
+    given: Benedikt
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: A code policy guaranteeing fully automated path analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '77-88'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.77
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/BallabrigaCM09
+  type: paper-conference
+  author:
+  - family: Ballabriga
+    given: Clément
+  - family: Cassé
+    given: Hugues
+  - family: Michiel
+    given: Marianne De
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: A generic framework for blackbox components in wCET computation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2290
+
+- id: conf/wcet/LeeLPM03
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Sheayun
+  - family: Lee
+    given: Jaejin
+  - family: Park
+    given: Chang Yun
+  - family: Min
+    given: Sang Lyul
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: A flexible tradeoff between code size and wCET employing dual instruction
+    set processors
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '91-94'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/Sandberg03
+  type: paper-conference
+  author:
+  - family: Sandberg
+    given: Christer
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Elimination of unstructured loops in flow analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '51-55'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/ZiccardiCMV15
+  type: paper-conference
+  author:
+  - family: Ziccardi
+    given: Marco
+  - family: Cornaglia
+    given: Alessandro
+  - family: Mezzetti
+    given: Enrico
+  - family: Vardanega
+    given: Tullio
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Software-enforced interconnect arbitration for cOTS multicores
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '11-20'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.11
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/Marref12
+  type: paper-conference
+  author:
+  - family: Marref
+    given: Amine
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Evolutionary techniques for parametric wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '103-115'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.103
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/X14
+  type: paper-conference
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: Frontmatter, contents, welcome, list of authors, committee
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.i
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/HolstiBFPW09
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  - family: Bernat
+    given: Guillem
+  - family: Ferdinand
+    given: Christian
+  - family: Puschner
+    given: Peter P.
+  - family: Wilhelm
+    given: Reinhard
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: 'Teaching wCET analysis in academia and industry: A panel discussion'
+  title-short: Teaching wCET analysis in academia and industry
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2278
+
+- id: conf/wcet/TesanovicHNNU03
+  type: paper-conference
+  author:
+  - family: Tesanovic
+    given: Aleksandra
+  - family: Hansson
+    given: Jörgen
+  - family: Nyström
+    given: Dag
+  - family: Norström
+    given: Christer
+  - family: Uhlin
+    given: P.
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: 'Aspect-level wCET analyzer: A tool for automated wCET analysis of the
+    real-time software composed using aspect and components'
+  title-short: Aspect-level wCET analyzer
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '95-98'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/BurguiereR06
+  type: paper-conference
+  author:
+  - family: Burguière
+    given: Claire
+  - family: Rochange
+    given: Christine
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: History-based schemes and implicit path enumeration
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/670
+
+- id: conf/wcet/MaronezeBPP14
+  type: paper-conference
+  author:
+  - family: Maroneze
+    given: André
+  - family: Blazy
+    given: Sandrine
+  - family: Pichardie
+    given: David
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: A formally verified wCET estimation tool
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '11-20'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.11
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/GillesH08
+  type: paper-conference
+  author:
+  - family: Gilles
+    given: Olivier
+  - family: Hugues
+    given: Jérôme
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Applying wCET analysis at architectural level
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1665
+
+- id: conf/wcet/Holsti07
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Analysing switch-case tables by partial evaluation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1195
+
+- id: conf/wcet/BurguiereRA09
+  type: paper-conference
+  author:
+  - family: Burguière
+    given: Claire
+  - family: Reineke
+    given: Jan
+  - family: Altmeyer
+    given: Sebastian
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Cache-related preemption delay computation for set-associative caches - pitfalls
+    and solutions
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2285
+
+- id: conf/wcet/SchlicklingP07
+  type: paper-conference
+  author:
+  - family: Schlickling
+    given: Marc
+  - family: Pister
+    given: Markus
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: A framework for static analysis of vHDL code
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1189
+
+- id: conf/wcet/GustafssonELSK09
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Jan
+  - family: Ermedahl
+    given: Andreas
+  - family: Lisper
+    given: Björn
+  - family: Sandberg
+    given: Christer
+  - family: Källberg
+    given: Linus
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: ALF - a language for wCET flow analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2279
+
+- id: conf/wcet/Wilhelm05a
+  type: paper-conference
+  author:
+  - family: Wilhelm
+    given: Stephan
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Efficient analysis of pipeline models for wCET computation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/814
+
+- id: conf/wcet/Hirvisalo14
+  type: paper-conference
+  author:
+  - family: Hirvisalo
+    given: Vesa
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: On static timing analysis of gPU kernels
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '43-52'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.43
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/ZwirchmayrSBCC14
+  type: paper-conference
+  author:
+  - family: Zwirchmayr
+    given: Jakob
+  - family: Sotin
+    given: Pascal
+  - family: Bonenfant
+    given: Armelle
+  - family: Claraz
+    given: Denis
+  - family: Cuenot
+    given: Philippe
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: Identifying relevant parameters to improve wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '93-102'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.93
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/Eles09
+  type: paper-conference
+  author:
+  - family: Eles
+    given: Petru
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Predictable implementation of real-time applications on multiprocessor systems
+    on chip
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2287
+
+- id: conf/wcet/PeterssonEPSH05
+  type: paper-conference
+  author:
+  - family: Petersson
+    given: Samuel
+  - family: Ermedahl
+    given: Andreas
+  - family: Pettersson
+    given: Anders
+  - family: Sundmark
+    given: Daniel
+  - family: Holsti
+    given: Niklas
+  editor:
+  - family: Wilhelm
+    given: Reinhard
+  issued:
+  - year: '2005'
+  title: Using a wCET analysis tool in real-time systems education
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '1'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/812
+
+- id: conf/wcet/2006
+  type: book
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: 6th intl. workshop on worst-case execution time (wCET) analysis, july 4,
+    2006, dresden, germany
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/portals/06902/
+
+- id: conf/wcet/EslamimehrS15
+  type: paper-conference
+  author:
+  - family: Eslamimehr
+    given: Mahdi
+  - family: Samimi
+    given: Hesam
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Timing analysis of event-driven programs with directed testing
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '21-31'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.21
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/HuberS09
+  type: paper-conference
+  author:
+  - family: Huber
+    given: Benedikt
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Comparison of implicit path enumeration and model checking based wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2281
+
+- id: conf/wcet/Lindblad03
+  type: paper-conference
+  author:
+  - family: Lindblad
+    given: Jan
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Requirements of wCET tools
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '45-46'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/AbbaspourJB14
+  type: paper-conference
+  author:
+  - family: Abbaspour
+    given: Sahar
+  - family: Jordan
+    given: Alexander
+  - family: Brandner
+    given: Florian
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: 'Lazy spilling for a time-predictable stack cache: Implementation and analysis'
+  title-short: Lazy spilling for a time-predictable stack cache
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '83-92'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.83
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/HerterA10
+  type: paper-conference
+  author:
+  - family: Herter
+    given: Jörg
+  - family: Altmeyer
+    given: Sebastian
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Precomputing memory locations for parametric allocations
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '124-135'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.124
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/FerdinandHTW03
+  type: paper-conference
+  author:
+  - family: Ferdinand
+    given: Christian
+  - family: Heckmann
+    given: Reinhold
+  - family: Theiling
+    given: Henrik
+  - family: Wilhelm
+    given: Reinhard
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Convenient user annotations for a wCET tool
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '17-20'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/GustavssonELP10
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Andreas
+  - family: Ermedahl
+    given: Andreas
+  - family: Lisper
+    given: Björn
+  - family: Pettersson
+    given: Paul
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Towards wCET analysis of multicore architectures using uPPAAL
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '101-112'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.101
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/AltmeyerG08
+  type: paper-conference
+  author:
+  - family: Altmeyer
+    given: Sebastian
+  - family: Gebhard
+    given: Gernot
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: WCET analysis for preemptive scheduling
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1664
+
+- id: conf/wcet/MaksoudR12
+  type: paper-conference
+  author:
+  - family: Maksoud
+    given: Mohamed Abdel
+  - family: Reineke
+    given: Jan
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: An empirical evaluation of the influence of the load-store unit on wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '13-24'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.13
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/LorenteETGC03
+  type: paper-conference
+  author:
+  - family: Garcés
+    given: Vicente Lorente
+  - family: Espinosa
+    given: Agustín
+  - family: Terrasa
+    given: Andrés
+  - family: García-Fornes
+    given: Ana
+  - family: Crespo
+    given: Alfons
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Evaluating reasons for unexpected results when measuring execution time of
+    code
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '79-85'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/HuberHS14
+  type: paper-conference
+  author:
+  - family: Huber
+    given: Benedikt
+  - family: Hepp
+    given: Stefan
+  - family: Schoeberl
+    given: Martin
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: Scope-based method cache analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '73-82'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.73
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/MezzettiPV10
+  type: paper-conference
+  author:
+  - family: Mezzetti
+    given: Enrico
+  - family: Panunzio
+    given: Marco
+  - family: Vardanega
+    given: Tullio
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Bounding the effects of resource access protocols on cache behavior
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '11-22'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.11
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/YunRM07
+  type: paper-conference
+  author:
+  - family: Yun
+    given: Liang
+  - family: Roychoudhury
+    given: Abhik
+  - family: Mitra
+    given: Tulika
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Timing analysis of body area network applications
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1192
+
+- id: conf/wcet/DalsgaardOTHL10
+  type: paper-conference
+  author:
+  - family: Dalsgaard
+    given: Andreas Engelbredt
+  - family: Olesen
+    given: Mads Chr.
+  - family: Toft
+    given: Martin
+  - family: Hansen
+    given: René Rydhof
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: 'METAMOC: Modular execution time analysis using model checking'
+  title-short: METAMOC
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '113-123'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.113
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/2007
+  type: book
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: 7th intl. workshop on worst-case execution time (wCET) analysis, pisa, italy,
+    july 3, 2007
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/portals/07002/
+
+- id: conf/wcet/LesageHP09
+  type: paper-conference
+  author:
+  - family: Lesage
+    given: Benjamin
+  - family: Hardy
+    given: Damien
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: WCET analysis of multi-level set-associative data caches
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2283
+
+- id: conf/wcet/X15
+  type: paper-conference
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Front matter, table of contents, preface, workshop organization
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: i-xiv
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.i
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/KebbalS06
+  type: paper-conference
+  author:
+  - family: Kebbal
+    given: Djemai
+  - family: Sainrat
+    given: Pascal
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Combining symbolic execution and path enumeration in worst-case execution
+    time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/675
+
+- id: conf/wcet/WassenL15
+  type: paper-conference
+  author:
+  - family: Wassen
+    given: Georg
+  - family: Lankes
+    given: Stefan
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Bare-metal execution of hard real-time tasks within a general-purpose operating
+    system
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '75-84'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.75
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/HansenHM09
+  type: paper-conference
+  author:
+  - family: Hansen
+    given: Jeffery P.
+  - family: Hissam
+    given: Scott A.
+  - family: Moreno
+    given: Gabriel A.
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Statistical-based wCET estimation and validation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2291
+
+- id: conf/wcet/Berg06
+  type: paper-conference
+  author:
+  - family: Berg
+    given: Christoph
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: PLRU cache domino effects
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/672
+
+- id: conf/wcet/BernatH03
+  type: paper-conference
+  author:
+  - family: Bernat
+    given: Guillem
+  - family: Holsti
+    given: Niklas
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: 'Compiler support for wCET analysis: A wish list'
+  title-short: Compiler support for wCET analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '65-69'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/WilhelmETW03
+  type: paper-conference
+  author:
+  - family: Wilhelm
+    given: Reinhard
+  - family: Engblom
+    given: Jakob
+  - family: Thesing
+    given: Stephan
+  - family: Whalley
+    given: David B.
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Industrial requirements for wCET tools - answers to the aRTIST questionnaire
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '39-43'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/FalkLT06
+  type: paper-conference
+  author:
+  - family: Falk
+    given: Heiko
+  - family: Lokuciejewski
+    given: Paul
+  - family: Theiling
+    given: Henrik
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Design of a wCET-aware c compiler
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/673
+
+- id: conf/wcet/Souyris10
+  type: paper-conference
+  author:
+  - family: Souyris
+    given: Jean
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: 'WCET computation of safety-critical avionics programs: Challenges, achievements
+    and perspectives'
+  title-short: WCET computation of safety-critical avionics programs
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '89-89'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.89
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/OzaktasRS13
+  type: paper-conference
+  author:
+  - family: Ozaktas
+    given: Haluk
+  - family: Rochange
+    given: Christine
+  - family: Sainrat
+    given: Pascal
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Automatic wCET analysis of real-time parallel applications
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '11-20'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.11
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/KirnerGP06
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  - family: Grössing
+    given: Markus
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Comparing wCET and resource demands of trigonometric functions implemented
+    as iterative calculations vs. table-lookup
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/669
+
+- id: conf/wcet/GustafssonBEL10
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Jan
+  - family: Betts
+    given: Adam
+  - family: Ermedahl
+    given: Andreas
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: 'The mälardalen wCET benchmarks: Past, present and future'
+  title-short: The mälardalen wCET benchmarks
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '136-146'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.136
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/DreyerHWW15
+  type: paper-conference
+  author:
+  - family: Dreyer
+    given: Boris
+  - family: Hochberger
+    given: Christian
+  - family: Wegener
+    given: Simon
+  - family: Weiss
+    given: Alexander
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: Precise continuous non-intrusive measurement-based execution time estimation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '45-54'
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  DOI: 10.4230/OASIcs.WCET.2015.45
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/HolstiGBBBBCCKKKLMMPRRSS08
+  type: paper-conference
+  author:
+  - family: Holsti
+    given: Niklas
+  - family: Gustafsson
+    given: Jan
+  - family: Bernat
+    given: Guillem
+  - family: Ballabriga
+    given: Clément
+  - family: Bonenfant
+    given: Armelle
+  - family: Bourgade
+    given: Roman
+  - family: Cassé
+    given: Hugues
+  - family: Cordes
+    given: Daniel
+  - family: Kadlec
+    given: Albrecht
+  - family: Kirner
+    given: Raimund
+  - family: Knoop
+    given: Jens
+  - family: Lokuciejewski
+    given: Paul
+  - family: Merriam
+    given: Nicholas
+  - family: Michiel
+    given: Marianne De
+  - family: Prantl
+    given: Adrian
+  - family: Rieder
+    given: Bernhard
+  - family: Rochange
+    given: Christine
+  - family: Sainrat
+    given: Pascal
+  - family: Schordan
+    given: Markus
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: WCET 2008 - report from the tool challenge 2008 – 8th intl. workshop on worst-case
+    execution time (wCET) analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1663
+
+- id: conf/wcet/HerterR09
+  type: paper-conference
+  author:
+  - family: Herter
+    given: Jörg
+  - family: Reineke
+    given: Jan
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Making dynamic memory allocation static to support wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2284
+
+- id: conf/wcet/2013
+  type: book
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: 13th international workshop on worst-case execution time analysis, wCET 2013,
+    july 9, 2013, paris, france
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '30'
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/Rochange07
+  type: paper-conference
+  author:
+  - family: Rochange
+    given: Christine
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: WCET 2007 abstracts collection - 7th intl. workshop on worst-case execution
+    time (wCET) analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1238
+
+- id: conf/wcet/RochangeS03
+  type: paper-conference
+  author:
+  - family: Rochange
+    given: Christine
+  - family: Sainrat
+    given: Pascal
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Towards designing wCET-predictable processors
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '87-90'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/KosmidisVAQC13
+  type: paper-conference
+  author:
+  - family: Kosmidis
+    given: Leonidas
+  - family: Vardanega
+    given: Tullio
+  - family: Abella
+    given: Jaume
+  - family: Quiñones
+    given: Eduardo
+  - family: Cazorla
+    given: Francisco J.
+  editor:
+  - family: Maiza
+    given: Claire
+  issued:
+  - year: '2013'
+  title: Applying measurement-based probabilistic timing analysis to buffer resources
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '97-108'
+  volume: '30'
+  DOI: 10.4230/OASIcs.WCET.2013.97
+  ISBN: '978-3-939897-54-5'
+
+- id: conf/wcet/GustafssonEL06
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Jan
+  - family: Ermedahl
+    given: Andreas
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Algorithms for infeasible path calculation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/667
+
+- id: conf/wcet/KeimNFNH09
+  type: paper-conference
+  author:
+  - family: Keim
+    given: Paul
+  - family: Noyes
+    given: Amanda
+  - family: Ferguson
+    given: Andrew
+  - family: Neal
+    given: Joshua
+  - family: Healy
+    given: Christopher A.
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Extending the path analysis technique to obtain a soft wCET
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2292
+
+- id: conf/wcet/ReinekeWTWPEB06
+  type: paper-conference
+  author:
+  - family: Reineke
+    given: Jan
+  - family: Wachter
+    given: Björn
+  - family: Thesing
+    given: Stephan
+  - family: Wilhelm
+    given: Reinhard
+  - family: Polian
+    given: Ilia
+  - family: Eisinger
+    given: Jochen
+  - family: Becker
+    given: Bernd
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: A definition and classification of timing anomalies
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/671
+
+- id: conf/wcet/SantinelliMDJ14
+  type: paper-conference
+  author:
+  - family: Santinelli
+    given: Luca
+  - family: Morio
+    given: Jérôme
+  - family: Dufour
+    given: Guillaume
+  - family: Jacquemart
+    given: Damien
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: On the sustainability of the extreme value theory for wCET estimation
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '21-30'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.21
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/2014
+  type: book
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: 14th international workshop on worst-case execution time analysis, wCET 2014,
+    july 8, 2014, ulm, germany
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '39'
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/RodriguezSEHCHH03
+  type: paper-conference
+  author:
+  - family: Rodríguez
+    given: Manuel
+  - family: Silva
+    given: Nuno
+  - family: Esteves
+    given: João
+  - family: Henriques
+    given: Luis
+  - family: Costa
+    given: Diamantino
+  - family: Holsti
+    given: Niklas
+  - family: Hjortnaes
+    given: Kjeld
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Challenges in calculating the wCET of a complex on-board satellite application
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '11-15'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/FalkS06
+  type: paper-conference
+  author:
+  - family: Falk
+    given: Heiko
+  - family: Schwarzer
+    given: Martin
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: Loop nest splitting for wCET-optimization and predictability improvement
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/674
+
+- id: conf/wcet/Kirner08
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: WCET 2008 abstracts collection - 8th intl. workshop on worst-case execution
+    time (wCET) analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1671
+
+- id: conf/wcet/2015
+  type: book
+  editor:
+  - family: Cazorla
+    given: Francisco J.
+  issued:
+  - year: '2015'
+  title: 15th international workshop on worst-case execution time analysis, wCET 2015,
+    july 7, 2015, lund, sweden
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  volume: '47'
+  URL: http://www.dagstuhl.de/dagpub/978-3-939897-95-8
+  ISBN: '978-3-939897-95-8'
+
+- id: conf/wcet/ProkeschHP14
+  type: paper-conference
+  author:
+  - family: Prokesch
+    given: Daniel
+  - family: Huber
+    given: Benedikt
+  - family: Puschner
+    given: Peter P.
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: Towards automated generation of time-predictable code
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '103-112'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.103
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/MarrefB08
+  type: paper-conference
+  author:
+  - family: Marref
+    given: Amine
+  - family: Bernat
+    given: Guillem
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: Towards predicated wCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1667
+
+- id: conf/wcet/AvilaGP03
+  type: paper-conference
+  author:
+  - family: Avila
+    given: Mathieu
+  - family: Glaizot
+    given: Maxime
+  - family: Puaut
+    given: Isabelle
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Impact of automatic gain time identification on tree-based static wCET analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '71-74'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/ReinekeS09
+  type: paper-conference
+  author:
+  - family: Reineke
+    given: Jan
+  - family: Sen
+    given: Rathijit
+  editor:
+  - family: Holsti
+    given: Niklas
+  issued:
+  - year: '2009'
+  title: Sound and efficient wCET analysis in the presence of timing anomalies
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '10'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2009/2289
+
+- id: conf/wcet/2010
+  type: book
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: 10th international workshop on worst-case execution time analysis, wCET 2010,
+    july 6, 2010, brussels, belgium
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  volume: '15'
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/GrundR10
+  type: paper-conference
+  author:
+  - family: Grund
+    given: Daniel
+  - family: Reineke
+    given: Jan
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Toward precise pLRU cache analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '23-35'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.23
+  ISBN: '978-3-939897-21-7'
+
+- id: conf/wcet/Lisper12
+  type: paper-conference
+  author:
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Vardanega
+    given: Tullio
+  issued:
+  - year: '2012'
+  title: Towards parallel programming models for predictability
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '48-58'
+  volume: '23'
+  DOI: 10.4230/OASIcs.WCET.2012.48
+  ISBN: '978-3-939897-41-5'
+
+- id: conf/wcet/ErmedahlSGBL07
+  type: paper-conference
+  author:
+  - family: Ermedahl
+    given: Andreas
+  - family: Sandberg
+    given: Christer
+  - family: Gustafsson
+    given: Jan
+  - family: Bygde
+    given: Stefan
+  - family: Lisper
+    given: Björn
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Loop bound analysis based on a combination of program slicing, abstract interpretation,
+    and invariant analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1194
+
+- id: conf/wcet/Petters03a
+  type: paper-conference
+  author:
+  - family: Petters
+    given: Stefan M.
+  editor:
+  - family: Gustafsson
+    given: Jan
+  issued:
+  - year: '2003'
+  title: Comparison of trace generation methods for measurement based wCET analysis
+  container-title: WCET
+  publisher: Department of Computer Science; Engineering, Mälardalen University, Box
+    883, 721 23 Västerås, Sweden
+  page: '75-78'
+  volume: MDH-MRTC-116/2003-1-SE
+
+- id: conf/wcet/Gustafsson07
+  type: paper-conference
+  author:
+  - family: Gustafsson
+    given: Jan
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: WCET 2007 - report from the wCET tool challenge 2006 ideas for the wCET tool
+    challenge 2008
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1198
+
+- id: conf/wcet/HickeyES08
+  type: paper-conference
+  author:
+  - family: Hickey
+    given: David
+  - family: Early
+    given: Diarmuid
+  - family: Schellekens
+    given: Michel P.
+  editor:
+  - family: Kirner
+    given: Raimund
+  issued:
+  - year: '2008'
+  title: A tool for average and worst-case execution time analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '8'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2008/1668
+
+- id: conf/wcet/SchoeberlCPS14
+  type: paper-conference
+  author:
+  - family: Schoeberl
+    given: Martin
+  - family: Chong
+    given: David Vh
+  - family: Puffitsch
+    given: Wolfgang
+  - family: Sparsø
+    given: Jens
+  editor:
+  - family: Falk
+    given: Heiko
+  issued:
+  - year: '2014'
+  title: A time-predictable memory network-on-chip
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik
+  page: '53-62'
+  volume: '39'
+  DOI: 10.4230/OASIcs.WCET.2014.53
+  ISBN: '978-3-939897-69-9'
+
+- id: conf/wcet/SteinM07
+  type: paper-conference
+  author:
+  - family: Stein
+    given: Ingmar
+  - family: Martin
+    given: Florian
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Analysis of path exclusion at the machine code level
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1196
+
+- id: conf/wcet/Mueller06
+  type: paper-conference
+  author:
+  - family: Mueller
+    given: Frank
+  editor:
+  - family: Mueller
+    given: Frank
+  issued:
+  - year: '2006'
+  title: 2006 wCET preface - proceedings of the 6th intl. workshop on worst-case execution
+    time analysis (wCET’06)
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '4'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2006/679
+
+- id: conf/wcet/WilhelmW07
+  type: paper-conference
+  author:
+  - family: Wilhelm
+    given: Stephan
+  - family: Wachter
+    given: Björn
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: Towards symbolic state traversal for efficient wCET analysis of abstract
+    pipeline and cache models
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1190
+
+- id: conf/wcet/KirnerKPSW07
+  type: paper-conference
+  author:
+  - family: Kirner
+    given: Raimund
+  - family: Knoop
+    given: Jens
+  - family: Prantl
+    given: Adrian
+  - family: Schordan
+    given: Markus
+  - family: Wenzel
+    given: Ingomar
+  editor:
+  - family: Rochange
+    given: Christine
+  issued:
+  - year: '2007'
+  title: 'WCET analysis: The annotation language challenge'
+  title-short: WCET analysis
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI),
+    Schloss Dagstuhl, Germany
+  volume: '6'
+  URL: http://drops.dagstuhl.de/opus/volltexte/2007/1197
+
+- id: conf/wcet/BettsMB10
+  type: paper-conference
+  author:
+  - family: Betts
+    given: Adam
+  - family: Merriam
+    given: Nicholas
+  - family: Bernat
+    given: Guillem
+  editor:
+  - family: Lisper
+    given: Björn
+  issued:
+  - year: '2010'
+  title: Hybrid measurement-based wCET analysis at the source level using object-level
+    traces
+  container-title: WCET
+  collection-title: OASICS
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany
+  page: '54-63'
+  volume: '15'
+  DOI: 10.4230/OASIcs.WCET.2010.54
+  ISBN: '978-3-939897-21-7'
+...

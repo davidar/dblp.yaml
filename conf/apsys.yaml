@@ -1,0 +1,1979 @@
+---
+references:
+- id: conf/apsys/WangZGZ14
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Minjie
+  - family: Zhou
+    given: Hucheng
+  - family: Guo
+    given: Minyi
+  - family: Zhang
+    given: Zheng
+  issued:
+  - year: '2014'
+  title: A scalable and topology configurable protocol for distributed parameter synchronization
+  container-title: APSys
+  publisher: ACM
+  page: 13:1-13:7
+  URL: http://doi.acm.org/10.1145/2637166.2637231
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/PetersDEH15
+  type: paper-conference
+  author:
+  - family: Peters
+    given: Sean
+  - family: Danis
+    given: Adrian
+  - family: Elphinstone
+    given: Kevin
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: For a microkernel, a big lock is fine
+  container-title: APSys
+  publisher: ACM
+  page: 3:1-3:7
+  URL: http://doi.acm.org/10.1145/2797022.2797042
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/KimLCLN12
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Jaeho
+  - family: Lee
+    given: Jongmin
+  - family: Choi
+    given: Jongmoo
+  - family: Lee
+    given: Donghee
+  - family: Noh
+    given: Sam H.
+  issued:
+  - year: '2012'
+  title: Enhancing sSD reliability through efficient rAID support
+  container-title: APSys
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2349896.2349900
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/ZhangF11
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yu
+  - family: Ford
+    given: Bryan
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: A virtual memory foundation for scalable deterministic parallelism
+  container-title: APSys
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2103799.2103808
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/BlackhamTH12
+  type: paper-conference
+  author:
+  - family: Blackham
+    given: Bernard
+  - family: Tang
+    given: Vernon
+  - family: Heiser
+    given: Gernot
+  issued:
+  - year: '2012'
+  title: To preempt or not to preempt, that is the question
+  container-title: APSys
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2349896.2349904
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/ChenMWZZK11
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Haogang
+  - family: Mao
+    given: Yandong
+  - family: Wang
+    given: Xi
+  - family: Zhou
+    given: Dong
+  - family: Zeldovich
+    given: Nickolai
+  - family: Kaashoek
+    given: M. Frans
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'Linux kernel vulnerabilities: State-of-the-art defenses and open problems'
+  title-short: Linux kernel vulnerabilities
+  container-title: APSys
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2103799.2103805
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/NgL13
+  type: paper-conference
+  author:
+  - family: Ng
+    given: Chun-Ho
+  - family: Lee
+    given: Patrick P. C.
+  issued:
+  - year: '2013'
+  title: 'RevDedup: A reverse deduplication storage system optimized for reads to
+    latest backups'
+  title-short: RevDedup
+  container-title: APSys
+  publisher: ACM
+  page: 15:1-15:7
+  URL: http://doi.acm.org/10.1145/2500727.2500731
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/CheungR0MB13
+  type: paper-conference
+  author:
+  - family: Cheung
+    given: Alvin
+  - family: Ravindranath
+    given: Lenin
+  - family: '0002'
+    given: Eugene Wu
+  - family: Madden
+    given: Samuel
+  - family: Balakrishnan
+    given: Hari
+  issued:
+  - year: '2013'
+  title: Mobile applications need targeted micro-updates
+  container-title: APSys
+  publisher: ACM
+  page: 8:1-8:6
+  URL: http://doi.acm.org/10.1145/2500727.2500744
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/RoyYS13
+  type: paper-conference
+  author:
+  - family: Roy
+    given: Arjun
+  - family: Yocum
+    given: Kenneth
+  - family: Snoeren
+    given: Alex C.
+  issued:
+  - year: '2013'
+  title: Challenges in the emulation of large scale software defined networks
+  container-title: APSys
+  publisher: ACM
+  page: 10:1-10:6
+  URL: http://doi.acm.org/10.1145/2500727.2500738
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/RenMSB14
+  type: paper-conference
+  author:
+  - family: Ren
+    given: Rui
+  - family: Ma
+    given: Jiuyue
+  - family: Sui
+    given: Xiufeng
+  - family: Bao
+    given: Yungang
+  issued:
+  - year: '2014'
+  title: 'D2P: A distributed deadline propagation approach to tolerate long-tail
+    latency in datacenters'
+  title-short: D2P
+  container-title: APSys
+  publisher: ACM
+  page: 2:1-2:6
+  URL: http://doi.acm.org/10.1145/2637166.2637226
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/TaoRN15
+  type: paper-conference
+  author:
+  - family: Tao
+    given: Vinh
+  - family: Rancurel
+    given: Vianney
+  - family: Neto
+    given: João
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'A name is not a name: The implementation of a cloud storage system'
+  title-short: A name is not a name
+  container-title: APSys
+  publisher: ACM
+  page: 4:1-4:8
+  URL: http://doi.acm.org/10.1145/2797022.2797034
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/JohansenBRSSJ15
+  type: paper-conference
+  author:
+  - family: Johansen
+    given: Håvard D.
+  - family: Birrell
+    given: Eleanor
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Schneider
+    given: Fred B.
+  - family: Stenhaug
+    given: Magnus
+  - family: Johansen
+    given: Dag
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Enforcing privacy policies with meta-code
+  container-title: APSys
+  publisher: ACM
+  page: 16:1-16:7
+  URL: http://doi.acm.org/10.1145/2797022.2797040
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/MartinRI11
+  type: paper-conference
+  author:
+  - family: Martin
+    given: Jean-Philippe
+  - family: Rossbach
+    given: Christopher J.
+  - family: Isard
+    given: Michael
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'SPECTRE: Speculation to hide communication latency'
+  title-short: SPECTRE
+  container-title: APSys
+  publisher: ACM
+  page: '18'
+  URL: http://doi.acm.org/10.1145/2103799.2103821
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/Ben-YehudaPBST13
+  type: paper-conference
+  author:
+  - family: Ben-Yehuda
+    given: Muli
+  - family: Peleg
+    given: Omer
+  - family: Ben-Yehuda
+    given: Orna Agmon
+  - family: Smolyar
+    given: Igor
+  - family: Tsafrir
+    given: Dan
+  issued:
+  - year: '2013'
+  title: 'The nonkernel: A kernel designed for the cloud'
+  title-short: The nonkernel
+  container-title: APSys
+  publisher: ACM
+  page: 4:1-4:7
+  URL: http://doi.acm.org/10.1145/2500727.2500737
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/MaoCM13
+  type: paper-conference
+  author:
+  - family: Mao
+    given: Yandong
+  - family: Cutler
+    given: Cody
+  - family: Morris
+    given: Robert
+  issued:
+  - year: '2013'
+  title: Optimizing rAM-latency dominated applications
+  container-title: APSys
+  publisher: ACM
+  page: 12:1-12:5
+  URL: http://doi.acm.org/10.1145/2500727.2500746
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/YuanXCZ11
+  type: paper-conference
+  author:
+  - family: Yuan
+    given: Liwei
+  - family: Xing
+    given: Weichao
+  - family: Chen
+    given: Haibo
+  - family: Zang
+    given: Binyu
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'Security breaches as pMU deviation: Detecting and identifying security
+    attacks using performance counters'
+  title-short: Security breaches as pMU deviation
+  container-title: APSys
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2103799.2103807
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/CuiGLY15
+  type: paper-conference
+  author:
+  - family: Cui
+    given: Heming
+  - family: Gu
+    given: Rui
+  - family: Liu
+    given: Cheng
+  - family: Yang
+    given: Junfeng
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'RepFrame: An efficient and transparent framework for dynamic program analysis'
+  title-short: RepFrame
+  container-title: APSys
+  publisher: ACM
+  page: 13:1-13:9
+  URL: http://doi.acm.org/10.1145/2797022.2797033
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/GuZZZLZB14
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Junli
+  - family: Zhu
+    given: Maohua
+  - family: Zhou
+    given: Zhitao
+  - family: Zhang
+    given: Feng
+  - family: Lin
+    given: Zhen
+  - family: Zhang
+    given: Qianfeng
+  - family: Breternitz
+    given: Mauricio
+  issued:
+  - year: '2014'
+  title: Implementation and evaluation of deep neural networks (dNN) on mainstream
+    heterogeneous systems
+  container-title: APSys
+  publisher: ACM
+  page: 12:1-12:7
+  URL: http://doi.acm.org/10.1145/2637166.2637229
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/KimCZ12
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Taesoo
+  - family: Chandra
+    given: Ramesh
+  - family: Zeldovich
+    given: Nickolai
+  issued:
+  - year: '2012'
+  title: Recovering from intrusions in distributed systems with dARE
+  container-title: APSys
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2349896.2349906
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/FujiiANK13
+  type: paper-conference
+  author:
+  - family: Fujii
+    given: Yusuke
+  - family: Azumi
+    given: Takuya
+  - family: Nishio
+    given: Nobuhiko
+  - family: Kato
+    given: Shinpei
+  issued:
+  - year: '2013'
+  title: Exploring microcontrollers in gPUs
+  container-title: APSys
+  publisher: ACM
+  page: 2:1-2:6
+  URL: http://doi.acm.org/10.1145/2500727.2500742
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/AnwarSKB15
+  type: paper-conference
+  author:
+  - family: Anwar
+    given: Ali
+  - family: Sailer
+    given: Anca
+  - family: Kochut
+    given: Andrzej
+  - family: Butt
+    given: Ali Raza
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Anatomy of cloud monitoring and metering: A case study and open problems'
+  title-short: Anatomy of cloud monitoring and metering
+  container-title: APSys
+  publisher: ACM
+  page: 6:1-6:7
+  URL: http://doi.acm.org/10.1145/2797022.2797039
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/HarjiBB11
+  type: paper-conference
+  author:
+  - family: Harji
+    given: Ashif S.
+  - family: Buhr
+    given: Peter A.
+  - family: Brecht
+    given: Tim
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: Our troubles with linux and why you should care
+  container-title: APSys
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2103799.2103802
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/YooKJY11
+  type: paper-conference
+  author:
+  - family: Yoo
+    given: See-hwan
+  - family: Kwak
+    given: Kuen-Hwan
+  - family: Jo
+    given: Jae-Hyun
+  - family: Yoo
+    given: Chuck
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: Toward under-millisecond i/O latency in xen-aRM
+  container-title: APSys
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/2103799.2103816
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/OkamuraO12
+  type: paper-conference
+  author:
+  - family: Okamura
+    given: Keisuke
+  - family: Oyama
+    given: Yoshihiro
+  issued:
+  - year: '2012'
+  title: Controlling the speed of virtual time for malware deactivation
+  container-title: APSys
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2349896.2349902
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/VaranasiH11
+  type: paper-conference
+  author:
+  - family: Varanasi
+    given: Prashant
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: Hardware-supported virtualization on aRM
+  container-title: APSys
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2103799.2103813
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/BucurKC13
+  type: paper-conference
+  author:
+  - family: Bucur
+    given: Stefan
+  - family: Kinder
+    given: Johannes
+  - family: Candea
+    given: George
+  issued:
+  - year: '2013'
+  title: Making automated testing of cloud applications an integral component of paaS
+  container-title: APSys
+  publisher: ACM
+  page: 18:1-18:7
+  URL: http://doi.acm.org/10.1145/2500727.2500730
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/2012
+  type: book
+  issued:
+  - year: '2012'
+  title: Asia-pacific workshop on systems, aPSys ’12, seoul, republic of korea, july
+    23-24, 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2349896
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/NamLE15
+  type: paper-conference
+  author:
+  - family: Nam
+    given: Yeji
+  - family: Lee
+    given: Dongwoo
+  - family: Eom
+    given: Young Ik
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'SELF: Improving the memory-sharing opportunity using virtual-machine self-hints
+    in virtualized systems'
+  title-short: SELF
+  container-title: APSys
+  publisher: ACM
+  page: 10:1-10:7
+  URL: http://doi.acm.org/10.1145/2797022.2797038
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/HaJK13
+  type: paper-conference
+  author:
+  - family: Ha
+    given: Keonsoo
+  - family: Jeong
+    given: Jaeyong
+  - family: Kim
+    given: Jihong
+  issued:
+  - year: '2013'
+  title: A read-disturb management technique for high-density nAND flash memory
+  container-title: APSys
+  publisher: ACM
+  page: 13:1-13:6
+  URL: http://doi.acm.org/10.1145/2500727.2500743
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/ShiXWZZ11
+  type: paper-conference
+  author:
+  - family: Shi
+    given: Jinghao
+  - family: Xia
+    given: Mingyuan
+  - family: Wu
+    given: Ming
+  - family: Zhang
+    given: Lintao
+  - family: Zhang
+    given: Zheng
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'SLIM: Mmap from the cloud to device, and back'
+  title-short: SLIM
+  container-title: APSys
+  publisher: ACM
+  page: '16'
+  URL: http://doi.acm.org/10.1145/2103799.2103819
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/2011
+  type: book
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: APSys ’11 asia pacific workshop on systems, shanghai, china, july 11-12,
+    2011
+  publisher: ACM
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/LiuZZMC11
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Mingliang
+  - family: Zhai
+    given: Jidong
+  - family: Zhai
+    given: Yan
+  - family: Ma
+    given: Xiaosong
+  - family: Chen
+    given: Wenguang
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'One optimized i/O configuration per hPC application: Leveraging the configurability
+    of cloud'
+  title-short: One optimized i/O configuration per hPC application
+  container-title: APSys
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/2103799.2103818
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/RenLTX15
+  type: paper-conference
+  author:
+  - family: Ren
+    given: Shiru
+  - family: Li
+    given: Chunqi
+  - family: Tan
+    given: Le
+  - family: Xiao
+    given: Zhen
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Samsara: Efficient deterministic replay with hardware virtualization extensions'
+  title-short: Samsara
+  container-title: APSys
+  publisher: ACM
+  page: 9:1-9:7
+  URL: http://doi.acm.org/10.1145/2797022.2797028
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/ZhangLZZZ12
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Cheng
+  - family: Lu
+    given: Longwen
+  - family: Zhou
+    given: Hucheng
+  - family: Zhao
+    given: Jianjun
+  - family: Zhang
+    given: Zheng
+  issued:
+  - year: '2012'
+  title: 'MoonBox: Debugging with online slicing and dryrun'
+  title-short: MoonBox
+  container-title: APSys
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2349896.2349908
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/SongSCZ13
+  type: paper-conference
+  author:
+  - family: Song
+    given: Xiang
+  - family: Shi
+    given: Jicheng
+  - family: Chen
+    given: Haibo
+  - family: Zang
+    given: Binyu
+  issued:
+  - year: '2013'
+  title: Schedule processes, not vCPUs
+  container-title: APSys
+  publisher: ACM
+  page: 1:1-1:7
+  URL: http://doi.acm.org/10.1145/2500727.2500736
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/WangQCL13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Zhaoguo
+  - family: Qian
+    given: Hao
+  - family: Chen
+    given: Haibo
+  - family: Li
+    given: Jinyang
+  issued:
+  - year: '2013'
+  title: Opportunities and pitfalls of multi-core scaling using hardware transaction
+    memory
+  container-title: APSys
+  publisher: ACM
+  page: 3:1-3:7
+  URL: http://doi.acm.org/10.1145/2500727.2500745
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/TanLXZCL14
+  type: paper-conference
+  author:
+  - family: Tan
+    given: Cheng
+  - family: Li
+    given: Haibo
+  - family: Xia
+    given: Yubin
+  - family: Zang
+    given: Binyu
+  - family: Chu
+    given: Cheng-Kang
+  - family: Li
+    given: Tieyan
+  issued:
+  - year: '2014'
+  title: 'PreCrime to the rescue: Defeating mobile malware one-step ahead'
+  title-short: PreCrime to the rescue
+  container-title: APSys
+  publisher: ACM
+  page: 5:1-5:7
+  URL: http://doi.acm.org/10.1145/2637166.2637224
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/LiangCL15
+  type: paper-conference
+  author:
+  - family: Liang
+    given: Shih-Hao
+  - family: Chiueh
+    given: Tzi-cker
+  - family: Ling
+    given: Welkin
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Go gentle into the good night via controlled battery discharging
+  container-title: APSys
+  publisher: ACM
+  page: 17:1-17:6
+  URL: http://doi.acm.org/10.1145/2797022.2797035
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/MitchellPL12
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Christopher
+  - family: Power
+    given: Russell
+  - family: Li
+    given: Jinyang
+  issued:
+  - year: '2012'
+  title: 'Oolong: Asynchronous distributed applications made easy'
+  title-short: Oolong
+  container-title: APSys
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/2349896.2349907
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/WangZK11
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xi
+  - family: Zeldovich
+    given: Nickolai
+  - family: Kaashoek
+    given: M. Frans
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: Retroactive auditing
+  container-title: APSys
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2103799.2103810
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/ChickCSBS15
+  type: paper-conference
+  author:
+  - family: Chick
+    given: Oliver R. A.
+  - family: Carata
+    given: Lucian
+  - family: Snee
+    given: James
+  - family: Balakrishnan
+    given: Nikilesh
+  - family: Sohan
+    given: Ripduman
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Shadow kernels: A general mechanism for kernel specialization in existing
+    operating systems'
+  title-short: Shadow kernels
+  container-title: APSys
+  publisher: ACM
+  page: 1:1-1:7
+  URL: http://doi.acm.org/10.1145/2797022.2797027
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/ChenSZG14
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Rong
+  - family: Shi
+    given: Jiaxin
+  - family: Zang
+    given: Binyu
+  - family: Guan
+    given: Haibing
+  issued:
+  - year: '2014'
+  title: Bipartite-oriented distributed graph partitioning for big learning
+  container-title: APSys
+  publisher: ACM
+  page: 14:1-14:7
+  URL: http://doi.acm.org/10.1145/2637166.2637236
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/ZhangGWLFZZ11
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Cheng
+  - family: Guo
+    given: Zhenyu
+  - family: Wu
+    given: Ming
+  - family: Lu
+    given: Longwen
+  - family: Fan
+    given: Yu
+  - family: Zhao
+    given: Jianjun
+  - family: Zhang
+    given: Zheng
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'AutoLog: Facing log redundancy and insufficiency'
+  title-short: AutoLog
+  container-title: APSys
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2103799.2103811
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/HooffLM15
+  type: paper-conference
+  author:
+  - family: Hooff
+    given: Jelle
+    dropping-particle: van den
+  - family: Lazar
+    given: David
+  - family: Mickens
+    given: James
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Mjölnir: The magical web application hammer'
+  title-short: Mjölnir
+  container-title: APSys
+  publisher: ACM
+  page: 11:1-11:8
+  URL: http://doi.acm.org/10.1145/2797022.2797025
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/YinR11
+  type: paper-conference
+  author:
+  - family: Yin
+    given: Qin
+  - family: Roscoe
+    given: Timothy
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: A better way to negotiate for testbed resources
+  container-title: APSys
+  publisher: ACM
+  page: '19'
+  URL: http://doi.acm.org/10.1145/2103799.2103822
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/GuVFSC11
+  type: paper-conference
+  author:
+  - family: Gu
+    given: Liang
+  - family: Vaynberg
+    given: Alexander
+  - family: Ford
+    given: Bryan
+  - family: Shao
+    given: Zhong
+  - family: Costanzo
+    given: David
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'CertiKOS: A certified kernel for secure cloud computing'
+  title-short: CertiKOS
+  container-title: APSys
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2103799.2103803
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/BhoraskarLHCSE14
+  type: paper-conference
+  author:
+  - family: Bhoraskar
+    given: Ravi
+  - family: Langenegger
+    given: Dominic
+  - family: He
+    given: Pingyang
+  - family: Cheng
+    given: Raymond
+  - family: Scott
+    given: Will
+  - family: Ernst
+    given: Michael D.
+  issued:
+  - year: '2014'
+  title: User scripting on android using bladeDroid
+  container-title: APSys
+  publisher: ACM
+  page: 9:1-9:7
+  URL: http://doi.acm.org/10.1145/2637166.2637228
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/LiuJJL15
+  type: paper-conference
+  author:
+  - family: Liu
+    given: Renju
+  - family: Jiang
+    given: Lintong
+  - family: Jiang
+    given: Ningzhe
+  - family: Lin
+    given: Felix Xiaozhu
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Anatomizing system activities on interactive wearable devices
+  container-title: APSys
+  publisher: ACM
+  page: 18:1-18:7
+  URL: http://doi.acm.org/10.1145/2797022.2797032
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/ChenCKMWZK13
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Haogang
+  - family: Cutler
+    given: Cody
+  - family: Kim
+    given: Taesoo
+  - family: Mao
+    given: Yandong
+  - family: Wang
+    given: Xi
+  - family: Zeldovich
+    given: Nickolai
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '2013'
+  title: Security bugs in embedded interpreters
+  container-title: APSys
+  publisher: ACM
+  page: 17:1-17:7
+  URL: http://doi.acm.org/10.1145/2500727.2500747
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/TierneyS14
+  type: paper-conference
+  author:
+  - family: Tierney
+    given: Matt
+  - family: Subramanian
+    given: Lakshminarayanan
+  issued:
+  - year: '2014'
+  title: Realizing privacy by definition in social networks
+  container-title: APSys
+  publisher: ACM
+  page: 6:1-6:7
+  URL: http://doi.acm.org/10.1145/2637166.2637232
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/KouraiO15
+  type: paper-conference
+  author:
+  - family: Kourai
+    given: Kenichi
+  - family: Ooba
+    given: Hiroki
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Zero-copy migration for lightweight software rejuvenation of virtualized
+    systems
+  container-title: APSys
+  publisher: ACM
+  page: 7:1-7:8
+  URL: http://doi.acm.org/10.1145/2797022.2797026
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/LiLWZ12
+  type: paper-conference
+  author:
+  - family: Li
+    given: Xu
+  - family: Lu
+    given: Kai
+  - family: Wang
+    given: Xiaoping
+  - family: Zhou
+    given: Xu
+  issued:
+  - year: '2012'
+  title: 'NV-process: A fault-tolerance process model based on non-volatile memory'
+  title-short: NV-process
+  container-title: APSys
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2349896.2349897
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/BaeJP15
+  type: paper-conference
+  author:
+  - family: Bae
+    given: Sangwook
+  - family: Jang
+    given: Dahyun
+  - family: Park
+    given: KyoungSoo
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Why is hTTP adaptive streaming so hard?
+  container-title: APSys
+  publisher: ACM
+  page: 12:1-12:8
+  URL: http://doi.acm.org/10.1145/2797022.2797031
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/YuanGC14
+  type: paper-conference
+  author:
+  - family: Yuan
+    given: Pengfei
+  - family: Guo
+    given: Yao
+  - family: Chen
+    given: Xiangqun
+  issued:
+  - year: '2014'
+  title: Experiences in profile-guided operating system kernel optimization
+  container-title: APSys
+  publisher: ACM
+  page: 4:1-4:6
+  URL: http://doi.acm.org/10.1145/2637166.2637227
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/BlackhamH12
+  type: paper-conference
+  author:
+  - family: Blackham
+    given: Bernard
+  - family: Heiser
+    given: Gernot
+  issued:
+  - year: '2012'
+  title: 'Correct, fast, maintainable: Choose any three!'
+  title-short: Correct, fast, maintainable
+  container-title: APSys
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2349896.2349909
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/ZhangF13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Yu
+  - family: Ford
+    given: Bryan
+  issued:
+  - year: '2013'
+  title: 'Lazy tree mapping: Generalizing and scaling deterministic parallelism'
+  title-short: Lazy tree mapping
+  container-title: APSys
+  publisher: ACM
+  page: 20:1-20:7
+  URL: http://doi.acm.org/10.1145/2500727.2500740
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/WuWJ15
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Xingbo
+  - family: Wang
+    given: Wenguang
+  - family: Jiang
+    given: Song
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'TotalCOW: Unleash the power of copy-on-write for thin-provisioned containers'
+  title-short: TotalCOW
+  container-title: APSys
+  publisher: ACM
+  page: 15:1-15:7
+  URL: http://doi.acm.org/10.1145/2797022.2797024
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/ZhuRLL12
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Nan
+  - family: Rao
+    given: Lei
+  - family: Liu
+    given: Xue
+  - family: Liu
+    given: Jie
+  issued:
+  - year: '2012'
+  title: 'Handling more data with less cost: Taming power peaks in mapReduce clusters'
+  title-short: Handling more data with less cost
+  container-title: APSys
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/2349896.2349899
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/LazarCWZ14
+  type: paper-conference
+  author:
+  - family: Lazar
+    given: David
+  - family: Chen
+    given: Haogang
+  - family: Wang
+    given: Xi
+  - family: Zeldovich
+    given: Nickolai
+  issued:
+  - year: '2014'
+  title: 'Why does cryptographic software fail?: A case study and open problems'
+  title-short: Why does cryptographic software fail?
+  container-title: APSys
+  publisher: ACM
+  page: 7:1-7:7
+  URL: http://doi.acm.org/10.1145/2637166.2637237
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/VolosPNS13
+  type: paper-conference
+  author:
+  - family: Volos
+    given: Haris
+  - family: Panneerselvam
+    given: Sankaralingam
+  - family: Nalli
+    given: Sanketh
+  - family: Swift
+    given: Michael M.
+  issued:
+  - year: '2013'
+  title: Storage-class memory needs flexible interfaces
+  container-title: APSys
+  publisher: ACM
+  page: 11:1-11:7
+  URL: http://doi.acm.org/10.1145/2500727.2500732
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/ZellwegerSR12
+  type: paper-conference
+  author:
+  - family: Zellweger
+    given: Gerd
+  - family: Schüpbach
+    given: Adrian
+  - family: Roscoe
+    given: Timothy
+  issued:
+  - year: '2012'
+  title: Unifying synchronization and events in a multicore oS
+  container-title: APSys
+  publisher: ACM
+  page: '16'
+  URL: http://doi.acm.org/10.1145/2349896.2349912
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/LiKamWaWCLZ14
+  type: paper-conference
+  author:
+  - family: LiKamWa
+    given: Robert
+  - family: Wang
+    given: Zhen
+  - family: Carroll
+    given: Aaron
+  - family: Lin
+    given: Felix Xiaozhu
+  - family: Zhong
+    given: Lin
+  issued:
+  - year: '2014'
+  title: 'Draining our glass: An energy and heat characterization of google glass'
+  title-short: Draining our glass
+  container-title: APSys
+  publisher: ACM
+  page: 10:1-10:7
+  URL: http://doi.acm.org/10.1145/2637166.2637230
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/XuLZ14
+  type: paper-conference
+  author:
+  - family: '0012'
+    given: Chao Xu
+  - family: Lin
+    given: Felix Xiaozhu
+  - family: Zhong
+    given: Lin
+  issued:
+  - year: '2014'
+  title: Device drivers should not do power management
+  container-title: APSys
+  publisher: ACM
+  page: 11:1-11:7
+  URL: http://doi.acm.org/10.1145/2637166.2637233
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/YinR12
+  type: paper-conference
+  author:
+  - family: Yin
+    given: Qin
+  - family: Roscoe
+    given: Timothy
+  issued:
+  - year: '2012'
+  title: Towards realistic benchmarks for virtual infrastructure resource allocators
+  container-title: APSys
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/2349896.2349901
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/LiMHXZCL14
+  type: paper-conference
+  author:
+  - family: Li
+    given: Wenhao
+  - family: Ma
+    given: Mingyang
+  - family: Han
+    given: Jinchen
+  - family: Xia
+    given: Yubin
+  - family: Zang
+    given: Binyu
+  - family: Chu
+    given: Cheng-Kang
+  - family: Li
+    given: Tieyan
+  issued:
+  - year: '2014'
+  title: Building trusted path on untrusted device drivers for mobile devices
+  container-title: APSys
+  publisher: ACM
+  page: 8:1-8:7
+  URL: http://doi.acm.org/10.1145/2637166.2637225
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/DattaO12
+  type: paper-conference
+  author:
+  - family: Datta
+    given: Anwitaman
+  - family: Oggier
+    given: Frédérique E.
+  issued:
+  - year: '2012'
+  title: Redundantly grouped cross-object coding for repairable storage
+  container-title: APSys
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/2349896.2349898
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/CarrollH13
+  type: paper-conference
+  author:
+  - family: Carroll
+    given: Aaron
+  - family: Heiser
+    given: Gernot
+  issued:
+  - year: '2013'
+  title: The systems hacker’s guide to the galaxy energy usage in a modern smartphone
+  container-title: APSys
+  publisher: ACM
+  page: 5:1-5:7
+  URL: http://doi.acm.org/10.1145/2500727.2500734
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/LeeOKCLN13
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Jongmin
+  - family: Oh
+    given: Yongseok
+  - family: Kwon
+    given: Hunki
+  - family: Choi
+    given: Jongmoo
+  - family: Lee
+    given: Donghee
+  - family: Noh
+    given: Sam H.
+  issued:
+  - year: '2013'
+  title: 'TinyFTL: An fTL architecture for flash memory cards with scarce resources'
+  title-short: TinyFTL
+  container-title: APSys
+  publisher: ACM
+  page: 16:1-16:5
+  URL: http://doi.acm.org/10.1145/2500727.2500741
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/AgarwalJP15
+  type: paper-conference
+  author:
+  - family: Agarwal
+    given: Kavita
+  - family: Jain
+    given: Bhushan
+  - family: Porter
+    given: Donald E.
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Containing the hype
+  container-title: APSys
+  publisher: ACM
+  page: 8:1-8:9
+  URL: http://doi.acm.org/10.1145/2797022.2797029
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/KotoYOK12
+  type: paper-conference
+  author:
+  - family: Koto
+    given: Akane
+  - family: Yamada
+    given: Hiroshi
+  - family: Ohmura
+    given: Kei
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2012'
+  title: Towards unobtrusive vM live migration for cloud computing platforms
+  container-title: APSys
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/2349896.2349903
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/YuLLQG11
+  type: paper-conference
+  author:
+  - family: Yu
+    given: Miao
+  - family: Lin
+    given: Qian
+  - family: Li
+    given: Bingyu
+  - family: Qi
+    given: Zhengwei
+  - family: Guan
+    given: Haibing
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'Vis: Virtualization enhanced live acquisition for native system'
+  title-short: Vis
+  container-title: APSys
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2103799.2103815
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/BoosSZ15
+  type: paper-conference
+  author:
+  - family: Boos
+    given: Kevin
+  - family: Sani
+    given: Ardalan Amiri
+  - family: Zhong
+    given: Lin
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Eliminating state entanglement with checkpoint-based virtualization of mobile
+    oS services
+  container-title: APSys
+  publisher: ACM
+  page: 20:1-20:8
+  URL: http://doi.acm.org/10.1145/2797022.2797041
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/KimSL11
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Junghyun
+  - family: Seo
+    given: Sangmin
+  - family: Lee
+    given: Jaejin
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: An efficient software shared virtual memory for the single-chip cloud computer
+  container-title: APSys
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2103799.2103804
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/WangCCJZK12
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Xi
+  - family: Chen
+    given: Haogang
+  - family: Cheung
+    given: Alvin
+  - family: Jia
+    given: Zhihao
+  - family: Zeldovich
+    given: Nickolai
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '2012'
+  title: 'Undefined behavior: What happened to my code?'
+  title-short: Undefined behavior
+  container-title: APSys
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2349896.2349905
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/ChothiaYR14
+  type: paper-conference
+  author:
+  - family: Chothia
+    given: Zaheer
+  - family: Yin
+    given: Qin
+  - family: Roscoe
+    given: Timothy
+  issued:
+  - year: '2014'
+  title: Grok the data center
+  container-title: APSys
+  publisher: ACM
+  page: 1:1-1:7
+  URL: http://doi.acm.org/10.1145/2637166.2637234
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/2013
+  type: book
+  issued:
+  - year: '2013'
+  title: Asia-pacific workshop on systems, aPSys ’13, singapore, singapore, july 29-30,
+    2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2500727
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/AmaniRDHLZ11
+  type: paper-conference
+  author:
+  - family: Amani
+    given: Sidney
+  - family: Ryzhyk
+    given: Leonid
+  - family: Donaldson
+    given: Alastair F.
+  - family: Heiser
+    given: Gernot
+  - family: Legg
+    given: Alexander
+  - family: Zhu
+    given: Yanjin
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'Static analysis of device drivers: We can do better!'
+  title-short: Static analysis of device drivers
+  container-title: APSys
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2103799.2103809
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/KengWJB13
+  type: paper-conference
+  author:
+  - family: Keng
+    given: Joseph Chan Joo
+  - family: Wee
+    given: Tan Kiat
+  - family: Jiang
+    given: Lingxiao
+  - family: Balan
+    given: Rajesh Krishna
+  issued:
+  - year: '2013'
+  title: 'The case for mobile forensics of private data leaks: Towards large-scale
+    user-oriented privacy protection'
+  title-short: The case for mobile forensics of private data leaks
+  container-title: APSys
+  publisher: ACM
+  page: 6:1-6:7
+  URL: http://doi.acm.org/10.1145/2500727.2500733
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/SonCEY13
+  type: paper-conference
+  author:
+  - family: Son
+    given: Yongseok
+  - family: Choi
+    given: Jae-Woo
+  - family: Eom
+    given: Hyeonsang
+  - family: Yeom
+    given: Heon Young
+  issued:
+  - year: '2013'
+  title: Optimizing the file system with variable-length i/O for fast storage devices
+  container-title: APSys
+  publisher: ACM
+  page: 14:1-14:6
+  URL: http://doi.acm.org/10.1145/2500727.2500735
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/WangCLZSC15
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Peng
+  - family: Cao
+    given: Le
+  - family: Lai
+    given: Chunbo
+  - family: Zou
+    given: Leqi
+  - family: Sun
+    given: Guangyu
+  - family: Cong
+    given: Jason
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'InterFS: An interplanted distributed file system to improve storage utilization'
+  title-short: InterFS
+  container-title: APSys
+  publisher: ACM
+  page: 14:1-14:8
+  URL: http://doi.acm.org/10.1145/2797022.2797036
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/BlackhamSH11
+  type: paper-conference
+  author:
+  - family: Blackham
+    given: Bernard
+  - family: Shi
+    given: Yao
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'Protected hard real-time: The next frontier'
+  title-short: Protected hard real-time
+  container-title: APSys
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2103799.2103801
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/KashyapMK15
+  type: paper-conference
+  author:
+  - family: Kashyap
+    given: Sanidhya
+  - family: Min
+    given: Changwoo
+  - family: Kim
+    given: Taesoo
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Scalability in the clouds!: A myth or reality?'
+  title-short: Scalability in the clouds!
+  container-title: APSys
+  publisher: ACM
+  page: 5:1-5:7
+  URL: http://doi.acm.org/10.1145/2797022.2797037
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/YamadaK11
+  type: paper-conference
+  author:
+  - family: Yamada
+    given: Hiroshi
+  - family: Kono
+    given: Kenji
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: Traveling forward in time to newer operating systems using shadowReboot
+  container-title: APSys
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2103799.2103814
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/LiuC12
+  type: paper-conference
+  author:
+  - family: '0003'
+    given: Ran Liu
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2012'
+  title: 'SSMalloc: A low-latency, locality-conscious memory allocator with stable
+    performance scalability'
+  title-short: SSMalloc
+  container-title: APSys
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/2349896.2349911
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/2014
+  type: book
+  issued:
+  - year: '2014'
+  title: Asia-pacific workshop on systems, aPSys’14, beijing, china, june 25-26, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2637166
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/SchwarzkopfGH13
+  type: paper-conference
+  author:
+  - family: Schwarzkopf
+    given: Malte
+  - family: Grosvenor
+    given: Matthew P.
+  - family: Hand
+    given: Steven
+  issued:
+  - year: '2013'
+  title: 'New wine in old skins: The case for distributed operating systems in the
+    data center'
+  title-short: New wine in old skins
+  container-title: APSys
+  publisher: ACM
+  page: 9:1-9:7
+  URL: http://doi.acm.org/10.1145/2500727.2500739
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/KimCZ13
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Taesoo
+  - family: Chandra
+    given: Ramesh
+  - family: Zeldovich
+    given: Nickolai
+  issued:
+  - year: '2013'
+  title: Optimizing unit test execution in large software programs using dependency
+    analysis
+  container-title: APSys
+  publisher: ACM
+  page: 19:1-19:6
+  URL: http://doi.acm.org/10.1145/2500727.2500748
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/2015
+  type: book
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: Proceedings of the 6th asia-pacific workshop on systems, aPSys 2015, tokyo,
+    japan, july 27-28, 2015
+  publisher: ACM
+  URL: http://doi.acm.org/10.1145/2797022
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/ZhuoZPKA14
+  type: paper-conference
+  author:
+  - family: Zhuo
+    given: Danyang
+  - family: Zhang
+    given: Qiao
+  - family: Ports
+    given: Dan R. K.
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Anderson
+    given: Thomas E.
+  issued:
+  - year: '2014'
+  title: Machine fault tolerance for reliable datacenter systems
+  container-title: APSys
+  publisher: ACM
+  page: 3:1-3:7
+  URL: http://doi.acm.org/10.1145/2637166.2637235
+  ISBN: '978-1-4503-3024-4'
+
+- id: conf/apsys/KimHJPM12
+  type: paper-conference
+  author:
+  - family: Kim
+    given: Joongi
+  - family: Huh
+    given: Seonggu
+  - family: Jang
+    given: Keon
+  - family: Park
+    given: KyoungSoo
+  - family: Moon
+    given: Sue B.
+  issued:
+  - year: '2012'
+  title: The power of batching in the click modular router
+  container-title: APSys
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/2349896.2349910
+  ISBN: '978-1-4503-1669-9'
+
+- id: conf/apsys/YuanGC15
+  type: paper-conference
+  author:
+  - family: Yuan
+    given: Pengfei
+  - family: Guo
+    given: Yao
+  - family: Chen
+    given: Xiangqun
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'Rethinking compiler optimizations for the linux kernel: An explorative
+    study'
+  title-short: Rethinking compiler optimizations for the linux kernel
+  container-title: APSys
+  publisher: ACM
+  page: 2:1-2:7
+  URL: http://doi.acm.org/10.1145/2797022.2797030
+  ISBN: '978-1-4503-3554-6'
+
+- id: conf/apsys/WangJKLL13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Wei
+  - family: Joshi
+    given: Raj
+  - family: Kulkarni
+    given: Aditya
+  - family: Leong
+    given: Wai Kay
+  - family: Leong
+    given: Ben
+  issued:
+  - year: '2013'
+  title: Feasibility study of mobile phone wiFi detection in aerial search and rescue
+    operations
+  container-title: APSys
+  publisher: ACM
+  page: 7:1-7:6
+  URL: http://doi.acm.org/10.1145/2500727.2500729
+  ISBN: '978-1-4503-2316-1'
+
+- id: conf/apsys/TrivediMS11
+  type: paper-conference
+  author:
+  - family: Trivedi
+    given: Animesh
+  - family: Metzler
+    given: Bernard
+  - family: Stuedi
+    given: Patrick
+  editor:
+  - family: Chen
+    given: Haibo
+  issued:
+  - year: '2011'
+  title: 'A case for rDMA in clouds: Turning supercomputer networking into commodity'
+  title-short: A case for rDMA in clouds
+  container-title: APSys
+  publisher: ACM
+  page: '17'
+  URL: http://doi.acm.org/10.1145/2103799.2103820
+  ISBN: '978-1-4503-1179-3'
+
+- id: conf/apsys/LeeKPH15
+  type: paper-conference
+  author:
+  - family: Lee
+    given: Byeoksan
+  - family: Kim
+    given: Seong Min
+  - family: Park
+    given: Eru
+  - family: Han
+    given: Dongsu
+  editor:
+  - family: Kono
+    given: Kenji
+  issued:
+  - year: '2015'
+  title: 'MemScope: Analyzing memory duplication on android systems'
+  title-short: MemScope
+  container-title: APSys
+  publisher: ACM
+  page: 19:1-19:7
+  URL: http://doi.acm.org/10.1145/2797022.2797023
+  ISBN: '978-1-4503-3554-6'
+...

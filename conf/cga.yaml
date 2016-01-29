@@ -1,0 +1,912 @@
+---
+references:
+- id: conf/cga/Durst91
+  type: paper-conference
+  author:
+  - family: Dürst
+    given: Martin J.
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Preclassification and delayed classification of boundary entities in arbitrary
+    dimensions
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-69'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_5
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/1988
+  type: book
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Computational geometry and its applications, cG’88, international workshop
+    on computational geometry, würzburg, germany, march 24-25, 1988
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '333'
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/BlankenagelG88
+  type: paper-conference
+  author:
+  - family: Blankenagel
+    given: Gabriele
+  - family: Güting
+    given: Ralf Hartmut
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Internal and external algorithms for the points-in-regions problem - the
+    inside join of geo-relational algebra
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-89'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_26
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Huckenbeck88
+  type: paper-conference
+  author:
+  - family: Huckenbeck
+    given: Ulrich
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Geometrical abstract automata
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-231'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_37
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/NievergeltSLAB91
+  type: paper-conference
+  author:
+  - family: Nievergelt
+    given: Jürg
+  - family: Schorn
+    given: Peter
+  - family: Lorenzi
+    given: Michele De
+  - family: Ammann
+    given: Christoph
+  - family: Brüngger
+    given: Adrian
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: 'XYZ: A project in experimental geometric computation'
+  title-short: XYZ
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '171-186'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_13
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Schreiber91
+  type: paper-conference
+  author:
+  - family: Schreiber
+    given: Thomas
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: A voronoi diagram based adaptive k-means-type clustering algorithm for multidimenstional
+    weighted data
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '265-275'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_20
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Wagener88
+  type: paper-conference
+  author:
+  - family: Wagener
+    given: Hubert
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Triangulating a monotone polygon in parallel
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '136-147'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_30
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/GaoKMRSJ88
+  type: paper-conference
+  author:
+  - family: Gao
+    given: Shaodi
+  - family: '0001'
+    given: Michael Kaufmann
+  - family: Mehlhorn
+    given: Kurt
+  - family: Rülling
+    given: Wolfgang
+  - family: Storb
+    given: Christoph
+  - family: Jerrum
+    given: Mark
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: On continuous homotopic one layer routing
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-70'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_24
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/SchneiderK91
+  type: paper-conference
+  author:
+  - family: Schneider
+    given: Ralf
+  - family: Kriegel
+    given: Hans-Peter
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: 'The tR\*-tree: A new representation of polygonal objects supporting spatial
+    queries and operations'
+  title-short: The tR\*-tree
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-263'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_19
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/AurenhammerSW91
+  type: paper-conference
+  author:
+  - family: Aurenhammer
+    given: Franz
+  - family: Stöckl
+    given: Gerd
+  - family: Welzl
+    given: Emo
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: The post office problem for fuzzy point sets
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-11'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_1
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/HinrichsNS88
+  type: paper-conference
+  author:
+  - family: Hinrichs
+    given: Klaus H.
+  - family: Nievergelt
+    given: Jürg
+  - family: Schorn
+    given: Peter
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: A sweep algorithm for the all-nearest-neighbors problem
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-54'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_23
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Stifter91
+  type: paper-conference
+  author:
+  - family: Stifter
+    given: Sabine
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Predictions about collision free paths from intersection tests
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '309-320'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_23
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Reichling88
+  type: paper-conference
+  author:
+  - family: Reichling
+    given: Matthias
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: On the detection of a common intersection of k convex polyhedra
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '180-186'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_34
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Simon91
+  type: paper-conference
+  author:
+  - family: Simon
+    given: Klaus
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: A new simple linear algorithm to recognize interval graphs
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '289-308'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_22
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Hinterberger88
+  type: paper-conference
+  author:
+  - family: Hinterberger
+    given: Hans
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Using graphical information from a grid file’s directory to visualize patterns
+    in cartesian product spaces
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-14'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_20
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Noltemeier91
+  type: paper-conference
+  author:
+  - family: Noltemeier
+    given: Hartmut
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Layout of flexible manufacturing systems - selected problems
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-225'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_16
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Meiser88
+  type: paper-conference
+  author:
+  - family: Meiser
+    given: Stefan
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Point location in arrangements
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-84'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_25
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/DominguezG91
+  type: paper-conference
+  author:
+  - family: Dominguez
+    given: Salvador
+  - family: Günther
+    given: Oliver
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Performance analysis of three curve presentation schemes
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-56'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_4
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/1991
+  type: book
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Computational geometry - methods, algorithms and applications, international
+    workshop on computational geometry cG’91, bern, switzerland, march 21-22, 1991
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '553'
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/FangB91
+  type: paper-conference
+  author:
+  - family: Fang
+    given: Shiaofen
+  - family: Brüderlin
+    given: Beat D.
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Robustness in geometric modeling - tolerance-based methods
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-101'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_7
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/JiangB91
+  type: paper-conference
+  author:
+  - family: Jiang
+    given: Xiaoyi
+  - family: Bunke
+    given: Horst
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Determination of the symmetries of polyhedra and an application to object
+    recognition
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-121'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_9
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Buckley88
+  type: paper-conference
+  author:
+  - family: Buckley
+    given: Charles E.
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: A divide-and-conquer algorithm for computing 4-dimensional convex hulls
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '113-135'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_29
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Monney91
+  type: paper-conference
+  author:
+  - family: Monney
+    given: Paul-André
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Planar geometric reasoning with the theory of hints
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-159'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_11
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Engel91
+  type: paper-conference
+  author:
+  - family: Engel
+    given: Peter
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: On the morphology of polytoped in rd
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-83'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_6
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Muller88
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Heinrich
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Time coherence in computer animation by ray tracing
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-201'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_35
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/BieriN88
+  type: paper-conference
+  author:
+  - family: Bieri
+    given: Hanspeter
+  - family: Nef
+    given: Walter
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Elementary set operations with d-dimensional polyhedra
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '97-112'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_28
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Guting88
+  type: paper-conference
+  author:
+  - family: Güting
+    given: Ralf Hartmut
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: 'Geo-relational algebra: A model and query language for geometric database
+    systems'
+  title-short: Geo-relational algebra
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-96'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_27
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Klein91
+  type: paper-conference
+  author:
+  - family: Klein
+    given: Rolf
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Moving along a street
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-140'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_10
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/SchuiererRW91
+  type: paper-conference
+  author:
+  - family: Schuierer
+    given: Sven
+  - family: Rawlins
+    given: Gregory J. E.
+  - family: Wood
+    given: Derick
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: A generalization of staircase visibility
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '277-287'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_21
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Abramowski88
+  type: paper-conference
+  author:
+  - family: Abramowski
+    given: Stephan
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Collision avoidance for nonrigid objects
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-179'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_33
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/MullerO91
+  type: paper-conference
+  author:
+  - family: Müller
+    given: Heinrich
+  - family: Otte
+    given: Matthias
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Solving algebraic systems in bernstein-bézier representation
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '161-169'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_12
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/RoosN91
+  type: paper-conference
+  author:
+  - family: Roos
+    given: Thomas
+  - family: Noltemeier
+    given: Hartmut
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Dynamic voronoi diagrams in motion planning
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '227-236'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_17
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Schipper91
+  type: paper-conference
+  author:
+  - family: Schipper
+    given: Haijo
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Generating triangulations of 2-manifolds
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-248'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_18
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Klein88
+  type: paper-conference
+  author:
+  - family: Klein
+    given: Rolf
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Abstract voronoi diagrams and their applications
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-157'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_31
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Bruderlin88
+  type: paper-conference
+  author:
+  - family: Brüderlin
+    given: Beat D.
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Automatizing geometric proofs and constructions
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '232-252'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_38
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/IhlerRW91
+  type: paper-conference
+  author:
+  - family: Ihler
+    given: Edmund
+  - family: Reich
+    given: Gabriele
+  - family: Widmayer
+    given: Peter
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: On shortest networks for classes of points in the plane
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-111'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_8
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/HeusingerN88
+  type: paper-conference
+  author:
+  - family: Heusinger
+    given: Hugo
+  - family: Noltemeier
+    given: Hartmut
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: On separable and rectangular clusterings
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-42'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_22
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/HutfleszWS88
+  type: paper-conference
+  author:
+  - family: Hutflesz
+    given: Andreas
+  - family: Widmayer
+    given: Peter
+  - family: Six
+    given: Hans-Werner
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: 'Twin grid files: A performance evaluation'
+  title-short: Twin grid files
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '15-24'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_21
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/BieriS91
+  type: paper-conference
+  author:
+  - family: Bieri
+    given: Hanspeter
+  - family: Schmidt
+    given: Peter-Michael
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: An on-line algorithm for constructing sweep planes in regular position
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '27-35'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_3
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/BeckerFGOTW91
+  type: paper-conference
+  author:
+  - family: Becker
+    given: Bruno
+  - family: Franciosa
+    given: Paolo Giulio
+  - family: Gschwind
+    given: Stephan
+  - family: Ohler
+    given: Thomas
+  - family: Thiemt
+    given: Gerald
+  - family: Widmayer
+    given: Peter
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: An optimal algorithm for approximating a set of rectangles by two minimum
+    area rectangles
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '13-25'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_2
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Aurenhammer88
+  type: paper-conference
+  author:
+  - family: Aurenhammer
+    given: Franz
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Using gale transforms in computational geometry
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '202-216'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_36
+  ISBN: '3-540-50335-8'
+
+- id: conf/cga/Schorn91
+  type: paper-conference
+  author:
+  - family: Schorn
+    given: Peter
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: 'Implementing the xYZ geoBench: A programming environment for geometric
+    algorithms'
+  title-short: Implementing the xYZ geoBench
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '187-202'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_14
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/NilssonS91
+  type: paper-conference
+  author:
+  - family: Nilsson
+    given: Bengt J.
+  - family: Schuierer
+    given: Sven
+  editor:
+  - family: Bieri
+    given: Hanspeter
+  issued:
+  - year: '1991'
+  title: Computing the rectilinear link diameter of a polygon
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-215'
+  volume: '553'
+  DOI: 10.1007/3-540-54891-2_15
+  ISBN: '3-540-54891-2'
+
+- id: conf/cga/Hagen88
+  type: paper-conference
+  author:
+  - family: Hagen
+    given: Hans
+  editor:
+  - family: Noltemeier
+    given: Hartmut
+  issued:
+  - year: '1988'
+  title: Geometric modeling of smooth surfaces
+  container-title: Workshop on computational geometry
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-167'
+  volume: '333'
+  DOI: 10.1007/3-540-50335-8_32
+  ISBN: '3-540-50335-8'
+...

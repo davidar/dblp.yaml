@@ -1,0 +1,5617 @@
+---
+references:
+- id: conf/ifl/Erwig97
+  type: paper-conference
+  author:
+  - family: Erwig
+    given: Martin
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Fully persistent graphs - which one to choose?
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '123-140'
+  volume: '1467'
+  DOI: 10.1007/BFb0055428
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/BrownLBH10
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Christopher
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Berthold
+    given: Jost
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: 'Improving your cASH flow: The computer algebra sHell'
+  title-short: Improving your cASH flow
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-184'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_11
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/DomoszlaiLP14a
+  type: paper-conference
+  author:
+  - family: Domoszlai
+    given: László
+  - family: Lijnse
+    given: Bas
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: 'Parametric lenses: Change notification for bidirectional lenses'
+  title-short: Parametric lenses
+  container-title: IFL
+  publisher: ACM
+  page: 9:1-9:11
+  URL: http://doi.acm.org/10.1145/2746325.2746333
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/KoopmanPJ14
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  - family: Jansen
+    given: Jan Martin
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: 'Church encoding of data types considered harmful for implementations:
+    Functional pearl'
+  title-short: Church encoding of data types considered harmful for implementations
+  container-title: IFL
+  publisher: ACM
+  page: 4:1-4:12
+  URL: http://doi.acm.org/10.1145/2746325.2746330
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/SulzmannL07
+  type: paper-conference
+  author:
+  - family: Sulzmann
+    given: Martin
+  - family: Lu
+    given: Kenny Zhuo Ming
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: XHaskell - adding regular expression types to haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '75-92'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_5
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/JanssonJCEKMOV06
+  type: paper-conference
+  author:
+  - family: Jansson
+    given: Patrik
+  - family: Jeuring
+    given: Johan
+  - family: Cabenda
+    given: Laurence
+  - family: Engels
+    given: Gerbo
+  - family: Kleerekoper
+    given: Jacob
+  - family: Mak
+    given: Sander
+  - family: Overeem
+    given: Michiel
+  - family: Visser
+    given: Kees
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Testing properties of generic functions
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '217-234'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_13
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/VasconcelosH03
+  type: paper-conference
+  author:
+  - family: Vasconcelos
+    given: Pedro B.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Inferring cost equations for recursive, polymorphic and higher-order functional
+    programs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-101'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_6
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/DanvyM05
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Millikin
+    given: Kevin
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A rational deconstruction of landin’s j operator
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-73'
+  volume: '4015'
+  DOI: 10.1007/11964681_4
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/MitchellR07
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: Neil
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: A supercompiler for core haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '147-164'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_9
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/BerneckyHSTGS06
+  type: paper-conference
+  author:
+  - family: Bernecky
+    given: Robert
+  - family: Herhut
+    given: Stephan
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Trojahner
+    given: Kai
+  - family: Grelck
+    given: Clemens
+  - family: Shafarenko
+    given: Alexander V.
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Index vector elimination - making index vectors affordable
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-36'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_2
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Chakravarty97
+  type: paper-conference
+  author:
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Lazy thread and task creation in parallel graph-reduction
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-249'
+  volume: '1467'
+  DOI: 10.1007/BFb0055434
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/RuffJ06
+  type: paper-conference
+  author:
+  - family: Ruff
+    given: Laura
+  - family: Jebelean
+    given: Tudor
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Functional-based synthesis of a systolic array for gCD computation
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-54'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_3
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Chakravarty99
+  type: paper-conference
+  author:
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: C -&gt; hASKELL, or yet another interfacing tool
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-148'
+  volume: '1868'
+  DOI: 10.1007/10722298_8
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/Hidalgo-HerreroOR06
+  type: paper-conference
+  author:
+  - family: Hidalgo-Herrero
+    given: Mercedes
+  - family: Ortega-Mallén
+    given: Yolanda
+  - family: Rubio
+    given: Fernando
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Comparing alternative evaluation strategies for stream-based parallel functional
+    languages
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-72'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_4
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/TellerSV08
+  type: paper-conference
+  author:
+  - family: Teller
+    given: David
+  - family: Spiwack
+    given: Arnaud
+  - family: Varoquaux
+    given: Till
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Catch me if you can - looking for type-safe, hierarchical, lightweight, polymorphic
+    and efficient error management in oCaml
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-271'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_14
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/AntoyHLT04
+  type: paper-conference
+  author:
+  - family: Antoy
+    given: Sergio
+  - family: Hanus
+    given: Michael
+  - family: Liu
+    given: Jimeng
+  - family: Tolmach
+    given: Andrew P.
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: A virtual machine for functional logic computations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-125'
+  volume: '3474'
+  DOI: 10.1007/11431664_7
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/Trancon-y-Widemann02
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: 'Stacking cycles: Functional transformation of circular data'
+  title-short: Stacking cycles
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '150-164'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_10
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/ChitilH06
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  - family: Huch
+    given: Frank
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: A pattern logic for prompt lazy assertions in haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-144'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_8
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Kleeblatt07
+  type: paper-conference
+  author:
+  - family: Kleeblatt
+    given: Dirk
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Checking dependent types using compiled code
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-182'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_10
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/JonesNO97
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Nordin
+    given: Thomas
+  - family: Oliva
+    given: Dino
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'C-: A portable assembly language'
+  title-short: C-
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '1467'
+  DOI: 10.1007/BFb0055421
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/HammondP99
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Portillo
+    given: Álvaro J. Rebón
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: 'HaskSkel: Algorithmic skeletons in haskell'
+  title-short: HaskSkel
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-198'
+  volume: '1868'
+  DOI: 10.1007/10722298_11
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/KoopmanATP02
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Alimarine
+    given: Artem
+  - family: Tretmans
+    given: Jan
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: 'Gast: Generic automated software testing'
+  title-short: Gast
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '84-100'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_6
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Magalhaes12
+  type: paper-conference
+  author:
+  - family: Magalhães
+    given: José Pedro
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Optimisation of generic programs through inlining
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '104-121'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_7
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/DebbabiFT96
+  type: paper-conference
+  author:
+  - family: Debbabi
+    given: Mourad
+  - family: Faour
+    given: Ali
+  - family: Tawbi
+    given: Nadia
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: A type-based algorithm for the control-flow analysis of higher-order concurrent
+    programs
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '247-266'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_29
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/LindahlS02
+  type: paper-conference
+  author:
+  - family: Lindahl
+    given: Tobias
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Unboxed compilation of floating point arithmetic in a dynamically typed language
+    environment
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-149'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_9
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/GrelckHS05
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Hinckfuß
+    given: Karsten
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: With-loop fusion for data locality and parallelism
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-195'
+  volume: '4015'
+  DOI: 10.1007/11964681_11
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/1999
+  type: book
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '2000'
+  title: Implementation of functional languages, 11th international workshop, iFL’99,
+    lochem, the netherlands, september 7-10, 1999, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1868'
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/Mackie08
+  type: paper-conference
+  author:
+  - family: Mackie
+    given: Ian
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: An interaction net implementation of closed reduction
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '43-59'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_3
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/BreitingerKL96
+  type: paper-conference
+  author:
+  - family: Breitinger
+    given: Silvia
+  - family: Klusik
+    given: Ulrike
+  - family: Loogen
+    given: Rita
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: An implementation of eden on top of concurrent haskell
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-161'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_23
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/Jaskelioff08
+  type: paper-conference
+  author:
+  - family: Jaskelioff
+    given: Mauro
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: 'Monatron: An extensible monad transformer library'
+  title-short: Monatron
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '233-248'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_13
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/LiT07
+  type: paper-conference
+  author:
+  - family: Li
+    given: Huiqing
+  - family: Thompson
+    given: Simon J.
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Testing erlang refactorings with quickCheck
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-36'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_2
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/1998
+  type: book
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1999'
+  title: Implementation of functional languages, 10th international workshop, iFL’98,
+    london, uK, september 9-11, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1595'
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/SieczkowskiBB10
+  type: paper-conference
+  author:
+  - family: Sieczkowski
+    given: Filip
+  - family: Biernacka
+    given: Malgorzata
+  - family: Biernacki
+    given: Dariusz
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: 'Automating derivations of abstract machines from reduction semantics:
+    - a generic formalization of refocusing in coq'
+  title-short: Automating derivations of abstract machines from reduction semantics
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-88'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_5
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/AronssonAS14
+  type: paper-conference
+  author:
+  - family: Aronsson
+    given: Markus
+  - family: Axelsson
+    given: Emil
+  - family: Sheeran
+    given: Mary
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Stream processing for embedded domain specific languages
+  container-title: IFL
+  publisher: ACM
+  page: 8:1-8:12
+  URL: http://doi.acm.org/10.1145/2746325.2746334
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/AchtenD03
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Generic graphical user interfaces
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '152-167'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_10
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/Reid98
+  type: paper-conference
+  author:
+  - family: Reid
+    given: Alastair
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: 'Putting the spine back in the spineless tagless g-machine: An implementation
+    of resumable black-holes'
+  title-short: Putting the spine back in the spineless tagless g-machine
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '186-199'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_12
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/AmorimGAH14
+  type: paper-conference
+  author:
+  - family: Amorim
+    given: Arthur Azevedo
+    dropping-particle: de
+  - family: Gaboardi
+    given: Marco
+  - family: Arias
+    given: Emilio Jesús Gallego
+  - family: Hsu
+    given: Justin
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Really natural linear indexed type checking
+  container-title: IFL
+  publisher: ACM
+  page: 5:1-5:12
+  URL: http://doi.acm.org/10.1145/2746325.2746335
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/GrelckST03
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Trojahner
+    given: Kai
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: With-loop scalarization - merging nested array operations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-134'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_8
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/MaierT11
+  type: paper-conference
+  author:
+  - family: Maier
+    given: Patrick
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Implementing a high-level distributed-memory parallel haskell in haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-50'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_3
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/2003
+  type: book
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2004'
+  title: Implementation of functional languages, 15th international workshop, iFL
+    2003, edinburgh, uK, september 8-11, 2003, revised papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3145'
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/Almendros-JimenezV06
+  type: paper-conference
+  author:
+  - family: Almendros-Jiménez
+    given: Jesús Manuel
+  - family: Vidal
+    given: Germán
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Automatic partial inversion of inductively sequential functions
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '253-270'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_15
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/2001
+  type: book
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2002'
+  title: Implementation of functional languages, 13th international workshop, iFL
+    2002 stockholm, sweden, september 24-26, 2001, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2312'
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/AlimarineP01
+  type: paper-conference
+  author:
+  - family: Alimarine
+    given: Artem
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: A generic programming extension for clean
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-185'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_11
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/AdsitF14
+  type: paper-conference
+  author:
+  - family: Adsit
+    given: Connor
+  - family: Fluet
+    given: Matthew
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: An efficient type- and control-flow analysis for system f
+  container-title: IFL
+  publisher: ACM
+  page: 3:1-3:14
+  URL: http://doi.acm.org/10.1145/2746325.2746327
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/Clerc12
+  type: paper-conference
+  author:
+  - family: Clerc
+    given: Xavier
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: 'OCaml-java: From oCaml sources to java bytecodes'
+  title-short: OCaml-java
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-85'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_5
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/EekelenM05
+  type: paper-conference
+  author:
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Mol
+    given: Maarten
+    dropping-particle: de
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: Proof tool support for explicit strictness
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-54'
+  volume: '4015'
+  DOI: 10.1007/11964681_3
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/NaylorR07
+  type: paper-conference
+  author:
+  - family: Naylor
+    given: Matthew
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: 'The reduceron: Widening the von neumann bottleneck for graph reduction
+    using an fPGA'
+  title-short: The reduceron
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '129-146'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_8
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/PetersenALG13
+  type: paper-conference
+  author:
+  - family: Petersen
+    given: Leaf
+  - family: Anderson
+    given: Todd A.
+  - family: Liu
+    given: Hai
+  - family: Glew
+    given: Neal
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: Measuring the haskell gap
+  container-title: IFL
+  publisher: ACM
+  page: '61'
+  URL: http://doi.acm.org/10.1145/2620678.2620685
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/Kozsik06
+  type: paper-conference
+  author:
+  - family: Kozsik
+    given: Tamás
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Proving program properties specified with subtype marks
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '163-180'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_10
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Hammond00
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: 'The dynamic properties of hume: A functionally-based concurrent language
+    with bounded time and space behaviour'
+  title-short: The dynamic properties of hume
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-139'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_8
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/WuMBS12
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Nicolas
+  - family: Magalhães
+    given: José Pedro
+  - family: Bransen
+    given: Jeroen
+  - family: Swierstra
+    given: Wouter
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Pure and lazy lambda mining - an experience report
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '207-223'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_13
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Groningen96
+  type: paper-conference
+  author:
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: The implementation and efficiency of arrays in clean 1.1
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-124'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_21
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/GrelckW13
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Wiesinger
+    given: Heinrich
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'Next generation asynchronous adaptive specialization for data-parallel
+    functional array processing in sAC: Accelerating the availability of specialized
+    high performance code'
+  title-short: Next generation asynchronous adaptive specialization for data-parallel
+    functional array processing in sAC
+  container-title: IFL
+  publisher: ACM
+  page: '117'
+  URL: http://doi.acm.org/10.1145/2620678.2620690
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/PitidisS10
+  type: paper-conference
+  author:
+  - family: Pitidis
+    given: Mihalis
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Purity in erlang
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-152'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_9
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/PlasmeijerA06
+  type: paper-conference
+  author:
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: A conference management system based on the iData toolkit
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '108-125'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_7
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Protzenko13
+  type: paper-conference
+  author:
+  - family: Protzenko
+    given: Jonathan
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: The implementation of the mezzo type-checker
+  container-title: IFL
+  publisher: ACM
+  page: '129'
+  URL: http://doi.acm.org/10.1145/2620678.2620684
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/LijnseP08
+  type: paper-conference
+  author:
+  - family: Lijnse
+    given: Bas
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Between types and tables - using generic programming for automated mapping
+    between data types and relational databases
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '272-290'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_15
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/AchtenAP02
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Alimarine
+    given: Artem
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: When generic functions use dynamic values
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-33'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_2
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Cristobal-SalasCRG04
+  type: paper-conference
+  author:
+  - family: Cristóbal-Salas
+    given: Alfredo
+  - family: Chernykh
+    given: Andrey
+  - family: Rodríguez-Alcantar
+    given: Edelmira
+  - family: Gaudiot
+    given: Jean-Luc
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Exploiting single-assignment properties to optimize message-passing programs
+    by code transformations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '3474'
+  DOI: 10.1007/11431664_1
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/CunhaPP05
+  type: paper-conference
+  author:
+  - family: Cunha
+    given: Alcino
+  - family: Pinto
+    given: Jorge Sousa
+  - family: Proença
+    given: José
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A framework for point-free program transformation
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '4015'
+  DOI: 10.1007/11964681_1
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/DomoszlaiLP14
+  type: paper-conference
+  author:
+  - family: Domoszlai
+    given: László
+  - family: Lijnse
+    given: Bas
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: 'Editlets: Type-based, client-side editors for iTasks'
+  title-short: Editlets
+  container-title: IFL
+  publisher: ACM
+  page: 6:1-6:13
+  URL: http://doi.acm.org/10.1145/2746325.2746331
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/Chitil99
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: Type-inference based short cut deforestation (nearly) without inlining
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-35'
+  volume: '1868'
+  DOI: 10.1007/10722298_2
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/2012
+  type: book
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2013'
+  title: Implementation and application of functional languages - 24th international
+    symposium, iFL 2012, oxford, uK, august 30 - september 1, 2012, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/HammondM02
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Michaelson
+    given: Greg
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Predictable space behaviour in fSM-hume
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_1
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Grelck00
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Improving cache effectiveness through array data layout manipulation in sAC
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '231-248'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_14
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/Mohnen96
+  type: paper-conference
+  author:
+  - family: Mohnen
+    given: Markus
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: Context patterns in haskell
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '41-57'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_18
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/AljabriLT13
+  type: paper-conference
+  author:
+  - family: Aljabri
+    given: Malak
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'The design and implementation of gUMSMP: A multilevel parallel haskell
+    implementation'
+  title-short: The design and implementation of gUMSMP
+  container-title: IFL
+  publisher: ACM
+  page: '37'
+  URL: http://doi.acm.org/10.1145/2620678.2620682
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/ChangBCF11
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Stephen
+  - family: Barzilay
+    given: Eli
+  - family: Clements
+    given: John
+  - family: Felleisen
+    given: Matthias
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: From stack traces to lazy rewriting sequences
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-115'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_7
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/Bagwell02
+  type: paper-conference
+  author:
+  - family: Bagwell
+    given: Phil
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Fast functional lists
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '34-50'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_3
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Choppella03
+  type: paper-conference
+  author:
+  - family: Choppella
+    given: Venkatesh
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Polymorphic type reconstruction using type equations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-68'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_4
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/ShkaravskaET08
+  type: paper-conference
+  author:
+  - family: Shkaravska
+    given: Olha
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Tamalet
+    given: Alejandro
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Collected size semantics for functional programs over lists
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-137'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_7
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/WaltS12
+  type: paper-conference
+  author:
+  - family: Walt
+    given: Paul
+    dropping-particle: van der
+  - family: Swierstra
+    given: Wouter
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Engineering proof by reflection in agda
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-173'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_10
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Reinke99
+  type: paper-conference
+  author:
+  - family: Reinke
+    given: Claus
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: Haskell-coloured petri nets
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-180'
+  volume: '1868'
+  DOI: 10.1007/10722298_10
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/2011
+  type: book
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2012'
+  title: Implementation and application of functional languages - 23rd international
+    symposium, iFL 2011, lawrence, kS, uSA, october 3-5, 2011, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/OrchardM12
+  type: paper-conference
+  author:
+  - family: Orchard
+    given: Dominic A.
+  - family: Mycroft
+    given: Alan
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: A notation for comonads
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_1
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Hinze08
+  type: paper-conference
+  author:
+  - family: Hinze
+    given: Ralf
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Scans and convolutions - a calculational proof of moessner’s theorem
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-24'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_1
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/BoeijinkHK10
+  type: paper-conference
+  author:
+  - family: Boeijink
+    given: Arjan
+  - family: Hölzenspies
+    given: Philip K. F.
+  - family: Kuper
+    given: Jan
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: 'Introducing the pilGRIM: A processor for executing lazy functional languages'
+  title-short: Introducing the pilGRIM
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-71'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_4
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/Groningen99
+  type: paper-conference
+  author:
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: Optimising recursive functions yielding multiple results in tuples in a lazy
+    functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '59-76'
+  volume: '1868'
+  DOI: 10.1007/10722298_4
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/Assmann98
+  type: paper-conference
+  author:
+  - family: Aßmann
+    given: Claus
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Performance results for an implementation of the process coordination language
+    k2
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_1
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/BradyH05
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A dependently typed framework for static analysis of program execution costs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '74-90'
+  volume: '4015'
+  DOI: 10.1007/11964681_5
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/WidemannP07
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  - family: Parnas
+    given: David Lorge
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Tabular expressions and total functional programming
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '219-236'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_13
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/LoidlH96
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: 'Making a packet: Cost-effective communication for a parallel graph reducer'
+  title-short: Making a packet
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '184-199'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_25
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/2008
+  type: book
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2011'
+  title: Implementation and application of functional languages - 20th international
+    symposium, iFL 2008, hatfield, uK, september 10-12, 2008. revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/PlasmeijerA05
+  type: paper-conference
+  author:
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: The implementation of iData
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '106-123'
+  volume: '4015'
+  DOI: 10.1007/11964681_7
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/Serrarens97
+  type: paper-conference
+  author:
+  - family: Serrarens
+    given: Pascal R.
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Using multicasting for optimising data-parallelism
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '270-284'
+  volume: '1467'
+  DOI: 10.1007/BFb0055436
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/FredrikssonGW14
+  type: paper-conference
+  author:
+  - family: Fredriksson
+    given: Olle
+  - family: Ghica
+    given: Dan R.
+  - family: Wheen
+    given: Bertram
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Towards native higher-order remote procedure calls
+  container-title: IFL
+  publisher: ACM
+  page: 10:1-10:12
+  URL: http://doi.acm.org/10.1145/2746325.2746332
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/JonesME99
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Marlow
+    given: Simon
+  - family: Elliott
+    given: Conal
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: 'Stretching the storage manager: Weak pointers and stable names in haskell'
+  title-short: Stretching the storage manager
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-58'
+  volume: '1868'
+  DOI: 10.1007/10722298_3
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/Feeley07
+  type: paper-conference
+  author:
+  - family: Feeley
+    given: Marc
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Speculative inlining of predefined procedures in an r5RS scheme to c compiler
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '237-253'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_14
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/DieterleHBL12
+  type: paper-conference
+  author:
+  - family: Dieterle
+    given: Mischa
+  - family: Horstmeyer
+    given: Thomas
+  - family: Berthold
+    given: Jost
+  - family: Loogen
+    given: Rita
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Iterating skeletons - structured parallelism by composition
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-36'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_2
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/ThiemannC12
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Agda meets accelerate
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-189'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_11
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/EllmenreichL02
+  type: paper-conference
+  author:
+  - family: Ellmenreich
+    given: Nils
+  - family: Lengauer
+    given: Christian
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: 'PolyAPM: Parallel programming via stepwise refinement with abstract parallel
+    machines'
+  title-short: PolyAPM
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '118-133'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_8
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/GrelckP08
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Penczek
+    given: Frank
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Implementation architecture and multithreaded runtime system of s-net
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '60-79'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_4
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/ZornerKEP00
+  type: paper-conference
+  author:
+  - family: Zörner
+    given: Thorsten H.-G.
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Polygonizing implicit surfaces in a purely functional way
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '158-175'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_10
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/Pil98
+  type: paper-conference
+  author:
+  - family: Pil
+    given: Marco
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Dynamic types and type dependent functions
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '169-185'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_11
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/PointonTL00
+  type: paper-conference
+  author:
+  - family: Pointon
+    given: Robert F.
+  - family: Trinder
+    given: Philip W.
+  - family: Loidl
+    given: Hans-Wolfgang
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: The design and implementation of glasgow distributed haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-70'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_4
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/MiddelkoopEP11
+  type: paper-conference
+  author:
+  - family: Middelkoop
+    given: Arie
+  - family: Elyasov
+    given: Alexander B.
+  - family: Prasetya
+    given: Wishnu
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Functional instrumentation of actionScript programs with asil
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-16'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_1
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/WangG08
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Yan
+  - family: Gaspes
+    given: Verónica
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: A library for processing ad hoc data in haskell - embedding a data description
+    language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '174-191'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_10
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/HammondGMI06
+  type: paper-conference
+  author:
+  - family: Hammond
+    given: Kevin
+  - family: Grov
+    given: Gudmund
+  - family: Michaelson
+    given: Greg
+  - family: Ireland
+    given: Andrew
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: 'Low-level programming in hume: An exploration of the hW-hume level'
+  title-short: Low-level programming in hume
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-107'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_6
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/DidrichGSTT99
+  type: paper-conference
+  author:
+  - family: Didrich
+    given: Klaus
+  - family: Grieskamp
+    given: Wolfgang
+  - family: Schintke
+    given: Florian
+  - family: Tantau
+    given: Till
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: Reflections in opal - meta information in a functional programming language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '149-164'
+  volume: '1868'
+  DOI: 10.1007/10722298_9
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/Page11
+  type: paper-conference
+  author:
+  - family: Page
+    given: Rex
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: 'Property-based testing and verification: A catalog of classroom examples'
+  title-short: Property-based testing and verification
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '134-147'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_9
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/2005
+  type: book
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2006'
+  title: Implementation and application of functional languages, 17th international
+    workshop, iFL 2005, dublin, ireland, september 19-21, 2005, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4015'
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/PenaS00
+  type: paper-conference
+  author:
+  - family: Pena
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Non-determinism analysis in a parallel-functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_1
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/Fluet12
+  type: paper-conference
+  author:
+  - family: Fluet
+    given: Matthew
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: A type- and control-flow analysis for system f
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '122-139'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_8
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Megacz11
+  type: paper-conference
+  author:
+  - family: Megacz
+    given: Adam
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Hardware design with generalized arrows
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '164-180'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_11
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/ShafarenkoSHGT05
+  type: paper-conference
+  author:
+  - family: Shafarenko
+    given: Alexander V.
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Herhut
+    given: Stephan
+  - family: Grelck
+    given: Clemens
+  - family: Trojahner
+    given: Kai
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: 'Implementing a numerical solution of the kPI equation using single assignment
+    c: Lessons and experiences'
+  title-short: Implementing a numerical solution of the kPI equation using single
+    assignment c
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-177'
+  volume: '4015'
+  DOI: 10.1007/11964681_10
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/GijzelN13
+  type: paper-conference
+  author:
+  - family: Gijzel
+    given: Bas
+    dropping-particle: van
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: Towards a framework for the implementation and verification of translations
+    between argumentation models
+  container-title: IFL
+  publisher: ACM
+  page: '93'
+  URL: http://doi.acm.org/10.1145/2620678.2620688
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/KoopmanPA08
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: An executable and testable semantics for iTasks
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-232'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_12
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/ButterfieldS01
+  type: paper-conference
+  author:
+  - family: Butterfield
+    given: Andrew
+  - family: Strong
+    given: Glenn
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Proving correctness of programs with iO - a paradigm comparison
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-87'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_5
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/WeeldenP02
+  type: paper-conference
+  author:
+  - family: Weelden
+    given: Arjen
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Towards a strongly typed functional operating system
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-231'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_14
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/HerhutJSPG10
+  type: paper-conference
+  author:
+  - family: Herhut
+    given: Stephan
+  - family: Joslin
+    given: Carl
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Poss
+    given: Raphael
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: 'Concurrent non-deferred reference counting on the microgrid: First experiences'
+  title-short: Concurrent non-deferred reference counting on the microgrid
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '185-202'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_12
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/Grelck98
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Shared memory multiprocessor support for sAC
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-53'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_3
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/2002
+  type: book
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2003'
+  title: Implementation of functional languages, 14th international workshop, iFL
+    2002, madrid, spain, september 16-18, 2002, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2670'
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/HolyerS97
+  type: paper-conference
+  author:
+  - family: Holyer
+    given: Ian
+  - family: Spiliopoulou
+    given: Eleni
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'The brisk machine: A simplified sTG machine'
+  title-short: The brisk machine
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-38'
+  volume: '1467'
+  DOI: 10.1007/BFb0055422
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/ODonnell00
+  type: paper-conference
+  author:
+  - family: O’Donnell
+    given: John
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: The collective semantics in functional sPMD programming
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '249-266'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_15
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/FowlerB13
+  type: paper-conference
+  author:
+  - family: Fowler
+    given: Simon
+  - family: Brady
+    given: Edwin
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: Dependent types for safe and secure web programming
+  container-title: IFL
+  publisher: ACM
+  page: '49'
+  URL: http://doi.acm.org/10.1145/2620678.2620683
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/JunaiduDH97
+  type: paper-conference
+  author:
+  - family: Junaidu
+    given: Sahalu B.
+  - family: Davie
+    given: Antony J. T.
+  - family: Hammond
+    given: Kevin
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'Naira: A parallel² haskell compiler'
+  title-short: Naira
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '214-230'
+  volume: '1467'
+  DOI: 10.1007/BFb0055433
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/WeeldenP03
+  type: paper-conference
+  author:
+  - family: Weelden
+    given: Arjen
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: A functional shell that dynamically combines compiled code
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-52'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_3
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/Wakeling97
+  type: paper-conference
+  author:
+  - family: Wakeling
+    given: David
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: A haskell to java virtual machine code compiler
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '39-52'
+  volume: '1467'
+  DOI: 10.1007/BFb0055423
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/MartinezP03
+  type: paper-conference
+  author:
+  - family: Martínez-Torres
+    given: Rafael
+  - family: Pena
+    given: Ricardo
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: 'Building an interface between eden and maple: A way of parallelizing computer
+    algebra algorithms'
+  title-short: Building an interface between eden and maple
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '135-151'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_9
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/Kluge99
+  type: paper-conference
+  author:
+  - family: Kluge
+    given: Werner E.
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: A reversible sE(M)CD machine
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '95-113'
+  volume: '1868'
+  DOI: 10.1007/10722298_6
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/HerhutSBGT07
+  type: paper-conference
+  author:
+  - family: Herhut
+    given: Stephan
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Bernecky
+    given: Robert
+  - family: Grelck
+    given: Clemens
+  - family: Trojahner
+    given: Kai
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: 'From contracts towards dependent types: Proofs by partial evaluation'
+  title-short: From contracts towards dependent types
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '254-273'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_15
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/RuncimanR96
+  type: paper-conference
+  author:
+  - family: Runciman
+    given: Colin
+  - family: Röjemo
+    given: Niklas
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: 'Two-pass heap profiling: A matter of life and death'
+  title-short: Two-pass heap profiling
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '222-232'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_27
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/ChitilRW00
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  - family: Runciman
+    given: Colin
+  - family: Wallace
+    given: Malcolm
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Freja, hat and hood - a comparative evaluation of three systems for tracing
+    and debugging lazy functional programs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '176-193'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_11
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/AxelssonCSSEP10
+  type: paper-conference
+  author:
+  - family: Axelsson
+    given: Emil
+  - family: Claessen
+    given: Koen
+  - family: Sheeran
+    given: Mary
+  - family: Svenningsson
+    given: Josef
+  - family: Engdal
+    given: David
+  - family: Persson
+    given: Anders
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: The design and implementation of feldspar - an embedded language for digital
+    signal processing
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-136'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_8
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/Pape98
+  type: paper-conference
+  author:
+  - family: Pape
+    given: Dirk
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Higher order demand propagation
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-168'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_10
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/WeeldenSP05
+  type: paper-conference
+  author:
+  - family: Weelden
+    given: Arjen
+    dropping-particle: van
+  - family: Smetsers
+    given: Sjaak
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: Polytypic syntax tree operations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-159'
+  volume: '4015'
+  DOI: 10.1007/11964681_9
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/Scholz98
+  type: paper-conference
+  author:
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: 'A case study: Effects of wITH-loop-folding on the nAS benchmark mG in
+    sAC'
+  title-short: A case study
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '216-228'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_14
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/SchreurP04
+  type: paper-conference
+  author:
+  - family: Schreur
+    given: Ronny Wichers
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Dynamic construction of generic functions
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-176'
+  volume: '3474'
+  DOI: 10.1007/11431664_10
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/HolyerS98
+  type: paper-conference
+  author:
+  - family: Holyer
+    given: Ian
+  - family: Spiliopoulou
+    given: Eleni
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Concurrent monadic interfacing
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-87'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_5
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/BrasselF08
+  type: paper-conference
+  author:
+  - family: Braßel
+    given: Bernd
+  - family: Fischer
+    given: Sebastian
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: From functional logic programs to purely functional programs preserving laziness
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '25-42'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_2
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/HuchN00
+  type: paper-conference
+  author:
+  - family: Huch
+    given: Frank
+  - family: Norbisrath
+    given: Ulrich
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Distributed programming in haskell with ports
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '107-121'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_7
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/StefanovS04
+  type: paper-conference
+  author:
+  - family: Stefanov
+    given: Ekaterina
+  - family: Sloane
+    given: Anthony M.
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Simple, effective code-size reduction for functional programs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '211-225'
+  volume: '3474'
+  DOI: 10.1007/11431664_13
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/SeguraP03
+  type: paper-conference
+  author:
+  - family: Segura
+    given: Clara
+  - family: Pena
+    given: Ricardo
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Correctness of non-determinism analyses in a parallel-functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-85'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_5
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/HinzeHJ10
+  type: paper-conference
+  author:
+  - family: Hinze
+    given: Ralf
+  - family: Harper
+    given: Thomas
+  - family: James
+    given: Daniel W. H.
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Theory and practice of fusion
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-37'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_2
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/LoidlT97
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Engineering large parallel functional programs
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '178-197'
+  volume: '1467'
+  DOI: 10.1007/BFb0055431
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Gast04
+  type: paper-conference
+  author:
+  - family: Gast
+    given: Holger
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Explaining mL type errors by data flows
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-89'
+  volume: '3474'
+  DOI: 10.1007/11431664_5
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/GrelckSS05
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Scholz
+    given: Sven-Bodo
+  - family: Shafarenko
+    given: Alexander V.
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A binding scope analysis for generic programs on arrays
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '212-230'
+  volume: '4015'
+  DOI: 10.1007/11964681_13
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/JarvisM96
+  type: paper-conference
+  author:
+  - family: Jarvis
+    given: Stephen A.
+  - family: Morgan
+    given: Richard G.
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: 'The results of: Profiling large-scale lazy functional programs'
+  title-short: The results of
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-221'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_26
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/HackettHJ13
+  type: paper-conference
+  author:
+  - family: Hackett
+    given: Jennifer
+  - family: Hutton
+    given: Graham
+  - family: Jaskelioff
+    given: Mauro
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'The under-performing unfold: A new approach to optimising corecursive
+    programs'
+  title-short: The under-performing unfold
+  container-title: IFL
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/2620678.2620679
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/DowseSB02
+  type: paper-conference
+  author:
+  - family: Dowse
+    given: Malcolm
+  - family: Strong
+    given: Glenn
+  - family: Butterfield
+    given: Andrew
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: 'Proving make correct: I/O proofs in haskell and clean'
+  title-short: Proving make correct
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '68-83'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_5
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/BentonKLR04
+  type: paper-conference
+  author:
+  - family: Benton
+    given: Nick
+  - family: Kennedy
+    given: Andrew
+  - family: Lindley
+    given: Sam
+  - family: Russo
+    given: Claudio V.
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Shrinking reductions in sML.NET
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '142-159'
+  volume: '3474'
+  DOI: 10.1007/11431664_9
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/VieraS13
+  type: paper-conference
+  author:
+  - family: Viera
+    given: Marcos
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: First class syntax, semantics, and their composition
+  container-title: IFL
+  publisher: ACM
+  page: '73'
+  URL: http://doi.acm.org/10.1145/2620678.2620686
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/GrelckKS99
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Kreye
+    given: Dietmar
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: On code generation for multi-generator wITH-loops in sAC
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '77-94'
+  volume: '1868'
+  DOI: 10.1007/10722298_5
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/PerssonAS11
+  type: paper-conference
+  author:
+  - family: Persson
+    given: Anders
+  - family: Axelsson
+    given: Emil
+  - family: Svenningsson
+    given: Josef
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Generic monadic constructs for embedded languages
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-99'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_6
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/DowseBE04
+  type: paper-conference
+  author:
+  - family: Dowse
+    given: Malcolm
+  - family: Butterfield
+    given: Andrew
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Reasoning about deterministic concurrent functional i/O
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-194'
+  volume: '3474'
+  DOI: 10.1007/11431664_11
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/IonescuJ12
+  type: paper-conference
+  author:
+  - family: Ionescu
+    given: Cezar
+  - family: Jansson
+    given: Patrik
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Dependently-typed programming in scientific computing - examples from economic
+    modelling
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-156'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_9
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/PenaS01a
+  type: paper-conference
+  author:
+  - family: Pena
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: A polynomial-cost non-determinism analysis
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '121-137'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_8
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/WieringAP99
+  type: paper-conference
+  author:
+  - family: Wiering
+    given: Mike
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: Using clean for platform games
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '1868'
+  DOI: 10.1007/10722298_1
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/TrojahnerGS06
+  type: paper-conference
+  author:
+  - family: Trojahner
+    given: Kai
+  - family: Grelck
+    given: Clemens
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: On optimising shape-generic array programs using symbolic structural information
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_1
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/MossR97
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Graeme E.
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'Auburn: A kit for benchmarking functional data structures'
+  title-short: Auburn
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '141-159'
+  volume: '1467'
+  DOI: 10.1007/BFb0055429
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Brady06
+  type: paper-conference
+  author:
+  - family: Brady
+    given: Edwin
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Ivor, a proof engine
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-162'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_9
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/HageH06
+  type: paper-conference
+  author:
+  - family: Hage
+    given: Jurriaan
+  - family: Heeren
+    given: Bastiaan
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Heuristics for type error discovery and recovery
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-216'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_12
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/Trancon-y-Widemann04
+  type: paper-conference
+  author:
+  - family: Widemann
+    given: Baltasar Trancón
+    dropping-particle: 'y'
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: 'V-&gt;M: A virtual machine for strict evaluation of (co)Recursive functions'
+  title-short: V-&gt;M
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '90-107'
+  volume: '3474'
+  DOI: 10.1007/11431664_6
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/ArtsN00
+  type: paper-conference
+  author:
+  - family: Arts
+    given: Thomas
+  - family: Noll
+    given: Thomas
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Verifying generic erlang client-server implementations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-52'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_3
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/TsushimaA12
+  type: paper-conference
+  author:
+  - family: Tsushima
+    given: Kanae
+  - family: Asai
+    given: Kenichi
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: An embedded type debugger
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '190-206'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_12
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Scholz97
+  type: paper-conference
+  author:
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: WITH-loop-folding in sAC - condensing consecutive array operations
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '72-91'
+  volume: '1467'
+  DOI: 10.1007/BFb0055425
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Christiansen14
+  type: paper-conference
+  author:
+  - family: Christiansen
+    given: David Raymond
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: 'Type-directed elaboration of quasiquotations: A high-level syntax for
+    low-level reflection'
+  title-short: Type-directed elaboration of quasiquotations
+  container-title: IFL
+  publisher: ACM
+  page: 1:1-1:9
+  URL: http://doi.acm.org/10.1145/2746325.2746326
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/AchtenP99
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Koopman
+    given: Pieter W. M.
+  issued:
+  - year: '1999'
+  title: The implementation of interactive local state transition systems in clean
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '115-130'
+  volume: '1868'
+  DOI: 10.1007/10722298_7
+  ISBN: '3-540-67864-6'
+
+- id: conf/ifl/ReichNR11
+  type: paper-conference
+  author:
+  - family: Reich
+    given: Jason S.
+  - family: Naylor
+    given: Matthew
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Lazy generation of canonical test programs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-84'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_5
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/TorontoM10
+  type: paper-conference
+  author:
+  - family: Toronto
+    given: Neil
+  - family: McCarthy
+    given: Jay
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: From bayesian notation to pure racket via discrete measure-theoretic probability
+    in λ zFC
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-104'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_6
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/Danvy04
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: A rational deconstruction of landin’s sECD machine
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '52-71'
+  volume: '3474'
+  DOI: 10.1007/11431664_4
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/DenuziereRG13
+  type: paper-conference
+  author:
+  - family: Denuzière
+    given: Loïc
+  - family: Rodriguez
+    given: Ernesto
+  - family: Granicz
+    given: Adam
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'Piglets to the rescue: Declarative user interface specification with pluggable
+    view models'
+  title-short: Piglets to the rescue
+  container-title: IFL
+  publisher: ACM
+  page: '105'
+  URL: http://doi.acm.org/10.1145/2620678.2620689
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/KoopmanAP11
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Model based testing with logical properties versus state machines
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '116-133'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_8
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/Wallace07
+  type: paper-conference
+  author:
+  - family: Wallace
+    given: Malcolm
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: 'Partial parsing: Combining choice with commitment'
+  title-short: Partial parsing
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '93-110'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_6
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/DanielssonN08
+  type: paper-conference
+  author:
+  - family: Danielsson
+    given: Nils Anders
+  - family: Norell
+    given: Ulf
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Parsing mixfix operators
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '80-99'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_5
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/BjornsonTG10
+  type: paper-conference
+  author:
+  - family: Bjornson
+    given: Joel
+  - family: Tayanovskyy
+    given: Anton
+  - family: Granicz
+    given: Adam
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Composing reactive gUIs in f\# using webSharper
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '203-216'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_13
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/HallBTK98
+  type: paper-conference
+  author:
+  - family: Hall
+    given: Jon G.
+  - family: Baker-Finch
+    given: Clement A.
+  - family: Trinder
+    given: Philip W.
+  - family: King
+    given: David J.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Towards an operational semantics for a parallel non-strict functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '54-71'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_4
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/LammelSV13
+  type: paper-conference
+  author:
+  - family: Lämmel
+    given: Ralf
+  - family: Schmorleiz
+    given: Thomas
+  - family: Varanovich
+    given: Andrei
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'The 101haskell chrestomathy: A whole bunch of learnable lambdas'
+  title-short: The 101haskell chrestomathy
+  container-title: IFL
+  publisher: ACM
+  page: '25'
+  URL: http://doi.acm.org/10.1145/2620678.2620681
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/PenaS01
+  type: paper-conference
+  author:
+  - family: Pena
+    given: Ricardo
+  - family: Segura
+    given: Clara
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Sized types for typing eden skeletons
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-17'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_1
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/Berthold03
+  type: paper-conference
+  author:
+  - family: Berthold
+    given: Jost
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Dynamic chunking in eden
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '102-117'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_7
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/2006
+  type: book
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2007'
+  title: Implementation and application of functional languages, 18th international
+    symp osium, iFL 2006, budapest, hungary, september 4-6, 2006, revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '4449'
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/GrelckS02
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Axis control in sAC
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '182-198'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_12
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/EncinaP01
+  type: paper-conference
+  author:
+  - family: Encina
+    given: Alberto
+    dropping-particle: de la
+  - family: Pena
+    given: Ricardo
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Proving the correctness of the sTG machine
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-104'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_6
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/KingHT98
+  type: paper-conference
+  author:
+  - family: King
+    given: David J.
+  - family: Hall
+    given: Jon G.
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: A strategic profiler for glasgow parallel haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '88-102'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_6
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/ShafarenkoS04
+  type: paper-conference
+  author:
+  - family: Shafarenko
+    given: Alexander V.
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: General homomorphic overloading
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '195-210'
+  volume: '3474'
+  DOI: 10.1007/11431664_12
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/PangC03
+  type: paper-conference
+  author:
+  - family: Pang
+    given: André T. H.
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Interfacing haskell with object-oriented languages
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-35'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_2
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/HuchK05
+  type: paper-conference
+  author:
+  - family: Huch
+    given: Frank
+  - family: Kupke
+    given: Frank
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A high-level implementation of composable memory transactions in concurrent
+    haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '124-141'
+  volume: '4015'
+  DOI: 10.1007/11964681_8
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/ReichNR12
+  type: paper-conference
+  author:
+  - family: Reich
+    given: Jason S.
+  - family: Naylor
+    given: Matthew
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Advances in lazy smallCheck
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-70'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_4
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/HanusHN00
+  type: paper-conference
+  author:
+  - family: Hanus
+    given: Michael
+  - family: Huch
+    given: Frank
+  - family: Niederau
+    given: Philipp
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: 'ObjectCurry: An object-oriented extension of the declarative multi-paradigm
+    language curry'
+  title-short: ObjectCurry
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '89-106'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_6
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/McAdam98
+  type: paper-conference
+  author:
+  - family: McAdam
+    given: Bruce J.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: On the unification of substitutions in type interfaces
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '137-152'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_9
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/EversAK04
+  type: paper-conference
+  author:
+  - family: Evers
+    given: Sander
+  - family: Achten
+    given: Peter
+  - family: Kuper
+    given: Jan
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: A functional programming technique for forms in graphical user interfaces
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '35-51'
+  volume: '3474'
+  DOI: 10.1007/11431664_3
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/GiorgidzeN08
+  type: paper-conference
+  author:
+  - family: Giorgidze
+    given: George
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Embedding a functional hybrid modelling language in haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-155'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_8
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/DayH13
+  type: paper-conference
+  author:
+  - family: Day
+    given: Laurence E.
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: Compilation à la carte
+  container-title: IFL
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/2620678.2620680
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/BraineC96
+  type: paper-conference
+  author:
+  - family: Braine
+    given: Lee
+  - family: Clack
+    given: Chris
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: 'Introducing cLOVER: An object-oriented functional language'
+  title-short: Introducing cLOVER
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-20'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_16
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/HopeH05
+  type: paper-conference
+  author:
+  - family: Hope
+    given: Catherine
+  - family: Hutton
+    given: Graham
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: Accurate step counting
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '91-105'
+  volume: '4015'
+  DOI: 10.1007/11964681_6
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/Mohnen97
+  type: paper-conference
+  author:
+  - family: Mohnen
+    given: Markus
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Context patterns, part iI
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '338-357'
+  volume: '1467'
+  DOI: 10.1007/BFb0055440
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Hanna05
+  type: paper-conference
+  author:
+  - family: Hanna
+    given: Keith
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: A document-centered environment for haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '196-211'
+  volume: '4015'
+  DOI: 10.1007/11964681_12
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/JansenPK08
+  type: paper-conference
+  author:
+  - family: Jansen
+    given: Jan Martin
+  - family: Plasmeijer
+    given: Rinus
+  - family: Koopman
+    given: Pieter W. M.
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: 'IEditors: Extending iTask with interactive plug-ins'
+  title-short: IEditors
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '192-211'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_11
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/ChitilRW02
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  - family: Runciman
+    given: Colin
+  - family: Wallace
+    given: Malcolm
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Transforming haskell for tracing
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '165-181'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_11
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/KlusikOP98
+  type: paper-conference
+  author:
+  - family: Klusik
+    given: Ulrike
+  - family: Ortega-Mallén
+    given: Yolanda
+  - family: Pena
+    given: Ricardo
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: 'Implementing eden - or: Dreams become reality'
+  title-short: Implementing eden - or
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '103-119'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_7
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/GiorgidzeGSW10
+  type: paper-conference
+  author:
+  - family: Giorgidze
+    given: George
+  - family: Grust
+    given: Torsten
+  - family: Schreiber
+    given: Tom
+  - family: Weijers
+    given: Jeroen
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Haskell boards the ferry - database-supported program execution for haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_1
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/2007
+  type: book
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2008'
+  title: Implementation and application of functional languages, 19th international
+    workshop, iFL 2007, freiburg, germany, september 27-29, 2007. revised selected
+    papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '5083'
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/BonenfantFHH06
+  type: paper-conference
+  author:
+  - family: Bonenfant
+    given: Armelle
+  - family: Ferdinand
+    given: Christian
+  - family: Hammond
+    given: Kevin
+  - family: Heckmann
+    given: Reinhold
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Worst-case execution times for a purely functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-252'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_14
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/PortilloHLV02
+  type: paper-conference
+  author:
+  - family: Portillo
+    given: Álvaro J. Rebón
+  - family: Hammond
+    given: Kevin
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Vasconcelos
+    given: Pedro B.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Cost analysis using automatic size and time inference
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '232-248'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_15
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/DanvyTZ13
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Thiemann
+    given: Peter
+  - family: Zerny
+    given: Ian
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: 'Circularity and lambda abstraction: From bird to pettorossi and back'
+  title-short: Circularity and lambda abstraction
+  container-title: IFL
+  publisher: ACM
+  page: '85'
+  URL: http://doi.acm.org/10.1145/2620678.2620687
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/Faxen01
+  type: paper-conference
+  author:
+  - family: Faxén
+    given: Karl-Filip
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Dynamic cheap eagerness
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-120'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_7
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/VriesPA06
+  type: paper-conference
+  author:
+  - family: Vries
+    given: Edsko
+    dropping-particle: de
+  - family: Plasmeijer
+    given: Rinus
+  - family: Abrahamson
+    given: David M.
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Uniqueness typing redefined
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '181-198'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_11
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/NorellJ03
+  type: paper-conference
+  author:
+  - family: Norell
+    given: Ulf
+  - family: Jansson
+    given: Patrik
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Polytypic programming in haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '168-184'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_11
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/2000
+  type: book
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2001'
+  title: Implementation of functional languages, 12th international workshop, iFL
+    2000, aachen, germany, september 4-7, 2000, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '2011'
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/ChitilMR03
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  - family: McNeill
+    given: Dan
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Trinder
+    given: Philip W.
+  issued:
+  - year: '2003'
+  title: Lazy assertions
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-19'
+  volume: '3145'
+  DOI: 10.1007/978-3-540-27861-0_1
+  ISBN: '3-540-23727-5'
+
+- id: conf/ifl/SculthorpeFG12
+  type: paper-conference
+  author:
+  - family: Sculthorpe
+    given: Neil
+  - family: Farmer
+    given: Andrew
+  - family: Gill
+    given: Andy
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: The hERMIT in the tree - mechanizing program transformations in the gHC core
+    language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '86-103'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_6
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Pil96
+  type: paper-conference
+  author:
+  - family: Pil
+    given: Marco
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: First class file i/O
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '233-246'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_28
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/AchtenJ00
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Porting the clean object i/O library to haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '194-213'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_12
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/AmsdenF11
+  type: paper-conference
+  author:
+  - family: Amsden
+    given: Edward
+  - family: Fluet
+    given: Matthew
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Fairness for transactional events
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-34'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_2
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/Grelck01
+  type: paper-conference
+  author:
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Optimizations on array skeletons in a shared memory environment
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '36-54'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_3
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/Chitil97
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Common subexpressions are uncommon in lazy functional languages
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '53-71'
+  volume: '1467'
+  DOI: 10.1007/BFb0055424
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Scholz96
+  type: paper-conference
+  author:
+  - family: Scholz
+    given: Sven-Bodo
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: On programming scientific applications in sAC - a functional language extended
+    by a subsystem for high-level array operations
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '85-104'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_20
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/Achten04
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: The feasibility of interactively probing quiescent properties of gUI applications
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '17-34'
+  volume: '3474'
+  DOI: 10.1007/11431664_2
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/SeningtonD12
+  type: paper-conference
+  author:
+  - family: Senington
+    given: Richard
+  - family: Duke
+    given: David
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Decomposing metaheuristic operations
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '224-239'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_14
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/Agat97
+  type: paper-conference
+  author:
+  - family: Agat
+    given: Johan
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Types for register allocation
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '92-111'
+  volume: '1467'
+  DOI: 10.1007/BFb0055426
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/AchtenSDP14
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Stutterheim
+    given: Jurriën
+  - family: Domoszlai
+    given: László
+  - family: Plasmeijer
+    given: Rinus
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Task oriented programming with purely compositional interactive scalable
+    vector graphics
+  container-title: IFL
+  publisher: ACM
+  page: 7:1-7:13
+  URL: http://doi.acm.org/10.1145/2746325.2746329
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/LeF14
+  type: paper-conference
+  author:
+  - family: Le
+    given: Matthew
+  - family: Fluet
+    given: Matthew
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Combining shared state with speculative parallelism in a functional language
+  container-title: IFL
+  publisher: ACM
+  page: 2:1-2:10
+  URL: http://doi.acm.org/10.1145/2746325.2746328
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/BoquistJ96
+  type: paper-conference
+  author:
+  - family: Boquist
+    given: Urban
+  - family: Johnsson
+    given: Thomas
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: 'The gRIN project: A highly optimising back end for lazy functional languages'
+  title-short: The gRIN project
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '58-84'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_19
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/MichelsPA10
+  type: paper-conference
+  author:
+  - family: Michels
+    given: Steffen
+  - family: Plasmeijer
+    given: Rinus
+  - family: Achten
+    given: Peter
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: ITask as a new paradigm for building gUI applications
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '153-168'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_10
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/BertholdL06
+  type: paper-conference
+  author:
+  - family: Berthold
+    given: Jost
+  - family: Loogen
+    given: Rita
+  editor:
+  - family: Horváth
+    given: Zoltán
+  issued:
+  - year: '2006'
+  title: Parallel coordination made explicit in a functional setting
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '73-90'
+  volume: '4449'
+  DOI: 10.1007/978-3-540-74130-5_5
+  ISBN: '978-3-540-74129-9'
+
+- id: conf/ifl/DijkstraSVS12
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Atze
+  - family: Stutterheim
+    given: Jurriën
+  - family: Vermeulen
+    given: Alessandro
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Hinze
+    given: Ralf
+  issued:
+  - year: '2012'
+  title: Building javaScript applications with haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-52'
+  volume: '8241'
+  DOI: 10.1007/978-3-642-41582-1_3
+  ISBN: '978-3-642-41581-4'
+
+- id: conf/ifl/KlusikLPR00
+  type: paper-conference
+  author:
+  - family: Klusik
+    given: Ulrike
+  - family: Loogen
+    given: Rita
+  - family: Priebe
+    given: Steffen
+  - family: Rubio
+    given: Fernando
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: 'Implementation skeletons in eden: Low-effort parallel programming'
+  title-short: Implementation skeletons in eden
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '71-88'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_5
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/SargeantKW00
+  type: paper-conference
+  author:
+  - family: Sargeant
+    given: John
+  - family: Kirkham
+    given: Chris C.
+  - family: Watson
+    given: Ian
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Exploiting implicit parallelism in functional programs with sLAM
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-36'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_2
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/CharlesR98
+  type: paper-conference
+  author:
+  - family: Charles
+    given: Nathan
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: An interactive approach to profiling parallel functional programs
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '20-37'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_2
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/KoopmanP98
+  type: paper-conference
+  author:
+  - family: Koopman
+    given: Pieter W. M.
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Efficient combinator parsers
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '120-136'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_8
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/VervoortP02
+  type: paper-conference
+  author:
+  - family: Vervoort
+    given: Martijn
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Lazy dynamic input/Output in the lazy functional language clean
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '101-117'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_7
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/FindlerGR07
+  type: paper-conference
+  author:
+  - family: Findler
+    given: Robert Bruce
+  - family: Guo
+    given: Shu-yu
+  - family: Rogers
+    given: Anne
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Lazy contract checking for immutable data structures
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '111-128'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_7
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/LoidlMTPCJG97
+  type: paper-conference
+  author:
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Morgan
+    given: Richard G.
+  - family: Trinder
+    given: Philip W.
+  - family: Poria
+    given: Sanjay
+  - family: Cooper
+    given: Chris
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Garigliano
+    given: Roberto
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'Parallelising a large functional program or: Keeping lOLITA busy'
+  title-short: Parallelising a large functional program or
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '198-213'
+  volume: '1467'
+  DOI: 10.1007/BFb0055432
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/DijkstraFS07
+  type: paper-conference
+  author:
+  - family: Dijkstra
+    given: Atze
+  - family: Fokker
+    given: Jeroen
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: The structure of the essential haskell compiler, or coping with compiler
+    complexity
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '57-74'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_4
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/SvenssonSC08
+  type: paper-conference
+  author:
+  - family: Svensson
+    given: Joel
+  - family: Sheeran
+    given: Mary
+  - family: Claessen
+    given: Koen
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: 'Obsidian: A domain specific embedded language for parallel programming
+    of graphics processors'
+  title-short: Obsidian
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '156-173'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_9
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/SerrarensP98
+  type: paper-conference
+  author:
+  - family: Serrarens
+    given: Pascal R.
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Explicit message passing for concurrent clean
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '229-245'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_15
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/Reinke98
+  type: paper-conference
+  author:
+  - family: Reinke
+    given: Claus
+  editor:
+  - family: Hammond
+    given: Kevin
+  issued:
+  - year: '1998'
+  title: Towards a haskell/Java connection
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '200-215'
+  volume: '1595'
+  DOI: 10.1007/3-540-48515-5_13
+  ISBN: '3-540-66229-4'
+
+- id: conf/ifl/MiddelkoopDS10
+  type: paper-conference
+  author:
+  - family: Middelkoop
+    given: Arie
+  - family: Dijkstra
+    given: Atze
+  - family: Swierstra
+    given: S. Doaitse
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Dependently typed attribute grammars
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '105-120'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_7
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/2013
+  type: book
+  editor:
+  - family: Plasmeijer
+    given: Rinus
+  issued:
+  - year: '2013'
+  title: Proceedings of the 25th symposium on implementation and application of functional
+    languages, nijmegen, the netherlands, august 28-30, 2013
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2620678
+  ISBN: '978-1-4503-2988-0'
+
+- id: conf/ifl/ArkelGS02
+  type: paper-conference
+  author:
+  - family: Arkel
+    given: Diederik
+    dropping-particle: van
+  - family: Groningen
+    given: John H. G.
+    dropping-particle: van
+  - family: Smetsers
+    given: Sjaak
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Fusion in practice
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-67'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_4
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Berthold10
+  type: paper-conference
+  author:
+  - family: Berthold
+    given: Jost
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2010'
+  title: Orthogonal serialisation for haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '38-53'
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2_3
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/MazanekM07
+  type: paper-conference
+  author:
+  - family: Mazanek
+    given: Steffen
+  - family: Minas
+    given: Mark
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Graph parser combinators
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-18'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_1
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/Mogensen97
+  type: paper-conference
+  author:
+  - family: Mogensen
+    given: Torben Æ.
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Types for 0, 1 or many uses
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '112-122'
+  volume: '1467'
+  DOI: 10.1007/BFb0055427
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Minamide01
+  type: paper-conference
+  author:
+  - family: Minamide
+    given: Yasuhiko
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Runtime behavior of conversion interpretation of subtyping
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '155-167'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_10
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/BrasselS07
+  type: paper-conference
+  author:
+  - family: Braßel
+    given: Bernd
+  - family: Siegel
+    given: Holger
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Debugging lazy functional programs by asking the oracle
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '183-200'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_11
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/DidrichGMP97
+  type: paper-conference
+  author:
+  - family: Didrich
+    given: Klaus
+  - family: Grieskamp
+    given: Wolfgang
+  - family: Maeder
+    given: Christian
+  - family: Pepper
+    given: Peter
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'Programming in the large: The algebraic-functional language opal 2alpha'
+  title-short: Programming in the large
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '322-337'
+  volume: '1467'
+  DOI: 10.1007/BFb0055439
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/Mackie05
+  type: paper-conference
+  author:
+  - family: Mackie
+    given: Ian
+  editor:
+  - family: Butterfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: Encoding strategies in the lambda calculus with interaction nets
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '19-36'
+  volume: '4015'
+  DOI: 10.1007/11964681_2
+  ISBN: 3-540-69174-X
+
+- id: conf/ifl/TrojahnerG08
+  type: paper-conference
+  author:
+  - family: Trojahner
+    given: Kai
+  - family: Grelck
+    given: Clemens
+  editor:
+  - family: Scholz
+    given: Sven-Bodo
+  issued:
+  - year: '2008'
+  title: Descriptor-free representation of arrays with dependent types
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '100-117'
+  volume: '5836'
+  DOI: 10.1007/978-3-642-24452-0_6
+  ISBN: '978-3-642-24451-3'
+
+- id: conf/ifl/BreitingerKLOP97
+  type: paper-conference
+  author:
+  - family: Breitinger
+    given: Silvia
+  - family: Klusik
+    given: Ulrike
+  - family: Loogen
+    given: Rita
+  - family: Ortega-Mallén
+    given: Yolanda
+  - family: Pena
+    given: Ricardo
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'DREAM: The distRibuted eden abstract machine'
+  title-short: DREAM
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '250-269'
+  volume: '1467'
+  DOI: 10.1007/BFb0055435
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/BoisLT02
+  type: paper-conference
+  author:
+  - family: Bois
+    given: André Rauber Du
+  - family: Loidl
+    given: Hans-Wolfgang
+  - family: Trinder
+    given: Philip W.
+  editor:
+  - family: Pena
+    given: Ricardo
+  issued:
+  - year: '2002'
+  title: Thread migration in a parallel graph reducer
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '199-214'
+  volume: '2670'
+  DOI: 10.1007/3-540-44854-3_13
+  ISBN: '3-540-40190-3'
+
+- id: conf/ifl/Chitil04
+  type: paper-conference
+  author:
+  - family: Chitil
+    given: Olaf
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2004'
+  title: Source-based trace exploration
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '126-141'
+  volume: '3474'
+  DOI: 10.1007/11431664_8
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/2014
+  type: book
+  editor:
+  - family: Tobin-Hochstadt
+    given: Sam
+  issued:
+  - year: '2014'
+  title: Proceedings of the 26th 2014 international symposium on implementation and
+    application of functional languages, iFL ’14, boston, mA, uSA, october 1-3, 2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2746325
+  ISBN: '978-1-4503-3284-2'
+
+- id: conf/ifl/Erwig96
+  type: paper-conference
+  author:
+  - family: Erwig
+    given: Martin
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: Active patterns
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '21-40'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_17
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/Schilling11
+  type: paper-conference
+  author:
+  - family: Schilling
+    given: Thomas
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Challenges for a trace-based just-in-time compiler for haskell
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-68'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_4
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/Kreye01
+  type: paper-conference
+  author:
+  - family: Kreye
+    given: Dietmar
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: A compilation scheme for a hierarchy of array types
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '18-54'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_2
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/Thomsen11
+  type: paper-conference
+  author:
+  - family: Thomsen
+    given: Michael Kirkedal
+  editor:
+  - family: Gill
+    given: Andy
+  issued:
+  - year: '2011'
+  title: Describing and optimising reversible logic using a functional language
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '148-163'
+  volume: '7257'
+  DOI: 10.1007/978-3-642-34407-7_10
+  ISBN: '978-3-642-34406-0'
+
+- id: conf/ifl/AchtenP97
+  type: paper-conference
+  author:
+  - family: Achten
+    given: Peter
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Interactive functional objects in clean
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '304-321'
+  volume: '1467'
+  DOI: 10.1007/BFb0055438
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/ScaifeMH01
+  type: paper-conference
+  author:
+  - family: Scaife
+    given: Norman
+  - family: Michaelson
+    given: Greg
+  - family: Horiguchi
+    given: Susumu
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Comparative cross-platform performance results from a parallelizing sML compiler
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '138-154'
+  volume: '2312'
+  DOI: 10.1007/3-540-46028-4_9
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/KarlsenW97
+  type: paper-conference
+  author:
+  - family: Karlsen
+    given: Einar W.
+  - family: Westmeier
+    given: Stefan
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Using concurrent haskell to develop views over an active repository
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '285-303'
+  volume: '1467'
+  DOI: 10.1007/BFb0055437
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/GustavssonS00
+  type: paper-conference
+  author:
+  - family: Gustavsson
+    given: Jörgen
+  - family: Svenningsson
+    given: Josef
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: A usage analysis with bounded usage polymorphism and subtyping
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '140-157'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_9
+  ISBN: '3-540-41919-5'
+
+- id: conf/ifl/BoortzS97
+  type: paper-conference
+  author:
+  - family: Boortz
+    given: Kent
+  - family: Sahlin
+    given: Dan
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: A compacting garbage collector for unidirectional heaps
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '358-'
+  volume: '1467'
+  DOI: 10.1007/BFb0055441
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/MorazanS07
+  type: paper-conference
+  author:
+  - family: Morazán
+    given: Marco T.
+  - family: Schultz
+    given: Ulrik Pagh
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Optimal lambda lifting in quadratic time
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '37-56'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_3
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/2010
+  type: book
+  editor:
+  - family: Hage
+    given: Jurriaan
+  issued:
+  - year: '2011'
+  title: Implementation and application of functional languages - 22nd international
+    symposium, iFL 2010, alphen aan den rijn, the netherlands, september 1-3, 2010,
+    revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '6647'
+  DOI: 10.1007/978-3-642-24276-2
+  ISBN: '978-3-642-24275-5'
+
+- id: conf/ifl/MolEP01
+  type: paper-conference
+  author:
+  - family: Mol
+    given: Maarten
+    dropping-particle: de
+  - family: Eekelen
+    given: Marko C. J. D.
+    dropping-particle: van
+  - family: Plasmeijer
+    given: Marinus J.
+  editor:
+  - family: Arts
+    given: Thomas
+  issued:
+  - year: '2001'
+  title: Theorem proving for functional programmers
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '55-71'
+  volume: '2312'
+  URL: http://link.springer.de/link/service/series/0558/bibs/2312/23120055.htm
+  ISBN: '3-540-43537-9'
+
+- id: conf/ifl/Serrarens96
+  type: paper-conference
+  author:
+  - family: Serrarens
+    given: Pascal R.
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: Implementing the conjugate gradient algorithm in a functional language
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '125-140'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_22
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/VriesPA07
+  type: paper-conference
+  author:
+  - family: Vries
+    given: Edsko
+    dropping-particle: de
+  - family: Plasmeijer
+    given: Rinus
+  - family: Abrahamson
+    given: David M.
+  editor:
+  - family: Chitil
+    given: Olaf
+  issued:
+  - year: '2007'
+  title: Uniqueness typing simplified
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '201-218'
+  volume: '5083'
+  DOI: 10.1007/978-3-540-85373-2_12
+  ISBN: '978-3-540-85372-5'
+
+- id: conf/ifl/DoschM96
+  type: paper-conference
+  author:
+  - family: Dosch
+    given: Walter
+  - family: Möller
+    given: Bernhard
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: Calculating a functional module for binary search trees
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '267-284'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_30
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/1996
+  type: book
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1997'
+  title: Implementation of functional languages, 8th international workshop, iFL’96,
+    bad godesberg, germany, september 16-18, 1996, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1268'
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/1997
+  type: book
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1998'
+  title: Implementation of functional languages, 9th international workshop, iFL’97,
+    st. andrews, scotland, uK, september 10-12, 1997, selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '1467'
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/2004
+  type: book
+  editor:
+  - family: Grelck
+    given: Clemens
+  issued:
+  - year: '2005'
+  title: Implementation and application of functional languages, 16th international
+    workshop, iFL 2004, lübeck, germany, september 8-10, 2004, revised selected papers
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '3474'
+  ISBN: '3-540-26094-3'
+
+- id: conf/ifl/Assmann96
+  type: paper-conference
+  author:
+  - family: Aßmann
+    given: Claus
+  editor:
+  - family: Kluge
+    given: Werner E.
+  issued:
+  - year: '1996'
+  title: Coordinating functional processes using petri nets
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '162-183'
+  volume: '1268'
+  DOI: 10.1007/3-540-63237-9_24
+  ISBN: '3-540-63237-9'
+
+- id: conf/ifl/SparudR97
+  type: paper-conference
+  author:
+  - family: Sparud
+    given: Jan
+  - family: Runciman
+    given: Colin
+  editor:
+  - family: Clack
+    given: Chris
+  issued:
+  - year: '1997'
+  title: Complete and partial redex trails of functional computations
+  container-title: Implementation of functional languages
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '160-177'
+  volume: '1467'
+  DOI: 10.1007/BFb0055430
+  ISBN: '3-540-64849-6'
+
+- id: conf/ifl/SchroederK00
+  type: paper-conference
+  author:
+  - family: Schröder
+    given: Raimund
+  - family: Kluge
+    given: Werner E.
+  editor:
+  - family: Mohnen
+    given: Markus
+  issued:
+  - year: '2000'
+  title: Organizing speculative computations in functional systems
+  container-title: IFL
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '214-230'
+  volume: '2011'
+  DOI: 10.1007/3-540-45361-X_13
+  ISBN: '3-540-41919-5'
+...

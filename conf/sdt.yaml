@@ -1,0 +1,399 @@
+---
+references:
+- id: conf/sdt/BertoniMMO84
+  type: paper-conference
+  author:
+  - family: Bertoni
+    given: Alberto
+  - family: Mauri
+    given: Giancarlo
+  - family: Miglioli
+    given: Pierangelo
+  - family: Ornaghi
+    given: Mario
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Abstract data types and their extensions within a constructive logic
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '177-195'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_9
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Reynolds84
+  type: paper-conference
+  author:
+  - family: Reynolds
+    given: John C.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Polymorphism is not set-theoretic
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '145-156'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_7
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/KaminA84
+  type: paper-conference
+  author:
+  - family: Kamin
+    given: Samuel N.
+  - family: Archer
+    given: Myla
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: 'Partial implementations of abstract data types: A dissenting view on errors'
+  title-short: Partial implementations of abstract data types
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '317-336'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_16
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Mosses84
+  type: paper-conference
+  author:
+  - family: Mosses
+    given: Peter D.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: A basic abstract semantic algebra
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '87-107'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_4
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/BurstallL84
+  type: paper-conference
+  author:
+  - family: Burstall
+    given: Rod M.
+  - family: Lampson
+    given: Butler W.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: A kernel language for abstract data types and modules
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '1-50'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_1
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Orejas84
+  type: paper-conference
+  author:
+  - family: Orejas
+    given: Fernando
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: A proof system for verifying composability of abstract implementations
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '357-374'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_18
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/WinskelL84
+  type: paper-conference
+  author:
+  - family: Winskel
+    given: Glynn
+  - family: Larsen
+    given: Kim Guldstrand
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Using information systems to solve recursive domain equations effectively
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '109-129'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_5
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Padawitz84
+  type: paper-conference
+  author:
+  - family: Padawitz
+    given: Peter
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Towards a proof theory of parameterized specifications
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '375-391'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_19
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Hook84
+  type: paper-conference
+  author:
+  - family: Hook
+    given: James
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Understanding russell- a first attempt
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '69-86'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_3
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Paulson84
+  type: paper-conference
+  author:
+  - family: Paulson
+    given: Lawrence C.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Deriving structural induction in lCF
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '197-214'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_10
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/SannellaT84
+  type: paper-conference
+  author:
+  - family: Sannella
+    given: Donald
+  - family: Tarlecki
+    given: Andrzej
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Building specifications in an arbitrary institution
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '337-356'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_17
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/LongoM84
+  type: paper-conference
+  author:
+  - family: Longo
+    given: Giuseppe
+  - family: Moggi
+    given: Eugenio
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Cartesian closed categories of enumerations for effective type structures
+    (part i & iI)
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '235-255'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_12
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Mitchell84
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: John
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Type inference and type containment
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '257-277'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_13
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/1984
+  type: book
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Semantics of data types, international symposium, sophia-antipolis, france,
+    june 27-29, 1984, proceedings
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  volume: '173'
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/BruceM84
+  type: paper-conference
+  author:
+  - family: Bruce
+    given: Kim B.
+  - family: Meyer
+    given: Albert R.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: The semantics of second order polymorphic lambda calculus
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '131-144'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_6
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Dezani-CiancagliniM84
+  type: paper-conference
+  author:
+  - family: Dezani-Ciancaglini
+    given: Mariangiola
+  - family: Margaria
+    given: Ines
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: F-semantics for intersection type discipline
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '279-300'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_14
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Haynes84
+  type: paper-conference
+  author:
+  - family: Haynes
+    given: Christopher T.
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: A theory of data type representation independence
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '157-175'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_8
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Cardelli84
+  type: paper-conference
+  author:
+  - family: Cardelli
+    given: Luca
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: A semantics of multiple inheritance
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '51-67'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_2
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/McCracken84
+  type: paper-conference
+  author:
+  - family: McCracken
+    given: Nancy
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: The typechecking of programs with implicit type structure
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '301-315'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_15
+  ISBN: '3-540-13346-1'
+
+- id: conf/sdt/Despeyroux84
+  type: paper-conference
+  author:
+  - family: Despeyroux
+    given: Thierry
+  editor:
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1984'
+  title: Executable specification of static semantics
+  container-title: Semantics of data types
+  collection-title: Lecture notes in computer science
+  publisher: Springer
+  page: '215-233'
+  volume: '173'
+  DOI: 10.1007/3-540-13346-1_11
+  ISBN: '3-540-13346-1'
+...

@@ -1,0 +1,1404 @@
+---
+references:
+- id: conf/tldi/SrivastavaHF07
+  type: paper-conference
+  author:
+  - family: Srivastava
+    given: Saurabh
+  - family: Hicks
+    given: Michael
+  - family: Foster
+    given: Jeffrey S.
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: Modular information hiding and type-safe linking for c
+  container-title: TLDI
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1190315.1190319
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/GotoJPR12
+  type: paper-conference
+  author:
+  - family: Goto
+    given: Matthew
+  - family: Jagadeesan
+    given: Radha
+  - family: Pitcher
+    given: Corin
+  - family: Riely
+    given: James
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Types for relaxed memory models
+  container-title: TLDI
+  publisher: ACM
+  page: '25-38'
+  URL: http://doi.acm.org/10.1145/2103786.2103791
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/DagandKK09
+  type: paper-conference
+  author:
+  - family: Dagand
+    given: Pierre-Évariste
+  - family: Kostic
+    given: Dejan
+  - family: Kuncak
+    given: Viktor
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: 'Opis: Reliable distributed systems in oCaml'
+  title-short: Opis
+  container-title: TLDI
+  publisher: ACM
+  page: '65-78'
+  URL: http://doi.acm.org/10.1145/1481861.1481870
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/Park03
+  type: paper-conference
+  author:
+  - family: Park
+    given: Sungwoo
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: A calculus for probabilistic languages
+  container-title: TLDI
+  publisher: ACM
+  page: '38-49'
+  URL: http://doi.acm.org/10.1145/604174.604180
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/MarinoM09
+  type: paper-conference
+  author:
+  - family: Marino
+    given: Daniel
+  - family: Millstein
+    given: Todd D.
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: A generic type-and-effect system
+  container-title: TLDI
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/1481861.1481868
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/PilkiewiczP11
+  type: paper-conference
+  author:
+  - family: Pilkiewicz
+    given: Alexandre
+  - family: Pottier
+    given: François
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: The essence of monotonic state
+  container-title: TLDI
+  publisher: ACM
+  page: '73-86'
+  URL: http://doi.acm.org/10.1145/1929553.1929565
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/RemyY07
+  type: paper-conference
+  author:
+  - family: Rémy
+    given: Didier
+  - family: Yakobowski
+    given: Boris
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: A graphical presentation of mLF types with a linear-time unification algorithm
+  container-title: TLDI
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1190315.1190321
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/GerakiosPS11
+  type: paper-conference
+  author:
+  - family: Gerakios
+    given: Prodromos
+  - family: Papaspyrou
+    given: Nikolaos
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: A type and effect system for deadlock avoidance in low-level languages
+  container-title: TLDI
+  publisher: ACM
+  page: '15-28'
+  URL: http://doi.acm.org/10.1145/1929553.1929558
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/BentonB07
+  type: paper-conference
+  author:
+  - family: Benton
+    given: Nick
+  - family: Buchlovsky
+    given: Peter
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: Semantics of an effect analysis for exceptions
+  container-title: TLDI
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/1190315.1190320
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/VanderwaartC05
+  type: paper-conference
+  author:
+  - family: Vanderwaart
+    given: Joseph
+  - family: Crary
+    given: Karl
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Automated and certified conformance to responsiveness policies
+  container-title: TLDI
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/1040294.1040302
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/2009
+  type: book
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: 'Proceedings of tLDI’09: 2009 aCM sIGPLAN international workshop on types
+    in languages design and implementation, savannah, gA, uSA, january 24, 2009'
+  title-short: Proceedings of tLDI’09
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1481861
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/MaedaSY11
+  type: paper-conference
+  author:
+  - family: Maeda
+    given: Toshiyuki
+  - family: Sato
+    given: Haruki
+  - family: Yonezawa
+    given: Akinori
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: Extended alias type system using separating implication
+  container-title: TLDI
+  publisher: ACM
+  page: '29-42'
+  URL: http://doi.acm.org/10.1145/1929553.1929559
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/BirkedalST09
+  type: paper-conference
+  author:
+  - family: Birkedal
+    given: Lars
+  - family: Støvring
+    given: Kristian
+  - family: Thamsborg
+    given: Jacob
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Relational parametricity for references and recursive types
+  container-title: TLDI
+  publisher: ACM
+  page: '91-104'
+  URL: http://doi.acm.org/10.1145/1481861.1481873
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/NanevskiGM09
+  type: paper-conference
+  author:
+  - family: Nanevski
+    given: Aleksandar
+  - family: Govereau
+    given: Paul
+  - family: Morrisett
+    given: Greg
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Towards type-theoretic semantics for transactional concurrency
+  container-title: TLDI
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/1481861.1481872
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/WinwoodC11
+  type: paper-conference
+  author:
+  - family: Winwood
+    given: Simon
+  - family: Chakravarty
+    given: Manuel M. T.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: 'Singleton: A general-purpose dependently-typed assembly language'
+  title-short: Singleton
+  container-title: TLDI
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1929553.1929557
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/2003
+  type: book
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: 'Proceedings of tLDI’03: 2003 aCM sIGPLAN international workshop on types
+    in languages design and implementation, new orleans, louisiana, uSA, january 18,
+    2003'
+  title-short: Proceedings of tLDI’03
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=604174
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/HawblitzelHWC07
+  type: paper-conference
+  author:
+  - family: Hawblitzel
+    given: Chris
+  - family: Huang
+    given: Heng
+  - family: Wittie
+    given: Lea
+  - family: Chen
+    given: Juan
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: A garbage-collecting typed assembly language
+  container-title: TLDI
+  publisher: ACM
+  page: '41-52'
+  URL: http://doi.acm.org/10.1145/1190315.1190323
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/MazurakZZ10
+  type: paper-conference
+  author:
+  - family: Mazurak
+    given: Karl
+  - family: Zhao
+    given: Jianzhou
+  - family: Zdancewic
+    given: Steve
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Lightweight linear types in system fdegree
+  container-title: TLDI
+  publisher: ACM
+  page: '77-88'
+  URL: http://doi.acm.org/10.1145/1708016.1708027
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/FlanaganFL05
+  type: paper-conference
+  author:
+  - family: Flanagan
+    given: Cormac
+  - family: Freund
+    given: Stephen N.
+  - family: Lifshin
+    given: Marina
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Type inference for atomicity
+  container-title: TLDI
+  publisher: ACM
+  page: '47-58'
+  URL: http://doi.acm.org/10.1145/1040294.1040299
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/VytiniotisWW05
+  type: paper-conference
+  author:
+  - family: Vytiniotis
+    given: Dimitrios
+  - family: Washburn
+    given: Geoffrey
+  - family: Weirich
+    given: Stephanie
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: An open and shut typecase
+  container-title: TLDI
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/1040294.1040296
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/BentonT09
+  type: paper-conference
+  author:
+  - family: Benton
+    given: Nick
+  - family: Tabareau
+    given: Nicolas
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Compiling functional types to relational specifications for low level imperative
+    code
+  container-title: TLDI
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1481861.1481864
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/VytiniotisJS10
+  type: paper-conference
+  author:
+  - family: Vytiniotis
+    given: Dimitrios
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Schrijvers
+    given: Tom
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Let should not be generalized
+  container-title: TLDI
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/1708016.1708023
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/NaRC12
+  type: paper-conference
+  author:
+  - family: Na
+    given: Hyunik
+  - family: Ryu
+    given: Sukyoung
+  - family: Choe
+    given: Kwangmoo
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Exact type parameterization and thisType support
+  container-title: TLDI
+  publisher: ACM
+  page: '13-24'
+  URL: http://doi.acm.org/10.1145/2103786.2103790
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/DevrieseP11
+  type: paper-conference
+  author:
+  - family: Devriese
+    given: Dominique
+  - family: Piessens
+    given: Frank
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: Information flow enforcement in monadic libraries
+  container-title: TLDI
+  publisher: ACM
+  page: '59-72'
+  URL: http://doi.acm.org/10.1145/1929553.1929564
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/2012
+  type: book
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: 'Proceedings of tLDI 2012: The seventh aCM sIGPLAN workshop on types in
+    languages design and implementation, philadelphia, pA, uSA, saturday, january
+    28, 2012'
+  title-short: Proceedings of tLDI 2012
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2103786
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/ChangCNS05a
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Bor-Yuh Evan
+  - family: Chlipala
+    given: Adam
+  - family: Necula
+    given: George C.
+  - family: Schneck
+    given: Robert R.
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Type-based verification of assembly language for compiler debugging
+  container-title: TLDI
+  publisher: ACM
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/1040294.1040303
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/LindleyC12
+  type: paper-conference
+  author:
+  - family: Lindley
+    given: Sam
+  - family: Cheney
+    given: James
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Row-based effect types for database integration
+  container-title: TLDI
+  publisher: ACM
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/2103786.2103798
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/Thiemann05
+  type: paper-conference
+  author:
+  - family: Thiemann
+    given: Peter
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Grammar-based analysis of string expressions
+  container-title: TLDI
+  publisher: ACM
+  page: '59-70'
+  URL: http://doi.acm.org/10.1145/1040294.1040300
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/Hawblitzel11
+  type: paper-conference
+  author:
+  - family: Hawblitzel
+    given: Chris
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: Type safety from the ground up
+  container-title: TLDI
+  publisher: ACM
+  page: '43-44'
+  URL: http://doi.acm.org/10.1145/1929553.1929561
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/Chen05
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Juan
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Decidable subclassing-bounded quantification
+  container-title: TLDI
+  publisher: ACM
+  page: '37-46'
+  URL: http://doi.acm.org/10.1145/1040294.1040298
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/2011
+  type: book
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: 'Proceedings of tLDI 2011: 2011 aCM sIGPLAN international workshop on types
+    in languages design and implementation, austin, tX, uSA, january 25, 2011'
+  title-short: Proceedings of tLDI 2011
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1929553
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/Fisher07
+  type: paper-conference
+  author:
+  - family: Fisher
+    given: Kathleen
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: Typing ad hoc data
+  container-title: TLDI
+  publisher: ACM
+  page: '39-40'
+  URL: http://doi.acm.org/10.1145/1190315.1190317
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/CalcagnoCG03
+  type: paper-conference
+  author:
+  - family: Calcagno
+    given: Cristiano
+  - family: Cardelli
+    given: Luca
+  - family: Gordon
+    given: Andrew D.
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Deciding validity in a spatial logic for trees
+  container-title: TLDI
+  publisher: ACM
+  page: '62-73'
+  URL: http://doi.acm.org/10.1145/604174.604183
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/LinS10
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Chuan-kai
+  - family: Sheard
+    given: Tim
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Pointwise generalized algebraic data types
+  container-title: TLDI
+  publisher: ACM
+  page: '51-62'
+  URL: http://doi.acm.org/10.1145/1708016.1708024
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/Krishnaswami12
+  type: paper-conference
+  author:
+  - family: Krishnaswami
+    given: Neelakantan R.
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Semantics for graphical user interfaces
+  container-title: TLDI
+  publisher: ACM
+  page: '51-52'
+  URL: http://doi.acm.org/10.1145/2103786.2103794
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/Gonthier11
+  type: paper-conference
+  author:
+  - family: Gonthier
+    given: Georges
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: Type design patterns for computer mathematics
+  container-title: TLDI
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1929553.1929555
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/2005
+  type: book
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: 'Proceedings of tLDI’05: 2005 aCM sIGPLAN international workshop on types
+    in languages design and implementation, long beach, cA, uSA, january 10, 2005'
+  title-short: Proceedings of tLDI’05
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1040294
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/Grossman03
+  type: paper-conference
+  author:
+  - family: Grossman
+    given: Dan
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Type-safe multithreading in cyclone
+  container-title: TLDI
+  publisher: ACM
+  page: '13-25'
+  URL: http://doi.acm.org/10.1145/604174.604177
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/VanderwaartC03
+  type: paper-conference
+  author:
+  - family: Vanderwaart
+    given: Joseph
+  - family: Crary
+    given: Karl
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: A typed interface for garbage collection
+  container-title: TLDI
+  publisher: ACM
+  page: '109-122'
+  URL: http://doi.acm.org/10.1145/604174.604189
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/GerakiosPS10
+  type: paper-conference
+  author:
+  - family: Gerakios
+    given: Prodromos
+  - family: Papaspyrou
+    given: Nikolaos
+  - family: Sagonas
+    given: Konstantinos F.
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: 'Race-free and memory-safe multithreading: Design and implementation in
+    cyclone'
+  title-short: Race-free and memory-safe multithreading
+  container-title: TLDI
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/1708016.1708020
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/KrishnaswamiBA10
+  type: paper-conference
+  author:
+  - family: Krishnaswami
+    given: Neel
+  - family: Birkedal
+    given: Lars
+  - family: Aldrich
+    given: Jonathan
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Verifying event-driven programs using ramified frame properties
+  container-title: TLDI
+  publisher: ACM
+  page: '63-76'
+  URL: http://doi.acm.org/10.1145/1708016.1708025
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/CapperN12
+  type: paper-conference
+  author:
+  - family: Capper
+    given: John
+  - family: Nilsson
+    given: Henrik
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Towards a formal semantics for a structurally dynamic noncausal modelling
+    language
+  container-title: TLDI
+  publisher: ACM
+  page: '39-50'
+  URL: http://doi.acm.org/10.1145/2103786.2103792
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/Kobayashi03
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Naoki Kobayashi
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Time regions and effects for resource usage analysis
+  container-title: TLDI
+  publisher: ACM
+  page: '50-61'
+  URL: http://doi.acm.org/10.1145/604174.604182
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/McBride07
+  type: paper-conference
+  author:
+  - family: McBride
+    given: Conor
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: What’s the deal with dependent types?
+  container-title: TLDI
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1190315.1190316
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/YiF10
+  type: paper-conference
+  author:
+  - family: Yi
+    given: Jaeheon
+  - family: Flanagan
+    given: Cormac
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Effects for cooperable and serializable threads
+  container-title: TLDI
+  publisher: ACM
+  page: '3-14'
+  URL: http://doi.acm.org/10.1145/1708016.1708019
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/YorgeyWCJVM12
+  type: paper-conference
+  author:
+  - family: Yorgey
+    given: Brent A.
+  - family: Weirich
+    given: Stephanie
+  - family: Cretin
+    given: Julien
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Vytiniotis
+    given: Dimitrios
+  - family: Magalhães
+    given: José Pedro
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Giving haskell a promotion
+  container-title: TLDI
+  publisher: ACM
+  page: '53-66'
+  URL: http://doi.acm.org/10.1145/2103786.2103795
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/VanderwaartDPCHC03
+  type: paper-conference
+  author:
+  - family: Vanderwaart
+    given: Joseph
+  - family: Dreyer
+    given: Derek
+  - family: Petersen
+    given: Leaf
+  - family: Crary
+    given: Karl
+  - family: Harper
+    given: Robert
+  - family: Cheng
+    given: Perry
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Typed compilation of recursive datatypes
+  container-title: TLDI
+  publisher: ACM
+  page: '98-108'
+  URL: http://doi.acm.org/10.1145/604174.604187
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/SulzmannCJD07
+  type: paper-conference
+  author:
+  - family: Sulzmann
+    given: Martin
+  - family: Chakravarty
+    given: Manuel M. T.
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Donnelly
+    given: Kevin
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: System f with type equality coercions
+  container-title: TLDI
+  publisher: ACM
+  page: '53-66'
+  URL: http://doi.acm.org/10.1145/1190315.1190324
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/GordonEG12
+  type: paper-conference
+  author:
+  - family: Gordon
+    given: Colin S.
+  - family: Ernst
+    given: Michael D.
+  - family: Grossman
+    given: Dan
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Static lock capabilities for deadlock freedom
+  container-title: TLDI
+  publisher: ACM
+  page: '67-78'
+  URL: http://doi.acm.org/10.1145/2103786.2103796
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/AspertiG12
+  type: paper-conference
+  author:
+  - family: Asperti
+    given: Andrea
+  - family: Guidi
+    given: Ferruccio
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Type systems for dummies
+  container-title: TLDI
+  publisher: ACM
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/2103786.2103797
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/Vaughan11
+  type: paper-conference
+  author:
+  - family: Vaughan
+    given: Jeffrey A.
+  editor:
+  - family: Weirich
+    given: Stephanie
+  issued:
+  - year: '2011'
+  title: 'AuraConf: A unified approach to authorization and confidentiality'
+  title-short: AuraConf
+  container-title: TLDI
+  publisher: ACM
+  page: '45-58'
+  URL: http://doi.acm.org/10.1145/1929553.1929563
+  ISBN: '978-1-4503-0484-9'
+
+- id: conf/tldi/CairesPT12
+  type: paper-conference
+  author:
+  - family: Caires
+    given: Luís
+  - family: Pfenning
+    given: Frank
+  - family: Toninho
+    given: Bernardo
+  editor:
+  - family: Pierce
+    given: Benjamin C.
+  issued:
+  - year: '2012'
+  title: Towards concurrent type theory
+  container-title: TLDI
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/2103786.2103788
+  ISBN: '978-1-4503-1120-5'
+
+- id: conf/tldi/Felleisen10
+  type: paper-conference
+  author:
+  - family: Felleisen
+    given: Matthias
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Adding types to untyped languages
+  container-title: TLDI
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1708016.1708017
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/BaarsSV09
+  type: paper-conference
+  author:
+  - family: Baars
+    given: Arthur I.
+  - family: Swierstra
+    given: S. Doaitse
+  - family: Viera
+    given: Marcos
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Typed transformations of typed abstract syntax
+  container-title: TLDI
+  publisher: ACM
+  page: '15-26'
+  URL: http://doi.acm.org/10.1145/1481861.1481865
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/Norell09
+  type: paper-conference
+  author:
+  - family: Norell
+    given: Ulf
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Dependently typed programming in agda
+  container-title: TLDI
+  publisher: ACM
+  page: '1-2'
+  URL: http://doi.acm.org/10.1145/1481861.1481862
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/2007
+  type: book
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: 'Proceedings of tLDI’07: 2007 aCM sIGPLAN international workshop on types
+    in languages design and implementation, nice, france, january 16, 2007'
+  title-short: Proceedings of tLDI’07
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1190315
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/AhmedW03
+  type: paper-conference
+  author:
+  - family: Ahmed
+    given: Amal J.
+  - family: Walker
+    given: David
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: The logical approach to stack typing
+  container-title: TLDI
+  publisher: ACM
+  page: '74-85'
+  URL: http://doi.acm.org/10.1145/604174.604185
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/RossbergRD10
+  type: paper-conference
+  author:
+  - family: Rossberg
+    given: Andreas
+  - family: Russo
+    given: Claudio V.
+  - family: Dreyer
+    given: Derek
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: F-ing modules
+  container-title: TLDI
+  publisher: ACM
+  page: '89-102'
+  URL: http://doi.acm.org/10.1145/1708016.1708028
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/Elsman03
+  type: paper-conference
+  author:
+  - family: Elsman
+    given: Martin
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Garbage collection safety for region-based memory management
+  container-title: TLDI
+  publisher: ACM
+  page: '123-134'
+  URL: http://doi.acm.org/10.1145/604174.604190
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/FengNSG07
+  type: paper-conference
+  author:
+  - family: Feng
+    given: Xinyu
+  - family: Ni
+    given: Zhaozhong
+  - family: Shao
+    given: Zhong
+  - family: Guo
+    given: Yu
+  editor:
+  - family: Pottier
+    given: François
+  issued:
+  - year: '2007'
+  title: An open framework for foundational proof-carrying code
+  container-title: TLDI
+  publisher: ACM
+  page: '67-78'
+  URL: http://doi.acm.org/10.1145/1190315.1190325
+  ISBN: 1-59593-393-X
+
+- id: conf/tldi/Abi-AntounA09
+  type: paper-conference
+  author:
+  - family: Abi-Antoun
+    given: Marwan
+  - family: Aldrich
+    given: Jonathan
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Static extraction of sound hierarchical runtime object graphs
+  container-title: TLDI
+  publisher: ACM
+  page: '51-64'
+  URL: http://doi.acm.org/10.1145/1481861.1481869
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/KrishnaswamiABSB09
+  type: paper-conference
+  author:
+  - family: Krishnaswami
+    given: Neelakantan R.
+  - family: Aldrich
+    given: Jonathan
+  - family: Birkedal
+    given: Lars
+  - family: Svendsen
+    given: Kasper
+  - family: Buisse
+    given: Alexandre
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Design patterns in separation logic
+  container-title: TLDI
+  publisher: ACM
+  page: '105-116'
+  URL: http://doi.acm.org/10.1145/1481861.1481874
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/AmtoftM03
+  type: paper-conference
+  author:
+  - family: Amtoft
+    given: Torben
+  - family: Muller
+    given: Robert
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Inferring annotated types for inter-procedural register allocation with constructor
+    flattening
+  container-title: TLDI
+  publisher: ACM
+  page: '86-97'
+  URL: http://doi.acm.org/10.1145/604174.604186
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/ChlipalaPH05
+  type: paper-conference
+  author:
+  - family: Chlipala
+    given: Adam
+  - family: Petersen
+    given: Leaf
+  - family: Harper
+    given: Robert
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Strict bidirectional type checking
+  container-title: TLDI
+  publisher: ACM
+  page: '71-78'
+  URL: http://doi.acm.org/10.1145/1040294.1040301
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/LammelJ03
+  type: paper-conference
+  author:
+  - family: Lämmel
+    given: Ralf
+  - family: Jones
+    given: Simon L. Peyton
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: 'Scrap your boilerplate: A practical design pattern for generic programming'
+  title-short: Scrap your boilerplate
+  container-title: TLDI
+  publisher: ACM
+  page: '26-37'
+  URL: http://doi.acm.org/10.1145/604174.604179
+  ISBN: '1-58113-649-8'
+
+- id: conf/tldi/BaltopoulosG09
+  type: paper-conference
+  author:
+  - family: Baltopoulos
+    given: Ioannis G.
+  - family: Gordon
+    given: Andrew D.
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2009'
+  title: Secure compilation of a multi-tier web language
+  container-title: TLDI
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1481861.1481866
+  ISBN: '978-1-60558-420-1'
+
+- id: conf/tldi/RingenburgG05
+  type: paper-conference
+  author:
+  - family: Ringenburg
+    given: Michael F.
+  - family: Grossman
+    given: Dan
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Types for describing coordinated data structures
+  container-title: TLDI
+  publisher: ACM
+  page: '25-36'
+  URL: http://doi.acm.org/10.1145/1040294.1040297
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/2010
+  type: book
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: 'Proceedings of tLDI 2010: 2010 aCM sIGPLAN international workshop on types
+    in languages design and implementation, madrid, spain, january 23, 2010'
+  title-short: Proceedings of tLDI 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1708016
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/ChangCNS05
+  type: paper-conference
+  author:
+  - family: Chang
+    given: Bor-Yuh Evan
+  - family: Chlipala
+    given: Adam
+  - family: Necula
+    given: George C.
+  - family: Schneck
+    given: Robert R.
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: The open verifier framework for foundational verifiers
+  container-title: TLDI
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/1040294.1040295
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/AvijitDH10
+  type: paper-conference
+  author:
+  - family: Avijit
+    given: Kumar
+  - family: Datta
+    given: Anupam
+  - family: Harper
+    given: Robert
+  editor:
+  - family: Kennedy
+    given: Andrew
+  issued:
+  - year: '2010'
+  title: Distributed programming with distributed authorization
+  container-title: TLDI
+  publisher: ACM
+  page: '27-38'
+  URL: http://doi.acm.org/10.1145/1708016.1708021
+  ISBN: '978-1-60558-891-9'
+
+- id: conf/tldi/BartheR05
+  type: paper-conference
+  author:
+  - family: Barthe
+    given: Gilles
+  - family: Rezk
+    given: Tamara
+  editor:
+  - family: Morrisett
+    given: J. Gregory
+  issued:
+  - year: '2005'
+  title: Non-interference for a jVM-like language
+  container-title: TLDI
+  publisher: ACM
+  page: '103-112'
+  URL: http://doi.acm.org/10.1145/1040294.1040304
+  ISBN: '1-58113-999-3'
+
+- id: conf/tldi/FlanaganQ03
+  type: paper-conference
+  author:
+  - family: Flanagan
+    given: Cormac
+  - family: Qadeer
+    given: Shaz
+  editor:
+  - family: Shao
+    given: Zhong
+  issued:
+  - year: '2003'
+  title: Types for atomicity
+  container-title: TLDI
+  publisher: ACM
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/604174.604176
+  ISBN: '1-58113-649-8'
+...

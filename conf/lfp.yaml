@@ -1,0 +1,4416 @@
+---
+references:
+- id: conf/lfp/MullerZ92
+  type: paper-conference
+  author:
+  - family: Muller
+    given: Robert
+  - family: Zhou
+    given: Yuli
+  issued:
+  - year: '1992'
+  title: Abstract interpretation in weak powerdomains
+  container-title: LISP and functional programming
+  page: '119-126'
+  URL: http://doi.acm.org/10.1145/141471.141520
+
+- id: conf/lfp/Strandh14a
+  type: paper-conference
+  author:
+  - family: Strandh
+    given: Robert
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: An improvement to sliding garbage collection
+  container-title: ILC
+  publisher: ACM
+  page: '97'
+  URL: http://doi.acm.org/10.1145/2635648.2635655
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/StrandhMHR07
+  type: paper-conference
+  author:
+  - family: Strandh
+    given: Robert
+  - family: Murray
+    given: David
+  - family: Henriksen
+    given: Troels
+  - family: Rhodes
+    given: Christophe
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'ESA: A cLIM library for writing emacs-style applications'
+  title-short: ESA
+  container-title: ILC
+  publisher: ACM
+  page: '24'
+  URL: http://doi.acm.org/10.1145/1622123.1622150
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/SarkarH86
+  type: paper-conference
+  author:
+  - family: Sarkar
+    given: Vivek
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1986'
+  title: Partitioning parallel programs for macro-dataflow
+  container-title: LISP and functional programming
+  page: '202-211'
+
+- id: conf/lfp/LermenM86
+  type: paper-conference
+  author:
+  - family: Lermen
+    given: Claus-Werner
+  - family: Maurer
+    given: Dieter
+  issued:
+  - year: '1986'
+  title: A protocol for distributed reference counting
+  container-title: LISP and functional programming
+  page: '343-350'
+
+- id: conf/lfp/HowardM90
+  type: paper-conference
+  author:
+  - family: Howard
+    given: Brian T.
+  - family: Mitchell
+    given: John C.
+  issued:
+  - year: '1990'
+  title: Operational and axiomatic semantics of pCF
+  container-title: LISP and functional programming
+  page: '298-306'
+  URL: http://doi.acm.org/10.1145/91556.91677
+
+- id: conf/lfp/MuchnickJ82
+  type: paper-conference
+  author:
+  - family: Muchnick
+    given: Steven S.
+  - family: Jones
+    given: Neil D.
+  issued:
+  - year: '1982'
+  title: A fixed-program machine for combinator expression evaluation
+  container-title: Symposium on lISP and functional programming
+  page: '11-20'
+
+- id: conf/lfp/Print80
+  type: paper-conference
+  author:
+  - family: Print
+    given: G.
+  issued:
+  - year: '1980'
+  title: Explicit parallelism in lISP-like languages
+  container-title: LISP conference
+  page: '13-18'
+
+- id: conf/lfp/Chin92
+  type: paper-conference
+  author:
+  - family: Chin
+    given: Wei-Ngan
+  issued:
+  - year: '1992'
+  title: Safe fusion of functional expressions
+  container-title: LISP and functional programming
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/141471.141494
+
+- id: conf/lfp/Brooks84
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Rodney A.
+  issued:
+  - year: '1984'
+  title: Trading data space for reduced time and code space in real-time garbage collection
+    on stock hardware
+  container-title: LISP and functional programming
+  page: '256-262'
+
+- id: conf/lfp/Remy92
+  type: paper-conference
+  author:
+  - family: Rémy
+    given: Didier
+  issued:
+  - year: '1992'
+  title: Projective mL
+  container-title: LISP and functional programming
+  page: '66-75'
+  URL: http://doi.acm.org/10.1145/141471.141507
+
+- id: conf/lfp/Kurokawa80
+  type: paper-conference
+  author:
+  - family: Kurokawa
+    given: Toshiaki
+  issued:
+  - year: '1980'
+  title: The function-class
+  container-title: LISP conference
+  page: '38-45'
+
+- id: conf/lfp/BurtonMBHKS80
+  type: paper-conference
+  author:
+  - family: Burton
+    given: Richard R.
+  - family: Masinter
+    given: Larry
+  - family: Bobrow
+    given: Daniel G.
+  - family: Haugeland
+    given: W.
+  - family: Kaplan
+    given: Ronald M.
+  - family: Sheil
+    given: B. A.
+  issued:
+  - year: '1980'
+  title: Overview and status of doradoLISP
+  container-title: LISP conference
+  page: '243-'
+
+- id: conf/lfp/Tolmach94
+  type: paper-conference
+  author:
+  - family: Tolmach
+    given: Andrew P.
+  issued:
+  - year: '1994'
+  title: Tag-free garbage collection using explicit type parameters
+  container-title: LISP and functional programming
+  page: '1-11'
+  URL: http://doi.acm.org/10.1145/182409.182411
+
+- id: conf/lfp/Norman88
+  type: paper-conference
+  author:
+  - family: Norman
+    given: A. C.
+  issued:
+  - year: '1988'
+  title: Faster combinator reduction using stock hardware
+  container-title: LISP and functional programming
+  page: '235-243'
+  URL: http://doi.acm.org/10.1145/62678.62716
+
+- id: conf/lfp/MasinterD80
+  type: paper-conference
+  author:
+  - family: Masinter
+    given: Larry
+  - family: Deutsch
+    given: L. Peter
+  issued:
+  - year: '1980'
+  title: Local optimization in a compiler for stack-based lISP machines
+  container-title: LISP conference
+  page: '223-230'
+
+- id: conf/lfp/Ramsdell86
+  type: paper-conference
+  author:
+  - family: Ramsdell
+    given: John D.
+  issued:
+  - year: '1986'
+  title: The cURRY chip
+  container-title: LISP and functional programming
+  page: '122-131'
+
+- id: conf/lfp/Dannenberg84
+  type: paper-conference
+  author:
+  - family: Dannenberg
+    given: Roger B.
+  issued:
+  - year: '1984'
+  title: 'Arctic: A functional language for real-time control'
+  title-short: Arctic
+  container-title: LISP and functional programming
+  page: '96-103'
+
+- id: conf/lfp/Pfeil14
+  type: paper-conference
+  author:
+  - family: Pfeil
+    given: Greg
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: 'Kilns: A lisp without lambda'
+  title-short: Kilns
+  container-title: ILC
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/2635648.2635663
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Gutierrez82
+  type: paper-conference
+  author:
+  - family: '0002'
+    given: Claudio Gutiérrez
+  issued:
+  - year: '1982'
+  title: Prolog compared with lisp
+  container-title: Symposium on lISP and functional programming
+  page: '143-149'
+
+- id: conf/lfp/DzengH94
+  type: paper-conference
+  author:
+  - family: Dzeng
+    given: Hsianlin
+  - family: Haynes
+    given: Christopher T.
+  issued:
+  - year: '1994'
+  title: Type reconstruction for variable-arity procedures
+  container-title: LISP and functional programming
+  page: '239-249'
+  URL: http://doi.acm.org/10.1145/182409.182484
+
+- id: conf/lfp/HerzeelGCD07
+  type: paper-conference
+  author:
+  - family: Herzeel
+    given: Charlotte
+  - family: Gybels
+    given: Kris
+  - family: Costanza
+    given: Pascal
+  - family: D’Hondt
+    given: Theo
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Modularizing crosscuts in an e-commerce application in lisp using hALO
+  container-title: ILC
+  publisher: ACM
+  page: '11'
+  URL: http://doi.acm.org/10.1145/1622123.1622136
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/MacQueenS82
+  type: paper-conference
+  author:
+  - family: MacQueen
+    given: David B.
+  - family: Sethi
+    given: Ravi
+  issued:
+  - year: '1982'
+  title: A semantic model of types for applicative languages
+  container-title: Symposium on lISP and functional programming
+  page: '243-252'
+
+- id: conf/lfp/KennawayS82
+  type: paper-conference
+  author:
+  - family: Kennaway
+    given: Richard
+  - family: Sleep
+    given: M. Ronan
+  issued:
+  - year: '1982'
+  title: Expressions as processes
+  container-title: Symposium on lISP and functional programming
+  page: '21-28'
+
+- id: conf/lfp/Thompson86
+  type: paper-conference
+  author:
+  - family: Thompson
+    given: Simon J.
+  issued:
+  - year: '1986'
+  title: Laws in miranda
+  container-title: LISP and functional programming
+  page: '1-12'
+
+- id: conf/lfp/Saint-James84
+  type: paper-conference
+  author:
+  - family: Saint-James
+    given: Emmanuel
+  issued:
+  - year: '1984'
+  title: Recursion is more efficient than iteration
+  container-title: LISP and functional programming
+  page: '228-234'
+
+- id: conf/lfp/EggertS82
+  type: paper-conference
+  author:
+  - family: Eggert
+    given: Paul R.
+  - family: Schorre
+    given: D. Val
+  issued:
+  - year: '1982'
+  title: 'Logic enhancement: A metho for extending logic programming languages'
+  title-short: Logic enhancement
+  container-title: Symposium on lISP and functional programming
+  page: '74-80'
+
+- id: conf/lfp/KohlbeckerFFD86
+  type: paper-conference
+  author:
+  - family: Kohlbecker
+    given: Eugene E.
+  - family: Friedman
+    given: Daniel P.
+  - family: Felleisen
+    given: Matthias
+  - family: Duba
+    given: Bruce F.
+  issued:
+  - year: '1986'
+  title: Hygienic macro expansion
+  container-title: LISP and functional programming
+  page: '151-161'
+
+- id: conf/lfp/WellonsW07
+  type: paper-conference
+  author:
+  - family: Wellons
+    given: Jonathan
+  - family: Wisneski
+    given: John
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'DAUTI: Automated universal traffic introspector'
+  title-short: DAUTI
+  container-title: ILC
+  publisher: ACM
+  page: '25'
+  URL: http://doi.acm.org/10.1145/1622123.1622151
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Steele80
+  type: paper-conference
+  author:
+  - family: Steele
+    given: B.
+  issued:
+  - year: '1980'
+  title: Strategies for data abstraction in lISP
+  container-title: LISP conference
+  page: '173-178'
+
+- id: conf/lfp/DavisPS94
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Harley
+  - family: Parquier
+    given: Pierre
+  - family: Séniak
+    given: Nitsan
+  issued:
+  - year: '1994'
+  title: Talking about modules and delivery
+  container-title: LISP and functional programming
+  page: '113-120'
+  URL: http://doi.acm.org/10.1145/182409.182451
+
+- id: conf/lfp/Bohm82
+  type: paper-conference
+  author:
+  - family: Böhm
+    given: Corrado
+  issued:
+  - year: '1982'
+  title: Combinatory foundation of functional programming
+  container-title: Symposium on lISP and functional programming
+  page: '29-36'
+
+- id: conf/lfp/Stoyan07
+  type: paper-conference
+  author:
+  - family: Stoyan
+    given: Herbert
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'Lisp: Themes and history'
+  title-short: Lisp
+  container-title: ILC
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/1622123.1622132
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/TinkerK88
+  type: paper-conference
+  author:
+  - family: Tinker
+    given: Pete
+  - family: Katz
+    given: Morry
+  issued:
+  - year: '1988'
+  title: Parallel execution of sequential scheme with paraTran
+  container-title: LISP and functional programming
+  page: '28-39'
+  URL: http://doi.acm.org/10.1145/62678.62682
+
+- id: conf/lfp/ShaoA94
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Zhong
+  - family: Appel
+    given: Andrew W.
+  issued:
+  - year: '1994'
+  title: Space-efficient closure representations
+  container-title: LISP and functional programming
+  page: '150-161'
+  URL: http://doi.acm.org/10.1145/182409.156783
+
+- id: conf/lfp/Georgeff82
+  type: paper-conference
+  author:
+  - family: Georgeff
+    given: Michael P.
+  issued:
+  - year: '1982'
+  title: A scheme for implementing functional values on a stack machine
+  container-title: Symposium on lISP and functional programming
+  page: '188-195'
+
+- id: conf/lfp/Lamping88
+  type: paper-conference
+  author:
+  - family: Lamping
+    given: John
+  issued:
+  - year: '1988'
+  title: A unified system of parameterization for programming languages
+  container-title: LISP and functional programming
+  page: '316-326'
+  URL: http://doi.acm.org/10.1145/62678.62724
+
+- id: conf/lfp/GoldbergP84
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Allen
+  - family: Paige
+    given: Robert
+  issued:
+  - year: '1984'
+  title: Stream processing
+  container-title: LISP and functional programming
+  page: '53-62'
+
+- id: conf/lfp/GiffordL86
+  type: paper-conference
+  author:
+  - family: Gifford
+    given: David K.
+  - family: Lucassen
+    given: John M.
+  issued:
+  - year: '1986'
+  title: Integrating functional and imperative programming
+  container-title: LISP and functional programming
+  page: '28-38'
+
+- id: conf/lfp/LawallD94
+  type: paper-conference
+  author:
+  - family: Lawall
+    given: Julia L.
+  - family: Danvy
+    given: Olivier
+  issued:
+  - year: '1994'
+  title: Continuation-based partial evaluation
+  container-title: LISP and functional programming
+  page: '227-238'
+  URL: http://doi.acm.org/10.1145/182409.182483
+
+- id: conf/lfp/AkashiTFHS07
+  type: paper-conference
+  author:
+  - family: Akashi
+    given: Osamu
+  - family: Terauchi
+    given: Atsushi
+  - family: Fukuda
+    given: Kensuke
+  - family: Hirotsu
+    given: Toshio
+  - family: Sugawara
+    given: Toshiharu
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Lisp-based agent platform and applications for inter-domain network management
+  container-title: ILC
+  publisher: ACM
+  page: '14'
+  URL: http://doi.acm.org/10.1145/1622123.1622140
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/DoschM84
+  type: paper-conference
+  author:
+  - family: Dosch
+    given: Walter
+  - family: Möller
+    given: Bernhard
+  issued:
+  - year: '1984'
+  title: Busy and lazy fP with infinite objects
+  container-title: LISP and functional programming
+  page: '282-292'
+
+- id: conf/lfp/Lieberman84
+  type: paper-conference
+  author:
+  - family: Lieberman
+    given: Henry
+  issued:
+  - year: '1984'
+  title: Steps toward better debugging tools for lisp
+  container-title: LISP and functional programming
+  page: '247-255'
+
+- id: conf/lfp/DavisPS94a
+  type: paper-conference
+  author:
+  - family: Davis
+    given: Harley
+  - family: Parquier
+    given: Pierre
+  - family: Séniak
+    given: Nitsan
+  issued:
+  - year: '1994'
+  title: 'Sweet harmony: The talk/C++ connection'
+  title-short: Sweet harmony
+  container-title: LISP and functional programming
+  page: '121-127'
+  URL: http://doi.acm.org/10.1145/182409.156777
+
+- id: conf/lfp/ClingerHO88
+  type: paper-conference
+  author:
+  - family: Clinger
+    given: William D.
+  - family: Hartheimer
+    given: Anne
+  - family: Ost
+    given: Eric
+  issued:
+  - year: '1988'
+  title: Implementation strategies for continuations
+  container-title: LISP and functional programming
+  page: '124-131'
+  URL: http://doi.acm.org/10.1145/62678.62692
+
+- id: conf/lfp/Pettorossi84
+  type: paper-conference
+  author:
+  - family: Pettorossi
+    given: Alberto
+  issued:
+  - year: '1984'
+  title: A powerful strategy for deriving efficient programs by transformation
+  container-title: LISP and functional programming
+  page: '273-281'
+
+- id: conf/lfp/SteeleH86
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Guy L. Steele
+  - family: Hillis
+    given: W. Daniel
+  issued:
+  - year: '1986'
+  title: 'Connection machine lISP: Fine-grained parallel symbolic processing'
+  title-short: Connection machine lISP
+  container-title: LISP and functional programming
+  page: '279-297'
+
+- id: conf/lfp/Deutsch80
+  type: paper-conference
+  author:
+  - family: Deutsch
+    given: L. Peter
+  issued:
+  - year: '1980'
+  title: ByteLisp and its alto implementation
+  container-title: LISP conference
+  page: '231-242'
+
+- id: conf/lfp/Augustsson84
+  type: paper-conference
+  author:
+  - family: Augustsson
+    given: Lennart
+  issued:
+  - year: '1984'
+  title: A compiler for lazy mL
+  container-title: LISP and functional programming
+  page: '218-227'
+
+- id: conf/lfp/DybvigFH86
+  type: paper-conference
+  author:
+  - family: Dybvig
+    given: R. Kent
+  - family: Friedman
+    given: Daniel P.
+  - family: Haynes
+    given: Christopher T.
+  issued:
+  - year: '1986'
+  title: 'Expansion-passing style: Beyond conventional macros'
+  title-short: Expansion-passing style
+  container-title: LISP and functional programming
+  page: '143-150'
+
+- id: conf/lfp/ChaillouxDH84
+  type: paper-conference
+  author:
+  - family: Chailloux
+    given: Jérôme
+  - family: Devin
+    given: Matthieu
+  - family: Hullot
+    given: Jean-Marie
+  issued:
+  - year: '1984'
+  title: LE lISP, a portable and efficient lISP system
+  container-title: LISP and functional programming
+  page: '113-122'
+
+- id: conf/lfp/WangH92
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Edward
+  - family: Hilfinger
+    given: Paul N.
+  issued:
+  - year: '1992'
+  title: Analysis of recursive types in lisp-like languages
+  container-title: LISP and functional programming
+  page: '216-225'
+  URL: http://doi.acm.org/10.1145/141471.141544
+
+- id: conf/lfp/Nunes-Harwitt14
+  type: paper-conference
+  author:
+  - family: Nunes-Harwitt
+    given: Arthur
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: From naïve to norvig on deriving a pROLOG compiler
+  container-title: ILC
+  publisher: ACM
+  page: '70'
+  URL: http://doi.acm.org/10.1145/2635648.2635649
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/MacQueen84
+  type: paper-conference
+  author:
+  - family: MacQueen
+    given: David B.
+  issued:
+  - year: '1984'
+  title: Modules for standard mL
+  container-title: LISP and functional programming
+  page: '198-207'
+
+- id: conf/lfp/Frank07
+  type: paper-conference
+  author:
+  - family: Frank
+    given: Stephan
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Constraint solving in common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/1622123.1622135
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Strandh14
+  type: paper-conference
+  author:
+  - family: Strandh
+    given: Robert
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Fast generic dispatch for common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '89'
+  URL: http://doi.acm.org/10.1145/2635648.2635654
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/NielsonN92
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Flemming
+  - family: Nielson
+    given: Hanne Riis
+  issued:
+  - year: '1992'
+  title: Finiteness conditions for fixed point iteration
+  container-title: LISP and functional programming
+  page: '96-108'
+  URL: http://doi.acm.org/10.1145/141471.141514
+
+- id: conf/lfp/McKayS80
+  type: paper-conference
+  author:
+  - family: McKay
+    given: Donald P.
+  - family: Shapiro
+    given: Stuart C.
+  issued:
+  - year: '1980'
+  title: MULTI - a lISP based multiprocessing system
+  container-title: LISP conference
+  page: '29-37'
+
+- id: conf/lfp/Hewitt80
+  type: paper-conference
+  author:
+  - family: Hewitt
+    given: Carl
+  issued:
+  - year: '1980'
+  title: Design of the aPIARY for actor systems
+  container-title: LISP conference
+  page: '107-118'
+
+- id: conf/lfp/SteenkisteH86
+  type: paper-conference
+  author:
+  - family: Steenkiste
+    given: Peter
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1986'
+  title: LISP on a reduced-instruction-set-processor
+  container-title: LISP and functional programming
+  page: '192-201'
+
+- id: conf/lfp/BawdenR88
+  type: paper-conference
+  author:
+  - family: Bawden
+    given: Alan
+  - family: Rees
+    given: Jonathan
+  issued:
+  - year: '1988'
+  title: Syntactic closures
+  container-title: LISP and functional programming
+  page: '86-95'
+  URL: http://doi.acm.org/10.1145/62678.62687
+
+- id: conf/lfp/Sheeran84
+  type: paper-conference
+  author:
+  - family: Sheeran
+    given: Mary
+  issued:
+  - year: '1984'
+  title: MuFP, a language for vLSI design
+  container-title: LISP and functional programming
+  page: '104-112'
+
+- id: conf/lfp/KeishiS14
+  type: paper-conference
+  author:
+  - family: Keishi
+    given: Suda
+  - family: Seika
+    given: Abe
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: 'PaGe: Portable lALR(1) parser generator'
+  title-short: PaGe
+  container-title: ILC
+  publisher: ACM
+  page: '8'
+  URL: http://doi.acm.org/10.1145/2635648.2635650
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/TolmachA90
+  type: paper-conference
+  author:
+  - family: Tolmach
+    given: Andrew P.
+  - family: Appel
+    given: Andrew W.
+  issued:
+  - year: '1990'
+  title: Debugging standard mL without reverse engineering
+  container-title: LISP and functional programming
+  page: '1-12'
+  URL: http://doi.acm.org/10.1145/91556.91564
+
+- id: conf/lfp/Vuillemin88
+  type: paper-conference
+  author:
+  - family: Vuillemin
+    given: Jean
+  issued:
+  - year: '1988'
+  title: Exact real computer arithmetic with continued fractions
+  container-title: LISP and functional programming
+  page: '14-27'
+  URL: http://doi.acm.org/10.1145/62678.62681
+
+- id: conf/lfp/TurchinNT82
+  type: paper-conference
+  author:
+  - family: Turchin
+    given: Valentin F.
+  - family: Nirenberg
+    given: Robert M.
+  - family: Turchin
+    given: Dimitri V.
+  issued:
+  - year: '1982'
+  title: Experiments with a supercompiler
+  container-title: Symposium on lISP and functional programming
+  page: '47-55'
+
+- id: conf/lfp/GiorgiM90
+  type: paper-conference
+  author:
+  - family: Giorgi
+    given: J.-F.
+  - family: Métayer
+    given: Daniel Le
+  issued:
+  - year: '1990'
+  title: Continuation-based parallel implementation of functional programming languages
+  container-title: LISP and functional programming
+  page: '209-217'
+  URL: http://doi.acm.org/10.1145/91556.91648
+
+- id: conf/lfp/DavenportJ80
+  type: paper-conference
+  author:
+  - family: Davenport
+    given: James H.
+  - family: Jenks
+    given: Richard D.
+  issued:
+  - year: '1980'
+  title: MODLISP
+  container-title: LISP conference
+  page: '65-74'
+
+- id: conf/lfp/BoveA92
+  type: paper-conference
+  author:
+  - family: Bove
+    given: Ana
+  - family: Arbilla
+    given: Laura
+  issued:
+  - year: '1992'
+  title: A confluent calculus of macro expansion and evaluation
+  container-title: LISP and functional programming
+  page: '278-287'
+  URL: http://doi.acm.org/10.1145/141471.141562
+
+- id: conf/lfp/White80
+  type: paper-conference
+  author:
+  - family: White
+    given: J.
+  issued:
+  - year: '1980'
+  title: Address/Memory management for a gigantic lISP environment
+  container-title: LISP conference
+  page: '119-127'
+
+- id: conf/lfp/MacQueen88
+  type: paper-conference
+  author:
+  - family: MacQueen
+    given: David B.
+  issued:
+  - year: '1988'
+  title: An implementation of standard mL modules
+  container-title: LISP and functional programming
+  page: '212-223'
+  URL: http://doi.acm.org/10.1145/62678.62704
+
+- id: conf/lfp/Fradet94
+  type: paper-conference
+  author:
+  - family: Fradet
+    given: Pascal
+  issued:
+  - year: '1994'
+  title: Collecting more garbage
+  container-title: LISP and functional programming
+  page: '24-33'
+  URL: http://doi.acm.org/10.1145/182409.182417
+
+- id: conf/lfp/HaynesF84
+  type: paper-conference
+  author:
+  - family: Haynes
+    given: Christopher T.
+  - family: Friedman
+    given: Daniel P.
+  issued:
+  - year: '1984'
+  title: Engines build process abstractions
+  container-title: LISP and functional programming
+  page: '18-24'
+
+- id: conf/lfp/ReesA82
+  type: paper-conference
+  author:
+  - family: Rees
+    given: Jonathan
+  - family: Adams
+    given: Norman
+  issued:
+  - year: '1982'
+  title: 'T: A dialect of lisp or, lAMBDA: The ultimate software tool'
+  title-short: T
+  container-title: Symposium on lISP and functional programming
+  page: '114-122'
+
+- id: conf/lfp/Cooper14
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Dave
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: A gentle introduction to gendl®, a common lisp-based knowledge based engineering
+    environment
+  container-title: ILC
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/2635648.2635665
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/StefanPBB84
+  type: paper-conference
+  author:
+  - family: Stefan
+    given: Gheorghe
+  - family: Paun
+    given: Aurel
+  - family: Bistriceanu
+    given: Virgil
+  - family: Birnbaum
+    given: Andy
+  issued:
+  - year: '1984'
+  title: DIALISP - a lisp machine
+  container-title: LISP and functional programming
+  page: '123-128'
+
+- id: conf/lfp/Moss82
+  type: paper-conference
+  author:
+  - family: Moss
+    given: Christopher D. S.
+  issued:
+  - year: '1982'
+  title: How to define a language using pROLOG
+  container-title: Symposium on lISP and functional programming
+  page: '67-73'
+
+- id: conf/lfp/SwansonKL88
+  type: paper-conference
+  author:
+  - family: Swanson
+    given: Mark R.
+  - family: Kessler
+    given: Robert R.
+  - family: Lindstrom
+    given: Gary
+  issued:
+  - year: '1988'
+  title: An implementation of portable standard lISP on the bBN butterfly
+  container-title: LISP and functional programming
+  page: '132-142'
+  URL: http://doi.acm.org/10.1145/62678.62694
+
+- id: conf/lfp/Wadler90
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  issued:
+  - year: '1990'
+  title: Comprehending monads
+  container-title: LISP and functional programming
+  page: '61-78'
+  URL: http://doi.acm.org/10.1145/91556.91592
+
+- id: conf/lfp/Marti80
+  type: paper-conference
+  author:
+  - family: Marti
+    given: J.
+  issued:
+  - year: '1980'
+  title: Compilation techniques for a control-flow concurrent lISP system
+  container-title: LISP conference
+  page: '203-207'
+
+- id: conf/lfp/BiagioniHLM94
+  type: paper-conference
+  author:
+  - family: Biagioni
+    given: Edoardo
+  - family: Harper
+    given: Robert
+  - family: '0001'
+    given: Peter Lee
+  - family: Milnes
+    given: Brian
+  issued:
+  - year: '1994'
+  title: 'Signatures for a network protocol stack: A systems application of standard
+    mL'
+  title-short: Signatures for a network protocol stack
+  container-title: LISP and functional programming
+  page: '55-64'
+  URL: http://doi.acm.org/10.1145/182409.182431
+
+- id: conf/lfp/Henderson82
+  type: paper-conference
+  author:
+  - family: Henderson
+    given: Peter
+  issued:
+  - year: '1982'
+  title: Functional geometry
+  container-title: Symposium on lISP and functional programming
+  page: '179-187'
+
+- id: conf/lfp/DanvyL92
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Lawall
+    given: Julia L.
+  issued:
+  - year: '1992'
+  title: 'Back to direct style iI: First-class continuations'
+  title-short: Back to direct style iI
+  container-title: LISP and functional programming
+  page: '299-310'
+  URL: http://doi.acm.org/10.1145/141471.141564
+
+- id: conf/lfp/Herth07
+  type: paper-conference
+  author:
+  - family: Herth
+    given: Peter
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Portable common lisp graphical user interfaces with lTk
+  container-title: ILC
+  publisher: ACM
+  page: '19'
+  URL: http://doi.acm.org/10.1145/1622123.1622145
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/ShaoRA94
+  type: paper-conference
+  author:
+  - family: Shao
+    given: Zhong
+  - family: Reppy
+    given: John H.
+  - family: Appel
+    given: Andrew W.
+  issued:
+  - year: '1994'
+  title: Unrolling lists
+  container-title: LISP and functional programming
+  page: '185-195'
+  URL: http://doi.acm.org/10.1145/182409.182453
+
+- id: conf/lfp/Reddy88
+  type: paper-conference
+  author:
+  - family: Reddy
+    given: Uday S.
+  issued:
+  - year: '1988'
+  title: 'Objects as closures: Abstract semantics of object-oriented languages'
+  title-short: Objects as closures
+  container-title: LISP and functional programming
+  page: '289-297'
+  URL: http://doi.acm.org/10.1145/62678.62721
+
+- id: conf/lfp/Heintze94
+  type: paper-conference
+  author:
+  - family: Heintze
+    given: Nevin
+  issued:
+  - year: '1994'
+  title: Set-based analysis of mL programs
+  container-title: LISP and functional programming
+  page: '306-317'
+  URL: http://doi.acm.org/10.1145/182409.182495
+
+- id: conf/lfp/MohrKH90
+  type: paper-conference
+  author:
+  - family: Mohr
+    given: Eric
+  - family: Kranz
+    given: David A.
+  - family: Jr.
+    given: Robert H. Halstead
+  issued:
+  - year: '1990'
+  title: 'Lazy task creation: A technique for increasing the granularity of parallel
+    programs'
+  title-short: Lazy task creation
+  container-title: LISP and functional programming
+  page: '185-197'
+  URL: http://doi.acm.org/10.1145/91556.91631
+
+- id: conf/lfp/CooperNS92
+  type: paper-conference
+  author:
+  - family: Cooper
+    given: Eric
+  - family: Nettles
+    given: Scott
+  - family: Subramanian
+    given: Indira
+  issued:
+  - year: '1992'
+  title: Improving the performance of sML garbage collection using application-specific
+    virtual memory management
+  container-title: LISP and functional programming
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/141471.141501
+
+- id: conf/lfp/JagannathanP92
+  type: paper-conference
+  author:
+  - family: Jagannathan
+    given: Suresh
+  - family: Philbin
+    given: James
+  issued:
+  - year: '1992'
+  title: A foundation for an efficient multi-threaded scheme system
+  container-title: LISP and functional programming
+  page: '345-357'
+  URL: http://doi.acm.org/10.1145/141471.141573
+
+- id: conf/lfp/ChirimarGR92
+  type: paper-conference
+  author:
+  - family: Chirimar
+    given: Jawahar
+  - family: Gunter
+    given: Carl A.
+  - family: Riecke
+    given: Jon G.
+  issued:
+  - year: '1992'
+  title: Proving memory management invariants for a language based on linear logic
+  container-title: LISP and functional programming
+  page: '139-150'
+  URL: http://doi.acm.org/10.1145/141471.141527
+
+- id: conf/lfp/Aasman07
+  type: paper-conference
+  author:
+  - family: Aasman
+    given: Jans
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Scalable lisp applications
+  container-title: ILC
+  publisher: ACM
+  page: '1'
+  URL: http://doi.acm.org/10.1145/1622123.1622125
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/BrooksGS82
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Rodney A.
+  - family: Gabriel
+    given: Richard P.
+  - family: Jr.
+    given: Guy L. Steele
+  issued:
+  - year: '1982'
+  title: S-1 common lisp implementation
+  container-title: Symposium on lISP and functional programming
+  page: '108-113'
+
+- id: conf/lfp/DeanC94
+  type: paper-conference
+  author:
+  - family: Dean
+    given: Jeffrey
+  - family: Chambers
+    given: Craig
+  issued:
+  - year: '1994'
+  title: Towards better inlining decisions using inlining trials
+  container-title: LISP and functional programming
+  page: '273-282'
+  URL: http://doi.acm.org/10.1145/182409.182489
+
+- id: conf/lfp/Bellegarde84
+  type: paper-conference
+  author:
+  - family: Bellegarde
+    given: Françoise
+  issued:
+  - year: '1984'
+  title: Rewriting systems on fP expressions that reduce the number of sequences they
+    yield
+  container-title: LISP and functional programming
+  page: '63-73'
+
+- id: conf/lfp/CointeR84
+  type: paper-conference
+  author:
+  - family: Cointe
+    given: Pierre
+  - family: Rodet
+    given: Xavier
+  issued:
+  - year: '1984'
+  title: 'Formes: An object and time oriented system for music composition and synthesis'
+  title-short: Formes
+  container-title: LISP and functional programming
+  page: '85-95'
+
+- id: conf/lfp/Hall94
+  type: paper-conference
+  author:
+  - family: Hall
+    given: Cordelia V.
+  issued:
+  - year: '1994'
+  title: Using hindley-milner type inference to optimise list representation
+  container-title: LISP and functional programming
+  page: '162-172'
+  URL: http://doi.acm.org/10.1145/182409.156781
+
+- id: conf/lfp/OhoriB88
+  type: paper-conference
+  author:
+  - family: Ohori
+    given: Atsushi
+  - family: Buneman
+    given: Peter
+  issued:
+  - year: '1988'
+  title: Type inference in a database programming language
+  container-title: LISP and functional programming
+  page: '174-183'
+  URL: http://doi.acm.org/10.1145/62678.62700
+
+- id: conf/lfp/ChenHO92
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Kung
+  - family: Hudak
+    given: Paul
+  - family: Odersky
+    given: Martin
+  issued:
+  - year: '1992'
+  title: Parametric type classes
+  container-title: LISP and functional programming
+  page: '170-181'
+  URL: http://doi.acm.org/10.1145/141471.141536
+
+- id: conf/lfp/Johnson90
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: Douglas
+  issued:
+  - year: '1990'
+  title: Trap architectures for lisp systems
+  container-title: LISP and functional programming
+  page: '79-86'
+  URL: http://doi.acm.org/10.1145/91556.91595
+
+- id: conf/lfp/SastryC94
+  type: paper-conference
+  author:
+  - family: Sastry
+    given: A. V. S.
+  - family: Clinger
+    given: William D.
+  issued:
+  - year: '1994'
+  title: Parallel destructive updating in strict functional languages
+  container-title: LISP and functional programming
+  page: '263-272'
+  URL: http://doi.acm.org/10.1145/182409.182486
+
+- id: conf/lfp/MorrisS80
+  type: paper-conference
+  author:
+  - family: Morris
+    given: L.
+  - family: Schwarz
+    given: J.
+  issued:
+  - year: '1980'
+  title: Computing cyclic list structures
+  container-title: LISP conference
+  page: '144-153'
+
+- id: conf/lfp/Kaes92
+  type: paper-conference
+  author:
+  - family: Kaes
+    given: Stefan
+  issued:
+  - year: '1992'
+  title: Type inference in the presence of overloading, subtyping and recursive types
+  container-title: LISP and functional programming
+  page: '193-204'
+  URL: http://doi.acm.org/10.1145/141471.141540
+
+- id: conf/lfp/Zorn90
+  type: paper-conference
+  author:
+  - family: Zorn
+    given: Benjamin G.
+  issued:
+  - year: '1990'
+  title: Comparing mark-and-sweep and stop-and-copy garbage collection
+  container-title: LISP and functional programming
+  page: '87-98'
+  URL: http://doi.acm.org/10.1145/91556.91597
+
+- id: conf/lfp/JagannathanW94
+  type: paper-conference
+  author:
+  - family: Jagannathan
+    given: Suresh
+  - family: Weeks
+    given: Stephen
+  issued:
+  - year: '1994'
+  title: Analyzing stores and references in a parallel symbolic language
+  container-title: LISP and functional programming
+  page: '294-305'
+  URL: http://doi.acm.org/10.1145/182409.182493
+
+- id: conf/lfp/RoseM92
+  type: paper-conference
+  author:
+  - family: Rose
+    given: John R.
+  - family: Muller
+    given: Hans
+  issued:
+  - year: '1992'
+  title: Integrating the scheme and c languages
+  container-title: LISP and functional programming
+  page: '247-259'
+  URL: http://doi.acm.org/10.1145/141471.141559
+
+- id: conf/lfp/Tung92
+  type: paper-conference
+  author:
+  - family: Tung
+    given: Sho-Huan Simon
+  issued:
+  - year: '1992'
+  title: Interactive modular programming in scheme
+  container-title: LISP and functional programming
+  page: '86-95'
+  URL: http://doi.acm.org/10.1145/141471.141512
+
+- id: conf/lfp/MalachiMW84
+  type: paper-conference
+  author:
+  - family: Malachi
+    given: Yonathan
+  - family: Manna
+    given: Zohar
+  - family: Waldinger
+    given: Richard J.
+  issued:
+  - year: '1984'
+  title: 'TABLOG: The deductive-tableau programming language'
+  title-short: TABLOG
+  container-title: LISP and functional programming
+  page: '323-330'
+
+- id: conf/lfp/JayaramanS86
+  type: paper-conference
+  author:
+  - family: Jayaraman
+    given: Bharat
+  - family: Silbermann
+    given: Frank S. K.
+  issued:
+  - year: '1986'
+  title: Equations, sets, and reduction semantics for functional and logic programming
+  container-title: LISP and functional programming
+  page: '320-331'
+
+- id: conf/lfp/Moon84
+  type: paper-conference
+  author:
+  - family: Moon
+    given: David A.
+  issued:
+  - year: '1984'
+  title: Garbage collection in a large lisp system
+  container-title: LISP and functional programming
+  page: '235-246'
+
+- id: conf/lfp/AdityaFH94
+  type: paper-conference
+  author:
+  - family: Aditya
+    given: Shail
+  - family: Flood
+    given: Christine H.
+  - family: Hicks
+    given: James E.
+  issued:
+  - year: '1994'
+  title: Garbage collection for strongly-typed languages using run-time type reconstruction
+  container-title: LISP and functional programming
+  page: '12-23'
+  URL: http://doi.acm.org/10.1145/182409.182414
+
+- id: conf/lfp/HiraishiYY07
+  type: paper-conference
+  author:
+  - family: Hiraishi
+    given: Tasuku
+  - family: Yasugi
+    given: Masahiro
+  - family: Yuasa
+    given: Taiichi
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'Experience with sC: Transformation-based implementation of various extensions
+    to c'
+  title-short: Experience with sC
+  container-title: ILC
+  publisher: ACM
+  page: '20'
+  URL: http://doi.acm.org/10.1145/1622123.1622146
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/JategaonkarM88
+  type: paper-conference
+  author:
+  - family: Jategaonkar
+    given: Lalita
+  - family: Mitchell
+    given: John C.
+  issued:
+  - year: '1988'
+  title: ML with extended pattern matching and subtypes
+  container-title: LISP and functional programming
+  page: '198-211'
+  URL: http://doi.acm.org/10.1145/62678.62702
+
+- id: conf/lfp/LiebermanH80
+  type: paper-conference
+  author:
+  - family: Lieberman
+    given: Henry
+  - family: Hewitt
+    given: Carl
+  issued:
+  - year: '1980'
+  title: 'A session with tinker: Interleaving program testing with program writing'
+  title-short: A session with tinker
+  container-title: LISP conference
+  page: '90-99'
+
+- id: conf/lfp/PuelS90
+  type: paper-conference
+  author:
+  - family: Puel
+    given: Laurence
+  - family: Suárez
+    given: Ascánder
+  issued:
+  - year: '1990'
+  title: Compiling pattern matching by term decomposition
+  container-title: LISP and functional programming
+  page: '273-281'
+  URL: http://doi.acm.org/10.1145/91556.91670
+
+- id: conf/lfp/GotoSIIIHSSP82
+  type: paper-conference
+  author:
+  - family: Goto
+    given: Eiichi
+  - family: Soma
+    given: T.
+  - family: Inada
+    given: N.
+  - family: Ida
+    given: Tetsuo
+  - family: Idesawa
+    given: M.
+  - family: Hiraki
+    given: Kei
+  - family: Suzuki
+    given: M.
+  - family: Shimizu
+    given: Kentaro
+  - family: Philipov
+    given: B.
+  issued:
+  - year: '1982'
+  title: Design of a lisp machine - fLATS
+  container-title: Symposium on lISP and functional programming
+  page: '208-215'
+
+- id: conf/lfp/WakitaHS14
+  type: paper-conference
+  author:
+  - family: Wakita
+    given: Ken
+  - family: Homizu
+    given: Kanako
+  - family: Sasaki
+    given: Akira
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Hygienic macro system for javaScript and its light-weight implementation
+    framework
+  container-title: ILC
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/2635648.2635653
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/DybvigH88
+  type: paper-conference
+  author:
+  - family: Dybvig
+    given: R. Kent
+  - family: Hieb
+    given: Robert
+  issued:
+  - year: '1988'
+  title: A variable-arity procedural interface
+  container-title: LISP and functional programming
+  page: '106-115'
+  URL: http://doi.acm.org/10.1145/62678.62689
+
+- id: conf/lfp/Castro-Castilla14
+  type: paper-conference
+  author:
+  - family: Castro-Castilla
+    given: Álvaro
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Multiplatform and mobile app development in scheme with gambit/SchemeSpheres
+  container-title: ILC
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/2635648.2635659
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Bondorf92
+  type: paper-conference
+  author:
+  - family: Bondorf
+    given: Anders
+  issued:
+  - year: '1992'
+  title: Improving binding times without explicit cPS-conversion
+  container-title: LISP and functional programming
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/141471.141483
+
+- id: conf/lfp/MehnertB07
+  type: paper-conference
+  author:
+  - family: Mehnert
+    given: Hannes
+  - family: Bogk
+    given: Andreas
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: A domain-specific language for manipulation of binary data in dylan
+  container-title: ILC
+  publisher: ACM
+  page: '22'
+  URL: http://doi.acm.org/10.1145/1622123.1622148
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Thatte86
+  type: paper-conference
+  author:
+  - family: Thatte
+    given: Satish R.
+  issued:
+  - year: '1986'
+  title: Towards a semantic theory for equational programming languages
+  container-title: LISP and functional programming
+  page: '332-342'
+
+- id: conf/lfp/HannanM90
+  type: paper-conference
+  author:
+  - family: Hannan
+    given: John
+  - family: Miller
+    given: Dale
+  issued:
+  - year: '1990'
+  title: 'From operational semantics to abstract machines: Preliminary results'
+  title-short: From operational semantics to abstract machines
+  container-title: LISP and functional programming
+  page: '323-332'
+  URL: http://doi.acm.org/10.1145/91556.91680
+
+- id: conf/lfp/FriedmanW84
+  type: paper-conference
+  author:
+  - family: Friedman
+    given: Daniel P.
+  - family: Wand
+    given: Mitchell
+  issued:
+  - year: '1984'
+  title: 'Reification: Reflection without metaphysics'
+  title-short: Reification
+  container-title: LISP and functional programming
+  page: '348-355'
+
+- id: conf/lfp/Smith14
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Robert
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Common lisp’s predilection for mathematical programming
+  container-title: ILC
+  publisher: ACM
+  page: '10'
+  URL: http://doi.acm.org/10.1145/2635648.2639484
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Model80
+  type: paper-conference
+  author:
+  - family: Model
+    given: M.
+  issued:
+  - year: '1980'
+  title: Multiprocessing via intercommunicating lISP systems
+  container-title: LISP conference
+  page: '188-195'
+
+- id: conf/lfp/Serrano07
+  type: paper-conference
+  author:
+  - family: Serrano
+    given: Manuel
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'HOP: An environment for developing web 2.0 applications'
+  title-short: HOP
+  container-title: ILC
+  publisher: ACM
+  page: '6'
+  URL: http://doi.acm.org/10.1145/1622123.1622130
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Thatte94
+  type: paper-conference
+  author:
+  - family: Thatte
+    given: Satish R.
+  issued:
+  - year: '1994'
+  title: Semantics of type classes revisited
+  container-title: LISP and functional programming
+  page: '208-219'
+  URL: http://doi.acm.org/10.1145/182409.182459
+
+- id: conf/lfp/MuchnickP80
+  type: paper-conference
+  author:
+  - family: Muchnick
+    given: Steven S.
+  - family: Pleban
+    given: Uwe F.
+  issued:
+  - year: '1980'
+  title: A semantic comparison of lISP and scheme
+  container-title: LISP conference
+  page: '56-64'
+
+- id: conf/lfp/SteeleS80
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Guy L. Steele
+  - family: Sussman
+    given: Gerald J.
+  issued:
+  - year: '1980'
+  title: 'The dream of lifetime: A lazy variable extent mechanism'
+  title-short: The dream of lifetime
+  container-title: LISP conference
+  page: '163-172'
+
+- id: conf/lfp/UgawaIY10
+  type: paper-conference
+  author:
+  - family: Ugawa
+    given: Tomoharu
+  - family: Iwasaki
+    given: Hideya
+  - family: Yuasa
+    given: Taiichi
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: Starvation-free heap size for replication-based incremental compacting garbage
+    collection
+  container-title: ILC
+  publisher: ACM
+  page: '43-52'
+  URL: http://doi.acm.org/10.1145/1869643.1869649
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/Cregut90
+  type: paper-conference
+  author:
+  - family: Crégut
+    given: Pierre
+  issued:
+  - year: '1990'
+  title: An abstract machine for lambda-terms normalization
+  container-title: LISP and functional programming
+  page: '333-340'
+  URL: http://doi.acm.org/10.1145/91556.91681
+
+- id: conf/lfp/ClackJ86
+  type: paper-conference
+  author:
+  - family: Clack
+    given: Chris D.
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1986'
+  title: The four-stroke reduction engine
+  container-title: LISP and functional programming
+  page: '220-232'
+
+- id: conf/lfp/HudakG84
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Goldberg
+    given: Benjamin
+  issued:
+  - year: '1984'
+  title: Experiments in diffused combinator reduction
+  container-title: LISP and functional programming
+  page: '167-176'
+
+- id: conf/lfp/Biswas94
+  type: paper-conference
+  author:
+  - family: Biswas
+    given: Sandip K.
+  issued:
+  - year: '1994'
+  title: In-place updates in the presence of control operators
+  container-title: LISP and functional programming
+  page: '283-293'
+  URL: http://doi.acm.org/10.1145/182409.182491
+
+- id: conf/lfp/Padgeta86
+  type: paper-conference
+  author:
+  - family: Padget
+    given: Julian A.
+  issued:
+  - year: '1986'
+  title: Desiderata for the standardization of lISP
+  container-title: LISP and functional programming
+  page: '54-66'
+
+- id: conf/lfp/LemaitreCDDL86
+  type: paper-conference
+  author:
+  - family: Lemaître
+    given: Michel
+  - family: Castan
+    given: Michel
+  - family: Durand
+    given: M.-H.
+  - family: Durrieu
+    given: Guy
+  - family: Lécussan
+    given: Bernard
+  issued:
+  - year: '1986'
+  title: Mechanisms for efficient multiprocessor combinator reduction
+  container-title: LISP and functional programming
+  page: '113-121'
+
+- id: conf/lfp/GrissBM82
+  type: paper-conference
+  author:
+  - family: Griss
+    given: Martin L.
+  - family: Benson
+    given: Eric
+  - family: Jr.
+    given: Gerald Q. Maguire
+  issued:
+  - year: '1982'
+  title: 'PSL: A portable lISP system'
+  title-short: PSL
+  container-title: Symposium on lISP and functional programming
+  page: '88-97'
+
+- id: conf/lfp/Rozas92
+  type: paper-conference
+  author:
+  - family: Rozas
+    given: Guillermo Juan
+  issued:
+  - year: '1992'
+  title: Taming the y operator
+  container-title: LISP and functional programming
+  page: '226-234'
+  URL: http://doi.acm.org/10.1145/141471.141545
+
+- id: conf/lfp/Roylance88
+  type: paper-conference
+  author:
+  - family: Roylance
+    given: Gerald
+  issued:
+  - year: '1988'
+  title: Expressing mathematical subroutines constructively
+  container-title: LISP and functional programming
+  page: '8-13'
+  URL: http://doi.acm.org/10.1145/62678.62680
+
+- id: conf/lfp/Hughes82
+  type: paper-conference
+  author:
+  - family: Hughes
+    given: R. J. M.
+  issued:
+  - year: '1982'
+  title: 'Super combinators: A new implementation method for applicative languages'
+  title-short: Super combinators
+  container-title: Symposium on lISP and functional programming
+  page: '1-10'
+
+- id: conf/lfp/HudakK82
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Keller
+    given: Robert M.
+  issued:
+  - year: '1982'
+  title: Garbage collection and task deletion in distributed applicative processing
+    systems
+  container-title: Symposium on lISP and functional programming
+  page: '168-178'
+
+- id: conf/lfp/Halstead84
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Robert H. Halstead
+  issued:
+  - year: '1984'
+  title: 'Implementation of multilisp: Lisp on a multiprocessor'
+  title-short: Implementation of multilisp
+  container-title: LISP and functional programming
+  page: '9-17'
+
+- id: conf/lfp/Mallery07
+  type: paper-conference
+  author:
+  - family: Mallery
+    given: John C.
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'CL-hTTP: An open-source cross-platform environment for web application
+    development and deployment'
+  title-short: CL-hTTP
+  container-title: ILC
+  publisher: ACM
+  page: '3'
+  URL: http://doi.acm.org/10.1145/1622123.1622127
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/RepenningI07
+  type: paper-conference
+  author:
+  - family: Repenning
+    given: Alexander
+  - family: Ioannidou
+    given: Andri
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'X-expressions in xMLisp: S-expressions and extensible markup language
+    unite'
+  title-short: X-expressions in xMLisp
+  container-title: ILC
+  publisher: ACM
+  page: '23'
+  URL: http://doi.acm.org/10.1145/1622123.1622149
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Bawden88
+  type: paper-conference
+  author:
+  - family: Bawden
+    given: Alan
+  issued:
+  - year: '1988'
+  title: Reification without evaluation
+  container-title: LISP and functional programming
+  page: '342-349'
+  URL: http://doi.acm.org/10.1145/62678.62726
+
+- id: conf/lfp/AlbergaBMDP86
+  type: paper-conference
+  author:
+  - family: Alberga
+    given: Cyril N.
+  - family: Bosman-Clark
+    given: Chris
+  - family: Mikelsons
+    given: Martin
+  - family: Deusen
+    given: Mary S. Van
+  - family: Padget
+    given: Julian A.
+  issued:
+  - year: '1986'
+  title: Experience with an uncommon lISP
+  container-title: LISP and functional programming
+  page: '39-53'
+
+- id: conf/lfp/MacLachlan92
+  type: paper-conference
+  author:
+  - family: MacLachlan
+    given: Robert A.
+  issued:
+  - year: '1992'
+  title: The python compiler for cMU common lisp
+  container-title: LISP and functional programming
+  page: '235-246'
+  URL: http://doi.acm.org/10.1145/141471.141558
+
+- id: conf/lfp/NadathurW90
+  type: paper-conference
+  author:
+  - family: Nadathur
+    given: Gopalan
+  - family: Wilson
+    given: Debra Sue
+  issued:
+  - year: '1990'
+  title: A representation of lambda terms suitable for operations on their intensions
+  container-title: LISP and functional programming
+  page: '341-348'
+  URL: http://doi.acm.org/10.1145/91556.91682
+
+- id: conf/lfp/BurnJR88
+  type: paper-conference
+  author:
+  - family: Burn
+    given: Geoffrey L.
+  - family: Jones
+    given: Simon L. Peyton
+  - family: Robson
+    given: J. D.
+  issued:
+  - year: '1988'
+  title: The spineless g-machine
+  container-title: LISP and functional programming
+  page: '244-258'
+  URL: http://doi.acm.org/10.1145/62678.62717
+
+- id: conf/lfp/Turner10
+  type: paper-conference
+  author:
+  - family: Turner
+    given: Roy M.
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: 'LP/LISP: Literate programming for lisp'
+  title-short: LP/LISP
+  container-title: ILC
+  publisher: ACM
+  page: '21-28'
+  URL: http://doi.acm.org/10.1145/1869643.1869647
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/BrooksG84
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Rodney A.
+  - family: Gabriel
+    given: Richard P.
+  issued:
+  - year: '1984'
+  title: A critique of common lisp
+  container-title: LISP and functional programming
+  page: '1-8'
+
+- id: conf/lfp/GabrielM84
+  type: paper-conference
+  author:
+  - family: Gabriel
+    given: Richard P.
+  - family: '0001'
+    given: John McCarthy
+  issued:
+  - year: '1984'
+  title: Queue-based multi-processing lisp
+  container-title: LISP and functional programming
+  page: '25-44'
+
+- id: conf/lfp/KiczalesR90
+  type: paper-conference
+  author:
+  - family: Kiczales
+    given: Gregor
+  - family: Rodriguez
+    given: Luis
+  issued:
+  - year: '1990'
+  title: Efficient method dispatch in pCL
+  container-title: LISP and functional programming
+  page: '99-105'
+  URL: http://doi.acm.org/10.1145/91556.91600
+
+- id: conf/lfp/WholeyF84
+  type: paper-conference
+  author:
+  - family: Wholey
+    given: Skef
+  - family: Fahlman
+    given: Scott E.
+  issued:
+  - year: '1984'
+  title: The design of an instruction set for common lisp
+  container-title: LISP and functional programming
+  page: '150-158'
+
+- id: conf/lfp/StefanescuZ94
+  type: paper-conference
+  author:
+  - family: Stefanescu
+    given: Dan C.
+  - family: Zhou
+    given: Yuli
+  issued:
+  - year: '1994'
+  title: An equational framework for the flow analysis of higher order functional
+    programs
+  container-title: LISP and functional programming
+  page: '318-327'
+  URL: http://doi.acm.org/10.1145/182409.182497
+
+- id: conf/lfp/BobrowK88
+  type: paper-conference
+  author:
+  - family: Bobrow
+    given: Daniel G.
+  - family: Kiczales
+    given: Gregor
+  issued:
+  - year: '1988'
+  title: 'The common lisp object system metaobject kernel: A status report'
+  title-short: The common lisp object system metaobject kernel
+  container-title: LISP and functional programming
+  page: '309-315'
+  URL: http://doi.acm.org/10.1145/62678.62723
+
+- id: conf/lfp/WozniakDW07
+  type: paper-conference
+  author:
+  - family: Wozniak
+    given: Geoff
+  - family: Daley
+    given: Mark
+  - family: Watt
+    given: Stephen
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'Dynamic aDTs: A “don’t ask, don’t tell” policy for data abstraction'
+  title-short: Dynamic aDTs
+  container-title: ILC
+  publisher: ACM
+  page: '26'
+  URL: http://doi.acm.org/10.1145/1622123.1622152
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/RideauG10
+  type: paper-conference
+  author:
+  - family: Rideau
+    given: Francois-René
+  - family: Goldman
+    given: Robert P.
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: 'Evolving aSDF: More cooperation, less coordination'
+  title-short: Evolving aSDF
+  container-title: ILC
+  publisher: ACM
+  page: '29-42'
+  URL: http://doi.acm.org/10.1145/1869643.1869648
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/BurstallMS80
+  type: paper-conference
+  author:
+  - family: Burstall
+    given: Rod M.
+  - family: MacQueen
+    given: David B.
+  - family: Sannella
+    given: Donald
+  issued:
+  - year: '1980'
+  title: 'HOPE: An experimental applicative language'
+  title-short: HOPE
+  container-title: LISP conference
+  page: '136-143'
+
+- id: conf/lfp/Bawden86
+  type: paper-conference
+  author:
+  - family: Bawden
+    given: Alan
+  issued:
+  - year: '1986'
+  title: Connection graphs
+  container-title: LISP and functional programming
+  page: '258-265'
+
+- id: conf/lfp/Smolka84
+  type: paper-conference
+  author:
+  - family: Smolka
+    given: Gert
+  issued:
+  - year: '1984'
+  title: Making control and data flow in logic programs explicit
+  container-title: LISP and functional programming
+  page: '311-322'
+
+- id: conf/lfp/GoldmanG88
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Ron Goldman
+  - family: Gabriel
+    given: Richard P.
+  issued:
+  - year: '1988'
+  title: Preliminary results with the initial implementation of qlisp
+  container-title: LISP and functional programming
+  page: '143-152'
+  URL: http://doi.acm.org/10.1145/62678.62696
+
+- id: conf/lfp/Queinnec94
+  type: paper-conference
+  author:
+  - family: Queinnec
+    given: Christian
+  issued:
+  - year: '1994'
+  title: Locality, causality and continuations
+  container-title: LISP and functional programming
+  page: '91-102'
+  URL: http://doi.acm.org/10.1145/182409.182445
+
+- id: conf/lfp/Nunes-Harwitt14a
+  type: paper-conference
+  author:
+  - family: Nunes-Harwitt
+    given: Arthur
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Eager evaluation isn’t eager enough a transformation based approach to semantics-directed
+    code generation
+  container-title: ILC
+  publisher: ACM
+  page: '79'
+  URL: http://doi.acm.org/10.1145/2635648.2635652
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/White86
+  type: paper-conference
+  author:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '1986'
+  title: 'Reconfigurable, retargetable bignums: A case study in efficient, portable
+    lisp system building'
+  title-short: Reconfigurable, retargetable bignums
+  container-title: LISP and functional programming
+  page: '174-191'
+
+- id: conf/lfp/TraubCS92
+  type: paper-conference
+  author:
+  - family: Traub
+    given: Kenneth R.
+  - family: Culler
+    given: David E.
+  - family: Schauser
+    given: Klaus E.
+  issued:
+  - year: '1992'
+  title: Global analysis for partitioning non-strict programs into sequential threads
+  container-title: LISP and functional programming
+  page: '324-334'
+  URL: http://doi.acm.org/10.1145/141471.141568
+
+- id: conf/lfp/AshleyD94
+  type: paper-conference
+  author:
+  - family: Ashley
+    given: J. Michael
+  - family: Dybvig
+    given: R. Kent
+  issued:
+  - year: '1994'
+  title: An efficient implementation of multiple return values in scheme
+  container-title: LISP and functional programming
+  page: '140-149'
+  URL: http://doi.acm.org/10.1145/182409.156784
+
+- id: conf/lfp/Clinger84
+  type: paper-conference
+  author:
+  - family: Clinger
+    given: William D.
+  issued:
+  - year: '1984'
+  title: 'The scheme 311 compiler: An exercise in denotational semantics'
+  title-short: The scheme 311 compiler
+  container-title: LISP and functional programming
+  page: '356-'
+
+- id: conf/lfp/OTooleN94
+  type: paper-conference
+  author:
+  - family: O’Toole
+    given: James
+  - family: Nettles
+    given: Scott
+  issued:
+  - year: '1994'
+  title: Concurrent replicating garbage collection
+  container-title: LISP and functional programming
+  page: '34-42'
+  URL: http://doi.acm.org/10.1145/182409.182425
+
+- id: conf/lfp/Griswold84
+  type: paper-conference
+  author:
+  - family: Griswold
+    given: Ralph E.
+  issued:
+  - year: '1984'
+  title: Expression evaluation in the iCON programming language
+  container-title: LISP and functional programming
+  page: '177-183'
+
+- id: conf/lfp/Gomard90
+  type: paper-conference
+  author:
+  - family: Gomard
+    given: Carsten K.
+  issued:
+  - year: '1990'
+  title: Partial type inference for untyped functional programs
+  container-title: LISP and functional programming
+  page: '282-287'
+  URL: http://doi.acm.org/10.1145/91556.91672
+
+- id: conf/lfp/WilsonLM92
+  type: paper-conference
+  author:
+  - family: Wilson
+    given: Paul R.
+  - family: Lam
+    given: Michael S.
+  - family: Moher
+    given: Thomas G.
+  issued:
+  - year: '1992'
+  title: Caching considerations for generational garbage collection
+  container-title: LISP and functional programming
+  page: '32-42'
+  URL: http://doi.acm.org/10.1145/141471.141500
+
+- id: conf/lfp/Stoyan84
+  type: paper-conference
+  author:
+  - family: Stoyan
+    given: Herbert
+  issued:
+  - year: '1984'
+  title: Early lISP history (1956-1959)
+  container-title: LISP and functional programming
+  page: '299-310'
+
+- id: conf/lfp/Clinger82
+  type: paper-conference
+  author:
+  - family: Clinger
+    given: William D.
+  issued:
+  - year: '1982'
+  title: Nondeterministic call by need is neither lazy nor by name
+  container-title: Symposium on lISP and functional programming
+  page: '226-234'
+
+- id: conf/lfp/Milner84
+  type: paper-conference
+  author:
+  - family: Milner
+    given: Robin
+  issued:
+  - year: '1984'
+  title: A proposal for standard mL
+  container-title: LISP and functional programming
+  page: '184-197'
+
+- id: conf/lfp/Pfenning88
+  type: paper-conference
+  author:
+  - family: Pfenning
+    given: Frank
+  issued:
+  - year: '1988'
+  title: Partial polymorphic type inference and higher-order unification
+  container-title: LISP and functional programming
+  page: '153-163'
+  URL: http://doi.acm.org/10.1145/62678.62697
+
+- id: conf/lfp/CastagnaGL92
+  type: paper-conference
+  author:
+  - family: Castagna
+    given: Giuseppe
+  - family: Ghelli
+    given: Giorgio
+  - family: Longo
+    given: Giuseppe
+  issued:
+  - year: '1992'
+  title: A calculus for overloaded functions with subtyping
+  container-title: LISP and functional programming
+  page: '182-192'
+  URL: http://doi.acm.org/10.1145/141471.141537
+
+- id: conf/lfp/HuelsbergenLA94
+  type: paper-conference
+  author:
+  - family: Huelsbergen
+    given: Lorenz
+  - family: Larus
+    given: James R.
+  - family: Aiken
+    given: Alexander
+  issued:
+  - year: '1994'
+  title: Using the run-time sizes of data structures to guide parallel-thread creation
+  container-title: LISP and functional programming
+  page: '79-90'
+  URL: http://doi.acm.org/10.1145/182409.182442
+
+- id: conf/lfp/Pitman80
+  type: paper-conference
+  author:
+  - family: Pitman
+    given: Kent M.
+  issued:
+  - year: '1980'
+  title: Special forms in lISP
+  container-title: LISP conference
+  page: '179-187'
+
+- id: conf/lfp/Keller80
+  type: paper-conference
+  author:
+  - family: Keller
+    given: Robert M.
+  issued:
+  - year: '1980'
+  title: 'Divide and cONCer: Data structuring in applicative multiprocessing systems'
+  title-short: Divide and cONCer
+  container-title: LISP conference
+  page: '196-202'
+
+- id: conf/lfp/Consel90
+  type: paper-conference
+  author:
+  - family: Consel
+    given: Charles
+  issued:
+  - year: '1990'
+  title: Binding time analysis for high order untyped functional languages
+  container-title: LISP and functional programming
+  page: '264-272'
+  URL: http://doi.acm.org/10.1145/91556.91668
+
+- id: conf/lfp/SandewallSS80
+  type: paper-conference
+  author:
+  - family: Sandewall
+    given: Erik
+  - family: Sörensen
+    given: Henrik
+  - family: Strömberg
+    given: Claes
+  issued:
+  - year: '1980'
+  title: A system of communicating residential environments
+  container-title: LISP conference
+  page: '82-89'
+
+- id: conf/lfp/EmanuelsonH80
+  type: paper-conference
+  author:
+  - family: Emanuelson
+    given: P.
+  - family: Haraldsson
+    given: Anders
+  issued:
+  - year: '1980'
+  title: On compiling embedded languages in lISP
+  container-title: LISP conference
+  page: '208-215'
+
+- id: conf/lfp/SmithP14
+  type: paper-conference
+  author:
+  - family: Smith
+    given: Robert
+  - family: Pawlowski
+    given: Brendan
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Efficient finite permutation groups and homomesy computation in common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '60'
+  URL: http://doi.acm.org/10.1145/2635648.2635664
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Pugh88
+  type: paper-conference
+  author:
+  - family: Pugh
+    given: William
+  issued:
+  - year: '1988'
+  title: An improved replacement strategy for function aaching
+  container-title: LISP and functional programming
+  page: '269-276'
+  URL: http://doi.acm.org/10.1145/62678.62719
+
+- id: conf/lfp/MaunyS86
+  type: paper-conference
+  author:
+  - family: Mauny
+    given: Michel
+  - family: Suárez
+    given: Ascánder
+  issued:
+  - year: '1986'
+  title: Implementing functional languages in the categorical abstract machine
+  container-title: LISP and functional programming
+  page: '266-278'
+
+- id: conf/lfp/Sperber07
+  type: paper-conference
+  author:
+  - family: Sperber
+    given: Michael
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'It’s all about being right: Lessons from the r6RS process'
+  title-short: It’s all about being right
+  container-title: ILC
+  publisher: ACM
+  page: '7'
+  URL: http://doi.acm.org/10.1145/1622123.1622131
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/CottonB07
+  type: paper-conference
+  author:
+  - family: Cotton
+    given: Jay
+  - family: Boetje
+    given: Jerry
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: A metaobject protocol for cLforJava
+  container-title: ILC
+  publisher: ACM
+  page: '9'
+  URL: http://doi.acm.org/10.1145/1622123.1622134
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Steele82
+  type: paper-conference
+  author:
+  - family: Jr.
+    given: Guy L. Steele
+  issued:
+  - year: '1982'
+  title: An overview of common lisp
+  container-title: Symposium on lISP and functional programming
+  page: '98-107'
+
+- id: conf/lfp/StoyeCN84
+  type: paper-conference
+  author:
+  - family: Stoye
+    given: W. R.
+  - family: Clarke
+    given: T. J. W.
+  - family: Norman
+    given: A. C.
+  issued:
+  - year: '1984'
+  title: Some practical methods for rapid combinator reduction
+  container-title: LISP and functional programming
+  page: '159-166'
+
+- id: conf/lfp/WalinskyB90
+  type: paper-conference
+  author:
+  - family: Walinsky
+    given: Clifford
+  - family: Banerjee
+    given: Deb
+  issued:
+  - year: '1990'
+  title: A functional programming language compiler for massively parallel computers
+  container-title: LISP and functional programming
+  page: '131-138'
+  URL: http://doi.acm.org/10.1145/91556.91610
+
+- id: conf/lfp/HudakH88
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  - family: Mohr
+    given: Eric
+  issued:
+  - year: '1988'
+  title: Graphinators and the duality of sIMD and mIMD
+  container-title: LISP and functional programming
+  page: '224-234'
+  URL: http://doi.acm.org/10.1145/62678.62714
+
+- id: conf/lfp/QueinnecC88
+  type: paper-conference
+  author:
+  - family: Queinnec
+    given: Christian
+  - family: Cointe
+    given: Pierre
+  issued:
+  - year: '1988'
+  title: An open-ended data representation model for eU\_LISP
+  container-title: LISP and functional programming
+  page: '298-308'
+  URL: http://doi.acm.org/10.1145/62678.62722
+
+- id: conf/lfp/Hudak86
+  type: paper-conference
+  author:
+  - family: Hudak
+    given: Paul
+  issued:
+  - year: '1986'
+  title: A semantic model of reference counting and its abstraction (detailed summary)
+  container-title: LISP and functional programming
+  page: '351-363'
+
+- id: conf/lfp/Wadler84
+  type: paper-conference
+  author:
+  - family: Wadler
+    given: Philip
+  issued:
+  - year: '1984'
+  title: 'Listlessness is better than laziness: Lazy evaluation and garbage collection
+    at compile time'
+  title-short: Listlessness is better than laziness
+  container-title: LISP and functional programming
+  page: '45-52'
+
+- id: conf/lfp/Feldman82
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Gary
+  issued:
+  - year: '1982'
+  title: Functional specifications of a text editor
+  container-title: Symposium on lISP and functional programming
+  page: '37-46'
+
+- id: conf/lfp/Moller07
+  type: paper-conference
+  author:
+  - family: Möller
+    given: Ralf
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Building a commercial oWL reasoner with lisp
+  container-title: ILC
+  publisher: ACM
+  page: '5'
+  URL: http://doi.acm.org/10.1145/1622123.1622129
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Dawson82
+  type: paper-conference
+  author:
+  - family: Dawson
+    given: Jeffrey L.
+  issued:
+  - year: '1982'
+  title: Improved effectiveness from a real time lisp garbage collector
+  container-title: Symposium on lISP and functional programming
+  page: '159-167'
+
+- id: conf/lfp/MeyerR88
+  type: paper-conference
+  author:
+  - family: Meyer
+    given: Albert R.
+  - family: Riecke
+    given: Jon G.
+  issued:
+  - year: '1988'
+  title: Continuations may be unreasonable
+  container-title: LISP and functional programming
+  page: '63-71'
+  URL: http://doi.acm.org/10.1145/62678.62685
+
+- id: conf/lfp/WrightC94
+  type: paper-conference
+  author:
+  - family: Wright
+    given: Andrew K.
+  - family: Cartwright
+    given: Robert
+  issued:
+  - year: '1994'
+  title: A practical soft type system for scheme
+  container-title: LISP and functional programming
+  page: '250-262'
+  URL: http://doi.acm.org/10.1145/182409.182485
+
+- id: conf/lfp/SheldonG90
+  type: paper-conference
+  author:
+  - family: Sheldon
+    given: Mark A.
+  - family: Gifford
+    given: David K.
+  issued:
+  - year: '1990'
+  title: Static dependent types for first class modules
+  container-title: LISP and functional programming
+  page: '20-29'
+  URL: http://doi.acm.org/10.1145/91556.91577
+
+- id: conf/lfp/GivlerK84
+  type: paper-conference
+  author:
+  - family: Givler
+    given: John S.
+  - family: Kieburtz
+    given: Richard B.
+  issued:
+  - year: '1984'
+  title: Schema recognition for program transformations
+  container-title: LISP and functional programming
+  page: '74-84'
+
+- id: conf/lfp/2007
+  type: book
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: International lisp conference, iLC 2007, cambridge, april 1-4, 2007
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1622123
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/GoldbergG92
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Benjamin
+  - family: Gloger
+    given: Michael
+  issued:
+  - year: '1992'
+  title: Polymorphic type reconstruction for garbage collection without tags
+  container-title: LISP and functional programming
+  page: '53-65'
+  URL: http://doi.acm.org/10.1145/141471.141504
+
+- id: conf/lfp/Latendresse07
+  type: paper-conference
+  author:
+  - family: Latendresse
+    given: Mario
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Simple and efficient compilation of list comprehension in common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '12'
+  URL: http://doi.acm.org/10.1145/1622123.1622137
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/ChuangG92
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Tyng-Ruey
+  - family: Goldberg
+    given: Benjamin
+  issued:
+  - year: '1992'
+  title: A syntactic approach to fixed point computation on finite domains
+  container-title: LISP and functional programming
+  page: '109-118'
+  URL: http://doi.acm.org/10.1145/141471.141517
+
+- id: conf/lfp/BatesDF84
+  type: paper-conference
+  author:
+  - family: Bates
+    given: Raymond L.
+  - family: Dyer
+    given: David
+  - family: Feber
+    given: Mark
+  issued:
+  - year: '1984'
+  title: Recent developments in iSI-interlisp
+  container-title: LISP and functional programming
+  page: '129-139'
+
+- id: conf/lfp/McDermott80
+  type: paper-conference
+  author:
+  - family: McDermott
+    given: Drew V.
+  issued:
+  - year: '1980'
+  title: An efficient environment allocation scheme in an interpreter for a lexically-scoped
+    lISP
+  container-title: LISP conference
+  page: '154-162'
+
+- id: conf/lfp/Felleisen88
+  type: paper-conference
+  author:
+  - family: Felleisen
+    given: Matthias
+  issued:
+  - year: '1988'
+  title: 'Lambda-v-cS: An extended lambda-calculus for scheme'
+  title-short: Lambda-v-cS
+  container-title: LISP and functional programming
+  page: '72-85'
+  URL: http://doi.acm.org/10.1145/62678.62686
+
+- id: conf/lfp/LeeP86
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Peter Lee
+  - family: Pleban
+    given: Uwe F.
+  issued:
+  - year: '1986'
+  title: On the use of lISP in implementing denotational semantics
+  container-title: LISP and functional programming
+  page: '233-248'
+
+- id: conf/lfp/Wand80
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  issued:
+  - year: '1980'
+  title: Continuation-based multiprocessing
+  container-title: LISP conference
+  page: '19-28'
+
+- id: conf/lfp/ClementDDK86
+  type: paper-conference
+  author:
+  - family: Clément
+    given: Dominique
+  - family: Despeyroux
+    given: Joëlle
+  - family: Despeyroux
+    given: Th.
+  - family: Kahn
+    given: Gilles
+  issued:
+  - year: '1986'
+  title: 'A simple applicative language: Mini-mL'
+  title-short: A simple applicative language
+  container-title: LISP and functional programming
+  page: '13-27'
+
+- id: conf/lfp/OkunoTOHW84
+  type: paper-conference
+  author:
+  - family: Okuno
+    given: Hiroshi G.
+  - family: Takeuchi
+    given: Ikuo
+  - family: Ohsato
+    given: Nobuyasu
+  - family: Hibino
+    given: Yasushi
+  - family: Watanabe
+    given: Kazufumi
+  issued:
+  - year: '1984'
+  title: 'TAO: Afst interpreter-centered lisp system on lisp machine eLIS'
+  title-short: TAO
+  container-title: LISP and functional programming
+  page: '140-149'
+
+- id: conf/lfp/DraghicescuP90
+  type: paper-conference
+  author:
+  - family: Draghicescu
+    given: M.
+  - family: Purushothaman
+    given: S.
+  issued:
+  - year: '1990'
+  title: A compositional analysis of evaluation-order and its application
+  container-title: LISP and functional programming
+  page: '242-250'
+  URL: http://doi.acm.org/10.1145/91556.91658
+
+- id: conf/lfp/StefanovicM94
+  type: paper-conference
+  author:
+  - family: Stefanovic
+    given: Darko
+  - family: Moss
+    given: J. Eliot B.
+  issued:
+  - year: '1994'
+  title: Characterization of object behaviour in standard mL of new jersey
+  container-title: LISP and functional programming
+  page: '43-54'
+  URL: http://doi.acm.org/10.1145/182409.182428
+
+- id: conf/lfp/FeeleyM90
+  type: paper-conference
+  author:
+  - family: Feeley
+    given: Marc
+  - family: Miller
+    given: James S.
+  issued:
+  - year: '1990'
+  title: A parallel virtual machine for efficient scheme compilation
+  container-title: LISP and functional programming
+  page: '119-130'
+  URL: http://doi.acm.org/10.1145/91556.91606
+
+- id: conf/lfp/Queinnec07
+  type: paper-conference
+  author:
+  - family: Queinnec
+    given: Christian
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Teaching cS to undergraduates at uPMC
+  container-title: ILC
+  publisher: ACM
+  page: '4'
+  URL: http://doi.acm.org/10.1145/1622123.1622128
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Jones07
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Richard
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Dynamic memory management
+  container-title: ILC
+  publisher: ACM
+  page: '2'
+  URL: http://doi.acm.org/10.1145/1622123.1622126
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/BlossH86
+  type: paper-conference
+  author:
+  - family: Bloss
+    given: Adrienne G.
+  - family: Hudak
+    given: Paul
+  issued:
+  - year: '1986'
+  title: Variations on strictness analysis
+  container-title: LISP and functional programming
+  page: '132-142'
+
+- id: conf/lfp/NeubergerM92
+  type: paper-conference
+  author:
+  - family: Neuberger
+    given: Marc
+  - family: Mishra
+    given: Prateek
+  issued:
+  - year: '1992'
+  title: A precise relationship between the deductive power of forward and backward
+    strictness analysis
+  container-title: LISP and functional programming
+  page: '127-138'
+  URL: http://doi.acm.org/10.1145/141471.141526
+
+- id: conf/lfp/AdamsR88
+  type: paper-conference
+  author:
+  - family: Adams
+    given: Norman
+  - family: Rees
+    given: Jonathan
+  issued:
+  - year: '1988'
+  title: Object-oriented programming in scheme
+  container-title: LISP and functional programming
+  page: '277-288'
+  URL: http://doi.acm.org/10.1145/62678.62720
+
+- id: conf/lfp/SabryF92
+  type: paper-conference
+  author:
+  - family: Sabry
+    given: Amr
+  - family: Felleisen
+    given: Matthias
+  issued:
+  - year: '1992'
+  title: Reasoning about programs in continuation-passing style
+  container-title: LISP and functional programming
+  page: '288-298'
+  URL: http://doi.acm.org/10.1145/141471.141563
+
+- id: conf/lfp/Katayama84
+  type: paper-conference
+  author:
+  - family: Katayama
+    given: Takuya
+  issued:
+  - year: '1984'
+  title: 'Type inference and type checking for functional programming languages:
+    A reduced computation approach'
+  title-short: Type inference and type checking for functional programming languages
+  container-title: LISP and functional programming
+  page: '263-272'
+
+- id: conf/lfp/TannenGS90
+  type: paper-conference
+  author:
+  - family: Tannen
+    given: Val
+  - family: Gunter
+    given: Carl A.
+  - family: Scedrov
+    given: Andre
+  issued:
+  - year: '1990'
+  title: Computing with coercions
+  container-title: LISP and functional programming
+  page: '44-60'
+  URL: http://doi.acm.org/10.1145/91556.91590
+
+- id: conf/lfp/ClarkeGMN80
+  type: paper-conference
+  author:
+  - family: Clarke
+    given: T. J. W.
+  - family: Gladstone
+    given: P.
+  - family: MacLean
+    given: C.
+  - family: Norman
+    given: A. C.
+  issued:
+  - year: '1980'
+  title: SKIM - the s, k, i reduction machine
+  container-title: LISP conference
+  page: '128-135'
+
+- id: conf/lfp/Goldberg88
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: Benjamin
+  issued:
+  - year: '1988'
+  title: 'Buckwheat: Graph reduction on a shared-memory multiprocessor'
+  title-short: Buckwheat
+  container-title: LISP and functional programming
+  page: '40-51'
+  URL: http://doi.acm.org/10.1145/62678.62683
+
+- id: conf/lfp/HaynesFW84
+  type: paper-conference
+  author:
+  - family: Haynes
+    given: Christopher T.
+  - family: Friedman
+    given: Daniel P.
+  - family: Wand
+    given: Mitchell
+  issued:
+  - year: '1984'
+  title: Continuations and coroutines
+  container-title: LISP and functional programming
+  page: '293-298'
+
+- id: conf/lfp/Lakin80
+  type: paper-conference
+  author:
+  - family: Lakin
+    given: Fred
+  issued:
+  - year: '1980'
+  title: Computing with text-graphics forms
+  container-title: LISP conference
+  page: '100-106'
+
+- id: conf/lfp/Mitchell86
+  type: paper-conference
+  author:
+  - family: Mitchell
+    given: John C.
+  issued:
+  - year: '1986'
+  title: A type-inference approach to reduction properties and semantics of polymorphic
+    expressions (summary)
+  container-title: LISP and functional programming
+  page: '308-319'
+
+- id: conf/lfp/NielsonN90
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Hanne Riis
+  - family: Nielson
+    given: Flemming
+  issued:
+  - year: '1990'
+  title: Context information for lazy code generation
+  container-title: LISP and functional programming
+  page: '251-263'
+  URL: http://doi.acm.org/10.1145/91556.91665
+
+- id: conf/lfp/GabrielM82
+  type: paper-conference
+  author:
+  - family: Gabriel
+    given: Richard P.
+  - family: Masinter
+    given: Larry
+  issued:
+  - year: '1982'
+  title: Performance of lisp systems
+  container-title: Symposium on lISP and functional programming
+  page: '123-142'
+
+- id: conf/lfp/ConnollyQ07
+  type: paper-conference
+  author:
+  - family: Connolly
+    given: Christopher
+  - family: Quam
+    given: Lynn
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'FREEDIUS: An open source lisp-based image understanding environment'
+  title-short: FREEDIUS
+  container-title: ILC
+  publisher: ACM
+  page: '16'
+  URL: http://doi.acm.org/10.1145/1622123.1622142
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Cardelli84
+  type: paper-conference
+  author:
+  - family: Cardelli
+    given: Luca
+  issued:
+  - year: '1984'
+  title: Compiling a functional language
+  container-title: LISP and functional programming
+  page: '208-217'
+
+- id: conf/lfp/Maranget92
+  type: paper-conference
+  author:
+  - family: Maranget
+    given: Luc
+  issued:
+  - year: '1992'
+  title: Compiling lazy pattern matching
+  container-title: LISP and functional programming
+  page: '21-31'
+  URL: http://doi.acm.org/10.1145/141471.141499
+
+- id: conf/lfp/CardelliL90
+  type: paper-conference
+  author:
+  - family: Cardelli
+    given: Luca
+  - family: Longo
+    given: Giuseppe
+  issued:
+  - year: '1990'
+  title: A semantic basis for quest
+  container-title: LISP and functional programming
+  page: '30-43'
+  URL: http://doi.acm.org/10.1145/91556.91586
+
+- id: conf/lfp/RivieresS84
+  type: paper-conference
+  author:
+  - family: Rivières
+    given: Jim
+    dropping-particle: des
+  - family: Smith
+    given: Brian Cantwell
+  issued:
+  - year: '1984'
+  title: The implementation of procedurally reflective languages
+  container-title: LISP and functional programming
+  page: '331-347'
+
+- id: conf/lfp/Mago82
+  type: paper-conference
+  author:
+  - family: Magó
+    given: Gyula
+  issued:
+  - year: '1982'
+  title: Data sharing in an fFP machine
+  container-title: Symposium on lISP and functional programming
+  page: '201-207'
+
+- id: conf/lfp/BrooksPMWBG86
+  type: paper-conference
+  author:
+  - family: Brooks
+    given: Rodney A.
+  - family: Posner
+    given: David B.
+  - family: McDonald
+    given: James L.
+  - family: White
+    given: Jon L.
+  - family: Benson
+    given: Eric
+  - family: Gabriel
+    given: Richard P.
+  issued:
+  - year: '1986'
+  title: Design of an optimizing, dynamically retargetable compiler for common lisp
+  container-title: LISP and functional programming
+  page: '67-87'
+
+- id: conf/lfp/NagasakaSIGT92
+  type: paper-conference
+  author:
+  - family: Nagasaka
+    given: Atsushi
+  - family: Shintani
+    given: Yoshihiro
+  - family: Ito
+    given: Tanji
+  - family: Gomi
+    given: Hiroshi
+  - family: Takahashi
+    given: Junichi
+  issued:
+  - year: '1992'
+  title: 'Tachyon common lisp: An efficient and portable implementation of cLtL2'
+  title-short: Tachyon common lisp
+  container-title: LISP and functional programming
+  page: '270-277'
+  URL: http://doi.acm.org/10.1145/141471.141561
+
+- id: conf/lfp/GharachorlooSH88
+  type: paper-conference
+  author:
+  - family: Gharachorloo
+    given: Kourosh
+  - family: Sarkar
+    given: Vivek
+  - family: Hennessy
+    given: John L.
+  issued:
+  - year: '1988'
+  title: A simple and efficient implmentation approach for single assignment languages
+  container-title: LISP and functional programming
+  page: '259-268'
+  URL: http://doi.acm.org/10.1145/62678.62718
+
+- id: conf/lfp/PetersenGAD14
+  type: paper-conference
+  author:
+  - family: Petersen
+    given: Christian L.
+  - family: Görges
+    given: Matthias
+  - family: Ansermino
+    given: J. Mark
+  - family: Dumont
+    given: Guy A.
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: A scheme-based closed-loop anesthesia system
+  container-title: ILC
+  publisher: ACM
+  page: '40'
+  URL: http://doi.acm.org/10.1145/2635648.2635651
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/ClingerH94
+  type: paper-conference
+  author:
+  - family: Clinger
+    given: William D.
+  - family: Hansen
+    given: Lars Thomas
+  issued:
+  - year: '1994'
+  title: Lambda, the ultimate label or a simple optimizing compiler for scheme
+  container-title: LISP and functional programming
+  page: '128-139'
+  URL: http://doi.acm.org/10.1145/182409.156786
+
+- id: conf/lfp/DanvyF90
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Filinski
+    given: Andrzej
+  issued:
+  - year: '1990'
+  title: Abstracting control
+  container-title: LISP and functional programming
+  page: '151-160'
+  URL: http://doi.acm.org/10.1145/91556.91622
+
+- id: conf/lfp/AasaPS88
+  type: paper-conference
+  author:
+  - family: Aasa
+    given: Annika
+  - family: Petersson
+    given: Kent
+  - family: Synek
+    given: Dan
+  issued:
+  - year: '1988'
+  title: Concrete syntax for data objects in functional languages
+  container-title: LISP and functional programming
+  page: '96-105'
+  URL: http://doi.acm.org/10.1145/62678.62688
+
+- id: conf/lfp/Rhodes07
+  type: paper-conference
+  author:
+  - family: Rhodes
+    given: Christophe
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: User-extensible sequences in common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '13'
+  URL: http://doi.acm.org/10.1145/1622123.1622138
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/RauglaudreM92
+  type: paper-conference
+  author:
+  - family: Rauglaudre
+    given: Daniel
+    dropping-particle: de
+  - family: Mauny
+    given: Michel
+  issued:
+  - year: '1992'
+  title: Parsers in mL
+  container-title: LISP and functional programming
+  page: '76-85'
+  URL: http://doi.acm.org/10.1145/141471.141510
+
+- id: conf/lfp/Leitao07
+  type: paper-conference
+  author:
+  - family: Leitão
+    given: António Menezes
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: The next 700 programming libraries
+  container-title: ILC
+  publisher: ACM
+  page: '21'
+  URL: http://doi.acm.org/10.1145/1622123.1622147
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/Berlin90
+  type: paper-conference
+  author:
+  - family: Berlin
+    given: Andrew
+  issued:
+  - year: '1990'
+  title: Partial evaluation applied to numerical computation
+  container-title: LISP and functional programming
+  page: '139-150'
+  URL: http://doi.acm.org/10.1145/91556.91612
+
+- id: conf/lfp/White82
+  type: paper-conference
+  author:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '1982'
+  title: Constant time interpretation for shallow-bound variables in the presence
+    of mixed sPECIAL/LOCAL declarations
+  container-title: Symposium on lISP and functional programming
+  page: '196-200'
+
+- id: conf/lfp/Scheevel86
+  type: paper-conference
+  author:
+  - family: Scheevel
+    given: Mark
+  issued:
+  - year: '1986'
+  title: 'NORMA: A graph reduction processor'
+  title-short: NORMA
+  container-title: LISP and functional programming
+  page: '212-219'
+
+- id: conf/lfp/YasugiKHU10
+  type: paper-conference
+  author:
+  - family: Yasugi
+    given: Masahiro
+  - family: Komiya
+    given: Tsuneyasu
+  - family: Hiraishi
+    given: Tasuku
+  - family: Umatani
+    given: Seiji
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: Managing continuations for proper tail recursion
+  container-title: ILC
+  publisher: ACM
+  page: '65-72'
+  URL: http://doi.acm.org/10.1145/1869643.1869651
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/BatesDK82
+  type: paper-conference
+  author:
+  - family: Bates
+    given: Raymond L.
+  - family: Dyer
+    given: David
+  - family: Koomen
+    given: Johannes A. G. M.
+  issued:
+  - year: '1982'
+  title: Implementation of interlisp on the vAX
+  container-title: Symposium on lISP and functional programming
+  page: '81-87'
+
+- id: conf/lfp/KatzW90
+  type: paper-conference
+  author:
+  - family: Katz
+    given: Morry
+  - family: Weise
+    given: Daniel
+  issued:
+  - year: '1990'
+  title: 'Continuing into the future: On the interaction of futures and first-class
+    continuations'
+  title-short: Continuing into the future
+  container-title: LISP and functional programming
+  page: '176-184'
+  URL: http://doi.acm.org/10.1145/91556.91628
+
+- id: conf/lfp/CampbellF80
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: J.
+  - family: Fitch
+    given: John P.
+  issued:
+  - year: '1980'
+  title: Symbolic computing with and without lisp
+  container-title: LISP conference
+  page: '1-5'
+
+- id: conf/lfp/CartwrightD82
+  type: paper-conference
+  author:
+  - family: Cartwright
+    given: Robert
+  - family: Donahue
+    given: James E.
+  issued:
+  - year: '1982'
+  title: The semantics of lazy (and industrious) evaluation
+  container-title: Symposium on lISP and functional programming
+  page: '253-'
+
+- id: conf/lfp/Mehnert10
+  type: paper-conference
+  author:
+  - family: Mehnert
+    given: Hannes
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: Extending dylan’s type system for better type inference and error detection
+  container-title: ILC
+  publisher: ACM
+  page: '1-10'
+  URL: http://doi.acm.org/10.1145/1869643.1869645
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/CohenM82
+  type: paper-conference
+  author:
+  - family: Cohen
+    given: A. Toni
+  - family: Myers
+    given: Thomas J.
+  issued:
+  - year: '1982'
+  title: Toward an algebra of nondeterministic programs
+  container-title: Symposium on lISP and functional programming
+  page: '235-242'
+
+- id: conf/lfp/Martini88
+  type: paper-conference
+  author:
+  - family: Martini
+    given: Simon
+  issued:
+  - year: '1988'
+  title: Bounded quantifiers have interval models
+  container-title: LISP and functional programming
+  page: '164-173'
+  URL: http://doi.acm.org/10.1145/62678.62699
+
+- id: conf/lfp/ReistadG94
+  type: paper-conference
+  author:
+  - family: Reistad
+    given: Brian
+  - family: Gifford
+    given: David K.
+  issued:
+  - year: '1994'
+  title: Static dependent costs for estimating execution time
+  container-title: LISP and functional programming
+  page: '65-78'
+  URL: http://doi.acm.org/10.1145/182409.182439
+
+- id: conf/lfp/NielsonN86
+  type: paper-conference
+  author:
+  - family: Nielson
+    given: Hanne Riis
+  - family: Nielson
+    given: Flemming
+  issued:
+  - year: '1986'
+  title: Semantics directed compiling for functional languages
+  container-title: LISP and functional programming
+  page: '249-257'
+
+- id: conf/lfp/RamosL14
+  type: paper-conference
+  author:
+  - family: Ramos
+    given: Pedro Palma
+  - family: Leitão
+    given: António Menezes
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Reaching python from racket
+  container-title: ILC
+  publisher: ACM
+  page: '32'
+  URL: http://doi.acm.org/10.1145/2635648.2635660
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Burn90
+  type: paper-conference
+  author:
+  - family: Burn
+    given: Geoffrey L.
+  issued:
+  - year: '1990'
+  title: Using projection analysis of evaluation-order and its application
+  container-title: LISP and functional programming
+  page: '227-240'
+  URL: http://doi.acm.org/10.1145/91556.91655
+
+- id: conf/lfp/FelleisenWFD88
+  type: paper-conference
+  author:
+  - family: Felleisen
+    given: Matthias
+  - family: Wand
+    given: Mitchell
+  - family: Friedman
+    given: Daniel P.
+  - family: Duba
+    given: Bruce F.
+  issued:
+  - year: '1988'
+  title: 'Abstract continuations: A mathematical semantics for handling full jumps'
+  title-short: Abstract continuations
+  container-title: LISP and functional programming
+  page: '52-62'
+  URL: http://doi.acm.org/10.1145/62678.62684
+
+- id: conf/lfp/2014
+  type: book
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: International lisp conference, iLC 2014, montreal, qC, canada, august 14-17,
+    2014
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=2635648
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Strandh14b
+  type: paper-conference
+  author:
+  - family: Strandh
+    given: Robert
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Resolving metastability issues during bootstrapping
+  container-title: ILC
+  publisher: ACM
+  page: '103'
+  URL: http://doi.acm.org/10.1145/2635648.2635656
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/HuelsbergenL92
+  type: paper-conference
+  author:
+  - family: Huelsbergen
+    given: Lorenz
+  - family: Larus
+    given: James R.
+  issued:
+  - year: '1992'
+  title: Dynamic program parallelization
+  container-title: LISP and functional programming
+  page: '311-323'
+  URL: http://doi.acm.org/10.1145/141471.141567
+
+- id: conf/lfp/Rudalics86
+  type: paper-conference
+  author:
+  - family: Rudalics
+    given: Martin
+  issued:
+  - year: '1986'
+  title: Distributed copying garbage collection
+  container-title: LISP and functional programming
+  page: '364-372'
+
+- id: conf/lfp/FieldT90
+  type: paper-conference
+  author:
+  - family: Field
+    given: John
+  - family: Teitelbaum
+    given: Tim
+  issued:
+  - year: '1990'
+  title: Incremental reduction in the lambda calculus
+  container-title: LISP and functional programming
+  page: '307-322'
+  URL: http://doi.acm.org/10.1145/91556.91679
+
+- id: conf/lfp/Harmon07
+  type: paper-conference
+  author:
+  - family: Harmon
+    given: Cyrus L.
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Computational tools for the analysis of spatial patterns of gene expression
+    in common lisp
+  container-title: ILC
+  publisher: ACM
+  page: '18'
+  URL: http://doi.acm.org/10.1145/1622123.1622144
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/YuasaY10
+  type: paper-conference
+  author:
+  - family: Yuasa
+    given: Shingo
+  - family: Yasugi
+    given: Masahiro
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: Validating low-level instructions for fixnums using bDDs
+  container-title: ILC
+  publisher: ACM
+  page: '11-20'
+  URL: http://doi.acm.org/10.1145/1869643.1869646
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/Osborne90
+  type: paper-conference
+  author:
+  - family: Osborne
+    given: Randy B.
+  issued:
+  - year: '1990'
+  title: Speculative computation in multilisp
+  container-title: LISP and functional programming
+  page: '198-208'
+  URL: http://doi.acm.org/10.1145/91556.91644
+
+- id: conf/lfp/Wise82
+  type: paper-conference
+  author:
+  - family: Wise
+    given: Michael J.
+  issued:
+  - year: '1982'
+  title: 'A parallel prolog: The construction of a data driven model'
+  title-short: A parallel prolog
+  container-title: Symposium on lISP and functional programming
+  page: '56-66'
+
+- id: conf/lfp/Henglein88
+  type: paper-conference
+  author:
+  - family: Henglein
+    given: Fritz
+  issued:
+  - year: '1988'
+  title: Type inference and semi-unification
+  container-title: LISP and functional programming
+  page: '184-197'
+  URL: http://doi.acm.org/10.1145/62678.62701
+
+- id: conf/lfp/KfouryW94
+  type: paper-conference
+  author:
+  - family: Kfoury
+    given: A. J.
+  - family: Wells
+    given: J. B.
+  issued:
+  - year: '1994'
+  title: A direct algorithm for type inference in the rank-2 fragment of the second-order
+    lambda-calculus
+  container-title: LISP and functional programming
+  page: '196-207'
+  URL: http://doi.acm.org/10.1145/182409.182456
+
+- id: conf/lfp/Henessey92
+  type: paper-conference
+  author:
+  - family: Henessey
+    given: Wade
+  issued:
+  - year: '1992'
+  title: 'WCL: Delivering efficient common lisp applications under unix'
+  title-short: WCL
+  container-title: LISP and functional programming
+  page: '260-269'
+  URL: http://doi.acm.org/10.1145/141471.141560
+
+- id: conf/lfp/Maraist10
+  type: paper-conference
+  author:
+  - family: Maraist
+    given: John
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: 'NST: A unit testing system for common lisp'
+  title-short: NST
+  container-title: ILC
+  publisher: ACM
+  page: '53-64'
+  URL: http://doi.acm.org/10.1145/1869643.1869650
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/Baker90
+  type: paper-conference
+  author:
+  - family: Baker
+    given: Henry G.
+  issued:
+  - year: '1990'
+  title: Unify and conquer
+  container-title: LISP and functional programming
+  page: '218-226'
+  URL: http://doi.acm.org/10.1145/91556.91652
+
+- id: conf/lfp/SitaramF90
+  type: paper-conference
+  author:
+  - family: Sitaram
+    given: Dorai
+  - family: Felleisen
+    given: Matthias
+  issued:
+  - year: '1990'
+  title: 'Reasoning with continuations iI: Full abstraction for models of control'
+  title-short: Reasoning with continuations iI
+  container-title: LISP and functional programming
+  page: '161-175'
+  URL: http://doi.acm.org/10.1145/91556.91626
+
+- id: conf/lfp/2010
+  type: book
+  editor:
+  - family: White
+    given: Jon L.
+  issued:
+  - year: '2010'
+  title: International lisp conference, iLC 2010, reno, nV, uSA, october 19-21, 2010
+  publisher: ACM
+  URL: http://dl.acm.org/citation.cfm?id=1869643
+  ISBN: '978-1-4503-0470-2'
+
+- id: conf/lfp/Borden07
+  type: paper-conference
+  author:
+  - family: Borden
+    given: Andrew
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: Classification using conditional probabilities and shannon’s definition of
+    information
+  container-title: ILC
+  publisher: ACM
+  page: '15'
+  URL: http://doi.acm.org/10.1145/1622123.1622141
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/SussmanH88
+  type: paper-conference
+  author:
+  - family: Sussman
+    given: Gerald J.
+  - family: Halfant
+    given: Matthew
+  issued:
+  - year: '1988'
+  title: 'Tutorial: Abstraction in numerical methods'
+  title-short: Tutorial
+  container-title: LISP and functional programming
+  page: '1-7'
+  URL: http://doi.acm.org/10.1145/62678.62679
+
+- id: conf/lfp/Cosmadakis94
+  type: paper-conference
+  author:
+  - family: Cosmadakis
+    given: Stavros S.
+  issued:
+  - year: '1994'
+  title: Complete proof systems for algebraic simply-typed terms
+  container-title: LISP and functional programming
+  page: '220-226'
+  URL: http://doi.acm.org/10.1145/182409.182482
+
+- id: conf/lfp/Jones82
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Simon L. Peyton
+  issued:
+  - year: '1982'
+  title: An investigation of the relative efficiencies of combinators and lambda expressions
+  container-title: Symposium on lISP and functional programming
+  page: '150-158'
+
+- id: conf/lfp/TannenS92
+  type: paper-conference
+  author:
+  - family: Tannen
+    given: Val
+  - family: Subrahmanyam
+    given: Ramesh
+  issued:
+  - year: '1992'
+  title: On extending computational adequacy by data abstraction
+  container-title: LISP and functional programming
+  page: '161-169'
+  URL: http://doi.acm.org/10.1145/141471.141530
+
+- id: conf/lfp/Rowan80
+  type: paper-conference
+  author:
+  - family: Rowan
+    given: W.
+  issued:
+  - year: '1980'
+  title: A lISP compiler producing compact code
+  container-title: LISP conference
+  page: '216-222'
+
+- id: conf/lfp/LevineY14
+  type: paper-conference
+  author:
+  - family: Levine
+    given: Nick
+  - family: Young
+    given: Michael
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: Leadership trait analysis and threat assessment with profiler plus
+  container-title: ILC
+  publisher: ACM
+  page: '50'
+  URL: http://doi.acm.org/10.1145/2635648.2635657
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Chuang94
+  type: paper-conference
+  author:
+  - family: Chuang
+    given: Tyng-Ruey
+  issued:
+  - year: '1994'
+  title: A randomized implementation of multiple functional arrays
+  container-title: LISP and functional programming
+  page: '173-184'
+  URL: http://doi.acm.org/10.1145/182409.156779
+
+- id: conf/lfp/GencerGT07
+  type: paper-conference
+  author:
+  - family: Gençer
+    given: Mehmet
+  - family: Gunduz
+    given: Coskun
+  - family: Tunalioglu
+    given: Vehbi Sinan
+  editor:
+  - family: Shapiro
+    given: Carl
+  issued:
+  - year: '2007'
+  title: 'CL-sNA: Social network analysis with lisp'
+  title-short: CL-sNA
+  container-title: ILC
+  publisher: ACM
+  page: '17'
+  URL: http://doi.acm.org/10.1145/1622123.1622143
+  ISBN: '978-1-59593-618-9'
+
+- id: conf/lfp/BartleyJ86
+  type: paper-conference
+  author:
+  - family: Bartley
+    given: David H.
+  - family: Jensen
+    given: John C.
+  issued:
+  - year: '1986'
+  title: The implementation of pC scheme
+  container-title: LISP and functional programming
+  page: '88-93'
+
+- id: conf/lfp/BerlinW88
+  type: paper-conference
+  author:
+  - family: Berlin
+    given: Andrew
+  - family: Wu
+    given: Henry M.
+  issued:
+  - year: '1988'
+  title: 'Scheme86: A system for interpreting scheme'
+  title-short: Scheme86
+  container-title: LISP and functional programming
+  page: '116-123'
+  URL: http://doi.acm.org/10.1145/62678.62690
+
+- id: conf/lfp/FairbairnW86
+  type: paper-conference
+  author:
+  - family: Fairbairn
+    given: Jon
+  - family: Wray
+    given: Stuart
+  issued:
+  - year: '1986'
+  title: Code generation techniques for functional languages
+  container-title: LISP and functional programming
+  page: '94-104'
+
+- id: conf/lfp/Leivant90
+  type: paper-conference
+  author:
+  - family: Leivant
+    given: Daniel
+  issued:
+  - year: '1990'
+  title: Discrete polymorphism
+  container-title: LISP and functional programming
+  page: '288-297'
+  URL: http://doi.acm.org/10.1145/91556.91675
+
+- id: conf/lfp/Hanson90
+  type: paper-conference
+  author:
+  - family: Hanson
+    given: Chris
+  issued:
+  - year: '1990'
+  title: Efficient stack allocation for tail-recursive languages
+  container-title: LISP and functional programming
+  page: '106-118'
+  URL: http://doi.acm.org/10.1145/91556.91603
+
+- id: conf/lfp/JacobsS94
+  type: paper-conference
+  author:
+  - family: Jacobs
+    given: J. H.
+  - family: Swanson
+    given: Mark R.
+  issued:
+  - year: '1994'
+  title: Syntax and semantics of a persistent common lisp
+  container-title: LISP and functional programming
+  page: '103-112'
+  URL: http://doi.acm.org/10.1145/182409.182450
+
+- id: conf/lfp/Penkler14
+  type: paper-conference
+  author:
+  - family: Penkler
+    given: Dave
+  editor:
+  - family: Feeley
+    given: Marc
+  issued:
+  - year: '2014'
+  title: An array and list processing system
+  container-title: ILC
+  publisher: ACM
+  page: '22'
+  URL: http://doi.acm.org/10.1145/2635648.2635658
+  ISBN: '978-1-4503-2931-6'
+
+- id: conf/lfp/Greenberg80
+  type: paper-conference
+  author:
+  - family: Greenberg
+    given: B.
+  issued:
+  - year: '1980'
+  title: 'Prose and cONS - multics emacs: A commercial text-processing system in
+    lISP'
+  title-short: Prose and cONS - multics emacs
+  container-title: LISP conference
+  page: '6-12'
+
+- id: conf/lfp/DanvyM88
+  type: paper-conference
+  author:
+  - family: Danvy
+    given: Olivier
+  - family: Malmkjær
+    given: Karoline
+  issued:
+  - year: '1988'
+  title: Intensions and extensions in a reflective tower
+  container-title: LISP and functional programming
+  page: '327-341'
+  URL: http://doi.acm.org/10.1145/62678.62725
+
+- id: conf/lfp/KaserPRRS92
+  type: paper-conference
+  author:
+  - family: Kaser
+    given: Owen
+  - family: Pawagi
+    given: Shaunak
+  - family: Ramakrishnan
+    given: C. R.
+  - family: Ramakrishnan
+    given: I. V.
+  - family: Sekar
+    given: R. C.
+  issued:
+  - year: '1992'
+  title: Fast parallel implementation of lazy languages - the eQUALS experience
+  container-title: LISP and functional programming
+  page: '335-344'
+  URL: http://doi.acm.org/10.1145/141471.141570
+
+- id: conf/lfp/BoehmCRO86
+  type: paper-conference
+  author:
+  - family: Boehm
+    given: Hans-Juergen
+  - family: Cartwright
+    given: Robert
+  - family: Riggle
+    given: Mark
+  - family: O’Donnell
+    given: Michael J.
+  issued:
+  - year: '1986'
+  title: 'Exact real arithmetic: A case study in higher order programming'
+  title-short: Exact real arithmetic
+  container-title: LISP and functional programming
+  page: '162-173'
+
+- id: conf/lfp/WandO92
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  - family: Oliva
+    given: Dino
+  issued:
+  - year: '1992'
+  title: Proving the correctness of storage representations
+  container-title: LISP and functional programming
+  page: '151-160'
+  URL: http://doi.acm.org/10.1145/141471.141528
+
+- id: conf/lfp/Knight86
+  type: paper-conference
+  author:
+  - family: Knight
+    given: Thomas F.
+  issued:
+  - year: '1986'
+  title: An architecture for mostly functional languages
+  container-title: LISP and functional programming
+  page: '105-112'
+
+- id: conf/lfp/Henglein92
+  type: paper-conference
+  author:
+  - family: Henglein
+    given: Fritz
+  issued:
+  - year: '1992'
+  title: Global tagging optimization by type inference
+  container-title: LISP and functional programming
+  page: '205-215'
+  URL: http://doi.acm.org/10.1145/141471.141542
+
+- id: conf/lfp/WandF86
+  type: paper-conference
+  author:
+  - family: Wand
+    given: Mitchell
+  - family: Friedman
+    given: Daniel P.
+  issued:
+  - year: '1986'
+  title: 'The mystery of the tower revealed: A non-reflective description of the
+    reflective tower'
+  title-short: The mystery of the tower revealed
+  container-title: LISP and functional programming
+  page: '298-307'
+
+- id: conf/lfp/GoldsteinB80
+  type: paper-conference
+  author:
+  - family: Goldstein
+    given: Ira P.
+  - family: Bobrow
+    given: Daniel G.
+  issued:
+  - year: '1980'
+  title: Extenting object oriented programming in smalltalk
+  container-title: LISP conference
+  page: '75-81'
+
+- id: conf/lfp/CurtisR90
+  type: paper-conference
+  author:
+  - family: Curtis
+    given: Pavel
+  - family: Rauen
+    given: James
+  issued:
+  - year: '1990'
+  title: A module system for scheme
+  container-title: LISP and functional programming
+  page: '13-19'
+  URL: http://doi.acm.org/10.1145/91556.91573
+
+- id: conf/lfp/Cartwright80
+  type: paper-conference
+  author:
+  - family: Cartwright
+    given: Robert
+  issued:
+  - year: '1980'
+  title: A constructive alternative to axiomatic data type definitions
+  container-title: LISP conference
+  page: '46-55'
+...

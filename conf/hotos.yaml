@@ -1,0 +1,7401 @@
+---
+references:
+- id: conf/hotos/FoxB99
+  type: paper-conference
+  author:
+  - family: Fox
+    given: Armando
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Harvest, yield and scalable tolerant systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '174-178'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798396
+  DOI: 10.1109/HOTOS.1999.798396
+
+- id: conf/hotos/Orr95
+  type: paper-conference
+  author:
+  - family: Orr
+    given: Douglas B.
+  issued:
+  - year: '1995'
+  title: Application of meta-protocols to improve oS services
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '101-107'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513463
+  DOI: 10.1109/HOTOS.1995.513463
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/PiumartaOBF01
+  type: paper-conference
+  author:
+  - family: Piumarta
+    given: Ian
+  - family: Ogel
+    given: Frederic
+  - family: Baillarguet
+    given: Carine
+  - family: Folliot
+    given: Bertil
+  issued:
+  - year: '2001'
+  title: Applying the vVM kernel to flexible web caches
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '178'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990094
+  DOI: 10.1109/HOTOS.2001.990094
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Stanley-MarbellBNI01
+  type: paper-conference
+  author:
+  - family: Stanley-Marbell
+    given: Phillip
+  - family: Borcea
+    given: Cristian
+  - family: Nagaraja
+    given: Kiran
+  - family: Iftode
+    given: Liviu
+  issued:
+  - year: '2001'
+  title: 'Smart messages: A system architecture for large networks of embedded systems'
+  title-short: Smart messages
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '181'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990097
+  DOI: 10.1109/HOTOS.2001.990097
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/YabandehVKK09
+  type: paper-conference
+  author:
+  - family: Yabandeh
+    given: Maysam
+  - family: Vasic
+    given: Nedeljko
+  - family: Kostic
+    given: Dejan
+  - family: Kuncak
+    given: Viktor
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Simplifying distributed system development
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/yabandeh/yabandeh.pdf
+
+- id: conf/hotos/VasilakisKS15
+  type: paper-conference
+  author:
+  - family: Vasilakis
+    given: Nikos
+  - family: Karel
+    given: Ben
+  - family: Smith
+    given: Jonathan M.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'From lone dwarfs to giant superclusters: Rethinking operating system abstractions
+    for the cloud'
+  title-short: From lone dwarfs to giant superclusters
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/vasilakis
+
+- id: conf/hotos/CoadyKFHOG01
+  type: paper-conference
+  author:
+  - family: Coady
+    given: Yvonne
+  - family: Kiczales
+    given: Gregor
+  - family: Feeley
+    given: Michael J.
+  - family: Hutchinson
+    given: Norman C.
+  - family: Ong
+    given: Joon Suan
+  - family: Gudmundson
+    given: Stephan
+  issued:
+  - year: '2001'
+  title: Aspect-oriented system structure
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '166'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990082
+  DOI: 10.1109/HOTOS.2001.990082
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/WarfieldH01
+  type: paper-conference
+  author:
+  - family: Warfield
+    given: Andrew
+  - family: Hutchinson
+    given: Norman C.
+  issued:
+  - year: '2001'
+  title: The importance of good plumbing-reconsidering infrastructure in distributed
+    systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '187'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990103
+  DOI: 10.1109/HOTOS.2001.990103
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/WatermanCW09
+  type: paper-conference
+  author:
+  - family: Waterman
+    given: Jason
+  - family: Challen
+    given: Geoffrey Werner
+  - family: Welsh
+    given: Matt
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'Peloton: Coordinated resource management for sensor networks'
+  title-short: Peloton
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/waterman/waterman.pdf
+
+- id: conf/hotos/TsaiRP99
+  type: paper-conference
+  author:
+  - family: Tsai
+    given: Mitchell
+  - family: Reiher
+    given: Peter L.
+  - family: Popek
+    given: Gerald J.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Command management system for next-generation user input
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '179-184'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798397
+  DOI: 10.1109/HOTOS.1999.798397
+
+- id: conf/hotos/DixonKA09
+  type: paper-conference
+  author:
+  - family: Dixon
+    given: Colin
+  - family: Krishnamurthy
+    given: Arvind
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: An end to the middle
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/dixon/dixon.pdf
+
+- id: conf/hotos/SaxenaS09
+  type: paper-conference
+  author:
+  - family: Saxena
+    given: Mohit
+  - family: Swift
+    given: Michael M.
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'FlashVM: Revisiting the virtual memory hierarchy'
+  title-short: FlashVM
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/saxena/saxena.pdf
+
+- id: conf/hotos/JonesR99
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Michael B.
+  - family: Regehr
+    given: John
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'The problems you’re having may not be the problems you think you’re having:
+    Results from a latency study of windows nT'
+  title-short: The problems you’re having may not be the problems you think you’re
+    having
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '96-101'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798384
+  DOI: 10.1109/HOTOS.1999.798384
+
+- id: conf/hotos/WarfieldRFLH05
+  type: paper-conference
+  author:
+  - family: Warfield
+    given: Andrew
+  - family: Ross
+    given: Russ
+  - family: Fraser
+    given: Keir
+  - family: Limpach
+    given: Christian
+  - family: Hand
+    given: Steven
+  issued:
+  - year: '2005'
+  title: 'Parallax: Managing storage for a million machines'
+  title-short: Parallax
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/warfield/warfield.pdf
+
+- id: conf/hotos/NelsonK93
+  type: paper-conference
+  author:
+  - family: Nelson
+    given: Michael N.
+  - family: Khalidi
+    given: Yousef Y. A.
+  issued:
+  - year: '1993'
+  title: Generic support for caching and disconnected operation
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '61-65'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/PurohitWSZ03
+  type: paper-conference
+  author:
+  - family: Purohit
+    given: Amit
+  - family: Wright
+    given: Charles P.
+  - family: Spadavecchia
+    given: Joseph
+  - family: Zadok
+    given: Erez
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Cosy: Develop in user-land, run in kernel-mode'
+  title-short: Cosy
+  container-title: HotOS
+  publisher: USENIX
+  page: '109-114'
+  URL: https://www.usenix.org/conference/hotos-ix/cosy-develop-user-land-run-kernel-mode
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/KuzAS11
+  type: paper-conference
+  author:
+  - family: Kuz
+    given: Ihor
+  - family: Anderson
+    given: Zachary R.
+  - family: Shinde
+    given: Pravin
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Multicore oS benchmarks: We can do better'
+  title-short: Multicore oS benchmarks
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/multicore-os-benchmarks-we-can-do-better
+
+- id: conf/hotos/PoolWL07
+  type: paper-conference
+  author:
+  - family: Pool
+    given: Jesse
+  - family: Wong
+    given: Ian Sin Kwok
+  - family: Lie
+    given: David
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Relaxed determinism: Making redundant execution on multiprocessors practical'
+  title-short: Relaxed determinism
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/pool/pool.pdf
+
+- id: conf/hotos/Franz97
+  type: paper-conference
+  author:
+  - family: Franz
+    given: Michael
+  issued:
+  - year: '1997'
+  title: Run-time code generation as a central system service
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '112-117'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595192
+  DOI: 10.1109/HOTOS.1997.595192
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/LandayK93
+  type: paper-conference
+  author:
+  - family: Landay
+    given: James A.
+  - family: Kaufmann
+    given: Todd R.
+  issued:
+  - year: '1993'
+  title: User interface issues in mobile computing
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '40-47'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/KrevatTG11
+  type: paper-conference
+  author:
+  - family: Krevat
+    given: Elie
+  - family: Tucek
+    given: Joseph
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Disks are like snowflakes: No two are alike'
+  title-short: Disks are like snowflakes
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/disks-are-snowflakes-no-two-are-alike
+
+- id: conf/hotos/ChenM03
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Benjie
+  - family: Morris
+    given: Robert
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Certifying program execution with secure processors
+  container-title: HotOS
+  publisher: USENIX
+  page: '133-138'
+  URL: https://www.usenix.org/conference/hotos-ix/certifying-program-execution-secure-processors
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/WangRPK01
+  type: paper-conference
+  author:
+  - family: Wang
+    given: An-I
+  - family: Reiher
+    given: Peter L.
+  - family: Popek
+    given: Gerald J.
+  - family: Kuenning
+    given: Geoffrey H.
+  issued:
+  - year: '2001'
+  title: The conquest file system’s life after disks
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '186'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990102
+  DOI: 10.1109/HOTOS.2001.990102
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ZamfirAC11
+  type: paper-conference
+  author:
+  - family: Zamfir
+    given: Cristian
+  - family: Altekar
+    given: Gautam
+  - family: Candea
+    given: George
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Debug determinism: The sweet spot for replay-based debugging'
+  title-short: Debug determinism
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/debug-determinism-sweet-spot-replay-based-debugging
+
+- id: conf/hotos/CandeaF03
+  type: paper-conference
+  author:
+  - family: Candea
+    given: George
+  - family: Fox
+    given: Armando
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Crash-only software
+  container-title: HotOS
+  publisher: USENIX
+  page: '67-72'
+  URL: https://www.usenix.org/conference/hotos-ix/crash-only-software
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/BehrenCB03
+  type: paper-conference
+  author:
+  - family: Behren
+    given: J. Robert
+    dropping-particle: von
+  - family: Condit
+    given: Jeremy
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Why events are a bad idea (for high-concurrency servers)
+  container-title: HotOS
+  publisher: USENIX
+  page: '19-24'
+  URL: https://www.usenix.org/conference/hotos-ix/why-events-are-bad-idea-high-concurrency-servers
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/VasudevanFAPTKM09
+  type: paper-conference
+  author:
+  - family: Vasudevan
+    given: Vijay
+  - family: Franklin
+    given: Jason
+  - family: Andersen
+    given: David G.
+  - family: Phanishayee
+    given: Amar
+  - family: Tan
+    given: Lawrence
+  - family: Kaminsky
+    given: Michael
+  - family: Moraru
+    given: Iulian
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: FAWNdamentally power-efficient clusters
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/vasudevan/vasudevan.pdf
+
+- id: conf/hotos/LoserHR01
+  type: paper-conference
+  author:
+  - family: Löser
+    given: Jork
+  - family: Härtig
+    given: Hermann
+  - family: Reuther
+    given: Lars
+  issued:
+  - year: '2001'
+  title: A streaming interface for real-time interprocess communication
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '174'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990090
+  DOI: 10.1109/HOTOS.2001.990090
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/SavageCA99
+  type: paper-conference
+  author:
+  - family: Savage
+    given: Stefan
+  - family: Cardwell
+    given: Neal
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: The case for informed transport protocols
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '58-63'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798378
+  DOI: 10.1109/HOTOS.1999.798378
+
+- id: conf/hotos/SullivanHS99
+  type: paper-conference
+  author:
+  - family: Sullivan
+    given: David G.
+  - family: '0002'
+    given: Robert Haas
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'Tickets and currencies revisited: Extensions to multi-resouce lottery
+    scheduling'
+  title-short: Tickets and currencies revisited
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '148-152'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798392
+  DOI: 10.1109/HOTOS.1999.798392
+
+- id: conf/hotos/CozzieFK11
+  type: paper-conference
+  author:
+  - family: Cozzie
+    given: Anthony
+  - family: Finnicum
+    given: Murph
+  - family: King
+    given: Samuel T.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Macho: Programming with man pages'
+  title-short: Macho
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/macho-programming-man-pages
+
+- id: conf/hotos/BaumannPSSRBI09
+  type: paper-conference
+  author:
+  - family: Baumann
+    given: Andrew
+  - family: Peter
+    given: Simon
+  - family: Schüpbach
+    given: Adrian
+  - family: Singhania
+    given: Akhilesh
+  - family: Roscoe
+    given: Timothy
+  - family: Barham
+    given: Paul
+  - family: Isaacs
+    given: Rebecca
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Your computer is already a distributed system. why isn’t your oS?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/baumann/baumann.pdf
+
+- id: conf/hotos/BaligaKI07
+  type: paper-conference
+  author:
+  - family: Baliga
+    given: Arati
+  - family: Kilian
+    given: Joe
+  - family: Iftode
+    given: Liviu
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: A web based covert file system
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/baliga/baliga.pdf
+
+- id: conf/hotos/TolI99
+  type: paper-conference
+  author:
+  - family: Tol
+    given: R. M.
+  - family: Ijdens
+    given: P. B.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: File systems for cE equipment
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '20-23'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798372
+  DOI: 10.1109/HOTOS.1999.798372
+
+- id: conf/hotos/PradhanGC01
+  type: paper-conference
+  author:
+  - family: Pradhan
+    given: Prashant
+  - family: Gopalan
+    given: Kartik
+  - family: Chiueh
+    given: Tzi-cker
+  issued:
+  - year: '2001'
+  title: Design issues in system support for programmable routers
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '9-14'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990054
+  DOI: 10.1109/HOTOS.2001.990054
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/CarterFHKLLOSS93
+  type: paper-conference
+  author:
+  - family: Carter
+    given: John B.
+  - family: Ford
+    given: Bryan
+  - family: Hibler
+    given: Mike
+  - family: Kuramkote
+    given: Ravindra
+  - family: Law
+    given: Jeffrey
+  - family: Lepreau
+    given: Jay
+  - family: Orr
+    given: Douglas B.
+  - family: Stoller
+    given: Leigh
+  - family: Swanson
+    given: Mark R.
+  issued:
+  - year: '1993'
+  title: 'FLEX: A tool for building efficient and flexible systems'
+  title-short: FLEX
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '198-202'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/ChuKLZ11
+  type: paper-conference
+  author:
+  - family: Chu
+    given: David
+  - family: Kansal
+    given: Aman
+  - family: Liu
+    given: Jie
+  - family: Zhao
+    given: Feng
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Mobile apps: It’s time to move up to condOS'
+  title-short: Mobile apps
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/mobile-apps-its-time-move-condos
+
+- id: conf/hotos/1999
+  type: book
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Proceedings of the seventh workshop on hot topics in operating systems, hotOS-vII,
+    rio rico, arizona, uSA, march 28-30, 1999
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6496
+
+- id: conf/hotos/ChaseD01
+  type: paper-conference
+  author:
+  - family: Chase
+    given: Jeffrey S.
+  - family: Doyle
+    given: Ronald P.
+  issued:
+  - year: '2001'
+  title: Energy management for server clusters
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '165'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990081
+  DOI: 10.1109/HOTOS.2001.990081
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ManiatisAFSS11
+  type: paper-conference
+  author:
+  - family: Maniatis
+    given: Petros
+  - family: Akhawe
+    given: Devdatta
+  - family: Fall
+    given: Kevin R.
+  - family: Shi
+    given: Elaine
+  - family: Song
+    given: Dawn
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Do you know where your data are? Secure data capsules for deployable data
+    protection
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/do-you-know-where-your-data-are-secure-data-capsules-deployable-data-protection
+
+- id: conf/hotos/RedstoneSB03
+  type: paper-conference
+  author:
+  - family: Redstone
+    given: Joshua
+  - family: Swift
+    given: Michael M.
+  - family: Bershad
+    given: Brian N.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Using computers to diagnose computer problems
+  container-title: HotOS
+  publisher: USENIX
+  page: '91-86'
+  URL: https://www.usenix.org/conference/hotos-ix/using-computers-diagnose-computer-problems
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/LaraPTLTSDEL99
+  type: paper-conference
+  author:
+  - family: Lara
+    given: Eyal
+    dropping-particle: de
+  - family: Petersen
+    given: Karin
+  - family: Terry
+    given: Douglas B.
+  - family: LaMarca
+    given: Anthony
+  - family: Thornton
+    given: James D.
+  - family: Salisbury
+    given: Michael
+  - family: Dourish
+    given: Paul
+  - family: Edwards
+    given: W. Keith
+  - family: Lamping
+    given: John
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Caching documents with active properties
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '8-13'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798370
+  DOI: 10.1109/HOTOS.1999.798370
+
+- id: conf/hotos/AbadiBW05
+  type: paper-conference
+  author:
+  - family: Abadi
+    given: Martín
+  - family: Birrell
+    given: Andrew
+  - family: Wobber
+    given: Ted
+  issued:
+  - year: '2005'
+  title: Access control in a world of software diversity
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/abadi/abadi.pdf
+
+- id: conf/hotos/ChenN01
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Peter M.
+  - family: Noble
+    given: Brian D.
+  issued:
+  - year: '2001'
+  title: When virtual is better than real
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '133-138'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990073
+  DOI: 10.1109/HOTOS.2001.990073
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/AkoushSRMH11
+  type: paper-conference
+  author:
+  - family: Akoush
+    given: Sherif
+  - family: Sohan
+    given: Ripduman
+  - family: Rice
+    given: Andrew C.
+  - family: '0002'
+    given: Andrew W. Moore
+  - family: Hopper
+    given: Andy
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Free lunch: Exploiting renewable energy for computing'
+  title-short: Free lunch
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/free-lunch-exploiting-renewable-energy-computing
+
+- id: conf/hotos/MosbergerP93
+  type: paper-conference
+  author:
+  - family: Mosberger
+    given: David
+  - family: Peterson
+    given: Larry L.
+  issued:
+  - year: '1993'
+  title: Careful protocols or how to use highly reliable networks
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '80-84'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/Watson95
+  type: paper-conference
+  author:
+  - family: Watson
+    given: Terri
+  issued:
+  - year: '1995'
+  title: Effective wireless communication through application partitioning
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '24-27'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513449
+  DOI: 10.1109/HOTOS.1995.513449
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/GoldszmidtCFZ05
+  type: paper-conference
+  author:
+  - family: Goldszmidt
+    given: Moisés
+  - family: Cohen
+    given: Ira
+  - family: Fox
+    given: Armando
+  - family: Zhang
+    given: Steve
+  issued:
+  - year: '2005'
+  title: Three research challenges at the intersection of machine learning, statistical
+    induction, and systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/goldszmidt/goldszmidt.pdf
+
+- id: conf/hotos/SteereS95
+  type: paper-conference
+  author:
+  - family: Steere
+    given: David C.
+  - family: Satyanarayanan
+    given: M.
+  issued:
+  - year: '1995'
+  title: Using dynamic sets to overcome high i/O latencies during search
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '136-141'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513469
+  DOI: 10.1109/HOTOS.1995.513469
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/Jones93
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '1993'
+  title: Adaptive real-time resource management supporting composition of independently
+    authored time-critical services
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '135-139'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/PradhanC99
+  type: paper-conference
+  author:
+  - family: Pradhan
+    given: Prashant
+  - family: Chiueh
+    given: Tzi-cker
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Operating systems support for programmable cluster-based internet routers
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '76-81'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798381
+  DOI: 10.1109/HOTOS.1999.798381
+
+- id: conf/hotos/Blumberg11
+  type: paper-conference
+  author:
+  - family: Blumberg
+    given: Andrew J.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Toward practical and unconditional verification of remote computations
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/toward-practical-and-unconditional-verification-remote-computations
+
+- id: conf/hotos/2009
+  type: book
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'Proceedings of hotOS’09: 12th workshop on hot topics in operating systems,
+    may 18-20, 2009, monte verità, switzerland'
+  title-short: Proceedings of hotOS’09
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A58
+
+- id: conf/hotos/PreguicaMDD01
+  type: paper-conference
+  author:
+  - family: Preguiça
+    given: Nuno M.
+  - family: Martins
+    given: José Legatheaux
+  - family: Duarte
+    given: Sérgio
+  - family: Domingos
+    given: Henrique João L.
+  issued:
+  - year: '2001'
+  title: Supporting disconnected operation in dOORS
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '179'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990095
+  DOI: 10.1109/HOTOS.2001.990095
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Boyd-WickizerMK09
+  type: paper-conference
+  author:
+  - family: Boyd-Wickizer
+    given: Silas
+  - family: Morris
+    given: Robert
+  - family: Kaashoek
+    given: M. Frans
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Reinventing scheduling for multicore systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/boyd-wickizer/boyd-wickizer.pdf
+
+- id: conf/hotos/HeiserRTB11
+  type: paper-conference
+  author:
+  - family: Heiser
+    given: Gernot
+  - family: Ryzhyk
+    given: Leonid
+  - family: Tessin
+    given: Michael
+    dropping-particle: von
+  - family: Budzynowski
+    given: Aleksander
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: What if you could actually trust your kernel?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/what-if-you-could-actually-trust-your-kernel
+
+- id: conf/hotos/DevarakondaMK95
+  type: paper-conference
+  author:
+  - family: Devarakonda
+    given: Murthy V.
+  - family: Mukherjee
+    given: Arup
+  - family: Kish
+    given: Bill
+  issued:
+  - year: '1995'
+  title: Meta-scripts as a mechanism for complex web services
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '46-50'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513453
+  DOI: 10.1109/HOTOS.1995.513453
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/ZenelD97
+  type: paper-conference
+  author:
+  - family: Zenel
+    given: Bruce
+  - family: Duchamp
+    given: Dan
+  issued:
+  - year: '1997'
+  title: 'General purpose proxies: Solved and unsolved problems'
+  title-short: General purpose proxies
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '87-92'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595188
+  DOI: 10.1109/HOTOS.1997.595188
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/CampbellT95
+  type: paper-conference
+  author:
+  - family: Campbell
+    given: Roy H.
+  - family: Tan
+    given: See-Mong
+  issued:
+  - year: '1995'
+  title: '/Spl mu/Choices: An object-oriented multimedia operating system'
+  title-short: /Spl mu/Choices
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '90-94'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513461
+  DOI: 10.1109/HOTOS.1995.513461
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/Ganger01
+  type: paper-conference
+  author:
+  - family: Ganger
+    given: Gregory R.
+  issued:
+  - year: '2001'
+  title: Authentication confidences
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '169'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990085
+  DOI: 10.1109/HOTOS.2001.990085
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Stankovic95
+  type: paper-conference
+  author:
+  - family: Stankovic
+    given: John A.
+  issued:
+  - year: '1995'
+  title: Continuous and multimedia oS support in real-time control applications
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '8-11'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513446
+  DOI: 10.1109/HOTOS.1995.513446
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/RossbachCW11
+  type: paper-conference
+  author:
+  - family: Rossbach
+    given: Christopher J.
+  - family: Currey
+    given: Jon
+  - family: Witchel
+    given: Emmett
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Operating systems must support gPU abstractions
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/operating-systems-must-support-gpu-abstractions
+
+- id: conf/hotos/BallesterosA99
+  type: paper-conference
+  author:
+  - family: Ballesteros
+    given: Francisco J.
+  - family: Arévalo
+    given: Sergio
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'The box: A replacement for files'
+  title-short: The box
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '24-31'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798373
+  DOI: 10.1109/HOTOS.1999.798373
+
+- id: conf/hotos/Mogul03
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: TCP offload is a dumb idea whose time has come
+  container-title: HotOS
+  publisher: USENIX
+  page: '25-30'
+  URL: https://www.usenix.org/conference/hotos-ix/tcp-offload-dumb-idea-whose-time-has-come
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/YangSMMMK13
+  type: paper-conference
+  author:
+  - family: Yang
+    given: Edward Z.
+  - family: Stefan
+    given: Deian
+  - family: Mitchell
+    given: John C.
+  - family: Mazières
+    given: David
+  - family: Marchenko
+    given: Petr
+  - family: Karp
+    given: Brad
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Toward principled browser security
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/yang
+
+- id: conf/hotos/FlinnNS01
+  type: paper-conference
+  author:
+  - family: Flinn
+    given: Jason
+  - family: Narayanan
+    given: Dushyanth
+  - family: Satyanarayanan
+    given: Mahadev
+  issued:
+  - year: '2001'
+  title: Self-tuned remote execution for pervasive computing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '61-66'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990062
+  DOI: 10.1109/HOTOS.2001.990062
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/NoordendeBTS01
+  type: paper-conference
+  author:
+  - family: Noordende
+    given: Guido
+    dropping-particle: van ’t
+  - family: Brazier
+    given: Frances M. T.
+  - family: Tanenbaum
+    given: Andrew S.
+  - family: Steen
+    given: Maarten
+    dropping-particle: van
+  issued:
+  - year: '2001'
+  title: Mansion, a distributed multi-agent system
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '183'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990099
+  DOI: 10.1109/HOTOS.2001.990099
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/FaraboschiKMM15
+  type: paper-conference
+  author:
+  - family: Faraboschi
+    given: Paolo
+  - family: Keeton
+    given: Kimberly
+  - family: Marsland
+    given: Tim
+  - family: Milojicic
+    given: Dejan S.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Beyond processor-centric operating systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/faraboschi
+
+- id: conf/hotos/LiedtkeIJ97
+  type: paper-conference
+  author:
+  - family: Liedtke
+    given: Jochen
+  - family: Islam
+    given: Nayeem
+  - family: Jaeger
+    given: Trent
+  issued:
+  - year: '1997'
+  title: Preventing denial-of-service attacks on a µ-kernel for webOSes
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '73-79'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595186
+  DOI: 10.1109/HOTOS.1997.595186
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/2003
+  type: book
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Proceedings of hotOS’03: 9th workshop on hot topics in operating systems,
+    may 18-21, 2003, lihue (kauai), hawaii, uSA'
+  title-short: Proceedings of hotOS’03
+  publisher: USENIX
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A186
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/Smowton11
+  type: paper-conference
+  author:
+  - family: Smowton
+    given: Christopher
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Make world
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/make-world
+
+- id: conf/hotos/GogGSVVRCMHI15
+  type: paper-conference
+  author:
+  - family: Gog
+    given: Ionel
+  - family: Giceva
+    given: Jana
+  - family: Schwarzkopf
+    given: Malte
+  - family: Vaswani
+    given: Kapil
+  - family: Vytiniotis
+    given: Dimitrios
+  - family: Ramalingam
+    given: Ganesan
+  - family: Costa
+    given: Manuel
+  - family: Murray
+    given: Derek Gordon
+  - family: Hand
+    given: Steven
+  - family: Isard
+    given: Michael
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Broom: Sweeping out garbage collection from big data systems'
+  title-short: Broom
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/gog
+
+- id: conf/hotos/CiparHKLGGKX13
+  type: paper-conference
+  author:
+  - family: Cipar
+    given: James
+  - family: Ho
+    given: Qirong
+  - family: Kim
+    given: Jin Kyu
+  - family: Lee
+    given: Seunghak
+  - family: Ganger
+    given: Gregory R.
+  - family: Gibson
+    given: Garth
+  - family: Keeton
+    given: Kimberly
+  - family: Xing
+    given: Eric P.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Solving the straggler problem with bounded staleness
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/cipar
+
+- id: conf/hotos/2001
+  type: book
+  issued:
+  - year: '2001'
+  title: 'Proceedings of hotOS-vIII: 8th workshop on hot topics in operating systems,
+    may 20-23, 2001, elmau/Oberbayern, germany'
+  title-short: Proceedings of hotOS-vIII
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7758
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/GuptaAHK13
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Amit
+  - family: Ababneh
+    given: Ehab
+  - family: Han
+    given: Richard
+  - family: Keller
+    given: Eric
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Towards elastic operating systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/gupta
+
+- id: conf/hotos/Mogul05
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  issued:
+  - year: '2005'
+  title: Operating systems should support business change
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/mogul/mogul.pdf
+
+- id: conf/hotos/FrolundMSSV03
+  type: paper-conference
+  author:
+  - family: Frølund
+    given: Svend
+  - family: Merchant
+    given: Arif
+  - family: Saito
+    given: Yasushi
+  - family: Spence
+    given: Susan
+  - family: Veitch
+    given: Alistair C.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'FAB: Enterprise storage systems on a shoestring'
+  title-short: FAB
+  container-title: HotOS
+  publisher: USENIX
+  page: '169-174'
+  URL: https://www.usenix.org/conference/hotos-ix/fab-enterprise-storage-systems-shoestring
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/HuDP03
+  type: paper-conference
+  author:
+  - family: Hu
+    given: Y. Charlie
+  - family: Das
+    given: Saumitra M.
+  - family: Pucha
+    given: Himabindu
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Exploiting the synergy between peer-to-peer and mobile ad hoc networks
+  container-title: HotOS
+  publisher: USENIX
+  page: '37-42'
+  URL: https://www.usenix.org/conference/hotos-ix/exploiting-synergy-between-peer-peer-and-mobile-ad-hoc-networks
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/Stanley-Marbell15
+  type: paper-conference
+  author:
+  - family: Stanley-Marbell
+    given: Phillip
+  - family: Rinard
+    given: Martin
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Lax: Driver interfaces for approximate sensor device access'
+  title-short: Lax
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/stanley-marbell
+
+- id: conf/hotos/CoadyCDDHHKNSSW05
+  type: paper-conference
+  author:
+  - family: Coady
+    given: Yvonne
+  - family: Cox
+    given: Russ
+  - family: DeTreville
+    given: John
+  - family: Druschel
+    given: Peter
+  - family: Hellerstein
+    given: Joseph
+  - family: Hume
+    given: Andrew
+  - family: Keeton
+    given: Kimberly
+  - family: Nguyen
+    given: Thu
+  - family: Small
+    given: Christopher
+  - family: Stein
+    given: Lex
+  - family: Warfield
+    given: Andrew
+  issued:
+  - year: '2005'
+  title: 'Falling off the cliff: When systems go nonlinear'
+  title-short: Falling off the cliff
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/green_team/green.pdf
+
+- id: conf/hotos/DesnoyersGLLS05
+  type: paper-conference
+  author:
+  - family: Desnoyers
+    given: Peter
+  - family: Ganesan
+    given: Deepak
+  - family: Li
+    given: Huan
+  - family: '0009'
+    given: Ming Li
+  - family: Shenoy
+    given: Prashant J.
+  issued:
+  - year: '2005'
+  title: 'PRESTO: A predictive storage architecture for sensor networks'
+  title-short: PRESTO
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/desnoyers/desnoyers.pdf
+
+- id: conf/hotos/1993
+  type: book
+  issued:
+  - year: '1993'
+  title: Proceedings fourth workshop on workstation operating systems, wWOS 1993,
+    napa, california, uSA, october 14-15, 1993
+  publisher: IEEE Computer Society
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/HowellM99
+  type: paper-conference
+  author:
+  - family: Howell
+    given: Jon
+  - family: Montague
+    given: Mark H.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Hey, you got your compiler in my operating system!
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '122-129'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798388
+  DOI: 10.1109/HOTOS.1999.798388
+
+- id: conf/hotos/ShneidmanNPASVC05
+  type: paper-conference
+  author:
+  - family: Shneidman
+    given: Jeffrey
+  - family: Ng
+    given: Chaki
+  - family: Parkes
+    given: David C.
+  - family: AuYoung
+    given: Alvin
+  - family: Snoeren
+    given: Alex C.
+  - family: Vahdat
+    given: Amin
+  - family: Chun
+    given: Brent N.
+  issued:
+  - year: '2005'
+  title: Why markets could (but don’t currently) solve resource allocation problems
+    in systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/shneidman/shneidman.pdf
+
+- id: conf/hotos/FanZLKA13
+  type: paper-conference
+  author:
+  - family: Fan
+    given: Bin
+  - family: Zhou
+    given: Dong
+  - family: Lim
+    given: Hyeontaek
+  - family: Kaminsky
+    given: Michael
+  - family: Andersen
+    given: David G.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: When cycles are cheap, some tables can be huge
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/fan
+
+- id: conf/hotos/ChunM09
+  type: paper-conference
+  author:
+  - family: Chun
+    given: Byung-Gon
+  - family: Maniatis
+    given: Petros
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Augmented smartphone applications through clone cloud execution
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/chun/chun.pdf
+
+- id: conf/hotos/ItoiH99
+  type: paper-conference
+  author:
+  - family: Itoi
+    given: Naomaru
+  - family: Honeyman
+    given: Peter
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Practical security systems with smartcards
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '185-190'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798398
+  DOI: 10.1109/HOTOS.1999.798398
+
+- id: conf/hotos/Ingram99
+  type: paper-conference
+  author:
+  - family: Ingram
+    given: David
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Soft real time scheduling for general purpose client-server systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '130-135'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798389
+  DOI: 10.1109/HOTOS.1999.798389
+
+- id: conf/hotos/WangA93
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Randolph Y.
+  - family: Anderson
+    given: Thomas E.
+  issued:
+  - year: '1993'
+  title: 'XFS: A wide area mass storage file system'
+  title-short: XFS
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '71-78'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/Barrera93a
+  type: paper-conference
+  author:
+  - family: III
+    given: Joseph S. Barrera
+  issued:
+  - year: '1993'
+  title: 'Invocation chaining: Manipulating lightweight objects across heavyweight
+    boundaries'
+  title-short: Invocation chaining
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '191-193'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/AndersonYC99
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Darrell C.
+  - family: Yocum
+    given: Ken
+  - family: Chase
+    given: Jeffrey S.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: A case for buffer servers
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '82-89'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798382
+  DOI: 10.1109/HOTOS.1999.798382
+
+- id: conf/hotos/Day97
+  type: paper-conference
+  author:
+  - family: Day
+    given: Mark
+  issued:
+  - year: '1997'
+  title: 'What synchronous groupware needs: Notification services'
+  title-short: What synchronous groupware needs
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '118-122'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595193
+  DOI: 10.1109/HOTOS.1997.595193
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/EdwardsH01
+  type: paper-conference
+  author:
+  - family: Edwards
+    given: Antony
+  - family: Heiser
+    given: Gernot
+  issued:
+  - year: '2001'
+  title: Secure oS extensibility needn’t cost an arm and a leg
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '168'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990084
+  DOI: 10.1109/HOTOS.2001.990084
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/GreensteinGPCKSW07
+  type: paper-conference
+  author:
+  - family: Greenstein
+    given: Ben
+  - family: Gummadi
+    given: Ramakrishna
+  - family: Pang
+    given: Jeffrey
+  - family: Chen
+    given: Mike Y.
+  - family: Kohno
+    given: Tadayoshi
+  - family: Seshan
+    given: Srinivasan
+  - family: Wetherall
+    given: David
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Can ferris bueller still have his day off? Protecting privacy in the wireless
+    era
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/greenstein/greenstein.pdf
+
+- id: conf/hotos/BrownOKTKP99
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Aaron B.
+  - family: Oppenheimer
+    given: David L.
+  - family: Keeton
+    given: Kimberly
+  - family: Thomas
+    given: Randi
+  - family: Kubiatowicz
+    given: John
+  - family: Patterson
+    given: David A.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'ISTORE: Introspective storage for data-intensive network services'
+  title-short: ISTORE
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '32-37'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798374
+  DOI: 10.1109/HOTOS.1999.798374
+
+- id: conf/hotos/MislovePRWDWBSBA03
+  type: paper-conference
+  author:
+  - family: Mislove
+    given: Alan
+  - family: Post
+    given: Ansley
+  - family: Reis
+    given: Charles
+  - family: Willmann
+    given: Paul
+  - family: Druschel
+    given: Peter
+  - family: Wallach
+    given: Dan S.
+  - family: Bonnaire
+    given: Xavier
+  - family: Sens
+    given: Pierre
+  - family: Busca
+    given: Jean-Michel
+  - family: Arantes
+    given: Luciana Bezerra
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'POST: A secure, resilient, cooperative messaging system'
+  title-short: POST
+  container-title: HotOS
+  publisher: USENIX
+  page: '61-66'
+  URL: https://www.usenix.org/conference/hotos-ix/post-secure-resilient-cooperative-messaging-system
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/TarasovBZS11
+  type: paper-conference
+  author:
+  - family: Tarasov
+    given: Vasily
+  - family: Bhanage
+    given: Saumitra
+  - family: Zadok
+    given: Erez
+  - family: Seltzer
+    given: Margo
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Benchmarking file system benchmarking: It \*iS\* rocket science'
+  title-short: Benchmarking file system benchmarking
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/benchmarking-file-system-benchmarking-it-rocket-science
+
+- id: conf/hotos/BianchiniMNNO05
+  type: paper-conference
+  author:
+  - family: Bianchini
+    given: Ricardo
+  - family: Martin
+    given: Richard P.
+  - family: Nagaraja
+    given: Kiran
+  - family: Nguyen
+    given: Thu D.
+  - family: Oliveira
+    given: Fábio
+  issued:
+  - year: '2005'
+  title: Human-aware computer system design
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/bianchini/bianchini.pdf
+
+- id: conf/hotos/MogulMST13
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  - family: Mudigonda
+    given: Jayaram
+  - family: Santos
+    given: Jose Renato
+  - family: Turner
+    given: Yoshio
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'The nIC is the hypervisor: Bare-metal guests in iaaS clouds'
+  title-short: The nIC is the hypervisor
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/mogul
+
+- id: conf/hotos/GuoMYZZLBMZZ13
+  type: paper-conference
+  author:
+  - family: Guo
+    given: Zhenyu
+  - family: McDirmid
+    given: Sean
+  - family: Yang
+    given: Mao
+  - family: Zhuang
+    given: Li
+  - family: Zhang
+    given: Pu
+  - family: Luo
+    given: Yingwei
+  - family: Bergan
+    given: Tom
+  - family: Musuvathi
+    given: Madan
+  - family: Zhang
+    given: Zheng
+  - family: Zhou
+    given: Lidong
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'Failure recovery: When the cure is worse than the disease'
+  title-short: Failure recovery
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/guo
+
+- id: conf/hotos/GaddeRC97
+  type: paper-conference
+  author:
+  - family: Gadde
+    given: Syam
+  - family: Rabinovich
+    given: Michael
+  - family: Chase
+    given: Jeffrey S.
+  issued:
+  - year: '1997'
+  title: 'Reduce, reuse, recycle: An approach to building large internet caches'
+  title-short: Reduce, reuse, recycle
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '93-98'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595189
+  DOI: 10.1109/HOTOS.1997.595189
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/StratfordM99
+  type: paper-conference
+  author:
+  - family: Stratford
+    given: Neil
+  - family: Mortier
+    given: Richard
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: An economic approach to adaptive resource management
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '142-147'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798391
+  DOI: 10.1109/HOTOS.1999.798391
+
+- id: conf/hotos/TrivediSMPFG13
+  type: paper-conference
+  author:
+  - family: Trivedi
+    given: Animesh
+  - family: Stuedi
+    given: Patrick
+  - family: Metzler
+    given: Bernard
+  - family: Pletka
+    given: Roman
+  - family: Fitch
+    given: Blake G.
+  - family: Gross
+    given: Thomas R.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'Unified high-performance i/O: One stack to rule them all'
+  title-short: Unified high-performance i/O
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/trivedi
+
+- id: conf/hotos/CandeaF01
+  type: paper-conference
+  author:
+  - family: Candea
+    given: George
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2001'
+  title: 'Recursive restartability: Turning the reboot sledgehammer into a scalpel'
+  title-short: Recursive restartability
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '125-130'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990072
+  DOI: 10.1109/HOTOS.2001.990072
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/RahulBS99
+  type: paper-conference
+  author:
+  - family: Rahul
+    given: Hariharan Shankar
+  - family: Balakrishnan
+    given: Hari
+  - family: Seshan
+    given: Srinivasan
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: An end-system architecture for unified congestion management
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '52-57'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798377
+  DOI: 10.1109/HOTOS.1999.798377
+
+- id: conf/hotos/Mogul01
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  issued:
+  - year: '2001'
+  title: Toward a rigorous data type model for hTTP
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '176'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990092
+  DOI: 10.1109/HOTOS.2001.990092
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/FernandesRN15
+  type: paper-conference
+  author:
+  - family: Fernandes
+    given: Earlence
+  - family: Riva
+    given: Oriana
+  - family: Nath
+    given: Suman
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'My oS ought to know me better: In-app behavioural analytics as an oS service'
+  title-short: My oS ought to know me better
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/fernandes
+
+- id: conf/hotos/AndersonBCEGHNZ07
+  type: paper-conference
+  author:
+  - family: Anderson
+    given: Zachary R.
+  - family: Brewer
+    given: Eric A.
+  - family: Condit
+    given: Jeremy
+  - family: Ennals
+    given: Robert
+  - family: Gay
+    given: David
+  - family: Harren
+    given: Matthew
+  - family: Necula
+    given: George C.
+  - family: Zhou
+    given: Feng
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Beyond bug-finding: Sound program analysis for linux'
+  title-short: Beyond bug-finding
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/anderson/anderson.pdf
+
+- id: conf/hotos/0001DCF15
+  type: paper-conference
+  author:
+  - family: '0001'
+    given: Nuno Santos
+  - family: Duarte
+    given: Nuno O.
+  - family: Costa
+    given: Miguel B.
+  - family: Ferreira
+    given: Paulo
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: A case for enforcing app-specific constraints to mobile devices by using
+    trust leases
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/santos
+
+- id: conf/hotos/KannanC11
+  type: paper-conference
+  author:
+  - family: Kannan
+    given: Jayanthkumar
+  - family: Chun
+    given: Byung-Gon
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Making programs forget: Enforcing lifetime for sensitive data'
+  title-short: Making programs forget
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/making-programs-forget-enforcing-lifetime-sensitive-data
+
+- id: conf/hotos/SnoerenBK01
+  type: paper-conference
+  author:
+  - family: Snoeren
+    given: Alex C.
+  - family: Balakrishnan
+    given: Hari
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '2001'
+  title: Reconsidering internet mobility
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '41-46'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990059
+  DOI: 10.1109/HOTOS.2001.990059
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/XuKTK03
+  type: paper-conference
+  author:
+  - family: Xu
+    given: Zhichen
+  - family: Karlsson
+    given: Magnus
+  - family: Tang
+    given: Chunqiang
+  - family: Karamanolis
+    given: Christos T.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Towards a semantic-aware file store
+  container-title: HotOS
+  publisher: USENIX
+  page: '181-187'
+  URL: https://www.usenix.org/conference/hotos-ix/towards-semantic-aware-file-store
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/MillerBL01
+  type: paper-conference
+  author:
+  - family: Miller
+    given: Ethan L.
+  - family: Brandt
+    given: Scott A.
+  - family: Long
+    given: Darrell D. E.
+  issued:
+  - year: '2001'
+  title: 'HeRMES: High-performance reliable mRAM-enabled storage'
+  title-short: HeRMES
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '95-99'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990067
+  DOI: 10.1109/HOTOS.2001.990067
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BhattacharyaG11
+  type: paper-conference
+  author:
+  - family: Bhattacharya
+    given: Suparna
+  - family: Gopinath
+    given: Kanchi
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Virtually cool ternary content addressable memory
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/virtually-cool-ternary-content-addressable-memory
+
+- id: conf/hotos/ForrestSA97
+  type: paper-conference
+  author:
+  - family: Forrest
+    given: Stephanie
+  - family: Somayaji
+    given: Anil
+  - family: Ackley
+    given: David H.
+  issued:
+  - year: '1997'
+  title: Building diverse computer systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '67-72'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595185
+  DOI: 10.1109/HOTOS.1997.595185
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/WongVS07
+  type: paper-conference
+  author:
+  - family: Wong
+    given: Bernard
+  - family: Vigfusson
+    given: Ymir
+  - family: Sirer
+    given: Emin Gün
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Hyperspaces for object clustering and approximate matching in peer-to-peer
+    overlays
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/wong/wong.pdf
+
+- id: conf/hotos/DruschelR01
+  type: paper-conference
+  author:
+  - family: Druschel
+    given: Peter
+  - family: Rowstron
+    given: Antony I. T.
+  issued:
+  - year: '2001'
+  title: 'PAST: A large-scale, persistent peer-to-peer storage utility'
+  title-short: PAST
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '75-80'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990064
+  DOI: 10.1109/HOTOS.2001.990064
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Chapin97
+  type: paper-conference
+  author:
+  - family: Chapin
+    given: John
+  issued:
+  - year: '1997'
+  title: A fresh look at memory hierarchy management
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '130-134'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595195
+  DOI: 10.1109/HOTOS.1997.595195
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/CortesDH95
+  type: paper-conference
+  author:
+  - family: Cortés
+    given: Elizabeth Pérez
+  - family: Dechamboux
+    given: Pascal
+  - family: Han
+    given: Jay
+  issued:
+  - year: '1995'
+  title: Generic support for synchronization and consistency in arias
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '113-118'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513465
+  DOI: 10.1109/HOTOS.1995.513465
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/HisgenBMSS89
+  type: paper-conference
+  author:
+  - family: Hisgen
+    given: Andy
+  - family: Birrell
+    given: Andrew
+  - family: Mann
+    given: Timothy
+  - family: Schroeder
+    given: Michael D.
+  - family: Swart
+    given: Garret
+  issued:
+  - year: '1989'
+  title: Availability and consistency tradeoffs in the echo distributed file system
+  container-title: Workshop on workstation operating systems
+  page: '49-54'
+
+- id: conf/hotos/KansalUG13
+  type: paper-conference
+  author:
+  - family: Kansal
+    given: Aman
+  - family: Urgaonkar
+    given: Bhuvan
+  - family: Govindan
+    given: Sriram
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Using dark fiber to displace diesel generators
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/kansal
+
+- id: conf/hotos/2011
+  type: book
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 13th workshop on hot topics in operating systems, hotOS xIII, napa, california,
+    uSA, may 9-11, 2011
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A308
+
+- id: conf/hotos/YarvisRP99
+  type: paper-conference
+  author:
+  - family: Yarvis
+    given: Mark
+  - family: Reiher
+    given: Peter L.
+  - family: Popek
+    given: Gerald J.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'Conductor: A framework for distributed adaptation'
+  title-short: Conductor
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '44-51'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798376
+  DOI: 10.1109/HOTOS.1999.798376
+
+- id: conf/hotos/JannenTP13
+  type: paper-conference
+  author:
+  - family: Jannen
+    given: William
+  - family: Tsai
+    given: Chia-che
+  - family: Porter
+    given: Donald E.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Virtualize storage, not disks
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/jannen
+
+- id: conf/hotos/IngramPSW11
+  type: paper-conference
+  author:
+  - family: Ingram
+    given: Lon
+  - family: Popov
+    given: Ivaylo
+  - family: Setty
+    given: Srinath T. V.
+  - family: Walfish
+    given: Michael
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Repair from a chair: Computer repair as an untrusted cloud service'
+  title-short: Repair from a chair
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/repair-chair-computer-repair-untrusted-cloud-service
+
+- id: conf/hotos/JohansenRS95
+  type: paper-conference
+  author:
+  - family: Johansen
+    given: Dag
+  - family: Renesse
+    given: Robbert
+    dropping-particle: van
+  - family: Schneider
+    given: Fred B.
+  issued:
+  - year: '1995'
+  title: Operating system support for mobile agents
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '42-45'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513452
+  DOI: 10.1109/HOTOS.1995.513452
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/AnanthanarayananGSS11
+  type: paper-conference
+  author:
+  - family: Ananthanarayanan
+    given: Ganesh
+  - family: Ghodsi
+    given: Ali
+  - family: Shenker
+    given: Scott
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Disk-locality in datacenter computing considered irrelevant
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/disk-locality-datacenter-computing-considered-irrelevant
+
+- id: conf/hotos/Rawson97
+  type: paper-conference
+  author:
+  - family: III
+    given: Freeman L. Rawson
+  issued:
+  - year: '1997'
+  title: Experience with the development of a microkernel-based, multi-server operating
+    system
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '2-7'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595173
+  DOI: 10.1109/HOTOS.1997.595173
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/AjouxBKLV15
+  type: paper-conference
+  author:
+  - family: Ajoux
+    given: Phillipe
+  - family: Bronson
+    given: Nathan
+  - family: Kumar
+    given: Sanjeev
+  - family: Lloyd
+    given: Wyatt
+  - family: Veeraraghavan
+    given: Kaushik
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Challenges to adopting stronger consistency at scale
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/ajoux
+
+- id: conf/hotos/LittyLL09
+  type: paper-conference
+  author:
+  - family: Litty
+    given: Lionel
+  - family: Lagar-Cavilla
+    given: H. Andrés
+  - family: Lie
+    given: David
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'Computer meteorology: Monitoring compute clouds'
+  title-short: Computer meteorology
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/litty/litty.pdf
+
+- id: conf/hotos/BridgesCHS01
+  type: paper-conference
+  author:
+  - family: Bridges
+    given: Patrick G.
+  - family: Chen
+    given: Wen-Ke
+  - family: Hiltunen
+    given: Matti A.
+  - family: Schlichting
+    given: Richard D.
+  issued:
+  - year: '2001'
+  title: Supporting coordinated adaption in networked systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '162'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990078
+  DOI: 10.1109/HOTOS.2001.990078
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/RoscoeH03
+  type: paper-conference
+  author:
+  - family: Roscoe
+    given: Timothy
+  - family: Hand
+    given: Steven
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Palimpsest: Soft-capacity storage for planetary-scale services'
+  title-short: Palimpsest
+  container-title: HotOS
+  publisher: USENIX
+  page: '127-132'
+  URL: https://www.usenix.org/conference/hotos-ix/palimpsest-soft-capacity-storage-planetary-scale-services
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/RazafimahefaBP01
+  type: paper-conference
+  author:
+  - family: Razafimahefa
+    given: Chrislain
+  - family: Bryce
+    given: Ciarán
+  - family: Pawlak
+    given: Michel
+  issued:
+  - year: '2001'
+  title: The lana aproach to wireless computing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '180'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990096
+  DOI: 10.1109/HOTOS.2001.990096
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ShahBMS07
+  type: paper-conference
+  author:
+  - family: Shah
+    given: Mehul A.
+  - family: Baker
+    given: Mary
+  - family: Mogul
+    given: Jeffrey C.
+  - family: Swaminathan
+    given: Ram
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Auditing to keep online storage services honest
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/shah/shah.pdf
+
+- id: conf/hotos/KasikciPPSMC15
+  type: paper-conference
+  author:
+  - family: Kasikci
+    given: Baris
+  - family: Pereira
+    given: Cristiano
+  - family: Pokam
+    given: Gilles
+  - family: Schubert
+    given: Benjamin
+  - family: Musuvathi
+    given: Madanlal
+  - family: Candea
+    given: George
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Failure sketches: A better way to debug'
+  title-short: Failure sketches
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/kasikci
+
+- id: conf/hotos/MogulBRS11
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  - family: Baumann
+    given: Andrew
+  - family: Roscoe
+    given: Timothy
+  - family: Soares
+    given: Livio
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Mind the gap: Reconnecting architecture and oS research'
+  title-short: Mind the gap
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/mind-gap-reconnecting-architecture-and-os-research
+
+- id: conf/hotos/LiedtkeUEJP99
+  type: paper-conference
+  author:
+  - family: Liedtke
+    given: Jochen
+  - family: Uhlig
+    given: Volkmar
+  - family: Elphinstone
+    given: Kevin
+  - family: Jaeger
+    given: Trent
+  - family: Park
+    given: Yoonho
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: How to schedule unlimited memory pinning of untrusted processes or provisional
+    ideas about service-neutrality
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '153-161'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798393
+
+- id: conf/hotos/PetersonKL99
+  type: paper-conference
+  author:
+  - family: Peterson
+    given: Larry L.
+  - family: Karlin
+    given: Scott
+  - family: Li
+    given: Kai
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: OS support for general-purpose routers
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '38-43'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798375
+  DOI: 10.1109/HOTOS.1999.798375
+
+- id: conf/hotos/BoloskyDFFJKR97
+  type: paper-conference
+  author:
+  - family: Bolosky
+    given: William J.
+  - family: Draves
+    given: Richard
+  - family: Fitzgerald
+    given: Robert P.
+  - family: Fraser
+    given: Christopher W.
+  - family: Jones
+    given: Michael B.
+  - family: Knoblock
+    given: Todd B.
+  - family: Rashid
+    given: Richard F.
+  issued:
+  - year: '1997'
+  title: Operating system directions for the next millennium
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '106-110'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595191
+  DOI: 10.1109/HOTOS.1997.595191
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/DietzP11
+  type: paper-conference
+  author:
+  - family: Dietz
+    given: Michael
+  - family: Papamanthou
+    given: Charalampos
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'MOMMIE knows best: Systematic optimizations for verifiable distributed
+    algorithms'
+  title-short: MOMMIE knows best
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/mommie-knows-best-systematic-optimizations-verifiable-distributed-algorithms
+
+- id: conf/hotos/CabreraJT01
+  type: paper-conference
+  author:
+  - family: Cabrera
+    given: Luis-Felipe
+  - family: Jones
+    given: Michael B.
+  - family: Theimer
+    given: Marvin
+  issued:
+  - year: '2001'
+  title: 'Herald: Achieving a global event notification service'
+  title-short: Herald
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '87-92'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990066
+  DOI: 10.1109/HOTOS.2001.990066
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ChenL99
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Peter M.
+  - family: Lowell
+    given: David E.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Reliability hierarchies
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '168-173'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798395
+  DOI: 10.1109/HOTOS.1999.798395
+
+- id: conf/hotos/CastroPRSG15
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Ignacio
+  - family: Panda
+    given: Aurojit
+  - family: Raghavan
+    given: Barath
+  - family: Shenker
+    given: Scott
+  - family: Gorinsky
+    given: Sergey
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Route bazaar: Automatic interdomain contract negotiation'
+  title-short: Route bazaar
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/castro
+
+- id: conf/hotos/BanerjiCK93
+  type: paper-conference
+  author:
+  - family: Banerji
+    given: Arindam
+  - family: Cohn
+    given: David L.
+  - family: Kulkarni
+    given: Dinesh C.
+  issued:
+  - year: '1993'
+  title: Mobile computing personae
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '14-20'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/KeetonKMSWZB07
+  type: paper-conference
+  author:
+  - family: Keeton
+    given: Kimberly
+  - family: Kelly
+    given: Terence
+  - family: Merchant
+    given: Arif
+  - family: Santos
+    given: Cipriano A.
+  - family: Wiener
+    given: Janet L.
+  - family: Zhu
+    given: Xiaoyun
+  - family: '0002'
+    given: Dirk Beyer
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Don’t settle for less than the best: Use optimization to make decisions'
+  title-short: Don’t settle for less than the best
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/keeton/keeton.pdf
+
+- id: conf/hotos/HowellJWF07
+  type: paper-conference
+  author:
+  - family: Howell
+    given: Jon
+  - family: Jackson
+    given: Collin
+  - family: Wang
+    given: Helen J.
+  - family: Fan
+    given: Xiaofeng
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'MashupOS: Operating system abstractions for client mashups'
+  title-short: MashupOS
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/howell/howell.pdf
+
+- id: conf/hotos/GolmKB01
+  type: paper-conference
+  author:
+  - family: Golm
+    given: Michael
+  - family: Kleinöder
+    given: Jürgen
+  - family: Bellosa
+    given: Frank
+  issued:
+  - year: '2001'
+  title: Beyond address spaces - flexibility, performance, protection, and resource
+    management in the type-safe jX operating system
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '3-8'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990053
+  DOI: 10.1109/HOTOS.2001.990053
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/WuZ93
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Michael
+  - family: Zwaenepoel
+    given: Willy
+  issued:
+  - year: '1993'
+  title: 'ENVy: A nonVolatile main memory storage system'
+  title-short: ENVy
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '116-118'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/LiedtkeW01
+  type: paper-conference
+  author:
+  - family: Liedtke
+    given: Jochen
+  - family: Wenske
+    given: Horst
+  issued:
+  - year: '2001'
+  title: Lazy process switching
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '15-18'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990055
+  DOI: 10.1109/HOTOS.2001.990055
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BhatiaBP13
+  type: paper-conference
+  author:
+  - family: Bhatia
+    given: Sapan
+  - family: Bavier
+    given: Andy C.
+  - family: Peterson
+    given: Larry L.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'Wanted: Systems abstractions for sDN'
+  title-short: Wanted
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/bhatia
+
+- id: conf/hotos/Corrigan-GibbsJ15
+  type: paper-conference
+  author:
+  - family: Corrigan-Gibbs
+    given: Henry
+  - family: Jana
+    given: Suman
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Recommendations for randomness in the operating system, or how to keep evil
+    children out of your pool and other random facts
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/corrigan-gibbs
+
+- id: conf/hotos/BridgesSL11
+  type: paper-conference
+  author:
+  - family: Bridges
+    given: Patrick G.
+  - family: Sizemore
+    given: Donour
+  - family: Levy
+    given: Scott
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Exploiting mISD performance opportunities in multi-core systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/exploiting-misd-performance-opportunities-multi-core-systems
+
+- id: conf/hotos/ZhangDFS07
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Xiao
+  - family: Dwarkadas
+    given: Sandhya
+  - family: Folkmanis
+    given: Girts
+  - family: Shen
+    given: Kai
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Processor hardware counter statistics as a first-class system resource
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/zhang/zhang.pdf
+
+- id: conf/hotos/RajagopalanDHS03
+  type: paper-conference
+  author:
+  - family: Rajagopalan
+    given: Mohan
+  - family: Debray
+    given: Saumya K.
+  - family: Hiltunen
+    given: Matti A.
+  - family: Schlichting
+    given: Richard D.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Cassyopia: Compiler assisted system optimization'
+  title-short: Cassyopia
+  container-title: HotOS
+  publisher: USENIX
+  page: '103-108'
+  URL: https://www.usenix.org/conference/hotos-ix/cassyopia-compiler-assisted-system-optimization
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/PetrouNGGS01
+  type: paper-conference
+  author:
+  - family: Petrou
+    given: David
+  - family: Narayanan
+    given: Dushyanth
+  - family: Ganger
+    given: Gregory R.
+  - family: Gibson
+    given: Garth A.
+  - family: Shriver
+    given: Elizabeth A. M.
+  issued:
+  - year: '2001'
+  title: Hinting for goodness’ sake
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '177'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990093
+  DOI: 10.1109/HOTOS.2001.990093
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/MichielsMWV01
+  type: paper-conference
+  author:
+  - family: Michiels
+    given: Sam
+  - family: Matthijs
+    given: Frank
+  - family: Walravens
+    given: Dirk
+  - family: Verbaeten
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: 'DiPS: A unifying approach for developing system software'
+  title-short: DiPS
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '175'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990091
+  DOI: 10.1109/HOTOS.2001.990091
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ChenKAFB03
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Mike Y.
+  - family: Kiciman
+    given: Emre
+  - family: Accardi
+    given: Anthony
+  - family: Fox
+    given: Armando
+  - family: Brewer
+    given: Eric A.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Using runtime paths for macroanalysis
+  container-title: HotOS
+  publisher: USENIX
+  page: '79-84'
+  URL: https://www.usenix.org/conference/hotos-ix/using-runtime-paths-macroanalysis
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/BrownCFFMS05
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Aaron B.
+  - family: Chanda
+    given: Anupam
+  - family: Farrow
+    given: Rik
+  - family: Fedorova
+    given: Alexandra
+  - family: Maniatis
+    given: Petros
+  - family: Scott
+    given: Michael L.
+  issued:
+  - year: '2005'
+  title: The many faces of systems research - and how to evaluate them
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/red_team/red.pdf
+
+- id: conf/hotos/2005
+  type: book
+  issued:
+  - year: '2005'
+  title: 'Proceedings of hotOS’05: 10th workshop on hot topics in operating systems,
+    june 12-15, 2005, santa fe, new mexico, uSA'
+  title-short: Proceedings of hotOS’05
+  publisher: USENIX Association
+
+- id: conf/hotos/CunninghamK05
+  type: paper-conference
+  author:
+  - family: Cunningham
+    given: Ryan
+  - family: Kohler
+    given: Eddie
+  issued:
+  - year: '2005'
+  title: Making events less slippery with eel
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/cunningham/cunningham.pdf
+
+- id: conf/hotos/HeuleRRS15
+  type: paper-conference
+  author:
+  - family: Heule
+    given: Stefan
+  - family: Rifkin
+    given: Devon
+  - family: Russo
+    given: Alejandro
+  - family: Stefan
+    given: Deian
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: The most dangerous code in the browser
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/heule
+
+- id: conf/hotos/BustamanteEWSP01
+  type: paper-conference
+  author:
+  - family: Bustamante
+    given: Fabián E.
+  - family: Eisenhauer
+    given: Greg
+  - family: Widener
+    given: Patrick
+  - family: Schwan
+    given: Karsten
+  - family: Pu
+    given: Calton
+  issued:
+  - year: '2001'
+  title: Active streams-an approach to adaptive distributed systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '163'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990079
+  DOI: 10.1109/HOTOS.2001.990079
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/WangMGIBKMCTTCD15
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Helen J.
+  - family: Moshchuk
+    given: Alexander
+  - family: Gamon
+    given: Michael
+  - family: Iqbal
+    given: Shamsi T.
+  - family: Brown
+    given: Eli T.
+  - family: Kapoor
+    given: Ashish
+  - family: Meek
+    given: Christopher
+  - family: Chen
+    given: Eric Y.
+  - family: Tian
+    given: Yuan
+  - family: Teevan
+    given: Jaime
+  - family: Czerwinski
+    given: Mary
+  - family: Dumais
+    given: Susan T.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: The activity platform
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/wang
+
+- id: conf/hotos/AgrawalS03
+  type: paper-conference
+  author:
+  - family: Agrawal
+    given: Mukesh
+  - family: Seshan
+    given: Srinivasan
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Development tools for distributed applications
+  container-title: HotOS
+  publisher: USENIX
+  page: '49-54'
+  URL: https://www.usenix.org/conference/hotos-ix/development-tools-distributed-applications
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/MontzMOPP95
+  type: paper-conference
+  author:
+  - family: Montz
+    given: Allen Brady
+  - family: Mosberger
+    given: David
+  - family: O’Malley
+    given: Sean W.
+  - family: Peterson
+    given: Larry L.
+  - family: Proebsting
+    given: Todd A.
+  issued:
+  - year: '1995'
+  title: 'Scout: A communications-oriented operating system'
+  title-short: Scout
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '58-61'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513455
+  DOI: 10.1109/HOTOS.1995.513455
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/Barrera93
+  type: paper-conference
+  author:
+  - family: III
+    given: Joseph S. Barrera
+  issued:
+  - year: '1993'
+  title: Self-tuning software
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '194-197'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/HandWFKM05
+  type: paper-conference
+  author:
+  - family: Hand
+    given: Steven
+  - family: Warfield
+    given: Andrew
+  - family: Fraser
+    given: Keir
+  - family: Kotsovinos
+    given: Evangelos
+  - family: Magenheimer
+    given: Daniel J.
+  issued:
+  - year: '2005'
+  title: Are virtual machine monitors microkernels done right?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/hand/hand.pdf
+
+- id: conf/hotos/JeongLLYCC15
+  type: paper-conference
+  author:
+  - family: Jeong
+    given: Joo Seong
+  - family: Lee
+    given: Woo-Yeon
+  - family: Lee
+    given: Yunseong
+  - family: Yang
+    given: Youngseok
+  - family: Cho
+    given: Brian
+  - family: Chun
+    given: Byung-Gon
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Elastic memory: Bring elasticity back to in-memory big data analytics'
+  title-short: Elastic memory
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/jeong
+
+- id: conf/hotos/EnglerGK95
+  type: paper-conference
+  author:
+  - family: Engler
+    given: Dawson R.
+  - family: Gupta
+    given: Sandeep K.
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '1995'
+  title: 'AVM: Application-level virtual memory'
+  title-short: AVM
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '72-77'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513458
+  DOI: 10.1109/HOTOS.1995.513458
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/Draves93
+  type: paper-conference
+  author:
+  - family: Draves
+    given: Richard
+  issued:
+  - year: '1993'
+  title: The case for run-time replaceable kernel modules
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '160-164'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/GoldszmidtI11
+  type: paper-conference
+  author:
+  - family: Goldszmidt
+    given: Moisés
+  - family: Isaacs
+    given: Rebecca
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: More intervention now!
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/more-intervention-now
+
+- id: conf/hotos/ChandaECZ05
+  type: paper-conference
+  author:
+  - family: Chanda
+    given: Anupam
+  - family: Elmeleegy
+    given: Khaled
+  - family: Cox
+    given: Alan L.
+  - family: Zwaenepoel
+    given: Willy
+  issued:
+  - year: '2005'
+  title: 'Causeway: Operating system support for controlling and analyzing the execution
+    of distributed programs'
+  title-short: Causeway
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/chanda/chanda.pdf
+
+- id: conf/hotos/PaluskaPW11
+  type: paper-conference
+  author:
+  - family: Paluska
+    given: Justin Mazzola
+  - family: Pham
+    given: Hubert
+  - family: Ward
+    given: Steve
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Structuring the unstructured middle with chunk computing
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/structuring-unstructured-middle-chunk-computing
+
+- id: conf/hotos/ChaseFL93
+  type: paper-conference
+  author:
+  - family: Chase
+    given: Jeffrey S.
+  - family: Feeley
+    given: Michael J.
+  - family: Levy
+    given: Henry M.
+  issued:
+  - year: '1993'
+  title: Some issues for single address space systems
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '150-154'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/HeYGCLSWZ09
+  type: paper-conference
+  author:
+  - family: He
+    given: Bingsheng
+  - family: Yang
+    given: Mao
+  - family: Guo
+    given: Zhenyu
+  - family: Chen
+    given: Rishan
+  - family: Lin
+    given: Wei
+  - family: Su
+    given: Bing
+  - family: Wang
+    given: Hongyi
+  - family: Zhou
+    given: Lidong
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Wave computing in the cloud
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/he/he.pdf
+
+- id: conf/hotos/McSherryIM15
+  type: paper-conference
+  author:
+  - family: McSherry
+    given: Frank
+  - family: Isard
+    given: Michael
+  - family: Murray
+    given: Derek Gordon
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Scalability! But at what cOST?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/mcsherry
+
+- id: conf/hotos/KroegerL99
+  type: paper-conference
+  author:
+  - family: Kroeger
+    given: Tom M.
+  - family: Long
+    given: Darrell D. E.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: The case for efficient file access pattern modeling
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '14-19'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798371
+  DOI: 10.1109/HOTOS.1999.798371
+
+- id: conf/hotos/ZhangGL13
+  type: paper-conference
+  author:
+  - family: Zhang
+    given: Pengyu
+  - family: Ganesan
+    given: Deepak
+  - family: Lu
+    given: Boyan
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'QuarkOS: Pushing the operating limits of micro-powered sensors'
+  title-short: QuarkOS
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/zhang
+
+- id: conf/hotos/RabkinASPF13
+  type: paper-conference
+  author:
+  - family: Rabkin
+    given: Ariel
+  - family: Arye
+    given: Matvey
+  - family: Sen
+    given: Siddhartha
+  - family: Pai
+    given: Vivek S.
+  - family: Freedman
+    given: Michael J.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Making every bit count in wide-area analytics
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/rabkin
+
+- id: conf/hotos/KidstonBK99
+  type: paper-conference
+  author:
+  - family: Kidston
+    given: David
+  - family: Black
+    given: James P.
+  - family: Kunz
+    given: Thomas
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Transparent communication management in wireless networks
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '64-69'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798379
+  DOI: 10.1109/HOTOS.1999.798379
+
+- id: conf/hotos/MurrayH11
+  type: paper-conference
+  author:
+  - family: Murray
+    given: Derek Gordon
+  - family: Hand
+    given: Steven
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Non-deterministic parallelism considered useful
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/non-deterministic-parallelism-considered-useful
+
+- id: conf/hotos/LauvsetJJM01
+  type: paper-conference
+  author:
+  - family: Lauvset
+    given: Kåre J.
+  - family: Jacobsen
+    given: Kjetil
+  - family: Johansen
+    given: Dag
+  - family: Marzullo
+    given: Keith
+  issued:
+  - year: '2001'
+  title: Separating mobility from mobile agents
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '173'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990089
+  DOI: 10.1109/HOTOS.2001.990089
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/TullmannTMLCB97
+  type: paper-conference
+  author:
+  - family: Tullmann
+    given: Patrick
+  - family: Turner
+    given: Jeff
+  - family: McCorquodale
+    given: John
+  - family: Lepreau
+    given: Jay
+  - family: Chitturi
+    given: Ajay
+  - family: Back
+    given: Godmar
+  issued:
+  - year: '1997'
+  title: 'Formal methods: A practical tool for oS implementors'
+  title-short: Formal methods
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '20-25'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595176
+  DOI: 10.1109/HOTOS.1997.595176
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/Chiueh97
+  type: paper-conference
+  author:
+  - family: Chiueh
+    given: Tzi-cker
+  issued:
+  - year: '1997'
+  title: Distributed systems support for networked games
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '99-104'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595190
+  DOI: 10.1109/HOTOS.1997.595190
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/PopescuCT03
+  type: paper-conference
+  author:
+  - family: Popescu
+    given: Bogdan C.
+  - family: Crispo
+    given: Bruno
+  - family: Tanenbaum
+    given: Andrew S.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Secure data replication over untrusted hosts
+  container-title: HotOS
+  publisher: USENIX
+  page: '121-126'
+  URL: https://www.usenix.org/conference/hotos-ix/secure-data-replication-over-untrusted-hosts
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/Henson03
+  type: paper-conference
+  author:
+  - family: Henson
+    given: Val
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: An analysis of compare-by-hash
+  container-title: HotOS
+  publisher: USENIX
+  page: '13-18'
+  URL: https://www.usenix.org/conference/hotos-ix/analysis-compare-hash
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/IsardB07
+  type: paper-conference
+  author:
+  - family: Isard
+    given: Michael
+  - family: Birrell
+    given: Andrew
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Automatic mutual exclusion
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/isard/isard.pdf
+
+- id: conf/hotos/BugnionCC13
+  type: paper-conference
+  author:
+  - family: Bugnion
+    given: Edouard
+  - family: Chipounov
+    given: Vitaly
+  - family: Candea
+    given: George
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Lightweight snapshots and system-level backtracking
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/bugnion
+
+- id: conf/hotos/Ellis99
+  type: paper-conference
+  author:
+  - family: Ellis
+    given: Carla Schlatter
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: The case for higher-level power management
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '162-167'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798394
+  DOI: 10.1109/HOTOS.1999.798394
+
+- id: conf/hotos/BlakeR03
+  type: paper-conference
+  author:
+  - family: Blake
+    given: Charles
+  - family: Rodrigues
+    given: Rodrigo
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'High availability, scalable storage, dynamic peer networks: Pick two'
+  title-short: High availability, scalable storage, dynamic peer networks
+  container-title: HotOS
+  publisher: USENIX
+  page: '1-6'
+  URL: https://www.usenix.org/conference/hotos-ix/high-availability-scalable-storage-dynamic-peer-networks-pick-two
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/KicimanMF01
+  type: paper-conference
+  author:
+  - family: Kiciman
+    given: Emre
+  - family: Melloul
+    given: Laurence
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2001'
+  title: Towards zero-code service composition
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '172'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990088
+  DOI: 10.1109/HOTOS.2001.990088
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Nilsen95
+  type: paper-conference
+  author:
+  - family: Nilsen
+    given: Kelvin D.
+  issued:
+  - year: '1995'
+  title: Real-time is no longer a small specialized niche
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '2-7'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513445
+  DOI: 10.1109/HOTOS.1995.513445
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/GanapathyBSJ07
+  type: paper-conference
+  author:
+  - family: Ganapathy
+    given: Vinod
+  - family: Balakrishnan
+    given: Arini
+  - family: Swift
+    given: Michael M.
+  - family: Jha
+    given: Somesh
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Microdrivers: A new architecture for device drivers'
+  title-short: Microdrivers
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/ganapathy/ganapathy.pdf
+
+- id: conf/hotos/HengartnerS03
+  type: paper-conference
+  author:
+  - family: Hengartner
+    given: Urs
+  - family: Steenkiste
+    given: Peter
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Access control to information in pervasive computing environments
+  container-title: HotOS
+  publisher: USENIX
+  page: '157-162'
+  URL: https://www.usenix.org/conference/hotos-ix/access-control-information-pervasive-computing-environments
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/LoucksMR93
+  type: paper-conference
+  author:
+  - family: Loucks
+    given: Larry K.
+  - family: Manikundalam
+    given: Ravi
+  - family: III
+    given: Freeman L. Rawson
+  issued:
+  - year: '1993'
+  title: A microkernel-based operating system for personal digital assistants
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '9-13'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/LaraWZ01
+  type: paper-conference
+  author:
+  - family: Lara
+    given: Eyal
+    dropping-particle: de
+  - family: Wallach
+    given: Dan S.
+  - family: Zwaenepoel
+    given: Willy
+  issued:
+  - year: '2001'
+  title: Architectures for adaption systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '167'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990083
+  DOI: 10.1109/HOTOS.2001.990083
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/OberheideCJ09
+  type: paper-conference
+  author:
+  - family: Oberheide
+    given: Jon
+  - family: Cooke
+    given: Evan
+  - family: Jahanian
+    given: Farnam
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'If it ain’t broke, don’t fix it: Challenges and new directions for inferring
+    the impact of software patches'
+  title-short: If it ain’t broke, don’t fix it
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/oberheide/oberheide.pdf
+
+- id: conf/hotos/TanYZ07
+  type: paper-conference
+  author:
+  - family: Tan
+    given: Lin
+  - family: Yuan
+    given: Ding
+  - family: Zhou
+    given: Yuanyuan
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'HotComments: How to make program comments more useful?'
+  title-short: HotComments
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/tan/tan.pdf
+
+- id: conf/hotos/GruteserSJHG03
+  type: paper-conference
+  author:
+  - family: Gruteser
+    given: Marco
+  - family: Schelle
+    given: Graham
+  - family: Jain
+    given: Ashish
+  - family: Han
+    given: Richard
+  - family: Grunwald
+    given: Dirk
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Privacy-aware location sensor networks
+  container-title: HotOS
+  publisher: USENIX
+  page: '163-168'
+  URL: https://www.usenix.org/conference/hotos-ix/privacy-aware-location-sensor-networks
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/BrownH05
+  type: paper-conference
+  author:
+  - family: Brown
+    given: Aaron B.
+  - family: Hellerstein
+    given: Joseph L.
+  issued:
+  - year: '2005'
+  title: Reducing the cost of iT operations - is automation always the answer?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/brown/brown.pdf
+
+- id: conf/hotos/GwertzmanS95
+  type: paper-conference
+  author:
+  - family: Gwertzman
+    given: James
+  - family: Seltzer
+    given: Margo
+  issued:
+  - year: '1995'
+  title: The case for geographical push-caching
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '51-57'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513454
+  DOI: 10.1109/HOTOS.1995.513454
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/HuntLTW05
+  type: paper-conference
+  author:
+  - family: Hunt
+    given: Galen C.
+  - family: Larus
+    given: James R.
+  - family: Tarditi
+    given: David
+  - family: Wobber
+    given: Ted
+  issued:
+  - year: '2005'
+  title: 'Broad new oS research: Challenges and opportunities'
+  title-short: Broad new oS research
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/hunt/hunt.pdf
+
+- id: conf/hotos/WitchelA03
+  type: paper-conference
+  author:
+  - family: Witchel
+    given: Emmett
+  - family: Asanovic
+    given: Krste
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Hardware works, software doesn’t: Enforcing modularity with mondriaan
+    memory protection'
+  title-short: Hardware works, software doesn’t
+  container-title: HotOS
+  publisher: USENIX
+  page: '139-144'
+  URL: https://www.usenix.org/conference/hotos-ix/hardware-works-software-doesnt-enforcing-modularity-mondriaan-memory-protection
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/MercerST93
+  type: paper-conference
+  author:
+  - family: Mercer
+    given: Clifford W.
+  - family: Savage
+    given: Stefan
+  - family: Tokuda
+    given: Hideyuki
+  issued:
+  - year: '1993'
+  title: 'Processor capacity reserves: An abstraction for managing processor usage'
+  title-short: Processor capacity reserves
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '129-134'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/JaegerELPP99
+  type: paper-conference
+  author:
+  - family: Jaeger
+    given: Trent
+  - family: Elphinstone
+    given: Kevin
+  - family: Liedtke
+    given: Jochen
+  - family: Panteleenko
+    given: Vsevolod
+  - family: Park
+    given: Yoonho
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Flexible access control using iPC redirection
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '191-196'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798399
+  DOI: 10.1109/HOTOS.1999.798399
+
+- id: conf/hotos/GuedesC93
+  type: paper-conference
+  author:
+  - family: Guedes
+    given: Paulo
+  - family: Castro
+    given: Miguel
+  issued:
+  - year: '1993'
+  title: Distributed shared object memory
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '142-149'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/LeachW97
+  type: paper-conference
+  author:
+  - family: Leach
+    given: Paul J.
+  - family: Weider
+    given: Chris
+  issued:
+  - year: '1997'
+  title: 'Query routing: Applying systems thinking to internet search'
+  title-short: Query routing
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '82-86'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595187
+  DOI: 10.1109/HOTOS.1997.595187
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/DAntoniDJKLMMORSVW13
+  type: paper-conference
+  author:
+  - family: D’Antoni
+    given: Loris
+  - family: Dunn
+    given: Alan M.
+  - family: Jana
+    given: Suman
+  - family: Kohno
+    given: Tadayoshi
+  - family: Livshits
+    given: Benjamin
+  - family: Molnar
+    given: David
+  - family: Moshchuk
+    given: Alexander
+  - family: Ofek
+    given: Eyal
+  - family: Roesner
+    given: Franziska
+  - family: Saponas
+    given: T. Scott
+  - family: Veanes
+    given: Margus
+  - family: Wang
+    given: Helen J.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Operating system support for augmented reality applications
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/d%27antoni
+
+- id: conf/hotos/GrimmB97
+  type: paper-conference
+  author:
+  - family: Grimm
+    given: Robert
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1997'
+  title: Security for extensible systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '62-66'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595184
+  DOI: 10.1109/HOTOS.1997.595184
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/Howard93
+  type: paper-conference
+  author:
+  - family: Howard
+    given: John H.
+  issued:
+  - year: '1993'
+  title: Using reconciliation to share files between occasionally connected computers
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '56-60'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/OusterhoutPRVXRSS13
+  type: paper-conference
+  author:
+  - family: Ousterhout
+    given: Kay
+  - family: Panda
+    given: Aurojit
+  - family: Rosen
+    given: Josh
+  - family: Venkataraman
+    given: Shivaram
+  - family: Xin
+    given: Reynold
+  - family: Ratnasamy
+    given: Sylvia
+  - family: Shenker
+    given: Scott
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: The case for tiny tasks in compute clusters
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/ousterhout
+
+- id: conf/hotos/CaceresDLM93
+  type: paper-conference
+  author:
+  - family: Cáceres
+    given: Ramón
+  - family: Douglis
+    given: Fred
+  - family: Li
+    given: Kai
+  - family: Marsh
+    given: Brian
+  issued:
+  - year: '1993'
+  title: Operating system implications of solid-state mobile computers
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '21-27'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/LiedtkeESHHIJ97
+  type: paper-conference
+  author:
+  - family: Liedtke
+    given: Jochen
+  - family: Elphinstone
+    given: Kevin
+  - family: Schönberg
+    given: Sebastian
+  - family: Härtig
+    given: Hermann
+  - family: Heiser
+    given: Gernot
+  - family: Islam
+    given: Nayeem
+  - family: Jaeger
+    given: Trent
+  issued:
+  - year: '1997'
+  title: Achieved iPC performance
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '28-31'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595177
+  DOI: 10.1109/HOTOS.1997.595177
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/TuchKH05
+  type: paper-conference
+  author:
+  - family: Tuch
+    given: Harvey
+  - family: Klein
+    given: Gerwin
+  - family: Heiser
+    given: Gernot
+  issued:
+  - year: '2005'
+  title: OS verification - now!
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/tuch/tuch.pdf
+
+- id: conf/hotos/LeaYI95
+  type: paper-conference
+  author:
+  - family: Lea
+    given: Rodger
+  - family: Yokote
+    given: Yasuhiko
+  - family: Itoh
+    given: Jun-ichiro
+  issued:
+  - year: '1995'
+  title: Adaptive operating system design using reflection
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '95-100'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513462
+  DOI: 10.1109/HOTOS.1995.513462
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/KePXYWY11
+  type: paper-conference
+  author:
+  - family: Ke
+    given: Qifa
+  - family: Prabhakaran
+    given: Vijayan
+  - family: Xie
+    given: Yinglian
+  - family: Yu
+    given: Yuan
+  - family: Wu
+    given: Jingyue
+  - family: Yang
+    given: Junfeng
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Optimizing data partitioning for data-parallel computing
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/optimizing-data-partitioning-data-parallel-computing
+
+- id: conf/hotos/McIlroyS09
+  type: paper-conference
+  author:
+  - family: McIlroy
+    given: Ross
+  - family: Sventek
+    given: Joseph S.
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'Hera-jVM: Abstracting processor heterogeneity behind a virtual machine'
+  title-short: Hera-jVM
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/mcilroy/mcilroy.pdf
+
+- id: conf/hotos/KicimanW07
+  type: paper-conference
+  author:
+  - family: Kiciman
+    given: Emre
+  - family: Wang
+    given: Helen J.
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Live monitoring: Using adaptive instrumentation and analysis to debug
+    and maintain web applications'
+  title-short: Live monitoring
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/kiciman/kiciman.pdf
+
+- id: conf/hotos/KooburatS11
+  type: paper-conference
+  author:
+  - family: Kooburat
+    given: Thawan
+  - family: Swift
+    given: Michael M.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: The best of both worlds with on-demand virtualization
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/best-both-worlds-demand-virtualization
+
+- id: conf/hotos/BackH99
+  type: paper-conference
+  author:
+  - family: Back
+    given: Godmar
+  - family: Hsieh
+    given: Wilson C.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Drawing the red line in java
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '116-121'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798387
+  DOI: 10.1109/HOTOS.1999.798387
+
+- id: conf/hotos/SantryFHV99
+  type: paper-conference
+  author:
+  - family: Santry
+    given: Douglas J.
+  - family: Feeley
+    given: Michael J.
+  - family: Hutchinson
+    given: Norman C.
+  - family: Veitch
+    given: Alistair C.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'Elephant: The file system that never forgets'
+  title-short: Elephant
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '2-7'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798369
+  DOI: 10.1109/HOTOS.1999.798369
+
+- id: conf/hotos/RajagopalanWJW13
+  type: paper-conference
+  author:
+  - family: Rajagopalan
+    given: Shriram
+  - family: Williams
+    given: Dan
+  - family: Jamjoom
+    given: Hani
+  - family: Warfield
+    given: Andrew
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'Escape capsule: Explicit state is robust and scalable'
+  title-short: Escape capsule
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/rajagopalan
+
+- id: conf/hotos/AmirBSK95
+  type: paper-conference
+  author:
+  - family: Amir
+    given: Elan
+  - family: Balakrishnan
+    given: Hari
+  - family: Seshan
+    given: Srinivasan
+  - family: Katz
+    given: Randy H.
+  issued:
+  - year: '1995'
+  title: Efficient tCP over networks with wireless links
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '35-41'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513451
+  DOI: 10.1109/HOTOS.1995.513451
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/LindstromRD95
+  type: paper-conference
+  author:
+  - family: Lindström
+    given: Anders
+  - family: Rosenberg
+    given: John
+  - family: Dearle
+    given: Alan
+  issued:
+  - year: '1995'
+  title: The grand unified theory of address spaces
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '66-71'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513457
+  DOI: 10.1109/HOTOS.1995.513457
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/QinTZ05
+  type: paper-conference
+  author:
+  - family: Qin
+    given: Feng
+  - family: Tucek
+    given: Joseph
+  - family: Zhou
+    given: Yuanyuan
+  issued:
+  - year: '2005'
+  title: 'Treating bugs as allergies: A safe method for surviving software failures'
+  title-short: Treating bugs as allergies
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/qin/qin.pdf
+
+- id: conf/hotos/BailisFGHS13
+  type: paper-conference
+  author:
+  - family: Bailis
+    given: Peter
+  - family: Fekete
+    given: Alan
+  - family: Ghodsi
+    given: Ali
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Stoica
+    given: Ion
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'HAT, not cAP: Towards highly available transactions'
+  title-short: HAT, not cAP
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/bailis
+
+- id: conf/hotos/ShindeKRK13
+  type: paper-conference
+  author:
+  - family: Shinde
+    given: Pravin
+  - family: Kaufmann
+    given: Antoine
+  - family: Roscoe
+    given: Timothy
+  - family: Kaestle
+    given: Stefan
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: We need to talk about nICs
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/shinde
+
+- id: conf/hotos/MogulASF09
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  - family: Argollo
+    given: Eduardo
+  - family: Shah
+    given: Mehul A.
+  - family: Faraboschi
+    given: Paolo
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Operating system support for nVM+DRAM hybrid main memory
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/mogul/mogul.pdf
+
+- id: conf/hotos/WilkesGJRST01
+  type: paper-conference
+  author:
+  - family: Wilkes
+    given: John
+  - family: Goldsack
+    given: Patrick
+  - family: Janakiraman
+    given: G. John
+  - family: Russell
+    given: Lance
+  - family: Singhal
+    given: Sharad
+  - family: Thomas
+    given: Andrew
+  issued:
+  - year: '2001'
+  title: EOS - the dawn of the resource economy
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '188'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990104
+  DOI: 10.1109/HOTOS.2001.990104
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/AndersenBKM01
+  type: paper-conference
+  author:
+  - family: Andersen
+    given: David G.
+  - family: Balakrishnan
+    given: Hari
+  - family: Kaashoek
+    given: M. Frans
+  - family: Morris
+    given: Robert
+  issued:
+  - year: '2001'
+  title: The case for resilient overlay networks
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '152-157'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990076
+  DOI: 10.1109/HOTOS.2001.990076
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/StutsmanO13
+  type: paper-conference
+  author:
+  - family: Stutsman
+    given: Ryan
+  - family: Ousterhout
+    given: John K.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Toward common patterns for distributed, concurrent, fault-tolerant code
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/stutsman
+
+- id: conf/hotos/GrimmDHLMSABBGW01
+  type: paper-conference
+  author:
+  - family: Grimm
+    given: Robert
+  - family: Davis
+    given: Janet
+  - family: Hendrickson
+    given: Ben
+  - family: Lemar
+    given: Eric
+  - family: MacBeth
+    given: Adam
+  - family: Swanson
+    given: Steven
+  - family: Anderson
+    given: Thomas E.
+  - family: Bershad
+    given: Brian N.
+  - family: Borriello
+    given: Gaetano
+  - family: Gribble
+    given: Steven D.
+  - family: Wetherall
+    given: David
+  issued:
+  - year: '2001'
+  title: Systems directions for pervasive computing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '147-151'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990075
+  DOI: 10.1109/HOTOS.2001.990075
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BaileyCGL11
+  type: paper-conference
+  author:
+  - family: Bailey
+    given: Katelin
+  - family: Ceze
+    given: Luis
+  - family: Gribble
+    given: Steven D.
+  - family: Levy
+    given: Henry M.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Operating system implications of fast, cheap, non-volatile memory
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/operating-system-implications-fast-cheap-non-volatile-memory
+
+- id: conf/hotos/ReedPMES99
+  type: paper-conference
+  author:
+  - family: Reed
+    given: Dickon
+  - family: Pratt
+    given: Ian
+  - family: Menage
+    given: Paul
+  - family: Early
+    given: Stephen
+  - family: Stratford
+    given: Neil
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: 'Xenoservers: Accountable execution of untrusted programs'
+  title-short: Xenoservers
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '136-141'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798390
+  DOI: 10.1109/HOTOS.1999.798390
+
+- id: conf/hotos/HanR13
+  type: paper-conference
+  author:
+  - family: Han
+    given: Sangjin
+  - family: Ratnasamy
+    given: Sylvia
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Large-scale computation not at the cost of expressiveness
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/han_sangjin
+
+- id: conf/hotos/Mogul99
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Brittle metrics in operating systems research
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '90-95'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798383
+  DOI: 10.1109/HOTOS.1999.798383
+
+- id: conf/hotos/WaldmanM01
+  type: paper-conference
+  author:
+  - family: Waldman
+    given: Marc
+  - family: Mazières
+    given: David
+  issued:
+  - year: '2001'
+  title: Censorship resistant publishing through document entanglements
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '185'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990101
+  DOI: 10.1109/HOTOS.2001.990101
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BrewerCMZ05
+  type: paper-conference
+  author:
+  - family: Brewer
+    given: Eric A.
+  - family: Condit
+    given: Jeremy
+  - family: McCloskey
+    given: Bill
+  - family: Zhou
+    given: Feng
+  issued:
+  - year: '2005'
+  title: 'Thirty years is long enough: Getting beyond c'
+  title-short: Thirty years is long enough
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/brewer/brewer.pdf
+
+- id: conf/hotos/SeltzerM09
+  type: paper-conference
+  author:
+  - family: Seltzer
+    given: Margo I.
+  - family: Murphy
+    given: Nicholas
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Hierarchical file systems are dead
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/seltzer/seltzer.pdf
+
+- id: conf/hotos/Maas0AK15
+  type: paper-conference
+  author:
+  - family: Maas
+    given: Martin
+  - family: '0001'
+    given: Tim Harris
+  - family: Asanovic
+    given: Krste
+  - family: Kubiatowicz
+    given: John
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Trash day: Coordinating garbage collection in distributed systems'
+  title-short: Trash day
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/maas
+
+- id: conf/hotos/Hamilton95
+  type: paper-conference
+  author:
+  - family: Hamilton
+    given: Deborah
+  issued:
+  - year: '1995'
+  title: Are we answering the right research questions for commercial operating systems?
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '142-144'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513470
+  DOI: 10.1109/HOTOS.1995.513470
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/CullerDEFHLPSSTZ05
+  type: paper-conference
+  author:
+  - family: Culler
+    given: David E.
+  - family: Dutta
+    given: Prabal
+  - family: 'Ee'
+    given: Cheng Tien
+  - family: Fonseca
+    given: Rodrigo
+  - family: Hui
+    given: Jonathan
+  - family: Levis
+    given: Philip
+  - family: Polastre
+    given: Joseph
+  - family: Shenker
+    given: Scott
+  - family: Stoica
+    given: Ion
+  - family: Tolle
+    given: Gilman
+  - family: Zhao
+    given: Jerry
+  issued:
+  - year: '2005'
+  title: 'Towards a sensor network architecture: Lowering the waistline'
+  title-short: Towards a sensor network architecture
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/culler/culler.pdf
+
+- id: conf/hotos/GangerN01
+  type: paper-conference
+  author:
+  - family: Ganger
+    given: Gregory R.
+  - family: Nagle
+    given: David
+  issued:
+  - year: '2001'
+  title: Better security via smarter devices
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '100-105'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990068
+  DOI: 10.1109/HOTOS.2001.990068
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Fleisch97
+  type: paper-conference
+  author:
+  - family: Fleisch
+    given: Brett D.
+  issued:
+  - year: '1997'
+  title: The failure of personalities to generalize
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '8-13'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595174
+  DOI: 10.1109/HOTOS.1997.595174
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/ChenZCKKZ15
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Haogang
+  - family: Ziegler
+    given: Daniel
+  - family: Chlipala
+    given: Adam
+  - family: Kaashoek
+    given: M. Frans
+  - family: Kohler
+    given: Eddie
+  - family: Zeldovich
+    given: Nickolai
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Specifying crash safety for storage systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/chen_haogang
+
+- id: conf/hotos/Mogul93
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  issued:
+  - year: '1993'
+  title: Big memories on the desktop
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '110-115'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/BarretoM01
+  type: paper-conference
+  author:
+  - family: Barreto
+    given: Luciano Porto
+  - family: Muller
+    given: Gilles
+  issued:
+  - year: '2001'
+  title: 'Bossa: A dSL framework for application-specific scheduling policies'
+  title-short: Bossa
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '161'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990077
+  DOI: 10.1109/HOTOS.2001.990077
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/KiczalesLMKM93
+  type: paper-conference
+  author:
+  - family: Kiczales
+    given: Gregor
+  - family: Lamping
+    given: John
+  - family: Maeda
+    given: Chris
+  - family: Keppel
+    given: David
+  - family: McNamee
+    given: Dylan
+  issued:
+  - year: '1993'
+  title: The need for customizable operating systems
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '165-169'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/KhalidiTNW93
+  type: paper-conference
+  author:
+  - family: Khalidi
+    given: Yousef Y. A.
+  - family: Talluri
+    given: Madhusudhan
+  - family: Nelson
+    given: Michael N.
+  - family: Williams
+    given: Dock
+  issued:
+  - year: '1993'
+  title: Virtual memory support for multiple page sizes
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '104-109'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/PorterHW07
+  type: paper-conference
+  author:
+  - family: Porter
+    given: Donald E.
+  - family: Hofmann
+    given: Owen S.
+  - family: Witchel
+    given: Emmett
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Is the optimism in optimistic concurrency warranted?
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/porter/porter.pdf
+
+- id: conf/hotos/ZamfirKKBC13
+  type: paper-conference
+  author:
+  - family: Zamfir
+    given: Cristian
+  - family: Kasikci
+    given: Baris
+  - family: Kinder
+    given: Johannes
+  - family: Bugnion
+    given: Edouard
+  - family: Candea
+    given: George
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Automated debugging for arbitrarily long executions
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/zamfir
+
+- id: conf/hotos/WelshC01
+  type: paper-conference
+  author:
+  - family: Welsh
+    given: Matt
+  - family: Culler
+    given: David E.
+  issued:
+  - year: '2001'
+  title: 'Virtualization considered harmful: OS design directions for well-conditioned
+    services'
+  title-short: Virtualization considered harmful
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '139-144'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990074
+  DOI: 10.1109/HOTOS.2001.990074
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/KeetonA01
+  type: paper-conference
+  author:
+  - family: Keeton
+    given: Kimberly
+  - family: Anderson
+    given: Eric
+  issued:
+  - year: '2001'
+  title: A backup appliance composed of high-capacity disk drives
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '171'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990087
+  DOI: 10.1109/HOTOS.2001.990087
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/RajagopalanLA07
+  type: paper-conference
+  author:
+  - family: Rajagopalan
+    given: Mohan
+  - family: Lewis
+    given: Brian T.
+  - family: Anderson
+    given: Todd A.
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Thread scheduling for multi-core platforms
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/rajagopalan/rajagopalan.pdf
+
+- id: conf/hotos/JunqueiraBMSV03
+  type: paper-conference
+  author:
+  - family: Junqueira
+    given: Flavio Paiva
+  - family: Bhagwan
+    given: Ranjita
+  - family: Marzullo
+    given: Keith
+  - family: Savage
+    given: Stefan
+  - family: Voelker
+    given: Geoffrey M.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'The phoenix recovery system: Rebuilding from the ashes of an internet
+    catastrophe'
+  title-short: The phoenix recovery system
+  container-title: HotOS
+  publisher: USENIX
+  page: '73-78'
+  URL: https://www.usenix.org/conference/hotos-ix/phoenix-recovery-system-rebuilding-ashes-internet-catastrophe
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/AckleyC11
+  type: paper-conference
+  author:
+  - family: Ackley
+    given: David H.
+  - family: Cannon
+    given: Daniel C.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Pursue robust indefinite scalability
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/pursue-robust-indefinite-scalability
+
+- id: conf/hotos/BabuBDHT09
+  type: paper-conference
+  author:
+  - family: Babu
+    given: Shivnath
+  - family: Borisov
+    given: Nedyalko
+  - family: Duan
+    given: Songyun
+  - family: Herodotou
+    given: Herodotos
+  - family: Thummala
+    given: Vamsidhar
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Automated experiment-driven management of (database) systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/babu/babu.pdf
+
+- id: conf/hotos/HoeflerRR15
+  type: paper-conference
+  author:
+  - family: Hoefler
+    given: Torsten
+  - family: Ross
+    given: Robert B.
+  - family: Roscoe
+    given: Timothy
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Distributing the data plane for remote storage access
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/hoefler
+
+- id: conf/hotos/DoornHT95
+  type: paper-conference
+  author:
+  - family: Doorn
+    given: Leendert
+    dropping-particle: van
+  - family: Homburg
+    given: Philip
+  - family: Tanenbaum
+    given: Andrew S.
+  issued:
+  - year: '1995'
+  title: 'Paramecium: An extensible object-based kernel'
+  title-short: Paramecium
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '86-89'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513460
+  DOI: 10.1109/HOTOS.1995.513460
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/MaedaB93
+  type: paper-conference
+  author:
+  - family: Maeda
+    given: Chris
+  - family: Bershad
+    given: Brian N.
+  issued:
+  - year: '1993'
+  title: Service without servers
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '170-176'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/GaneshWBB07
+  type: paper-conference
+  author:
+  - family: Ganesh
+    given: Lakshmi
+  - family: Weatherspoon
+    given: Hakim
+  - family: Balakrishnan
+    given: Mahesh
+  - family: Birman
+    given: Ken
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Optimizing power consumption in large scale storage systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/ganesh/ganesh.pdf
+
+- id: conf/hotos/HollandS11
+  type: paper-conference
+  author:
+  - family: Holland
+    given: David A.
+  - family: Seltzer
+    given: Margo I.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Multicore oSes: Looking forward from 1991, er, 2011'
+  title-short: Multicore oSes
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/multicore-oses-looking-forward-1991-er-2011
+
+- id: conf/hotos/Arpaci-DusseauA01
+  type: paper-conference
+  author:
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  issued:
+  - year: '2001'
+  title: Fail-stutter fault tolerance
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '33-38'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990058
+  DOI: 10.1109/HOTOS.2001.990058
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/FordMLCRT97
+  type: paper-conference
+  author:
+  - family: Ford
+    given: Bryan
+  - family: Maren
+    given: Kevin Van
+  - family: Lepreau
+    given: Jay
+  - family: Clawson
+    given: Stephen
+  - family: Robinson
+    given: Bart
+  - family: Turner
+    given: Jeff
+  issued:
+  - year: '1997'
+  title: 'The flux oS toolkit: Reusable components for oS implementation'
+  title-short: The flux oS toolkit
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '14-19'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595175
+  DOI: 10.1109/HOTOS.1997.595175
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/NeugebauerM01
+  type: paper-conference
+  author:
+  - family: Neugebauer
+    given: Rolf
+  - family: McAuley
+    given: Derek
+  issued:
+  - year: '2001'
+  title: 'Energy is just another resource: Energy accountin and energy pricing in
+    the nemesis oS'
+  title-short: Energy is just another resource
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '67-72'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990063
+  DOI: 10.1109/HOTOS.2001.990063
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/SchilitAGTW93
+  type: paper-conference
+  author:
+  - family: Schilit
+    given: Bill N.
+  - family: Adams
+    given: Norman
+  - family: Gold
+    given: Rich
+  - family: Tso
+    given: Michael M.
+  - family: Want
+    given: Roy
+  issued:
+  - year: '1993'
+  title: The pARCTAB mobile computing system
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '34-39'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/PuF93
+  type: paper-conference
+  author:
+  - family: Pu
+    given: Calton
+  - family: Fuhrer
+    given: Robert M.
+  issued:
+  - year: '1993'
+  title: 'Feedback-based scheduling: A toolbox approach'
+  title-short: Feedback-based scheduling
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '124-128'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/CapraEC01
+  type: paper-conference
+  author:
+  - family: Capra
+    given: Licia
+  - family: Emmerich
+    given: Wolfgang
+  - family: Mascolo
+    given: Cecilia
+  issued:
+  - year: '2001'
+  title: 'Middleware for mobile computing: Awareness vs. transparency'
+  title-short: Middleware for mobile computing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '164'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990080
+  DOI: 10.1109/HOTOS.2001.990080
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Gribble01
+  type: paper-conference
+  author:
+  - family: Gribble
+    given: Steven D.
+  issued:
+  - year: '2001'
+  title: Robustness in complex systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '21-26'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990056
+  DOI: 10.1109/HOTOS.2001.990056
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/EnglerK95
+  type: paper-conference
+  author:
+  - family: Engler
+    given: Dawson R.
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '1995'
+  title: Exterminate all operating system abstractions
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '78-85'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513459
+  DOI: 10.1109/HOTOS.1995.513459
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/ChenHADMS15
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Kevin Zhijie
+  - family: He
+    given: Warren
+  - family: Akhawe
+    given: Devdatta
+  - family: D’Silva
+    given: Vijay
+  - family: Mittal
+    given: Prateek
+  - family: Song
+    given: Dawn
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'ASPIRE: Iterative specification synthesis for security'
+  title-short: ASPIRE
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/chen_kevin
+
+- id: conf/hotos/Johnson93
+  type: paper-conference
+  author:
+  - family: Johnson
+    given: David B.
+  issued:
+  - year: '1993'
+  title: Ubiquitous mobil host internetworking
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '85-90'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/SoulesG03
+  type: paper-conference
+  author:
+  - family: Soules
+    given: Craig A. N.
+  - family: Ganger
+    given: Gregory R.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Why can’t i find my files? New methods for automating attribute assignment
+  container-title: HotOS
+  publisher: USENIX
+  page: '115-120'
+  URL: https://www.usenix.org/conference/hotos-ix/why-cant-i-find-my-files-new-methods-automating-attribute-assignment
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/Myers93
+  type: paper-conference
+  author:
+  - family: Myers
+    given: Andrew C.
+  issued:
+  - year: '1993'
+  title: Resolving the integrity/Performance conflict
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '156-159'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/LingF03
+  type: paper-conference
+  author:
+  - family: Ling
+    given: Benjamin C.
+  - family: Fox
+    given: Armando
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: The case for a session state storage layer
+  container-title: HotOS
+  publisher: USENIX
+  page: '175-180'
+  URL: https://www.usenix.org/conference/hotos-ix/case-session-state-storage-layer
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/SatyanarayananN97
+  type: paper-conference
+  author:
+  - family: Satyanarayanan
+    given: Mahadev
+  - family: Noble
+    given: Brian
+  issued:
+  - year: '1997'
+  title: The role of trace modulation in building mobile computing systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '135-139'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595196
+  DOI: 10.1109/HOTOS.1997.595196
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/2007
+  type: book
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Proceedings of hotOS’07: 11th workshop on hot topics in operating systems,
+    may 7-9, 2005, san diego, california, uSA'
+  title-short: Proceedings of hotOS’07
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A124
+
+- id: conf/hotos/SeltzerS97
+  type: paper-conference
+  author:
+  - family: Seltzer
+    given: Margo I.
+  - family: Small
+    given: Christopher
+  issued:
+  - year: '1997'
+  title: Self-modifying and self-adapting operating systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '124-129'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595194
+  DOI: 10.1109/HOTOS.1997.595194
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/NobleLP99
+  type: paper-conference
+  author:
+  - family: Noble
+    given: Brian
+  - family: Li
+    given: Li
+  - family: Prakash
+    given: Atul
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: The case for better throughput estimation
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '70-75'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798380
+  DOI: 10.1109/HOTOS.1999.798380
+
+- id: conf/hotos/PauporeFPRO15
+  type: paper-conference
+  author:
+  - family: Paupore
+    given: Justin
+  - family: Fernandes
+    given: Earlence
+  - family: Prakash
+    given: Atul
+  - family: Roy
+    given: Sankardas
+  - family: Ou
+    given: Xinming
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Practical always-on taint tracking on mobile devices
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/paupore
+
+- id: conf/hotos/ZhuZWSSW15
+  type: paper-conference
+  author:
+  - family: Zhu
+    given: Qi
+  - family: Zhu
+    given: Meng
+  - family: Wu
+    given: Bo
+  - family: Shen
+    given: Xipeng
+  - family: Shen
+    given: Kai
+  - family: Wang
+    given: Zhiying
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Software engagement with sleeping cPUs
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/zhu
+
+- id: conf/hotos/HuiAWAEGKRS01
+  type: paper-conference
+  author:
+  - family: Hui
+    given: Kevin
+  - family: Appavoo
+    given: Jonathan
+  - family: Wisniewski
+    given: Robert W.
+  - family: Auslander
+    given: Marc A.
+  - family: Edelsohn
+    given: David
+  - family: Gamsa
+    given: Benjamin
+  - family: Krieger
+    given: Orran
+  - family: Rosenburg
+    given: Bryan S.
+  - family: Stumm
+    given: Michael
+  issued:
+  - year: '2001'
+  title: Supporting hot-swappable components for system software
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '170'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990086
+  DOI: 10.1109/HOTOS.2001.990086
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/Paradinas01
+  type: paper-conference
+  author:
+  - family: Paradinas
+    given: Pierre
+  issued:
+  - year: '2001'
+  title: 'Smart card operating systems: Overview and trends'
+  title-short: Smart card operating systems
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7758
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BallesterosL97
+  type: paper-conference
+  author:
+  - family: Ballesteros
+    given: Francisco J.
+  - family: López-Fernández
+    given: Luis
+  issued:
+  - year: '1997'
+  title: The network hardware is the operating system
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '32-36'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595178
+  DOI: 10.1109/HOTOS.1997.595178
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/GarfinkelRB03
+  type: paper-conference
+  author:
+  - family: Garfinkel
+    given: Tal
+  - family: Rosenblum
+    given: Mendel
+  - family: Boneh
+    given: Dan
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Flexible oS support and applications for trusted computing
+  container-title: HotOS
+  publisher: USENIX
+  page: '145-150'
+  URL: https://www.usenix.org/conference/hotos-ix/flexible-os-support-and-applications-trusted-computing
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/FiuczynskiGCW05
+  type: paper-conference
+  author:
+  - family: Fiuczynski
+    given: Marc E.
+  - family: Grimm
+    given: Robert
+  - family: Coady
+    given: Yvonne
+  - family: Walker
+    given: David
+  issued:
+  - year: '2005'
+  title: Patch (1) considered harmful
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/fiuczynski/fiuczynski.pdf
+
+- id: conf/hotos/MazieresS01
+  type: paper-conference
+  author:
+  - family: Mazières
+    given: David
+  - family: Shasha
+    given: Dennis
+  issued:
+  - year: '2001'
+  title: Don’t trust your file server
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '113-118'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990070
+  DOI: 10.1109/HOTOS.2001.990070
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/KleinMGSW11
+  type: paper-conference
+  author:
+  - family: Klein
+    given: Gerwin
+  - family: Murray
+    given: Toby C.
+  - family: Gammie
+    given: Peter
+  - family: Sewell
+    given: Thomas
+  - family: Winwood
+    given: Simon
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'Provable security: How feasible is it?'
+  title-short: Provable security
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/provable-security-how-feasible-it
+
+- id: conf/hotos/WetherallCGHHJSW11
+  type: paper-conference
+  author:
+  - family: Wetherall
+    given: David
+  - family: Choffnes
+    given: David R.
+  - family: Greenstein
+    given: Ben
+  - family: Han
+    given: Seungyeop
+  - family: Hornyack
+    given: Peter
+  - family: Jung
+    given: Jaeyeon
+  - family: Schechter
+    given: Stuart E.
+  - family: Wang
+    given: Xiao Sophia
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Privacy revelations for web and mobile apps
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/privacy-revelations-web-and-mobile-apps
+
+- id: conf/hotos/GarfinkelAWF07
+  type: paper-conference
+  author:
+  - family: Garfinkel
+    given: Tal
+  - family: Adams
+    given: Keith
+  - family: Warfield
+    given: Andrew
+  - family: Franklin
+    given: Jason
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: 'Compatibility is not transparency: VMM detection myths and realities'
+  title-short: Compatibility is not transparency
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/garfinkel/garfinkel.pdf
+
+- id: conf/hotos/AguileraW09
+  type: paper-conference
+  author:
+  - family: Aguilera
+    given: Marcos Kawazoe
+  - family: Walfish
+    given: Michael
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: No time for asynchrony
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/aguilera/aguilera.pdf
+
+- id: conf/hotos/KaramanolisKZ05
+  type: paper-conference
+  author:
+  - family: Karamanolis
+    given: Christos T.
+  - family: Karlsson
+    given: Magnus
+  - family: Zhu
+    given: Xiaoyun
+  issued:
+  - year: '2005'
+  title: Designing controllable computer systems
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/karamanolis/karamanolis.pdf
+
+- id: conf/hotos/Mendelsohn97
+  type: paper-conference
+  author:
+  - family: Mendelsohn
+    given: Noah
+  issued:
+  - year: '1997'
+  title: Operating systems for component software environments
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '49-54'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595182
+  DOI: 10.1109/HOTOS.1997.595182
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/VasudevanAK11
+  type: paper-conference
+  author:
+  - family: Vasudevan
+    given: Vijay
+  - family: Andersen
+    given: David G.
+  - family: Kaminsky
+    given: Michael
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: 'The case for vOS: The vector operating system'
+  title-short: The case for vOS
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/case-vos-vector-operating-system
+
+- id: conf/hotos/LuS95
+  type: paper-conference
+  author:
+  - family: Lu
+    given: Qi
+  - family: Satyanarayanan
+    given: M.
+  issued:
+  - year: '1995'
+  title: Improving data consistency in mobile computing using isolation-only transactions
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '124-128'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513467
+  DOI: 10.1109/HOTOS.1995.513467
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/KicimanLM09
+  type: paper-conference
+  author:
+  - family: Kiciman
+    given: Emre
+  - family: Livshits
+    given: V. Benjamin
+  - family: Musuvathi
+    given: Madanlal
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: 'FLUXO: A simple service compiler'
+  title-short: FLUXO
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/kiciman/kiciman.pdf
+
+- id: conf/hotos/ChanLC13
+  type: paper-conference
+  author:
+  - family: Chan
+    given: Michael
+  - family: Litz
+    given: Heiner
+  - family: Cheriton
+    given: David R.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Rethinking network stack design with memory snapshots
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/chan
+
+- id: conf/hotos/SinghSPKM15
+  type: paper-conference
+  author:
+  - family: Singh
+    given: Rayman Preet
+  - family: Shen
+    given: Chenguang
+  - family: Phanishayee
+    given: Amar
+  - family: Kansal
+    given: Aman
+  - family: Mahajan
+    given: Ratul
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: A case for ending monolithic apps for connected devices
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/singh
+
+- id: conf/hotos/1995
+  type: book
+  issued:
+  - year: '1995'
+  title: Fifth workshop on hot topics in operating systems, hotOS-v, orcas island,
+    washington, uSA, may 4-5, 1995
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=3900
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/SeltzerKSZ99
+  type: paper-conference
+  author:
+  - family: Seltzer
+    given: Margo I.
+  - family: Krinsky
+    given: David
+  - family: Smith
+    given: Keith A.
+  - family: Zhang
+    given: Xiaolan
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: The case for application-specific benchmarking
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '102-109'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798385
+  DOI: 10.1109/HOTOS.1999.798385
+
+- id: conf/hotos/RumbleOSRO11
+  type: paper-conference
+  author:
+  - family: Rumble
+    given: Stephen M.
+  - family: Ongaro
+    given: Diego
+  - family: Stutsman
+    given: Ryan
+  - family: Rosenblum
+    given: Mendel
+  - family: Ousterhout
+    given: John K.
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: It’s time for low latency
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/its-time-low-latency
+
+- id: conf/hotos/SunPOB15
+  type: paper-conference
+  author:
+  - family: Sun
+    given: Ruimin
+  - family: Porter
+    given: Donald E.
+  - family: Oliveira
+    given: Daniela
+  - family: Bishop
+    given: Matt
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: The case for less predictable operating system behavior
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/sun
+
+- id: conf/hotos/GoldbergT93
+  type: paper-conference
+  author:
+  - family: Goldberg
+    given: David
+  - family: Tso
+    given: Michael M.
+  issued:
+  - year: '1993'
+  title: How to program networked portable computers
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '30-33'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/MazieresK97
+  type: paper-conference
+  author:
+  - family: Mazières
+    given: David
+  - family: Kaashoek
+    given: M. Frans
+  issued:
+  - year: '1997'
+  title: Secure applications need flexible operating systems
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '56-61'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595183
+  DOI: 10.1109/HOTOS.1997.595183
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/LaadanTVBDN11
+  type: paper-conference
+  author:
+  - family: Laadan
+    given: Oren
+  - family: Tsai
+    given: Chia-che
+  - family: Viennot
+    given: Nicolas
+  - family: Blinn
+    given: Chris
+  - family: Du
+    given: Peter Senyao
+  - family: Nieh
+    given: Jason
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: Finding concurrency errors in sequential code - oS-level, in-vivo model checking
+    of process races
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/finding-concurrency-errors-sequential-code%E2%80%94os-level-vivo-model-checking-process
+
+- id: conf/hotos/Chen93
+  type: paper-conference
+  author:
+  - family: Chen
+    given: J. Bradley
+  issued:
+  - year: '1993'
+  title: Software methods for system address tracing
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '178-185'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/AbadiBMWX13
+  type: paper-conference
+  author:
+  - family: Abadi
+    given: Martín
+  - family: Birrell
+    given: Andrew
+  - family: Mironov
+    given: Ilya
+  - family: Wobber
+    given: Ted
+  - family: Xie
+    given: Yinglian
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: Global authentication in an untrustworthy world
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/abadi
+
+- id: conf/hotos/AuslanderFGKS97
+  type: paper-conference
+  author:
+  - family: Auslander
+    given: Marc A.
+  - family: Franke
+    given: Hubertus
+  - family: Gamsa
+    given: Benjamin
+  - family: Krieger
+    given: Orran
+  - family: Stumm
+    given: Michael
+  issued:
+  - year: '1997'
+  title: Customization lite
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '43-48'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595180
+  DOI: 10.1109/HOTOS.1997.595180
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/PatelWLW03
+  type: paper-conference
+  author:
+  - family: Patel
+    given: Parveen
+  - family: Wetherall
+    given: David
+  - family: Lepreau
+    given: Jay
+  - family: Whitaker
+    given: Andrew
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: TCP meets mobile code
+  container-title: HotOS
+  publisher: USENIX
+  page: '31-36'
+  URL: https://www.usenix.org/conference/hotos-ix/tcp-meets-mobile-code
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/WagnerKC13
+  type: paper-conference
+  author:
+  - family: Wagner
+    given: Jonas
+  - family: Kuznetsov
+    given: Volodymyr
+  - family: Candea
+    given: George
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: '-oVERIFY: Optimizing programs for fast verification'
+  title-short: -oVERIFY
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/wagner
+
+- id: conf/hotos/LinPZGG05
+  type: paper-conference
+  author:
+  - family: Lin
+    given: Shiding
+  - family: Pan
+    given: Aimin
+  - family: Zhang
+    given: Zheng
+  - family: Guo
+    given: Rui
+  - family: Guo
+    given: Zhenyu
+  issued:
+  - year: '2005'
+  title: 'WiDS: An integrated toolkit for distributed system development'
+  title-short: WiDS
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/lin/lin.pdf
+
+- id: conf/hotos/DeTreville05
+  type: paper-conference
+  author:
+  - family: DeTreville
+    given: John
+  issued:
+  - year: '2005'
+  title: Making system configuration more declarative
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/detreville/detreville.pdf
+
+- id: conf/hotos/PapathanasiouS05
+  type: paper-conference
+  author:
+  - family: Papathanasiou
+    given: Athanasios E.
+  - family: Scott
+    given: Michael L.
+  issued:
+  - year: '2005'
+  title: 'Aggressive prefetching: An idea whose time has come'
+  title-short: Aggressive prefetching
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/papathanasiou/papathanasiou.pdf
+
+- id: conf/hotos/2013
+  type: book
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 14th workshop on hot topics in operating systems, hotOS xIV, santa ana pueblo,
+    new mexico, uSA, may 13-15, 2013
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A345
+
+- id: conf/hotos/HanP13
+  type: paper-conference
+  author:
+  - family: Han
+    given: Seungyeop
+  - family: Philipose
+    given: Matthai
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: The case for onloading continuous high-datarate perception to the phone
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/han
+
+- id: conf/hotos/BarhamIMN03
+  type: paper-conference
+  author:
+  - family: Barham
+    given: Paul
+  - family: Isaacs
+    given: Rebecca
+  - family: Mortier
+    given: Richard
+  - family: Narayanan
+    given: Dushyanth
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Magpie: Online modelling and performance-aware systems'
+  title-short: Magpie
+  container-title: HotOS
+  publisher: USENIX
+  page: '85-90'
+  URL: https://www.usenix.org/conference/hotos-ix/magpie-online-modelling-and-performance-aware-systems
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/HsiehKW93
+  type: paper-conference
+  author:
+  - family: Hsieh
+    given: Wilson C.
+  - family: Kaashoek
+    given: M. Frans
+  - family: Weihl
+    given: William E.
+  issued:
+  - year: '1993'
+  title: 'The persistent relevance of iPC performance: New techniques for reducing
+    the iPC penalty'
+  title-short: The persistent relevance of iPC performance
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '186-190'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/ZenelD95
+  type: paper-conference
+  author:
+  - family: Zenel
+    given: Bruce
+  - family: Duchamp
+    given: Dan
+  issued:
+  - year: '1995'
+  title: Intelligent communication filtering for limited bandwidth environments
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '28-34'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513450
+  DOI: 10.1109/HOTOS.1995.513450
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/YocumCV01
+  type: paper-conference
+  author:
+  - family: Yocum
+    given: Ken
+  - family: Chase
+    given: Jeffrey S.
+  - family: Vahdat
+    given: Amin
+  issued:
+  - year: '2001'
+  title: Anypoint communication protocol
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '189'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990105
+  DOI: 10.1109/HOTOS.2001.990105
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/OTooleS95
+  type: paper-conference
+  author:
+  - family: O’Toole
+    given: James
+  - family: Shrira
+    given: Liuba
+  issued:
+  - year: '1995'
+  title: Shared data management needs adaptive methods
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '129-135'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513468
+  DOI: 10.1109/HOTOS.1995.513468
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/DolstraH07
+  type: paper-conference
+  author:
+  - family: Dolstra
+    given: Eelco
+  - family: Hemel
+    given: Armijn
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Purely functional system configuration management
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/dolstra/dolstra.pdf
+
+- id: conf/hotos/DwyerF15
+  type: paper-conference
+  author:
+  - family: Dwyer
+    given: Tyler
+  - family: Fedorova
+    given: Alexandra
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: On instruction organization
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/dwyer
+
+- id: conf/hotos/VeitchRTW01
+  type: paper-conference
+  author:
+  - family: Veitch
+    given: Alistair C.
+  - family: Riedel
+    given: Erik
+  - family: Towers
+    given: Simon J.
+  - family: Wilkes
+    given: John
+  issued:
+  - year: '2001'
+  title: Towards global storage management and data placement
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '184'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990100
+  DOI: 10.1109/HOTOS.2001.990100
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ChenXHP15
+  type: paper-conference
+  author:
+  - family: Chen
+    given: Ang
+  - family: Xiao
+    given: Hanjun
+  - family: Haeberlen
+    given: Andreas
+  - family: Phan
+    given: Linh Thi Xuan
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Fault tolerance and the five-second rule
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/chen
+
+- id: conf/hotos/ArnoldADPETK09
+  type: paper-conference
+  author:
+  - family: Arnold
+    given: Jeff
+  - family: Abbott
+    given: Tim
+  - family: Daher
+    given: Waseem
+  - family: Price
+    given: Gregory
+  - family: Elhage
+    given: Nelson
+  - family: Thomas
+    given: Geoffrey
+  - family: Kaseorg
+    given: Anders
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Security impact ratings considered harmful
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/arnold/arnold.pdf
+
+- id: conf/hotos/KoHCG09
+  type: paper-conference
+  author:
+  - family: Ko
+    given: Steven Y.
+  - family: Hoque
+    given: Imranul
+  - family: Cho
+    given: Brian
+  - family: Gupta
+    given: Indranil
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: On availability of intermediate data in cloud computations
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/ko/ko.pdf
+
+- id: conf/hotos/Day93
+  type: paper-conference
+  author:
+  - family: Day
+    given: Mark
+  issued:
+  - year: '1993'
+  title: Object groups may be better than pages
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '119-122'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/ChallenH11
+  type: paper-conference
+  author:
+  - family: Challen
+    given: Geoffrey
+  - family: Hempstead
+    given: Mark
+  editor:
+  - family: Welsh
+    given: Matt
+  issued:
+  - year: '2011'
+  title: The case for power-agile computing
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotosxiii/case-power-agile-computing
+
+- id: conf/hotos/GuptaLR03
+  type: paper-conference
+  author:
+  - family: Gupta
+    given: Anjali
+  - family: Liskov
+    given: Barbara
+  - family: Rodrigues
+    given: Rodrigo
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: One hop lookups for peer-to-peer overlays
+  container-title: HotOS
+  publisher: USENIX
+  page: '7-12'
+  URL: https://www.usenix.org/conference/hotos-ix/one-hop-lookups-peer-peer-overlays
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/ChajedGHKMMZ15
+  type: paper-conference
+  author:
+  - family: Chajed
+    given: Tej
+  - family: Gjengset
+    given: Jon
+  - family: Hooff
+    given: Jelle
+    dropping-particle: van den
+  - family: Kaashoek
+    given: M. Frans
+  - family: Mickens
+    given: James
+  - family: Morris
+    given: Robert
+  - family: Zeldovich
+    given: Nickolai
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Amber: Decoupling user data from web applications'
+  title-short: Amber
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/chajed
+
+- id: conf/hotos/DaltonE03
+  type: paper-conference
+  author:
+  - family: Dalton
+    given: Angela B.
+  - family: Ellis
+    given: Carla Schlatter
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Sensing user intention and context for energy management
+  container-title: HotOS
+  publisher: USENIX
+  page: '151-156'
+  URL: https://www.usenix.org/conference/hotos-ix/sensing-user-intention-and-context-energy-management
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/RicciL01
+  type: paper-conference
+  author:
+  - family: Ricci
+    given: Robert
+  - family: Lepreau
+    given: Jay
+  issued:
+  - year: '2001'
+  title: Active protocols for agile, censor-resistant networks
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '119-124'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990071
+  DOI: 10.1109/HOTOS.2001.990071
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/2015
+  type: book
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 15th workshop on hot topics in operating systems, hotOS xV, kartause ittingen,
+    switzerland, may 18-20, 2015
+  publisher: USENIX Association
+  URL: https://www.usenix.org/publications/proceedings/?f[0]=im_group_audience%3A450
+
+- id: conf/hotos/JuulF95
+  type: paper-conference
+  author:
+  - family: Juul
+    given: Niels Christian
+  - family: Fleisch
+    given: Brett D.
+  issued:
+  - year: '1995'
+  title: A memory approach to consistent, reliable distributed shared memory
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '108-112'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513464
+  DOI: 10.1109/HOTOS.1995.513464
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/ElphinstoneKDRH07
+  type: paper-conference
+  author:
+  - family: Elphinstone
+    given: Kevin
+  - family: Klein
+    given: Gerwin
+  - family: Derrin
+    given: Philip
+  - family: Roscoe
+    given: Timothy
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Towards a practical, verified kernel
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/elphinstone/elphinstone.pdf
+
+- id: conf/hotos/BershadSPBFS95
+  type: paper-conference
+  author:
+  - family: Bershad
+    given: Brian N.
+  - family: Savage
+    given: Stefan
+  - family: Pardyak
+    given: Przemyslaw
+  - family: Becker
+    given: David
+  - family: Fiuczynski
+    given: Marc E.
+  - family: Sirer
+    given: Emin Gün
+  issued:
+  - year: '1995'
+  title: Protection is a software issue
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '62-65'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513456
+  DOI: 10.1109/HOTOS.1995.513456
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/YoungLSRPPNMG01
+  type: paper-conference
+  author:
+  - family: Young
+    given: Cliff
+  - family: Lakshman
+    given: Yagati N.
+  - family: Szymanski
+    given: Tom
+  - family: Reppy
+    given: John H.
+  - family: Presotto
+    given: David L.
+  - family: Pike
+    given: Rob
+  - family: Narlikar
+    given: Girija J.
+  - family: Mullender
+    given: Sape J.
+  - family: Grosse
+    given: Eric
+  issued:
+  - year: '2001'
+  title: Protium, an infrastructure for partitioned applications
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '47-52'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990060
+  DOI: 10.1109/HOTOS.2001.990060
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/PeterA13
+  type: paper-conference
+  author:
+  - family: Peter
+    given: Simon
+  - family: Anderson
+    given: Thomas E.
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: 'Arrakis: A case for the end of the empire'
+  title-short: Arrakis
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/peter
+
+- id: conf/hotos/GerberZAKRM15
+  type: paper-conference
+  author:
+  - family: Gerber
+    given: Simon
+  - family: Zellweger
+    given: Gerd
+  - family: Achermann
+    given: Reto
+  - family: Kourtis
+    given: Kornilios
+  - family: Roscoe
+    given: Timothy
+  - family: Milojicic
+    given: Dejan S.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Not your parents’ physical address space
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/gerber
+
+- id: conf/hotos/SultanSI01
+  type: paper-conference
+  author:
+  - family: Sultan
+    given: Florin
+  - family: Srinivasan
+    given: Kiran
+  - family: Iftode
+    given: Liviu
+  issued:
+  - year: '2001'
+  title: Transport layer support for highly-available network services
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '182'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990098
+  DOI: 10.1109/HOTOS.2001.990098
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BadrinathBIM93
+  type: paper-conference
+  author:
+  - family: Badrinath
+    given: B. R.
+  - family: Bakre
+    given: Ajay V.
+  - family: Imielinski
+    given: Tomasz
+  - family: Maramtz
+    given: R.
+  issued:
+  - year: '1993'
+  title: 'Handling mobile clients: A case for indirect interaction'
+  title-short: Handling mobile clients
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '91-97'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/KrohnEFKKMMOVZ05
+  type: paper-conference
+  author:
+  - family: Krohn
+    given: Maxwell N.
+  - family: Efstathopoulos
+    given: Petros
+  - family: Frey
+    given: Cliff
+  - family: Kaashoek
+    given: M. Frans
+  - family: Kohler
+    given: Eddie
+  - family: Mazières
+    given: David
+  - family: Morris
+    given: Robert
+  - family: Osborne
+    given: Michelle
+  - family: Vandebogart
+    given: Steve
+  - family: Ziegler
+    given: David
+  issued:
+  - year: '2005'
+  title: Make least privilege a right (not a privilege)
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/krohn/krohn.pdf
+
+- id: conf/hotos/DabekBKKMSB01
+  type: paper-conference
+  author:
+  - family: Dabek
+    given: Frank
+  - family: Brunskill
+    given: Emma
+  - family: Kaashoek
+    given: M. Frans
+  - family: Karger
+    given: David R.
+  - family: Morris
+    given: Robert
+  - family: Stoica
+    given: Ion
+  - family: Balakrishnan
+    given: Hari
+  issued:
+  - year: '2001'
+  title: Building peer-to-peer systems with chord, a distributed lookup service
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '81-86'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990065
+  DOI: 10.1109/HOTOS.2001.990065
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/DuttaC09
+  type: paper-conference
+  author:
+  - family: Dutta
+    given: Prabal
+  - family: Culler
+    given: David E.
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Mobility changes everything in low-power wireless sensornets
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/dutta/dutta.pdf
+
+- id: conf/hotos/KozuchKR09
+  type: paper-conference
+  author:
+  - family: Kozuch
+    given: Michael A.
+  - family: Kaminsky
+    given: Michael
+  - family: Ryan
+    given: Michael P.
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Migration without virtualization
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/kozuch/kozuch.pdf
+
+- id: conf/hotos/TheimerDW93
+  type: paper-conference
+  author:
+  - family: Theimer
+    given: Marvin
+  - family: Demers
+    given: Alan J.
+  - family: Welch
+    given: Brent B.
+  issued:
+  - year: '1993'
+  title: Operating system issues for pDAs
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '2-8'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/AjmaniLS03
+  type: paper-conference
+  author:
+  - family: Ajmani
+    given: Sameer
+  - family: Liskov
+    given: Barbara
+  - family: Shrira
+    given: Liuba
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Scheduling and simulation: How to upgrade distributed systems'
+  title-short: Scheduling and simulation
+  container-title: HotOS
+  publisher: USENIX
+  page: '43-48'
+  URL: https://www.usenix.org/conference/hotos-ix/scheduling-and-simulation-how-upgrade-distributed-systems
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/GarfinkelR05
+  type: paper-conference
+  author:
+  - family: Garfinkel
+    given: Tal
+  - family: Rosenblum
+    given: Mendel
+  issued:
+  - year: '2005'
+  title: 'When virtual is harder than real: Security challenges in virtual machine
+    based computing environments'
+  title-short: When virtual is harder than real
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/garfinkel/garfinkel.pdf
+
+- id: conf/hotos/JonesLDB95
+  type: paper-conference
+  author:
+  - family: Jones
+    given: Michael B.
+  - family: Leach
+    given: Paul J.
+  - family: Draves
+    given: Richard
+  - family: III
+    given: Joseph S. Barrera
+  issued:
+  - year: '1995'
+  title: Modular real-time resource management in the rialto operating system
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '12-17'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513447
+  DOI: 10.1109/HOTOS.1995.513447
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/KumarS93
+  type: paper-conference
+  author:
+  - family: Kumar
+    given: Puneet
+  - family: Satyanarayanan
+    given: Mahadev
+  issued:
+  - year: '1993'
+  title: Supporting application-specific resolution in an optimistically replicated
+    file system
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '66-70'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/KatcherKS95
+  type: paper-conference
+  author:
+  - family: Katcher
+    given: Daniel I.
+  - family: Kettler
+    given: Kevin A.
+  - family: Strosnider
+    given: Jay K.
+  issued:
+  - year: '1995'
+  title: Real-time operating systems for multimedia processing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '18-23'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513448
+  DOI: 10.1109/HOTOS.1995.513448
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/DruschelPZ97
+  type: paper-conference
+  author:
+  - family: Druschel
+    given: Peter
+  - family: Pai
+    given: Vivek S.
+  - family: Zwaenepoel
+    given: Willy
+  issued:
+  - year: '1997'
+  title: Extensible systems are leading oS research astray
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '38-42'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1997.595179
+  DOI: 10.1109/HOTOS.1997.595179
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/KaufmannPAK15
+  type: paper-conference
+  author:
+  - family: Kaufmann
+    given: Antoine
+  - family: Peter
+    given: Simon
+  - family: Anderson
+    given: Thomas E.
+  - family: Krishnamurthy
+    given: Arvind
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'FlexNIC: Rethinking network dMA'
+  title-short: FlexNIC
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/kaufmann
+
+- id: conf/hotos/1997
+  type: book
+  issued:
+  - year: '1997'
+  title: Proceedings of the sixth workshop on hot topics in operating systems, hotOS-vI,
+    cape cod, massachusetts, uSA, may 5-6, 1997
+  publisher: IEEE Computer Society
+  URL: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4643
+  ISBN: '0-8186-7834-8'
+
+- id: conf/hotos/FowlerCEZ03
+  type: paper-conference
+  author:
+  - family: Fowler
+    given: Robert J.
+  - family: Cox
+    given: Alan L.
+  - family: Elnikety
+    given: Sameh
+  - family: Zwaenepoel
+    given: Willy
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: Using performance reflection in systems software
+  container-title: HotOS
+  publisher: USENIX
+  page: '97-102'
+  URL: https://www.usenix.org/conference/hotos-ix/using-performance-reflection-systems-software
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/RowstronLB01
+  type: paper-conference
+  author:
+  - family: Rowstron
+    given: Antony I. T.
+  - family: Lawrence
+    given: Neil D.
+  - family: Bishop
+    given: Christopher M.
+  issued:
+  - year: '2001'
+  title: Probabilistic modelling of replica divergence
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '55-60'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990061
+  DOI: 10.1109/HOTOS.2001.990061
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/BudzynowskiH13
+  type: paper-conference
+  author:
+  - family: Budzynowski
+    given: Aleksander
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Maniatis
+    given: Petros
+  issued:
+  - year: '2013'
+  title: The von neumann architecture is due for retirement
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos13/session/budzynowski
+
+- id: conf/hotos/SapuntzakisL03
+  type: paper-conference
+  author:
+  - family: Sapuntzakis
+    given: Constantine P.
+  - family: Lam
+    given: Monica S.
+  editor:
+  - family: Jones
+    given: Michael B.
+  issued:
+  - year: '2003'
+  title: 'Virtual appliances in the collective: A road to hassle-free computing'
+  title-short: Virtual appliances in the collective
+  container-title: HotOS
+  publisher: USENIX
+  page: '55-60'
+  URL: https://www.usenix.org/conference/hotos-ix/virtual-appliances-collective-road-hassle-free-computing
+  ISBN: 1-931971-17-X
+
+- id: conf/hotos/CastroRL01
+  type: paper-conference
+  author:
+  - family: Castro
+    given: Miguel
+  - family: Rodrigues
+    given: Rodrigo
+  - family: Liskov
+    given: Barbara
+  issued:
+  - year: '2001'
+  title: Using abstraction to improve fault tolerance
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '27-32'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990057
+  DOI: 10.1109/HOTOS.2001.990057
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/ErlingssonLX07
+  type: paper-conference
+  author:
+  - family: Erlingsson
+    given: Úlfar
+  - family: Livshits
+    given: V. Benjamin
+  - family: Xie
+    given: Yinglian
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: End-to-end web application security
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/erlingsson/erlingsson.pdf
+
+- id: conf/hotos/Stein05
+  type: paper-conference
+  author:
+  - family: Stein
+    given: Lex
+  issued:
+  - year: '2005'
+  title: Stupid file systems are better
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos05/final_papers/full_papers/stein/stein.pdf
+
+- id: conf/hotos/MahSKKF93
+  type: paper-conference
+  author:
+  - family: Mah
+    given: Bruce A.
+  - family: Seshan
+    given: Srinivasan
+  - family: Keeton
+    given: Kimberly
+  - family: Katz
+    given: Randy H.
+  - family: Ferrari
+    given: Domenico
+  issued:
+  - year: '1993'
+  title: Providing network video service to mobile clients
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '48-54'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/RoscoeEH07
+  type: paper-conference
+  author:
+  - family: Roscoe
+    given: Timothy
+  - family: Elphinstone
+    given: Kevin
+  - family: Heiser
+    given: Gernot
+  editor:
+  - family: Hunt
+    given: Galen C.
+  issued:
+  - year: '2007'
+  title: Hype and virtue
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos07/tech/full_papers/roscoe/roscoe.pdf
+
+- id: conf/hotos/Blaze93
+  type: paper-conference
+  author:
+  - family: Blaze
+    given: Matt
+  issued:
+  - year: '1993'
+  title: 'Transparent mistrust: OS support for cryptography-in-the-large'
+  title-short: Transparent mistrust
+  container-title: Workshop on workstation operating systems
+  publisher: IEEE Computer Society
+  page: '98-102'
+  ISBN: '0-8186-4000-6'
+
+- id: conf/hotos/HollandJMSSL01
+  type: paper-conference
+  author:
+  - family: Holland
+    given: David A.
+  - family: Josephson
+    given: William
+  - family: Magoutis
+    given: Kostas
+  - family: Seltzer
+    given: Margo I.
+  - family: Stein
+    given: Christopher A.
+  - family: Lim
+    given: Ada T.
+  issued:
+  - year: '2001'
+  title: Research issues in no-futz computing
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '106-110'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.2001.990069
+  DOI: 10.1109/HOTOS.2001.990069
+  ISBN: 0-7695-1040-X
+
+- id: conf/hotos/AlagappanCPAA15
+  type: paper-conference
+  author:
+  - family: Alagappan
+    given: Ramnatthan
+  - family: Chidambaram
+    given: Vijay
+  - family: Pillai
+    given: Thanumalayan Sankaranarayana
+  - family: Arpaci-Dusseau
+    given: Andrea C.
+  - family: Arpaci-Dusseau
+    given: Remzi H.
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: 'Beyond storage aPIs: Provable semantics for storage stacks'
+  title-short: Beyond storage aPIs
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/alagappan
+
+- id: conf/hotos/PorterW09
+  type: paper-conference
+  author:
+  - family: Porter
+    given: Donald E.
+  - family: Witchel
+    given: Emmett
+  editor:
+  - family: Fox
+    given: Armando
+  issued:
+  - year: '2009'
+  title: Operating systems should provide transactions
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: http://www.usenix.org/events/hotos09/tech/full_papers/porter/porter.pdf
+
+- id: conf/hotos/ChiuehVP99
+  type: paper-conference
+  author:
+  - family: Chiueh
+    given: Tzi-cker
+  - family: Venkitachalam
+    given: Ganesh
+  - family: Pradhan
+    given: Prashant
+  editor:
+  - family: Druschel
+    given: Peter
+  issued:
+  - year: '1999'
+  title: Intra-address space protection using segmentation hardware
+  container-title: Workshop on hot topics in operating systems
+  publisher: IEEE Computer Society
+  page: '110-115'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1999.798386
+  DOI: 10.1109/HOTOS.1999.798386
+
+- id: conf/hotos/CarterKK95
+  type: paper-conference
+  author:
+  - family: Carter
+    given: John B.
+  - family: Khandekar
+    given: Dilip
+  - family: Kamb
+    given: Linus
+  issued:
+  - year: '1995'
+  title: 'Distributed shared memory: Where we are and where we should be headed'
+  title-short: Distributed shared memory
+  container-title: HotOS
+  publisher: IEEE Computer Society
+  page: '119-123'
+  URL: http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513466
+  DOI: 10.1109/HOTOS.1995.513466
+  ISBN: '0-8186-7081-9'
+
+- id: conf/hotos/MogulK15
+  type: paper-conference
+  author:
+  - family: Mogul
+    given: Jeffrey C.
+  - family: Kompella
+    given: Ramana Rao
+  editor:
+  - family: Candea
+    given: George
+  issued:
+  - year: '2015'
+  title: Inferring the network latency requirements of cloud tenants
+  container-title: HotOS
+  publisher: USENIX Association
+  URL: https://www.usenix.org/conference/hotos15/workshop-program/presentation/mogul
+...
